@@ -1,4 +1,6 @@
 import { router } from "expo-router";
+
+import { lessonHref } from "@/features/curriculum/routes";
 import { Pressable, StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Icon, type BadgeTone } from "@/components/common";
@@ -61,7 +63,7 @@ export function LessonRow({ lesson, available, progress, mastery, prerequisiteTi
   return (
     <Pressable
       style={({ pressed }) => [rowStyle, pressed && styles.pressed]}
-      onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: lesson.id } })}
+      onPress={() => router.push(lessonHref(lesson.id))}
       accessibilityRole="button"
       accessibilityLabel={`${lesson.title}. ${lessonStatusLabels[status]}`}
     >

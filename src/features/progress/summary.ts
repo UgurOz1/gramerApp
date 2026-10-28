@@ -1,13 +1,17 @@
-import { computeTopicMastery } from "@/domain/scoring/mastery";
-import type { LessonContent, LessonSummary, TopicMastery, UserState } from "@/domain/models";
+import { computeComparisonMastery, computeTopicMastery } from "@/domain/scoring/mastery";
+import type { Comparison, LessonContent, LessonSummary, TopicMastery, UserState } from "@/domain/models";
 import { isLessonCompleted } from "@/domain/progress/lessonStatus";
 
 /** Yüklenmiş (içeriği hazır) her ders için ustalığı cevap geçmişinden hesaplar. */
 export function computeAllMastery(
   state: Pick<UserState, "attempts" | "examResults">,
   lessons: Iterable<LessonContent>,
+  comparisons: Iterable<Comparison> = [],
 ): Record<string, TopicMastery> {
   const out: Record<string, TopicMastery> = {};
+  for (const cmp of comparisons) {
+    out[cmp.id] = computeComparisonMastery({ comparisonId: cmp.id, quiz: cmp.quiz, attempts: state.attempts });
+  }
   for (const lesson of lessons) {
     out[lesson.id] = computeTopicMastery({
       lessonId: lesson.id,

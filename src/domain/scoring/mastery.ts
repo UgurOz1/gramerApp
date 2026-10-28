@@ -91,3 +91,30 @@ export function computeTopicMastery(input: Input): TopicMastery {
     components: { practice: pct(practice), exam: pct(exam), variety: pct(variety) },
   };
 }
+
+/**
+ * Karşılaştırma ustalığı: konu sınavı olmadığı için yalnızca mini testteki başarıdır
+ * (her sorunun son cevabına göre doğruluk). Yeterli soru cevaplanmadan band verilmez.
+ */
+export function computeComparisonMastery(input: { comparisonId: string; quiz: Question[]; attempts: AnswerAttempt[] }): TopicMastery {
+  const latest = latestAttemptByQuestion(input.attempts, input.comparisonId);
+  const quizIds = new Set(input.quiz.map((q) => q.id));
+  let answered = 0;
+  let correct = 0;
+  for (const [qid, a] of latest) {
+    if (!quizIds.has(qid)) continue;
+    answered++;
+    if (a.isCorrect) correct++;
+  }
+  const rate = answered ? correct / answered : 0;
+  const score = pct(rate);
+  const minAnswered = Math.min(MIN_ANSWERED_FOR_MASTERY, input.quiz.length);
+  return {
+    lessonId: input.comparisonId,
+    score,
+    band: answered < minAnswered ? "not_enough_data" : bandForScore(score),
+    answeredCount: answered,
+    examTaken: false,
+    components: { practice: score, exam: 0, variety: score },
+  };
+}

@@ -1,4 +1,6 @@
 import { router } from "expo-router";
+
+import { lessonHref } from "@/features/curriculum/routes";
 import { useState } from "react";
 import { StyleSheet, View } from "react-native";
 
@@ -77,7 +79,7 @@ export function MistakeCard({ item, onRetry, onDismiss }: Props) {
       <View style={styles.actions}>
         {lesson ? (
           <View style={styles.action}>
-            <Button title="Dersi aç" variant="ghost" onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: record.lessonId } })} />
+            <Button title="Dersi aç" variant="ghost" onPress={() => router.push(lessonHref(record.lessonId))} />
           </View>
         ) : null}
         <View style={styles.action}><Button title="Listeden kaldır" variant="ghost" onPress={onDismiss} accessibilityHint="Geçmiş cevaplar ve sınav sonuçları silinmez" /></View>

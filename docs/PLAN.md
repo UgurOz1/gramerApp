@@ -159,6 +159,9 @@ Toplam ders sayısı ve ön koşullar `assets/data/curriculum.json` içindedir.
    konu sonu sınavı, ilerleme kaydı. Uçtan uca doğrulama. ✅
 4. **Öğrenme motoru** — puanlama, ustalık, yanlışlar, tekrar listesi, karışık test. ✅
 5. **İçerik** — kalan 7 örnek ders, karşılaştırmalar, sonra A1→B2 genişletme.
+   *Devam ediyor:* A1 Present Simple, A1 Present Continuous, A2 Past Simple, üç karşılaştırma
+   (Present Simple vs Continuous, Present Perfect vs Past Simple, First vs Second Conditional) ve
+   karşılaştırma ekranı hazır. **Kalan örnek ders:** B2 Passive Voice ileri kullanım.
 6. **İstatistikler ve iyileştirme** — istatistik ekranı, erişilebilirlik, küçük ekran.
 7. **Yayına hazırlık** — EAS derlemeleri, ikon, gizlilik metni.
 

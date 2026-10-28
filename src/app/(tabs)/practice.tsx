@@ -27,6 +27,11 @@ export default function PracticeHubScreen() {
         </AppText>
       </Card>
 
+      <Card onPress={() => router.push("/comparisons")} accessibilityLabel="Karşılaştırmalı gramer">
+        <AppText variant="subheading">Karşılaştırmalı gramer</AppText>
+        <AppText color="textSecondary">Benzer yapıları yan yana öğren: örneğin Present Simple ve Present Continuous.</AppText>
+      </Card>
+
       <Card onPress={() => router.push("/mixed")} accessibilityLabel="Karışık test">
         <AppText variant="subheading">Karışık test</AppText>
         <AppText color="textSecondary">Birden fazla konudan, seçtiğin soru türleriyle bir test oluştur.</AppText>

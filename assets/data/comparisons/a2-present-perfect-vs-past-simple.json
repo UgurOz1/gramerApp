@@ -1,0 +1,1504 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-present-perfect-vs-past-simple",
+  "levelId": "a2",
+  "title": "Present Perfect vs Past Simple",
+  "objectives": [
+    "Zamanı belli bitmiş eylemler (Past Simple) ile şimdiyle bağlantılı eylemleri (Present Perfect) ayırt etmek",
+    "Yesterday, last year gibi belirli zaman ifadelerinin Present Perfect ile kullanılmadığını bilmek",
+    "Ever, never, just, already, yet, for ve since ifadelerini doğru yerde kullanmak",
+    "“When” ile sorulan soruların neden Past Simple ile kurulduğunu anlamak",
+    "Hâlâ süren (for / since) ve artık bitmiş durumları ayırt etmek"
+  ],
+  "intro": [
+    "Present Perfect, Türkçede tek bir zamana karşılık gelmez. Bazen -di’li geçmişle (Anahtarlarımı kaybettim), bazen -yor ekiyle (Beş yıldır burada yaşıyorum) söylenir. Bu yüzden Türkçe cümleye bakarak karar veremezsin; eylemin anlamına bakmalısın.",
+    "Kısaca fark şudur: Past Simple geçmişte kalmış, zamanı belli bir olayı anlatır. Present Perfect ise geçmişi şimdiyle bağlar: deneyim, şimdiki sonuç ya da hâlâ süren bir durum.",
+    "Present Perfect’i kurmak için have / has ve fiilin üçüncü biçimi (V3) gerekir. Düzenli fiillerde V3, Past Simple ile aynıdır (worked, visited); düzensiz fiillerde farklıdır: see → saw → seen, go → went → gone / been, eat → ate → eaten, write → wrote → written, do → did → done, have → had → had."
+  ],
+  "lessonIds": [
+    "a2-present-perfect",
+    "a2-past-simple"
+  ],
+  "structures": [
+    {
+      "name": "Past Simple",
+      "meaning": "Geçmişte bitmiş, zamanı belli (ya da bağlamdan belli) eylem. Bakış açısı geçmiştedir; şimdiyle bağ kurulmaz.",
+      "usage": [
+        "Zamanı belli bitmiş eylemler (I saw him yesterday.)",
+        "Ardışık geçmiş olaylar (He woke up, had breakfast and left.)",
+        "Bitmiş bir dönemde geçen durumlar (She lived there from 2010 to 2015.)",
+        "“Ne zaman?” sorusu (When did you buy it?)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + fiil (V2)",
+          "example": "She visited Paris in 2019."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + didn’t + yalın fiil",
+          "example": "She didn’t visit Paris."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + yalın fiil …?",
+          "example": "Did she visit Paris?"
+        }
+      ],
+      "signals": [
+        "yesterday",
+        "last night / week / year",
+        "in 2019",
+        "two days ago",
+        "when I was a child",
+        "at six o’clock",
+        "then"
+      ]
+    },
+    {
+      "name": "Present Perfect",
+      "meaning": "Geçmişte olmuş ama şimdiyle bağlantılı eylem. Zaman belirtilmez ya da zaman dilimi hâlâ sürmektedir; önemli olan deneyim, sonuç ya da süredir.",
+      "usage": [
+        "Yaşam deneyimleri (I have been to Paris.)",
+        "Şimdiyi etkileyen sonuçlar (I have lost my keys.)",
+        "Henüz bitmemiş zaman dilimi (this week, today, this year)",
+        "Hâlâ süren durumlar: for ve since ile (I have lived here for five years.)",
+        "Yeni haberler (She has just arrived.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + have / has + V3",
+          "example": "She has visited Paris."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + haven’t / hasn’t + V3",
+          "example": "She hasn’t visited Paris."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + V3 …?",
+          "example": "Has she visited Paris?"
+        }
+      ],
+      "signals": [
+        "ever",
+        "never",
+        "just",
+        "already",
+        "yet",
+        "so far",
+        "recently",
+        "for",
+        "since",
+        "this week",
+        "today"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-01",
+        "en": "I saw that film yesterday.",
+        "tr": "O filmi dün izledim.",
+        "highlight": "saw"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-02",
+        "en": "I have seen that film.",
+        "tr": "O filmi daha önce izledim (ne zaman olduğu önemli değil).",
+        "highlight": "have seen"
+      },
+      "note": "Zamanı belli bir olay ile zamanı önemli olmayan deneyim."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-03",
+        "en": "She lost her keys last week.",
+        "tr": "Geçen hafta anahtarlarını kaybetti.",
+        "highlight": "lost"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-04",
+        "en": "She has lost her keys.",
+        "tr": "Anahtarlarını kaybetti (şimdi anahtarı yok).",
+        "highlight": "has lost"
+      },
+      "note": "Geçen haftaki olay ile şimdi de geçerli olan sonuç."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-05",
+        "en": "I lived in Ankara for five years.",
+        "tr": "Beş yıl Ankara’da yaşadım. (Artık orada yaşamıyorum.)",
+        "highlight": "lived"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-06",
+        "en": "I have lived in Ankara for five years.",
+        "tr": "Beş yıldır Ankara’da yaşıyorum.",
+        "highlight": "have lived"
+      },
+      "note": "Artık yaşamıyorum ile hâlâ yaşıyorum."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-07",
+        "en": "He worked here from 2010 to 2015.",
+        "tr": "2010’dan 2015’e kadar burada çalıştı.",
+        "highlight": "worked"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-08",
+        "en": "He has worked here since 2015.",
+        "tr": "2015’ten beri burada çalışıyor.",
+        "highlight": "has worked"
+      },
+      "note": "Bitmiş dönem ile hâlâ süren durum."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-09",
+        "en": "We went to Italy last summer.",
+        "tr": "Geçen yaz İtalya’ya gittik.",
+        "highlight": "went"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-10",
+        "en": "We have been to Italy.",
+        "tr": "İtalya’ya daha önce gittik (en az bir kez bulunduk).",
+        "highlight": "have been"
+      },
+      "note": "Belirli bir yaz ile hayat deneyimi."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-11",
+        "en": "I didn't see Tom yesterday.",
+        "tr": "Dün Tom’u görmedim.",
+        "highlight": "didn't see"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-12",
+        "en": "I haven't seen Tom today.",
+        "tr": "Bugün (şimdiye kadar) Tom’u görmedim.",
+        "highlight": "haven't seen"
+      },
+      "note": "Bitmiş bir gün ile henüz bitmemiş bir gün."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-13",
+        "en": "She arrived at six.",
+        "tr": "Altıda geldi.",
+        "highlight": "arrived"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-14",
+        "en": "She has just arrived.",
+        "tr": "Az önce geldi.",
+        "highlight": "has just arrived"
+      },
+      "note": "Saati belli olay ile şimdiyi etkileyen yeni haber."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-15",
+        "en": "I ate sushi last night.",
+        "tr": "Dün gece suşi yedim.",
+        "highlight": "ate"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-16",
+        "en": "I have never eaten sushi.",
+        "tr": "Hiç suşi yemedim (hayatımda).",
+        "highlight": "have never eaten"
+      },
+      "note": "Zamanı belli ile hayat boyu deneyim."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-17",
+        "en": "Did you finish your homework?",
+        "tr": "Ödevini bitirdin mi?",
+        "highlight": "Did"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-18",
+        "en": "Have you finished your homework yet?",
+        "tr": "Ödevini (henüz) bitirdin mi?",
+        "highlight": "Have"
+      },
+      "note": "Olayı sormak ile şimdiki durumu sormak."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-19",
+        "en": "When did you move here?",
+        "tr": "Buraya ne zaman taşındın?",
+        "highlight": "did"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-20",
+        "en": "How long have you lived here?",
+        "tr": "Ne zamandır burada yaşıyorsun?",
+        "highlight": "have"
+      },
+      "note": "Ne zaman sorusu Past Simple ister; süre sorusu Present Perfect ister."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-21",
+        "en": "They broke the window yesterday.",
+        "tr": "Dün camı kırdılar.",
+        "highlight": "broke"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-22",
+        "en": "They have broken the window.",
+        "tr": "Camı kırdılar (cam şu an kırık).",
+        "highlight": "have broken"
+      },
+      "note": "Olayın zamanı ile pencerenin şimdiki durumu."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-23",
+        "en": "I visited London in 2019.",
+        "tr": "2019’da Londra’yı ziyaret ettim.",
+        "highlight": "visited"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-24",
+        "en": "I have visited London twice.",
+        "tr": "Londra’yı iki kez ziyaret ettim.",
+        "highlight": "have visited"
+      },
+      "note": "Belirli bir yıl ile toplam deneyim sayısı."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-25",
+        "en": "He wrote three emails this morning.",
+        "tr": "Bu sabah üç e-posta yazdı. (Sabah bitti.)",
+        "highlight": "wrote"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-26",
+        "en": "He has written three emails this morning.",
+        "tr": "Bu sabah üç e-posta yazdı. (Sabah hâlâ sürüyor.)",
+        "highlight": "has written"
+      },
+      "note": "Sabah bitmişse Past Simple; sabah hâlâ sürüyorsa Present Perfect."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Bitmiş zaman mı, şimdiyle bağlantı mı?",
+      "body": "Past Simple’da eylem geçmişte kapanmıştır ve “ne zaman” önemlidir ya da bellidir. Present Perfect’te zaman önemli değildir; önemli olan şimdiki durum, sonuç ya da deneyimdir."
+    },
+    {
+      "heading": "Hâlâ sürüyor mu?",
+      "body": "I lived in Ankara for five years: artık orada yaşamıyorsun. I have lived in Ankara for five years: hâlâ orada yaşıyorsun. Türkçede ikincisi “beş yıldır yaşıyorum” der."
+    },
+    {
+      "heading": "Zaman ifadesi karar verdirir",
+      "body": "Yesterday, last week, in 2019, two days ago gibi belirli zamanlar Past Simple ister. Ever, never, just, already, yet, so far, for, since gibi ifadeler Present Perfect’e işaret eder."
+    },
+    {
+      "heading": "“When?” sorusu",
+      "body": "“Ne zaman?” belirli bir zaman sorar; bu yüzden When did you …? Past Simple ile kurulur. When have you …? kullanılmaz."
+    },
+    {
+      "heading": "Bitmemiş zaman dilimi",
+      "body": "Today, this week, this year gibi zaman dilimleri henüz bitmemişse Present Perfect kullanılabilir (I haven’t seen him today). Dilim bittiğinde Past Simple kullanılır (I didn’t see him yesterday)."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Cümlede belirli bir zaman var mı (yesterday, last week, in 2019, two days ago)?",
+      "answer": "Evet → Past Simple. Present Perfect belirli zamanla kullanılmaz."
+    },
+    {
+      "question": "Cümlede ever, never, just, already, yet, so far var mı?",
+      "answer": "Evet → büyük olasılıkla Present Perfect."
+    },
+    {
+      "question": "Durum hâlâ sürüyor mu ve for / since ile süre veriyor musun?",
+      "answer": "Evet → Present Perfect (I have lived here for five years / since 2015)."
+    },
+    {
+      "question": "Süreyi bitmiş bir dönem için mi veriyorsun?",
+      "answer": "Evet → Past Simple (I lived there for five years; artık orada yaşamıyorum)."
+    },
+    {
+      "question": "Önemli olan, olayın şu an görünen sonucu mu?",
+      "answer": "Evet → Present Perfect (I have lost my keys; bu yüzden şimdi içeri giremiyorum)."
+    },
+    {
+      "question": "“Ne zaman?” diye mi soruyorsun?",
+      "answer": "Evet → Past Simple (When did you arrive?)."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "I have seen him yesterday.",
+      "right": "I saw him yesterday.",
+      "explanation": "Yesterday belirli bir zamandır; Present Perfect ile kullanılmaz."
+    },
+    {
+      "wrong": "When have you arrived?",
+      "right": "When did you arrive?",
+      "explanation": "“When?” belirli zaman sorar; Past Simple gerekir."
+    },
+    {
+      "wrong": "I lived here since 2015.",
+      "right": "I have lived here since 2015.",
+      "explanation": "Since ile hâlâ süren durum anlatılır; Present Perfect gerekir."
+    },
+    {
+      "wrong": "Did you ever been to Paris?",
+      "right": "Have you ever been to Paris?",
+      "explanation": "Ever ile deneyim sorulduğunda Present Perfect kullanılır; ayrıca did ile V3 (been) birlikte kullanılmaz."
+    },
+    {
+      "wrong": "I have finished my homework last night.",
+      "right": "I finished my homework last night.",
+      "explanation": "Last night belirli bir zamandır; Past Simple gerekir."
+    },
+    {
+      "wrong": "She didn’t call me since Monday.",
+      "right": "She hasn’t called me since Monday.",
+      "explanation": "Since ile hâlâ süren durum anlatılır; Present Perfect gerekir."
+    },
+    {
+      "wrong": "I have lived there for five years. (Artık orada yaşamıyorum.)",
+      "right": "I lived there for five years.",
+      "explanation": "Artık sona ermiş süre için Past Simple kullanılır. Present Perfect hâlâ sürdüğünü ima eder."
+    },
+    {
+      "wrong": "I have went to Spain.",
+      "right": "I have been to Spain.  /  I went to Spain.",
+      "explanation": "Present Perfect’te V3 gerekir (gone / been); went Past Simple biçimidir."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-pp-vs-ps-01",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ that film yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have seen"
+        },
+        {
+          "id": "b",
+          "text": "saw"
+        },
+        {
+          "id": "c",
+          "text": "see"
+        },
+        {
+          "id": "d",
+          "text": "have saw"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Yesterday” zamanı belli, bitmiş bir zamandır; Past Simple kullanılır: I saw that film yesterday.",
+      "optionExplanations": {
+        "a": "Belirli bir geçmiş zamanla (yesterday) Present Perfect kullanılmaz.",
+        "c": "See, şimdiki zaman / yalın fiildir.",
+        "d": "Have saw hatalıdır: Present Perfect’te V3 (seen) gerekir; ayrıca bu cümlede Past Simple lazım."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-02",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ to Paris three times in her life.",
+      "options": [
+        {
+          "id": "a",
+          "text": "went"
+        },
+        {
+          "id": "b",
+          "text": "has been"
+        },
+        {
+          "id": "c",
+          "text": "goes"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“In her life” yaşam deneyimini gösterir; Present Perfect kullanılır: She has been to Paris three times.",
+      "optionExplanations": {
+        "a": "Went, belirli bir geçmiş zamanı anlatır; hayat boyu deneyim için Present Perfect gerekir.",
+        "c": "Goes, Present Simple’dır.",
+        "d": "Was ile bu anlam kurulamaz."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "experience"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-03",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ (see) that film last week.",
+      "answers": [
+        "saw"
+      ],
+      "explanation": "“Last week” bitmiş bir zamandır; Past Simple gerekir: saw.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have seen",
+          "explanation": "Belirli bir geçmiş zamanla (last week) Present Perfect kullanılmaz."
+        },
+        {
+          "answer": "seen",
+          "explanation": "Seen tek başına Past Simple’da kullanılmaz; saw gerekir."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-04",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ (live) in Izmir for ten years.",
+      "hint": "Hâlâ orada yaşıyor.",
+      "answers": [
+        "has lived"
+      ],
+      "explanation": "Hâlâ orada yaşadığı için Present Perfect kullanılır: She has lived in Izmir for ten years.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "lived",
+          "explanation": "Past Simple, artık yaşamadığı anlamına gelirdi. Hâlâ yaşıyorsa Present Perfect gerekir."
+        },
+        {
+          "answer": "have lived",
+          "explanation": "She ile have değil has kullanılır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-05",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün onu gördüm.",
+      "answer": [
+        "I",
+        "saw",
+        "him",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "seen"
+      ],
+      "explanation": "“Dün” bitmiş bir zaman olduğu için Past Simple kullanılır: I saw him yesterday.",
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-06",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have seen him yesterday.",
+      "errorSpan": "have seen",
+      "answers": [
+        "I saw him yesterday.",
+        "I have seen him."
+      ],
+      "explanation": "“Yesterday” belirli bir geçmiş zamandır; Present Perfect ile kullanılmaz. Ya Past Simple kullanırsın (I saw him yesterday) ya da zaman ifadesini kaldırırsın (I have seen him).",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have saw him yesterday.",
+          "explanation": "Hem Present Perfect hem V3 hatalı; belirli zamanla Past Simple gerekir."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-07",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün onu gördüm.",
+      "hint": "görmek: see",
+      "answers": [
+        "I saw him yesterday.",
+        "Yesterday I saw him."
+      ],
+      "targetStructure": "Past Simple: zamanı belli bitmiş eylem",
+      "explanation": "“Dün” belirli bir zamandır; Past Simple kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have seen him yesterday.",
+          "explanation": "Belirli zamanla Present Perfect kullanılmaz."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-08",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ here since 2015.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "live"
+        },
+        {
+          "id": "c",
+          "text": "have lived"
+        },
+        {
+          "id": "d",
+          "text": "am living"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "“Since 2015” bir başlangıç noktasından bugüne süren durumu gösterir; Present Perfect gerekir: I have lived here since 2015.",
+      "optionExplanations": {
+        "a": "Lived, artık yaşamadığını anlatırdı; since ile hâlâ sürüyor.",
+        "b": "Live, Present Simple’dır; since ile Present Perfect gerekir.",
+        "d": "Am living, geçici durumu anlatır; since ile Present Perfect kullanılır."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-09",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We ___ to Italy last summer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been"
+        },
+        {
+          "id": "b",
+          "text": "went"
+        },
+        {
+          "id": "c",
+          "text": "have gone"
+        },
+        {
+          "id": "d",
+          "text": "go"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Last summer” belirli, bitmiş bir zamandır; Past Simple gerekir: We went to Italy last summer.",
+      "optionExplanations": {
+        "a": "Belirli zamanla (last summer) Present Perfect kullanılmaz.",
+        "c": "Belirli zamanla Present Perfect kullanılmaz.",
+        "d": "Go, Present Simple’dır."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-10",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ (work) here since 2015.",
+      "answers": [
+        "has worked"
+      ],
+      "explanation": "Since ile hâlâ süren durum anlatılır; Present Perfect gerekir: He has worked here since 2015.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "worked",
+          "explanation": "Since ile Present Perfect gerekir; worked artık çalışmadığı anlamına gelirdi."
+        },
+        {
+          "answer": "have worked",
+          "explanation": "He ile have değil has kullanılır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-11",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ him yesterday.",
+      "hint": "Cümleyi olumsuz yap: Dün onu görmedik.",
+      "answers": [
+        "didn't see",
+        "did not see"
+      ],
+      "explanation": "“Yesterday” bitmiş bir zamandır; olumsuz Past Simple: We didn’t see him yesterday.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "haven't seen",
+          "explanation": "Belirli zamanla (yesterday) Present Perfect kullanılmaz."
+        },
+        {
+          "answer": "didn't saw",
+          "explanation": "Didn’t’tan sonra fiil yalın kalır: see."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-12",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you ever been to Spain?",
+      "answers": [
+        "Have"
+      ],
+      "explanation": "“Ever” yaşam deneyimini sorar; Present Perfect sorusu have ile başlar: Have you ever been to Spain?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did",
+          "explanation": "“Ever” ile deneyim soruluyorsa Present Perfect gerekir: Have you ever been?"
+        },
+        {
+          "answer": "Has",
+          "explanation": "You ile has değil have kullanılır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "experience",
+        "question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-13",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When have you arrived?",
+      "errorSpan": "have you arrived",
+      "answers": [
+        "When did you arrive?"
+      ],
+      "explanation": "“When?” sorusu belirli bir zamanı sorar; Present Perfect ile kullanılmaz. Past Simple gerekir.",
+      "tags": [
+        "pp-vs-ps",
+        "question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-14",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi soru doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "When have you arrived?"
+        },
+        {
+          "id": "b",
+          "text": "When did you arrive?"
+        },
+        {
+          "id": "c",
+          "text": "When you did arrive?"
+        },
+        {
+          "id": "d",
+          "text": "When do you arrived?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“When” ile zamanı soran sorular Past Simple ile kurulur: When did you arrive?",
+      "optionExplanations": {
+        "a": "“When” ile Present Perfect kullanılmaz.",
+        "c": "Did özneden önce gelmelidir.",
+        "d": "Do ile geçmiş fiil (arrived) birlikte kullanılmaz."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-15",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I lived here since 2015.",
+      "errorSpan": "lived",
+      "answers": [
+        "I have lived here since 2015.",
+        "I've lived here since 2015."
+      ],
+      "explanation": "Since ile hâlâ süren bir durum anlatılır; Present Perfect gerekir.",
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-16",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "He ___ his keys, so now he can't open the door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has lost"
+        },
+        {
+          "id": "b",
+          "text": "loses"
+        },
+        {
+          "id": "c",
+          "text": "was losing"
+        },
+        {
+          "id": "d",
+          "text": "have lose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şu an kapıyı açamıyor; yani olayın sonucu şimdi de geçerli. Bu durumda Present Perfect kullanılır: He has lost his keys.",
+      "optionExplanations": {
+        "b": "Loses, Present Simple’dır ve alışkanlığı anlatır; tek seferlik bir olay için uygun değildir.",
+        "c": "Was losing, geçmişte süren bir eylemi anlatır; bitmiş olay ve şimdiki sonuç için uygun değildir.",
+        "d": "Have lose hatalıdır: he ile has gerekir ve V3 kullanılır (lost)."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "result"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-17",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I ___ Tom today.",
+      "hint": "Bugün henüz bitmedi.",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't see"
+        },
+        {
+          "id": "b",
+          "text": "haven't seen"
+        },
+        {
+          "id": "c",
+          "text": "don't see"
+        },
+        {
+          "id": "d",
+          "text": "wasn't seeing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Today” henüz bitmemiş bir zaman dilimidir; Present Perfect kullanılır: I haven’t seen Tom today.",
+      "optionExplanations": {
+        "a": "Didn’t see, bitmiş bir zaman dilimini anlatır; bugün henüz bitmediği için Present Perfect gerekir.",
+        "c": "Don’t see, Present Simple’dır.",
+        "d": "Wasn’t seeing, geçmişte süren eylemi anlatır."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "unfinished-time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-18",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have finished my homework last night."
+        },
+        {
+          "id": "b",
+          "text": "I finished my homework last night."
+        },
+        {
+          "id": "c",
+          "text": "I have finish my homework last night."
+        },
+        {
+          "id": "d",
+          "text": "I finishing my homework last night."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Last night” belirli, bitmiş bir zamandır; Past Simple gerekir: I finished my homework last night.",
+      "optionExplanations": {
+        "a": "Belirli zamanla Present Perfect kullanılmaz.",
+        "c": "Have finish hatalıdır; ayrıca Past Simple gerekir.",
+        "d": "To be eksik; ayrıca Past Simple gerekir."
+      },
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-19",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu hiç görmedim.",
+      "answer": [
+        "I",
+        "have",
+        "never",
+        "seen",
+        "him"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "saw",
+        "didn't"
+      ],
+      "explanation": "“Hiç görmedim” yaşam deneyimini anlatır; Present Perfect + never kullanılır: I have never seen him.",
+      "tags": [
+        "pp-vs-ps",
+        "experience"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-20",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have you ever see this film?",
+      "errorSpan": "see",
+      "answers": [
+        "Have you ever seen this film?"
+      ],
+      "explanation": "Present Perfect’te fiilin üçüncü biçimi (V3) kullanılır: see → seen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Have you ever saw this film?",
+          "explanation": "Saw, Past Simple biçimidir; Present Perfect’te V3 (seen) gerekir."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "experience",
+        "question"
+      ],
+      "errorTags": [
+        "verb_form",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-21",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beş yıldır burada yaşıyorum.",
+      "hint": "beş yıldır: for five years, yaşamak: live",
+      "answers": [
+        "I have lived here for five years.",
+        "I've lived here for five years."
+      ],
+      "targetStructure": "Present Perfect: hâlâ süren durum + for",
+      "explanation": "“Beş yıldır” hâlâ süren bir durumu gösterir; Present Perfect ve for kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I lived here for five years.",
+          "explanation": "Past Simple, artık yaşamadığın anlamına gelirdi."
+        },
+        {
+          "answer": "I live here for five years.",
+          "explanation": "For ile süre belirtirken Present Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-22",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I have ___ finished my homework.",
+      "hint": "Az önce bitirdim: ... sözcüğünü yaz",
+      "answers": [
+        "just"
+      ],
+      "explanation": "“Az önce” anlamı için just kullanılır: I have just finished my homework.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "already",
+          "explanation": "Already “zaten, çoktan” anlamındadır; “az önce” için just kullanılır."
+        },
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz ve “henüz” anlamındadır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "just"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-23",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "When ___ you buy this car?",
+      "answers": [
+        "did"
+      ],
+      "explanation": "“When” ile zamanı soran sorular Past Simple ile kurulur: When did you buy this car?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "“When” ile Present Perfect kullanılmaz."
+        },
+        {
+          "answer": "do",
+          "explanation": "Geçmiş zamanı sorarken do değil did gerekir."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-24",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She hasn't called me ___ Monday.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Pazartesi bir başlangıç noktasıdır; başlangıç noktası için since kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre bildirir (for three days); başlangıç noktası için since gerekir."
+        },
+        {
+          "answer": "ago",
+          "explanation": "Ago, Past Simple ile kullanılır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-25",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I have lived here ___ five years.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Beş yıl bir süredir; süre için for kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since başlangıç noktası bildirir (since 2015); süre için for gerekir."
+        },
+        {
+          "answer": "ago",
+          "explanation": "Ago, Past Simple ile kullanılır."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-26",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Have you finished? Yes, I ___.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "Soru have ile kurulduğu için kısa cevap da have ile verilir: Yes, I have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Soru Present Perfect ile kurulmuş; cevapta have kullanılır."
+        },
+        {
+          "answer": "finished",
+          "explanation": "Kısa cevapta ana fiil tekrarlanmaz."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-27",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How long ___ you lived here?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "“How long” ile süre sorulur ve durum hâlâ sürüyorsa Present Perfect kullanılır: How long have you lived here?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Did ile lived yan yana gelmez; ayrıca hâlâ süren durum için have gerekir."
+        },
+        {
+          "answer": "do",
+          "explanation": "Do ile lived yan yana gelmez."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "duration",
+        "question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-28",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne zamandır burada yaşıyorsun?",
+      "answer": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "lived",
+        "here"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "did",
+        "live"
+      ],
+      "explanation": "“Ne zamandır” hâlâ süren bir durumu sorar; Present Perfect kullanılır: How long have you lived here?",
+      "tags": [
+        "pp-vs-ps",
+        "duration",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-29",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Henüz ödevimi bitirmedim.",
+      "answer": [
+        "I",
+        "haven't",
+        "finished",
+        "my",
+        "homework",
+        "yet"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "didn't",
+        "finish"
+      ],
+      "explanation": "Olumsuz cümlede yet “henüz” anlamındadır ve cümlenin sonuna gelir: I haven’t finished my homework yet.",
+      "tags": [
+        "pp-vs-ps",
+        "yet"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-30",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geçen yıl Paris’e gitti. (O kadın)",
+      "answer": [
+        "She",
+        "went",
+        "to",
+        "Paris",
+        "last",
+        "year"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "gone"
+      ],
+      "explanation": "“Geçen yıl” belirli bir zamandır; Past Simple kullanılır: She went to Paris last year.",
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-31",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have finished my homework last night.",
+      "errorSpan": "have finished",
+      "answers": [
+        "I finished my homework last night.",
+        "I have finished my homework."
+      ],
+      "explanation": "“Last night” belirli, bitmiş bir zamandır; Past Simple gerekir. Zaman ifadesini kaldırırsan Present Perfect kalabilir.",
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-32",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She didn't call me since Monday.",
+      "errorSpan": "didn't call",
+      "answers": [
+        "She hasn't called me since Monday.",
+        "She has not called me since Monday."
+      ],
+      "explanation": "Since ile hâlâ süren bir durum anlatılır; olumsuz Present Perfect gerekir: hasn’t called.",
+      "tags": [
+        "pp-vs-ps",
+        "duration",
+        "negative"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-33",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç Paris’e gittin mi?",
+      "hint": "gitmek (bulunmak): be. “Hiç” için ever kullan.",
+      "answers": [
+        "Have you ever been to Paris?"
+      ],
+      "targetStructure": "Present Perfect soru: Have you ever been …?",
+      "explanation": "Yaşam deneyimi sorusu Present Perfect ile kurulur. Bir yere gitmiş olmak için be fiilinin V3’ü (been) kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you ever go to Paris?",
+          "explanation": "Deneyim sorusu için Present Perfect kullanılır: Have you ever been to Paris?"
+        },
+        {
+          "answer": "Have you ever went to Paris?",
+          "explanation": "Present Perfect’te V3 gerekir: been (went değil)."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "experience",
+        "question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-34",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geçen yıl Paris’e gittik.",
+      "hint": "gitmek: go",
+      "answers": [
+        "We went to Paris last year.",
+        "Last year we went to Paris."
+      ],
+      "targetStructure": "Past Simple: belirli zaman",
+      "explanation": "“Geçen yıl” belirli bir zamandır; Past Simple kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have been to Paris last year.",
+          "explanation": "Belirli zamanla Present Perfect kullanılmaz."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "past-simple"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-35",
+      "lessonId": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anahtarlarımı kaybettim, bu yüzden içeri giremiyorum.",
+      "hint": "kaybetmek: lose, içeri girmek: get in. Present Perfect kullan.",
+      "answers": [
+        "I have lost my keys, so I can't get in.",
+        "I've lost my keys, so I can't get in.",
+        "I have lost my keys so I can't get in.",
+        "I've lost my keys so I can't get in."
+      ],
+      "targetStructure": "Present Perfect: şimdi de geçerli sonuç",
+      "explanation": "Şu an içeri giremediğin için olayın sonucu şimdiye bağlıdır; Present Perfect kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I lost my keys, so I can't get in.",
+          "explanation": "Olayın sonucu şimdi de sürüyorsa Present Perfect daha uygundur."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps",
+        "result"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ]
+}

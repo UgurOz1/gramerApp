@@ -1,0 +1,1528 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-first-vs-second-conditional",
+  "levelId": "b1",
+  "title": "First vs Second Conditional",
+  "objectives": [
+    "Gerçek olasılık (First Conditional) ile hayalî durumu (Second Conditional) ayırt etmek",
+    "If + Present Simple, will + yalın fiil ile If + Past Simple, would + yalın fiil kalıplarını doğru kurmak",
+    "If cümleciğinde will ve would kullanılmadığını hatırlamak",
+    "If I were you kalıbıyla tavsiye vermek",
+    "Konuşan kişinin durumu ne kadar olası gördüğünü cümleden anlamak"
+  ],
+  "intro": [
+    "Her iki yapı da “eğer … olursa, … olur” diyen koşul cümleleridir ve Türkçede -sa / -se ekiyle kurulur. Fark, konuşan kişinin durumu ne kadar olası gördüğündedir.",
+    "First Conditional gerçekten olabilecek bir durumu anlatır (Yarın yağmur yağarsa evde kalacağız). Second Conditional ise gerçekleşmesi pek olası olmayan ya da şu an gerçek olmayan bir durumu anlatır (Çok param olsaydı bir ev alırdım).",
+    "İkinci yapıda Past Simple kullanılması geçmişi değil, gerçek dışılığı gösterir. If I had money, şu an param olmadığı anlamına gelir."
+  ],
+  "lessonIds": [
+    "a2-first-conditional",
+    "b1-second-conditional"
+  ],
+  "structures": [
+    {
+      "name": "First Conditional",
+      "meaning": "Gerçekleşmesi mümkün ve olası bir durum ile onun olası sonucu. Konuşan kişi bu durumu gerçekçi görür.",
+      "usage": [
+        "Gelecekte gerçekleşebilecek olası durumlar (If it rains, we will stay at home.)",
+        "Uyarılar ve tehditler (If you touch it, you will get hurt.)",
+        "Sözler ve teklifler (If you need help, I will help you.)",
+        "Planlar ve kararlar (If I finish early, I will call you.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "If + Present Simple, will + yalın fiil",
+          "example": "If it rains, we will stay at home."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "If + don’t / doesn’t + yalın fiil, won’t + yalın fiil",
+          "example": "If you don’t study, you won’t pass the exam."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Soru sözcüğü + will + özne + yalın fiil + if + Present Simple?",
+          "example": "What will you do if it rains?"
+        }
+      ],
+      "signals": [
+        "if + Present Simple",
+        "will / won’t",
+        "tomorrow",
+        "next week",
+        "this evening",
+        "unless"
+      ]
+    },
+    {
+      "name": "Second Conditional",
+      "meaning": "Gerçekleşmesi pek olası olmayan, hayalî ya da şu anki gerçeğin tersi olan bir durum ile onun sonucu.",
+      "usage": [
+        "Hayal ve varsayımlar (If I won the lottery, I would travel the world.)",
+        "Şu an gerçek olmayan durumlar (If I had a car, I wouldn’t take the bus. = Arabam yok.)",
+        "Tavsiye vermek: If I were you, … (If I were you, I would call him.)",
+        "Pek olası olmayan gelecek durumlar (If I met the president, I would ask him about …)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "If + Past Simple, would + yalın fiil",
+          "example": "If I had a lot of money, I would travel the world."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "If + didn’t + yalın fiil, wouldn’t + yalın fiil",
+          "example": "If I didn’t have to work, I wouldn’t get up early."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Soru sözcüğü + would + özne + yalın fiil + if + Past Simple?",
+          "example": "What would you do if you won the lottery?"
+        }
+      ],
+      "signals": [
+        "if + Past Simple",
+        "would / wouldn’t",
+        "If I were you",
+        "imagine",
+        "suppose"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-first-vs-second-01",
+        "en": "If it rains tomorrow, we will stay at home.",
+        "tr": "Yarın yağmur yağarsa evde kalacağız.",
+        "highlight": "will stay"
+      },
+      "right": {
+        "id": "ex-first-vs-second-02",
+        "en": "If it rained every day, we would stay at home.",
+        "tr": "Her gün yağmur yağsa evde kalırdık.",
+        "highlight": "would stay"
+      },
+      "note": "Yarın gerçekten olabilecek bir durum ile hayalî bir durum."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-03",
+        "en": "If I win the lottery, I will buy a house.",
+        "tr": "Piyangoyu kazanırsam bir ev alacağım.",
+        "highlight": "will buy"
+      },
+      "right": {
+        "id": "ex-first-vs-second-04",
+        "en": "If I won the lottery, I would buy a house.",
+        "tr": "Piyangoyu kazansam bir ev alırdım.",
+        "highlight": "would buy"
+      },
+      "note": "İlkinde kişi kazanmayı mümkün görüyor; ikincisinde pek mümkün görmüyor."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-05",
+        "en": "If you study, you will pass the exam.",
+        "tr": "Çalışırsan sınavı geçeceksin.",
+        "highlight": "will pass"
+      },
+      "right": {
+        "id": "ex-first-vs-second-06",
+        "en": "If you studied harder, you would pass the exam.",
+        "tr": "Daha çok çalışsan sınavı geçerdin.",
+        "highlight": "would pass"
+      },
+      "note": "Gerçek bir öneri ile şu anki durumun tersini hayal etmek."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-07",
+        "en": "If I have time, I will call you.",
+        "tr": "Vaktim olursa seni arayacağım.",
+        "highlight": "will call"
+      },
+      "right": {
+        "id": "ex-first-vs-second-08",
+        "en": "If I had more time, I would learn Spanish.",
+        "tr": "Daha çok vaktim olsa İspanyolca öğrenirdim.",
+        "highlight": "would learn"
+      },
+      "note": "Gerçekçi bir söz ile şu an var olmayan bir durum."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-09",
+        "en": "If I see him, I will tell him.",
+        "tr": "Onu görürsem ona söyleyeceğim.",
+        "highlight": "will tell"
+      },
+      "right": {
+        "id": "ex-first-vs-second-10",
+        "en": "If I saw a ghost, I would run away.",
+        "tr": "Bir hayalet görsem kaçardım.",
+        "highlight": "would run away"
+      },
+      "note": "Gerçekleşmesi olası ile gerçekleşmesi çok düşük olay."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-11",
+        "en": "What will you do if you miss the bus?",
+        "tr": "Otobüsü kaçırırsan ne yapacaksın?",
+        "highlight": "will"
+      },
+      "right": {
+        "id": "ex-first-vs-second-12",
+        "en": "What would you do if you won a million dollars?",
+        "tr": "Bir milyon dolar kazansan ne yapardın?",
+        "highlight": "would"
+      },
+      "note": "Gerçekçi bir durumu sormak ile hayalî bir durumu sormak."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-13",
+        "en": "If I am late, I will call you.",
+        "tr": "Geç kalırsam seni ararım.",
+        "highlight": "will call"
+      },
+      "right": {
+        "id": "ex-first-vs-second-14",
+        "en": "If I were you, I would call her.",
+        "tr": "Yerinde olsam onu ararım.",
+        "highlight": "would call"
+      },
+      "note": "Gerçek bir olasılık ile tavsiye vermek (If I were you)."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-15",
+        "en": "If it is sunny on Sunday, we will go to the beach.",
+        "tr": "Pazar günü hava güneşli olursa plaja gideceğiz.",
+        "highlight": "will go"
+      },
+      "right": {
+        "id": "ex-first-vs-second-16",
+        "en": "If it were sunny now, we would go to the beach.",
+        "tr": "Şimdi hava güneşli olsa plaja giderdik.",
+        "highlight": "would go"
+      },
+      "note": "Gelecekteki olası durum ile şu an gerçek olmayan durum."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-17",
+        "en": "If he asks me, I will help him.",
+        "tr": "Bana sorarsa ona yardım edeceğim.",
+        "highlight": "will help"
+      },
+      "right": {
+        "id": "ex-first-vs-second-18",
+        "en": "If he asked me, I would help him.",
+        "tr": "Bana sorsa ona yardım ederdim.",
+        "highlight": "would help"
+      },
+      "note": "İkincisi, bunun pek olmayacağını ya da hayal olduğunu ima eder."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-19",
+        "en": "If I don't sleep, I will be tired.",
+        "tr": "Uyumazsam yorgun olacağım.",
+        "highlight": "will be"
+      },
+      "right": {
+        "id": "ex-first-vs-second-20",
+        "en": "If I slept more, I wouldn't be tired.",
+        "tr": "Daha çok uyusam yorgun olmazdım.",
+        "highlight": "wouldn't be"
+      },
+      "note": "Bir uyarı ile şu anki durumun nedenini hayal etmek."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-21",
+        "en": "If we leave now, we will arrive on time.",
+        "tr": "Şimdi çıkarsak zamanında varacağız.",
+        "highlight": "will arrive"
+      },
+      "right": {
+        "id": "ex-first-vs-second-22",
+        "en": "If we left now, we would arrive on time.",
+        "tr": "Şimdi çıksak zamanında varırdık.",
+        "highlight": "would arrive"
+      },
+      "note": "İlkinde bu bir plan; ikincisi daha varsayımsal."
+    },
+    {
+      "left": {
+        "id": "ex-first-vs-second-23",
+        "en": "If you don't eat breakfast, you will feel hungry.",
+        "tr": "Kahvaltı etmezsen acıkırsın.",
+        "highlight": "will feel"
+      },
+      "right": {
+        "id": "ex-first-vs-second-24",
+        "en": "If I had a car, I wouldn't take the bus.",
+        "tr": "Arabam olsa otobüse binmezdim.",
+        "highlight": "wouldn't take"
+      },
+      "note": "Gerçek sonuç ile şu an arabası olmayan birinin hayali."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Olası mı, hayalî mi?",
+      "body": "First Conditional’da konuşan kişi durumu gerçekleşebilir görür: If I win the lottery, I will buy a house (Kazanabilirim). Second Conditional’da gerçekleşmesini beklemez: If I won the lottery, I would buy a house (Kazanmam pek olası değil)."
+    },
+    {
+      "heading": "Türkçedeki -sa / -se ekini ayırt etmek",
+      "body": "Kabaca, “gelirse, yağarsa, kazanırsam” gibi -ır / -ar / -er’li koşullar çoğunlukla First Conditional’a, “gelse, yağsa, kazansam” gibi koşullar ise Second Conditional’a karşılık gelir. Bu kesin bir kural değildir; asıl ölçüt anlamdır."
+    },
+    {
+      "heading": "Past Simple geçmiş demek değildir",
+      "body": "Second Conditional’da If I had a car, şu an arabam yok demektir. Past Simple burada geçmişi değil, gerçek dışılığı gösterir."
+    },
+    {
+      "heading": "If I were you",
+      "body": "Tavsiye verirken “Sen olsam …” anlamında If I were you kullanılır. Second Conditional’da to be fiilinin biçimi tüm öznelerle were’dir (If I were, if she were)."
+    },
+    {
+      "heading": "Will ve would if cümleciğinde olmaz",
+      "body": "If’ten hemen sonra will ya da would gelmez. Doğrusu: If it rains (If it will rain ✗), If I had money (If I would have money ✗)."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Durum gelecekte gerçekten olabilir mi?",
+      "answer": "Evet → First Conditional: If + Present Simple, will + yalın fiil."
+    },
+    {
+      "question": "Durum hayalî ya da şu an gerçek değil mi?",
+      "answer": "Evet → Second Conditional: If + Past Simple, would + yalın fiil."
+    },
+    {
+      "question": "Tavsiye veriyor musun (“Sen olsam …”)?",
+      "answer": "Evet → If I were you, I would …"
+    },
+    {
+      "question": "Bir uyarı ya da söz mü veriyorsun?",
+      "answer": "Evet → First Conditional (If you touch it, you will get hurt)."
+    },
+    {
+      "question": "If cümleciğinde will ya da would yazdın mı?",
+      "answer": "Evet → hata. If cümleciği Present Simple (First) ya da Past Simple (Second) olmalıdır."
+    },
+    {
+      "question": "Konuşan kişi bu olayın olacağını düşünüyor mu?",
+      "answer": "Evet → First. Hayır, pek olası görmüyor → Second."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "If I will see him, I will tell him.",
+      "right": "If I see him, I will tell him.",
+      "explanation": "If cümleciğinde will kullanılmaz."
+    },
+    {
+      "wrong": "If I would have money, I would buy a car.",
+      "right": "If I had money, I would buy a car.",
+      "explanation": "If cümleciğinde would kullanılmaz; Past Simple gerekir."
+    },
+    {
+      "wrong": "If it will rain, we will stay home.",
+      "right": "If it rains, we will stay home.",
+      "explanation": "Gelecek anlamı olsa bile if cümleciği Present Simple ile kurulur."
+    },
+    {
+      "wrong": "If I have a million dollars, I would buy an island.",
+      "right": "If I had a million dollars, I would buy an island.",
+      "explanation": "If cümleciği ve sonuç aynı türden olmalıdır: ikisi de gerçekçi (Present + will) ya da ikisi de hayalî (Past + would)."
+    },
+    {
+      "wrong": "If she studied hard, she will pass the exam.",
+      "right": "If she studies hard, she will pass the exam.",
+      "explanation": "Sonuç will ile kuruluyorsa if cümleciği Present Simple olmalıdır."
+    },
+    {
+      "wrong": "What would you do if you will win?",
+      "right": "What would you do if you won?",
+      "explanation": "Would ile kurulan soruda if cümleciği Past Simple’dır."
+    },
+    {
+      "wrong": "If I am you, I would go.",
+      "right": "If I were you, I would go.",
+      "explanation": "Tavsiye için If I were you kalıbı kullanılır."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-first-vs-second-01",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If it rains tomorrow, we ___ at home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stay"
+        },
+        {
+          "id": "b",
+          "text": "will stay"
+        },
+        {
+          "id": "c",
+          "text": "would stay"
+        },
+        {
+          "id": "d",
+          "text": "stayed"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Yarın yağmur yağması gerçekçi bir olasılıktır; First Conditional kullanılır: If + Present Simple, will + yalın fiil.",
+      "optionExplanations": {
+        "a": "Sonuç kısmında will gerekir: will stay.",
+        "c": "Would, Second Conditional (hayalî durum) içindir.",
+        "d": "Stayed, geçmiş biçimdir; sonuç cümlesinde will gerekir."
+      },
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-02",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If I had a lot of money, I ___ a big house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "buy"
+        },
+        {
+          "id": "b",
+          "text": "will buy"
+        },
+        {
+          "id": "c",
+          "text": "would buy"
+        },
+        {
+          "id": "d",
+          "text": "bought"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "If + Past Simple (had) hayalî bir durumu gösterir; sonuç would + yalın fiil ile kurulur: I would buy a big house.",
+      "optionExplanations": {
+        "a": "Yalın fiil tek başına yetmez; would gerekir.",
+        "b": "Will, First Conditional içindir; if cümleciğinde Past Simple varsa would gerekir.",
+        "d": "Bought, geçmiş biçimdir; sonuç would + yalın fiil ile kurulur."
+      },
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-03",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I ___ (have) time, I will call you.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "First Conditional’da if cümleciği Present Simple ile kurulur: If I have time, I will call you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will have",
+          "explanation": "If cümleciğinde will kullanılmaz; Present Simple gerekir."
+        },
+        {
+          "answer": "had",
+          "explanation": "Had, Second Conditional içindir; sonuç will ile kurulduğunda if cümleciği Present Simple’dır."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-04",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If it ___ (rain), we will stay home.",
+      "answers": [
+        "rains"
+      ],
+      "explanation": "If cümleciğinde Present Simple kullanılır; it ile fiile -s eklenir: rains.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will rain",
+          "explanation": "If cümleciğinde will kullanılmaz."
+        },
+        {
+          "answer": "rain",
+          "explanation": "It ile fiile -s eklenir: rains."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-05",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın yağmur yağarsa evde kalacağız.",
+      "answer": [
+        "If",
+        "it",
+        "rains",
+        "tomorrow,",
+        "we",
+        "will",
+        "stay",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "would",
+        "rained"
+      ],
+      "explanation": "If cümleciği Present Simple ile, sonuç cümlesi will + yalın fiil ile kurulur: If it rains tomorrow, we will stay at home.",
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-06",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I will see him, I will tell him.",
+      "errorSpan": "will see",
+      "answers": [
+        "If I see him, I will tell him.",
+        "If I saw him, I would tell him."
+      ],
+      "explanation": "If cümleciğinde will kullanılmaz. Gerçekçi bir durumsa Present Simple + will (If I see him, I will tell him), hayalî bir durumsa Past Simple + would (If I saw him, I would tell him) kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I saw him, I will tell him.",
+          "explanation": "Past Simple ile will birlikte kullanılmaz; if cümleciği ve sonuç aynı türden olmalıdır."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-07",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın yağmur yağarsa evde kalacağız.",
+      "hint": "yağmur yağmak: rain, evde kalmak: stay at home",
+      "answers": [
+        "If it rains tomorrow, we will stay at home.",
+        "If it rains tomorrow, we'll stay at home.",
+        "We will stay at home if it rains tomorrow.",
+        "We'll stay at home if it rains tomorrow."
+      ],
+      "targetStructure": "First Conditional: If + Present Simple, will + yalın fiil",
+      "explanation": "Gerçekçi bir olasılık anlatıldığı için First Conditional kullanılır. If cümleciği başta ya da sonda olabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If it will rain tomorrow, we will stay at home.",
+          "explanation": "If cümleciğinde will kullanılmaz."
+        },
+        {
+          "answer": "If it rained tomorrow, we would stay at home.",
+          "explanation": "Bu hayalî bir durumu anlatır; gerçekçi olasılık için First Conditional gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-08",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If she ___ hard, she will pass the exam.",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "studies"
+        },
+        {
+          "id": "c",
+          "text": "will study"
+        },
+        {
+          "id": "d",
+          "text": "studied"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "First Conditional’da if cümleciği Present Simple ile kurulur; she ile fiile -s eklenir: studies.",
+      "optionExplanations": {
+        "a": "She ile fiile -s eklenir.",
+        "c": "If cümleciğinde will kullanılmaz.",
+        "d": "Studied, Second Conditional için kullanılır; sonuç will ile kurulduğunda if cümleciği Present Simple’dır."
+      },
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-09",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If I ___ you, I would call him.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "will be"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "been"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yerinde olsam diyerek tavsiye verirken If I were you kalıbı kullanılır; Second Conditional’da to be fiilinin biçimi tüm öznelerle were’dir.",
+      "optionExplanations": {
+        "a": "Am, hayalî durumda kullanılmaz; were gerekir.",
+        "b": "If cümleciğinde will kullanılmaz.",
+        "d": "Been, tek başına kullanılamaz."
+      },
+      "tags": [
+        "conditionals",
+        "second",
+        "advice"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-10",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I will see him, I will tell him."
+        },
+        {
+          "id": "b",
+          "text": "If I see him, I will tell him."
+        },
+        {
+          "id": "c",
+          "text": "If I saw him, I will tell him."
+        },
+        {
+          "id": "d",
+          "text": "If I would see him, I will tell him."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "First Conditional: If + Present Simple, will + yalın fiil: If I see him, I will tell him.",
+      "optionExplanations": {
+        "a": "If cümleciğinde will kullanılmaz.",
+        "c": "Past Simple ile will birlikte kullanılmaz.",
+        "d": "If cümleciğinde would kullanılmaz."
+      },
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-11",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If you don't hurry, you ___ the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "miss"
+        },
+        {
+          "id": "b",
+          "text": "will miss"
+        },
+        {
+          "id": "c",
+          "text": "would miss"
+        },
+        {
+          "id": "d",
+          "text": "missed"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bu bir uyarıdır ve gerçekleşmesi olasıdır; First Conditional kullanılır: you will miss the bus.",
+      "optionExplanations": {
+        "a": "Sonuç için will gerekir.",
+        "c": "Would, hayalî durum içindir; burada gerçekçi bir uyarı var.",
+        "d": "Missed, geçmiş biçimdir."
+      },
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-12",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I ___ (win) the lottery, I would travel the world.",
+      "answers": [
+        "won"
+      ],
+      "explanation": "Second Conditional’da if cümleciği Past Simple ile kurulur: If I won the lottery, I would travel the world.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "win",
+          "explanation": "Second Conditional’da if cümleciği Past Simple’dır: won."
+        },
+        {
+          "answer": "would win",
+          "explanation": "If cümleciğinde would kullanılmaz."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-13",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ (buy) a car if she had more money.",
+      "answers": [
+        "would buy"
+      ],
+      "explanation": "If cümleciği Past Simple olduğu için sonuç would + yalın fiil ile kurulur: She would buy a car.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will buy",
+          "explanation": "If cümleciğinde Past Simple varsa will değil would gerekir."
+        },
+        {
+          "answer": "bought",
+          "explanation": "Sonuç cümlesinde would + yalın fiil gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-14",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If you ___ study, you won't pass.",
+      "answers": [
+        "don't",
+        "do not"
+      ],
+      "explanation": "Olumsuz First Conditional: If + don’t / doesn’t + yalın fiil, won’t + yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't",
+          "explanation": "If cümleciğinde won’t kullanılmaz; don’t gerekir."
+        },
+        {
+          "answer": "didn't",
+          "explanation": "Didn’t, Second Conditional içindir; sonuç won’t ile kurulduğunda if cümleciği Present Simple’dır."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first",
+        "negative"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-15",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I were you, I ___ do that.",
+      "hint": "Cümleyi olumsuz yap: Sen olsam bunu yapmazdım.",
+      "answers": [
+        "wouldn't",
+        "would not"
+      ],
+      "explanation": "Tavsiye verirken sonuç would + yalın fiil ile kurulur; olumsuzu wouldn’t’tır: If I were you, I wouldn’t do that.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't",
+          "explanation": "Will, First Conditional içindir; If I were you ile would gerekir."
+        },
+        {
+          "answer": "don't",
+          "explanation": "Sonuç cümlesinde wouldn’t gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second",
+        "advice",
+        "negative"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-16",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I would have money, I would buy a car.",
+      "errorSpan": "would have",
+      "answers": [
+        "If I had money, I would buy a car.",
+        "If I have money, I will buy a car."
+      ],
+      "explanation": "If cümleciğinde would kullanılmaz. Hayalî bir durumsa Past Simple + would (If I had money, I would buy a car), gerçekçi bir durumsa Present Simple + will (If I have money, I will buy a car) kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I have money, I would buy a car.",
+          "explanation": "If cümleciği ve sonuç aynı türden olmalıdır: Present Simple ile will, Past Simple ile would."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-17",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it will rain, we will stay home.",
+      "errorSpan": "will rain",
+      "answers": [
+        "If it rains, we will stay home.",
+        "If it rained, we would stay home."
+      ],
+      "explanation": "If cümleciğinde will kullanılmaz. Gerçekçi bir durumsa Present Simple + will, hayalî bir durumsa Past Simple + would kullanılır.",
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-18",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If she studies hard, she would pass the exam.",
+      "errorSpan": "would pass",
+      "answers": [
+        "If she studies hard, she will pass the exam.",
+        "If she studied hard, she would pass the exam."
+      ],
+      "explanation": "If cümleciği ve sonuç aynı türden olmalıdır: Present Simple (studies) ile will, Past Simple (studied) ile would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If she studies hard, she would pass the exam.",
+          "explanation": "Present Simple ile would birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-19",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çok param olsaydı büyük bir ev alırdım.",
+      "answer": [
+        "If",
+        "I",
+        "had",
+        "a",
+        "lot",
+        "of",
+        "money,",
+        "I",
+        "would",
+        "buy",
+        "a",
+        "big",
+        "house"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "have"
+      ],
+      "explanation": "Hayalî durum: If + Past Simple, would + yalın fiil.",
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-20",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sen olsam ona yardım ederdim.",
+      "answer": [
+        "If",
+        "I",
+        "were",
+        "you,",
+        "I",
+        "would",
+        "help",
+        "him"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "was",
+        "will"
+      ],
+      "explanation": "Tavsiye için If I were you kalıbı kullanılır; ardından would + yalın fiil gelir.",
+      "tags": [
+        "conditionals",
+        "second",
+        "advice"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-21",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyangoyu kazansan ne yapardın?",
+      "answer": [
+        "What",
+        "would",
+        "you",
+        "do",
+        "if",
+        "you",
+        "won",
+        "the",
+        "lottery"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "will",
+        "win"
+      ],
+      "explanation": "Hayalî durum sorusu: What would you do if + Past Simple?",
+      "tags": [
+        "conditionals",
+        "second",
+        "question"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-22",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Acele etmezsen otobüsü kaçıracaksın.",
+      "answer": [
+        "If",
+        "you",
+        "don't",
+        "hurry,",
+        "you",
+        "will",
+        "miss",
+        "the",
+        "bus"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "would",
+        "missed"
+      ],
+      "explanation": "Gerçekçi uyarı: If + Present Simple, will + yalın fiil.",
+      "tags": [
+        "conditionals",
+        "first",
+        "negative"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-23",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle şu an gerçek olmayan (hayalî) bir durumu anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it is sunny tomorrow, we will go out."
+        },
+        {
+          "id": "b",
+          "text": "If it were sunny now, we would go out."
+        },
+        {
+          "id": "c",
+          "text": "If it rains, we will stay in."
+        },
+        {
+          "id": "d",
+          "text": "If it is cold, I will wear a coat."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If + Past Simple (were) ve would, şu an gerçek olmayan durumu anlatır: If it were sunny now, we would go out. (Şu an hava güneşli değil.)",
+      "optionExplanations": {
+        "a": "Bu gelecekteki olası bir durumdur (First Conditional).",
+        "c": "Bu gerçekçi bir olasılıktır (First Conditional).",
+        "d": "Bu gerçekçi bir olasılıktır (First Conditional)."
+      },
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-24",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "What ___ you do if you won a million dollars?",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "If cümleciği Past Simple (won) olduğu için hayalî bir durum sorusu would ile kurulur: What would you do …?",
+      "optionExplanations": {
+        "a": "Will, First Conditional içindir; if cümleciği Present Simple olurdu.",
+        "c": "Do ile soru yapılamaz; would gerekir.",
+        "d": "Did, Past Simple sorusu içindir; burada hayalî durum var."
+      },
+      "tags": [
+        "conditionals",
+        "second",
+        "question"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-25",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "If I ___ more time, I would learn Spanish.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "would have"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Would ile kurulan sonuç, if cümleciğinde Past Simple ister: If I had more time.",
+      "optionExplanations": {
+        "a": "Present Simple ile would birlikte kullanılmaz.",
+        "c": "If cümleciğinde will kullanılmaz.",
+        "d": "If cümleciğinde would kullanılmaz."
+      },
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-26",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ you do if you saw a ghost?",
+      "answers": [
+        "would"
+      ],
+      "explanation": "If cümleciği Past Simple (saw) olduğu için hayalî durum sorusu would ile kurulur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Will, if cümleciği Present Simple olduğunda kullanılır."
+        },
+        {
+          "answer": "did",
+          "explanation": "Did ile hayalî durum sorusu kurulmaz; would gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second",
+        "question"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-27",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If they ___ (leave) now, they will arrive on time.",
+      "answers": [
+        "leave"
+      ],
+      "explanation": "Gerçekçi bir plan olduğu için if cümleciği Present Simple’dır; they ile fiil yalındır: leave.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will leave",
+          "explanation": "If cümleciğinde will kullanılmaz."
+        },
+        {
+          "answer": "left",
+          "explanation": "Sonuç will ile kurulduğunda if cümleciği Present Simple olmalıdır."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-28",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If he asked me, I ___ (help) him.",
+      "answers": [
+        "would help"
+      ],
+      "explanation": "If cümleciği Past Simple (asked) olduğu için sonuç would + yalın fiil ile kurulur: would help.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will help",
+          "explanation": "Past Simple if cümleciğiyle will birlikte kullanılmaz."
+        },
+        {
+          "answer": "helped",
+          "explanation": "Sonuç cümlesinde would + yalın fiil gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-29",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If you will study, you will pass.",
+      "errorSpan": "will study",
+      "answers": [
+        "If you study, you will pass.",
+        "If you studied, you would pass."
+      ],
+      "explanation": "If cümleciğinde will kullanılmaz. Gerçekçi durumda Present Simple + will, hayalî durumda Past Simple + would kullanılır.",
+      "tags": [
+        "conditionals",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-30",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What would you do if you will win?",
+      "errorSpan": "will win",
+      "answers": [
+        "What would you do if you won?",
+        "What will you do if you win?"
+      ],
+      "explanation": "Would ile kurulan soruda if cümleciği Past Simple olmalıdır (if you won). Gerçekçi bir durumsa What will you do if you win? denir.",
+      "tags": [
+        "conditionals",
+        "second",
+        "question"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-31",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I have a million dollars, I would buy an island.",
+      "errorSpan": "have",
+      "answers": [
+        "If I had a million dollars, I would buy an island.",
+        "If I have a million dollars, I will buy an island."
+      ],
+      "explanation": "If cümleciği ve sonuç aynı türden olmalıdır: Past Simple + would (hayalî) ya da Present Simple + will (gerçekçi).",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I have a million dollars, I would buy an island.",
+          "explanation": "Present Simple ile would birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-32",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok param olsaydı dünyayı gezerdim.",
+      "hint": "param olsaydı: if I had …, dünyayı gezmek: travel the world",
+      "answers": [
+        "If I had a lot of money, I would travel the world.",
+        "If I had a lot of money, I'd travel the world.",
+        "I would travel the world if I had a lot of money.",
+        "I'd travel the world if I had a lot of money."
+      ],
+      "targetStructure": "Second Conditional: If + Past Simple, would + yalın fiil",
+      "explanation": "Hayalî bir durum olduğu için Second Conditional kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I have a lot of money, I would travel the world.",
+          "explanation": "Would ile if cümleciği Past Simple olmalıdır."
+        },
+        {
+          "answer": "If I would have a lot of money, I would travel the world.",
+          "explanation": "If cümleciğinde would kullanılmaz."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-33",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sen olsam ona yardım ederdim. (ona = him)",
+      "hint": "sen olsam: if I were you",
+      "answers": [
+        "If I were you, I would help him.",
+        "If I were you, I'd help him."
+      ],
+      "targetStructure": "Second Conditional: tavsiye (If I were you)",
+      "explanation": "Yerinde olsam kalıbı Second Conditional ile kurulur ve to be fiili were olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I was you, I would help him.",
+          "explanation": "Standart biçim were’dir; bu derste If I were you kalıbı kullanılır."
+        },
+        {
+          "answer": "If I am you, I would help him.",
+          "explanation": "Hayalî durumda am kullanılmaz; were gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second",
+        "advice"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-34",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Acele etmezsen otobüsü kaçıracaksın.",
+      "hint": "acele etmek: hurry, kaçırmak: miss",
+      "answers": [
+        "If you don't hurry, you will miss the bus.",
+        "If you don't hurry, you'll miss the bus.",
+        "You will miss the bus if you don't hurry.",
+        "You'll miss the bus if you don't hurry."
+      ],
+      "targetStructure": "First Conditional olumsuz: If + don’t + yalın fiil, will + yalın fiil",
+      "explanation": "Gerçekçi bir uyarı olduğu için First Conditional kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If you won't hurry, you will miss the bus.",
+          "explanation": "If cümleciğinde won’t kullanılmaz; don’t gerekir."
+        },
+        {
+          "answer": "If you didn't hurry, you would miss the bus.",
+          "explanation": "Bu hayalî bir durum olurdu; gerçekçi uyarı için First Conditional gerekir."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "first",
+        "negative"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-vs-second-35",
+      "lessonId": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Piyangoyu kazansan ne yapardın?",
+      "hint": "piyango: the lottery",
+      "answers": [
+        "What would you do if you won the lottery?"
+      ],
+      "targetStructure": "Second Conditional soru: What would + özne + yalın fiil + if + Past Simple?",
+      "explanation": "Hayalî bir durumun sonucunu sorarken would kullanılır ve if cümleciği Past Simple olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What will you do if you win the lottery?",
+          "explanation": "Bu First Conditional’dır; Türkçedeki “kazansan” hayalî bir durumu anlatır, bu yüzden Second Conditional gerekir."
+        },
+        {
+          "answer": "What would you do if you win the lottery?",
+          "explanation": "Would ile birlikte if cümleciği Past Simple olmalıdır."
+        }
+      ],
+      "tags": [
+        "conditionals",
+        "second",
+        "question"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "question_form"
+      ]
+    }
+  ]
+}

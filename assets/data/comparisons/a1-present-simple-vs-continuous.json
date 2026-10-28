@@ -1,0 +1,1326 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-present-simple-vs-continuous",
+  "levelId": "a1",
+  "title": "Present Simple vs Present Continuous",
+  "objectives": [
+    "Alışkanlık mı, şu an mı olduğuna bakarak doğru zamanı seçmek",
+    "İpucu sözcüklerden (always, now, at the moment) zamanı tahmin etmek",
+    "Türkçedeki -yor ekinin iki ayrı İngilizce zamana karşılık geldiğini bilmek",
+    "Durum fiillerinin (like, know, want) Present Simple ile kullanıldığını hatırlamak",
+    "“What do you do?” ile “What are you doing?” arasındaki farkı ayırt etmek"
+  ],
+  "intro": [
+    "Türkçede “çalışıyorum” hem “Her gün bir bankada çalışıyorum” hem de “Şu anda çalışıyorum” anlamına gelebilir. İngilizce bu iki durumu ayrı zamanlarla söyler: alışkanlık için Present Simple, şu anda süren eylem için Present Continuous.",
+    "Bu yüzden Türkçeden çevirirken -yor eki sana yol göstermez. Cümleye bakıp şunu sormalısın: Bu eylem düzenli tekrar eden bir şey mi, yoksa şu anda mı oluyor?",
+    "Aşağıda iki yapıyı yan yana göreceksin; sonunda hangisini seçeceğini ölçen bir mini test seni bekliyor."
+  ],
+  "lessonIds": [
+    "a1-present-simple",
+    "a1-present-continuous"
+  ],
+  "structures": [
+    {
+      "name": "Present Simple",
+      "meaning": "Alışkanlık, rutin ve genel doğru. Eylemin ne sıklıkla ya da genel olarak nasıl olduğunu anlatır.",
+      "usage": [
+        "Alışkanlıklar ve rutinler (I get up at seven.)",
+        "Genel doğrular (Water boils at 100 degrees.)",
+        "Tekrarlanan eylemler (He plays football on Sundays.)",
+        "Kalıcı durumlar ve tercihler (She lives in Ankara. I like tea.)",
+        "Tarifeler ve programlar (The train leaves at 8:15.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "I / You / We / They + fiil  |  He / She / It + fiil + s",
+          "example": "She works in a bank."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + don’t / doesn’t + yalın fiil",
+          "example": "She doesn’t work on Sundays."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do / Does + özne + yalın fiil …?",
+          "example": "Does she work here?"
+        }
+      ],
+      "signals": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "never",
+        "every day",
+        "on Mondays",
+        "once a week",
+        "at weekends"
+      ]
+    },
+    {
+      "name": "Present Continuous",
+      "meaning": "Şu anda ya da bu dönemde süren eylem. Eylemin konuşma anında devam ettiğini ya da geçici olduğunu anlatır.",
+      "usage": [
+        "Şu anda olan eylemler (He is cooking now.)",
+        "Bu dönemde süren geçici eylemler (I am learning English this year.)",
+        "Geçici durumlar (She is staying with her aunt this week.)",
+        "Gözle görülen olaylar (Look! It is raining.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + am / is / are + fiil-ing",
+          "example": "She is working now."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + am / is / are + not + fiil-ing",
+          "example": "She isn’t working today."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + fiil-ing …?",
+          "example": "Is she working today?"
+        }
+      ],
+      "signals": [
+        "now",
+        "right now",
+        "at the moment",
+        "today",
+        "this week",
+        "this year",
+        "these days",
+        "Look!",
+        "Listen!"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-01",
+        "en": "I drink coffee every morning.",
+        "tr": "Her sabah kahve içerim.",
+        "highlight": "drink"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-02",
+        "en": "I am drinking coffee now.",
+        "tr": "Şu anda kahve içiyorum.",
+        "highlight": "am drinking"
+      },
+      "note": "Her sabah tekrarlanan bir alışkanlık ile şu anda olan bir eylem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-03",
+        "en": "She works in a bank.",
+        "tr": "Bir bankada çalışır.",
+        "highlight": "works"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-04",
+        "en": "She is working at home today.",
+        "tr": "Bugün evden çalışıyor.",
+        "highlight": "is working"
+      },
+      "note": "Mesleği / düzenli işi ile bugüne özgü geçici durum."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-05",
+        "en": "It rains a lot in April.",
+        "tr": "Nisan’da çok yağmur yağar.",
+        "highlight": "rains"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-06",
+        "en": "It is raining now.",
+        "tr": "Şu anda yağmur yağıyor.",
+        "highlight": "is raining"
+      },
+      "note": "Genel durum ile şu anda yağan yağmur."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-07",
+        "en": "He plays football on Sundays.",
+        "tr": "Pazar günleri futbol oynar.",
+        "highlight": "plays"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-08",
+        "en": "He is playing football now.",
+        "tr": "Şu anda futbol oynuyor.",
+        "highlight": "is playing"
+      },
+      "note": "Düzenli tekrar ile şu an."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-09",
+        "en": "They live in Izmir.",
+        "tr": "İzmir’de yaşarlar.",
+        "highlight": "live"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-10",
+        "en": "They are staying in a hotel this week.",
+        "tr": "Bu hafta bir otelde kalıyorlar.",
+        "highlight": "are staying"
+      },
+      "note": "Kalıcı oturduğu yer ile geçici kalış."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-11",
+        "en": "Do you watch TV in the evening?",
+        "tr": "Akşamları televizyon izler misin?",
+        "highlight": "Do"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-12",
+        "en": "Are you watching TV?",
+        "tr": "Televizyon mu izliyorsun?",
+        "highlight": "Are"
+      },
+      "note": "Alışkanlığı sormak ile şu anda ne yaptığını sormak."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-13",
+        "en": "I don't work on Saturdays.",
+        "tr": "Cumartesi günleri çalışmam.",
+        "highlight": "don't work"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-14",
+        "en": "I'm not working today.",
+        "tr": "Bugün çalışmıyorum.",
+        "highlight": "'m not working"
+      },
+      "note": "Genel bir kural ile bugüne özgü durum."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-15",
+        "en": "What do you do?",
+        "tr": "Ne iş yapıyorsun?",
+        "highlight": "do"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-16",
+        "en": "What are you doing?",
+        "tr": "Ne yapıyorsun?",
+        "highlight": "are"
+      },
+      "note": "“Mesleğin ne?” ile “Şu anda ne yapıyorsun?”."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-17",
+        "en": "She speaks three languages.",
+        "tr": "Üç dil konuşur.",
+        "highlight": "speaks"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-18",
+        "en": "She is speaking to her boss now.",
+        "tr": "Şu anda patronuyla konuşuyor.",
+        "highlight": "is speaking"
+      },
+      "note": "Sürekli bir yetenek ile şu anda süren konuşma."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-19",
+        "en": "I like this song.",
+        "tr": "Bu şarkıyı seviyorum.",
+        "highlight": "like"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-20",
+        "en": "I'm listening to this song.",
+        "tr": "Bu şarkıyı dinliyorum.",
+        "highlight": "'m listening"
+      },
+      "note": "Like durum fiilidir (Simple); listen eylemdir (Continuous)."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-21",
+        "en": "The sun rises in the east.",
+        "tr": "Güneş doğudan doğar.",
+        "highlight": "rises"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-22",
+        "en": "Look! The sun is rising.",
+        "tr": "Bak! Güneş doğuyor.",
+        "highlight": "is rising"
+      },
+      "note": "Her zaman doğru olan bilgi ile gözünün önünde olan olay."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pc-23",
+        "en": "My father drives to work.",
+        "tr": "Babam işe arabayla gider.",
+        "highlight": "drives"
+      },
+      "right": {
+        "id": "ex-ps-vs-pc-24",
+        "en": "My father is driving to work now.",
+        "tr": "Babam şu anda işe arabayla gidiyor.",
+        "highlight": "is driving"
+      },
+      "note": "Her günkü rutin ile şu anki yolculuk."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Türkçede -yor ikisini de karşılar",
+      "body": "“Her sabah koşuyorum” (alışkanlık) ve “Şu anda koşuyorum” (şu an) cümlelerinde aynı -yor eki vardır. İngilizcede ilki I run every morning (Present Simple), ikincisi I am running now (Present Continuous) olur."
+    },
+    {
+      "heading": "“Ne iş yapıyorsun?” ile “Ne yapıyorsun?”",
+      "body": "What do you do? mesleğini sorar; What are you doing? şu anda ne yaptığını sorar. Türkçede ikisi de “yapıyorsun” içerir ama İngilizcede tamamen farklıdır."
+    },
+    {
+      "heading": "Kalıcı mı, geçici mi?",
+      "body": "Present Simple kalıcı ya da uzun süreli durumları anlatır (She lives in Izmir). Present Continuous geçici durumları anlatır (She is staying in a hotel this week)."
+    },
+    {
+      "heading": "Durum fiilleri",
+      "body": "Like, know, want, need, love, understand gibi fiiller bir eylem değil durum anlatır; “şu anda” anlamı olsa bile genellikle Present Simple kullanılır: I like this song. (I am liking ✗)"
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Eylem düzenli olarak tekrar ediyor mu?",
+      "answer": "Evet → Present Simple (I get up at seven. She works on Mondays.)"
+    },
+    {
+      "question": "Eylem şu anda, konuşurken mi oluyor?",
+      "answer": "Evet → Present Continuous (I am working now. It is raining.)"
+    },
+    {
+      "question": "Cümlede always, usually, every day, on Sundays var mı?",
+      "answer": "Bu sözcükler alışkanlığı gösterir → Present Simple."
+    },
+    {
+      "question": "Cümlede now, at the moment, today, this week, Look!, Listen! var mı?",
+      "answer": "Bu sözcükler şu anı ya da geçici dönemi gösterir → Present Continuous."
+    },
+    {
+      "question": "Fiil bir durum, duygu ya da düşünce mi (like, know, want, need)?",
+      "answer": "Evet → genellikle Present Simple; -ing kullanma."
+    },
+    {
+      "question": "Genel bir doğru mu söylüyorsun (Water boils at 100 degrees)?",
+      "answer": "Evet → Present Simple."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "Look! It rains.",
+      "right": "Look! It is raining.",
+      "explanation": "“Look!” şu anda olan bir olayı gösterir; Present Continuous gerekir."
+    },
+    {
+      "wrong": "He plays football now.",
+      "right": "He is playing football now.",
+      "explanation": "“Now” şu anı gösterir."
+    },
+    {
+      "wrong": "I am usually getting up at seven.",
+      "right": "I usually get up at seven.",
+      "explanation": "“Usually” alışkanlığı gösterir; Present Simple gerekir."
+    },
+    {
+      "wrong": "She is wanting a coffee.",
+      "right": "She wants a coffee.",
+      "explanation": "Want bir durum fiilidir; genellikle -ing almaz."
+    },
+    {
+      "wrong": "Do you watching TV now?",
+      "right": "Are you watching TV now?",
+      "explanation": "Present Continuous sorusunda do kullanılmaz; are özneden önce gelir."
+    },
+    {
+      "wrong": "What are you do?",
+      "right": "What are you doing?",
+      "explanation": "Are’dan sonra fiil -ing almalıdır."
+    },
+    {
+      "wrong": "She doesn’t working today.",
+      "right": "She isn’t working today.",
+      "explanation": "Present Continuous olumsuzu am / is / are + not ile kurulur; doesn’t yalnızca Present Simple’a aittir."
+    },
+    {
+      "wrong": "She works now.",
+      "right": "She is working now.",
+      "explanation": "Şu anda süren eylem Present Continuous ile söylenir."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-ps-vs-pc-01",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Every morning I ___ coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "drink"
+        },
+        {
+          "id": "b",
+          "text": "am drinking"
+        },
+        {
+          "id": "c",
+          "text": "drinks"
+        },
+        {
+          "id": "d",
+          "text": "drinking"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "“Every morning” tekrar eden bir alışkanlığı gösterir; Present Simple kullanılır. I ile fiil yalın kalır: I drink coffee.",
+      "optionExplanations": {
+        "b": "Am drinking şu anda süren eylemi anlatır; “every morning” alışkanlıktır.",
+        "c": "-s yalnızca he, she, it ile gelir.",
+        "d": "Drinking tek başına yetmez; am / is / are da gerekir."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "habit"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-02",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Look! The baby ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "sleeps"
+        },
+        {
+          "id": "b",
+          "text": "is sleeping"
+        },
+        {
+          "id": "c",
+          "text": "sleep"
+        },
+        {
+          "id": "d",
+          "text": "sleeping"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Look!” gözünün önünde olan bir şeye dikkat çeker; Present Continuous gerekir: The baby is sleeping.",
+      "optionExplanations": {
+        "a": "Sleeps, alışkanlığı anlatır; “Look!” şu anı gösterir.",
+        "c": "Yalın fiil Present Simple içindir ve tekil özneyle -s alır.",
+        "d": "To be (is) eksik."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-03",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ (go) to school by bus every day.",
+      "answers": [
+        "goes"
+      ],
+      "explanation": "“Every day” alışkanlıktır; Present Simple kullanılır. She ile go → goes.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is going",
+          "explanation": "“Every day” tekrar eden bir alışkanlıktır; Present Simple gerekir."
+        },
+        {
+          "answer": "go",
+          "explanation": "She ile fiile -s / -es eklenir: goes."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "habit"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-04",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Look! They ___ (play) football.",
+      "answers": [
+        "are playing"
+      ],
+      "explanation": "“Look!” şu anı gösterir; Present Continuous gerekir: They are playing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "play",
+          "explanation": "“Look!” şu anı gösterir; Present Continuous gerekir."
+        },
+        {
+          "answer": "is playing",
+          "explanation": "They çoğuldur; are gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-05",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Her sabah çay içerim.",
+      "answer": [
+        "I",
+        "drink",
+        "tea",
+        "every",
+        "morning"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "drinking"
+      ],
+      "explanation": "Her sabah tekrar eden bir alışkanlık olduğu için Present Simple kullanılır: I drink tea every morning.",
+      "tags": [
+        "ps-vs-pc",
+        "habit"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-06",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şu anda çay içiyorum.",
+      "answer": [
+        "I",
+        "am",
+        "drinking",
+        "tea",
+        "now"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "drink"
+      ],
+      "explanation": "“Şu anda” eylemin devam ettiğini gösterir; Present Continuous kullanılır: I am drinking tea now.",
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-07",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Look! It rains.",
+      "errorSpan": "rains",
+      "answers": [
+        "Look! It is raining.",
+        "Look! It's raining."
+      ],
+      "explanation": "“Look!” şu anda olan bir olayı gösterir; Present Continuous gerekir: It is raining.",
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-08",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Her gün işe otobüsle giderim.",
+      "hint": "işe gitmek: go to work",
+      "answers": [
+        "I go to work by bus every day.",
+        "Every day I go to work by bus."
+      ],
+      "targetStructure": "Present Simple: her gün tekrar eden alışkanlık",
+      "explanation": "“Her gün” alışkanlıktır; Türkçede -r da -yor da kullanılabilse de İngilizcede Present Simple gerekir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am going to work by bus every day.",
+          "explanation": "Her gün tekrar eden alışkanlık için Present Simple kullanılır."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "habit"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-09",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My father drinks tea every day."
+        },
+        {
+          "id": "b",
+          "text": "My father is drinking tea every day."
+        },
+        {
+          "id": "c",
+          "text": "My father drink tea every day."
+        },
+        {
+          "id": "d",
+          "text": "My father drinking tea every day."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "“Every day” alışkanlık gösterir; Present Simple kullanılır ve my father = he olduğu için fiil -s alır.",
+      "optionExplanations": {
+        "b": "“Every day” ile Present Continuous kullanılmaz; alışkanlık için Present Simple gerekir.",
+        "c": "He ile fiile -s eklenir.",
+        "d": "To be (is) eksik; ayrıca alışkanlık için Present Simple gerekir."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "habit"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-10",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Tom is not here. He ___ in the garden at the moment.",
+      "options": [
+        {
+          "id": "a",
+          "text": "plays"
+        },
+        {
+          "id": "b",
+          "text": "is playing"
+        },
+        {
+          "id": "c",
+          "text": "play"
+        },
+        {
+          "id": "d",
+          "text": "are playing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“At the moment” şu anı gösterir; Present Continuous gerekir: He is playing.",
+      "optionExplanations": {
+        "a": "Plays alışkanlığı anlatır; “at the moment” şu anı gösterir.",
+        "c": "Yalın fiil he ile kullanılmaz.",
+        "d": "He ile are değil is gelir."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-11",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ this song.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am liking"
+        },
+        {
+          "id": "b",
+          "text": "like"
+        },
+        {
+          "id": "c",
+          "text": "am like"
+        },
+        {
+          "id": "d",
+          "text": "liking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Like bir durum fiilidir; -ing ile kullanılmaz: I like this song.",
+      "optionExplanations": {
+        "a": "Like gibi durum fiilleri genellikle -ing almaz.",
+        "c": "Am ile yalın fiil yan yana gelmez.",
+        "d": "To be eksik; ayrıca like -ing almaz."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "state-verbs"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-12",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ on Sundays.",
+      "hint": "Cümleyi olumsuz yap: Pazar günleri çalışmaz.",
+      "answers": [
+        "doesn't work",
+        "does not work"
+      ],
+      "explanation": "“On Sundays” düzenli tekrarı gösterir; Present Simple kullanılır. Olumsuz: He doesn’t work on Sundays.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't working",
+          "explanation": "“On Sundays” düzenli tekrarı gösterir; Present Simple gerekir."
+        },
+        {
+          "answer": "doesn't works",
+          "explanation": "Doesn’t’tan sonra fiil yalın kalır."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "habit",
+        "negative"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-13",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you watching TV now?",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "“Now” şu anı gösterir; Present Continuous sorusu are ile başlar: Are you watching TV now?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Do, Present Simple sorusunda kullanılır; “now” Present Continuous gerektirir."
+        },
+        {
+          "answer": "Is",
+          "explanation": "You ile is kullanılmaz; are gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "now",
+        "question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-14",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What time ___ the shop open?",
+      "answers": [
+        "does"
+      ],
+      "explanation": "Dükkân saatleri düzenli bir program olduğu için Present Simple kullanılır: What time does the shop open?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Is ile eylem fiili (open) yan yana gelmez; Present Simple sorusu does ile kurulur."
+        },
+        {
+          "answer": "do",
+          "explanation": "The shop tekildir (it); does gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "schedule",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-15",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He plays football now.",
+      "errorSpan": "plays",
+      "answers": [
+        "He is playing football now.",
+        "He's playing football now."
+      ],
+      "explanation": "“Now” şu anı gösterir; Present Continuous gerekir: is playing.",
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-16",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Does she working today?",
+      "errorSpan": "Does",
+      "answers": [
+        "Is she working today?"
+      ],
+      "explanation": "Present Continuous sorusu to be ile kurulur: Is she working today? Does ve -ing aynı cümlede kullanılmaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does she work today?",
+          "explanation": "Bu Present Simple’dır; “today” şu anki geçici durumu gösterdiğinden Present Continuous gerekir: Is she working today?"
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-17",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am usually getting up at seven.",
+      "errorSpan": "am usually getting",
+      "answers": [
+        "I usually get up at seven."
+      ],
+      "explanation": "“Usually” alışkanlığı gösterir; Present Simple kullanılır: I usually get up at seven.",
+      "tags": [
+        "ps-vs-pc",
+        "habit",
+        "adverbs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-18",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu anda işe otobüsle gidiyorum.",
+      "hint": "şu anda: now. işe gitmek: go to work",
+      "answers": [
+        "I am going to work by bus now.",
+        "I'm going to work by bus now.",
+        "Now I am going to work by bus.",
+        "Now I'm going to work by bus."
+      ],
+      "targetStructure": "Present Continuous: şu anda süren eylem",
+      "explanation": "“Şu anda” eylemin devam ettiğini gösterir; Present Continuous kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I go to work by bus now.",
+          "explanation": "“Now” şu anı gösterir; Present Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-19",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Birinin mesleğini sormak için hangisini kullanırsın?",
+      "options": [
+        {
+          "id": "a",
+          "text": "What are you doing?"
+        },
+        {
+          "id": "b",
+          "text": "What do you do?"
+        },
+        {
+          "id": "c",
+          "text": "What you do?"
+        },
+        {
+          "id": "d",
+          "text": "What do you doing?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“What do you do?” mesleği sorar (Present Simple: kalıcı durum). “What are you doing?” ise şu anda ne yaptığını sorar.",
+      "optionExplanations": {
+        "a": "Bu soru şu anda ne yaptığını sorar.",
+        "c": "Soru sözcüğünden sonra yardımcı fiil gelmelidir.",
+        "d": "Do ve -ing aynı cümlede kullanılmaz."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-20",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Listen! Somebody ___ at the door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "knocks"
+        },
+        {
+          "id": "b",
+          "text": "is knocking"
+        },
+        {
+          "id": "c",
+          "text": "knock"
+        },
+        {
+          "id": "d",
+          "text": "are knocking"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Listen!” şu anda duyulan bir olaya dikkat çeker; Present Continuous gerekir: Somebody is knocking.",
+      "optionExplanations": {
+        "a": "Knocks, alışkanlığı anlatır; “Listen!” şu anı gösterir.",
+        "c": "Yalın fiil somebody (tekil) ile kullanılmaz.",
+        "d": "Somebody tekildir; are değil is gelir."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-21",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "My sister usually ___ tea, but today she ___ coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "drinks / is drinking"
+        },
+        {
+          "id": "b",
+          "text": "is drinking / drinks"
+        },
+        {
+          "id": "c",
+          "text": "drinks / drinks"
+        },
+        {
+          "id": "d",
+          "text": "drink / drinking"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "“Usually” alışkanlığı (Present Simple), “today” bugüne özgü geçici durumu (Present Continuous) gösterir: drinks / is drinking.",
+      "optionExplanations": {
+        "b": "Biçimler ters yerleştirilmiş: usually → Present Simple, today → Present Continuous.",
+        "c": "“Today” geçici durumu gösterdiği için ikincisinde Present Continuous gerekir.",
+        "d": "My sister ile fiile -s / to be gerekir; yalın fiil ve yalın -ing yanlıştır."
+      },
+      "tags": [
+        "ps-vs-pc",
+        "habit",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-22",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "We ___ TV at the moment.",
+      "hint": "Cümleyi olumsuz yap: Şu anda televizyon izlemiyoruz.",
+      "answers": [
+        "aren't watching",
+        "are not watching"
+      ],
+      "explanation": "“At the moment” şu anı gösterir; olumsuz Present Continuous: We aren’t watching TV.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't watch",
+          "explanation": "“At the moment” şu anı gösterir; Present Continuous gerekir."
+        },
+        {
+          "answer": "aren't watch",
+          "explanation": "Fiil -ing almalıdır: watching."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "now",
+        "negative"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-23",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Water ___ (boil) at 100 degrees.",
+      "answers": [
+        "boils"
+      ],
+      "explanation": "Genel doğrular Present Simple ile söylenir. Water = it; fiile -s eklenir: boils.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is boiling",
+          "explanation": "Genel doğru için Present Continuous kullanılmaz."
+        },
+        {
+          "answer": "boil",
+          "explanation": "Water tekildir (it); fiile -s eklenir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "fact"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-24",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Be quiet! The baby ___ (sleep).",
+      "answers": [
+        "is sleeping"
+      ],
+      "explanation": "“Be quiet!” şu anda uyuyan bir bebeği anlatır; Present Continuous gerekir: is sleeping.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "sleeps",
+          "explanation": "Şu anda olan eylem için Present Continuous gerekir."
+        },
+        {
+          "answer": "is sleep",
+          "explanation": "Fiil -ing almalıdır: sleeping."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-25",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (kadın) şu anda çalışmıyor.",
+      "answer": [
+        "She",
+        "isn't",
+        "working",
+        "at",
+        "the",
+        "moment"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "work"
+      ],
+      "explanation": "“At the moment” şu anı gösterir; olumsuz Present Continuous: isn’t working.",
+      "tags": [
+        "ps-vs-pc",
+        "now",
+        "negative"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-26",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Genellikle yedide kalkarım.",
+      "answer": [
+        "I",
+        "usually",
+        "get",
+        "up",
+        "at",
+        "seven"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "getting"
+      ],
+      "explanation": "“Usually” alışkanlıktır; Present Simple kullanılır. Sıklık zarfı ana fiilden önce gelir.",
+      "tags": [
+        "ps-vs-pc",
+        "habit",
+        "adverbs"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-27",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is wanting a coffee.",
+      "errorSpan": "is wanting",
+      "answers": [
+        "She wants a coffee."
+      ],
+      "explanation": "Want bir durum fiilidir; -ing ile kullanılmaz: She wants a coffee.",
+      "tags": [
+        "ps-vs-pc",
+        "state-verbs"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-28",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What do you doing now?",
+      "errorSpan": "do",
+      "answers": [
+        "What are you doing now?"
+      ],
+      "explanation": "Present Continuous sorusunda do kullanılmaz: What are you doing now?",
+      "tags": [
+        "ps-vs-pc",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-29",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne iş yapıyorsun?",
+      "hint": "Birinin mesleğini soruyorsun.",
+      "answers": [
+        "What do you do?"
+      ],
+      "targetStructure": "Present Simple: meslek sorusu",
+      "explanation": "Mesleği sormak için Present Simple kullanılır: What do you do? İlk do yardımcı fiil, ikinci do ise “yapmak” ana fiilidir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What are you doing?",
+          "explanation": "Bu soru şu anda ne yaptığını sorar; meslek için What do you do? kullanılır."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pc-30",
+      "lessonId": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne yapıyorsun?",
+      "hint": "Şu anda ne yaptığını soruyorsun.",
+      "answers": [
+        "What are you doing?"
+      ],
+      "targetStructure": "Present Continuous: şu anda ne yapıldığını sorma",
+      "explanation": "Şu anda süren eylemi sormak için Present Continuous kullanılır: What are you doing?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What do you do?",
+          "explanation": "Bu soru mesleği sorar; şu anda ne yapıldığı için What are you doing? kullanılır."
+        }
+      ],
+      "tags": [
+        "ps-vs-pc",
+        "question",
+        "wh-question",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ]
+}

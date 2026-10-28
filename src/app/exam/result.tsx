@@ -9,6 +9,7 @@ import { describeCorrectAnswer, findAnswerFeedback } from "@/domain/question-eng
 import type { Question } from "@/domain/models";
 import { breakdownByLesson, breakdownByType } from "@/domain/scoring/examScoring";
 import { getLessonSummary } from "@/features/curriculum/catalog";
+import { lessonHref } from "@/features/curriculum/routes";
 import { useUserState } from "@/services/progress/userStore";
 import { colors, spacing } from "@/theme";
 
@@ -158,7 +159,7 @@ export default function ExamResultScreen() {
             <View key={w.lessonId} style={styles.weak}>
               <AppText variant="bodyStrong">{name}</AppText>
               <AppText variant="caption" color="textSecondary">{w.correct} / {w.total} doğru{listed ? " · tekrar listende" : ""}</AppText>
-              <Button title="Dersi aç" variant="secondary" onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: w.lessonId } })} />
+              <Button title="Dersi aç" variant="secondary" onPress={() => router.push(lessonHref(w.lessonId))} />
             </View>
           );
         })}

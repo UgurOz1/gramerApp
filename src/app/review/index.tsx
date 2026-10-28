@@ -1,11 +1,13 @@
 import { router } from "expo-router";
+
+import { lessonHref } from "@/features/curriculum/routes";
 import { StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Button, Card, Screen, SectionHeader } from "@/components/common";
 import { masteryBandLabels } from "@/constants/labels";
 import { getAvailableLessonIds, getLessonContent } from "@/data/contentRepository";
 import { getLessonStatus, lessonStatusLabels } from "@/domain/progress/lessonStatus";
-import { getLessonSummary } from "@/features/curriculum/catalog";
+import { getLessonSummary, isLessonAvailable } from "@/features/curriculum/catalog";
 import { useMastery } from "@/features/progress/useMastery";
 import { progressService } from "@/services/progress/progressService";
 import { useUserState } from "@/services/progress/userStore";
@@ -19,7 +21,7 @@ export default function ReviewScreen() {
   const listed = new Set(reviewList.map((r) => r.lessonId));
   const candidates = getAvailableLessonIds().filter((id) => !listed.has(id));
   const history = [...examResults].reverse().slice(0, 10);
-  const listedAvailable = reviewList.filter((r) => getLessonContent(r.lessonId));
+  const listedAvailable = reviewList.filter((r) => isLessonAvailable(r.lessonId));
 
   return (
     <Screen>
@@ -49,7 +51,7 @@ export default function ReviewScreen() {
                 </View>
                 <View style={styles.row}>
                   <View style={styles.flex}>
-                    <Button title="Dersi aç" onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: item.lessonId } })} disabled={!getLessonContent(item.lessonId)} />
+                    <Button title="Dersi aç" onPress={() => router.push(lessonHref(item.lessonId))} disabled={!isLessonAvailable(item.lessonId)} />
                   </View>
                   <View style={styles.flex}>
                     <Button title="Listeden çıkar" variant="secondary" onPress={() => progressService.removeFromReviewList(item.lessonId)} />

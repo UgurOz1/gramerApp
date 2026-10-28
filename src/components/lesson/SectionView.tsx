@@ -1,4 +1,6 @@
 import { router } from "expo-router";
+
+import { lessonHref } from "@/features/curriculum/routes";
 import { StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Button, Card, Icon } from "@/components/common";
@@ -131,7 +133,7 @@ export function SectionView({ section, lesson, sessionId, showHint }: Props) {
                   <Button
                     title={`Dersi aç: ${related.title}`}
                     variant="secondary"
-                    onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: item.lessonId! } })}
+                    onPress={() => router.push(lessonHref(item.lessonId!))}
                   />
                 ) : related ? (
                   <AppText variant="caption" color="textMuted">İlgili ders: {related.title} (yakında)</AppText>

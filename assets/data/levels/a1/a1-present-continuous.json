@@ -1,0 +1,3004 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-present-continuous",
+  "levelId": "a1",
+  "title": "Present Continuous",
+  "objectives": [
+    "Şu anda süren eylemleri ve bu dönemde süren geçici durumları Present Continuous ile anlatmak",
+    "Am / is / are + fiil-ing yapısını kurmak",
+    "Fiillere -ing eklerken yazım kurallarını uygulamak (make → making, run → running, lie → lying)",
+    "Olumsuz cümle, soru ve kısa cevap kurmak",
+    "Now, at the moment, today, these days gibi ipucu sözcükleri tanımak",
+    "Durum fiillerinin (know, like, want) -ing almadığını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Continuous nedir?",
+      "paragraphs": [
+        "Present Continuous, konuşma anında devam eden eylemleri ve bu günlerde ya da bu dönemde süren geçici durumları anlatır. Türkçede -yor ekiyle kurduğumuz “yapıyorum, okuyorsun, uyuyor” cümlelerinin büyük bölümü İngilizcede bu zamanla söylenir.",
+        "Yapısı iki parçalıdır: am / is / are (to be) + fiil-ing. To be dersinde öğrendiklerin burada doğrudan işine yarar; am, is, are’ı özneye göre seçer, ardından fiilin -ing’li biçimini eklersin.",
+        "Present Simple ile en büyük fark şudur: Present Simple alışkanlığı ve genel doğruyu anlatır (I drink tea every day), Present Continuous ise şu an olanı anlatır (I am drinking tea now). İki zamanı yan yana karşılaştıran ayrı bir ders de var."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: am / is / are + fiil-ing",
+      "paragraphs": [
+        "To be fiilini özneye göre seç (I → am, he / she / it → is, you / we / they → are) ve fiilin sonuna -ing ekle. Fiil değişmez, her özneyle aynı -ing biçimi kullanılır; değişen yalnızca am / is / are’dır."
+      ],
+      "formulas": [
+        {
+          "label": "Ben",
+          "pattern": "I + am + fiil-ing",
+          "exampleIds": [
+            "ex-present-continuous-01",
+            "ex-present-continuous-10",
+            "ex-present-continuous-14"
+          ]
+        },
+        {
+          "label": "O (tek kişi veya şey)",
+          "pattern": "He / She / It + is + fiil-ing",
+          "exampleIds": [
+            "ex-present-continuous-03",
+            "ex-present-continuous-04",
+            "ex-present-continuous-05"
+          ]
+        },
+        {
+          "label": "Sen, siz, biz, onlar",
+          "pattern": "You / We / They + are + fiil-ing",
+          "exampleIds": [
+            "ex-present-continuous-02",
+            "ex-present-continuous-06",
+            "ex-present-continuous-07"
+          ]
+        },
+        {
+          "label": "İsimler",
+          "pattern": "The children = they → The children are sleeping.",
+          "exampleIds": [
+            "ex-present-continuous-08",
+            "ex-present-continuous-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "-ing eklerken yazım kuralları",
+      "paragraphs": [
+        "Fiile -ing eklerken fiilin sonuna bakman gerekir:"
+      ],
+      "formulas": [
+        {
+          "label": "Çoğu fiil: + ing",
+          "pattern": "work → working,  play → playing,  read → reading,  watch → watching",
+          "exampleIds": [
+            "ex-present-continuous-02",
+            "ex-present-continuous-07"
+          ]
+        },
+        {
+          "label": "Sessiz -e ile biten fiiller: e düşer + ing",
+          "pattern": "make → making,  write → writing,  come → coming,  have → having",
+          "exampleIds": [
+            "ex-present-continuous-11",
+            "ex-present-continuous-14",
+            "ex-present-continuous-36"
+          ]
+        },
+        {
+          "label": "Kısa, tek heceli ve ünsüz–ünlü–ünsüz ile biten fiiller: son ünsüz ikilenir",
+          "pattern": "run → running,  sit → sitting,  swim → swimming,  stop → stopping",
+          "exampleIds": [
+            "ex-present-continuous-12",
+            "ex-present-continuous-13"
+          ]
+        },
+        {
+          "label": "-ie ile biten fiiller: ie → y + ing",
+          "pattern": "lie → lying,  die → dying",
+          "exampleIds": [
+            "ex-present-continuous-15"
+          ]
+        },
+        {
+          "label": "-y, -w, -x ile biten fiiller: ünsüz ikilenmez",
+          "pattern": "play → playing,  snow → snowing,  fix → fixing",
+          "exampleIds": [
+            "ex-present-continuous-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "Present Continuous’ta olumsuz ve soru yaparken do / does kullanılmaz. Tıpkı to be dersinde olduğu gibi am / is / are’ın kendisi yer değiştirir ya da yanına not gelir."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "Özne + am / is / are + fiil-ing",
+          "exampleIds": [
+            "ex-present-continuous-01",
+            "ex-present-continuous-03",
+            "ex-present-continuous-06",
+            "ex-present-continuous-07"
+          ],
+          "note": "Kısa biçimler konuşmada çok yaygındır: I’m reading, he’s cooking, they’re playing."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "Özne + am / is / are + not + fiil-ing",
+          "exampleIds": [
+            "ex-present-continuous-16",
+            "ex-present-continuous-17",
+            "ex-present-continuous-18",
+            "ex-present-continuous-20"
+          ],
+          "note": "is not → isn’t, are not → aren’t. I am not → I’m not (“amn’t” kullanılmaz)."
+        },
+        {
+          "label": "Soru",
+          "formula": "Am / Is / Are + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-present-continuous-21",
+            "ex-present-continuous-22",
+            "ex-present-continuous-23",
+            "ex-present-continuous-24"
+          ],
+          "note": "Soru yaparken am / is / are özneden önce gelir. Do you studying? ✗ → Are you studying? ✓"
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, özne + am / is / are.  |  No, özne + am not / isn’t / aren’t.",
+          "exampleIds": [
+            "ex-present-continuous-26",
+            "ex-present-continuous-27"
+          ],
+          "note": "Olumlu kısa cevapta kısaltma yapılmaz: Yes, I am. (Yes, I’m. ✗)"
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "Soru sözcüğü + am / is / are + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-present-continuous-28",
+            "ex-present-continuous-29",
+            "ex-present-continuous-30"
+          ],
+          "note": "What are you doing? = Ne yapıyorsun?"
+        }
+      ]
+    },
+    {
+      "id": "examples-positive",
+      "type": "examples",
+      "title": "Örnekler: olumlu cümleler",
+      "paragraphs": [
+        "Her cümlede önce özneye göre am / is / are’ı, sonra -ing’li fiili bul."
+      ],
+      "exampleIds": [
+        "ex-present-continuous-01",
+        "ex-present-continuous-02",
+        "ex-present-continuous-03",
+        "ex-present-continuous-04",
+        "ex-present-continuous-05",
+        "ex-present-continuous-06",
+        "ex-present-continuous-07",
+        "ex-present-continuous-08",
+        "ex-present-continuous-09",
+        "ex-present-continuous-11",
+        "ex-present-continuous-12",
+        "ex-present-continuous-13",
+        "ex-present-continuous-14",
+        "ex-present-continuous-15",
+        "ex-present-continuous-36"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler, sorular ve kısa cevaplar",
+      "exampleIds": [
+        "ex-present-continuous-16",
+        "ex-present-continuous-17",
+        "ex-present-continuous-18",
+        "ex-present-continuous-19",
+        "ex-present-continuous-20",
+        "ex-present-continuous-21",
+        "ex-present-continuous-22",
+        "ex-present-continuous-23",
+        "ex-present-continuous-24",
+        "ex-present-continuous-25",
+        "ex-present-continuous-26",
+        "ex-present-continuous-27",
+        "ex-present-continuous-28",
+        "ex-present-continuous-29",
+        "ex-present-continuous-30",
+        "ex-present-continuous-33"
+      ]
+    },
+    {
+      "id": "examples-time",
+      "type": "examples",
+      "title": "Örnekler: şu an, bu dönem ve durum fiilleri",
+      "exampleIds": [
+        "ex-present-continuous-10",
+        "ex-present-continuous-31",
+        "ex-present-continuous-32",
+        "ex-present-continuous-34",
+        "ex-present-continuous-35"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Kullanım alanları",
+      "paragraphs": [
+        "Present Continuous şu durumlarda kullanılır:"
+      ],
+      "items": [
+        {
+          "heading": "Şu anda olan eylemler",
+          "body": "Konuşma anında devam eden eylemler. Genellikle now, right now, at the moment gibi ifadelerle ya da Look! / Listen! gibi uyarılarla birlikte kullanılır.",
+          "exampleIds": [
+            "ex-present-continuous-01",
+            "ex-present-continuous-05",
+            "ex-present-continuous-31"
+          ]
+        },
+        {
+          "heading": "Bu dönemde süren eylemler",
+          "body": "Tam konuşma anında olmasa bile bu günlerde, bu hafta ya da bu yıl devam eden geçici eylemler.",
+          "exampleIds": [
+            "ex-present-continuous-09",
+            "ex-present-continuous-10",
+            "ex-present-continuous-32"
+          ]
+        },
+        {
+          "heading": "Geçici durumlar",
+          "body": "Kalıcı olmayan, değişebilecek durumlar: Bu hafta teyzesinde kalıyor (normalde başka yerde yaşıyor).",
+          "exampleIds": [
+            "ex-present-continuous-32"
+          ]
+        },
+        {
+          "heading": "Şu anda yapılmayan eylemler",
+          "body": "Olumsuz ve soru cümleleriyle de şu an olup olmadığını söyleyebilirsin.",
+          "exampleIds": [
+            "ex-present-continuous-16",
+            "ex-present-continuous-19",
+            "ex-present-continuous-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signals",
+      "type": "rule",
+      "title": "İpucu sözcükler",
+      "paragraphs": [
+        "Şu sözcükler ve ifadeler çoğu zaman Present Continuous kullanman gerektiğini gösterir:"
+      ],
+      "formulas": [
+        {
+          "label": "Şu an",
+          "pattern": "now,  right now,  at the moment,  at present",
+          "exampleIds": [
+            "ex-present-continuous-01",
+            "ex-present-continuous-06"
+          ]
+        },
+        {
+          "label": "Bu dönem",
+          "pattern": "today,  this week,  this month,  this year,  these days",
+          "exampleIds": [
+            "ex-present-continuous-10",
+            "ex-present-continuous-32"
+          ]
+        },
+        {
+          "label": "Uyarı sözcükleri",
+          "pattern": "Look!,  Listen!,  Watch out!",
+          "exampleIds": [
+            "ex-present-continuous-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "state-verbs",
+      "type": "rule",
+      "title": "Durum fiilleri Continuous olmaz",
+      "paragraphs": [
+        "Bazı fiiller eylem değil, durum, duygu ya da düşünce anlatır. Bunlar genellikle -ing ile kullanılmaz; Present Simple kullanılır. En sık karşılaşacakların: know, like, love, hate, want, need, understand, believe, prefer, own.",
+        "Have fiili de “sahip olmak” anlamındayken -ing almaz (I have a car). Ama “yemek yemek, geçirmek” gibi eylem anlamlarında kullanılabilir: I am having lunch."
+      ],
+      "formulas": [
+        {
+          "label": "Doğru",
+          "pattern": "I know the answer.  She wants a coffee.",
+          "exampleIds": [
+            "ex-present-continuous-34",
+            "ex-present-continuous-35"
+          ]
+        },
+        {
+          "label": "Eylem anlamıyla have",
+          "pattern": "My sister is having lunch.",
+          "exampleIds": [
+            "ex-present-continuous-36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He working now.",
+          "right": "He is working now.",
+          "explanation": "Türkçede “çalışıyor” tek sözcük olduğu için to be fiilini unutmak çok kolaydır. İngilizcede am / is / are zorunludur."
+        },
+        {
+          "wrong": "I am play football now.",
+          "right": "I am playing football now.",
+          "explanation": "Am / is / are’dan sonra fiil -ing almalıdır."
+        },
+        {
+          "wrong": "They is playing in the garden.",
+          "right": "They are playing in the garden.",
+          "explanation": "They çoğuldur; çoğul özneyle are gelir."
+        },
+        {
+          "wrong": "Do you studying now?",
+          "right": "Are you studying now?",
+          "explanation": "Present Continuous sorularında do / does kullanılmaz; are özneden önce gelir."
+        },
+        {
+          "wrong": "She is runing in the park.",
+          "right": "She is running in the park.",
+          "explanation": "Kısa, ünsüz–ünlü–ünsüz ile biten fiillerde son ünsüz ikilenir: run → running."
+        },
+        {
+          "wrong": "He is makeing a cake.",
+          "right": "He is making a cake.",
+          "explanation": "Sessiz -e ile biten fiillerde e düşer: make → making."
+        },
+        {
+          "wrong": "I am knowing his name.",
+          "right": "I know his name.",
+          "explanation": "Know bir durum fiilidir; -ing ile kullanılmaz."
+        },
+        {
+          "wrong": "Are you working? Yes, I’m.",
+          "right": "Are you working? Yes, I am.",
+          "explanation": "Olumlu kısa cevapta am / is / are kısaltılmaz."
+        },
+        {
+          "wrong": "She isn’t listen to me.",
+          "right": "She isn’t listening to me.",
+          "explanation": "Olumsuzda da fiil -ing alır: isn’t + fiil-ing."
+        },
+        {
+          "wrong": "I am go to school every day.",
+          "right": "I go to school every day.",
+          "explanation": "Her gün tekrarlanan alışkanlıklar Present Simple ile söylenir; Present Continuous şu an olan eylemler içindir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Continuous ve Present Simple",
+          "body": "Present Simple alışkanlıkları ve genel doğruları, Present Continuous ise şu an ya da bu dönemde süren eylemleri anlatır: I drink tea every day. / I am drinking tea now.",
+          "lessonId": "a1-present-simple-vs-continuous"
+        },
+        {
+          "topic": "Present Continuous ve To be",
+          "body": "Am / is / are tek başına durum ya da kimlik anlatır (She is tired). Fiil-ing eklenince eylem anlatan Present Continuous olur (She is working).",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "Present Simple",
+          "body": "Do / does yardımcı fiilleri yalnızca Present Simple’da vardır. Present Continuous’ta olumsuz ve soru için am / is / are kullanılır.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Gelecek planları",
+          "body": "Present Continuous, kesinleşmiş gelecek planlarını da anlatabilir (I am meeting Ali tomorrow). Bu kullanım A2 seviyesinde ayrıca işlenecek.",
+          "lessonId": "a2-present-continuous-future"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Am / is / are’ı unutma: “She working” değil, “She is working”.",
+        "Olumsuzda ve soruda do / does kullanılmaz: Are you working? She isn’t working.",
+        "Know, like, want, need, love, understand gibi durum fiilleri genellikle -ing almaz.",
+        "Olumlu kısa cevapta kısaltma yapılmaz: Yes, I am."
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Fiilin -ing biçimi özneye göre değişmez: I am working, she is working, they are working.",
+        "Present Continuous’ta üçüncü tekil kişi için fiile -s eklenmez; -s yalnızca Present Simple’a aittir.",
+        "Yazı dilinde de günlük konuşmada da kısa biçimler (I’m, she’s, they’re) çok yaygındır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-present-continuous-01",
+        "q-present-continuous-02",
+        "q-present-continuous-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-present-continuous-01",
+      "en": "I am reading a book now.",
+      "tr": "Şu anda bir kitap okuyorum.",
+      "highlight": "am reading",
+      "note": "I → am + fiil-ing"
+    },
+    {
+      "id": "ex-present-continuous-02",
+      "en": "You are watching TV.",
+      "tr": "Televizyon izliyorsun.",
+      "highlight": "are watching"
+    },
+    {
+      "id": "ex-present-continuous-03",
+      "en": "He is cooking dinner.",
+      "tr": "Akşam yemeği pişiriyor.",
+      "highlight": "is cooking"
+    },
+    {
+      "id": "ex-present-continuous-04",
+      "en": "She is talking on the phone.",
+      "tr": "Telefonda konuşuyor.",
+      "highlight": "is talking"
+    },
+    {
+      "id": "ex-present-continuous-05",
+      "en": "It is raining.",
+      "tr": "Yağmur yağıyor.",
+      "highlight": "is raining"
+    },
+    {
+      "id": "ex-present-continuous-06",
+      "en": "We are waiting for the bus.",
+      "tr": "Otobüsü bekliyoruz.",
+      "highlight": "are waiting"
+    },
+    {
+      "id": "ex-present-continuous-07",
+      "en": "They are playing in the garden.",
+      "tr": "Bahçede oynuyorlar.",
+      "highlight": "are playing"
+    },
+    {
+      "id": "ex-present-continuous-08",
+      "en": "The children are sleeping.",
+      "tr": "Çocuklar uyuyor.",
+      "highlight": "are sleeping",
+      "note": "The children = they → are"
+    },
+    {
+      "id": "ex-present-continuous-09",
+      "en": "My brother is studying for an exam.",
+      "tr": "Erkek kardeşim bir sınava çalışıyor.",
+      "highlight": "is studying",
+      "note": "Bu günlerde süren bir durum olabilir."
+    },
+    {
+      "id": "ex-present-continuous-10",
+      "en": "I am learning English this year.",
+      "tr": "Bu yıl İngilizce öğreniyorum.",
+      "highlight": "am learning",
+      "note": "Geçici / bu dönemde süren eylem"
+    },
+    {
+      "id": "ex-present-continuous-11",
+      "en": "She is making a cake.",
+      "tr": "Kek yapıyor.",
+      "highlight": "is making",
+      "note": "make → making (e düşer)"
+    },
+    {
+      "id": "ex-present-continuous-12",
+      "en": "He is running in the park.",
+      "tr": "Parkta koşuyor.",
+      "highlight": "is running",
+      "note": "run → running (n ikilenir)"
+    },
+    {
+      "id": "ex-present-continuous-13",
+      "en": "They are sitting on the sofa.",
+      "tr": "Kanepede oturuyorlar.",
+      "highlight": "are sitting",
+      "note": "sit → sitting (t ikilenir)"
+    },
+    {
+      "id": "ex-present-continuous-14",
+      "en": "I am writing an email.",
+      "tr": "Bir e-posta yazıyorum.",
+      "highlight": "am writing",
+      "note": "write → writing (e düşer)"
+    },
+    {
+      "id": "ex-present-continuous-15",
+      "en": "The cat is lying on the bed.",
+      "tr": "Kedi yatakta yatıyor.",
+      "highlight": "is lying",
+      "note": "lie → lying"
+    },
+    {
+      "id": "ex-present-continuous-16",
+      "en": "I'm not working today.",
+      "tr": "Bugün çalışmıyorum.",
+      "highlight": "'m not working",
+      "note": "I am not → I'm not"
+    },
+    {
+      "id": "ex-present-continuous-17",
+      "en": "She isn't listening to me.",
+      "tr": "Beni dinlemiyor.",
+      "highlight": "isn't listening"
+    },
+    {
+      "id": "ex-present-continuous-18",
+      "en": "We aren't watching TV.",
+      "tr": "Televizyon izlemiyoruz.",
+      "highlight": "aren't watching"
+    },
+    {
+      "id": "ex-present-continuous-19",
+      "en": "He isn't sleeping.",
+      "tr": "Uyumuyor.",
+      "highlight": "isn't sleeping"
+    },
+    {
+      "id": "ex-present-continuous-20",
+      "en": "They aren't playing football.",
+      "tr": "Futbol oynamıyorlar.",
+      "highlight": "aren't playing"
+    },
+    {
+      "id": "ex-present-continuous-21",
+      "en": "Are you studying?",
+      "tr": "Ders çalışıyor musun?",
+      "highlight": "Are"
+    },
+    {
+      "id": "ex-present-continuous-22",
+      "en": "Is she working today?",
+      "tr": "Bugün çalışıyor mu?",
+      "highlight": "Is"
+    },
+    {
+      "id": "ex-present-continuous-23",
+      "en": "Am I disturbing you?",
+      "tr": "Seni rahatsız ediyor muyum?",
+      "highlight": "Am"
+    },
+    {
+      "id": "ex-present-continuous-24",
+      "en": "Are they waiting for us?",
+      "tr": "Bizi bekliyorlar mı?",
+      "highlight": "Are"
+    },
+    {
+      "id": "ex-present-continuous-25",
+      "en": "Is it raining?",
+      "tr": "Yağmur yağıyor mu?",
+      "highlight": "Is"
+    },
+    {
+      "id": "ex-present-continuous-26",
+      "en": "Yes, I am.",
+      "tr": "Evet, (öyleyim).",
+      "highlight": "am",
+      "note": "Kısa cevapta fiil tekrarlanmaz ve kısaltma yapılmaz."
+    },
+    {
+      "id": "ex-present-continuous-27",
+      "en": "No, he isn't.",
+      "tr": "Hayır, (değil).",
+      "highlight": "isn't"
+    },
+    {
+      "id": "ex-present-continuous-28",
+      "en": "What are you doing?",
+      "tr": "Ne yapıyorsun?",
+      "highlight": "are"
+    },
+    {
+      "id": "ex-present-continuous-29",
+      "en": "Where is he going?",
+      "tr": "Nereye gidiyor?",
+      "highlight": "is"
+    },
+    {
+      "id": "ex-present-continuous-30",
+      "en": "Why are they laughing?",
+      "tr": "Neden gülüyorlar?",
+      "highlight": "are"
+    },
+    {
+      "id": "ex-present-continuous-31",
+      "en": "Look! The baby is smiling.",
+      "tr": "Bak! Bebek gülümsüyor.",
+      "highlight": "is smiling",
+      "note": "Look! / Listen! gibi ifadeler şu anı gösterir."
+    },
+    {
+      "id": "ex-present-continuous-32",
+      "en": "She is staying with her aunt this week.",
+      "tr": "Bu hafta teyzesinde kalıyor.",
+      "highlight": "is staying",
+      "note": "Geçici durum"
+    },
+    {
+      "id": "ex-present-continuous-33",
+      "en": "I'm not feeling well today.",
+      "tr": "Bugün kendimi iyi hissetmiyorum.",
+      "highlight": "'m not feeling"
+    },
+    {
+      "id": "ex-present-continuous-34",
+      "en": "I know the answer.",
+      "tr": "Cevabı biliyorum.",
+      "highlight": "know",
+      "note": "Know bir durum fiilidir: am knowing ✗"
+    },
+    {
+      "id": "ex-present-continuous-35",
+      "en": "She wants a coffee.",
+      "tr": "Bir kahve istiyor.",
+      "highlight": "wants",
+      "note": "Want bir durum fiilidir: is wanting ✗"
+    },
+    {
+      "id": "ex-present-continuous-36",
+      "en": "My sister is having lunch with her friends.",
+      "tr": "Kız kardeşim arkadaşlarıyla öğle yemeği yiyor.",
+      "highlight": "is having"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-present-continuous-01",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ a book now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "reads"
+        },
+        {
+          "id": "b",
+          "text": "is reading"
+        },
+        {
+          "id": "c",
+          "text": "are reading"
+        },
+        {
+          "id": "d",
+          "text": "reading"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Now” (şimdi) eylemin şu anda devam ettiğini gösterir. She ile is kullanılır ve fiile -ing eklenir: She is reading a book now.",
+      "optionExplanations": {
+        "a": "Reads, alışkanlığı anlatır; “now” şu anı gösterdiği için Present Continuous gerekir.",
+        "c": "Are, she ile kullanılmaz; she için is gerekir.",
+        "d": "Reading tek başına yetmez; am / is / are da gerekir."
+      },
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-02",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ (cook) dinner now.",
+      "answers": [
+        "is cooking"
+      ],
+      "explanation": "He ile is kullanılır ve fiile -ing eklenir: He is cooking dinner now.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "cooks",
+          "explanation": "“Now” şu anı gösterir; alışkanlığı anlatan Present Simple değil Present Continuous gerekir."
+        },
+        {
+          "answer": "cooking",
+          "explanation": "Am / is / are da gerekir: is cooking."
+        },
+        {
+          "answer": "is cook",
+          "explanation": "Fiil -ing almalıdır: cooking."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-03",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şu anda kitap okuyorum.",
+      "answer": [
+        "I",
+        "am",
+        "reading",
+        "a",
+        "book",
+        "now"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is"
+      ],
+      "explanation": "I ile am kullanılır, fiile -ing eklenir; now cümlenin sonuna gelir: I am reading a book now.",
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-04",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He working now.",
+      "errorSpan": "working",
+      "answers": [
+        "He is working now.",
+        "He's working now."
+      ],
+      "explanation": "Present Continuous’ta to be fiili (am / is / are) zorunludur. He ile is kullanılır: He is working now.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is work now.",
+          "explanation": "To be eklenmiş ama fiil -ing almamış: working."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-05",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu anda çalışıyorum.",
+      "hint": "şu anda: at the moment, çalışmak: work",
+      "answers": [
+        "I am working at the moment.",
+        "I'm working at the moment.",
+        "At the moment I am working.",
+        "At the moment I'm working."
+      ],
+      "targetStructure": "Present Continuous olumlu: I am + fiil-ing",
+      "explanation": "Şu anda devam eden bir eylem olduğu için Present Continuous kullanılır: I am working.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I working at the moment.",
+          "explanation": "Am eksik: I am working."
+        },
+        {
+          "answer": "I work at the moment.",
+          "explanation": "Şu anda olan eylem için Present Simple değil Present Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-06",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ football at the moment.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are playing"
+        },
+        {
+          "id": "b",
+          "text": "is playing"
+        },
+        {
+          "id": "c",
+          "text": "are play"
+        },
+        {
+          "id": "d",
+          "text": "plays"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They ile are kullanılır ve fiile -ing eklenir: They are playing football at the moment.",
+      "optionExplanations": {
+        "b": "Is, tekil özneyle kullanılır; they çoğuldur.",
+        "c": "Are’dan sonra fiil -ing almalıdır.",
+        "d": "Plays, he / she / it ile kullanılan Present Simple biçimidir; burada Present Continuous gerekir."
+      },
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "now"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-07",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ (read) a book at the moment.",
+      "answers": [
+        "am reading"
+      ],
+      "explanation": "I ile am kullanılır: I am reading a book at the moment.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is reading",
+          "explanation": "I ile is kullanılmaz; I her zaman am alır."
+        },
+        {
+          "answer": "reading",
+          "explanation": "Am de gerekir: am reading."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "now"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-08",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (erkek) akşam yemeği pişiriyor.",
+      "answer": [
+        "He",
+        "is",
+        "cooking",
+        "dinner"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are"
+      ],
+      "explanation": "He ile is kullanılır, fiile -ing eklenir: He is cooking dinner.",
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-09",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am play football now.",
+      "errorSpan": "play",
+      "answers": [
+        "I am playing football now.",
+        "I'm playing football now."
+      ],
+      "explanation": "Am’dan sonra fiil -ing almalıdır: playing. “Now” şu anı gösterir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I playing football now.",
+          "explanation": "To be eksik: I am playing."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-10",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağıyor.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "It is raining.",
+        "It's raining."
+      ],
+      "targetStructure": "Present Continuous: it + is + fiil-ing",
+      "explanation": "Hava olayları anlatılırken özne it olur. Şu anda yağıyorsa Present Continuous kullanılır: It is raining.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is raining.",
+          "explanation": "İngilizcede özne zorunludur: It is raining."
+        },
+        {
+          "answer": "It rains.",
+          "explanation": "Şu anda yağıyorsa Present Continuous gerekir. It rains genel bir durumu anlatır."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "weather",
+        "now"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-continuous-11",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ not working today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile am kullanılır; olumsuz yapmak için am’dan sonra not gelir: I am not working today.",
+      "optionExplanations": {
+        "b": "Is, he / she / it ile kullanılır.",
+        "c": "Are, you / we / they ile kullanılır.",
+        "d": "Do, Present Continuous’ta kullanılmaz."
+      },
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-continuous-12",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ (wait) for the bus.",
+      "answers": [
+        "are waiting"
+      ],
+      "explanation": "They ile are kullanılır: They are waiting for the bus.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is waiting",
+          "explanation": "They çoğuldur; is değil are gerekir."
+        },
+        {
+          "answer": "waiting",
+          "explanation": "Are de gerekir: are waiting."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-13",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ he sleeping?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Does"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru yaparken to be özneden önce gelir. He ile is kullanılır: Is he sleeping?",
+      "optionExplanations": {
+        "b": "Are, you / we / they ile kullanılır.",
+        "c": "Does, Present Simple sorularında kullanılır; Present Continuous’ta kullanılmaz.",
+        "d": "Do, Present Simple sorularında kullanılır; Present Continuous’ta kullanılmaz."
+      },
+      "tags": [
+        "present-continuous",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-continuous-14",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is runing in the park.",
+      "errorSpan": "runing",
+      "answers": [
+        "She is running in the park.",
+        "She's running in the park."
+      ],
+      "explanation": "Run kısa, ünsüz–ünlü–ünsüz ile biten bir fiildir; -ing eklerken n ikilenir: running.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is run in the park.",
+          "explanation": "-ing eksik: running."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-15",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What are you ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "doing"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "to do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Are’dan sonra fiil -ing almalıdır: What are you doing? (Ne yapıyorsun?)",
+      "optionExplanations": {
+        "a": "Are’dan sonra fiil yalın değil -ing’li olmalıdır.",
+        "c": "Does, Present Continuous’ta kullanılmaz.",
+        "d": "To do, are’dan sonra kullanılmaz."
+      },
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "verb_form",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-16",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ (make) a cake.",
+      "answers": [
+        "is making"
+      ],
+      "explanation": "Make, sessiz -e ile biter; -ing eklerken e düşer: making. She ile is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is makeing",
+          "explanation": "Sessiz -e ile biten fiillerde e düşer: making."
+        },
+        {
+          "answer": "is make",
+          "explanation": "Fiile -ing eklenmeli: making."
+        },
+        {
+          "answer": "makes",
+          "explanation": "Şu anda olan eylem için Present Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-17",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çocuklar bahçede oynuyor.",
+      "answer": [
+        "The",
+        "children",
+        "are",
+        "playing",
+        "in",
+        "the",
+        "garden"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "play"
+      ],
+      "explanation": "The children = they; are kullanılır ve fiile -ing eklenir: The children are playing in the garden.",
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-18",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onlar televizyon izlemiyor.",
+      "hint": "izlemek: watch. “TV” sözcüğünü kullan.",
+      "answers": [
+        "They aren't watching TV.",
+        "They are not watching TV.",
+        "They're not watching TV."
+      ],
+      "targetStructure": "Present Continuous olumsuz: they + aren’t + fiil-ing",
+      "explanation": "They ile are kullanılır; olumsuz için not eklenir ve fiil -ing alır: They aren’t watching TV.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They don't watching TV.",
+          "explanation": "Present Continuous’ta don’t kullanılmaz; aren’t gerekir."
+        },
+        {
+          "answer": "They aren't watch TV.",
+          "explanation": "Fiil -ing almalıdır: watching."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-continuous-19",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The boy ___ (run) in the park.",
+      "answers": [
+        "is running"
+      ],
+      "explanation": "Run kısa, ünsüz–ünlü–ünsüz ile biten bir fiildir; n ikilenir: running.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is runing",
+          "explanation": "Son ünsüz ikilenmeli: running."
+        },
+        {
+          "answer": "is run",
+          "explanation": "Fiile -ing eklenmeli."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-20",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is runing in the park."
+        },
+        {
+          "id": "b",
+          "text": "He is running in the park."
+        },
+        {
+          "id": "c",
+          "text": "He is run in the park."
+        },
+        {
+          "id": "d",
+          "text": "He running in the park."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Run ünsüz–ünlü–ünsüz ile biter; -ing eklerken n ikilenir ve is kullanılır: He is running in the park.",
+      "optionExplanations": {
+        "a": "Son ünsüz ikilenmeli: running.",
+        "c": "Fiil -ing almalıdır.",
+        "d": "To be (is) eksik."
+      },
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-21",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Televizyon izlemiyoruz.",
+      "answer": [
+        "We",
+        "aren't",
+        "watching",
+        "TV"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "watch"
+      ],
+      "explanation": "We ile are kullanılır; olumsuzu aren’t’tir ve fiil -ing alır: We aren’t watching TV.",
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-22",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ (not / watch) TV now.",
+      "hint": "Cümleyi olumsuz yap: Şimdi televizyon izlemiyoruz.",
+      "answers": [
+        "aren't watching",
+        "are not watching"
+      ],
+      "explanation": "We ile are kullanılır; olumsuz için aren’t ve fiil -ing: We aren’t watching TV now.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't watching",
+          "explanation": "Present Continuous’ta don’t kullanılmaz."
+        },
+        {
+          "answer": "aren't watch",
+          "explanation": "Fiil -ing almalıdır: watching."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-23",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They is playing in the garden.",
+      "errorSpan": "is",
+      "answers": [
+        "They are playing in the garden.",
+        "They're playing in the garden."
+      ],
+      "explanation": "They çoğuldur; are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They are play in the garden.",
+          "explanation": "-ing eksik: playing."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-24",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Look! It ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rains"
+        },
+        {
+          "id": "b",
+          "text": "is raining"
+        },
+        {
+          "id": "c",
+          "text": "are raining"
+        },
+        {
+          "id": "d",
+          "text": "rain"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Look!” şu anda olan bir şeye dikkat çeker; Present Continuous gerekir: It is raining.",
+      "optionExplanations": {
+        "a": "Rains, genel durumları anlatır; “Look!” şu anı gösterir.",
+        "c": "It ile are kullanılmaz; it için is gerekir.",
+        "d": "Rain yalın fiildir; am / is / are ve -ing gerekir."
+      },
+      "tags": [
+        "present-continuous",
+        "now",
+        "weather"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-25",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ders çalışıyor musun?",
+      "answer": [
+        "Are",
+        "you",
+        "studying"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "study"
+      ],
+      "explanation": "Soruda are özneden önce gelir ve fiil -ing alır: Are you studying?",
+      "tags": [
+        "present-continuous",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-26",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne yapıyorsun?",
+      "hint": "yapmak: do",
+      "answers": [
+        "What are you doing?"
+      ],
+      "targetStructure": "Wh- sorusu: What + are + özne + fiil-ing",
+      "explanation": "Soru sözcüğü başa gelir, ardından am / is / are ve özne, en sonda -ing’li fiil: What are you doing?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What you are doing?",
+          "explanation": "Soru yaparken are özneden önce gelmelidir."
+        },
+        {
+          "answer": "What do you doing?",
+          "explanation": "Do ve -ing aynı cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-27",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ the children sleeping?",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "The children = they; soruda are başa gelir: Are the children sleeping?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is",
+          "explanation": "Children çoğuldur; is değil are kullanılır."
+        },
+        {
+          "answer": "Do",
+          "explanation": "Present Continuous sorularında do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-28",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Are you working? Yes, I ___.",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Soru are ile kurulmuş ama cevap veren kişi kendinden söz ettiği için I ile am kullanılır: Yes, I am.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "'m",
+          "explanation": "Olumlu kısa cevapta kısaltma yapılmaz: Yes, I am."
+        },
+        {
+          "answer": "are",
+          "explanation": "Cevap veren kişi kendinden söz eder (I); I ile am gelir."
+        },
+        {
+          "answer": "working",
+          "explanation": "Kısa cevapta ana fiil tekrarlanmaz: Yes, I am."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "short-answer"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-29",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you studying now?",
+      "errorSpan": "Do",
+      "answers": [
+        "Are you studying now?"
+      ],
+      "explanation": "Present Continuous sorularında do kullanılmaz; are özneden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you study now?",
+          "explanation": "Bu Present Simple’a dönüşür; şu anda olan eylemi sormak için Present Continuous gerekir: Are you studying now?"
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-30",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Is it raining? No, it ___.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "Soru is ile kurulduğu için olumsuz kısa cevap isn’t’tir: No, it isn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't",
+          "explanation": "Present Continuous’ta doesn’t kullanılmaz; isn’t gerekir."
+        },
+        {
+          "answer": "not",
+          "explanation": "Not tek başına yetmez: isn’t / is not."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "short-answer"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-continuous-31",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Erkek kardeşin uyuyor mu?",
+      "hint": "kardeş: brother, uyumak: sleep",
+      "answers": [
+        "Is your brother sleeping?"
+      ],
+      "targetStructure": "Present Continuous soru: Is + özne + fiil-ing",
+      "explanation": "Your brother = he; soruda is başa gelir: Is your brother sleeping?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does your brother sleeping?",
+          "explanation": "Present Continuous’ta does kullanılmaz; is gerekir."
+        },
+        {
+          "answer": "Your brother is sleeping?",
+          "explanation": "Soruda is özneden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-32",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I am knowing the answer."
+        },
+        {
+          "id": "b",
+          "text": "I know the answer."
+        },
+        {
+          "id": "c",
+          "text": "I knowing the answer."
+        },
+        {
+          "id": "d",
+          "text": "I am know the answer."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Know bir durum fiilidir; -ing ile kullanılmaz, Present Simple kullanılır: I know the answer.",
+      "optionExplanations": {
+        "a": "Know gibi durum fiilleri genellikle -ing almaz.",
+        "c": "To be ve -ing eksik / yanlış; ayrıca know durum fiilidir.",
+        "d": "Am ve yalın fiil aynı cümlede kullanılmaz."
+      },
+      "tags": [
+        "present-continuous",
+        "state-verbs"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-continuous-33",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am knowing his name.",
+      "errorSpan": "am knowing",
+      "answers": [
+        "I know his name."
+      ],
+      "explanation": "Know bir durum fiilidir ve genellikle -ing almaz: I know his name.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am know his name.",
+          "explanation": "Am ile yalın fiil yan yana gelmez; ayrıca know -ing almaz."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "state-verbs"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-continuous-34",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne yapıyorsun?",
+      "answer": [
+        "What",
+        "are",
+        "you",
+        "doing"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "does"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından are, özne ve -ing’li fiil: What are you doing?",
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-35",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I ___ (not / feel) well today.",
+      "hint": "Cümleyi olumsuz yap: Bugün kendimi iyi hissetmiyorum.",
+      "answers": [
+        "am not feeling"
+      ],
+      "explanation": "I ile am kullanılır; olumsuz için not eklenir ve fiil -ing alır: I am not feeling well today. “Today” bu dönemde süren geçici bir durumu gösterir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't feeling",
+          "explanation": "Present Continuous’ta don’t kullanılmaz; am not gerekir."
+        },
+        {
+          "answer": "isn't feeling",
+          "explanation": "I ile isn’t kullanılmaz; am not gerekir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-36",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Is she working today?” sorusuna olumsuz kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, she isn't."
+        },
+        {
+          "id": "b",
+          "text": "No, she doesn't."
+        },
+        {
+          "id": "c",
+          "text": "No, she don't."
+        },
+        {
+          "id": "d",
+          "text": "No, she not."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru is ile kurulduğu için olumsuz kısa cevap isn’t ile verilir: No, she isn’t.",
+      "optionExplanations": {
+        "b": "Doesn’t Present Simple’a aittir; bu soru is ile kurulmuş.",
+        "c": "Don’t Present Simple’a aittir ve she ile kullanılmaz.",
+        "d": "Not tek başına yeterli değildir; isn’t gerekir."
+      },
+      "tags": [
+        "present-continuous",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-continuous-37",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She isn't listen to me.",
+      "errorSpan": "listen",
+      "answers": [
+        "She isn't listening to me."
+      ],
+      "explanation": "Olumsuz cümlede de fiil -ing alır: isn’t listening.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She doesn't listen to me.",
+          "explanation": "Bu Present Simple’dır ve anlam değişir. Present Continuous’ta isn’t + fiil-ing kullanılır."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-continuous-38",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (kadın) şu anda telefonda konuşuyor.",
+      "answer": [
+        "She",
+        "is",
+        "talking",
+        "on",
+        "the",
+        "phone",
+        "at",
+        "the",
+        "moment"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are"
+      ],
+      "explanation": "She ile is kullanılır ve fiil -ing alır. “Telefonda” için on the phone, “şu anda” için at the moment denir.",
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-present-continuous-39",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Annem yemek pişiriyor.",
+      "hint": "Anne için mother kullan. yemek pişirmek: cook dinner",
+      "answers": [
+        "My mother is cooking dinner.",
+        "My mother's cooking dinner."
+      ],
+      "targetStructure": "Present Continuous: my mother (she) + is + fiil-ing",
+      "explanation": "My mother = she; is kullanılır ve fiil -ing alır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My mother cooking dinner.",
+          "explanation": "Is eksik."
+        },
+        {
+          "answer": "My mother cooks dinner.",
+          "explanation": "Şu anda olan eylem için Present Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-continuous-40",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Mom ___ dinner, so she can't talk now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is cooking"
+        },
+        {
+          "id": "b",
+          "text": "cooks"
+        },
+        {
+          "id": "c",
+          "text": "are cooking"
+        },
+        {
+          "id": "d",
+          "text": "cook"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "“So she can’t talk now” eylemin şu anda sürdüğünü gösterir: Mom is cooking dinner.",
+      "optionExplanations": {
+        "b": "Cooks, alışkanlığı anlatır; şu anda süren eylem için Present Continuous gerekir.",
+        "c": "Mom tekildir (she); are değil is gerekir.",
+        "d": "Cook yalın fiildir; am / is / are ve -ing gerekir."
+      },
+      "tags": [
+        "present-continuous",
+        "now"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-41",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Neden gülüyorlar?",
+      "answer": [
+        "Why",
+        "are",
+        "they",
+        "laughing"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "is",
+        "laugh"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından are, özne ve -ing’li fiil: Why are they laughing?",
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-42",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He ___ (sit) on the sofa.",
+      "answers": [
+        "is sitting"
+      ],
+      "explanation": "Sit kısa, ünsüz–ünlü–ünsüz ile biten bir fiildir; t ikilenir: sitting.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is siting",
+          "explanation": "Son ünsüz ikilenmeli: sitting."
+        },
+        {
+          "answer": "is sit",
+          "explanation": "Fiile -ing eklenmeli."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-43",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Why ___ she crying?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "She ile is kullanılır: Why is she crying?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "She tekildir; are değil is gerekir."
+        },
+        {
+          "answer": "does",
+          "explanation": "Present Continuous sorularında does kullanılmaz."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-continuous-44",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çocuklar neden ağlıyor?",
+      "hint": "ağlamak: cry",
+      "answers": [
+        "Why are the children crying?"
+      ],
+      "targetStructure": "Wh- sorusu: Why + are + özne + fiil-ing",
+      "explanation": "The children = they; are kullanılır: Why are the children crying?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Why do the children crying?",
+          "explanation": "Present Continuous’ta do kullanılmaz; are gerekir."
+        },
+        {
+          "answer": "Why the children are crying?",
+          "explanation": "Soru yaparken are özneden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-continuous-45",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu hafta teyzesinde kalıyor. (O kadın)",
+      "answer": [
+        "She",
+        "is",
+        "staying",
+        "with",
+        "her",
+        "aunt",
+        "this",
+        "week"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "stays"
+      ],
+      "explanation": "Bu hafta geçici bir durumdur; Present Continuous kullanılır: She is staying with her aunt this week.",
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "temporary"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-46",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Are you working? Yes, I'm.",
+      "errorSpan": "I'm",
+      "answers": [
+        "Are you working? Yes, I am.",
+        "Are you working? Yes I am.",
+        "Yes, I am.",
+        "Yes I am."
+      ],
+      "explanation": "Olumlu kısa cevaplarda am / is / are kısaltılmaz: Yes, I am.",
+      "tags": [
+        "present-continuous",
+        "short-answer"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-47",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is makeing a cake.",
+      "errorSpan": "makeing",
+      "answers": [
+        "He is making a cake.",
+        "He's making a cake."
+      ],
+      "explanation": "Make, sessiz -e ile biter; -ing eklerken e düşer: making.",
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-48",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu yıl İngilizce öğreniyorum.",
+      "hint": "öğrenmek: learn, bu yıl: this year",
+      "answers": [
+        "I am learning English this year.",
+        "I'm learning English this year.",
+        "This year I am learning English.",
+        "This year I'm learning English."
+      ],
+      "targetStructure": "Present Continuous: bu dönemde süren eylem",
+      "explanation": "“Bu yıl” içinde bulunduğun geçici bir dönemi gösterir; Present Continuous kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I learn English this year.",
+          "explanation": "Bu dönemde süren eylem için Present Continuous tercih edilir; Present Simple genel gerçekleri anlatır."
+        },
+        {
+          "answer": "I learning English this year.",
+          "explanation": "Am eksik: I am learning."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "temporary"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-continuous-49",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Biz televizyon izlemiyoruz.” cümlesinin İngilizcesi hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We don't watching TV."
+        },
+        {
+          "id": "b",
+          "text": "We aren't watching TV."
+        },
+        {
+          "id": "c",
+          "text": "We not watching TV."
+        },
+        {
+          "id": "d",
+          "text": "We aren't watch TV."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "We ile are kullanılır; olumsuzu aren’t’tir ve fiil -ing alır: We aren’t watching TV.",
+      "optionExplanations": {
+        "a": "Present Continuous’ta don’t kullanılmaz.",
+        "c": "To be fiili (are) eksik.",
+        "d": "Fiil -ing almalıdır: watching."
+      },
+      "tags": [
+        "present-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-continuous-50",
+      "lessonId": "a1-present-continuous",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She ___ (lie) on the beach.",
+      "answers": [
+        "is lying"
+      ],
+      "explanation": "Lie, -ie ile biten bir fiildir; -ing eklerken ie, y olur: lying.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is lieing",
+          "explanation": "-ie ile biten fiillerde ie → y: lying."
+        },
+        {
+          "answer": "is liing",
+          "explanation": "-ie ile biten fiillerde ie → y: lying."
+        }
+      ],
+      "tags": [
+        "present-continuous",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-present-continuous",
+    "title": "Present Continuous: Konu sonu sınavı",
+    "description": "Olumlu, olumsuz, soru, kısa cevap, yazım kuralları ve durum fiilleri konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-present-continuous-exam-01",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We ___ for the bus now.",
+        "options": [
+          {
+            "id": "a",
+            "text": "wait"
+          },
+          {
+            "id": "b",
+            "text": "are waiting"
+          },
+          {
+            "id": "c",
+            "text": "is waiting"
+          },
+          {
+            "id": "d",
+            "text": "waits"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "“Now” şu anı gösterir; we ile are kullanılır ve fiil -ing alır: We are waiting for the bus now.",
+        "optionExplanations": {
+          "a": "Yalın fiil Present Simple’dır; “now” Present Continuous gerektirir.",
+          "c": "We çoğuldur; is değil are kullanılır.",
+          "d": "Waits, he / she / it ile kullanılan Present Simple biçimidir."
+        },
+        "tags": [
+          "present-continuous",
+          "affirmative",
+          "now"
+        ],
+        "errorTags": [
+          "tense_confusion",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-02",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I ___ (study) now.",
+        "answers": [
+          "am studying"
+        ],
+        "explanation": "I ile am kullanılır ve fiil -ing alır. Study, -y ile biter ama -ing eklerken y korunur: studying.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "am studing",
+            "explanation": "Y korunur: studying."
+          },
+          {
+            "answer": "is studying",
+            "explanation": "I ile is kullanılmaz."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "affirmative",
+          "now"
+        ],
+        "errorTags": [
+          "verb_form",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-03",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Biz müzik dinliyoruz.",
+        "answer": [
+          "We",
+          "are",
+          "listening",
+          "to",
+          "music"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "listen"
+        ],
+        "explanation": "We ile are kullanılır, fiil -ing alır. “Dinlemek” için listen to denir: We are listening to music.",
+        "tags": [
+          "present-continuous",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-04",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I am eat lunch now.",
+        "errorSpan": "eat",
+        "answers": [
+          "I am eating lunch now.",
+          "I'm eating lunch now."
+        ],
+        "explanation": "Am’dan sonra fiil -ing almalıdır: eating.",
+        "tags": [
+          "present-continuous",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-05",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "O (kadın) müzik dinliyor.",
+        "hint": "dinlemek: listen to",
+        "answers": [
+          "She is listening to music.",
+          "She's listening to music."
+        ],
+        "targetStructure": "Present Continuous: she + is + fiil-ing",
+        "explanation": "She ile is kullanılır, fiil -ing alır. “Dinlemek” için listen to kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She is listening music.",
+            "explanation": "Listen fiilinden sonra to gerekir: listen to."
+          },
+          {
+            "answer": "She listening to music.",
+            "explanation": "Is eksik."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-06",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ not sleeping.",
+        "options": [
+          {
+            "id": "a",
+            "text": "am"
+          },
+          {
+            "id": "b",
+            "text": "is"
+          },
+          {
+            "id": "c",
+            "text": "are"
+          },
+          {
+            "id": "d",
+            "text": "do"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "She ile is kullanılır: She is not sleeping.",
+        "optionExplanations": {
+          "a": "Am yalnızca I ile.",
+          "c": "Are, you / we / they ile kullanılır.",
+          "d": "Do, Present Continuous’ta kullanılmaz."
+        },
+        "tags": [
+          "present-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-07",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The baby ___ (sleep) now.",
+        "answers": [
+          "is sleeping"
+        ],
+        "explanation": "The baby = it / she / he; is kullanılır ve fiil -ing alır: is sleeping.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "sleeps",
+            "explanation": "“Now” şu anı gösterir; Present Continuous gerekir."
+          },
+          {
+            "answer": "are sleeping",
+            "explanation": "Baby tektir; is gerekir."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "affirmative",
+          "now"
+        ],
+        "errorTags": [
+          "tense_confusion",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-08",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "O (erkek) ev ödevini yapıyor mu?",
+        "answer": [
+          "Is",
+          "he",
+          "doing",
+          "his",
+          "homework"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Are",
+          "does"
+        ],
+        "explanation": "Soruda is özneden önce gelir ve fiil -ing alır: Is he doing his homework?",
+        "tags": [
+          "present-continuous",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-09",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is writeing an email.",
+        "errorSpan": "writeing",
+        "answers": [
+          "She is writing an email.",
+          "She's writing an email."
+        ],
+        "explanation": "Write sessiz -e ile biter; -ing eklerken e düşer: writing.",
+        "tags": [
+          "present-continuous",
+          "affirmative",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-10",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biz şimdi yemek yemiyoruz.",
+        "hint": "yemek yemek: eat, şimdi: now",
+        "answers": [
+          "We aren't eating now.",
+          "We are not eating now.",
+          "We're not eating now."
+        ],
+        "targetStructure": "Present Continuous olumsuz: we + aren’t + fiil-ing",
+        "explanation": "We ile are kullanılır; olumsuz için not eklenir ve fiil -ing alır. Eat, -e düşmesi gerekmeyen bir fiildir: eating.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We don't eating now.",
+            "explanation": "Present Continuous’ta don’t kullanılmaz."
+          },
+          {
+            "answer": "We aren't eat now.",
+            "explanation": "Fiil -ing almalıdır: eating."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-11",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They are listening to music."
+          },
+          {
+            "id": "b",
+            "text": "They listening to music."
+          },
+          {
+            "id": "c",
+            "text": "They is listening to music."
+          },
+          {
+            "id": "d",
+            "text": "They are listen to music."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "They ile are kullanılır ve fiil -ing alır: They are listening to music.",
+        "optionExplanations": {
+          "b": "To be (are) eksik.",
+          "c": "They çoğuldur; is değil are kullanılır.",
+          "d": "Fiil -ing almalıdır: listening."
+        },
+        "tags": [
+          "present-continuous",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-12",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They ___ (not / play) now.",
+        "hint": "Cümleyi olumsuz yap: Şimdi oynamıyorlar.",
+        "answers": [
+          "aren't playing",
+          "are not playing"
+        ],
+        "explanation": "They ile are kullanılır; olumsuz için not eklenir: They aren’t playing now.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't playing",
+            "explanation": "Present Continuous’ta don’t kullanılmaz."
+          },
+          {
+            "answer": "aren't play",
+            "explanation": "Fiil -ing almalıdır: playing."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-13",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is they sleeping?",
+        "errorSpan": "Is",
+        "answers": [
+          "Are they sleeping?"
+        ],
+        "explanation": "They çoğuldur; soruda are başa gelir: Are they sleeping?",
+        "tags": [
+          "present-continuous",
+          "question"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-14",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle durum fiili nedeniyle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She wants a new bag."
+          },
+          {
+            "id": "b",
+            "text": "She is wanting a new bag."
+          },
+          {
+            "id": "c",
+            "text": "She are want a new bag."
+          },
+          {
+            "id": "d",
+            "text": "She wanting a new bag."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Want bir durum fiilidir; -ing ile kullanılmaz: She wants a new bag. (Present Simple, he / she / it → -s)",
+        "optionExplanations": {
+          "b": "Want durum fiili olduğu için genellikle -ing almaz.",
+          "c": "She ile are kullanılmaz ve fiil -ing almalı ya da yalın -s’li olmalıdır; ayrıca want durum fiilidir.",
+          "d": "To be eksik; ayrıca want -ing almaz."
+        },
+        "tags": [
+          "present-continuous",
+          "state-verbs"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-15",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ she talking on the phone?",
+        "answers": [
+          "Is"
+        ],
+        "explanation": "She ile soruda is başa gelir: Is she talking on the phone?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Are",
+            "explanation": "She tekildir; are değil is gerekir."
+          },
+          {
+            "answer": "Does",
+            "explanation": "Present Continuous’ta does kullanılmaz."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-16",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Şu anda dışarıda yağmur yağmıyor.",
+        "answer": [
+          "It",
+          "isn't",
+          "raining",
+          "outside",
+          "at",
+          "the",
+          "moment"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "doesn't",
+          "rain"
+        ],
+        "explanation": "It ile is kullanılır; olumsuzu isn’t’tir ve fiil -ing alır: It isn’t raining outside at the moment.",
+        "tags": [
+          "present-continuous",
+          "negative",
+          "weather"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-17",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I am liking this song.",
+        "errorSpan": "am liking",
+        "answers": [
+          "I like this song."
+        ],
+        "explanation": "Like bir durum fiilidir; -ing ile kullanılmaz: I like this song.",
+        "tags": [
+          "present-continuous",
+          "state-verbs"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-18",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "“Are they playing?” sorusuna olumlu kısa cevap hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes, they are."
+          },
+          {
+            "id": "b",
+            "text": "Yes, they're."
+          },
+          {
+            "id": "c",
+            "text": "Yes, they do."
+          },
+          {
+            "id": "d",
+            "text": "Yes, they playing."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumlu kısa cevapta am / is / are kısaltılmaz: Yes, they are.",
+        "optionExplanations": {
+          "b": "Olumlu kısa cevapta kısaltma yapılmaz.",
+          "c": "Do, Present Simple sorularına cevap verirken kullanılır; bu soru are ile kurulmuş.",
+          "d": "Kısa cevapta ana fiil tekrarlanmaz; yardımcı olarak are kullanılır."
+        },
+        "tags": [
+          "present-continuous",
+          "short-answer"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-19",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He ___ (swim) in the pool.",
+        "answers": [
+          "is swimming"
+        ],
+        "explanation": "Swim kısa, ünsüz–ünlü–ünsüz ile biten bir fiildir; m ikilenir: swimming.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is swiming",
+            "explanation": "Son ünsüz ikilenmeli: swimming."
+          },
+          {
+            "answer": "swims",
+            "explanation": "Şu anda olan eylem için Present Continuous gerekir."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "affirmative",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-continuous-exam-20",
+        "lessonId": "a1-present-continuous",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bebek neden ağlıyor?",
+        "hint": "bebek: baby, ağlamak: cry",
+        "answers": [
+          "Why is the baby crying?"
+        ],
+        "targetStructure": "Wh- sorusu: Why + is + özne + fiil-ing",
+        "explanation": "The baby = it / she / he; is kullanılır ve soruda özneden önce gelir: Why is the baby crying?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Why the baby is crying?",
+            "explanation": "Soru yaparken is özneden önce gelmelidir."
+          },
+          {
+            "answer": "Why does the baby crying?",
+            "explanation": "Present Continuous’ta does kullanılmaz."
+          }
+        ],
+        "tags": [
+          "present-continuous",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

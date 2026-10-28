@@ -1,4 +1,5 @@
 import { getAvailableLessonIds, getContentIssues, getCurriculum } from "@/data/contentRepository";
+import { comparisonFiles } from "@/data/comparisonFiles";
 import { lessonFiles } from "@/data/lessonFiles";
 import { formatIssues } from "@/domain/validation/validateContent";
 
@@ -14,6 +15,6 @@ describe("paketlenmiş içerik", () => {
   });
 
   it("kayıtlı her ders dosyası kullanılabilir durumdadır", () => {
-    expect(getAvailableLessonIds().sort()).toEqual(Object.keys(lessonFiles).sort());
+    expect(getAvailableLessonIds().sort()).toEqual([...Object.keys(lessonFiles), ...Object.keys(comparisonFiles)].sort());
   });
 });

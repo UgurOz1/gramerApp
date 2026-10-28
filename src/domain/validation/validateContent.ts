@@ -1,5 +1,5 @@
 import type {
-  ComparisonsFile,
+  Comparison,
   Curriculum,
   LessonContent,
   LevelId,
@@ -276,69 +276,101 @@ export function validateLessonContent(raw: unknown, curriculum?: Curriculum): Va
   return c.result(raw);
 }
 
-export function validateComparisons(raw: unknown, curriculum?: Curriculum): ValidationResult<ComparisonsFile> {
+export function validateComparison(raw: unknown, curriculum?: Curriculum): ValidationResult<Comparison> {
   const c = new IssueCollector();
-  if (!c.isObject(raw, "comparisons")) return c.result(raw);
-  if (raw.schemaVersion !== SUPPORTED_SCHEMA_VERSION) c.add("comparisons.schemaVersion", "desteklenmeyen sürüm");
-  const ids = new Set<string>();
-  c.array(raw, "comparisons", "comparisons").forEach((cmp, i) => {
-    const p = `comparisons[${i}]`;
-    if (!c.isObject(cmp, p)) return;
-    c.string(cmp, "id", p);
-    c.string(cmp, "title", p);
-    if (typeof cmp.id === "string") {
-      if (ids.has(cmp.id)) c.add(p, `yinelenen kimlik: ${cmp.id}`);
-      ids.add(cmp.id);
+  if (!c.isObject(raw, "comparison")) return c.result(raw);
+  const path = typeof raw.id === "string" ? raw.id : "comparison";
+
+  if (raw.schemaVersion !== SUPPORTED_SCHEMA_VERSION) c.add(`${path}.schemaVersion`, "desteklenmeyen sürüm");
+  c.string(raw, "id", path);
+  c.string(raw, "title", path);
+  c.oneOf(raw, "levelId", LEVEL_IDS, path);
+  c.stringArray(raw, "objectives", path, { nonEmpty: true });
+  c.stringArray(raw, "intro", path, { nonEmpty: true });
+
+  const id = String(raw.id);
+  const levelId = raw.levelId as LevelId;
+  const lessonIds = c.stringArray(raw, "lessonIds", path, { nonEmpty: true });
+  if (curriculum) {
+    const summary = curriculum.lessons.find((l) => l.id === id);
+    if (!summary) c.add(`${path}.id`, "müfredatta bulunmuyor");
+    else {
+      if (summary.kind !== "comparison") c.add(`${path}.id`, "müfredatta bir karşılaştırma dersi olmalı (kind: comparison)");
+      if (summary.levelId !== levelId) c.add(`${path}.levelId`, `müfredatta ${summary.levelId}`);
     }
-    const lessonIds = c.stringArray(cmp, "lessonIds", p, { nonEmpty: true });
-    if (curriculum) {
-      lessonIds.forEach((lid, j) => {
-        if (!curriculum.lessons.some((l) => l.id === lid)) c.add(`${p}.lessonIds[${j}]`, `olmayan ders: ${lid}`);
-      });
-    }
-    c.array(cmp, "structures", p, { nonEmpty: true }).forEach((st, j) => {
-      const sp = `${p}.structures[${j}]`;
-      if (!c.isObject(st, sp)) return;
-      ["name", "meaning", "structure"].forEach((k) => c.string(st, k, sp));
-      c.stringArray(st, "usage", sp, { nonEmpty: true });
+    lessonIds.forEach((lid, j) => {
+      if (!curriculum.lessons.some((l) => l.id === lid)) c.add(`${path}.lessonIds[${j}]`, `olmayan ders: ${lid}`);
     });
-    c.array(cmp, "pairs", p, { nonEmpty: true }).forEach((pair, j) => {
-      const pp = `${p}.pairs[${j}]`;
-      if (!c.isObject(pair, pp)) return;
-      c.string(pair, "note", pp);
-      for (const side of ["left", "right"]) {
-        if (c.isObject(pair[side], `${pp}.${side}`)) {
-          const ex = pair[side] as Record<string, unknown>;
-          ["id", "en", "tr"].forEach((k) => c.string(ex, k, `${pp}.${side}`));
-        }
-      }
-    });
-    c.stringArray(cmp, "meaningDifference", p, { nonEmpty: true });
-    c.array(cmp, "confusions", p, { nonEmpty: true }).forEach((it, j) => {
-      const ip = `${p}.confusions[${j}]`;
-      if (!c.isObject(it, ip)) return;
-      ["wrong", "right", "explanation"].forEach((k) => c.string(it, k, ip));
-    });
-    const quizIds = new Set<string>();
-    c.array(cmp, "quiz", p, { nonEmpty: true }).forEach((q, j) => {
-      // Karşılaştırma soruları ilk bağlı dersin seviyesine aittir.
-      const firstLesson = curriculum?.lessons.find((l) => l.id === lessonIds[0]);
-      const qObj = typeof q === "object" && q !== null ? (q as Record<string, unknown>) : {};
-      const id = validateQuestion(q, `${p}.quiz[${j}]`, c, {
-        lessonId: typeof qObj.lessonId === "string" && lessonIds.includes(qObj.lessonId) ? qObj.lessonId : lessonIds[0],
-        levelId: firstLesson?.levelId ?? (qObj.levelId as LevelId),
-      });
-      if (id) {
-        if (quizIds.has(id)) c.add(`${p}.quiz[${j}]`, `yinelenen soru kimliği: ${id}`);
-        quizIds.add(id);
-      }
+  }
+
+  const structures = c.array(raw, "structures", path, { nonEmpty: true });
+  if (structures.length < 2) c.add(`${path}.structures`, "karşılaştırma için en az 2 yapı gerekli");
+  structures.forEach((st, j) => {
+    const sp = `${path}.structures[${j}]`;
+    if (!c.isObject(st, sp)) return;
+    c.string(st, "name", sp);
+    c.string(st, "meaning", sp);
+    c.stringArray(st, "usage", sp, { nonEmpty: true });
+    c.stringArray(st, "signals", sp, { nonEmpty: true });
+    c.array(st, "forms", sp, { nonEmpty: true }).forEach((f, k) => {
+      const fp = `${sp}.forms[${k}]`;
+      if (!c.isObject(f, fp)) return;
+      ["label", "pattern", "example"].forEach((key) => c.string(f, key, fp));
     });
   });
+
+  const exampleIds = new Set<string>();
+  c.array(raw, "pairs", path, { nonEmpty: true }).forEach((pair, j) => {
+    const pp = `${path}.pairs[${j}]`;
+    if (!c.isObject(pair, pp)) return;
+    c.string(pair, "note", pp);
+    for (const side of ["left", "right"] as const) {
+      const sp = `${pp}.${side}`;
+      if (!c.isObject(pair[side], sp)) continue;
+      const ex = pair[side] as Record<string, unknown>;
+      ["id", "en", "tr"].forEach((key) => c.string(ex, key, sp));
+      c.string(ex, "highlight", sp, { optional: true });
+      if (typeof ex.highlight === "string" && typeof ex.en === "string" && !ex.en.includes(ex.highlight)) {
+        c.add(`${sp}.highlight`, "İngilizce cümlenin içinde geçmeli");
+      }
+      if (typeof ex.id === "string") {
+        if (exampleIds.has(ex.id)) c.add(sp, `yinelenen örnek kimliği: ${ex.id}`);
+        exampleIds.add(ex.id);
+      }
+    }
+  });
+
+  c.array(raw, "meaningDifference", path, { nonEmpty: true }).forEach((it, j) => {
+    const ip = `${path}.meaningDifference[${j}]`;
+    if (!c.isObject(it, ip)) return;
+    ["heading", "body"].forEach((key) => c.string(it, key, ip));
+  });
+  c.array(raw, "decisionGuide", path, { nonEmpty: true }).forEach((it, j) => {
+    const ip = `${path}.decisionGuide[${j}]`;
+    if (!c.isObject(it, ip)) return;
+    ["question", "answer"].forEach((key) => c.string(it, key, ip));
+  });
+  c.array(raw, "confusions", path, { nonEmpty: true }).forEach((it, j) => {
+    const ip = `${path}.confusions[${j}]`;
+    if (!c.isObject(it, ip)) return;
+    ["wrong", "right", "explanation"].forEach((key) => c.string(it, key, ip));
+  });
+
+  // Mini test soruları karşılaştırmanın kimliğine bağlıdır.
+  const quizIds = new Set<string>();
+  c.array(raw, "quiz", path, { nonEmpty: true }).forEach((q, j) => {
+    const qid = validateQuestion(q, `${path}.quiz[${j}]`, c, { lessonId: id, levelId });
+    if (qid) {
+      if (quizIds.has(qid)) c.add(`${path}.quiz[${j}]`, `yinelenen soru kimliği: ${qid}`);
+      quizIds.add(qid);
+    }
+  });
+
   return c.result(raw);
 }
 
 /** Tüm içerik genelinde soru kimliklerinin benzersizliğini denetler. */
-export function findDuplicateQuestionIds(lessons: LessonContent[], comparisons: ComparisonsFile | null): ValidationIssue[] {
+export function findDuplicateQuestionIds(lessons: LessonContent[], comparisons: Comparison[]): ValidationIssue[] {
   const owner = new Map<string, string>();
   const issues: ValidationIssue[] = [];
   const register = (id: string, where: string) => {
@@ -349,7 +381,7 @@ export function findDuplicateQuestionIds(lessons: LessonContent[], comparisons: 
   for (const l of lessons) {
     for (const q of [...l.exercises, ...l.exam.questions]) register(q.id, l.id);
   }
-  for (const cmp of comparisons?.comparisons ?? []) {
+  for (const cmp of comparisons) {
     for (const q of cmp.quiz) register(q.id, cmp.id);
   }
   return issues;

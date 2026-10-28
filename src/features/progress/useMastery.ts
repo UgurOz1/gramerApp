@@ -1,7 +1,7 @@
 import { useMemo } from "react";
 
-import { getAvailableLessonIds, getLessonContent } from "@/data/contentRepository";
-import type { LessonContent, TopicMastery } from "@/domain/models";
+import { getAvailableComparisonIds, getAvailableLessonIds, getComparison, getLessonContent } from "@/data/contentRepository";
+import type { Comparison, LessonContent, TopicMastery } from "@/domain/models";
 import { useUserState } from "@/services/progress/userStore";
 
 import { computeAllMastery } from "./summary";
@@ -13,6 +13,9 @@ export function useMastery(): Record<string, TopicMastery> {
     const lessons = getAvailableLessonIds()
       .map((id) => getLessonContent(id))
       .filter((l): l is LessonContent => !!l);
-    return computeAllMastery({ attempts, examResults }, lessons);
+    const comparisons = getAvailableComparisonIds()
+      .map((id) => getComparison(id))
+      .filter((c): c is Comparison => !!c);
+    return computeAllMastery({ attempts, examResults }, lessons, comparisons);
   }, [attempts, examResults]);
 }

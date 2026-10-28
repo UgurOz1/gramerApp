@@ -1,0 +1,2803 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-present-simple",
+  "levelId": "a1",
+  "title": "Present Simple",
+  "objectives": [
+    "Alışkanlık, rutin ve genel doğruları Present Simple ile anlatmak",
+    "He / she / it ile fiile -s, -es ve -ies eklemek",
+    "Do ve does ile olumsuz cümle ve soru kurmak",
+    "Do / does’tan sonra fiilin yalın kaldığını bilmek",
+    "Kısa cevaplar vermek ve Wh- soruları kurmak",
+    "Sıklık zarflarını doğru yere koymak",
+    "Türkçeden gelen sık hataları ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Simple nedir?",
+      "paragraphs": [
+        "Present Simple, alışkanlıkları, rutinleri, genel doğruları ve düzenli tekrarlanan eylemleri anlatan zamandır. Adı “şimdiki zaman” gibi dursa da konuşma anında olan bir eylemi değil, genel olarak doğru olan ya da tekrar eden durumları anlatır.",
+        "Türkçedeki geniş zamana (-r, -ar, -er) benzer; ancak birebir aynı değildir. Türkçede alışkanlık anlatırken sık sık -yor ekini de kullanırız: “Her sabah koşuyorum.” İngilizce bunu Present Simple ile söyler: I run every morning.",
+        "Bu zamanın en önemli üç özelliği şunlardır: he / she / it ile fiile -s takısı gelir; olumsuzda ve soruda do / does yardımcı fiili kullanılır; do ya da does kullanıldığında ana fiil yalın hâlde kalır."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: özneye göre fiilin biçimi",
+      "paragraphs": [
+        "Fiilin yalın hâli (work, play, live) I, you, we, they ile aynen kullanılır. He, she, it (ve onların yerine geçen tekil isimler) ile fiilin sonuna -s ya da -es gelir."
+      ],
+      "formulas": [
+        {
+          "label": "I, you, we, they",
+          "pattern": "I / You / We / They + fiil (yalın)",
+          "exampleIds": [
+            "ex-present-simple-01",
+            "ex-present-simple-02",
+            "ex-present-simple-06",
+            "ex-present-simple-07"
+          ]
+        },
+        {
+          "label": "He, she, it",
+          "pattern": "He / She / It + fiil + s",
+          "exampleIds": [
+            "ex-present-simple-03",
+            "ex-present-simple-04",
+            "ex-present-simple-05"
+          ]
+        },
+        {
+          "label": "İsimler",
+          "pattern": "My father = he → My father works.  My parents = they → My parents work.",
+          "exampleIds": [
+            "ex-present-simple-12",
+            "ex-present-simple-34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "-s mi, -es mi, -ies mi?",
+      "paragraphs": [
+        "He, she, it ile fiile eklenen takı fiilin sonuna göre değişir. Yazımı birkaç grupta öğrenmek yeterlidir:"
+      ],
+      "formulas": [
+        {
+          "label": "Çoğu fiil: + s",
+          "pattern": "work → works,  play → plays,  live → lives",
+          "exampleIds": [
+            "ex-present-simple-03",
+            "ex-present-simple-04"
+          ]
+        },
+        {
+          "label": "-s, -sh, -ch, -x, -z, -o ile biten fiiller: + es",
+          "pattern": "watch → watches,  wash → washes,  fix → fixes,  go → goes,  do → does",
+          "exampleIds": [
+            "ex-present-simple-11",
+            "ex-present-simple-12"
+          ]
+        },
+        {
+          "label": "Ünsüz + y ile biten fiiller: y → ies",
+          "pattern": "study → studies,  try → tries,  fly → flies",
+          "exampleIds": [
+            "ex-present-simple-10"
+          ]
+        },
+        {
+          "label": "Ünlü + y ile biten fiiller: + s",
+          "pattern": "play → plays,  enjoy → enjoys,  stay → stays",
+          "exampleIds": [
+            "ex-present-simple-04"
+          ]
+        },
+        {
+          "label": "Düzensiz fiil",
+          "pattern": "have → has",
+          "exampleIds": [
+            "ex-present-simple-33"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "Olumsuz ve soru cümlelerinde yardımcı fiil olarak do (I, you, we, they) ya da does (he, she, it) kullanılır. Bu yardımcı fiil zaman ve özne bilgisini taşıdığı için ana fiile artık -s eklenmez."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "I / You / We / They + fiil  |  He / She / It + fiil + s",
+          "exampleIds": [
+            "ex-present-simple-01",
+            "ex-present-simple-03",
+            "ex-present-simple-04",
+            "ex-present-simple-06"
+          ],
+          "note": "Ana fiil: work, play, live gibi eylemi anlatan fiildir."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "Özne + do not (don’t) / does not (doesn’t) + yalın fiil",
+          "exampleIds": [
+            "ex-present-simple-14",
+            "ex-present-simple-15",
+            "ex-present-simple-17",
+            "ex-present-simple-18"
+          ],
+          "note": "She doesn’t works ✗ → She doesn’t work ✓. Does zaten -s’i taşıdığı için fiil yalın kalır."
+        },
+        {
+          "label": "Soru",
+          "formula": "Do / Does + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-present-simple-19",
+            "ex-present-simple-20",
+            "ex-present-simple-21",
+            "ex-present-simple-22"
+          ],
+          "note": "Does she works? ✗ → Does she work? ✓. Soru yaparken yardımcı fiil özneden önce gelir."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, özne + do / does.  |  No, özne + don’t / doesn’t.",
+          "exampleIds": [
+            "ex-present-simple-23",
+            "ex-present-simple-24"
+          ],
+          "note": "Kısa cevapta ana fiil tekrarlanmaz. Olumlu cevapta kısaltma yapılmaz: Yes, I do."
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "Soru sözcüğü + do / does + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-present-simple-25",
+            "ex-present-simple-26",
+            "ex-present-simple-31"
+          ],
+          "note": "What does he do? cümlesinde does yardımcı fiildir, sondaki do ise “yapmak” anlamındaki ana fiildir."
+        }
+      ]
+    },
+    {
+      "id": "examples-positive",
+      "type": "examples",
+      "title": "Örnekler: olumlu cümleler",
+      "paragraphs": [
+        "Her cümlede özneyi bul; sonra fiilde -s olup olmadığını kendine açıkla."
+      ],
+      "exampleIds": [
+        "ex-present-simple-01",
+        "ex-present-simple-02",
+        "ex-present-simple-03",
+        "ex-present-simple-04",
+        "ex-present-simple-05",
+        "ex-present-simple-06",
+        "ex-present-simple-07",
+        "ex-present-simple-10",
+        "ex-present-simple-11",
+        "ex-present-simple-12",
+        "ex-present-simple-34"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler ve sorular",
+      "exampleIds": [
+        "ex-present-simple-14",
+        "ex-present-simple-15",
+        "ex-present-simple-16",
+        "ex-present-simple-17",
+        "ex-present-simple-18",
+        "ex-present-simple-19",
+        "ex-present-simple-20",
+        "ex-present-simple-21",
+        "ex-present-simple-22",
+        "ex-present-simple-23",
+        "ex-present-simple-24",
+        "ex-present-simple-25",
+        "ex-present-simple-26",
+        "ex-present-simple-31"
+      ]
+    },
+    {
+      "id": "examples-adverbs",
+      "type": "examples",
+      "title": "Örnekler: sıklık zarfları ve genel doğrular",
+      "exampleIds": [
+        "ex-present-simple-08",
+        "ex-present-simple-09",
+        "ex-present-simple-13",
+        "ex-present-simple-27",
+        "ex-present-simple-28",
+        "ex-present-simple-29",
+        "ex-present-simple-30",
+        "ex-present-simple-32",
+        "ex-present-simple-33"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Kullanım alanları",
+      "paragraphs": [
+        "Present Simple şu durumlarda kullanılır:"
+      ],
+      "items": [
+        {
+          "heading": "Alışkanlıklar ve rutinler",
+          "body": "Düzenli yaptığın ya da birinin düzenli yaptığı şeyler. Sık sık always, usually, every day gibi ifadelerle birlikte gelir.",
+          "exampleIds": [
+            "ex-present-simple-29",
+            "ex-present-simple-27",
+            "ex-present-simple-10"
+          ]
+        },
+        {
+          "heading": "Genel doğrular",
+          "body": "Her zaman doğru olan bilimsel ve genel bilgiler.",
+          "exampleIds": [
+            "ex-present-simple-08",
+            "ex-present-simple-09"
+          ]
+        },
+        {
+          "heading": "Tekrarlanan eylemler",
+          "body": "Belirli aralıklarla tekrar eden eylemler: Pazar günleri, her hafta, ayda bir gibi.",
+          "exampleIds": [
+            "ex-present-simple-04",
+            "ex-present-simple-30"
+          ]
+        },
+        {
+          "heading": "Süregiden durumlar ve tercihler",
+          "body": "Nerede yaşadığın, ne iş yaptığın, neyi sevdiğin gibi uzun süre değişmeyen durumlar. live, work, like, have, know gibi fiiller bu amaçla çok kullanılır.",
+          "exampleIds": [
+            "ex-present-simple-01",
+            "ex-present-simple-02",
+            "ex-present-simple-33",
+            "ex-present-simple-15"
+          ]
+        },
+        {
+          "heading": "Tarifeler ve programlar",
+          "body": "Tren, otobüs, dükkân saatleri ve okul programı gibi önceden belirlenmiş düzenler.",
+          "exampleIds": [
+            "ex-present-simple-13",
+            "ex-present-simple-32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frequency",
+      "type": "rule",
+      "title": "Sıklık zarfları ve zaman ifadeleri nereye gelir?",
+      "paragraphs": [
+        "Always, usually, often, sometimes, never gibi sıklık zarfları ana fiilden önce, ancak to be fiilinden (am / is / are) sonra gelir. Every day, on Mondays, once a week gibi zaman ifadeleri ise genellikle cümlenin sonunda yer alır. Sıklık zarfları “Adverbs of Frequency” dersinde ayrıntılı işlenecek."
+      ],
+      "formulas": [
+        {
+          "label": "Ana fiille",
+          "pattern": "Özne + sıklık zarfı + fiil",
+          "exampleIds": [
+            "ex-present-simple-27",
+            "ex-present-simple-29",
+            "ex-present-simple-30"
+          ]
+        },
+        {
+          "label": "To be ile",
+          "pattern": "Özne + am / is / are + sıklık zarfı",
+          "exampleIds": [
+            "ex-present-simple-28"
+          ]
+        },
+        {
+          "label": "Zaman ifadesi",
+          "pattern": "Cümle + every day / on Sundays / at weekends",
+          "exampleIds": [
+            "ex-present-simple-04",
+            "ex-present-simple-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She work in a bank.",
+          "right": "She works in a bank.",
+          "explanation": "Türkçede fiil özneye göre değişir ama -s gibi bir ek yoktur; bu yüzden unutmak çok kolaydır. He, she, it ile fiile -s ekle."
+        },
+        {
+          "wrong": "He doesn’t works here.",
+          "right": "He doesn’t work here.",
+          "explanation": "Doesn’t zaten üçüncü tekil kişi bilgisini taşır; ana fiil yalın kalır."
+        },
+        {
+          "wrong": "Does she works here?",
+          "right": "Does she work here?",
+          "explanation": "Soru cümlesinde does’tan sonra fiil yalın hâldedir."
+        },
+        {
+          "wrong": "She don’t like tea.",
+          "right": "She doesn’t like tea.",
+          "explanation": "He, she, it ile don’t değil doesn’t kullanılır."
+        },
+        {
+          "wrong": "Yes, he do.",
+          "right": "Yes, he does.",
+          "explanation": "Kısa cevapta da özneye uygun yardımcı fiil kullanılır: he → does."
+        },
+        {
+          "wrong": "Do you are a student?",
+          "right": "Are you a student?",
+          "explanation": "To be (am / is / are) ile kurulan cümlelerde do / does kullanılmaz."
+        },
+        {
+          "wrong": "He studys every day.",
+          "right": "He studies every day.",
+          "explanation": "Ünsüz + y ile biten fiillerde y düşer, -ies gelir."
+        },
+        {
+          "wrong": "I watch always TV.",
+          "right": "I always watch TV.",
+          "explanation": "Sıklık zarfı ana fiilden önce gelir; fiil ile nesnenin arasına girmez."
+        },
+        {
+          "wrong": "She haves a car.",
+          "right": "She has a car.",
+          "explanation": "Have fiilinin he / she / it ile kullanılan biçimi has’tır."
+        },
+        {
+          "wrong": "I am work in a bank.",
+          "right": "I work in a bank.",
+          "explanation": "Am / is / are başka bir eylem fiiliyle yan yana gelmez. (Am / is / are + -ing yapısı Present Continuous dersinde işlenecek.)"
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Simple ve Present Continuous",
+          "body": "Present Simple alışkanlık ve genel doğruları anlatır (I drink tea every day). Present Continuous ise şu anda ya da bu günlerde süren eylemi anlatır (I am drinking tea now).",
+          "lessonId": "a1-present-simple-vs-continuous"
+        },
+        {
+          "topic": "Present Simple ve To be",
+          "body": "Is / are bir eylem değil, kimlik ya da durum anlatır (She is tired). Eylemler için Present Simple kullanılır (She works). İkisini aynı cümlede birleştirme: She is works ✗.",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "Sıklık zarfları",
+          "body": "Always, usually, often gibi sözcüklerin cümledeki yeri ve anlam farkları ayrı bir derste incelenecek.",
+          "lessonId": "a1-adverbs-frequency"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "-s / -es / -ies yalnızca he, she, it (ve tekil isimler) ile gelir. I, you, we, they ile gelmez.",
+        "Do ya da does kullandıktan sonra fiil her zaman yalın kalır: Does she work? He doesn’t work.",
+        "To be fiilli cümlelerde do / does kullanılmaz: Are you tired? (Do you tired? ✗)",
+        "Have fiilinin üçüncü tekil biçimi has’tır. Ama olumsuz ve soruda yine yalın have kullanılır: She doesn’t have a car. Does she have a car?"
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Türkçede alışkanlık için de -yor ekini kullanırız (“Her gün işe otobüsle gidiyorum”). İngilizcede bunun karşılığı Present Simple’dır: I go to work by bus every day.",
+        "Like, love, hate, want, need, know, understand gibi durum bildiren fiiller genellikle Present Simple ile kullanılır: I like tea. (I am liking tea ✗)",
+        "Tekil isimler he / she / it gibi davranır, çoğul isimler they gibi: The shop opens at nine. The shops open at nine."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-present-simple-01",
+        "q-present-simple-02",
+        "q-present-simple-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-present-simple-01",
+      "en": "I work in a bank.",
+      "tr": "Bir bankada çalışıyorum.",
+      "highlight": "work",
+      "note": "I → yalın fiil"
+    },
+    {
+      "id": "ex-present-simple-02",
+      "en": "You live in Istanbul.",
+      "tr": "İstanbul’da yaşıyorsun.",
+      "highlight": "live"
+    },
+    {
+      "id": "ex-present-simple-03",
+      "en": "She works at a hospital.",
+      "tr": "O (kadın) bir hastanede çalışıyor.",
+      "highlight": "works",
+      "note": "She → fiile -s"
+    },
+    {
+      "id": "ex-present-simple-04",
+      "en": "He plays football on Sundays.",
+      "tr": "Pazar günleri futbol oynar.",
+      "highlight": "plays"
+    },
+    {
+      "id": "ex-present-simple-05",
+      "en": "My dog sleeps all day.",
+      "tr": "Köpeğim bütün gün uyur.",
+      "highlight": "sleeps",
+      "note": "My dog = it → fiile -s"
+    },
+    {
+      "id": "ex-present-simple-06",
+      "en": "We have breakfast at eight.",
+      "tr": "Saat sekizde kahvaltı ederiz.",
+      "highlight": "have"
+    },
+    {
+      "id": "ex-present-simple-07",
+      "en": "They walk to school.",
+      "tr": "Okula yürüyerek giderler.",
+      "highlight": "walk"
+    },
+    {
+      "id": "ex-present-simple-08",
+      "en": "The sun rises in the east.",
+      "tr": "Güneş doğudan doğar.",
+      "highlight": "rises",
+      "note": "Genel doğru"
+    },
+    {
+      "id": "ex-present-simple-09",
+      "en": "Water boils at 100 degrees.",
+      "tr": "Su 100 derecede kaynar.",
+      "highlight": "boils",
+      "note": "Genel doğru"
+    },
+    {
+      "id": "ex-present-simple-10",
+      "en": "She studies English every evening.",
+      "tr": "Her akşam İngilizce çalışır.",
+      "highlight": "studies",
+      "note": "study → studies"
+    },
+    {
+      "id": "ex-present-simple-11",
+      "en": "He watches TV after dinner.",
+      "tr": "Akşam yemeğinden sonra televizyon izler.",
+      "highlight": "watches",
+      "note": "watch → watches"
+    },
+    {
+      "id": "ex-present-simple-12",
+      "en": "My father goes to work by bus.",
+      "tr": "Babam işe otobüsle gider.",
+      "highlight": "goes",
+      "note": "go → goes"
+    },
+    {
+      "id": "ex-present-simple-13",
+      "en": "The shop opens at nine.",
+      "tr": "Dükkân dokuzda açılır.",
+      "highlight": "opens",
+      "note": "Tarife / program"
+    },
+    {
+      "id": "ex-present-simple-14",
+      "en": "I don't drink coffee.",
+      "tr": "Kahve içmem.",
+      "highlight": "don't drink",
+      "note": "don't + yalın fiil"
+    },
+    {
+      "id": "ex-present-simple-15",
+      "en": "She doesn't like fish.",
+      "tr": "Balığı sevmez.",
+      "highlight": "doesn't like",
+      "note": "doesn't + yalın fiil (likes değil)"
+    },
+    {
+      "id": "ex-present-simple-16",
+      "en": "We don't live near the sea.",
+      "tr": "Denize yakın yaşamıyoruz.",
+      "highlight": "don't live"
+    },
+    {
+      "id": "ex-present-simple-17",
+      "en": "He doesn't speak French.",
+      "tr": "Fransızca konuşmaz.",
+      "highlight": "doesn't speak"
+    },
+    {
+      "id": "ex-present-simple-18",
+      "en": "They don't work on Sundays.",
+      "tr": "Pazar günleri çalışmazlar.",
+      "highlight": "don't work"
+    },
+    {
+      "id": "ex-present-simple-19",
+      "en": "Do you like pizza?",
+      "tr": "Pizzayı sever misin?",
+      "highlight": "Do"
+    },
+    {
+      "id": "ex-present-simple-20",
+      "en": "Does she live here?",
+      "tr": "O (kadın) burada mı yaşıyor?",
+      "highlight": "Does",
+      "note": "Does + yalın fiil"
+    },
+    {
+      "id": "ex-present-simple-21",
+      "en": "Do they play tennis?",
+      "tr": "Tenis oynarlar mı?",
+      "highlight": "Do"
+    },
+    {
+      "id": "ex-present-simple-22",
+      "en": "Does your brother work?",
+      "tr": "Erkek kardeşin çalışıyor mu?",
+      "highlight": "Does"
+    },
+    {
+      "id": "ex-present-simple-23",
+      "en": "Yes, I do.",
+      "tr": "Evet, (severim).",
+      "highlight": "do",
+      "note": "Kısa cevap: fiil tekrarlanmaz, do / does kullanılır."
+    },
+    {
+      "id": "ex-present-simple-24",
+      "en": "No, she doesn't.",
+      "tr": "Hayır, (yapmaz).",
+      "highlight": "doesn't"
+    },
+    {
+      "id": "ex-present-simple-25",
+      "en": "Where do you live?",
+      "tr": "Nerede yaşıyorsun?",
+      "highlight": "do"
+    },
+    {
+      "id": "ex-present-simple-26",
+      "en": "What does he do?",
+      "tr": "Ne iş yapıyor? (Mesleği ne?)",
+      "highlight": "does",
+      "note": "Ilk does yardımcı fiil, sondaki do ana fiil."
+    },
+    {
+      "id": "ex-present-simple-27",
+      "en": "She always drinks tea in the morning.",
+      "tr": "Sabahları her zaman çay içer.",
+      "highlight": "always",
+      "note": "Sıklık zarfı ana fiilden önce"
+    },
+    {
+      "id": "ex-present-simple-28",
+      "en": "He is never late.",
+      "tr": "Asla geç kalmaz.",
+      "highlight": "never",
+      "note": "Sıklık zarfı to be’den sonra"
+    },
+    {
+      "id": "ex-present-simple-29",
+      "en": "I usually get up at seven.",
+      "tr": "Genellikle yedide kalkarım.",
+      "highlight": "usually"
+    },
+    {
+      "id": "ex-present-simple-30",
+      "en": "We sometimes eat out on Fridays.",
+      "tr": "Bazen cuma günleri dışarıda yeriz.",
+      "highlight": "sometimes"
+    },
+    {
+      "id": "ex-present-simple-31",
+      "en": "How often do you exercise?",
+      "tr": "Ne sıklıkla spor yaparsın?",
+      "highlight": "How often"
+    },
+    {
+      "id": "ex-present-simple-32",
+      "en": "The train leaves at 8:15.",
+      "tr": "Tren 8.15’te kalkar.",
+      "highlight": "leaves",
+      "note": "Tarife / program"
+    },
+    {
+      "id": "ex-present-simple-33",
+      "en": "Ali has a big family.",
+      "tr": "Ali’nin geniş bir ailesi var.",
+      "highlight": "has",
+      "note": "have → has"
+    },
+    {
+      "id": "ex-present-simple-34",
+      "en": "My mother cooks dinner every day.",
+      "tr": "Annem her gün akşam yemeği pişirir.",
+      "highlight": "cooks"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-present-simple-01",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ in a bank.",
+      "options": [
+        {
+          "id": "a",
+          "text": "work"
+        },
+        {
+          "id": "b",
+          "text": "works"
+        },
+        {
+          "id": "c",
+          "text": "working"
+        },
+        {
+          "id": "d",
+          "text": "is work"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "She üçüncü tekil kişidir. Present Simple’da he / she / it ile fiile -s eklenir: She works in a bank.",
+      "optionExplanations": {
+        "a": "Yalın fiil I, you, we, they ile kullanılır; she ile -s gerekir.",
+        "c": "-ing biçimi Present Simple’da kullanılmaz; bu zamanda yalın fiil ya da -s’li biçim gelir.",
+        "d": "Is / am / are başka bir eylem fiiliyle yan yana gelmez."
+      },
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-02",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ (drink) coffee every morning.",
+      "answers": [
+        "drink"
+      ],
+      "explanation": "I ile fiil yalın hâldedir: I drink coffee every morning.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "drinks",
+          "explanation": "-s yalnızca he, she, it ile gelir; I ile yalın fiil kullanılır."
+        },
+        {
+          "answer": "am drink",
+          "explanation": "Am / is / are başka bir eylem fiiliyle yan yana gelmez."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-03",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben her gün çay içerim.",
+      "answer": [
+        "I",
+        "drink",
+        "tea",
+        "every",
+        "day"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "drinks"
+      ],
+      "explanation": "I ile fiil yalın kalır; zaman ifadesi (every day) cümlenin sonuna gelir: I drink tea every day.",
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-04",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She work in a bank.",
+      "errorSpan": "work",
+      "answers": [
+        "She works in a bank."
+      ],
+      "explanation": "She üçüncü tekil kişidir; Present Simple’da fiile -s eklenir: works.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She work in the bank.",
+          "explanation": "Fiilde hâlâ -s yok; ayrıca “bir bankada” demek için a bank denir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-05",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben her sabah kahve içerim.",
+      "hint": "içmek: drink",
+      "answers": [
+        "I drink coffee every morning.",
+        "Every morning I drink coffee."
+      ],
+      "targetStructure": "Present Simple olumlu: I + yalın fiil",
+      "explanation": "Alışkanlık anlatıldığı için Present Simple kullanılır. I ile fiil yalın kalır. Zaman ifadesi başa da sona da gelebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I drinks coffee every morning.",
+          "explanation": "I ile fiile -s eklenmez."
+        },
+        {
+          "answer": "I am drink coffee every morning.",
+          "explanation": "Am ile eylem fiili yan yana gelmez; alışkanlık için yalın fiil yeterlidir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "habit"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-06",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ football on Sundays.",
+      "options": [
+        {
+          "id": "a",
+          "text": "play"
+        },
+        {
+          "id": "b",
+          "text": "plays"
+        },
+        {
+          "id": "c",
+          "text": "playing"
+        },
+        {
+          "id": "d",
+          "text": "is play"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They çoğul olduğu için fiil yalın hâldedir: They play football on Sundays.",
+      "optionExplanations": {
+        "b": "-s yalnızca he, she, it ile gelir; they çoğuldur.",
+        "c": "Present Simple’da -ing biçimi kullanılmaz.",
+        "d": "Is, they ile kullanılmaz ve eylem fiiliyle yan yana gelmez."
+      },
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-07",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ (watch) TV in the evening.",
+      "answers": [
+        "watches"
+      ],
+      "explanation": "Watch, -ch ile biten bir fiil olduğu için -es alır: watches.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "watchs",
+          "explanation": "-ch ile biten fiillere -s değil -es eklenir: watches."
+        },
+        {
+          "answer": "watch",
+          "explanation": "She ile fiile -es eklenir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-08",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (erkek) bir bankada çalışır.",
+      "answer": [
+        "He",
+        "works",
+        "in",
+        "a",
+        "bank"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "work"
+      ],
+      "explanation": "He ile fiile -s eklenir: He works in a bank.",
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-09",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He don't like fish.",
+      "errorSpan": "don't",
+      "answers": [
+        "He doesn't like fish.",
+        "He does not like fish."
+      ],
+      "explanation": "He üçüncü tekil kişidir; olumsuzu don’t ile değil doesn’t ile yapılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He doesn't likes fish.",
+          "explanation": "Doesn’t zaten -s’i taşır; fiil yalın kalır: like."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-10",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O (kadın) bir okulda çalışır.",
+      "hint": "okul: school, çalışmak: work",
+      "answers": [
+        "She works at a school.",
+        "She works in a school."
+      ],
+      "targetStructure": "Present Simple olumlu: she + fiil + s",
+      "explanation": "She ile fiile -s eklenir. Okulda çalışmak için at a school ve in a school ikisi de kullanılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She work at a school.",
+          "explanation": "She ile fiile -s eklenir: works."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-11",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you speak English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "You ile yardımcı fiil do’dur ve soruda özneden önce gelir: Do you speak English?",
+      "optionExplanations": {
+        "b": "Does, he / she / it ile kullanılır; you ile do gelir.",
+        "c": "Are, to be fiilidir; speak bir eylem fiili olduğu için do gerekir.",
+        "d": "Is, he / she / it ile kullanılan to be biçimidir; burada do gerekir."
+      },
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-12",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "My brother ___ (study) at university.",
+      "answers": [
+        "studies"
+      ],
+      "explanation": "Study, ünsüz + y ile biten bir fiildir: y düşer, -ies gelir: studies.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "studys",
+          "explanation": "Ünsüz + y ile biten fiillerde y, ies olur: studies."
+        },
+        {
+          "answer": "studyes",
+          "explanation": "Ünsüz + y ile biten fiillerde -es değil, y → ies kuralı uygulanır: studies."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-13",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ like coffee.",
+      "hint": "Cümle olumsuz: Kahveyi sevmez.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't"
+        },
+        {
+          "id": "b",
+          "text": "doesn't"
+        },
+        {
+          "id": "c",
+          "text": "isn't"
+        },
+        {
+          "id": "d",
+          "text": "not"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "He ile olumsuz yardımcı fiil doesn’t’tir: He doesn’t like coffee.",
+      "optionExplanations": {
+        "a": "Don’t, I / you / we / they ile kullanılır.",
+        "c": "Isn’t to be fiilinin olumsuzudur; like bir eylem fiilidir.",
+        "d": "Not tek başına yardımcı fiil görevi görmez; doesn’t gerekir."
+      },
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-14",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Pazar günleri çalışmıyoruz.",
+      "answer": [
+        "We",
+        "don't",
+        "work",
+        "on",
+        "Sundays"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "works"
+      ],
+      "explanation": "We ile don’t kullanılır; ardından fiil yalın gelir. Gün adlarından önce on gelir: on Sundays.",
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-simple-15",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ tennis on Mondays.",
+      "hint": "Cümleyi olumsuz yap: Pazartesi günleri tenis oynamayız.",
+      "answers": [
+        "don't play",
+        "do not play"
+      ],
+      "explanation": "We ile olumsuz yardımcı fiil don’t’tur; ardından fiil yalın gelir: We don’t play tennis on Mondays.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't plays",
+          "explanation": "Don’t’tan sonra fiil yalın kalır: don’t play."
+        },
+        {
+          "answer": "doesn't play",
+          "explanation": "We ile doesn’t değil don’t kullanılır."
+        },
+        {
+          "answer": "not play",
+          "explanation": "Not tek başına yetmez; yardımcı fiil de gerekir: don’t / do not."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-16",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Does she works here?",
+      "errorSpan": "works",
+      "answers": [
+        "Does she work here?"
+      ],
+      "explanation": "Does yardımcı fiilinden sonra ana fiil yalın hâlde kalır: Does she work here?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do she work here?",
+          "explanation": "She ile do değil does kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-17",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Babam televizyon izlemez.",
+      "hint": "baba: father, izlemek: watch",
+      "answers": [
+        "My father doesn't watch TV.",
+        "My father does not watch TV.",
+        "My father doesn't watch television.",
+        "My father does not watch television."
+      ],
+      "targetStructure": "Present Simple olumsuz: my father (he) + doesn’t + yalın fiil",
+      "explanation": "My father = he; olumsuz için doesn’t ve yalın fiil: doesn’t watch.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My father doesn't watches TV.",
+          "explanation": "Doesn’t’tan sonra fiil yalın kalır: watch."
+        },
+        {
+          "answer": "My father don't watch TV.",
+          "explanation": "Üçüncü tekil kişide doesn’t kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-18",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She doesn't works here."
+        },
+        {
+          "id": "b",
+          "text": "She doesn't work here."
+        },
+        {
+          "id": "c",
+          "text": "She not work here."
+        },
+        {
+          "id": "d",
+          "text": "She don't works here."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Doesn’t’tan sonra fiil yalın gelir ve -s almaz: She doesn’t work here.",
+      "optionExplanations": {
+        "a": "Doesn’t zaten üçüncü tekil kişi bilgisini taşır; works yanlıştır.",
+        "c": "Not tek başına yardımcı fiil değildir; doesn’t gerekir.",
+        "d": "She ile don’t değil doesn’t kullanılır; ayrıca fiil yalın olmalı."
+      },
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-19",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ fish.",
+      "hint": "Cümleyi olumsuz yap: Balığı sevmez.",
+      "answers": [
+        "doesn't like",
+        "does not like"
+      ],
+      "explanation": "He ile olumsuz yardımcı fiil doesn’t’tir ve fiil yalın kalır: He doesn’t like fish.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't likes",
+          "explanation": "Doesn’t’tan sonra -s yoktur: like."
+        },
+        {
+          "answer": "don't like",
+          "explanation": "He ile don’t değil doesn’t kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-20",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (kadın) kahve sever mi?",
+      "answer": [
+        "Does",
+        "she",
+        "like",
+        "coffee"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "likes"
+      ],
+      "explanation": "Soruda does özneden önce gelir ve fiil yalın kalır: Does she like coffee?",
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-21",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Does he ___ English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "speak"
+        },
+        {
+          "id": "b",
+          "text": "speaks"
+        },
+        {
+          "id": "c",
+          "text": "speaking"
+        },
+        {
+          "id": "d",
+          "text": "to speak"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Does’tan sonra ana fiil yalın hâlde gelir: Does he speak English?",
+      "optionExplanations": {
+        "b": "Does zaten -s bilgisini taşır; fiil yalın kalır.",
+        "c": "-ing biçimi Present Simple sorusunda kullanılmaz.",
+        "d": "Yardımcı fiilden sonra to kullanılmaz."
+      },
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-22",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ your sister live in London?",
+      "hint": "Soru cümlesi kur.",
+      "answers": [
+        "Does"
+      ],
+      "explanation": "Your sister = she; soruda does gelir: Does your sister live in London?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Do, I / you / we / they ile kullanılır; sister tek kişidir."
+        },
+        {
+          "answer": "Is",
+          "explanation": "Is bir eylem fiiliyle birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-23",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you are a teacher?",
+      "errorSpan": "Do you are",
+      "answers": [
+        "Are you a teacher?"
+      ],
+      "explanation": "Are, to be fiilidir; to be ile kurulan sorularda do / does kullanılmaz. Meslek anlatan cümleler to be ile kurulur: Are you a teacher?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you a teacher?",
+          "explanation": "Fiil eksik: bu cümle to be ile kurulur, yani are gerekir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-24",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce konuşur musun?",
+      "hint": "konuşmak: speak",
+      "answers": [
+        "Do you speak English?"
+      ],
+      "targetStructure": "Present Simple soru: Do you + yalın fiil …?",
+      "explanation": "You ile yardımcı fiil do’dur: Do you speak English?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You speak English?",
+          "explanation": "Soru yapmak için do özneden önce gelmelidir."
+        },
+        {
+          "answer": "Are you speak English?",
+          "explanation": "Are ile eylem fiili yan yana gelmez."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-25",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "My sister ___ to the gym twice a week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "go"
+        },
+        {
+          "id": "b",
+          "text": "goes"
+        },
+        {
+          "id": "c",
+          "text": "gos"
+        },
+        {
+          "id": "d",
+          "text": "is go"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "My sister = she; go fiili -o ile bittiği için -es alır: goes.",
+      "optionExplanations": {
+        "a": "She ile fiile -s / -es eklenir; yalın go yetmez.",
+        "c": "“Gos” diye bir yazım yoktur; -o ile biten fiillere -es eklenir.",
+        "d": "Is ile eylem fiili yan yana gelmez."
+      },
+      "tags": [
+        "present-simple",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-26",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What time ___ the film start?",
+      "answers": [
+        "does"
+      ],
+      "explanation": "The film = it; soruda does gelir ve fiil yalın kalır: What time does the film start?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Film tek bir şeydir (it); do çoğul özneyle kullanılır."
+        },
+        {
+          "answer": "is",
+          "explanation": "Is ile eylem fiili yan yana gelmez."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-27",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Nerede yaşıyorsun?",
+      "answer": [
+        "Where",
+        "do",
+        "you",
+        "live"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından yardımcı fiil, özne ve yalın fiil: Where do you live?",
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-simple-28",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ali nerede yaşıyor?",
+      "hint": "yaşamak: live",
+      "answers": [
+        "Where does Ali live?"
+      ],
+      "targetStructure": "Wh- sorusu: Where + does + özne + yalın fiil",
+      "explanation": "Ali = he; soruda does kullanılır ve fiil yalın kalır: Where does Ali live?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where Ali lives?",
+          "explanation": "Soru sözcüğünden sonra yardımcı fiil gelir: does Ali live."
+        },
+        {
+          "answer": "Where does Ali lives?",
+          "explanation": "Does’tan sonra fiil yalın kalır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-simple-29",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Where ___ your parents live?",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "does"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Your parents = they; they ile yardımcı fiil do’dur: Where do your parents live?",
+      "optionExplanations": {
+        "b": "Does tekil özneyle kullanılır; parents çoğuldur.",
+        "c": "Are ile eylem fiili (live) yan yana gelmez.",
+        "d": "Is ile eylem fiili yan yana gelmez."
+      },
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-30",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She studys English every day.",
+      "errorSpan": "studys",
+      "answers": [
+        "She studies English every day."
+      ],
+      "explanation": "Ünsüz + y ile biten fiillerde y düşer, -ies gelir: studies.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She study English every day.",
+          "explanation": "She ile fiile -s eklenir: studies."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-31",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Do you like tea? Yes, I ___.",
+      "answers": [
+        "do"
+      ],
+      "explanation": "Kısa cevapta soruda kullanılan yardımcı fiil tekrarlanır: Yes, I do.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "like",
+          "explanation": "Kısa cevapta ana fiil değil yardımcı fiil kullanılır: Yes, I do."
+        },
+        {
+          "answer": "am",
+          "explanation": "Soru do ile kurulmuş; cevapta da do kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-32",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Does he play the guitar? No, he ___.",
+      "answers": [
+        "doesn't",
+        "does not"
+      ],
+      "explanation": "Soru does ile kurulduğu için olumsuz kısa cevap doesn’t’tir: No, he doesn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "He ile don’t değil doesn’t kullanılır."
+        },
+        {
+          "answer": "isn't",
+          "explanation": "Soru do / does ile kurulmuş; cevapta da doesn’t gelir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-33",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I watch always TV in the evening.",
+      "errorSpan": "watch always",
+      "answers": [
+        "I always watch TV in the evening.",
+        "In the evening I always watch TV."
+      ],
+      "explanation": "Sıklık zarfı ana fiilden önce gelir; fiil ile nesne arasına girmez: I always watch TV.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I watch TV always in the evening.",
+          "explanation": "Always, ana fiilden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "adverbs"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-simple-34",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He drinks always tea."
+        },
+        {
+          "id": "b",
+          "text": "He always drinks tea."
+        },
+        {
+          "id": "c",
+          "text": "He always drink tea."
+        },
+        {
+          "id": "d",
+          "text": "He is always drinks tea."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sıklık zarfı ana fiilden önce gelir ve he ile fiile -s eklenir: He always drinks tea.",
+      "optionExplanations": {
+        "a": "Always, fiil ile nesnenin arasına girmez; fiilden önce gelir.",
+        "c": "He ile fiile -s eklenir: drinks.",
+        "d": "Is ile eylem fiili (drinks) yan yana gelmez."
+      },
+      "tags": [
+        "present-simple",
+        "adverbs"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-simple-35",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kardeşim genellikle sabah yedide kalkar.",
+      "answer": [
+        "My",
+        "brother",
+        "usually",
+        "gets",
+        "up",
+        "at",
+        "seven"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "get",
+        "does"
+      ],
+      "explanation": "Sıklık zarfı (usually) ana fiilden önce gelir. My brother = he olduğu için fiil -s alır: gets up.",
+      "tags": [
+        "present-simple",
+        "adverbs",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-36",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dükkân saat dokuzda açılır.",
+      "hint": "açılmak: open",
+      "answers": [
+        "The shop opens at nine.",
+        "The shop opens at 9.",
+        "The shop opens at nine o'clock.",
+        "The shop opens at 9 o'clock."
+      ],
+      "targetStructure": "Present Simple: tarife ve programlar",
+      "explanation": "Dükkân saatleri düzenli bir program olduğu için Present Simple kullanılır. The shop = it olduğu için fiil -s alır: opens.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The shop open at nine.",
+          "explanation": "The shop tek bir şeydir (it); fiile -s eklenir: opens."
+        },
+        {
+          "answer": "The shop is open at nine.",
+          "explanation": "Is open ‘açık’ durumunu anlatır; ‘açılır’ (program) için opens kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "schedule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-37",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "My parents ___ on weekends.",
+      "hint": "Cümleyi olumsuz yap: Anne babam hafta sonları çalışmaz.",
+      "answers": [
+        "don't work",
+        "do not work"
+      ],
+      "explanation": "My parents = they; they ile don’t kullanılır ve fiil yalın kalır: My parents don’t work on weekends.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't work",
+          "explanation": "Parents çoğuldur (they); doesn’t tekil özneyle kullanılır."
+        },
+        {
+          "answer": "don't works",
+          "explanation": "Don’t’tan sonra fiil yalın kalır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-38",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Does your father work on Saturdays?” sorusuna olumsuz kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, he doesn't."
+        },
+        {
+          "id": "b",
+          "text": "No, he don't."
+        },
+        {
+          "id": "c",
+          "text": "No, he isn't."
+        },
+        {
+          "id": "d",
+          "text": "No, he doesn't works."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru does ile kurulduğu için kısa cevap doesn’t ile verilir ve ana fiil tekrarlanmaz: No, he doesn’t.",
+      "optionExplanations": {
+        "b": "He ile don’t değil doesn’t kullanılır.",
+        "c": "Isn’t, to be fiilinin olumsuzudur; soru do / does ile kurulmuş.",
+        "d": "Kısa cevapta ana fiil tekrarlanmaz; ayrıca doesn’t’tan sonra -s olmaz."
+      },
+      "tags": [
+        "present-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-simple-39",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Mesleği ne? (O erkek ne iş yapar?)",
+      "answer": [
+        "What",
+        "does",
+        "he",
+        "do"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "is",
+        "doing"
+      ],
+      "explanation": "İlk does yardımcı fiildir, sondaki do ise ‘yapmak’ anlamındaki ana fiildir: What does he do?",
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-simple-40",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Does she live here? Yes, she do.",
+      "errorSpan": "do.",
+      "answers": [
+        "Does she live here? Yes, she does.",
+        "Does she live here? Yes she does.",
+        "Yes, she does.",
+        "Yes she does."
+      ],
+      "explanation": "Kısa cevapta özneye uygun yardımcı fiil kullanılır: she → does.",
+      "tags": [
+        "present-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-41",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Annem genellikle akşam yemeğinden sonra çay içer.",
+      "hint": "genellikle: usually, akşam yemeği: dinner",
+      "answers": [
+        "My mother usually drinks tea after dinner.",
+        "After dinner my mother usually drinks tea."
+      ],
+      "targetStructure": "Sıklık zarfı + üçüncü tekil kişi",
+      "explanation": "Sıklık zarfı ana fiilden önce gelir; my mother = she olduğu için fiil -s alır: usually drinks.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My mother drinks usually tea after dinner.",
+          "explanation": "Usually, fiil ile nesnenin arasına girmez; ana fiilden önce gelir."
+        },
+        {
+          "answer": "My mother usually drink tea after dinner.",
+          "explanation": "My mother = she; fiile -s eklenir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "adverbs"
+      ],
+      "errorTags": [
+        "word_order",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-42",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He haves two brothers.",
+      "errorSpan": "haves",
+      "answers": [
+        "He has two brothers."
+      ],
+      "explanation": "Have fiilinin he / she / it ile kullanılan biçimi has’tır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He have two brothers.",
+          "explanation": "He ile have değil has kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-43",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What time does the film starts?",
+      "errorSpan": "starts",
+      "answers": [
+        "What time does the film start?"
+      ],
+      "explanation": "Does’tan sonra ana fiil yalın kalır: start. Does zaten üçüncü tekil kişi bilgisini taşır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What time do the film start?",
+          "explanation": "The film = it; do değil does gerekir."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-simple-44",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The bus ___ (leave) at 7:30 every day.",
+      "answers": [
+        "leaves"
+      ],
+      "explanation": "The bus = it; tarifeler Present Simple ile söylenir ve fiile -s eklenir: leaves.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "leave",
+          "explanation": "The bus tek bir şeydir (it); fiile -s eklenir."
+        },
+        {
+          "answer": "is leaving",
+          "explanation": "Her gün tekrarlanan düzen için Present Simple kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "schedule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-45",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çocuklar okula yürüyerek gitmez.",
+      "answer": [
+        "The",
+        "children",
+        "don't",
+        "walk",
+        "to",
+        "school"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "walks"
+      ],
+      "explanation": "The children = they; olumsuz için don’t kullanılır ve fiil yalın kalır: don’t walk.",
+      "tags": [
+        "present-simple",
+        "negative",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-simple-46",
+      "lessonId": "a1-present-simple",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pazar günleri çalışmazlar.",
+      "hint": "pazar günleri: on Sundays",
+      "answers": [
+        "They don't work on Sundays.",
+        "They do not work on Sundays."
+      ],
+      "targetStructure": "Present Simple olumsuz: they + don’t + yalın fiil",
+      "explanation": "They ile don’t kullanılır ve fiil yalın kalır. Gün adlarından önce on gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They doesn't work on Sundays.",
+          "explanation": "They ile doesn’t değil don’t kullanılır."
+        },
+        {
+          "answer": "They don't work in Sundays.",
+          "explanation": "Gün adlarından önce in değil on kullanılır."
+        }
+      ],
+      "tags": [
+        "present-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "preposition_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-present-simple",
+    "title": "Present Simple: Konu sonu sınavı",
+    "description": "Olumlu, olumsuz, soru, kısa cevap ve sıklık zarfı konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-present-simple-exam-01",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "My cat ___ fish.",
+        "options": [
+          {
+            "id": "a",
+            "text": "like"
+          },
+          {
+            "id": "b",
+            "text": "likes"
+          },
+          {
+            "id": "c",
+            "text": "liking"
+          },
+          {
+            "id": "d",
+            "text": "is like"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "My cat = it; fiile -s eklenir: likes.",
+        "optionExplanations": {
+          "a": "Yalın fiil I / you / we / they ile kullanılır.",
+          "c": "Present Simple’da -ing biçimi kullanılmaz.",
+          "d": "Is ile eylem fiili yan yana gelmez."
+        },
+        "tags": [
+          "present-simple",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-02",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He ___ (play) tennis on Fridays.",
+        "answers": [
+          "plays"
+        ],
+        "explanation": "He ile fiile -s eklenir; play ünlü + y ile bittiği için yalnızca -s alır: plays.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "play",
+            "explanation": "He ile fiile -s eklenir."
+          },
+          {
+            "answer": "plaies",
+            "explanation": "Ünlü + y ile biten fiillerde y korunur: plays."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "affirmative",
+          "spelling"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-03",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Biz öğle yemeğini saat birde yeriz.",
+        "answer": [
+          "We",
+          "have",
+          "lunch",
+          "at",
+          "one"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has"
+        ],
+        "explanation": "We ile fiil yalındır: have lunch. Saatlerden önce at gelir.",
+        "tags": [
+          "present-simple",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-04",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "My mother cook dinner every day.",
+        "errorSpan": "cook",
+        "answers": [
+          "My mother cooks dinner every day."
+        ],
+        "explanation": "My mother = she; fiile -s eklenir: cooks.",
+        "tags": [
+          "present-simple",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-05",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "O (erkek) İngilizce öğretir.",
+        "hint": "öğretmek: teach",
+        "answers": [
+          "He teaches English."
+        ],
+        "targetStructure": "Present Simple olumlu: he + fiil + es",
+        "explanation": "Teach, -ch ile bittiği için he ile -es alır: teaches.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He teachs English.",
+            "explanation": "-ch ile biten fiillere -es eklenir: teaches."
+          },
+          {
+            "answer": "He teach English.",
+            "explanation": "He ile fiile -s / -es eklenir."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "affirmative",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-06",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ they live in Ankara?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Do"
+          },
+          {
+            "id": "b",
+            "text": "Does"
+          },
+          {
+            "id": "c",
+            "text": "Are"
+          },
+          {
+            "id": "d",
+            "text": "Is"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "They ile yardımcı fiil do’dur: Do they live in Ankara?",
+        "optionExplanations": {
+          "b": "Does, he / she / it ile kullanılır.",
+          "c": "Are ile eylem fiili (live) yan yana gelmez.",
+          "d": "Is ile eylem fiili (live) yan yana gelmez."
+        },
+        "tags": [
+          "present-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-07",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "My parents ___ (live) in Izmir.",
+        "answers": [
+          "live"
+        ],
+        "explanation": "My parents = they; fiil yalın kalır: live.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "lives",
+            "explanation": "Parents çoğuldur (they); fiile -s eklenmez."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "affirmative",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-08",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Annen çay içer mi?",
+        "answer": [
+          "Does",
+          "your",
+          "mother",
+          "drink",
+          "tea"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Do",
+          "drinks"
+        ],
+        "explanation": "Your mother = she; soruda does gelir ve fiil yalın kalır: Does your mother drink tea?",
+        "tags": [
+          "present-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-09",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They doesn't speak German.",
+        "errorSpan": "doesn't",
+        "answers": [
+          "They don't speak German.",
+          "They do not speak German."
+        ],
+        "explanation": "They ile doesn’t değil don’t kullanılır.",
+        "tags": [
+          "present-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-10",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biz et yemeyiz.",
+        "hint": "et: meat, yemek: eat",
+        "answers": [
+          "We don't eat meat.",
+          "We do not eat meat."
+        ],
+        "targetStructure": "Present Simple olumsuz: we + don’t + yalın fiil",
+        "explanation": "We ile don’t kullanılır ve fiil yalın kalır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We doesn't eat meat.",
+            "explanation": "We ile doesn’t değil don’t kullanılır."
+          },
+          {
+            "answer": "We don't eats meat.",
+            "explanation": "Don’t’tan sonra fiil yalın kalır."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-11",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "She ___ coffee in the morning.",
+        "hint": "Cümle olumsuz: Sabahları kahve içmez.",
+        "options": [
+          {
+            "id": "a",
+            "text": "don't drink"
+          },
+          {
+            "id": "b",
+            "text": "doesn't drink"
+          },
+          {
+            "id": "c",
+            "text": "doesn't drinks"
+          },
+          {
+            "id": "d",
+            "text": "not drink"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "She ile olumsuz yardımcı fiil doesn’t’tir ve fiil yalın kalır: She doesn’t drink coffee.",
+        "optionExplanations": {
+          "a": "She ile don’t değil doesn’t kullanılır.",
+          "c": "Doesn’t’tan sonra fiil yalın kalır: drink.",
+          "d": "Not tek başına yeterli değildir; doesn’t gerekir."
+        },
+        "tags": [
+          "present-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-12",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The baby ___ (cry) a lot.",
+        "answers": [
+          "cries"
+        ],
+        "explanation": "Cry, ünsüz + y ile biter: y → ies. The baby = it/he/she: cries.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "crys",
+            "explanation": "Ünsüz + y ile biten fiillerde y, ies olur: cries."
+          },
+          {
+            "answer": "cry",
+            "explanation": "Tekil özneyle fiile -s / -ies eklenir."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "affirmative",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-13",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Do he play chess?",
+        "errorSpan": "Do",
+        "answers": [
+          "Does he play chess?"
+        ],
+        "explanation": "He ile yardımcı fiil does’tur: Does he play chess?",
+        "tags": [
+          "present-simple",
+          "question"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-14",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi soru doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "What do your father do?"
+          },
+          {
+            "id": "b",
+            "text": "What does your father does?"
+          },
+          {
+            "id": "c",
+            "text": "What does your father do?"
+          },
+          {
+            "id": "d",
+            "text": "What your father does?"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Your father = he; ilk yardımcı fiil does, sondaki ana fiil do’dur: What does your father do?",
+        "optionExplanations": {
+          "a": "Your father tekildir; yardımcı fiil do değil does olmalı.",
+          "b": "Does’tan sonra ana fiil yalın kalır; does yazılamaz.",
+          "d": "Soru sözcüğünden sonra yardımcı fiil gelmelidir: What does your father do?"
+        },
+        "tags": [
+          "present-simple",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-15",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ Selin like music?",
+        "answers": [
+          "Does"
+        ],
+        "explanation": "Selin = she; soruda does gelir: Does Selin like music?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do",
+            "explanation": "Do, I / you / we / they ile kullanılır; Selin tek kişidir."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-16",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hafta sonları asla erken kalkmam.",
+        "answer": [
+          "I",
+          "never",
+          "get",
+          "up",
+          "early",
+          "at",
+          "weekends"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "gets",
+          "don't"
+        ],
+        "explanation": "Sıklık zarfı (never) ana fiilden önce gelir; I ile fiil yalın kalır. Hafta sonları için at weekends denir.",
+        "tags": [
+          "present-simple",
+          "adverbs"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-17",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Does she goes to school by bus?",
+        "errorSpan": "goes",
+        "answers": [
+          "Does she go to school by bus?"
+        ],
+        "explanation": "Does’tan sonra ana fiil yalın kalır: go.",
+        "tags": [
+          "present-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-18",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Mert ___ late for school.",
+        "hint": "Mert asla geç kalmaz.",
+        "options": [
+          {
+            "id": "a",
+            "text": "never is"
+          },
+          {
+            "id": "b",
+            "text": "is never"
+          },
+          {
+            "id": "c",
+            "text": "never be"
+          },
+          {
+            "id": "d",
+            "text": "does never be"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Sıklık zarfı to be fiilinden sonra gelir: Mert is never late.",
+        "optionExplanations": {
+          "a": "Sıklık zarfı, to be fiilinden önce değil sonra gelir.",
+          "c": "Be yalın biçimdir; özneye uygun is gerekir.",
+          "d": "To be ile do / does kullanılmaz."
+        },
+        "tags": [
+          "present-simple",
+          "adverbs"
+        ],
+        "errorTags": [
+          "word_order",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-19",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "My grandfather ___ a car.",
+        "hint": "Cümleyi olumsuz yap: Büyükbabam araba kullanmaz.",
+        "answers": [
+          "doesn't drive",
+          "does not drive"
+        ],
+        "explanation": "My grandfather = he; olumsuz için doesn’t ve yalın fiil: doesn’t drive.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't drive",
+            "explanation": "Grandfather tekildir; don’t değil doesn’t kullanılır."
+          },
+          {
+            "answer": "doesn't drives",
+            "explanation": "Doesn’t’tan sonra fiil yalın kalır."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-present-simple-exam-20",
+        "lessonId": "a1-present-simple",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kız kardeşin nerede çalışıyor?",
+        "hint": "kız kardeş: sister, çalışmak: work",
+        "answers": [
+          "Where does your sister work?"
+        ],
+        "targetStructure": "Wh- sorusu: Where + does + özne + yalın fiil",
+        "explanation": "Your sister = she; soruda does kullanılır ve fiil yalın kalır: Where does your sister work?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Where your sister works?",
+            "explanation": "Soru sözcüğünden sonra does gelmelidir."
+          },
+          {
+            "answer": "Where does your sister works?",
+            "explanation": "Does’tan sonra fiil yalın kalır."
+          }
+        ],
+        "tags": [
+          "present-simple",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

@@ -65,6 +65,8 @@ export default function RootLayout() {
           <Stack.Screen name="practice/[lessonId]" options={{ title: "Alıştırma" }} />
           <Stack.Screen name="exam/[lessonId]" options={{ title: "Sınav" }} />
           <Stack.Screen name="exam/result" options={{ title: "Sınav sonucu" }} />
+          <Stack.Screen name="comparisons/index" options={{ title: "Karşılaştırmalı gramer" }} />
+          <Stack.Screen name="comparisons/[comparisonId]" options={{ title: "" }} />
           <Stack.Screen name="mistakes/index" options={{ title: "Yanlışlarım" }} />
           <Stack.Screen name="mistakes/practice" options={{ title: "Yanlışları tekrar çöz" }} />
           <Stack.Screen name="review/index" options={{ title: "Tekrar listem" }} />

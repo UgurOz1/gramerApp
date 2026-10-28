@@ -1,0 +1,13 @@
+import b1Cond from "@/assets/data/comparisons/b1-first-vs-second-conditional.json";
+import a2PpVsPs from "@/assets/data/comparisons/a2-present-perfect-vs-past-simple.json";
+import a1PsVsPc from "@/assets/data/comparisons/a1-present-simple-vs-continuous.json";
+
+/**
+ * Karşılaştırma içerik dosyalarının kaydı (assets/data/comparisons/<id>.json).
+ * Anahtar, müfredattaki karşılaştırma dersinin kimliğidir.
+ */
+export const comparisonFiles: Record<string, unknown> = {
+  "a1-present-simple-vs-continuous": a1PsVsPc,
+  "a2-present-perfect-vs-past-simple": a2PpVsPs,
+  "b1-first-vs-second-conditional": b1Cond,
+};

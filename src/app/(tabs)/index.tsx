@@ -12,6 +12,7 @@ import {
   getLevels,
   isLessonAvailable,
 } from "@/features/curriculum/catalog";
+import { lessonHref } from "@/features/curriculum/routes";
 import { buildMistakeItems, unresolvedItems } from "@/features/mistakes/viewModel";
 import { levelProgress, quickStats } from "@/features/progress/summary";
 import { suggestToday, type Suggestion } from "@/features/progress/suggestion";
@@ -63,7 +64,7 @@ export default function HomeScreen() {
       case "mistakes": return router.push("/mistakes");
       case "mixed": return router.push("/mixed");
       case "none": return;
-      default: return router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: s.lessonId } });
+      default: return router.push(lessonHref(s.lessonId));
     }
   };
 
@@ -92,7 +93,7 @@ export default function HomeScreen() {
           <AppText variant="caption" color="textSecondary">
             {lessonStatusLabels[getLessonStatus(state.lessonProgress[continueLesson.id], mastery[continueLesson.id])]} · ~{continueLesson.estimatedMinutes} dk
           </AppText>
-          <Button title="Devam et" onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: continueLesson.id } })} />
+          <Button title="Devam et" onPress={() => router.push(lessonHref(continueLesson.id))} />
         </Card>
       ) : null}
 

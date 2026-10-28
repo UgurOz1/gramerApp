@@ -1,0 +1,3025 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-past-simple",
+  "levelId": "a2",
+  "title": "Past Simple",
+  "objectives": [
+    "Geçmişte bitmiş eylemleri Past Simple ile anlatmak",
+    "Düzenli fiillere -ed eklemek ve yazım kurallarını uygulamak",
+    "En sık kullanılan düzensiz fiillerin geçmiş biçimlerini bilmek",
+    "Did / didn’t ile olumsuz cümle ve soru kurmak; did’den sonra fiilin yalın kaldığını bilmek",
+    "Kısa cevap vermek ve Wh- soruları kurmak",
+    "Yesterday, last week, ago gibi zaman ifadelerini kullanmak",
+    "Türkçeden gelen sık hataları ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Past Simple nedir?",
+      "paragraphs": [
+        "Past Simple, geçmişte başlamış ve bitmiş eylemleri anlatır. Türkçedeki -di’li geçmiş zamana (çalıştım, gittim, izledi) karşılık gelir. Eylemin ne zaman olduğu bellidir ya da bağlamdan anlaşılır: dün, geçen hafta, iki gün önce, 2019’da.",
+        "Present Simple’dan en önemli farkı şudur: Past Simple’da özneye göre fiil değişmez. I, you, he, she, it, we, they hepsiyle aynı geçmiş biçim kullanılır (I worked, she worked, they worked). Present Simple’daki -s derdi burada yoktur.",
+        "Düzenli fiillerde -ed eklenir (work → worked). Düzensiz fiillerin ise kendi geçmiş biçimi vardır (go → went) ve bunları ezberlemek gerekir. Olumsuz ve soru cümlelerinde did / didn’t yardımcı fiili kullanılır ve ana fiil yalın hâle döner."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: fiilin geçmiş biçimi (V2)",
+      "paragraphs": [
+        "Olumlu cümlede özneye bakmadan fiilin geçmiş biçimini (verb 2) kullanırsın. İki tür fiil vardır:"
+      ],
+      "formulas": [
+        {
+          "label": "Düzenli fiiller",
+          "pattern": "Özne + fiil + ed   (work → worked, play → played)",
+          "exampleIds": [
+            "ex-past-simple-01",
+            "ex-past-simple-03",
+            "ex-past-simple-04",
+            "ex-past-simple-05"
+          ]
+        },
+        {
+          "label": "Düzensiz fiiller",
+          "pattern": "Özne + özel geçmiş biçim   (go → went, see → saw)",
+          "exampleIds": [
+            "ex-past-simple-09",
+            "ex-past-simple-11",
+            "ex-past-simple-13",
+            "ex-past-simple-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "Düzenli fiillerde -ed yazımı",
+      "paragraphs": [
+        "Düzenli fiillere -ed eklerken fiilin sonuna bakmak gerekir:"
+      ],
+      "formulas": [
+        {
+          "label": "Çoğu fiil: + ed",
+          "pattern": "work → worked,  watch → watched,  visit → visited,  play → played",
+          "exampleIds": [
+            "ex-past-simple-01",
+            "ex-past-simple-03",
+            "ex-past-simple-05"
+          ]
+        },
+        {
+          "label": "-e ile biten fiiller: + d",
+          "pattern": "live → lived,  arrive → arrived,  like → liked",
+          "exampleIds": [
+            "ex-past-simple-02",
+            "ex-past-simple-35"
+          ]
+        },
+        {
+          "label": "Ünsüz + y ile biten fiiller: y → ied",
+          "pattern": "study → studied,  try → tried,  cry → cried",
+          "exampleIds": [
+            "ex-past-simple-06"
+          ]
+        },
+        {
+          "label": "Ünlü + y ile biten fiiller: + ed",
+          "pattern": "play → played,  enjoy → enjoyed,  stay → stayed",
+          "exampleIds": [
+            "ex-past-simple-04"
+          ]
+        },
+        {
+          "label": "Kısa, ünsüz–ünlü–ünsüz ile biten fiiller: son ünsüz ikilenir",
+          "pattern": "stop → stopped,  plan → planned,  drop → dropped",
+          "exampleIds": [
+            "ex-past-simple-07",
+            "ex-past-simple-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "notes",
+      "tone": "info",
+      "title": "-ed nasıl okunur?",
+      "items": [
+        "-ed yazımı hep aynıdır ama üç farklı okunur: /t/ (worked, watched), /d/ (played, lived) ve /ɪd/ (wanted, visited, needed).",
+        "/ɪd/ okunuşu yalnızca fiil t ya da d sesiyle bitiyorsa duyulur; diğer durumlarda -ed ayrı bir hece olmaz."
+      ]
+    },
+    {
+      "id": "irregular",
+      "type": "rule",
+      "title": "Sık kullanılan düzensiz fiiller",
+      "paragraphs": [
+        "Düzensiz fiiller -ed almaz; her birinin kendine ait bir geçmiş biçimi vardır. Önce en sık kullanılanları öğren:"
+      ],
+      "formulas": [
+        {
+          "label": "Günlük fiiller",
+          "pattern": "go → went,  have → had,  do → did,  say → said,  get → got,  make → made,  see → saw",
+          "exampleIds": [
+            "ex-past-simple-09",
+            "ex-past-simple-10",
+            "ex-past-simple-11"
+          ]
+        },
+        {
+          "label": "Yeme, içme, uyuma",
+          "pattern": "eat → ate,  drink → drank,  sleep → slept,  wake → woke",
+          "exampleIds": [
+            "ex-past-simple-12",
+            "ex-past-simple-16",
+            "ex-past-simple-34"
+          ]
+        },
+        {
+          "label": "Alma, verme, getirme",
+          "pattern": "buy → bought,  take → took,  give → gave,  bring → brought,  find → found,  tell → told",
+          "exampleIds": [
+            "ex-past-simple-13",
+            "ex-past-simple-18"
+          ]
+        },
+        {
+          "label": "Hareket",
+          "pattern": "come → came,  run → ran,  leave → left,  drive → drove,  swim → swam,  sit → sat",
+          "exampleIds": [
+            "ex-past-simple-17",
+            "ex-past-simple-33"
+          ]
+        },
+        {
+          "label": "Düşünme ve iletişim",
+          "pattern": "know → knew,  think → thought,  speak → spoke,  write → wrote,  meet → met",
+          "exampleIds": [
+            "ex-past-simple-14",
+            "ex-past-simple-15"
+          ]
+        },
+        {
+          "label": "Biçimi değişmeyenler",
+          "pattern": "put → put,  cut → cut,  hit → hit,  let → let,  read → read (okunuşu /red/)",
+          "exampleIds": [
+            "ex-past-simple-36"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "Olumsuz ve soru cümlelerinde did (geçmiş zamanı taşıyan yardımcı fiil) kullanılır. Geçmiş zaman bilgisi did’de olduğu için ana fiil yalın hâle döner: I didn’t went ✗ → I didn’t go ✓."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "Özne + fiil (V2)",
+          "exampleIds": [
+            "ex-past-simple-01",
+            "ex-past-simple-09",
+            "ex-past-simple-13",
+            "ex-past-simple-18"
+          ],
+          "note": "Tüm özneler için aynı biçim: I went, she went, they went."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "Özne + did not (didn’t) + yalın fiil",
+          "exampleIds": [
+            "ex-past-simple-19",
+            "ex-past-simple-20",
+            "ex-past-simple-21",
+            "ex-past-simple-23"
+          ],
+          "note": "Didn’t’tan sonra fiil yalındır: She didn’t called ✗ → She didn’t call ✓."
+        },
+        {
+          "label": "Soru",
+          "formula": "Did + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-past-simple-24",
+            "ex-past-simple-25",
+            "ex-past-simple-26"
+          ],
+          "note": "Did she went? ✗ → Did she go? ✓. Did tüm özneler için aynıdır (do / does ayrımı yoktur)."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, özne + did.  |  No, özne + didn’t.",
+          "exampleIds": [
+            "ex-past-simple-27",
+            "ex-past-simple-28"
+          ],
+          "note": "Kısa cevapta ana fiil tekrarlanmaz: Yes, I did."
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "Soru sözcüğü + did + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-past-simple-29",
+            "ex-past-simple-30",
+            "ex-past-simple-31",
+            "ex-past-simple-38"
+          ],
+          "note": "Where did you go? cümlesinde go yalın hâldedir (went değil)."
+        }
+      ]
+    },
+    {
+      "id": "examples-regular",
+      "type": "examples",
+      "title": "Örnekler: düzenli fiiller",
+      "exampleIds": [
+        "ex-past-simple-01",
+        "ex-past-simple-02",
+        "ex-past-simple-03",
+        "ex-past-simple-04",
+        "ex-past-simple-05",
+        "ex-past-simple-06",
+        "ex-past-simple-07",
+        "ex-past-simple-08",
+        "ex-past-simple-35"
+      ]
+    },
+    {
+      "id": "examples-irregular",
+      "type": "examples",
+      "title": "Örnekler: düzensiz fiiller",
+      "paragraphs": [
+        "Fiillerin geçmiş biçimlerine dikkat et; bunları cümle içinde öğrenmek en kolay yoldur."
+      ],
+      "exampleIds": [
+        "ex-past-simple-09",
+        "ex-past-simple-10",
+        "ex-past-simple-11",
+        "ex-past-simple-12",
+        "ex-past-simple-13",
+        "ex-past-simple-14",
+        "ex-past-simple-15",
+        "ex-past-simple-16",
+        "ex-past-simple-17",
+        "ex-past-simple-18",
+        "ex-past-simple-33",
+        "ex-past-simple-36"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler, sorular ve kısa cevaplar",
+      "exampleIds": [
+        "ex-past-simple-19",
+        "ex-past-simple-20",
+        "ex-past-simple-21",
+        "ex-past-simple-22",
+        "ex-past-simple-23",
+        "ex-past-simple-24",
+        "ex-past-simple-25",
+        "ex-past-simple-26",
+        "ex-past-simple-27",
+        "ex-past-simple-28",
+        "ex-past-simple-29",
+        "ex-past-simple-30",
+        "ex-past-simple-31",
+        "ex-past-simple-37",
+        "ex-past-simple-38"
+      ]
+    },
+    {
+      "id": "time",
+      "type": "rule",
+      "title": "Zaman ifadeleri",
+      "paragraphs": [
+        "Past Simple çoğu zaman bitmiş bir zaman dilimini gösteren ifadelerle birlikte kullanılır. Bu ifadeler genellikle cümlenin sonuna ya da başına gelir:"
+      ],
+      "formulas": [
+        {
+          "label": "Belirli zaman",
+          "pattern": "yesterday,  last night,  last week / month / year,  on Monday,  in 2019,  in May",
+          "exampleIds": [
+            "ex-past-simple-09",
+            "ex-past-simple-13"
+          ]
+        },
+        {
+          "label": "Şimdiden önce: ago",
+          "pattern": "two days ago,  a week ago,  five years ago",
+          "exampleIds": [
+            "ex-past-simple-32"
+          ]
+        },
+        {
+          "label": "Geçmişteki an",
+          "pattern": "when I was a child,  at six o’clock,  then,  after that",
+          "exampleIds": [
+            "ex-past-simple-33",
+            "ex-past-simple-34"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Kullanım alanları",
+      "paragraphs": [
+        "Past Simple şu durumlarda kullanılır:"
+      ],
+      "items": [
+        {
+          "heading": "Geçmişte bitmiş tek bir eylem",
+          "body": "Zamanı belli ya da bağlamdan anlaşılan, tamamen bitmiş eylemler.",
+          "exampleIds": [
+            "ex-past-simple-01",
+            "ex-past-simple-09",
+            "ex-past-simple-13"
+          ]
+        },
+        {
+          "heading": "Ardışık geçmiş olaylar",
+          "body": "Bir hikâyeyi ya da olay sırasını anlatırken eylemler art arda Past Simple ile söylenir.",
+          "exampleIds": [
+            "ex-past-simple-34"
+          ]
+        },
+        {
+          "heading": "Geçmişte bir süre süren durumlar",
+          "body": "Bir dönemde geçerli olan ama artık geçerli olmayan durumlar.",
+          "exampleIds": [
+            "ex-past-simple-02",
+            "ex-past-simple-01"
+          ]
+        },
+        {
+          "heading": "Geçmişteki tekrarlanan eylemler",
+          "body": "Belirli bir dönemde tekrarlanan ve artık bitmiş eylemler (every day last summer). Alışkanlık anlatan used to yapısı ileride ayrıca işlenecek.",
+          "exampleIds": [
+            "ex-past-simple-04",
+            "ex-past-simple-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I go to the cinema yesterday.",
+          "right": "I went to the cinema yesterday.",
+          "explanation": "“Yesterday” geçmiş bir zamandır; fiil de geçmiş biçimde olmalıdır."
+        },
+        {
+          "wrong": "She didn’t went to school.",
+          "right": "She didn’t go to school.",
+          "explanation": "Did / didn’t geçmiş zamanı taşır; ana fiil yalın kalır."
+        },
+        {
+          "wrong": "Did she went home?",
+          "right": "Did she go home?",
+          "explanation": "Soruda did’den sonra fiil yalın hâldedir."
+        },
+        {
+          "wrong": "Where did you went?",
+          "right": "Where did you go?",
+          "explanation": "Wh- sorularında da did’den sonra yalın fiil gelir."
+        },
+        {
+          "wrong": "He goed to school.",
+          "right": "He went to school.",
+          "explanation": "Go düzensiz bir fiildir; -ed almaz. Düzensiz fiiller kendi geçmiş biçimini kullanır."
+        },
+        {
+          "wrong": "I buyed a new bag.",
+          "right": "I bought a new bag.",
+          "explanation": "Buy düzensiz bir fiildir: bought."
+        },
+        {
+          "wrong": "She studyed last night.",
+          "right": "She studied last night.",
+          "explanation": "Ünsüz + y ile biten fiillerde y, ied olur."
+        },
+        {
+          "wrong": "He stoped the car.",
+          "right": "He stopped the car.",
+          "explanation": "Kısa, ünsüz–ünlü–ünsüz ile biten fiillerde son ünsüz ikilenir."
+        },
+        {
+          "wrong": "I didn’t saw him.",
+          "right": "I didn’t see him.",
+          "explanation": "Didn’t’tan sonra yalın fiil gelir (see), geçmiş biçim (saw) gelmez."
+        },
+        {
+          "wrong": "Did you tired yesterday?",
+          "right": "Were you tired yesterday?",
+          "explanation": "To be fiilinin geçmişi was / were’dir; was / were ile kurulan cümlelerde did kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Past Simple ve Present Perfect",
+          "body": "Past Simple bitmiş ve zamanı belli eylemleri anlatır (I saw him yesterday). Present Perfect ise geçmişi şimdiyle bağlar ve zamanı belirtmez (I have seen him). İkisini karıştırmamak için ayrı bir karşılaştırma var.",
+          "lessonId": "a2-present-perfect-vs-past-simple"
+        },
+        {
+          "topic": "Past Simple ve Past Continuous",
+          "body": "Past Simple bitmiş eylemi, Past Continuous geçmişte belirli bir anda süren eylemi anlatır.",
+          "lessonId": "a2-past-continuous"
+        },
+        {
+          "topic": "Was / were",
+          "body": "To be fiilinin geçmişi was / were’dir. Bu fiille did kullanılmaz: Were you tired? (Did you tired? ✗)",
+          "lessonId": "a2-past-be"
+        },
+        {
+          "topic": "Present Simple",
+          "body": "Present Simple’da he / she / it ile fiile -s gelir; Past Simple’da özneye göre değişiklik yoktur. Did / didn’t, do / does’ın geçmiş zamanıdır.",
+          "lessonId": "a1-present-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Did / didn’t kullandıktan sonra fiil her zaman yalın kalır: Did you go? I didn’t go.",
+        "Düzensiz fiillere -ed eklenmez: went (goed ✗), bought (buyed ✗), ate (eated ✗).",
+        "Past Simple’da fiil özneye göre değişmez: he went (he wents ✗).",
+        "Was / were ile kurulan cümlelerde did kullanılmaz: Was she at home? (Did she was at home? ✗)"
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Türkçede geçmişi anlatan birden fazla biçim vardır (gittim, gitmişim, gidiyordum). İngilizcede bitmiş ve zamanı belli bir eylem Past Simple ile söylenir; diğer geçmiş zamanlar ayrı derslerde işlenecek.",
+        "Düzensiz fiilleri listeden ezberlemek yerine cümle içinde görmek ve tekrar etmek daha kalıcıdır. Quiz ve alıştırmalarda sık sık karşına çıkacaklar.",
+        "Ago, geçmiş zamanla birlikte kullanılır: I called him two days ago. (Present Perfect ile kullanılmaz.)"
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-past-simple-01",
+        "q-past-simple-02",
+        "q-past-simple-09"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-past-simple-01",
+      "en": "I worked in a bank last year.",
+      "tr": "Geçen yıl bir bankada çalıştım.",
+      "highlight": "worked",
+      "note": "work → worked"
+    },
+    {
+      "id": "ex-past-simple-02",
+      "en": "She lived in London in 2015.",
+      "tr": "2015’te Londra’da yaşadı.",
+      "highlight": "lived",
+      "note": "live → lived (e ile bitiyorsa yalnızca -d)"
+    },
+    {
+      "id": "ex-past-simple-03",
+      "en": "We watched a film last night.",
+      "tr": "Dün gece bir film izledik.",
+      "highlight": "watched"
+    },
+    {
+      "id": "ex-past-simple-04",
+      "en": "He played tennis yesterday.",
+      "tr": "Dün tenis oynadı.",
+      "highlight": "played",
+      "note": "play → played (ünlü + y: y korunur)"
+    },
+    {
+      "id": "ex-past-simple-05",
+      "en": "They visited their grandparents on Sunday.",
+      "tr": "Pazar günü büyükanne ve büyükbabalarını ziyaret ettiler.",
+      "highlight": "visited"
+    },
+    {
+      "id": "ex-past-simple-06",
+      "en": "I studied for the exam all night.",
+      "tr": "Bütün gece sınava çalıştım.",
+      "highlight": "studied",
+      "note": "study → studied (ünsüz + y → ied)"
+    },
+    {
+      "id": "ex-past-simple-07",
+      "en": "The car stopped suddenly.",
+      "tr": "Araba aniden durdu.",
+      "highlight": "stopped",
+      "note": "stop → stopped (son ünsüz ikilenir)"
+    },
+    {
+      "id": "ex-past-simple-08",
+      "en": "She planned the trip carefully.",
+      "tr": "Geziyi dikkatle planladı.",
+      "highlight": "planned",
+      "note": "plan → planned"
+    },
+    {
+      "id": "ex-past-simple-09",
+      "en": "I went to the cinema yesterday.",
+      "tr": "Dün sinemaya gittim.",
+      "highlight": "went",
+      "note": "go → went (düzensiz)"
+    },
+    {
+      "id": "ex-past-simple-10",
+      "en": "He had a big breakfast.",
+      "tr": "Büyük bir kahvaltı yaptı.",
+      "highlight": "had",
+      "note": "have → had"
+    },
+    {
+      "id": "ex-past-simple-11",
+      "en": "We saw a beautiful bird.",
+      "tr": "Güzel bir kuş gördük.",
+      "highlight": "saw",
+      "note": "see → saw"
+    },
+    {
+      "id": "ex-past-simple-12",
+      "en": "She ate pizza for lunch.",
+      "tr": "Öğle yemeğinde pizza yedi.",
+      "highlight": "ate",
+      "note": "eat → ate"
+    },
+    {
+      "id": "ex-past-simple-13",
+      "en": "They bought a new car last month.",
+      "tr": "Geçen ay yeni bir araba aldılar.",
+      "highlight": "bought",
+      "note": "buy → bought"
+    },
+    {
+      "id": "ex-past-simple-14",
+      "en": "My brother wrote a letter to me.",
+      "tr": "Erkek kardeşim bana bir mektup yazdı.",
+      "highlight": "wrote",
+      "note": "write → wrote"
+    },
+    {
+      "id": "ex-past-simple-15",
+      "en": "I met my friend at the station.",
+      "tr": "Arkadaşımla istasyonda buluştum.",
+      "highlight": "met",
+      "note": "meet → met"
+    },
+    {
+      "id": "ex-past-simple-16",
+      "en": "He drank two glasses of water.",
+      "tr": "İki bardak su içti.",
+      "highlight": "drank",
+      "note": "drink → drank"
+    },
+    {
+      "id": "ex-past-simple-17",
+      "en": "She came home late.",
+      "tr": "Eve geç geldi.",
+      "highlight": "came",
+      "note": "come → came"
+    },
+    {
+      "id": "ex-past-simple-18",
+      "en": "We took a taxi to the airport.",
+      "tr": "Havalimanına taksiyle gittik.",
+      "highlight": "took",
+      "note": "take → took"
+    },
+    {
+      "id": "ex-past-simple-19",
+      "en": "I didn't go to school yesterday.",
+      "tr": "Dün okula gitmedim.",
+      "highlight": "didn't go",
+      "note": "didn't + yalın fiil"
+    },
+    {
+      "id": "ex-past-simple-20",
+      "en": "She didn't call me.",
+      "tr": "Beni aramadı.",
+      "highlight": "didn't call"
+    },
+    {
+      "id": "ex-past-simple-21",
+      "en": "We didn't watch the match.",
+      "tr": "Maçı izlemedik.",
+      "highlight": "didn't watch"
+    },
+    {
+      "id": "ex-past-simple-22",
+      "en": "He didn't eat breakfast.",
+      "tr": "Kahvaltı etmedi.",
+      "highlight": "didn't eat"
+    },
+    {
+      "id": "ex-past-simple-23",
+      "en": "They didn't buy anything.",
+      "tr": "Hiçbir şey almadılar.",
+      "highlight": "didn't buy"
+    },
+    {
+      "id": "ex-past-simple-24",
+      "en": "Did you see Ali yesterday?",
+      "tr": "Dün Ali’yi gördün mü?",
+      "highlight": "Did",
+      "note": "Did + yalın fiil"
+    },
+    {
+      "id": "ex-past-simple-25",
+      "en": "Did she call you?",
+      "tr": "Seni aradı mı?",
+      "highlight": "Did"
+    },
+    {
+      "id": "ex-past-simple-26",
+      "en": "Did they win the game?",
+      "tr": "Maçı kazandılar mı?",
+      "highlight": "Did"
+    },
+    {
+      "id": "ex-past-simple-27",
+      "en": "Yes, I did.",
+      "tr": "Evet, (gördüm).",
+      "highlight": "did",
+      "note": "Kısa cevapta ana fiil tekrarlanmaz."
+    },
+    {
+      "id": "ex-past-simple-28",
+      "en": "No, she didn't.",
+      "tr": "Hayır, (aramadı).",
+      "highlight": "didn't"
+    },
+    {
+      "id": "ex-past-simple-29",
+      "en": "Where did you go on holiday?",
+      "tr": "Tatile nereye gittin?",
+      "highlight": "did"
+    },
+    {
+      "id": "ex-past-simple-30",
+      "en": "What did he say?",
+      "tr": "Ne dedi?",
+      "highlight": "did"
+    },
+    {
+      "id": "ex-past-simple-31",
+      "en": "When did they arrive?",
+      "tr": "Ne zaman geldiler?",
+      "highlight": "did"
+    },
+    {
+      "id": "ex-past-simple-32",
+      "en": "I called him two days ago.",
+      "tr": "Onu iki gün önce aradım.",
+      "highlight": "ago",
+      "note": "ago: şimdiden geriye doğru"
+    },
+    {
+      "id": "ex-past-simple-33",
+      "en": "She left the office at six.",
+      "tr": "Ofisten altıda ayrıldı.",
+      "highlight": "left",
+      "note": "leave → left"
+    },
+    {
+      "id": "ex-past-simple-34",
+      "en": "He woke up late, had breakfast and left home.",
+      "tr": "Geç kalktı, kahvaltı etti ve evden çıktı.",
+      "highlight": "woke up",
+      "note": "Ardışık geçmiş olaylar"
+    },
+    {
+      "id": "ex-past-simple-35",
+      "en": "We arrived at the hotel in the evening.",
+      "tr": "Akşam otele vardık.",
+      "highlight": "arrived"
+    },
+    {
+      "id": "ex-past-simple-36",
+      "en": "I read the book last week.",
+      "tr": "Kitabı geçen hafta okudum.",
+      "highlight": "read",
+      "note": "read → read (yazılışı aynı, okunuşu /red/)"
+    },
+    {
+      "id": "ex-past-simple-37",
+      "en": "How much did it cost?",
+      "tr": "Ne kadara mal oldu?",
+      "highlight": "did"
+    },
+    {
+      "id": "ex-past-simple-38",
+      "en": "Why did you leave early?",
+      "tr": "Neden erken ayrıldın?",
+      "highlight": "did"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-past-simple-01",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ to the cinema yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "go"
+        },
+        {
+          "id": "b",
+          "text": "went"
+        },
+        {
+          "id": "c",
+          "text": "goed"
+        },
+        {
+          "id": "d",
+          "text": "gone"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Yesterday” geçmiş zamanı gösterir. Go düzensiz bir fiildir; geçmiş biçimi went’tir: I went to the cinema yesterday.",
+      "optionExplanations": {
+        "a": "Go şimdiki / genel zamanı anlatır; “yesterday” geçmiş biçim gerektirir.",
+        "c": "Go düzensiz bir fiildir; -ed almaz.",
+        "d": "Gone, Present Perfect’te kullanılan biçimdir; Past Simple’da went kullanılır."
+      },
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-02",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ (work) in a bank last year.",
+      "answers": [
+        "worked"
+      ],
+      "explanation": "Work düzenli bir fiildir; geçmiş biçimi -ed ile yapılır: worked.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "works",
+          "explanation": "“Last year” geçmişi gösterir; Past Simple gerekir."
+        },
+        {
+          "answer": "work",
+          "explanation": "Geçmiş zamanda fiil -ed almalıdır: worked."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "regular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-03",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün okula gittim.",
+      "answer": [
+        "I",
+        "went",
+        "to",
+        "school",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "go",
+        "goed"
+      ],
+      "explanation": "Past Simple’da go → went. Zaman ifadesi (yesterday) cümlenin sonuna gelebilir: I went to school yesterday.",
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-simple-04",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I go to the cinema yesterday.",
+      "errorSpan": "go",
+      "answers": [
+        "I went to the cinema yesterday."
+      ],
+      "explanation": "“Yesterday” geçmiş zamandır; fiil de geçmiş biçimde olmalıdır: went.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I goed to the cinema yesterday.",
+          "explanation": "Go düzensiz bir fiildir; -ed almaz: went."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-05",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün sinemaya gittim.",
+      "hint": "gitmek: go",
+      "answers": [
+        "I went to the cinema yesterday.",
+        "Yesterday I went to the cinema."
+      ],
+      "targetStructure": "Past Simple olumlu: düzensiz fiil",
+      "explanation": "“Dün” geçmiş zamanı gösterir. Go düzensiz bir fiildir: went. Zaman ifadesi başa da sona da gelebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I go to the cinema yesterday.",
+          "explanation": "Geçmiş zamanda go → went olmalıdır."
+        },
+        {
+          "answer": "I goed to the cinema yesterday.",
+          "explanation": "Go düzensiz bir fiildir; -ed almaz."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-06",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ a letter last week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "writes"
+        },
+        {
+          "id": "b",
+          "text": "wrote"
+        },
+        {
+          "id": "c",
+          "text": "writed"
+        },
+        {
+          "id": "d",
+          "text": "written"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Write düzensiz bir fiildir; geçmiş biçimi wrote’tur: She wrote a letter last week.",
+      "optionExplanations": {
+        "a": "Writes, Present Simple’dır; “last week” geçmişi gösterir.",
+        "c": "Write düzensiz bir fiildir; -ed almaz.",
+        "d": "Written, Present Perfect’te kullanılan biçimdir; Past Simple’da wrote kullanılır."
+      },
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-07",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ (visit) their grandparents on Sunday.",
+      "answers": [
+        "visited"
+      ],
+      "explanation": "Visit düzenli bir fiildir: visited.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "visit",
+          "explanation": "Geçmişte -ed gerekir."
+        },
+        {
+          "answer": "visits",
+          "explanation": "Geçmişi anlatan cümlede -s değil -ed gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "regular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-08",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geçen yıl bir bankada çalıştılar.",
+      "answer": [
+        "They",
+        "worked",
+        "in",
+        "a",
+        "bank",
+        "last",
+        "year"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "work"
+      ],
+      "explanation": "Past Simple’da fiil -ed alır ve özneye göre değişmez: They worked in a bank last year.",
+      "tags": [
+        "past-simple",
+        "regular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-simple-09",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She didn't went to school.",
+      "errorSpan": "went",
+      "answers": [
+        "She didn't go to school.",
+        "She did not go to school."
+      ],
+      "explanation": "Didn’t geçmiş zamanı taşır; ana fiil yalın hâle döner: She didn’t go to school.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She didn't goes to school.",
+          "explanation": "Didn’t’tan sonra fiil yalın kalır; -s eklenmez."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-10",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geçen yıl İstanbul’da yaşadı. (O kadın)",
+      "hint": "yaşamak: live",
+      "answers": [
+        "She lived in Istanbul last year.",
+        "Last year she lived in Istanbul."
+      ],
+      "targetStructure": "Past Simple olumlu: düzenli fiil",
+      "explanation": "Live, -e ile bittiği için yalnızca -d alır: lived.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She lives in Istanbul last year.",
+          "explanation": "“Geçen yıl” geçmiştir; Past Simple gerekir."
+        },
+        {
+          "answer": "She liveed in Istanbul last year.",
+          "explanation": "-e ile biten fiillere yalnızca -d eklenir: lived."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "regular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-11",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ football yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "play"
+        },
+        {
+          "id": "b",
+          "text": "played"
+        },
+        {
+          "id": "c",
+          "text": "plays"
+        },
+        {
+          "id": "d",
+          "text": "playing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Play düzenli bir fiildir; ünlü + y ile bittiği için y korunur: played.",
+      "optionExplanations": {
+        "a": "Yalın fiil Present Simple içindir.",
+        "c": "Plays, he / she / it ile kullanılan Present Simple biçimidir.",
+        "d": "Playing, Past Simple’da tek başına kullanılmaz."
+      },
+      "tags": [
+        "past-simple",
+        "regular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-12",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ (buy) a new phone last week.",
+      "answers": [
+        "bought"
+      ],
+      "explanation": "Buy düzensiz bir fiildir; geçmiş biçimi bought’tur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "buyed",
+          "explanation": "Buy düzensiz bir fiildir; -ed almaz: bought."
+        },
+        {
+          "answer": "buy",
+          "explanation": "“Last week” geçmişi gösterir; bought gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-13",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you see the film?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Were"
+        },
+        {
+          "id": "d",
+          "text": "Does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past Simple soruları did ile kurulur ve did tüm özneler için aynıdır: Did you see the film?",
+      "optionExplanations": {
+        "b": "Do, Present Simple sorularında kullanılır; geçmiş için did gerekir.",
+        "c": "Were, to be fiilinin geçmişidir; see bir eylem fiilidir.",
+        "d": "Does, Present Simple’dır ve he / she / it ile kullanılır."
+      },
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-14",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ (eat) pizza for lunch yesterday.",
+      "answers": [
+        "ate"
+      ],
+      "explanation": "Eat düzensiz bir fiildir; geçmiş biçimi ate’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "eated",
+          "explanation": "Eat düzensiz bir fiildir; -ed almaz: ate."
+        },
+        {
+          "answer": "eaten",
+          "explanation": "Eaten, Present Perfect’te kullanılır; Past Simple’da ate gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-15",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün gece film izlemedik.",
+      "answer": [
+        "We",
+        "didn't",
+        "watch",
+        "a",
+        "film",
+        "last",
+        "night"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "watched",
+        "don't"
+      ],
+      "explanation": "Olumsuzda didn’t kullanılır ve ana fiil yalın kalır: We didn’t watch a film last night.",
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-16",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did she went home?",
+      "errorSpan": "went",
+      "answers": [
+        "Did she go home?"
+      ],
+      "explanation": "Soruda did’den sonra fiil yalın hâldedir: Did she go home?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did she goes home?",
+          "explanation": "Did’den sonra fiil yalın kalır; -s eklenmez."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-17",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He didn't ___ the answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "know"
+        },
+        {
+          "id": "b",
+          "text": "knew"
+        },
+        {
+          "id": "c",
+          "text": "knows"
+        },
+        {
+          "id": "d",
+          "text": "knowing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Didn’t’tan sonra ana fiil yalın hâlde gelir: He didn’t know the answer.",
+      "optionExplanations": {
+        "b": "Knew, geçmiş biçimdir; didn’t zaten geçmişi taşır.",
+        "c": "Didn’t’tan sonra -s eklenmez.",
+        "d": "Didn’t’tan sonra -ing biçimi kullanılmaz."
+      },
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-18",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ (stop) at the traffic lights.",
+      "answers": [
+        "stopped"
+      ],
+      "explanation": "Stop kısa, ünsüz–ünlü–ünsüz ile biten bir fiildir; p ikilenir: stopped.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "stoped",
+          "explanation": "Son ünsüz ikilenmeli: stopped."
+        },
+        {
+          "answer": "stopd",
+          "explanation": "-ed eklenmeli ve p ikilenmeli: stopped."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "regular",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-19",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ (study) for the exam all night.",
+      "answers": [
+        "studied"
+      ],
+      "explanation": "Study, ünsüz + y ile biten bir fiildir; y, ied olur: studied.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "studyed",
+          "explanation": "Ünsüz + y ile biten fiillerde y, ied olur: studied."
+        },
+        {
+          "answer": "studys",
+          "explanation": "Geçmiş zamanda -ed gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "regular",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-20",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She didn't went to school."
+        },
+        {
+          "id": "b",
+          "text": "She didn't go to school."
+        },
+        {
+          "id": "c",
+          "text": "She not went to school."
+        },
+        {
+          "id": "d",
+          "text": "She doesn't went to school."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Didn’t’tan sonra ana fiil yalın hâlde gelir: She didn’t go to school.",
+      "optionExplanations": {
+        "a": "Didn’t geçmişi taşır; went yazılmaz, fiil yalın kalmalıdır.",
+        "c": "Not tek başına yardımcı fiil değildir; didn’t gerekir.",
+        "d": "Doesn’t Present Simple’a aittir; geçmiş için didn’t gerekir."
+      },
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-21",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He goed to school by bus.",
+      "errorSpan": "goed",
+      "answers": [
+        "He went to school by bus."
+      ],
+      "explanation": "Go düzensiz bir fiildir; geçmiş biçimi went’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He gone to school by bus.",
+          "explanation": "Gone, Past Simple’da kullanılmaz; went gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-22",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ go to school yesterday.",
+      "hint": "Cümleyi olumsuz yap: Dün okula gitmedim.",
+      "answers": [
+        "didn't",
+        "did not"
+      ],
+      "explanation": "Olumsuz geçmiş cümle did not / didn’t ile kurulur ve fiil yalın kalır: I didn’t go to school yesterday.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "“Yesterday” geçmişi gösterir; don’t Present Simple’dır."
+        },
+        {
+          "answer": "wasn't",
+          "explanation": "Wasn’t, to be fiilinin olumsuzudur; go bir eylem fiilidir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-simple-23",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün gece televizyon izlemedik.",
+      "hint": "izlemek: watch",
+      "answers": [
+        "We didn't watch TV last night.",
+        "We did not watch TV last night.",
+        "Last night we didn't watch TV.",
+        "Last night we did not watch TV."
+      ],
+      "targetStructure": "Past Simple olumsuz: did not + yalın fiil",
+      "explanation": "Olumsuz geçmiş cümlede didn’t kullanılır ve fiil yalın kalır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We didn't watched TV last night.",
+          "explanation": "Didn’t’tan sonra fiil yalın kalır: watch."
+        },
+        {
+          "answer": "We not watched TV last night.",
+          "explanation": "Olumsuz için didn’t gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-24",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Beni aradı mı?",
+      "answer": [
+        "Did",
+        "she",
+        "call",
+        "me"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "called",
+        "Do"
+      ],
+      "explanation": "Soruda did özneden önce gelir ve fiil yalın kalır: Did she call me?",
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-25",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you call him last night?",
+      "answers": [
+        "Did"
+      ],
+      "explanation": "Geçmiş zamanlı soru did ile kurulur: Did you call him last night?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Do, Present Simple içindir; geçmiş için did gerekir."
+        },
+        {
+          "answer": "Were",
+          "explanation": "Were, to be fiilinin geçmişidir; call bir eylem fiilidir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-26",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu dün gördün mü?",
+      "hint": "görmek: see. “Onu” için him kullan.",
+      "answers": [
+        "Did you see him yesterday?"
+      ],
+      "targetStructure": "Past Simple soru: Did + özne + yalın fiil …?",
+      "explanation": "Soru did ile kurulur ve fiil yalın kalır: see (saw değil).",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you saw him yesterday?",
+          "explanation": "Did’den sonra fiil yalın kalır: see."
+        },
+        {
+          "answer": "You saw him yesterday?",
+          "explanation": "Soru yaparken did özneden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-27",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What time ___ the film start yesterday?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did"
+        },
+        {
+          "id": "b",
+          "text": "does"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş zamanlı Wh- sorusu did ile kurulur ve ana fiil yalın kalır: What time did the film start yesterday?",
+      "optionExplanations": {
+        "b": "Does, Present Simple içindir; “yesterday” geçmişi gösterir.",
+        "c": "Was ile eylem fiili (start) yan yana gelmez.",
+        "d": "Do, Present Simple içindir."
+      },
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-28",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I buyed a new bag.",
+      "errorSpan": "buyed",
+      "answers": [
+        "I bought a new bag."
+      ],
+      "explanation": "Buy düzensiz bir fiildir; geçmiş biçimi bought’tur.",
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-29",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She studyed all night."
+        },
+        {
+          "id": "b",
+          "text": "She studied all night."
+        },
+        {
+          "id": "c",
+          "text": "She studys all night."
+        },
+        {
+          "id": "d",
+          "text": "She study all night."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Study, ünsüz + y ile biter; geçmişte y, ied olur: studied.",
+      "optionExplanations": {
+        "a": "Ünsüz + y ile biten fiillerde y, ied olur.",
+        "c": "Studys, hem Present Simple’dır hem yazım olarak yanlıştır.",
+        "d": "Yalın fiil geçmiş biçim değildir."
+      },
+      "tags": [
+        "past-simple",
+        "regular",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-30",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She studyed English last night.",
+      "errorSpan": "studyed",
+      "answers": [
+        "She studied English last night."
+      ],
+      "explanation": "Ünsüz + y ile biten fiillerde y, ied olur: studied.",
+      "tags": [
+        "past-simple",
+        "regular",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-31",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Did he win? No, he ___.",
+      "answers": [
+        "didn't",
+        "did not"
+      ],
+      "explanation": "Soru did ile kurulduğu için olumsuz kısa cevap didn’t’tir: No, he didn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wasn't",
+          "explanation": "Soru did ile kurulmuş; cevapta da didn’t gelir."
+        },
+        {
+          "answer": "doesn't",
+          "explanation": "Doesn’t Present Simple’a aittir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-simple-32",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ they go on holiday?",
+      "answers": [
+        "did"
+      ],
+      "explanation": "Geçmiş zamanlı Wh- sorusu did ile kurulur: Where did they go on holiday?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Do, Present Simple içindir."
+        },
+        {
+          "answer": "were",
+          "explanation": "Were ile eylem fiili (go) yan yana gelmez."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-33",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Tatile nereye gittin?",
+      "answer": [
+        "Where",
+        "did",
+        "you",
+        "go",
+        "on",
+        "holiday"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "went",
+        "do"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından did, özne ve yalın fiil: Where did you go on holiday?",
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-simple-34",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne dedi? (O erkek)",
+      "hint": "söylemek: say",
+      "answers": [
+        "What did he say?"
+      ],
+      "targetStructure": "Wh- sorusu: What + did + özne + yalın fiil",
+      "explanation": "Did geçmiş zamanı taşır; say yalın kalır: What did he say? (said değil)",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What did he said?",
+          "explanation": "Did’den sonra fiil yalın kalır: say."
+        },
+        {
+          "answer": "What he said?",
+          "explanation": "Soru yaparken did gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-35",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Where did you went last weekend?",
+      "errorSpan": "went",
+      "answers": [
+        "Where did you go last weekend?"
+      ],
+      "explanation": "Wh- sorusunda da did’den sonra fiil yalın kalır: go.",
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-36",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Did she call you?” sorusuna olumlu kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, she did."
+        },
+        {
+          "id": "b",
+          "text": "Yes, she called."
+        },
+        {
+          "id": "c",
+          "text": "Yes, she does."
+        },
+        {
+          "id": "d",
+          "text": "Yes, she was."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta ana fiil tekrarlanmaz; soruda kullanılan yardımcı fiil verilir: Yes, she did.",
+      "optionExplanations": {
+        "b": "Kısa cevapta ana fiil tekrarlanmaz.",
+        "c": "Does, Present Simple’a aittir.",
+        "d": "Was, to be fiilinin geçmişidir; bu soru did ile kurulmuş."
+      },
+      "tags": [
+        "past-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-37",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne dedi? (O erkek)",
+      "answer": [
+        "What",
+        "did",
+        "he",
+        "say"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "said",
+        "does"
+      ],
+      "explanation": "Did geçmiş zamanı taşır; ana fiil yalın kalır: What did he say?",
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-38",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She ___ (not / see) him at the party.",
+      "hint": "Cümleyi olumsuz yap: Onu partide görmedi.",
+      "answers": [
+        "didn't see",
+        "did not see"
+      ],
+      "explanation": "Olumsuzda didn’t kullanılır ve fiil yalın kalır: She didn’t see him at the party.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't saw",
+          "explanation": "Didn’t’tan sonra fiil yalın kalır: see."
+        },
+        {
+          "answer": "not saw",
+          "explanation": "Olumsuz için yardımcı fiil gerekir: didn’t / did not."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-simple-39",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I ___ him two days ago.",
+      "options": [
+        {
+          "id": "a",
+          "text": "meet"
+        },
+        {
+          "id": "b",
+          "text": "met"
+        },
+        {
+          "id": "c",
+          "text": "meeted"
+        },
+        {
+          "id": "d",
+          "text": "have met"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Two days ago” geçmişte bitmiş bir zamanı gösterir; Past Simple gerekir. Meet düzensiz bir fiildir: met.",
+      "optionExplanations": {
+        "a": "Yalın fiil geçmiş biçim değildir.",
+        "c": "Meet düzensiz bir fiildir; -ed almaz.",
+        "d": "“Ago” ile Present Perfect kullanılmaz; bitmiş ve zamanı belli eylem için Past Simple gerekir."
+      },
+      "tags": [
+        "past-simple",
+        "irregular",
+        "time-expressions"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-40",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I called him two days ___.",
+      "answers": [
+        "ago"
+      ],
+      "explanation": "Şimdiden geriye doğru süre belirtmek için ago kullanılır: two days ago.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "before",
+          "explanation": "Before başka bir geçmiş zamana göre öncesini anlatır; şimdiden geriye doğru süre için ago kullanılır."
+        },
+        {
+          "answer": "last",
+          "explanation": "Last, belirli bir zaman dilimini gösterir (last week); “two days” ile ago gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "time-expressions"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-simple-41",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu iki gün önce aradım.",
+      "answer": [
+        "I",
+        "called",
+        "him",
+        "two",
+        "days",
+        "ago"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "call",
+        "before"
+      ],
+      "explanation": "Past Simple ile birlikte ago kullanılır: I called him two days ago.",
+      "tags": [
+        "past-simple",
+        "time-expressions"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-simple-42",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you tired yesterday?",
+      "errorSpan": "Did you tired",
+      "answers": [
+        "Were you tired yesterday?"
+      ],
+      "explanation": "To be fiilinin geçmişi was / were’dir ve bu fiille did kullanılmaz. You ile were kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you were tired yesterday?",
+          "explanation": "Did ve were aynı cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-43",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I didn't saw him yesterday.",
+      "errorSpan": "saw",
+      "answers": [
+        "I didn't see him yesterday.",
+        "I did not see him yesterday."
+      ],
+      "explanation": "Didn’t’tan sonra yalın fiil gelir: see.",
+      "tags": [
+        "past-simple",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-simple-44",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Did you like the film? Yes, I ___.",
+      "answers": [
+        "did"
+      ],
+      "explanation": "Soru did ile kurulduğu için kısa cevap da did ile verilir: Yes, I did.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "liked",
+          "explanation": "Kısa cevapta ana fiil tekrarlanmaz: Yes, I did."
+        },
+        {
+          "answer": "was",
+          "explanation": "Soru did ile kurulmuş; cevapta da did kullanılır."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-simple-45",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He ___ (drive) to work yesterday.",
+      "answers": [
+        "drove"
+      ],
+      "explanation": "Drive düzensiz bir fiildir; geçmiş biçimi drove’dur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "drived",
+          "explanation": "Drive düzensiz bir fiildir; -ed almaz: drove."
+        },
+        {
+          "answer": "driven",
+          "explanation": "Driven, Present Perfect’te kullanılır; Past Simple’da drove gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-46",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün yeni bir kitap aldım.",
+      "hint": "almak (satın almak): buy",
+      "answers": [
+        "I bought a new book yesterday.",
+        "Yesterday I bought a new book."
+      ],
+      "targetStructure": "Past Simple: düzensiz fiil (buy → bought)",
+      "explanation": "Buy düzensiz bir fiildir: bought. Zaman ifadesi başa da sona da gelebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I buyed a new book yesterday.",
+          "explanation": "Buy düzensiz bir fiildir; -ed almaz."
+        },
+        {
+          "answer": "I buy a new book yesterday.",
+          "explanation": "“Yesterday” geçmiş biçim gerektirir: bought."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-47",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Tatile nereye gittiniz?",
+      "hint": "tatile: on holiday (ya da on vacation)",
+      "answers": [
+        "Where did you go on holiday?",
+        "Where did you go on vacation?"
+      ],
+      "targetStructure": "Wh- sorusu: Where + did + özne + yalın fiil",
+      "explanation": "Soru sözcüğü başa gelir, did geçmiş zamanı taşır ve go yalın kalır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where did you went on holiday?",
+          "explanation": "Did’den sonra fiil yalın kalır: go."
+        },
+        {
+          "answer": "Where you went on holiday?",
+          "explanation": "Soru yaparken did gerekir."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-48",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Arkadaşımla istasyonda buluştum.",
+      "hint": "buluşmak: meet, istasyon: station",
+      "answers": [
+        "I met my friend at the station."
+      ],
+      "targetStructure": "Past Simple: düzensiz fiil (meet → met)",
+      "explanation": "Meet düzensiz bir fiildir: met. Bir yerde olmak için at the station denir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I meeted my friend at the station.",
+          "explanation": "Meet düzensiz bir fiildir; -ed almaz: met."
+        },
+        {
+          "answer": "I meet my friend at the station.",
+          "explanation": "Bitmiş bir eylem için geçmiş biçim gerekir: met."
+        }
+      ],
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-simple-49",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geç kalktı, kahvaltı etti ve evden çıktı. (O erkek)",
+      "answer": [
+        "He",
+        "woke",
+        "up",
+        "late,",
+        "had",
+        "breakfast",
+        "and",
+        "left",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "wake",
+        "has"
+      ],
+      "explanation": "Ardışık geçmiş olaylar Past Simple ile anlatılır: woke up, had, left (hepsi düzensiz).",
+      "tags": [
+        "past-simple",
+        "irregular",
+        "sequence"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-simple-50",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Yesterday I ___ up at seven.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "got"
+        },
+        {
+          "id": "c",
+          "text": "getted"
+        },
+        {
+          "id": "d",
+          "text": "gotten"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Get düzensiz bir fiildir; geçmiş biçimi got’tur: Yesterday I got up at seven.",
+      "optionExplanations": {
+        "a": "Yalın fiil “yesterday” ile kullanılmaz.",
+        "c": "Get düzensiz bir fiildir; -ed almaz.",
+        "d": "Gotten, Present Perfect’te (özellikle Amerikan İngilizcesinde) kullanılır; Past Simple’da got gerekir."
+      },
+      "tags": [
+        "past-simple",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-simple-51",
+      "lessonId": "a2-past-simple",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He stoped the car.",
+      "errorSpan": "stoped",
+      "answers": [
+        "He stopped the car."
+      ],
+      "explanation": "Kısa, ünsüz–ünlü–ünsüz ile biten fiillerde son ünsüz ikilenir: stopped.",
+      "tags": [
+        "past-simple",
+        "regular",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-past-simple",
+    "title": "Past Simple: Konu sonu sınavı",
+    "description": "Düzenli ve düzensiz fiiller, olumsuz cümle, soru, kısa cevap ve zaman ifadeleri konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-past-simple-exam-01",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ a cake yesterday.",
+        "options": [
+          {
+            "id": "a",
+            "text": "make"
+          },
+          {
+            "id": "b",
+            "text": "made"
+          },
+          {
+            "id": "c",
+            "text": "maked"
+          },
+          {
+            "id": "d",
+            "text": "makes"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Make düzensiz bir fiildir; geçmiş biçimi made’dir.",
+        "optionExplanations": {
+          "a": "Yalın fiil “yesterday” ile kullanılmaz.",
+          "c": "Make düzensiz bir fiildir; -ed almaz.",
+          "d": "Makes, Present Simple’dır."
+        },
+        "tags": [
+          "past-simple",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-02",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He ___ (play) the guitar yesterday.",
+        "answers": [
+          "played"
+        ],
+        "explanation": "Play düzenli bir fiildir: played.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "plays",
+            "explanation": "“Yesterday” geçmişi gösterir; Past Simple gerekir."
+          },
+          {
+            "answer": "plaied",
+            "explanation": "Ünlü + y ile biten fiillerde y korunur: played."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "regular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-03",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Dün akşam yemeği pişirdik.",
+        "answer": [
+          "We",
+          "cooked",
+          "dinner",
+          "yesterday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "cook"
+        ],
+        "explanation": "Past Simple’da fiil -ed alır: We cooked dinner yesterday.",
+        "tags": [
+          "past-simple",
+          "regular"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-04",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I watch a film last night.",
+        "errorSpan": "watch",
+        "answers": [
+          "I watched a film last night."
+        ],
+        "explanation": "“Last night” geçmişi gösterir; fiil -ed almalıdır: watched.",
+        "tags": [
+          "past-simple",
+          "regular"
+        ],
+        "errorTags": [
+          "tense_confusion",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-05",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Dün bir kitap okudum.",
+        "hint": "okumak: read",
+        "answers": [
+          "I read a book yesterday.",
+          "Yesterday I read a book."
+        ],
+        "targetStructure": "Past Simple: düzensiz fiil (read → read)",
+        "explanation": "Read’in geçmiş biçimi yazılışta aynıdır (read), ama /red/ diye okunur.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I readed a book yesterday.",
+            "explanation": "Read düzensiz bir fiildir; -ed almaz."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-06",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We ___ in London last year.",
+        "options": [
+          {
+            "id": "a",
+            "text": "live"
+          },
+          {
+            "id": "b",
+            "text": "lived"
+          },
+          {
+            "id": "c",
+            "text": "lives"
+          },
+          {
+            "id": "d",
+            "text": "living"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Live, -e ile biten düzenli bir fiildir; yalnızca -d alır: lived.",
+        "optionExplanations": {
+          "a": "Yalın fiil “last year” ile kullanılmaz.",
+          "c": "Lives, Present Simple’dır.",
+          "d": "Living, tek başına geçmiş biçim değildir."
+        },
+        "tags": [
+          "past-simple",
+          "regular"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-07",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I ___ (go) to bed early last night.",
+        "answers": [
+          "went"
+        ],
+        "explanation": "Go düzensiz bir fiildir: went.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "goed",
+            "explanation": "Go düzensiz bir fiildir; -ed almaz."
+          },
+          {
+            "answer": "gone",
+            "explanation": "Gone, Past Simple’da kullanılmaz; went gerekir."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-08",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onlar arabayı satın aldılar mı?",
+        "answer": [
+          "Did",
+          "they",
+          "buy",
+          "the",
+          "car"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "bought",
+          "Do"
+        ],
+        "explanation": "Soruda did özneden önce gelir ve fiil yalın kalır: Did they buy the car?",
+        "tags": [
+          "past-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-09",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She didn't called me.",
+        "errorSpan": "called",
+        "answers": [
+          "She didn't call me.",
+          "She did not call me."
+        ],
+        "explanation": "Didn’t’tan sonra fiil yalın kalır: call.",
+        "tags": [
+          "past-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "verb_form",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-10",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Beni aramadı. (O kadın)",
+        "hint": "aramak (telefonla): call",
+        "answers": [
+          "She didn't call me.",
+          "She did not call me."
+        ],
+        "targetStructure": "Past Simple olumsuz: did not + yalın fiil",
+        "explanation": "Olumsuzda didn’t kullanılır ve fiil yalın kalır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She didn't called me.",
+            "explanation": "Didn’t’tan sonra fiil yalın kalır."
+          },
+          {
+            "answer": "She not called me.",
+            "explanation": "Olumsuz için didn’t gerekir."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-11",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "___ they win the game?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Did"
+          },
+          {
+            "id": "b",
+            "text": "Do"
+          },
+          {
+            "id": "c",
+            "text": "Does"
+          },
+          {
+            "id": "d",
+            "text": "Were"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Geçmiş zamanlı soru did ile kurulur: Did they win the game?",
+        "optionExplanations": {
+          "b": "Do Present Simple içindir.",
+          "c": "Does, Present Simple içindir ve tekil özneyle kullanılır.",
+          "d": "Were ile eylem fiili yan yana gelmez."
+        },
+        "tags": [
+          "past-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-12",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They ___ come to the party.",
+        "hint": "Cümleyi olumsuz yap: Partiye gelmediler.",
+        "answers": [
+          "didn't",
+          "did not"
+        ],
+        "explanation": "Olumsuz geçmiş cümle didn’t ile kurulur ve fiil yalın kalır: They didn’t come to the party.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't",
+            "explanation": "Don’t Present Simple’a aittir."
+          },
+          {
+            "answer": "weren't",
+            "explanation": "Weren’t, to be fiilinin olumsuzudur; come bir eylem fiilidir."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-13",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Did he came late?",
+        "errorSpan": "came",
+        "answers": [
+          "Did he come late?"
+        ],
+        "explanation": "Did’den sonra fiil yalın kalır: come.",
+        "tags": [
+          "past-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-14",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He didn't buy a car."
+          },
+          {
+            "id": "b",
+            "text": "He didn't bought a car."
+          },
+          {
+            "id": "c",
+            "text": "He not buy a car."
+          },
+          {
+            "id": "d",
+            "text": "He doesn't bought a car."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Didn’t’tan sonra fiil yalın kalır: He didn’t buy a car.",
+        "optionExplanations": {
+          "b": "Didn’t’tan sonra geçmiş biçim (bought) kullanılmaz.",
+          "c": "Not tek başına yardımcı fiil değildir.",
+          "d": "Doesn’t Present Simple’a aittir."
+        },
+        "tags": [
+          "past-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-15",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Last night I ___ very well.",
+        "options": [
+          {
+            "id": "a",
+            "text": "sleep"
+          },
+          {
+            "id": "b",
+            "text": "slept"
+          },
+          {
+            "id": "c",
+            "text": "sleeped"
+          },
+          {
+            "id": "d",
+            "text": "sleeping"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Sleep düzensiz bir fiildir; geçmiş biçimi slept’tir.",
+        "optionExplanations": {
+          "a": "Yalın fiil “last night” ile kullanılmaz.",
+          "c": "Sleep düzensiz bir fiildir; -ed almaz.",
+          "d": "Sleeping tek başına geçmiş biçim değildir."
+        },
+        "tags": [
+          "past-simple",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-16",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ she like the gift?",
+        "answers": [
+          "Did"
+        ],
+        "explanation": "Geçmiş zamanlı soru did ile kurulur: Did she like the gift?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Does",
+            "explanation": "Does Present Simple içindir."
+          },
+          {
+            "answer": "Was",
+            "explanation": "Was ile eylem fiili (like) yan yana gelmez."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-17",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "My father ___ (give) me a book.",
+        "answers": [
+          "gave"
+        ],
+        "explanation": "Give düzensiz bir fiildir; geçmiş biçimi gave’dir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "gived",
+            "explanation": "Give düzensiz bir fiildir; -ed almaz."
+          },
+          {
+            "answer": "given",
+            "explanation": "Given, Past Simple’da kullanılmaz; gave gerekir."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-18",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hafta sonu hiçbir yere gitmedi. (O kadın)",
+        "answer": [
+          "She",
+          "didn't",
+          "go",
+          "anywhere",
+          "at",
+          "the",
+          "weekend"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "went",
+          "nowhere"
+        ],
+        "explanation": "Olumsuzda didn’t kullanılır ve fiil yalın kalır. Olumsuz cümlede “hiçbir yere” için anywhere kullanılır.",
+        "tags": [
+          "past-simple",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-19",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "What time did you got up?",
+        "errorSpan": "got",
+        "answers": [
+          "What time did you get up?"
+        ],
+        "explanation": "Did’den sonra fiil yalın kalır: get up.",
+        "tags": [
+          "past-simple",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-simple-exam-20",
+        "lessonId": "a2-past-simple",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ne zaman geldiler?",
+        "hint": "gelmek (varmak): arrive",
+        "answers": [
+          "When did they arrive?"
+        ],
+        "targetStructure": "Wh- sorusu: When + did + özne + yalın fiil",
+        "explanation": "Did geçmiş zamanı taşır; arrive yalın kalır: When did they arrive?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "When they arrived?",
+            "explanation": "Soru yaparken did gerekir."
+          },
+          {
+            "answer": "When did they arrived?",
+            "explanation": "Did’den sonra fiil yalın kalır."
+          }
+        ],
+        "tags": [
+          "past-simple",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      }
+    ]
+  }
+}
