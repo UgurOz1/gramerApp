@@ -82,3 +82,17 @@ export function breakdownByType(results: ExamQuestionResult[]): TypeBreakdown {
   }
   return out;
 }
+
+export type LessonBreakdown = { lessonId: string; correct: number; total: number };
+
+/** Konuya göre doğru/toplam (atlananlar toplama dahil). Karışık sınavlarda konu bazında performans için. */
+export function breakdownByLesson(results: ExamQuestionResult[]): LessonBreakdown[] {
+  const map = new Map<string, LessonBreakdown>();
+  for (const r of results) {
+    const entry = map.get(r.lessonId) ?? { lessonId: r.lessonId, correct: 0, total: 0 };
+    entry.total++;
+    if (r.isCorrect) entry.correct++;
+    map.set(r.lessonId, entry);
+  }
+  return [...map.values()];
+}

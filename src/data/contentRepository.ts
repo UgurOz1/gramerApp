@@ -1,5 +1,5 @@
 import rawCurriculum from "@/assets/data/curriculum.json";
-import type { Curriculum, LessonContent } from "@/domain/models";
+import type { Curriculum, LessonContent, Question } from "@/domain/models";
 import type { ValidationIssue } from "@/domain/validation/result";
 import {
   findDuplicateQuestionIds,
@@ -66,6 +66,25 @@ export function getLessonContent(lessonId: string): LessonContent | null {
 
 export function getAvailableLessonIds(): string[] {
   return [...load().lessons.keys()];
+}
+
+let questionIndex: Map<string, Question> | null = null;
+
+/** Yüklenen tüm derslerdeki (alıştırma + sınav) soruları kimliğe göre getirir. */
+export function getQuestionById(questionId: string): Question | undefined {
+  if (!questionIndex) {
+    questionIndex = new Map();
+    for (const lesson of load().lessons.values()) {
+      for (const q of [...lesson.exercises, ...lesson.exam.questions]) questionIndex.set(q.id, q);
+    }
+  }
+  return questionIndex.get(questionId);
+}
+
+/** Bir dersin alıştırma ve sınav sorularının tümü. */
+export function getAllQuestionsForLesson(lessonId: string): Question[] {
+  const lesson = load().lessons.get(lessonId);
+  return lesson ? [...lesson.exercises, ...lesson.exam.questions] : [];
 }
 
 export function getContentIssues(): ValidationIssue[] {

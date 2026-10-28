@@ -2,14 +2,16 @@ import { router } from "expo-router";
 import { Pressable, StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Icon, type BadgeTone } from "@/components/common";
-import type { LessonProgress, LessonSummary } from "@/domain/models";
+import type { LessonProgress, LessonSummary, TopicMastery } from "@/domain/models";
 import { getLessonStatus, lessonStatusLabels, type LessonStatus } from "@/domain/progress/lessonStatus";
+import { masteryBandLabels } from "@/constants/labels";
 import { colors, minTouchSize, spacing } from "@/theme";
 
 type Props = {
   lesson: LessonSummary;
   available: boolean;
   progress: LessonProgress | undefined;
+  mastery?: TopicMastery;
   prerequisiteTitles: string[];
   isLast: boolean;
 };
@@ -19,14 +21,16 @@ const statusTone: Record<LessonStatus, BadgeTone> = {
   learning: "accent",
   practice_done: "accent",
   exam_done: "success",
+  review_needed: "warning",
+  mastered: "success",
 };
 
 /**
  * Müfredattaki tek konu satırı. İçeriği hazır olan konular açılır;
  * henüz hazır olmayanlar dokunulabilir gösterilmez.
  */
-export function LessonRow({ lesson, available, progress, prerequisiteTitles, isLast }: Props) {
-  const status = getLessonStatus(progress);
+export function LessonRow({ lesson, available, progress, mastery, prerequisiteTitles, isLast }: Props) {
+  const status = getLessonStatus(progress, mastery);
 
   const body = (
     <>
@@ -41,6 +45,9 @@ export function LessonRow({ lesson, available, progress, prerequisiteTitles, isL
         {lesson.kind === "comparison" ? <Badge label="Karşılaştırma" tone="accent" /> : null}
         <Badge label={`~${lesson.estimatedMinutes} dk`} />
         {available ? <Badge label={lessonStatusLabels[status]} tone={statusTone[status]} /> : <Badge label="İçerik hazırlanıyor" tone="warning" />}
+        {available && mastery && mastery.band !== "not_enough_data" ? (
+          <Badge label={`Ustalık: ${masteryBandLabels[mastery.band]} (${mastery.score})`} tone={mastery.band === "strong" ? "success" : mastery.band === "needs_work" ? "danger" : "neutral"} />
+        ) : null}
       </View>
       {prerequisiteTitles.length > 0 ? (
         <AppText variant="caption" color="textMuted">Önce önerilen: {prerequisiteTitles.join(", ")}</AppText>

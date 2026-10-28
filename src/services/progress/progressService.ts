@@ -1,10 +1,13 @@
 import { PRACTICE_COMPLETION_MIN_ANSWERED_RATIO } from "@/constants/progress";
 import type { AnswerMode, ExamResult, Question } from "@/domain/models";
 import {
+  addToReviewList,
+  dismissMistake,
   markLessonOpened,
   markLessonStep,
   recordAnswer,
   recordExamResult,
+  removeFromReviewList,
 } from "@/domain/progress/userStateUpdates";
 import { createAttempt } from "@/domain/question-engine/attempt";
 import { evaluateAnswer, type AnswerResponse, type Evaluation } from "@/domain/question-engine/evaluate";
@@ -54,6 +57,19 @@ export function createProgressService({ store, now = Date.now, newId = defaultNe
       return evaluation;
     },
 
+    addToReviewList(lessonId: string) {
+      store.update((s) => addToReviewList(s, lessonId, now()));
+    },
+
+    removeFromReviewList(lessonId: string) {
+      store.update((s) => removeFromReviewList(s, lessonId));
+    },
+
+    /** Yanlışı listeden kaldırır; cevap geçmişi ve sınav sonuçları silinmez. */
+    dismissMistake(questionId: string) {
+      store.update((s) => dismissMistake(s, questionId));
+    },
+
     /** Alıştırma turu bitti. Yeterli sayıda soru cevaplandıysa alıştırmalar tamamlanmış sayılır. */
     finishPractice(lessonId: string, answered: number, total: number): boolean {
       const completed = total > 0 && answered / total >= PRACTICE_COMPLETION_MIN_ANSWERED_RATIO;
@@ -73,6 +89,8 @@ export function createProgressService({ store, now = Date.now, newId = defaultNe
       responses: ExamResponses;
       startedAt: number;
       sessionId: string;
+      /** Cevap geçmişine yazılacak mod (konu sınavı: "exam", karışık test: "mixed"). */
+      attemptMode?: AnswerMode;
     }): ExamResult {
       const finishedAt = now();
       const { result, evaluations } = scoreExam({
@@ -97,7 +115,7 @@ export function createProgressService({ store, now = Date.now, newId = defaultNe
               question: q,
               evaluation,
               sessionId: args.sessionId,
-              mode: "exam",
+              mode: args.attemptMode ?? "exam",
               timestamp: finishedAt,
             }),
           );

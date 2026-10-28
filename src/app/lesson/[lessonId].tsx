@@ -14,7 +14,8 @@ export default function LessonScreen() {
   const { lessonId } = useLocalSearchParams<{ lessonId: string }>();
   const lesson = getLessonContent(lessonId);
   const summary = getLessonSummary(lessonId);
-  const { preferences } = useUserState();
+  const { preferences, reviewList } = useUserState();
+  const inReviewList = reviewList.some((r) => r.lessonId === lessonId);
   const [sessionId] = useState(() => progressService.newSessionId());
 
   useEffect(() => {
@@ -61,6 +62,13 @@ export default function LessonScreen() {
           {summary ? <Badge label={`~${summary.estimatedMinutes} dk`} /> : null}
         </View>
       </View>
+
+      <Button
+        title={inReviewList ? "Tekrar listemden çıkar" : "Tekrar listeme ekle"}
+        variant="secondary"
+        onPress={() => (inReviewList ? progressService.removeFromReviewList(lessonId) : progressService.addToReviewList(lessonId))}
+        accessibilityHint="Tekrar listesi yanlışlar listesinden ayrıdır"
+      />
 
       <Card>
         <AppText variant="subheading">Bu derste öğreneceklerin</AppText>

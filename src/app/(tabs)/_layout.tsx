@@ -34,6 +34,15 @@ export default function TabLayout() {
           ),
         }}
       />
+      <Tabs.Screen
+        name="practice"
+        options={{
+          title: "Pratik",
+          tabBarIcon: ({ color, size }) => (
+            <Icon name={{ ios: "square.and.pencil", android: "edit_note", web: "edit_note" }} color={color} size={size} />
+          ),
+        }}
+      />
     </Tabs>
   );
 }

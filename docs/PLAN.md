@@ -76,6 +76,25 @@ Tek anahtar altında sürümlü bir kullanıcı durumu (`grammarpath/user-state`
 - Daha yeni bir uygulama sürümünün verisi okunursa üzerine yazılmaz.
 - Ustalık saklanmaz; cevap geçmişinden hesaplanır (tek doğruluk kaynağı).
 
+### Aşama 4: öğrenme motoru
+
+- **Ustalık** (`domain/scoring/mastery.ts`, ağırlıklar `constants/mastery.ts`): alıştırma başarısı %40 +
+  son konu sınavı %40 + soru türü çeşitliliği %20. Her soru için *son* cevap sayılır; yanlış sonra
+  doğru çözülünce ustalık artar. En az 10 farklı soru cevaplanmadan band verilmez; konu sınavı hiç
+  çözülmediyse en yüksek band "İyi" ile sınırlıdır. Ustalık saklanmaz, cevap geçmişinden hesaplanır.
+  Ders durumu ("Tekrar gerekli", "Ustalık kazanıldı") ustalıkla birlikte türetilir (`lessonStatus.ts`).
+- **Yanlışlarım** (`mistakes/`): soru kimliğiyle tekil kayıt; tekrar çözme `mistakes` modunda yapılır,
+  doğru çözülünce kayıt "Çözüldü" olur ama silinmez. Listeden kaldırmak geçmişi ve sınav sonuçlarını silmez.
+- **Tekrar listem** (`review/`): kullanıcının seçtiği konular; yanlışlardan ayrı. Sınav geçmişi buradan
+  yeniden çözülebilir (her deneme ayrı kayıt).
+- **Karışık test** (`mixed/`): kapsam (tümü / seviye / ünite / seçili konular / yanlış yapılan konular /
+  tekrar listem), soru türleri ve soru sayısı seçilir. `buildMixedTest` konulara dengeli dağıtır ve
+  tohumla tekrarlanabilir. Sınav gibi çözülür (`kind: "mixed"`); konu sınavını tamamlanmış saymaz.
+- **Ana sayfa:** genel ilerleme (ders tamamlama + ustalık; içeriği hazır olmayan konular 0 sayılır),
+  seviye ilerlemesi, günün önerisi (`suggestToday`, yalnızca yerel veriye dayanır), kısayollar, kısa istatistik.
+- **Ortak akışlar:** `PracticeRunner` (anında geri bildirimli tur) ve `ExamRunner` (sınav) bileşenleri
+  alıştırma, yanlış tekrarı ve karışık test tarafından paylaşılır.
+
 ### Aşama 3: öğrenme akışı
 
 Rotalar: `lesson/[lessonId]` → `practice/[lessonId]` → `exam/[lessonId]` → `exam/result?resultId=…`
@@ -138,7 +157,7 @@ Toplam ders sayısı ve ön koşullar `assets/data/curriculum.json` içindedir.
    test), depolama katmanı, Jest kurulumu ve temel testler. ✅
 3. **İlk ders (A1 To Be)** — ders ekranı, 5 soru türü, alıştırma akışı,
    konu sonu sınavı, ilerleme kaydı. Uçtan uca doğrulama. ✅
-4. **Öğrenme motoru** — puanlama, ustalık, yanlışlar, tekrar listesi, karışık test.
+4. **Öğrenme motoru** — puanlama, ustalık, yanlışlar, tekrar listesi, karışık test. ✅
 5. **İçerik** — kalan 7 örnek ders, karşılaştırmalar, sonra A1→B2 genişletme.
 6. **İstatistikler ve iyileştirme** — istatistik ekranı, erişilebilirlik, küçük ekran.
 7. **Yayına hazırlık** — EAS derlemeleri, ikon, gizlilik metni.

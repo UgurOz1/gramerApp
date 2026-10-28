@@ -101,5 +101,10 @@ export type TopicMastery = {
   /** 0–100 */
   score: number;
   band: MasteryBand;
+  /** Konudan en az bir kez cevaplanan farklı soru sayısı. */
   answeredCount: number;
+  /** Konu sonu sınavı en az bir kez çözüldü mü? */
+  examTaken: boolean;
+  /** Puanı oluşturan bileşenler (her biri 0–100). */
+  components: { practice: number; exam: number; variety: number };
 };

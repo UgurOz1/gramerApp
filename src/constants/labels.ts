@@ -1,4 +1,4 @@
-import type { ErrorTag, QuestionType } from "@/domain/models";
+import type { ErrorTag, MasteryBand, QuestionType } from "@/domain/models";
 
 export const questionTypeLabels: Record<QuestionType, string> = {
   multiple_choice: "Çoktan seçmeli",
@@ -24,4 +24,12 @@ export const errorTagLabels: Record<ErrorTag, string> = {
   conditional_form: "Koşul yapısı",
   passive_form: "Edilgen yapı",
   time_expression: "Zaman ifadesi",
+};
+
+export const masteryBandLabels: Record<MasteryBand, string> = {
+  not_enough_data: "Yeterli veri yok",
+  needs_work: "Geliştirilmeli",
+  beginner: "Başlangıç",
+  good: "İyi",
+  strong: "Güçlü",
 };

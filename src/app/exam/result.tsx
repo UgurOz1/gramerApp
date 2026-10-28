@@ -3,10 +3,12 @@ import { StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Button, Card, Icon, ProgressBar, Screen } from "@/components/common";
 import { errorTagLabels, questionTypeLabels } from "@/constants/labels";
-import { getLessonContent } from "@/data/contentRepository";
+import { DEFAULT_PASS_PERCENT } from "@/constants/mastery";
+import { getLessonContent, getQuestionById } from "@/data/contentRepository";
 import { describeCorrectAnswer, findAnswerFeedback } from "@/domain/question-engine/evaluate";
 import type { Question } from "@/domain/models";
-import { breakdownByType } from "@/domain/scoring/examScoring";
+import { breakdownByLesson, breakdownByType } from "@/domain/scoring/examScoring";
+import { getLessonSummary } from "@/features/curriculum/catalog";
 import { useUserState } from "@/services/progress/userStore";
 import { colors, spacing } from "@/theme";
 
@@ -25,11 +27,10 @@ function questionText(q: Question): string {
 
 export default function ExamResultScreen() {
   const { resultId } = useLocalSearchParams<{ resultId: string }>();
-  const { examResults } = useUserState();
+  const { examResults, reviewList } = useUserState();
   const result = examResults.find((r) => r.resultId === resultId);
-  const lesson = result?.lessonId ? getLessonContent(result.lessonId) : null;
 
-  if (!result || !lesson) {
+  if (!result) {
     return (
       <Screen>
         <Stack.Screen options={{ title: "Sınav sonucu" }} />
@@ -37,32 +38,50 @@ export default function ExamResultScreen() {
           <AppText variant="heading">Sonuç bulunamadı</AppText>
           <AppText color="textSecondary">Bu sınav sonucu kayıtlı değil.</AppText>
         </Card>
-        <Button title="Ana sayfaya dön" onPress={() => router.dismissAll()} />
+        <Button title="Ana sayfaya dön" onPress={() => router.dismissTo("/")} />
       </Screen>
     );
   }
 
-  const passed = result.percent >= lesson.exam.passPercent;
+  const lesson = result.kind === "lesson" && result.lessonId ? getLessonContent(result.lessonId) : null;
+  const title = lesson ? lesson.exam.title : "Karışık test";
+  const passPercent = lesson ? lesson.exam.passPercent : DEFAULT_PASS_PERCENT;
+  const passed = result.percent >= passPercent;
   const byType = breakdownByType(result.questionResults);
-  const byId = new Map(lesson.exam.questions.map((q) => [q.id, q]));
+  const byLesson = breakdownByLesson(result.questionResults);
   const missed = result.questionResults.filter((r) => r.isCorrect !== true);
   const wrongOnly = result.questionResults.filter((r) => r.isCorrect === false);
 
-  // Yanlış yapılan soruların hata etiketleri → "Hata türleri"
+  // Yanlış yapılan soruların hata etiketleri → "Hata yaptığın alanlar"
   const tagCounts = new Map<string, number>();
   for (const r of wrongOnly) {
-    for (const tag of byId.get(r.questionId)?.errorTags ?? []) tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+    for (const tag of getQuestionById(r.questionId)?.errorTags ?? []) tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
   }
   const topTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 4);
+
+  // Tekrar önerisi: en çok yanlış yapılan konular
+  const weakLessons = byLesson
+    .filter((b) => b.correct < b.total)
+    .sort((a, b) => a.correct / a.total - b.correct / b.total)
+    .slice(0, 3);
 
   return (
     <Screen
       footer={
-        <>
-          <Button title="Sınavı yeniden çöz" onPress={() => router.replace({ pathname: "/exam/[lessonId]", params: { lessonId: lesson.id } })} />
-          <Button title="Dersi tekrar aç" variant="secondary" onPress={() => router.replace({ pathname: "/lesson/[lessonId]", params: { lessonId: lesson.id } })} />
-          <Button title="Ana sayfaya dön" variant="ghost" onPress={() => router.dismissAll()} />
-        </>
+        lesson ? (
+          <>
+            <Button title="Sınavı yeniden çöz" onPress={() => router.replace({ pathname: "/exam/[lessonId]", params: { lessonId: lesson.id } })} />
+            <Button title="Dersi tekrar aç" variant="secondary" onPress={() => router.replace({ pathname: "/lesson/[lessonId]", params: { lessonId: lesson.id } })} />
+            {wrongOnly.length > 0 ? <Button title="Yanlışlarımı incele" variant="secondary" onPress={() => router.push("/mistakes")} /> : null}
+            <Button title="Ana sayfaya dön" variant="ghost" onPress={() => router.dismissTo("/")} />
+          </>
+        ) : (
+          <>
+            <Button title="Yeni karışık test" onPress={() => router.replace("/mixed")} />
+            {wrongOnly.length > 0 ? <Button title="Yanlışlarımı incele" variant="secondary" onPress={() => router.push("/mistakes")} /> : null}
+            <Button title="Ana sayfaya dön" variant="ghost" onPress={() => router.dismissTo("/")} />
+          </>
+        )
       }
     >
       <Stack.Screen options={{ title: "Sınav sonucu", headerBackVisible: false }} />
@@ -71,7 +90,7 @@ export default function ExamResultScreen() {
         <Badge label={passed ? "BAŞARILI" : "TEKRAR ÖNERİLİR"} tone={passed ? "success" : "warning"} />
         <AppText variant="title" accessibilityRole="header">%{result.percent}</AppText>
         <ProgressBar value={result.percent / 100} color={passed ? colors.success : colors.warning} accessibilityLabel={`Başarı yüzdesi ${result.percent}`} />
-        <AppText color="textSecondary">{lesson.exam.title} · başarı sınırı %{lesson.exam.passPercent}</AppText>
+        <AppText color="textSecondary">{title} · başarı sınırı %{passPercent}</AppText>
       </Card>
 
       <View style={styles.stats}>
@@ -80,17 +99,38 @@ export default function ExamResultScreen() {
         <Card style={styles.stat}><AppText variant="title" color="textSecondary">{result.skipped}</AppText><AppText variant="caption" color="textSecondary">Atlanan</AppText></Card>
       </View>
 
+      {byLesson.length > 1 ? (
+        <Card>
+          <AppText variant="subheading">Konu bazında performans</AppText>
+          {byLesson.map((b) => {
+            const name = getLessonSummary(b.lessonId)?.title ?? b.lessonId;
+            return (
+              <View key={b.lessonId} style={styles.typeRow}>
+                <View style={styles.typeHead}>
+                  <AppText style={styles.flex}>{name}</AppText>
+                  <AppText color="textSecondary">{b.correct} / {b.total}</AppText>
+                </View>
+                <ProgressBar value={b.total ? b.correct / b.total : 0} color={colors.success} accessibilityLabel={`${name}: ${b.correct} / ${b.total}`} />
+              </View>
+            );
+          })}
+        </Card>
+      ) : null}
+
       <Card>
         <AppText variant="subheading">Soru türüne göre performans</AppText>
-        {Object.entries(byType).map(([type, v]) => (
-          <View key={type} style={styles.typeRow}>
-            <View style={styles.typeHead}>
-              <AppText>{questionTypeLabels[type as keyof typeof questionTypeLabels]}</AppText>
-              <AppText color="textSecondary">{v.correct} / {v.total}</AppText>
+        {Object.entries(byType).map(([type, v]) => {
+          const label = questionTypeLabels[type as keyof typeof questionTypeLabels];
+          return (
+            <View key={type} style={styles.typeRow}>
+              <View style={styles.typeHead}>
+                <AppText>{label}</AppText>
+                <AppText color="textSecondary">{v.correct} / {v.total}</AppText>
+              </View>
+              <ProgressBar value={v.total ? v.correct / v.total : 0} color={colors.success} accessibilityLabel={`${label}: ${v.correct} / ${v.total}`} />
             </View>
-            <ProgressBar value={v.total ? v.correct / v.total : 0} color={colors.success} accessibilityLabel={`${questionTypeLabels[type as keyof typeof questionTypeLabels]}: ${v.correct} / ${v.total}`} />
-          </View>
-        ))}
+          );
+        })}
       </Card>
 
       {topTags.length > 0 ? (
@@ -106,18 +146,29 @@ export default function ExamResultScreen() {
         <AppText variant="subheading">Tekrar önerisi</AppText>
         <AppText color="textSecondary">
           {passed && missed.length === 0
-            ? "Harika, bu konuda bütün soruları doğru yaptın. Konuyu pekiştirmek için birkaç gün sonra sınavı yeniden çözebilirsin."
+            ? "Harika, bütün soruları doğru yaptın. Konuyu pekiştirmek için birkaç gün sonra yeniden deneyebilirsin."
             : passed
-              ? "Başarılısın. Aşağıdaki sorulara bir göz at ve açıklamaları oku; ardından sınavı yeniden çözebilirsin."
-              : "Dersteki kural ve örnekleri bir kez daha oku, ardından alıştırmaları çöz ve sınavı yeniden dene. Aşağıdaki açıklamalar nerede takıldığını gösteriyor."}
+              ? "Başarılısın. Aşağıdaki sorulara göz atıp açıklamaları oku; yanlışların Yanlışlarım listene eklendi."
+              : "Kural ve örnekleri bir kez daha oku, ardından alıştırmaları çöz ve yeniden dene. Aşağıdaki açıklamalar nerede takıldığını gösteriyor."}
         </AppText>
+        {weakLessons.map((w) => {
+          const name = getLessonSummary(w.lessonId)?.title ?? w.lessonId;
+          const listed = reviewList.some((r) => r.lessonId === w.lessonId);
+          return (
+            <View key={w.lessonId} style={styles.weak}>
+              <AppText variant="bodyStrong">{name}</AppText>
+              <AppText variant="caption" color="textSecondary">{w.correct} / {w.total} doğru{listed ? " · tekrar listende" : ""}</AppText>
+              <Button title="Dersi aç" variant="secondary" onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: w.lessonId } })} />
+            </View>
+          );
+        })}
       </Card>
 
       {missed.length > 0 ? (
         <View style={styles.review}>
           <AppText variant="heading" accessibilityRole="header">Yanlış ve atlanan sorular</AppText>
           {missed.map((r) => {
-            const q = byId.get(r.questionId);
+            const q = getQuestionById(r.questionId);
             if (!q) return null;
             const skipped = r.isCorrect === null;
             const correct = describeCorrectAnswer(q);
@@ -154,7 +205,9 @@ const styles = StyleSheet.create({
   stats: { flexDirection: "row", gap: spacing.sm },
   stat: { flex: 1, alignItems: "center" },
   typeRow: { gap: spacing.xs, marginTop: spacing.sm },
-  typeHead: { flexDirection: "row", justifyContent: "space-between" },
+  typeHead: { flexDirection: "row", justifyContent: "space-between", gap: spacing.sm },
+  flex: { flex: 1 },
+  weak: { gap: spacing.xs, marginTop: spacing.md },
   review: { gap: spacing.md },
   reviewHead: { flexDirection: "row", alignItems: "center", gap: spacing.sm },
 });
