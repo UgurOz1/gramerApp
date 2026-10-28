@@ -82,6 +82,7 @@ function describeLesson(lessonId: string, minimums: { examples: number; exercise
   });
 }
 
+describeLesson("a1-pronouns-sentence", { examples: 24, exercises: 36, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });

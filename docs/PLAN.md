@@ -149,6 +149,35 @@ Verilen liste mekanik uygulanmadı; tekrar eden konular birleştirildi:
 
 Toplam ders sayısı ve ön koşullar `assets/data/curriculum.json` içindedir.
 
+## Eklenecek konular (yedek liste — henüz müfredata işlenmedi)
+
+Standart A1–B2 programlarıyla karşılaştırınca eksik görünen 16 konu. Bunlar eklenince müfredat 104 → **120 konu** olur.
+Sırayla, ilgili seviyenin kendi içeriği bittikten sonra `assets/data/curriculum.json` içine eklenecek
+(kimlikler sabit kalacak, mevcut ilerleme bozulmayacak).
+
+| Seviye | Konu | Önerilen ön koşul |
+| --- | --- | --- |
+| A1 | Would like / want / let's: istek ve öneri | a1-to-be |
+| A1 | How much / how many | a1-countable-some-any |
+| A1 | Like / love / hate + -ing | a1-present-simple |
+| A2 | Can / could / may: izin, rica ve teklif | a1-can |
+| A2 | Yansıma zamirleri (myself, yourself …) | a1-object-pronouns |
+| A2 | -ed / -ing sıfatlar (bored / boring) | a2-adjectives-adverbs |
+| A2 | Fiil + edat (listen to, look at, wait for) | a1-present-simple |
+| A2 | Phrasal verbs: giriş | a2-past-simple |
+| B1 | Zaman cümlecikleri (when, while, as soon as, until) | a2-first-conditional |
+| B1 | Amaç cümlecikleri (to, in order to, so that) | b1-verb-patterns |
+| B1 | Dolaylı sorular (Could you tell me where …) | b1-reported-questions |
+| B1 | May / might ile olasılık | b1-modals-deduction |
+| B1 | Sıfat sırası | a2-adjectives-adverbs |
+| B1 | Phrasal verbs: ayrılabilen ve ayrılamayan | (A2 phrasal verbs giriş) |
+| B2 | Let / make / allow / be allowed to | b1-verb-patterns |
+| B2 | Need / needn't / don't need to ayrıntıları | a2-must-have-to |
+
+**Çalışma sırası (karar):** önce A1'in kalan konuları, ardından A2; her seferinde tek ders, adım adım.
+Kaynak notu: resmî bir CEFR gramer listesi yoktur; seviye ataması kaynaklara göre değişebilir (özellikle koşul cümleleri,
+edilgen yapı ve dolaylı anlatım). Ayrıntılı listeler (Cambridge English Grammar Profile vb.) okunabilirse bu tablo gözden geçirilir.
+
 ## Aşamalar
 
 1. **İskelet** — tema, ortak bileşenler, sekmeli navigasyon, ana sayfa,

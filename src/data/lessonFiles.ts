@@ -1,3 +1,4 @@
+import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
 import a2PastSimple from "@/assets/data/levels/a2/a2-past-simple.json";
 import aPresentContinuous from "@/assets/data/levels/a1/a1-present-continuous.json";
@@ -9,6 +10,7 @@ import aPresentSimple from "@/assets/data/levels/a1/a1-present-simple.json";
  * Anahtar, müfredattaki ders kimliğidir.
  */
 export const lessonFiles: Record<string, unknown> = {
+  "a1-pronouns-sentence": aPronouns,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

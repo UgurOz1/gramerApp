@@ -1,0 +1,2378 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-pronouns-sentence",
+  "levelId": "a1",
+  "title": "Subject Pronouns & Basic Sentence",
+  "objectives": [
+    "Yedi özne zamirini (I, you, he, she, it, we, they) tanımak ve doğru seçmek",
+    "İsim yerine uygun zamiri kullanmak",
+    "İngilizcede özneyi söylemenin zorunlu olduğunu bilmek",
+    "Özne + fiil + nesne sırasını kurmak",
+    "Hava durumu ve saat söylerken it kullanmak",
+    "Türkçedeki sözcük sırasının İngilizceye taşınmayacağını anlamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Özne zamirleri ve temel cümle",
+      "paragraphs": [
+        "Her İngilizce cümlenin bir öznesi olmalıdır. Özne, cümlede işi yapan ya da hakkında konuşulan kişi veya şeydir. Özne olarak isim (Ali, the book) ya da isim yerine geçen özne zamirleri (I, you, he …) kullanılır.",
+        "Türkçede özneyi çoğu zaman söylemeyiz: “Geldim”, “Okuyor”, “Yağmur yağıyor” cümlelerinde özne yoktur, çünkü fiilin ekleri kimden söz edildiğini gösterir. İngilizcede ise özne zorunludur: I came, She is reading, It is raining.",
+        "Bir de sözcük sırası farkı var. Türkçede fiil sona gelir (“Ben çay severim”). İngilizcede özneden hemen sonra fiil gelir: I like tea. Bu ders bu iki temel kuralı oturtur; sonraki derslerin hepsi bunun üstüne kurulur."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "rule",
+      "title": "Özne zamirleri",
+      "paragraphs": [
+        "İngilizcede yedi özne zamiri vardır. Hangisini seçeceğine kimden söz ettiğine bakarak karar verirsin:"
+      ],
+      "formulas": [
+        {
+          "label": "Konuşan kişi: ben",
+          "pattern": "I  =  ben",
+          "exampleIds": [
+            "ex-pronouns-01"
+          ]
+        },
+        {
+          "label": "Konuştuğun kişi / kişiler: sen, siz",
+          "pattern": "you  =  sen, siz",
+          "exampleIds": [
+            "ex-pronouns-02"
+          ]
+        },
+        {
+          "label": "Hakkında konuştuğun tek kişi",
+          "pattern": "he  =  o (erkek)   |   she  =  o (kadın)",
+          "exampleIds": [
+            "ex-pronouns-03",
+            "ex-pronouns-04"
+          ]
+        },
+        {
+          "label": "Tek şey, hayvan ya da durum",
+          "pattern": "it  =  o (nesne, hayvan, hava, saat)",
+          "exampleIds": [
+            "ex-pronouns-05",
+            "ex-pronouns-22"
+          ]
+        },
+        {
+          "label": "Konuşan kişi ve başkaları",
+          "pattern": "we  =  biz",
+          "exampleIds": [
+            "ex-pronouns-06"
+          ]
+        },
+        {
+          "label": "Birden fazla kişi veya şey",
+          "pattern": "they  =  onlar",
+          "exampleIds": [
+            "ex-pronouns-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "notes-table",
+      "type": "notes",
+      "tone": "info",
+      "title": "Zamirler hakkında bilmen gerekenler",
+      "items": [
+        "I her zaman büyük harfle yazılır, cümlenin ortasında bile: Ali and I are friends.",
+        "You hem tek kişi (sen) hem birden fazla kişi (siz) için kullanılır. Hangisi olduğu bağlamdan anlaşılır.",
+        "Türkçede “o” sözcüğünün cinsiyeti yoktur. İngilizcede kişi erkekse he, kadınsa she, nesne / hayvan / durum ise it kullanılır.",
+        "They hem kişiler hem de şeyler için kullanılır: The books are new. They are on the table."
+      ]
+    },
+    {
+      "id": "replace",
+      "type": "rule",
+      "title": "İsim yerine zamir kullanmak",
+      "paragraphs": [
+        "Aynı ismi tekrar tekrar söylememek için ikinci cümlede zamir kullanırız. Hangi zamirin geleceğini ismin kim ya da ne olduğuna bakarak bulursun:"
+      ],
+      "formulas": [
+        {
+          "label": "Erkek",
+          "pattern": "Ali  →  he",
+          "exampleIds": [
+            "ex-pronouns-08"
+          ]
+        },
+        {
+          "label": "Kadın",
+          "pattern": "Ayşe  →  she",
+          "exampleIds": [
+            "ex-pronouns-09"
+          ]
+        },
+        {
+          "label": "Şey veya hayvan",
+          "pattern": "the book  →  it,   the dog  →  it",
+          "exampleIds": [
+            "ex-pronouns-10",
+            "ex-pronouns-26"
+          ]
+        },
+        {
+          "label": "İki kişi",
+          "pattern": "Ali and Ayşe  →  they",
+          "exampleIds": [
+            "ex-pronouns-11"
+          ]
+        },
+        {
+          "label": "Sen de içindeysen",
+          "pattern": "Ali and I  →  we,   you and Mert  →  you",
+          "exampleIds": [
+            "ex-pronouns-12",
+            "ex-pronouns-14"
+          ]
+        },
+        {
+          "label": "Çoğul isim",
+          "pattern": "my parents  →  they",
+          "exampleIds": [
+            "ex-pronouns-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "order",
+      "type": "rule",
+      "title": "Temel cümle yapısı: özne + fiil + (nesne)",
+      "paragraphs": [
+        "En basit İngilizce cümle bir özne ve bir fiilden oluşur (I run). Çoğu zaman fiilden sonra bir nesne (fiilin etkilediği şey) gelir. Türkçedeki sıranın tersine fiil nesneden önce gelir:",
+        "Yer, zaman gibi ek bilgiler genellikle cümlenin sonuna eklenir: I study English at home."
+      ],
+      "formulas": [
+        {
+          "label": "Özne + fiil",
+          "pattern": "I run.   They sleep.",
+          "exampleIds": [
+            "ex-pronouns-24",
+            "ex-pronouns-25"
+          ]
+        },
+        {
+          "label": "Özne + fiil + nesne",
+          "pattern": "I like tea.   We play football.   They eat pizza.",
+          "exampleIds": [
+            "ex-pronouns-15",
+            "ex-pronouns-16",
+            "ex-pronouns-17"
+          ]
+        },
+        {
+          "label": "Özne + fiil + nesne + yer / zaman",
+          "pattern": "I study English at home.   We live in Istanbul.",
+          "exampleIds": [
+            "ex-pronouns-18",
+            "ex-pronouns-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare-order",
+      "type": "usage",
+      "title": "Türkçe ve İngilizce sözcük sırası",
+      "paragraphs": [
+        "Aynı cümleyi iki dilde yan yana düşün:"
+      ],
+      "items": [
+        {
+          "heading": "Türkçe: özne – nesne – fiil",
+          "body": "Ben çay severim. (Ben + çay + severim). Fiil sondadır.",
+          "exampleIds": [
+            "ex-pronouns-15"
+          ]
+        },
+        {
+          "heading": "İngilizce: özne – fiil – nesne",
+          "body": "I like tea. (I + like + tea). Fiil özneden hemen sonra gelir; nesne fiilden sonradır.",
+          "exampleIds": [
+            "ex-pronouns-15",
+            "ex-pronouns-16"
+          ]
+        },
+        {
+          "heading": "Ek bilgiler sona gider",
+          "body": "Nerede, ne zaman gibi bilgiler genellikle cümlenin sonunda yer alır.",
+          "exampleIds": [
+            "ex-pronouns-18",
+            "ex-pronouns-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Bu derste kullandığımız cümle kalıpları",
+      "paragraphs": [
+        "Bu ders yalnızca özneyi ve sözcük sırasını oturtur. Olumsuz cümle ve soru yapma sonraki derslerde işlenecek; burada olumlu cümlelere odaklanıyoruz."
+      ],
+      "forms": [
+        {
+          "label": "To be ile",
+          "formula": "Özne zamiri + am / is / are + …",
+          "exampleIds": [
+            "ex-pronouns-01",
+            "ex-pronouns-03",
+            "ex-pronouns-07"
+          ],
+          "note": "I → am, he / she / it → is, you / we / they → are. Ayrıntısı To Be dersinde."
+        },
+        {
+          "label": "Eylem fiiliyle",
+          "formula": "Özne zamiri + fiil + nesne",
+          "exampleIds": [
+            "ex-pronouns-15",
+            "ex-pronouns-16",
+            "ex-pronouns-17"
+          ],
+          "note": "I, you, we, they ile fiil yalın kalır. He, she, it ile fiile -s gelir (Present Simple dersinde)."
+        },
+        {
+          "label": "Hava ve saat",
+          "formula": "It + is + …",
+          "exampleIds": [
+            "ex-pronouns-22",
+            "ex-pronouns-23"
+          ],
+          "note": "Hava durumu ve saat söylerken özne her zaman it’tir."
+        }
+      ]
+    },
+    {
+      "id": "examples-pronouns",
+      "type": "examples",
+      "title": "Örnekler: özne zamirleri",
+      "paragraphs": [
+        "Her cümlede özne zamirinin kim ya da neyi gösterdiğine dikkat et."
+      ],
+      "exampleIds": [
+        "ex-pronouns-01",
+        "ex-pronouns-02",
+        "ex-pronouns-03",
+        "ex-pronouns-04",
+        "ex-pronouns-05",
+        "ex-pronouns-06",
+        "ex-pronouns-07",
+        "ex-pronouns-22",
+        "ex-pronouns-23",
+        "ex-pronouns-27"
+      ]
+    },
+    {
+      "id": "examples-replace",
+      "type": "examples",
+      "title": "Örnekler: isim yerine zamir",
+      "exampleIds": [
+        "ex-pronouns-08",
+        "ex-pronouns-09",
+        "ex-pronouns-10",
+        "ex-pronouns-11",
+        "ex-pronouns-12",
+        "ex-pronouns-13",
+        "ex-pronouns-14",
+        "ex-pronouns-26"
+      ]
+    },
+    {
+      "id": "examples-order",
+      "type": "examples",
+      "title": "Örnekler: özne + fiil + nesne",
+      "exampleIds": [
+        "ex-pronouns-15",
+        "ex-pronouns-16",
+        "ex-pronouns-17",
+        "ex-pronouns-18",
+        "ex-pronouns-19",
+        "ex-pronouns-20",
+        "ex-pronouns-21",
+        "ex-pronouns-24",
+        "ex-pronouns-25"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "Am a student.",
+          "right": "I am a student.",
+          "explanation": "Türkçede “Öğrenciyim” demek yeter, çünkü özne ekten anlaşılır. İngilizcede özneyi mutlaka söylemelisin."
+        },
+        {
+          "wrong": "Is raining.",
+          "right": "It is raining.",
+          "explanation": "Türkçede “Yağmur yağıyor” ya da “Yağıyor” diyebiliriz. İngilizcede özne it zorunludur."
+        },
+        {
+          "wrong": "Ali he is a doctor.",
+          "right": "Ali is a doctor.  /  He is a doctor.",
+          "explanation": "Bir cümlede yalnızca bir özne olur. Ya ismi ya da zamiri kullan; ikisini birlikte kullanma."
+        },
+        {
+          "wrong": "I tea like.",
+          "right": "I like tea.",
+          "explanation": "Türkçedeki sıra (özne – nesne – fiil) İngilizceye taşınmaz. İngilizcede fiil özneden hemen sonra gelir."
+        },
+        {
+          "wrong": "We football play.",
+          "right": "We play football.",
+          "explanation": "Nesne fiilden sonra gelir."
+        },
+        {
+          "wrong": "Ayşe is my sister. He is a teacher.",
+          "right": "Ayşe is my sister. She is a teacher.",
+          "explanation": "Ayşe bir kadındır; kadın için she kullanılır."
+        },
+        {
+          "wrong": "The book is new. He is on the table.",
+          "right": "The book is new. It is on the table.",
+          "explanation": "Nesneler için he / she değil it kullanılır."
+        },
+        {
+          "wrong": "i am a student.",
+          "right": "I am a student.",
+          "explanation": "I her zaman büyük harfle yazılır."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Özne zamirleri ve nesne zamirleri",
+          "body": "I, he, she gibi özne zamirleri cümlenin başında, işi yapan olarak gelir (I like her). Me, him, her gibi nesne zamirleri fiilden sonra gelir.",
+          "lessonId": "a1-object-pronouns"
+        },
+        {
+          "topic": "Özne zamirleri ve sahiplik sıfatları",
+          "body": "I (ben) ile my (benim) farklıdır: I am a student. / This is my book.",
+          "lessonId": "a1-possessives"
+        },
+        {
+          "topic": "Özne zamirleri ve To be",
+          "body": "Özneden sonra çoğu zaman am / is / are gelir; hangisinin geleceğini öznenin zamirine göre seçersin.",
+          "lessonId": "a1-to-be"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "İngilizcede özne her cümlede olmalıdır: “Is cold” değil, “It is cold”.",
+        "Bir cümlede yalnızca bir özne olur: “Ali he is” değil, “Ali is” ya da “He is”.",
+        "Fiil, özneden hemen sonra gelir; Türkçe sıra (özne – nesne – fiil) İngilizcede çalışmaz.",
+        "İnsan için he / she, nesne ve hayvan için genellikle it kullanılır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-pronouns-01",
+        "q-pronouns-02",
+        "q-pronouns-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-pronouns-01",
+      "en": "I am a student.",
+      "tr": "Ben bir öğrenciyim.",
+      "highlight": "I",
+      "note": "I → ben"
+    },
+    {
+      "id": "ex-pronouns-02",
+      "en": "You are my friend.",
+      "tr": "Sen benim arkadaşımsın.",
+      "highlight": "You",
+      "note": "You → sen / siz"
+    },
+    {
+      "id": "ex-pronouns-03",
+      "en": "He is a doctor.",
+      "tr": "O (erkek) bir doktor.",
+      "highlight": "He",
+      "note": "He → erkek biri"
+    },
+    {
+      "id": "ex-pronouns-04",
+      "en": "She is a teacher.",
+      "tr": "O (kadın) bir öğretmen.",
+      "highlight": "She",
+      "note": "She → kadın biri"
+    },
+    {
+      "id": "ex-pronouns-05",
+      "en": "It is a big dog.",
+      "tr": "O büyük bir köpek.",
+      "highlight": "It",
+      "note": "It → hayvan, nesne veya durum"
+    },
+    {
+      "id": "ex-pronouns-06",
+      "en": "We are friends.",
+      "tr": "Biz arkadaşız.",
+      "highlight": "We"
+    },
+    {
+      "id": "ex-pronouns-07",
+      "en": "They are students.",
+      "tr": "Onlar öğrenci.",
+      "highlight": "They"
+    },
+    {
+      "id": "ex-pronouns-08",
+      "en": "Ali is my brother. He is a doctor.",
+      "tr": "Ali benim erkek kardeşim. O bir doktor.",
+      "highlight": "He",
+      "note": "Ali → he"
+    },
+    {
+      "id": "ex-pronouns-09",
+      "en": "Ayşe is my sister. She lives in Ankara.",
+      "tr": "Ayşe benim kız kardeşim. Ankara’da yaşıyor.",
+      "highlight": "She",
+      "note": "Ayşe → she"
+    },
+    {
+      "id": "ex-pronouns-10",
+      "en": "The book is on the table. It is new.",
+      "tr": "Kitap masanın üstünde. O yeni.",
+      "highlight": "It",
+      "note": "The book → it"
+    },
+    {
+      "id": "ex-pronouns-11",
+      "en": "Ali and Ayşe are here. They are my friends.",
+      "tr": "Ali ile Ayşe burada. Onlar benim arkadaşlarım.",
+      "highlight": "They",
+      "note": "Ali and Ayşe → they"
+    },
+    {
+      "id": "ex-pronouns-12",
+      "en": "Ali and I are friends. We are classmates.",
+      "tr": "Ali ve ben arkadaşız. Biz sınıf arkadaşıyız.",
+      "highlight": "We",
+      "note": "Ali and I → we"
+    },
+    {
+      "id": "ex-pronouns-13",
+      "en": "My parents are at work. They are doctors.",
+      "tr": "Anne babam işte. Onlar doktor.",
+      "highlight": "They",
+      "note": "My parents → they"
+    },
+    {
+      "id": "ex-pronouns-14",
+      "en": "You and Mert are in the same class. You are classmates.",
+      "tr": "Sen ve Mert aynı sınıftasınız. Sınıf arkadaşısınız.",
+      "highlight": "You",
+      "note": "You and Mert → you"
+    },
+    {
+      "id": "ex-pronouns-15",
+      "en": "I like tea.",
+      "tr": "Çayı severim.",
+      "highlight": "I like tea",
+      "note": "Özne + fiil + nesne"
+    },
+    {
+      "id": "ex-pronouns-16",
+      "en": "We play football.",
+      "tr": "Futbol oynarız.",
+      "highlight": "We play football"
+    },
+    {
+      "id": "ex-pronouns-17",
+      "en": "They eat pizza.",
+      "tr": "Pizza yerler.",
+      "highlight": "They eat pizza"
+    },
+    {
+      "id": "ex-pronouns-18",
+      "en": "I study English at home.",
+      "tr": "Evde İngilizce çalışırım.",
+      "highlight": "I study English",
+      "note": "Yer bilgisi (at home) sona gelir."
+    },
+    {
+      "id": "ex-pronouns-19",
+      "en": "We live in Istanbul.",
+      "tr": "İstanbul’da yaşıyoruz.",
+      "highlight": "We live"
+    },
+    {
+      "id": "ex-pronouns-20",
+      "en": "She works in a bank.",
+      "tr": "Bir bankada çalışır.",
+      "highlight": "She works",
+      "note": "He / she / it ile fiile -s gelir (Present Simple dersinde işlenecek)."
+    },
+    {
+      "id": "ex-pronouns-21",
+      "en": "He drinks water.",
+      "tr": "Su içer.",
+      "highlight": "He drinks",
+      "note": "He / she / it ile fiile -s gelir (Present Simple dersinde işlenecek)."
+    },
+    {
+      "id": "ex-pronouns-22",
+      "en": "It is cold today.",
+      "tr": "Bugün hava soğuk.",
+      "highlight": "It",
+      "note": "Hava durumunda özne it’tir."
+    },
+    {
+      "id": "ex-pronouns-23",
+      "en": "It is five o'clock.",
+      "tr": "Saat beş.",
+      "highlight": "It",
+      "note": "Saat söylerken de özne it’tir."
+    },
+    {
+      "id": "ex-pronouns-24",
+      "en": "I run.",
+      "tr": "Koşarım.",
+      "highlight": "I run",
+      "note": "En kısa cümle: özne + fiil"
+    },
+    {
+      "id": "ex-pronouns-25",
+      "en": "They sleep.",
+      "tr": "Uyurlar.",
+      "highlight": "They sleep"
+    },
+    {
+      "id": "ex-pronouns-26",
+      "en": "The dog is hungry. It is in the garden.",
+      "tr": "Köpek aç. O bahçede.",
+      "highlight": "It",
+      "note": "The dog → it"
+    },
+    {
+      "id": "ex-pronouns-27",
+      "en": "He is tall and she is short.",
+      "tr": "O (erkek) uzun, o (kadın) kısa.",
+      "highlight": "He"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-pronouns-01",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Ali is my brother. ___ is a doctor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He"
+        },
+        {
+          "id": "b",
+          "text": "She"
+        },
+        {
+          "id": "c",
+          "text": "It"
+        },
+        {
+          "id": "d",
+          "text": "They"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ali bir erkektir; erkek için he kullanılır: He is a doctor.",
+      "optionExplanations": {
+        "b": "She kadınlar için kullanılır; Ali bir erkek ismidir.",
+        "c": "It, nesne ve hayvanlar içindir; Ali bir kişidir.",
+        "d": "They birden fazla kişi içindir; Ali tektir."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-02",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Ayşe is my friend. ___ is from Izmir.",
+      "answers": [
+        "She"
+      ],
+      "explanation": "Ayşe bir kadındır; kadın için she kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He",
+          "explanation": "He erkekler içindir; Ayşe bir kadın ismidir."
+        },
+        {
+          "answer": "It",
+          "explanation": "It nesne ve hayvanlar içindir; Ayşe bir kişidir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-03",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben bir öğrenciyim.",
+      "answer": [
+        "I",
+        "am",
+        "a",
+        "student"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "are"
+      ],
+      "explanation": "Özne (I) cümlenin başına gelir, ardından to be fiili: I am a student.",
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "word_order",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-04",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Am a student.",
+      "errorSpan": "Am",
+      "answers": [
+        "I am a student.",
+        "I'm a student."
+      ],
+      "explanation": "İngilizcede özne zorunludur. “Öğrenciyim” demek için özneyi de söylersin: I am a student.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He am a student.",
+          "explanation": "Am yalnızca I ile kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-05",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Biz öğrenciyiz.",
+      "hint": "öğrenci: student",
+      "answers": [
+        "We are students.",
+        "We're students."
+      ],
+      "targetStructure": "Özne zamiri: we",
+      "explanation": "“Biz” için we kullanılır. Birden fazla kişi olduğu için are ve students gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Are students.",
+          "explanation": "Özne eksik: We are students."
+        },
+        {
+          "answer": "We is students.",
+          "explanation": "We ile is değil are kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pronouns-06",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The book is on the table. ___ is new.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He"
+        },
+        {
+          "id": "b",
+          "text": "She"
+        },
+        {
+          "id": "c",
+          "text": "It"
+        },
+        {
+          "id": "d",
+          "text": "They"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kitap bir nesnedir; nesneler için it kullanılır: It is new.",
+      "optionExplanations": {
+        "a": "He erkek kişiler içindir.",
+        "b": "She kadın kişiler içindir.",
+        "d": "They çoğul içindir; kitap tektir."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-07",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Ali is a doctor. ___ is at the hospital.",
+      "answers": [
+        "He"
+      ],
+      "explanation": "Ali bir erkektir; erkek için he kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She",
+          "explanation": "She kadınlar içindir; Ali bir erkek ismidir."
+        },
+        {
+          "answer": "It",
+          "explanation": "It nesne ve hayvanlar içindir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-08",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (kadın) bir öğretmen.",
+      "answer": [
+        "She",
+        "is",
+        "a",
+        "teacher"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "He",
+        "are"
+      ],
+      "explanation": "Kadın için she, onunla birlikte is gelir: She is a teacher.",
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "word_order",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-09",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Is raining.",
+      "errorSpan": "Is",
+      "answers": [
+        "It is raining.",
+        "It's raining."
+      ],
+      "explanation": "İngilizcede özne zorunludur. Hava durumunda özne it’tir: It is raining.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is raining.",
+          "explanation": "Hava durumunun öznesi he değil it’tir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-10",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O (erkek) bir doktor.",
+      "hint": "doktor: doctor",
+      "answers": [
+        "He is a doctor.",
+        "He's a doctor."
+      ],
+      "targetStructure": "Özne zamiri: he",
+      "explanation": "Erkek için he kullanılır; to be fiili is olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is a doctor.",
+          "explanation": "She kadınlar içindir; cümlede “erkek” deniyor."
+        },
+        {
+          "answer": "He are a doctor.",
+          "explanation": "He ile are değil is kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pronouns-11",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My parents are at work. ___ are doctors.",
+      "options": [
+        {
+          "id": "a",
+          "text": "He"
+        },
+        {
+          "id": "b",
+          "text": "She"
+        },
+        {
+          "id": "c",
+          "text": "We"
+        },
+        {
+          "id": "d",
+          "text": "They"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "My parents birden fazla kişidir; çoğul için they kullanılır: They are doctors.",
+      "optionExplanations": {
+        "a": "He tek bir erkektir; parents çoğuldur.",
+        "b": "She tek bir kadındır; parents çoğuldur.",
+        "c": "We, konuşan kişiyi de içerir; burada anne babandan söz ediliyor."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-12",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The cat is small. ___ is black.",
+      "answers": [
+        "It"
+      ],
+      "explanation": "Kedi bir hayvandır; hayvanlar için çoğu zaman it kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He",
+          "explanation": "Hayvanlar için genellikle it kullanılır (evcil hayvanın cinsiyeti biliniyorsa he / she de olabilir; bu derste it kullanıyoruz)."
+        },
+        {
+          "answer": "They",
+          "explanation": "They çoğuldur; cat tektir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-13",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Ali and Ayşe are students. ___ are here.",
+      "answers": [
+        "They"
+      ],
+      "explanation": "İki kişi birlikte they olur: They are here.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We",
+          "explanation": "We, konuşanı da içerir; burada Ali ile Ayşe’den söz ediliyor."
+        },
+        {
+          "answer": "He",
+          "explanation": "He tek bir erkek içindir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-14",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Biz arkadaşız.",
+      "answer": [
+        "We",
+        "are",
+        "friends"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "They",
+        "is"
+      ],
+      "explanation": "Biz için we, onunla birlikte are gelir: We are friends.",
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "word_order",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-15",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Ali he is a doctor.",
+      "errorSpan": "Ali he",
+      "answers": [
+        "Ali is a doctor.",
+        "He is a doctor.",
+        "Ali's a doctor.",
+        "He's a doctor."
+      ],
+      "explanation": "Bir cümlede yalnızca bir özne olur. Ya Ali ya da he kullanılır; ikisi birlikte kullanılmaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali he a doctor.",
+          "explanation": "Fiil eksik; ayrıca iki özne var."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-16",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben futbol oynarım.",
+      "hint": "oynamak: play",
+      "answers": [
+        "I play football."
+      ],
+      "targetStructure": "Özne + fiil + nesne",
+      "explanation": "İngilizcede sıra özne – fiil – nesnedir: I play football.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I football play.",
+          "explanation": "Türkçe sıra İngilizceye taşınmaz; fiil nesneden önce gelir."
+        },
+        {
+          "answer": "Play football.",
+          "explanation": "Özne eksik: I play football."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-17",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Ali and I are friends. ___ are classmates.",
+      "options": [
+        {
+          "id": "a",
+          "text": "They"
+        },
+        {
+          "id": "b",
+          "text": "We"
+        },
+        {
+          "id": "c",
+          "text": "You"
+        },
+        {
+          "id": "d",
+          "text": "He"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“Ali and I” seni de içerir; konuşan kişi + başkası = we: We are classmates.",
+      "optionExplanations": {
+        "a": "They, konuşan kişiyi içermez; “Ali and I” ise konuşanı da içerir.",
+        "c": "You, karşındaki kişiler içindir.",
+        "d": "He tek bir erkek içindir."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-18",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My sister and I are at home. ___ are tired.",
+      "answers": [
+        "We"
+      ],
+      "explanation": "“My sister and I” konuşanı da içerir; we kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They",
+          "explanation": "They, konuşan kişiyi içermez."
+        },
+        {
+          "answer": "She",
+          "explanation": "She tek bir kadın içindir; burada iki kişiden söz ediliyor."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-19",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ am a student.",
+      "answers": [
+        "I"
+      ],
+      "explanation": "Am yalnızca I ile kullanılır: I am a student.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He",
+          "explanation": "He ile is kullanılır, am değil."
+        },
+        {
+          "answer": "You",
+          "explanation": "You ile are kullanılır, am değil."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pronouns-20",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ is raining.",
+      "answers": [
+        "It"
+      ],
+      "explanation": "Hava durumunda özne it’tir: It is raining.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He",
+          "explanation": "Hava durumunun öznesi it’tir."
+        },
+        {
+          "answer": "They",
+          "explanation": "They çoğuldur; hava durumunda it kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-21",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Am a student."
+        },
+        {
+          "id": "b",
+          "text": "I am a student."
+        },
+        {
+          "id": "c",
+          "text": "Is a student."
+        },
+        {
+          "id": "d",
+          "text": "I a student."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İngilizcede özne ve to be fiili birlikte olmalıdır: I am a student.",
+      "optionExplanations": {
+        "a": "Özne eksik; İngilizcede özne zorunludur.",
+        "c": "Özne eksik ve is, I ile kullanılmaz.",
+        "d": "To be fiili (am) eksik."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-22",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is cold today."
+        },
+        {
+          "id": "b",
+          "text": "It is cold today."
+        },
+        {
+          "id": "c",
+          "text": "He is cold today."
+        },
+        {
+          "id": "d",
+          "text": "They is cold today."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hava durumunda özne it’tir: It is cold today.",
+      "optionExplanations": {
+        "a": "Özne eksik; İngilizcede özne zorunludur.",
+        "c": "He bir erkeği anlatır; hava durumunun öznesi it’tir.",
+        "d": "They çoğuldur; ayrıca is ile kullanılmaz."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-23",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I tea like."
+        },
+        {
+          "id": "b",
+          "text": "I like tea."
+        },
+        {
+          "id": "c",
+          "text": "Like tea I."
+        },
+        {
+          "id": "d",
+          "text": "Tea like I."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İngilizcede sıra özne – fiil – nesnedir: I like tea.",
+      "optionExplanations": {
+        "a": "Bu Türkçedeki sıradır (ben çay severim); İngilizcede fiil nesneden önce gelir.",
+        "c": "Fiil özneden önce gelmez.",
+        "d": "Nesne fiilden sonra gelmelidir."
+      },
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pronouns-24",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben çay severim.",
+      "answer": [
+        "I",
+        "like",
+        "tea"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "hate"
+      ],
+      "explanation": "Özne – fiil – nesne sırası: I like tea.",
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pronouns-25",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bugün hava soğuk.",
+      "answer": [
+        "It",
+        "is",
+        "cold",
+        "today"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "He",
+        "are"
+      ],
+      "explanation": "Hava durumunda özne it’tir; zaman ifadesi (today) cümlenin sonuna gelir.",
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pronouns-26",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I tea like.",
+      "errorSpan": "tea like",
+      "answers": [
+        "I like tea."
+      ],
+      "explanation": "Fiil nesneden önce gelir: I like tea.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Like I tea.",
+          "explanation": "Fiil özneden önce gelmez."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pronouns-27",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Ayşe is my sister. He is a teacher.",
+      "errorSpan": "He",
+      "answers": [
+        "Ayşe is my sister. She is a teacher."
+      ],
+      "explanation": "Ayşe bir kadındır; kadın için she kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ayşe is my sister. It is a teacher.",
+          "explanation": "It nesneler içindir; Ayşe bir kişidir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-28",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The book is new. He is on the table.",
+      "errorSpan": "He",
+      "answers": [
+        "The book is new. It is on the table."
+      ],
+      "explanation": "Kitap bir nesnedir; nesneler için it kullanılır.",
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-29",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onlar benim arkadaşlarım.",
+      "hint": "arkadaş: friend (çoğul kullan)",
+      "answers": [
+        "They are my friends.",
+        "They're my friends."
+      ],
+      "targetStructure": "Özne zamiri: they",
+      "explanation": "Birden fazla kişi için they, onunla birlikte are gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They is my friends.",
+          "explanation": "They ile is değil are kullanılır."
+        },
+        {
+          "answer": "He are my friends.",
+          "explanation": "He tek bir erkek içindir; onlar için they kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pronouns-30",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bugün hava soğuk.",
+      "hint": "Hava durumunda özne it’tir.",
+      "answers": [
+        "It is cold today.",
+        "It's cold today.",
+        "Today it is cold.",
+        "Today it's cold."
+      ],
+      "targetStructure": "It + is: hava durumu",
+      "explanation": "Hava durumunda özne it’tir ve is gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is cold today.",
+          "explanation": "Özne eksik."
+        },
+        {
+          "answer": "He is cold today.",
+          "explanation": "He bir erkeği anlatır; hava durumunun öznesi it’tir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-31",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi zamir “you and Mert” ifadesinin yerine geçer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "you"
+        },
+        {
+          "id": "c",
+          "text": "they"
+        },
+        {
+          "id": "d",
+          "text": "he"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "“You and Mert” karşındaki kişiyi ve Mert’i anlatır; bu bir you grubudur: You are friends. (We olması için konuşanın da içinde olması gerekirdi.)",
+      "optionExplanations": {
+        "a": "We, konuşan kişiyi de içerir; “you and Mert”te konuşan yoktur.",
+        "c": "They, konuşan ve karşındaki kişiyi içermez; “you” burada karşındaki kişidir.",
+        "d": "He tek bir erkek içindir."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-32",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi zamir “Ali and Ayşe” ifadesinin yerine geçer?",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "you"
+        },
+        {
+          "id": "c",
+          "text": "they"
+        },
+        {
+          "id": "d",
+          "text": "she"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ali ile Ayşe iki kişidir ve ikisi de konuşan değildir; birden fazla kişi için they kullanılır.",
+      "optionExplanations": {
+        "a": "We, konuşanı da içerir.",
+        "b": "You, karşındaki kişiler içindir.",
+        "d": "She tek bir kadın içindir."
+      },
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-33",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "You and Ali are friends. ___ are classmates.",
+      "answers": [
+        "You"
+      ],
+      "explanation": "“You and Ali” karşındaki kişiyi içerir; yerine you gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We",
+          "explanation": "We, konuşanı içerir; burada konuşan yok."
+        },
+        {
+          "answer": "They",
+          "explanation": "They, karşındaki kişiyi içermez."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-34",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The dogs are hungry. ___ are in the garden.",
+      "answers": [
+        "They"
+      ],
+      "explanation": "Köpekler çoğuldur; çoğul için they kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It",
+          "explanation": "It tek bir hayvan / şey içindir; dogs çoğuldur."
+        },
+        {
+          "answer": "We",
+          "explanation": "We konuşanı içerir; köpekler konuşan değildir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-35",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Mert, ___ are my friend.",
+      "answers": [
+        "you"
+      ],
+      "explanation": "Mert’le konuşuyorsun; karşındaki kişi için you kullanılır: Mert, you are my friend.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "he",
+          "explanation": "Mert’le doğrudan konuşuyorsun; onun için he değil you kullanılır."
+        },
+        {
+          "answer": "I",
+          "explanation": "I ile are kullanılmaz ve konuşan sen değil, karşındaki kişi hakkında söylüyorsun."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-36",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Biz evde İngilizce çalışırız.",
+      "answer": [
+        "We",
+        "study",
+        "English",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "studies",
+        "They"
+      ],
+      "explanation": "Özne – fiil – nesne – yer sırası: We study English at home.",
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pronouns-37",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onlar pizza yer.",
+      "answer": [
+        "They",
+        "eat",
+        "pizza"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "eats",
+        "We"
+      ],
+      "explanation": "Özne – fiil – nesne sırası: They eat pizza. (They ile fiil yalın kalır.)",
+      "tags": [
+        "pronouns",
+        "word-order"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pronouns-38",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ali benim erkek kardeşim. O bir öğretmen.",
+      "hint": "kardeş: brother. İkinci cümlede zamir kullan.",
+      "answers": [
+        "Ali is my brother. He is a teacher.",
+        "Ali is my brother. He's a teacher."
+      ],
+      "targetStructure": "İsim yerine zamir: Ali → he",
+      "explanation": "İkinci cümlede Ali yerine he kullanılır; erkek için he gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali is my brother. Ali is a teacher.",
+          "explanation": "Bu doğru olurdu ama soruda zamir kullanman isteniyor: He is a teacher."
+        },
+        {
+          "answer": "Ali is my brother. It is a teacher.",
+          "explanation": "It nesne ve hayvanlar içindir; Ali bir kişidir."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-pronouns-39",
+      "lessonId": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ayşe ve ben arkadaşız.",
+      "hint": "“Ayşe ve ben” ifadesinde ben her zaman büyük I olarak yazılır.",
+      "answers": [
+        "Ayşe and I are friends."
+      ],
+      "targetStructure": "Özne: Ayşe and I → we (are)",
+      "explanation": "“Ayşe and I” iki kişidir; are gelir. I büyük harfle yazılır ve konuşanın adı genellikle kendinden önce söylenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ayşe and me are friends.",
+          "explanation": "Özne olarak me değil I kullanılır."
+        },
+        {
+          "answer": "Ayşe and I is friends.",
+          "explanation": "İki kişi için is değil are kullanılır."
+        }
+      ],
+      "tags": [
+        "pronouns",
+        "pronoun",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-pronouns",
+    "title": "Özne zamirleri: Konu sonu sınavı",
+    "description": "Özne zamirleri, isim yerine zamir kullanma ve temel cümle sırası konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-pronouns-exam-01",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Selin is my friend. ___ is a nurse.",
+        "options": [
+          {
+            "id": "a",
+            "text": "He"
+          },
+          {
+            "id": "b",
+            "text": "She"
+          },
+          {
+            "id": "c",
+            "text": "It"
+          },
+          {
+            "id": "d",
+            "text": "They"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Selin bir kadındır; kadın için she kullanılır.",
+        "optionExplanations": {
+          "a": "He erkek içindir.",
+          "c": "It nesne ve hayvanlar içindir.",
+          "d": "They çoğuldur; Selin tektir."
+        },
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-02",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "Mert is my brother. ___ is a student.",
+        "answers": [
+          "He"
+        ],
+        "explanation": "Mert bir erkektir; erkek için he kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She",
+            "explanation": "She kadınlar içindir; Mert bir erkek ismidir."
+          },
+          {
+            "answer": "It",
+            "explanation": "It nesne ve hayvanlar içindir."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-03",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Biz öğretmeniz.",
+        "answer": [
+          "We",
+          "are",
+          "teachers"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "They"
+        ],
+        "explanation": "Biz için we, onunla birlikte are gelir: We are teachers.",
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-04",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is a big city.",
+        "errorSpan": "Is",
+        "answers": [
+          "It is a big city.",
+          "It's a big city."
+        ],
+        "explanation": "İngilizcede özne zorunludur. Şehir bir şeydir; yerine it kullanılır.",
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-05",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Sen benim arkadaşımsın.",
+        "hint": "arkadaş: friend",
+        "answers": [
+          "You are my friend.",
+          "You're my friend."
+        ],
+        "targetStructure": "Özne zamiri: you",
+        "explanation": "Sen için you, onunla birlikte are gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "You is my friend.",
+            "explanation": "You ile is değil are kullanılır."
+          },
+          {
+            "answer": "Are my friend.",
+            "explanation": "Özne eksik: You are my friend."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-06",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The cars are new. ___ are fast.",
+        "options": [
+          {
+            "id": "a",
+            "text": "He"
+          },
+          {
+            "id": "b",
+            "text": "She"
+          },
+          {
+            "id": "c",
+            "text": "It"
+          },
+          {
+            "id": "d",
+            "text": "They"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Cars çoğuldur (birden fazla şey); çoğul için they kullanılır.",
+        "optionExplanations": {
+          "a": "He tek bir erkek içindir.",
+          "b": "She tek bir kadın içindir.",
+          "c": "It tek bir şey içindir; cars çoğuldur."
+        },
+        "tags": [
+          "pronouns",
+          "pronoun",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-07",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "My mother is a doctor. ___ is at work.",
+        "answers": [
+          "She"
+        ],
+        "explanation": "My mother bir kadındır; kadın için she kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He",
+            "explanation": "He erkekler içindir."
+          },
+          {
+            "answer": "It",
+            "explanation": "It nesne ve hayvanlar içindir."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-08",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onlar çay içer.",
+        "answer": [
+          "They",
+          "drink",
+          "tea"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "drinks",
+          "We"
+        ],
+        "explanation": "Özne – fiil – nesne: They drink tea. (They ile fiil yalın kalır.)",
+        "tags": [
+          "pronouns",
+          "word-order"
+        ],
+        "errorTags": [
+          "word_order",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-09",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is my friend. He is from Izmir.",
+        "errorSpan": "He",
+        "answers": [
+          "She is my friend. She is from Izmir."
+        ],
+        "explanation": "Aynı kişiden söz ediliyor; ikinci cümlede de she kullanılır.",
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-10",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kitap masanın üstünde. O yeni.",
+        "hint": "kitap: book, masa: table, yeni: new",
+        "answers": [
+          "The book is on the table. It is new."
+        ],
+        "targetStructure": "İsim yerine zamir: the book → it",
+        "explanation": "İkinci cümlede kitap yerine it kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The book is on the table. He is new.",
+            "explanation": "Nesneler için he değil it kullanılır."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-11",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Are at home."
+          },
+          {
+            "id": "b",
+            "text": "They are at home."
+          },
+          {
+            "id": "c",
+            "text": "At home they."
+          },
+          {
+            "id": "d",
+            "text": "They at home are."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Özne + to be fiili + yer: They are at home.",
+        "optionExplanations": {
+          "a": "Özne eksik.",
+          "c": "To be fiili eksik ve sıra yanlış.",
+          "d": "Fiil özneden hemen sonra gelmelidir."
+        },
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-12",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ is Monday today.",
+        "answers": [
+          "It"
+        ],
+        "explanation": "Gün söylerken de özne it’tir: It is Monday today.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He",
+            "explanation": "Günler için he değil it kullanılır."
+          },
+          {
+            "answer": "They",
+            "explanation": "They çoğuldur; Monday tektir."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-13",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ben bir bankada çalışırım.",
+        "answer": [
+          "I",
+          "work",
+          "in",
+          "a",
+          "bank"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "works",
+          "We"
+        ],
+        "explanation": "Özne – fiil – yer sırası: I work in a bank.",
+        "tags": [
+          "pronouns",
+          "word-order"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-14",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Ali he is happy.",
+        "errorSpan": "Ali he",
+        "answers": [
+          "Ali is happy.",
+          "He is happy.",
+          "Ali's happy.",
+          "He's happy."
+        ],
+        "explanation": "Bir cümlede yalnızca bir özne olur: Ali is happy ya da He is happy.",
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-15",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangi zamir “my brother and I” ifadesinin yerine geçer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "we"
+          },
+          {
+            "id": "b",
+            "text": "they"
+          },
+          {
+            "id": "c",
+            "text": "you"
+          },
+          {
+            "id": "d",
+            "text": "I"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "“My brother and I” konuşanı da içerir; konuşan + başkası = we.",
+        "optionExplanations": {
+          "b": "They, konuşan kişiyi içermez.",
+          "c": "You, karşındaki kişiler içindir.",
+          "d": "I yalnızca konuşan kişiyi anlatır; burada iki kişi var."
+        },
+        "tags": [
+          "pronouns",
+          "pronoun",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-16",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Ece, you and Deniz are late. ___ are in trouble.",
+        "answers": [
+          "You"
+        ],
+        "explanation": "Ece ve Deniz’le doğrudan konuşuyorsun; karşındaki kişiler için you kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We",
+            "explanation": "We konuşanı içerir; konuşan burada yok."
+          },
+          {
+            "answer": "They",
+            "explanation": "They karşındaki kişileri içermez; sen onlarla doğrudan konuşuyorsun."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-pronouns-exam-17",
+        "lessonId": "a1-pronouns-sentence",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ben bir öğrenciyim ve o bir öğretmen. (o kadın)",
+        "hint": "öğrenci: student, öğretmen: teacher",
+        "answers": [
+          "I am a student and she is a teacher.",
+          "I'm a student and she's a teacher."
+        ],
+        "targetStructure": "Özne zamirleri: I, she",
+        "explanation": "Konuşan için I (am), kadın için she (is) kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I am a student and he is a teacher.",
+            "explanation": "Kadın için he değil she kullanılır."
+          },
+          {
+            "answer": "I is a student and she is a teacher.",
+            "explanation": "I ile is değil am kullanılır."
+          }
+        ],
+        "tags": [
+          "pronouns",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "subject_verb_agreement"
+        ]
+      }
+    ]
+  }
+}
