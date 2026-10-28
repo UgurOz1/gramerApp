@@ -1,0 +1,1803 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "levels": [
+    {
+      "id": "a1",
+      "code": "A1",
+      "title": "Başlangıç",
+      "description": "Temel cümle yapıları, to be, geniş ve şimdiki zaman.",
+      "order": 1,
+      "unitIds": [
+        "a1-unit-01",
+        "a1-unit-02",
+        "a1-unit-03",
+        "a1-unit-04",
+        "a1-unit-05",
+        "a1-unit-06",
+        "a1-unit-07"
+      ]
+    },
+    {
+      "id": "a2",
+      "code": "A2",
+      "title": "Temel",
+      "description": "Geçmiş ve gelecek zamanlar, Present Perfect'e giriş, modal fiiller.",
+      "order": 2,
+      "unitIds": [
+        "a2-unit-01",
+        "a2-unit-02",
+        "a2-unit-03",
+        "a2-unit-04",
+        "a2-unit-05",
+        "a2-unit-06",
+        "a2-unit-07",
+        "a2-unit-08"
+      ]
+    },
+    {
+      "id": "b1",
+      "code": "B1",
+      "title": "Orta",
+      "description": "Perfect zamanlar, koşul cümleleri, edilgen yapı ve dolaylı anlatım.",
+      "order": 3,
+      "unitIds": [
+        "b1-unit-01",
+        "b1-unit-02",
+        "b1-unit-03",
+        "b1-unit-04",
+        "b1-unit-05",
+        "b1-unit-06",
+        "b1-unit-07",
+        "b1-unit-08",
+        "b1-unit-09"
+      ]
+    },
+    {
+      "id": "b2",
+      "code": "B2",
+      "title": "İleri Orta",
+      "description": "İleri zamanlar, karma koşullar, ileri edilgen ve vurgu yapıları.",
+      "order": 4,
+      "unitIds": [
+        "b2-unit-01",
+        "b2-unit-02",
+        "b2-unit-03",
+        "b2-unit-04",
+        "b2-unit-05",
+        "b2-unit-06",
+        "b2-unit-07",
+        "b2-unit-08"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "a1-unit-01",
+      "levelId": "a1",
+      "order": 1,
+      "title": "Temel cümle ve to be",
+      "lessonIds": [
+        "a1-pronouns-sentence",
+        "a1-to-be",
+        "a1-have-got"
+      ]
+    },
+    {
+      "id": "a1-unit-02",
+      "levelId": "a1",
+      "order": 2,
+      "title": "İsimler ve belirleyiciler",
+      "lessonIds": [
+        "a1-articles",
+        "a1-plurals",
+        "a1-demonstratives",
+        "a1-possessives",
+        "a1-there-is-are",
+        "a1-countable-some-any"
+      ]
+    },
+    {
+      "id": "a1-unit-03",
+      "levelId": "a1",
+      "order": 3,
+      "title": "Geniş zaman",
+      "lessonIds": [
+        "a1-present-simple",
+        "a1-adverbs-frequency"
+      ]
+    },
+    {
+      "id": "a1-unit-04",
+      "levelId": "a1",
+      "order": 4,
+      "title": "Şimdiki zaman",
+      "lessonIds": [
+        "a1-present-continuous",
+        "a1-present-simple-vs-continuous"
+      ]
+    },
+    {
+      "id": "a1-unit-05",
+      "levelId": "a1",
+      "order": 5,
+      "title": "Soru, emir ve yetenek",
+      "lessonIds": [
+        "a1-wh-questions",
+        "a1-can",
+        "a1-imperatives"
+      ]
+    },
+    {
+      "id": "a1-unit-06",
+      "levelId": "a1",
+      "order": 6,
+      "title": "Edatlar, zamirler ve bağlaçlar",
+      "lessonIds": [
+        "a1-prepositions-place",
+        "a1-prepositions-time",
+        "a1-object-pronouns",
+        "a1-conjunctions"
+      ]
+    },
+    {
+      "id": "a1-unit-07",
+      "levelId": "a1",
+      "order": 7,
+      "title": "Karşılaştırmaya giriş",
+      "lessonIds": [
+        "a1-comparatives-basic"
+      ]
+    },
+    {
+      "id": "a2-unit-01",
+      "levelId": "a2",
+      "order": 1,
+      "title": "Geçmiş zaman",
+      "lessonIds": [
+        "a2-past-be",
+        "a2-past-simple",
+        "a2-past-continuous",
+        "a2-past-simple-vs-continuous"
+      ]
+    },
+    {
+      "id": "a2-unit-02",
+      "levelId": "a2",
+      "order": 2,
+      "title": "Gelecek zaman",
+      "lessonIds": [
+        "a2-will",
+        "a2-going-to",
+        "a2-present-continuous-future",
+        "a2-will-vs-going-to"
+      ]
+    },
+    {
+      "id": "a2-unit-03",
+      "levelId": "a2",
+      "order": 3,
+      "title": "Present Perfect",
+      "lessonIds": [
+        "a2-present-perfect",
+        "a2-ever-never-just-already-yet",
+        "a2-for-since",
+        "a2-present-perfect-vs-past-simple"
+      ]
+    },
+    {
+      "id": "a2-unit-04",
+      "levelId": "a2",
+      "order": 4,
+      "title": "Miktar ve ölçü",
+      "lessonIds": [
+        "a2-quantifiers",
+        "a2-too-enough"
+      ]
+    },
+    {
+      "id": "a2-unit-05",
+      "levelId": "a2",
+      "order": 5,
+      "title": "Karşılaştırma ve niteleme",
+      "lessonIds": [
+        "a2-comparatives-superlatives",
+        "a2-as-as",
+        "a2-adjectives-adverbs"
+      ]
+    },
+    {
+      "id": "a2-unit-06",
+      "levelId": "a2",
+      "order": 6,
+      "title": "Zorunluluk ve tavsiye",
+      "lessonIds": [
+        "a2-must-have-to",
+        "a2-should"
+      ]
+    },
+    {
+      "id": "a2-unit-07",
+      "levelId": "a2",
+      "order": 7,
+      "title": "Koşul cümlelerine giriş",
+      "lessonIds": [
+        "a2-zero-conditional",
+        "a2-first-conditional"
+      ]
+    },
+    {
+      "id": "a2-unit-08",
+      "levelId": "a2",
+      "order": 8,
+      "title": "Cümle yapılarına giriş",
+      "lessonIds": [
+        "a2-gerund-infinitive-intro",
+        "a2-relative-clauses-intro",
+        "a2-indefinite-pronouns",
+        "a2-question-tags-intro",
+        "a2-so-because",
+        "a2-passive-basic",
+        "a2-reported-speech-basic"
+      ]
+    },
+    {
+      "id": "b1-unit-01",
+      "levelId": "b1",
+      "order": 1,
+      "title": "Perfect zamanlar",
+      "lessonIds": [
+        "b1-present-perfect-vs-past-advanced",
+        "b1-present-perfect-continuous",
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b1-unit-02",
+      "levelId": "b1",
+      "order": 2,
+      "title": "Gelecek yapıları",
+      "lessonIds": [
+        "b1-future-continuous",
+        "b1-future-perfect-intro",
+        "b1-future-forms-review"
+      ]
+    },
+    {
+      "id": "b1-unit-03",
+      "levelId": "b1",
+      "order": 3,
+      "title": "Koşul ve dilek",
+      "lessonIds": [
+        "b1-second-conditional",
+        "b1-first-vs-second-conditional",
+        "b1-third-conditional-intro",
+        "b1-wish-intro"
+      ]
+    },
+    {
+      "id": "b1-unit-04",
+      "levelId": "b1",
+      "order": 4,
+      "title": "Edilgen yapı ve aktarma",
+      "lessonIds": [
+        "b1-passive-tenses",
+        "b1-reported-speech",
+        "b1-reported-questions",
+        "b1-say-tell",
+        "b1-causative-intro"
+      ]
+    },
+    {
+      "id": "b1-unit-05",
+      "levelId": "b1",
+      "order": 5,
+      "title": "Fiil kalıpları ve alışkanlıklar",
+      "lessonIds": [
+        "b1-verb-patterns",
+        "b1-used-to",
+        "b1-be-get-used-to"
+      ]
+    },
+    {
+      "id": "b1-unit-06",
+      "levelId": "b1",
+      "order": 6,
+      "title": "Sıfat cümlecikleri",
+      "lessonIds": [
+        "b1-defining-relative",
+        "b1-non-defining-relative"
+      ]
+    },
+    {
+      "id": "b1-unit-07",
+      "levelId": "b1",
+      "order": 7,
+      "title": "Modal fiiller",
+      "lessonIds": [
+        "b1-modals-deduction",
+        "b1-should-have"
+      ]
+    },
+    {
+      "id": "b1-unit-08",
+      "levelId": "b1",
+      "order": 8,
+      "title": "Belirleyiciler ve soru ekleri",
+      "lessonIds": [
+        "b1-articles-advanced",
+        "b1-quantifiers",
+        "b1-question-tags"
+      ]
+    },
+    {
+      "id": "b1-unit-09",
+      "levelId": "b1",
+      "order": 9,
+      "title": "Bağlaçlar ve cümlecikler",
+      "lessonIds": [
+        "b1-linking-words",
+        "b1-so-such",
+        "b1-clauses"
+      ]
+    },
+    {
+      "id": "b2-unit-01",
+      "levelId": "b2",
+      "order": 1,
+      "title": "Zamanlar ve anlatı",
+      "lessonIds": [
+        "b2-perfect-forms",
+        "b2-past-perfect-continuous",
+        "b2-future-perfect-continuous",
+        "b2-narrative-tenses"
+      ]
+    },
+    {
+      "id": "b2-unit-02",
+      "levelId": "b2",
+      "order": 2,
+      "title": "Koşul ve dilek",
+      "lessonIds": [
+        "b2-third-conditional",
+        "b2-mixed-conditionals",
+        "b2-conditionals-without-if",
+        "b2-wish-if-only",
+        "b2-would-rather-had-better",
+        "b2-subjunctive"
+      ]
+    },
+    {
+      "id": "b2-unit-03",
+      "levelId": "b2",
+      "order": 3,
+      "title": "İleri modal fiiller",
+      "lessonIds": [
+        "b2-past-deduction",
+        "b2-advanced-modals"
+      ]
+    },
+    {
+      "id": "b2-unit-04",
+      "levelId": "b2",
+      "order": 4,
+      "title": "İleri edilgen yapı",
+      "lessonIds": [
+        "b2-passive-advanced",
+        "b2-have-get-done"
+      ]
+    },
+    {
+      "id": "b2-unit-05",
+      "levelId": "b2",
+      "order": 5,
+      "title": "İleri aktarma",
+      "lessonIds": [
+        "b2-reporting-verbs",
+        "b2-reported-speech-advanced"
+      ]
+    },
+    {
+      "id": "b2-unit-06",
+      "levelId": "b2",
+      "order": 6,
+      "title": "İleri cümlecik yapıları",
+      "lessonIds": [
+        "b2-relative-clauses-advanced",
+        "b2-participle-clauses",
+        "b2-cleft-sentences",
+        "b2-inversion"
+      ]
+    },
+    {
+      "id": "b2-unit-07",
+      "levelId": "b2",
+      "order": 7,
+      "title": "İsim öbekleri ve belirleyiciler",
+      "lessonIds": [
+        "b2-gerund-infinitive-advanced",
+        "b2-complex-noun-phrases",
+        "b2-determiners-advanced",
+        "b2-complex-comparatives"
+      ]
+    },
+    {
+      "id": "b2-unit-08",
+      "levelId": "b2",
+      "order": 8,
+      "title": "Söylem ve vurgu",
+      "lessonIds": [
+        "b2-discourse-markers",
+        "b2-emphasis",
+        "b2-ellipsis-substitution"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "a1-pronouns-sentence",
+      "levelId": "a1",
+      "unitId": "a1-unit-01",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Subject Pronouns & Basic Sentence",
+      "summary": "Özne zamirleri ve İngilizcede özne–fiil–nesne sırası.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": []
+    },
+    {
+      "id": "a1-to-be",
+      "levelId": "a1",
+      "unitId": "a1-unit-01",
+      "order": 2,
+      "kind": "lesson",
+      "title": "To Be: Am, Is, Are",
+      "summary": "Am, is, are; olumlu, olumsuz ve soru cümleleri.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a1-pronouns-sentence"
+      ]
+    },
+    {
+      "id": "a1-have-got",
+      "levelId": "a1",
+      "unitId": "a1-unit-01",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Have Got / Has Got",
+      "summary": "Sahiplik ve özellik bildirmek için have got.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a1-articles",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Articles: A, An, The",
+      "summary": "Belirsiz ve belirli tanımlıklar; ne zaman tanımlık kullanılmaz.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a1-plurals",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Singular & Plural Nouns",
+      "summary": "Çoğul ekleri ve düzensiz çoğullar.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-articles"
+      ]
+    },
+    {
+      "id": "a1-demonstratives",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 3,
+      "kind": "lesson",
+      "title": "This, That, These, Those",
+      "summary": "Yakın/uzak ve tekil/çoğul işaret sözcükleri.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a1-plurals"
+      ]
+    },
+    {
+      "id": "a1-possessives",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Possessive Adjectives & Pronouns",
+      "summary": "My/mine, your/yours … ve 's iyelik yapısı.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-pronouns-sentence"
+      ]
+    },
+    {
+      "id": "a1-there-is-are",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 5,
+      "kind": "lesson",
+      "title": "There Is / There Are",
+      "summary": "Bir yerde bir şeyin var olduğunu söylemek.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-plurals"
+      ]
+    },
+    {
+      "id": "a1-countable-some-any",
+      "levelId": "a1",
+      "unitId": "a1-unit-02",
+      "order": 6,
+      "kind": "lesson",
+      "title": "Countable & Uncountable, Some & Any",
+      "summary": "Sayılabilen/sayılamayan isimler ve some/any kullanımı.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-there-is-are"
+      ]
+    },
+    {
+      "id": "a1-present-simple",
+      "levelId": "a1",
+      "unitId": "a1-unit-03",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Present Simple",
+      "summary": "Alışkanlıklar, genel doğrular; -s takısı, do/does ile olumsuz ve soru.",
+      "estimatedMinutes": 25,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "unitId": "a1-unit-03",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Adverbs of Frequency",
+      "summary": "Always, usually, often, sometimes, never ve cümledeki yerleri.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a1-present-continuous",
+      "levelId": "a1",
+      "unitId": "a1-unit-04",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Present Continuous",
+      "summary": "Şu anda ve bu dönemde süren eylemler; am/is/are + -ing.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a1-to-be",
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a1-present-simple-vs-continuous",
+      "levelId": "a1",
+      "unitId": "a1-unit-04",
+      "order": 2,
+      "kind": "comparison",
+      "title": "Present Simple vs Present Continuous",
+      "summary": "Alışkanlık mı, şu an mı? İki zamanı ayırt etmek.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a1-present-simple",
+        "a1-present-continuous"
+      ]
+    },
+    {
+      "id": "a1-wh-questions",
+      "levelId": "a1",
+      "unitId": "a1-unit-05",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Wh- Questions",
+      "summary": "What, where, when, who, why, how ile soru kurmak.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a1-can",
+      "levelId": "a1",
+      "unitId": "a1-unit-05",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Can / Can't",
+      "summary": "Yetenek, izin ve olasılık için can.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-pronouns-sentence"
+      ]
+    },
+    {
+      "id": "a1-imperatives",
+      "levelId": "a1",
+      "unitId": "a1-unit-05",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Imperatives",
+      "summary": "Emir, talimat ve öneri cümleleri.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": []
+    },
+    {
+      "id": "a1-prepositions-place",
+      "levelId": "a1",
+      "unitId": "a1-unit-06",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Prepositions of Place",
+      "summary": "In, on, at, under, next to, between …",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-there-is-are"
+      ]
+    },
+    {
+      "id": "a1-prepositions-time",
+      "levelId": "a1",
+      "unitId": "a1-unit-06",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Prepositions of Time",
+      "summary": "At, on, in ile saat, gün, ay ve yıl.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": []
+    },
+    {
+      "id": "a1-object-pronouns",
+      "levelId": "a1",
+      "unitId": "a1-unit-06",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Object Pronouns",
+      "summary": "Me, you, him, her, it, us, them.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a1-pronouns-sentence"
+      ]
+    },
+    {
+      "id": "a1-conjunctions",
+      "levelId": "a1",
+      "unitId": "a1-unit-06",
+      "order": 4,
+      "kind": "lesson",
+      "title": "And, But, Because",
+      "summary": "Cümleleri temel bağlaçlarla birleştirmek.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": []
+    },
+    {
+      "id": "a1-comparatives-basic",
+      "levelId": "a1",
+      "unitId": "a1-unit-07",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Basic Comparative Adjectives",
+      "summary": "-er ve more ile iki şeyi karşılaştırmak.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a2-past-be",
+      "levelId": "a2",
+      "unitId": "a2-unit-01",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Past Simple: Was / Were",
+      "summary": "To be fiilinin geçmiş hâli.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a2-past-simple",
+      "levelId": "a2",
+      "unitId": "a2-unit-01",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Past Simple",
+      "summary": "Düzenli/düzensiz fiiller; did ile olumsuz ve soru.",
+      "estimatedMinutes": 25,
+      "prerequisiteIds": [
+        "a2-past-be",
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a2-past-continuous",
+      "levelId": "a2",
+      "unitId": "a2-unit-01",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Past Continuous",
+      "summary": "Geçmişte belirli bir anda süren eylemler.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-past-simple",
+        "a1-present-continuous"
+      ]
+    },
+    {
+      "id": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "unitId": "a2-unit-01",
+      "order": 4,
+      "kind": "comparison",
+      "title": "Past Simple vs Past Continuous",
+      "summary": "Kesintiye uğrayan eylemler: when ve while.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-past-continuous"
+      ]
+    },
+    {
+      "id": "a2-will",
+      "levelId": "a2",
+      "unitId": "a2-unit-02",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Future: Will",
+      "summary": "Tahmin, anlık karar, söz ve teklif.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a2-going-to",
+      "levelId": "a2",
+      "unitId": "a2-unit-02",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Be Going To",
+      "summary": "Plan ve kanıta dayalı tahmin.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a2-present-continuous-future",
+      "levelId": "a2",
+      "unitId": "a2-unit-02",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Present Continuous for Future",
+      "summary": "Kesinleşmiş planlar ve randevular.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a1-present-continuous"
+      ]
+    },
+    {
+      "id": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "unitId": "a2-unit-02",
+      "order": 4,
+      "kind": "comparison",
+      "title": "Will vs Be Going To",
+      "summary": "Anlık karar mı, önceden plan mı?",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-will",
+        "a2-going-to"
+      ]
+    },
+    {
+      "id": "a2-present-perfect",
+      "levelId": "a2",
+      "unitId": "a2-unit-03",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Present Perfect",
+      "summary": "Have/has + V3: deneyim, sonucu süren eylemler.",
+      "estimatedMinutes": 25,
+      "prerequisiteIds": [
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "unitId": "a2-unit-03",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Ever, Never, Just, Already, Yet",
+      "summary": "Present Perfect ile kullanılan zarflar.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-present-perfect"
+      ]
+    },
+    {
+      "id": "a2-for-since",
+      "levelId": "a2",
+      "unitId": "a2-unit-03",
+      "order": 3,
+      "kind": "lesson",
+      "title": "For & Since",
+      "summary": "Süre ve başlangıç noktası.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a2-present-perfect"
+      ]
+    },
+    {
+      "id": "a2-present-perfect-vs-past-simple",
+      "levelId": "a2",
+      "unitId": "a2-unit-03",
+      "order": 4,
+      "kind": "comparison",
+      "title": "Present Perfect vs Past Simple",
+      "summary": "Bitmiş zaman mı, şimdiyle bağlantı mı?",
+      "estimatedMinutes": 25,
+      "prerequisiteIds": [
+        "a2-present-perfect",
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "a2-quantifiers",
+      "levelId": "a2",
+      "unitId": "a2-unit-04",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Much, Many, A Lot Of, A Few, A Little",
+      "summary": "Sayılabilen/sayılamayan isimlerle miktar bildirmek.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-countable-some-any"
+      ]
+    },
+    {
+      "id": "a2-too-enough",
+      "levelId": "a2",
+      "unitId": "a2-unit-04",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Too & Enough",
+      "summary": "Fazlalık ve yeterlilik.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a2-quantifiers"
+      ]
+    },
+    {
+      "id": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "unitId": "a2-unit-05",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Comparative & Superlative Adjectives",
+      "summary": "-er/-est, more/most ve düzensiz biçimler.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-comparatives-basic"
+      ]
+    },
+    {
+      "id": "a2-as-as",
+      "levelId": "a2",
+      "unitId": "a2-unit-05",
+      "order": 2,
+      "kind": "lesson",
+      "title": "As … As",
+      "summary": "Eşitlik ve eşitsizlik karşılaştırması.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a2-comparatives-superlatives"
+      ]
+    },
+    {
+      "id": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "unitId": "a2-unit-05",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Adjectives & Adverbs",
+      "summary": "Quick/quickly: sıfat ve zarf farkı.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": []
+    },
+    {
+      "id": "a2-must-have-to",
+      "levelId": "a2",
+      "unitId": "a2-unit-06",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Must, Mustn't, Have To, Don't Have To",
+      "summary": "Zorunluluk, yasak ve gereksizlik.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a1-can"
+      ]
+    },
+    {
+      "id": "a2-should",
+      "levelId": "a2",
+      "unitId": "a2-unit-06",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Should & Shouldn't",
+      "summary": "Tavsiye ve görüş bildirmek.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a1-can"
+      ]
+    },
+    {
+      "id": "a2-zero-conditional",
+      "levelId": "a2",
+      "unitId": "a2-unit-07",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Zero Conditional",
+      "summary": "Genel doğrular ve kesin sonuçlar.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a2-first-conditional",
+      "levelId": "a2",
+      "unitId": "a2-unit-07",
+      "order": 2,
+      "kind": "lesson",
+      "title": "First Conditional",
+      "summary": "Gerçek ve olası gelecek durumlar.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-zero-conditional",
+        "a2-will"
+      ]
+    },
+    {
+      "id": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Gerund & Infinitive: Intro",
+      "summary": "Enjoy doing / want to do.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Relative Clauses: Intro",
+      "summary": "Who, which, that ile kişi ve şeyleri tanımlamak.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-present-simple"
+      ]
+    },
+    {
+      "id": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Indefinite Pronouns",
+      "summary": "Someone, anything, nobody, everywhere …",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-countable-some-any"
+      ]
+    },
+    {
+      "id": "a2-question-tags-intro",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Question Tags: Intro",
+      "summary": "…, isn't it? / …, don't you?",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a1-present-simple",
+        "a1-to-be"
+      ]
+    },
+    {
+      "id": "a2-so-because",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 5,
+      "kind": "lesson",
+      "title": "So & Because",
+      "summary": "Neden ve sonuç bildirmek.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a1-conjunctions"
+      ]
+    },
+    {
+      "id": "a2-passive-basic",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 6,
+      "kind": "lesson",
+      "title": "Passive Voice: Basic",
+      "summary": "Present ve Past Simple'da edilgen yapı.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "a2-reported-speech-basic",
+      "levelId": "a2",
+      "unitId": "a2-unit-08",
+      "order": 7,
+      "kind": "lesson",
+      "title": "Reported Speech: Basic",
+      "summary": "Said that … ile aktarma.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "unitId": "b1-unit-01",
+      "order": 1,
+      "kind": "comparison",
+      "title": "Present Perfect vs Past Simple: Advanced",
+      "summary": "Yeni haberler, bitmemiş zaman ifadeleri, deneyim.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-present-perfect-vs-past-simple"
+      ]
+    },
+    {
+      "id": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "unitId": "b1-unit-01",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Present Perfect Continuous",
+      "summary": "Süreç ve süre vurgusu; have been + -ing.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-present-perfect",
+        "a2-for-since"
+      ]
+    },
+    {
+      "id": "b1-past-perfect",
+      "levelId": "b1",
+      "unitId": "b1-unit-01",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Past Perfect & Past Simple",
+      "summary": "Geçmişteki iki olaydan önce olanı göstermek.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "b1-future-continuous",
+      "levelId": "b1",
+      "unitId": "b1-unit-02",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Future Continuous",
+      "summary": "Gelecekte belirli bir anda sürecek eylemler.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-will"
+      ]
+    },
+    {
+      "id": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "unitId": "b1-unit-02",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Future Perfect: Intro",
+      "summary": "Gelecekte bir noktadan önce bitmiş olacak eylemler.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-present-perfect",
+        "a2-will"
+      ]
+    },
+    {
+      "id": "b1-future-forms-review",
+      "levelId": "b1",
+      "unitId": "b1-unit-02",
+      "order": 3,
+      "kind": "comparison",
+      "title": "Future Forms Compared",
+      "summary": "Will, going to, present continuous, present simple.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a2-will-vs-going-to",
+        "a2-present-continuous-future"
+      ]
+    },
+    {
+      "id": "b1-second-conditional",
+      "levelId": "b1",
+      "unitId": "b1-unit-03",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Second Conditional",
+      "summary": "Hayalî veya düşük olasılıklı durumlar.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-first-conditional",
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "b1-first-vs-second-conditional",
+      "levelId": "b1",
+      "unitId": "b1-unit-03",
+      "order": 2,
+      "kind": "comparison",
+      "title": "First vs Second Conditional",
+      "summary": "Gerçek olasılık mı, hayal mi?",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "b1-second-conditional"
+      ]
+    },
+    {
+      "id": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "unitId": "b1-unit-03",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Third Conditional: Intro",
+      "summary": "Geçmişte olmamış durumlar ve sonuçları.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-second-conditional",
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b1-wish-intro",
+      "levelId": "b1",
+      "unitId": "b1-unit-03",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Wish & If Only: Intro",
+      "summary": "Şimdiki durumlar hakkında dilek.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b1-second-conditional"
+      ]
+    },
+    {
+      "id": "b1-passive-tenses",
+      "levelId": "b1",
+      "unitId": "b1-unit-04",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Passive Voice in Different Tenses",
+      "summary": "Tüm temel zamanlarda edilgen yapı ve by.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-passive-basic",
+        "a2-present-perfect"
+      ]
+    },
+    {
+      "id": "b1-reported-speech",
+      "levelId": "b1",
+      "unitId": "b1-unit-04",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Reported Speech",
+      "summary": "Zaman kaydırma ve zaman/yer ifadeleri.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-reported-speech-basic",
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b1-reported-questions",
+      "levelId": "b1",
+      "unitId": "b1-unit-04",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Reported Questions",
+      "summary": "Asked if/whether, asked where …",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-reported-speech"
+      ]
+    },
+    {
+      "id": "b1-say-tell",
+      "levelId": "b1",
+      "unitId": "b1-unit-04",
+      "order": 4,
+      "kind": "comparison",
+      "title": "Say vs Tell",
+      "summary": "Kime söylendiğine göre say ve tell.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a2-reported-speech-basic"
+      ]
+    },
+    {
+      "id": "b1-causative-intro",
+      "levelId": "b1",
+      "unitId": "b1-unit-04",
+      "order": 5,
+      "kind": "lesson",
+      "title": "Causative Have: Intro",
+      "summary": "Bir işi başkasına yaptırmak.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b1-passive-tenses"
+      ]
+    },
+    {
+      "id": "b1-verb-patterns",
+      "levelId": "b1",
+      "unitId": "b1-unit-05",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Gerund, Infinitive & Verb Patterns",
+      "summary": "Fiillerden sonra -ing mi to mu; anlam değiştiren fiiller.",
+      "estimatedMinutes": 20,
+      "prerequisiteIds": [
+        "a2-gerund-infinitive-intro"
+      ]
+    },
+    {
+      "id": "b1-used-to",
+      "levelId": "b1",
+      "unitId": "b1-unit-05",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Used To",
+      "summary": "Geçmişteki alışkanlık ve durumlar.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-past-simple"
+      ]
+    },
+    {
+      "id": "b1-be-get-used-to",
+      "levelId": "b1",
+      "unitId": "b1-unit-05",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Be Used To & Get Used To",
+      "summary": "Alışkın olmak ve alışmak.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-used-to",
+        "b1-verb-patterns"
+      ]
+    },
+    {
+      "id": "b1-defining-relative",
+      "levelId": "b1",
+      "unitId": "b1-unit-06",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Defining Relative Clauses",
+      "summary": "Who, which, that, whose, where; zamirin atlanması.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a2-relative-clauses-intro"
+      ]
+    },
+    {
+      "id": "b1-non-defining-relative",
+      "levelId": "b1",
+      "unitId": "b1-unit-06",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Non-defining Relative Clauses",
+      "summary": "Virgüllü ek bilgi cümlecikleri.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-defining-relative"
+      ]
+    },
+    {
+      "id": "b1-modals-deduction",
+      "levelId": "b1",
+      "unitId": "b1-unit-07",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Modals of Deduction",
+      "summary": "Must, might, may, could, can't ile şimdiki çıkarım.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a2-must-have-to"
+      ]
+    },
+    {
+      "id": "b1-should-have",
+      "levelId": "b1",
+      "unitId": "b1-unit-07",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Should Have & Shouldn't Have",
+      "summary": "Geçmişe dair pişmanlık ve eleştiri.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-should",
+        "a2-present-perfect"
+      ]
+    },
+    {
+      "id": "b1-articles-advanced",
+      "levelId": "b1",
+      "unitId": "b1-unit-08",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Articles: Advanced",
+      "summary": "Genellemeler, kurumlar, coğrafi adlar.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a1-articles"
+      ]
+    },
+    {
+      "id": "b1-quantifiers",
+      "levelId": "b1",
+      "unitId": "b1-unit-08",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Quantifiers: Both, Either, Neither, All",
+      "summary": "Miktar ve seçim belirleyicileri.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "a2-quantifiers"
+      ]
+    },
+    {
+      "id": "b1-question-tags",
+      "levelId": "b1",
+      "unitId": "b1-unit-08",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Question Tags",
+      "summary": "Tüm zamanlarda ve özel durumlarda soru ekleri.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-question-tags-intro"
+      ]
+    },
+    {
+      "id": "b1-linking-words",
+      "levelId": "b1",
+      "unitId": "b1-unit-09",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Linking Words: Although, Despite, However",
+      "summary": "Zıtlık, ekleme ve sonuç bağlaçları.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "a2-so-because"
+      ]
+    },
+    {
+      "id": "b1-so-such",
+      "levelId": "b1",
+      "unitId": "b1-unit-09",
+      "order": 2,
+      "kind": "lesson",
+      "title": "So & Such",
+      "summary": "So + sıfat, such + isim öbeği.",
+      "estimatedMinutes": 10,
+      "prerequisiteIds": [
+        "a2-too-enough"
+      ]
+    },
+    {
+      "id": "b1-clauses",
+      "levelId": "b1",
+      "unitId": "b1-unit-09",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Adjective & Adverb Clauses",
+      "summary": "Cümleciklerin işlevi: niteleme ve zaman/neden/koşul.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-defining-relative",
+        "b1-linking-words"
+      ]
+    },
+    {
+      "id": "b2-perfect-forms",
+      "levelId": "b2",
+      "unitId": "b2-unit-01",
+      "order": 1,
+      "kind": "comparison",
+      "title": "Perfect Forms Review",
+      "summary": "Tüm perfect ve perfect continuous yapıların karşılaştırması.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "b1-present-perfect-continuous",
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b2-past-perfect-continuous",
+      "levelId": "b2",
+      "unitId": "b2-unit-01",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Past Perfect Continuous",
+      "summary": "Geçmişteki bir andan önce süregelen eylemler.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b2-future-perfect-continuous",
+      "levelId": "b2",
+      "unitId": "b2-unit-01",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Future Perfect & Future Continuous",
+      "summary": "Gelecekte tamamlanmış ve süren eylemler.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-future-continuous",
+        "b1-future-perfect-intro"
+      ]
+    },
+    {
+      "id": "b2-narrative-tenses",
+      "levelId": "b2",
+      "unitId": "b2-unit-01",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Narrative Tenses & Tense Consistency",
+      "summary": "Hikâye anlatımında zaman uyumu.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "b2-past-perfect-continuous"
+      ]
+    },
+    {
+      "id": "b2-third-conditional",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Third Conditional in Detail",
+      "summary": "Could have, might have ile üçüncü tip.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-third-conditional-intro"
+      ]
+    },
+    {
+      "id": "b2-mixed-conditionals",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Mixed Conditionals",
+      "summary": "Geçmiş koşul–şimdiki sonuç ve tersi.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "b2-third-conditional"
+      ]
+    },
+    {
+      "id": "b2-conditionals-without-if",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Conditionals Without If",
+      "summary": "Unless, provided that, as long as, otherwise.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-first-vs-second-conditional"
+      ]
+    },
+    {
+      "id": "b2-wish-if-only",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Wish & If Only",
+      "summary": "Şimdi, geçmiş ve gelecek için dilek; wish + would.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-wish-intro",
+        "b1-past-perfect"
+      ]
+    },
+    {
+      "id": "b2-would-rather-had-better",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 5,
+      "kind": "lesson",
+      "title": "Would Rather & Had Better",
+      "summary": "Tercih ve güçlü tavsiye.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-should"
+      ]
+    },
+    {
+      "id": "b2-subjunctive",
+      "levelId": "b2",
+      "unitId": "b2-unit-02",
+      "order": 6,
+      "kind": "lesson",
+      "title": "Subjunctive: Intro",
+      "summary": "Suggest/insist that + yalın fiil; it's time …",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b2-wish-if-only"
+      ]
+    },
+    {
+      "id": "b2-past-deduction",
+      "levelId": "b2",
+      "unitId": "b2-unit-03",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Modals of Deduction in the Past",
+      "summary": "Must have, might have, can't have.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-modals-deduction"
+      ]
+    },
+    {
+      "id": "b2-advanced-modals",
+      "levelId": "b2",
+      "unitId": "b2-unit-03",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Advanced Modal Verbs",
+      "summary": "Needn't have, be supposed to, be able to …",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b2-past-deduction"
+      ]
+    },
+    {
+      "id": "b2-passive-advanced",
+      "levelId": "b2",
+      "unitId": "b2-unit-04",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Passive Voice: Advanced",
+      "summary": "Modal edilgen, iki nesneli fiiller, it is said that, get passive.",
+      "estimatedMinutes": 25,
+      "prerequisiteIds": [
+        "b1-passive-tenses"
+      ]
+    },
+    {
+      "id": "b2-have-get-done",
+      "levelId": "b2",
+      "unitId": "b2-unit-04",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Have / Get Something Done",
+      "summary": "Ettirgen yapının tüm zamanlarda kullanımı.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b1-causative-intro"
+      ]
+    },
+    {
+      "id": "b2-reporting-verbs",
+      "levelId": "b2",
+      "unitId": "b2-unit-05",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Reporting Verbs",
+      "summary": "Advise, deny, suggest, promise … ve kalıpları.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-reported-speech",
+        "b1-verb-patterns"
+      ]
+    },
+    {
+      "id": "b2-reported-speech-advanced",
+      "levelId": "b2",
+      "unitId": "b2-unit-05",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Reported Speech: Advanced",
+      "summary": "Zaman kaydırmanın gerekmediği durumlar.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-reported-questions"
+      ]
+    },
+    {
+      "id": "b2-relative-clauses-advanced",
+      "levelId": "b2",
+      "unitId": "b2-unit-06",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Advanced Relative Clauses",
+      "summary": "Edatlı ilgi zamirleri, whom, of which.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-non-defining-relative"
+      ]
+    },
+    {
+      "id": "b2-participle-clauses",
+      "levelId": "b2",
+      "unitId": "b2-unit-06",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Reduced Relative & Participle Clauses",
+      "summary": "-ing ve V3 ile kısaltılmış cümlecikler.",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "b2-relative-clauses-advanced"
+      ]
+    },
+    {
+      "id": "b2-cleft-sentences",
+      "levelId": "b2",
+      "unitId": "b2-unit-06",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Cleft Sentences",
+      "summary": "It is … that / What I need is …",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b1-defining-relative"
+      ]
+    },
+    {
+      "id": "b2-inversion",
+      "levelId": "b2",
+      "unitId": "b2-unit-06",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Inversion",
+      "summary": "Never have I…, Not only … but also, Hardly …",
+      "estimatedMinutes": 18,
+      "prerequisiteIds": [
+        "b2-perfect-forms"
+      ]
+    },
+    {
+      "id": "b2-gerund-infinitive-advanced",
+      "levelId": "b2",
+      "unitId": "b2-unit-07",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Advanced Gerund & Infinitive",
+      "summary": "Perfect/passive infinitive ve gerund.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-verb-patterns"
+      ]
+    },
+    {
+      "id": "b2-complex-noun-phrases",
+      "levelId": "b2",
+      "unitId": "b2-unit-07",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Complex Noun Phrases",
+      "summary": "Uzun isim öbeklerini kurmak ve okumak.",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b2-participle-clauses"
+      ]
+    },
+    {
+      "id": "b2-determiners-advanced",
+      "levelId": "b2",
+      "unitId": "b2-unit-07",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Advanced Articles, Determiners & Quantifiers",
+      "summary": "Each/every, a great deal of, the + sıfat …",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-articles-advanced",
+        "b1-quantifiers"
+      ]
+    },
+    {
+      "id": "b2-complex-comparatives",
+      "levelId": "b2",
+      "unitId": "b2-unit-07",
+      "order": 4,
+      "kind": "lesson",
+      "title": "Complex Comparative Structures",
+      "summary": "The more … the more, far/much + comparative.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "a2-comparatives-superlatives"
+      ]
+    },
+    {
+      "id": "b2-discourse-markers",
+      "levelId": "b2",
+      "unitId": "b2-unit-08",
+      "order": 1,
+      "kind": "lesson",
+      "title": "Linking Devices & Discourse Markers",
+      "summary": "Nevertheless, whereas, on the other hand …",
+      "estimatedMinutes": 15,
+      "prerequisiteIds": [
+        "b1-linking-words"
+      ]
+    },
+    {
+      "id": "b2-emphasis",
+      "levelId": "b2",
+      "unitId": "b2-unit-08",
+      "order": 2,
+      "kind": "lesson",
+      "title": "Emphasis Structures",
+      "summary": "Do/does vurgusu, the very, itself, at all.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b2-cleft-sentences"
+      ]
+    },
+    {
+      "id": "b2-ellipsis-substitution",
+      "levelId": "b2",
+      "unitId": "b2-unit-08",
+      "order": 3,
+      "kind": "lesson",
+      "title": "Ellipsis & Substitution",
+      "summary": "So do I, I hope so, one/ones, tekrarı önlemek.",
+      "estimatedMinutes": 12,
+      "prerequisiteIds": [
+        "b1-question-tags"
+      ]
+    }
+  ]
+}
