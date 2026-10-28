@@ -1,0 +1,2670 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-have-got",
+  "levelId": "a1",
+  "title": "Have Got / Has Got",
+  "objectives": [
+    "Türkçedeki “var / yok” cümlelerini have got ile kurmak",
+    "Özneye göre have got ve has got seçmek",
+    "Olumsuz (haven’t / hasn’t got) ve soru (Have / Has … got?) yapmak; do / does kullanmamak",
+    "Kısa biçimleri (I’ve got, she’s got) tanımak ve ’s’in has demek olduğunu bilmek",
+    "Kısa cevap vermek (Yes, I have.)",
+    "Eylem anlamındaki have ile got kullanılmadığını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Have got nedir?",
+      "paragraphs": [
+        "Have got (ve onun üçüncü tekil biçimi has got), sahip olduğun şeyleri, ailendeki kişileri, dış görünüşünü ve hastalıkları anlatır. Türkçede bunların hepsini “var / yok” ile söyleriz: “Bir arabam var”, “Kardeşim yok”, “Mavi gözleri var”.",
+        "İşte bu yüzden Türkçedeki “var” cümlelerinin büyük bölümü İngilizcede have got ile kurulur: I have got a car. (Bir arabam var.) I haven’t got a brother. (Erkek kardeşim yok.)",
+        "Have got’ın yapısı to be fiiline benzer: olumsuz ve soru yaparken do / does kullanılmaz; have / has’in kendisi yer değiştirir ya da yanına not gelir. “Odada bir masa var” gibi bir yerde bir şeyin bulunduğunu söylemek için ise there is / there are kullanılır; bu ayrı bir derstir."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: have got ve has got",
+      "paragraphs": [
+        "Özneye göre iki biçim kullanırsın. He, she, it (ve onların yerine geçen tekil isimler) ile has got, diğer öznelerle have got gelir:"
+      ],
+      "formulas": [
+        {
+          "label": "I, you, we, they",
+          "pattern": "I / You / We / They + have got + …",
+          "exampleIds": [
+            "ex-have-got-01",
+            "ex-have-got-02",
+            "ex-have-got-06",
+            "ex-have-got-07"
+          ]
+        },
+        {
+          "label": "He, she, it",
+          "pattern": "He / She / It + has got + …",
+          "exampleIds": [
+            "ex-have-got-03",
+            "ex-have-got-04",
+            "ex-have-got-05"
+          ]
+        },
+        {
+          "label": "İsimler",
+          "pattern": "My father = he → My father has got …   My parents = they → My parents have got …",
+          "exampleIds": [
+            "ex-have-got-08",
+            "ex-have-got-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "contractions",
+      "type": "rule",
+      "title": "Kısa biçimler: I’ve got, she’s got",
+      "paragraphs": [
+        "Konuşmada ve yazışmada have / has kısaltılır. Dikkat: she’s got içindeki ’s, “is” değil “has” demektir."
+      ],
+      "formulas": [
+        {
+          "label": "Have → ’ve",
+          "pattern": "I’ve got,  you’ve got,  we’ve got,  they’ve got",
+          "exampleIds": [
+            "ex-have-got-10",
+            "ex-have-got-16"
+          ]
+        },
+        {
+          "label": "Has → ’s",
+          "pattern": "he’s got,  she’s got,  it’s got",
+          "exampleIds": [
+            "ex-have-got-11",
+            "ex-have-got-12"
+          ]
+        },
+        {
+          "label": "’s iki anlama gelebilir",
+          "pattern": "He’s got a car. (has)   He’s a doctor. (is)",
+          "exampleIds": [
+            "ex-have-got-32"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "Have got’ta olumsuz ve soru yaparken do / does kullanılmaz. Olumsuz için have / has’in yanına not eklenir; soru için have / has özneden önce gelir."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "I / You / We / They + have got  |  He / She / It + has got",
+          "exampleIds": [
+            "ex-have-got-01",
+            "ex-have-got-03",
+            "ex-have-got-06",
+            "ex-have-got-08"
+          ],
+          "note": "Kısa biçimler: I’ve got, she’s got."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "Özne + haven’t got / hasn’t got + …",
+          "exampleIds": [
+            "ex-have-got-17",
+            "ex-have-got-18",
+            "ex-have-got-20",
+            "ex-have-got-21"
+          ],
+          "note": "have not → haven’t, has not → hasn’t. Don’t have got ✗: I don’t have got a car yanlıştır."
+        },
+        {
+          "label": "Soru",
+          "formula": "Have / Has + özne + got + …?",
+          "exampleIds": [
+            "ex-have-got-22",
+            "ex-have-got-23",
+            "ex-have-got-24",
+            "ex-have-got-25"
+          ],
+          "note": "Do you have got ✗ → Have you got ✓. Got, özneden sonra gelir."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, özne + have / has.  |  No, özne + haven’t / hasn’t.",
+          "exampleIds": [
+            "ex-have-got-26",
+            "ex-have-got-27"
+          ],
+          "note": "Kısa cevapta got tekrarlanmaz: Yes, I have. (Yes, I have got. ✗)"
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "Soru sözcüğü + have / has + özne + got …?",
+          "exampleIds": [
+            "ex-have-got-28",
+            "ex-have-got-29"
+          ],
+          "note": "What have you got? = Ne var / Elinde ne var?"
+        }
+      ]
+    },
+    {
+      "id": "examples-positive",
+      "type": "examples",
+      "title": "Örnekler: olumlu cümleler",
+      "paragraphs": [
+        "Önce özneye bak, sonra have got mu has got mu olduğunu kendine açıkla."
+      ],
+      "exampleIds": [
+        "ex-have-got-01",
+        "ex-have-got-02",
+        "ex-have-got-03",
+        "ex-have-got-04",
+        "ex-have-got-05",
+        "ex-have-got-06",
+        "ex-have-got-07",
+        "ex-have-got-08",
+        "ex-have-got-09",
+        "ex-have-got-10",
+        "ex-have-got-11",
+        "ex-have-got-12",
+        "ex-have-got-13",
+        "ex-have-got-14",
+        "ex-have-got-15",
+        "ex-have-got-16"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler, sorular ve kısa cevaplar",
+      "exampleIds": [
+        "ex-have-got-17",
+        "ex-have-got-18",
+        "ex-have-got-19",
+        "ex-have-got-20",
+        "ex-have-got-21",
+        "ex-have-got-22",
+        "ex-have-got-23",
+        "ex-have-got-24",
+        "ex-have-got-25",
+        "ex-have-got-26",
+        "ex-have-got-27",
+        "ex-have-got-28",
+        "ex-have-got-29"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Kullanım alanları",
+      "paragraphs": [
+        "Have got şu konularda kullanılır:"
+      ],
+      "items": [
+        {
+          "heading": "Sahip olduğun şeyler",
+          "body": "Araba, telefon, ev, para gibi sahip olduğun nesneler.",
+          "exampleIds": [
+            "ex-have-got-01",
+            "ex-have-got-02",
+            "ex-have-got-06",
+            "ex-have-got-08"
+          ]
+        },
+        {
+          "heading": "Aile ve yakınlar",
+          "body": "Kardeş, çocuk gibi aile bireylerin: I’ve got a brother.",
+          "exampleIds": [
+            "ex-have-got-03",
+            "ex-have-got-04",
+            "ex-have-got-07"
+          ]
+        },
+        {
+          "heading": "Dış görünüş",
+          "body": "Göz rengi, saç gibi fiziksel özellikler. Saç ve göz gibi çoğul ya da sayılamayan sözcüklerin önünde a / an kullanılmaz: long hair, blue eyes.",
+          "exampleIds": [
+            "ex-have-got-11",
+            "ex-have-got-12",
+            "ex-have-got-13"
+          ]
+        },
+        {
+          "heading": "Hastalık ve rahatsızlık",
+          "body": "Baş ağrısı, nezle gibi geçici rahatsızlıklar.",
+          "exampleIds": [
+            "ex-have-got-14",
+            "ex-have-got-15"
+          ]
+        },
+        {
+          "heading": "Plan, fikir ve zaman",
+          "body": "Fikir, sınav, randevu gibi şeyler: I’ve got an idea. We’ve got a test tomorrow.",
+          "exampleIds": [
+            "ex-have-got-10",
+            "ex-have-got-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "have-action",
+      "type": "rule",
+      "title": "Eylem anlamında have: got eklenmez",
+      "paragraphs": [
+        "Have got yalnızca “sahip olmak” anlamında kullanılır. Have, “yapmak, yemek, içmek, geçirmek” gibi eylem anlamlarındaysa got eklenmez ve olumsuz / soru cümleleri do / does ile kurulur (Present Simple dersinde işlenecek)."
+      ],
+      "formulas": [
+        {
+          "label": "Sahiplik (have got olur)",
+          "pattern": "I have got a car.   She has got a cold.",
+          "exampleIds": [
+            "ex-have-got-01",
+            "ex-have-got-15"
+          ]
+        },
+        {
+          "label": "Eylem (got eklenmez)",
+          "pattern": "have breakfast,  have lunch,  have a shower,  have a party,  have a good time",
+          "exampleIds": [
+            "ex-have-got-30",
+            "ex-have-got-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "have-alone",
+      "type": "notes",
+      "tone": "info",
+      "title": "Have got mı, sadece have mi?",
+      "items": [
+        "Sahiplik anlamında I have a car ile I have got a car aynı anlama gelir. Have got daha çok İngiliz İngilizcesinde ve günlük konuşmada yaygındır; Amerikan İngilizcesinde genellikle yalnızca have kullanılır.",
+        "Sadece have ile olumsuz ve soru yaparken do / does gerekir: I don’t have a car. Do you have a pen? Bu yapı Present Simple dersinde ayrıntılı işlenecek.",
+        "Aynı cümlede ikisini karıştırma: Do you have got ✗. Ya Have you got ya da Do you have."
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I has got a car.",
+          "right": "I have got a car.",
+          "explanation": "I, you, we, they ile have got kullanılır; has yalnızca he, she, it içindir."
+        },
+        {
+          "wrong": "She have got a brother.",
+          "right": "She has got a brother.",
+          "explanation": "She üçüncü tekil kişidir; has got gerekir."
+        },
+        {
+          "wrong": "Have she got a sister?",
+          "right": "Has she got a sister?",
+          "explanation": "Soruda da özneye uygun biçim seçilir: she → has."
+        },
+        {
+          "wrong": "He haven’t got a phone.",
+          "right": "He hasn’t got a phone.",
+          "explanation": "Olumsuzda da he ile hasn’t gelir."
+        },
+        {
+          "wrong": "Do you have got a pen?",
+          "right": "Have you got a pen?  /  Do you have a pen?",
+          "explanation": "Have got’ta do kullanılmaz. Ya have got’ı soruda öne al ya da sadece have ile do kullan."
+        },
+        {
+          "wrong": "She has got a long hair.",
+          "right": "She has got long hair.",
+          "explanation": "Saç sayılamayan bir sözcük gibi kullanılır; önünde a gelmez."
+        },
+        {
+          "wrong": "I have got breakfast at eight.",
+          "right": "I have breakfast at eight.",
+          "explanation": "Kahvaltı etmek bir eylemdir; eylem anlamındaki have ile got kullanılmaz."
+        },
+        {
+          "wrong": "He has got 20 years old.",
+          "right": "He is 20 years old.",
+          "explanation": "Yaş to be ile söylenir (am / is / are), have got ile söylenmez."
+        },
+        {
+          "wrong": "Have you got a pen? Yes, I have got.",
+          "right": "Have you got a pen? Yes, I have.",
+          "explanation": "Kısa cevapta got tekrarlanmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Have got ve To be",
+          "body": "Have got sahip olduğunu söyler (She has got a car). To be ise kimlik, durum ya da yaş anlatır (She is a doctor. She is 25). “25 yaşında” için has got kullanılmaz.",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "Have got ve There is / There are",
+          "body": "Have got bir kişinin sahip olduğunu söyler (I’ve got a table). There is / are bir yerde bir şeyin bulunduğunu söyler (There is a table in the room).",
+          "lessonId": "a1-there-is-are"
+        },
+        {
+          "topic": "Have got ve Present Simple",
+          "body": "Sahiplik anlamında have got ile have aynıdır, ama sadece have ile olumsuz ve soru do / does ile kurulur.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Have got ve sahiplik sıfatları",
+          "body": "“Benim arabam” demek için my car kullanılır; “bir arabam var” demek için I have got a car.",
+          "lessonId": "a1-possessives"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Have got’ta do / does kullanılmaz: “Do you have got …?” yoktur; “Have you got …?” denir.",
+        "He, she, it ile has got, diğerleriyle have got: She has got, they have got.",
+        "Kısa cevapta got eklenmez: Yes, I have. / No, she hasn’t.",
+        "Eylem anlamındaki have ile got kullanılmaz: have breakfast, have a shower.",
+        "He’s got = he has got; He’s a doctor = he is a doctor. Anlamı cümleden anlarsın."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-have-got-01",
+        "q-have-got-02",
+        "q-have-got-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-have-got-01",
+      "en": "I have got a car.",
+      "tr": "Bir arabam var.",
+      "highlight": "have got",
+      "note": "I → have got"
+    },
+    {
+      "id": "ex-have-got-02",
+      "en": "You have got a nice bag.",
+      "tr": "Güzel bir çantan var.",
+      "highlight": "have got"
+    },
+    {
+      "id": "ex-have-got-03",
+      "en": "He has got a brother.",
+      "tr": "Bir erkek kardeşi var.",
+      "highlight": "has got",
+      "note": "He → has got"
+    },
+    {
+      "id": "ex-have-got-04",
+      "en": "She has got two sisters.",
+      "tr": "İki kız kardeşi var.",
+      "highlight": "has got"
+    },
+    {
+      "id": "ex-have-got-05",
+      "en": "It has got four legs.",
+      "tr": "Dört bacağı var.",
+      "highlight": "has got",
+      "note": "It → has got (hayvan veya nesne)"
+    },
+    {
+      "id": "ex-have-got-06",
+      "en": "We have got a big garden.",
+      "tr": "Büyük bir bahçemiz var.",
+      "highlight": "have got"
+    },
+    {
+      "id": "ex-have-got-07",
+      "en": "They have got three children.",
+      "tr": "Üç çocukları var.",
+      "highlight": "have got"
+    },
+    {
+      "id": "ex-have-got-08",
+      "en": "My father has got a new phone.",
+      "tr": "Babamın yeni bir telefonu var.",
+      "highlight": "has got",
+      "note": "My father = he → has got"
+    },
+    {
+      "id": "ex-have-got-09",
+      "en": "My parents have got a house in Izmir.",
+      "tr": "Anne babamın İzmir’de bir evi var.",
+      "highlight": "have got",
+      "note": "My parents = they → have got"
+    },
+    {
+      "id": "ex-have-got-10",
+      "en": "I've got an idea.",
+      "tr": "Bir fikrim var.",
+      "highlight": "'ve got",
+      "note": "I have → I’ve"
+    },
+    {
+      "id": "ex-have-got-11",
+      "en": "She's got blue eyes.",
+      "tr": "Mavi gözleri var.",
+      "highlight": "'s got",
+      "note": "She’s got = She has got"
+    },
+    {
+      "id": "ex-have-got-12",
+      "en": "He's got short brown hair.",
+      "tr": "Kısa kahverengi saçları var.",
+      "highlight": "'s got"
+    },
+    {
+      "id": "ex-have-got-13",
+      "en": "My sister has got long hair.",
+      "tr": "Kız kardeşimin uzun saçları var.",
+      "highlight": "has got",
+      "note": "Long hair: önünde a / an yok."
+    },
+    {
+      "id": "ex-have-got-14",
+      "en": "I've got a headache.",
+      "tr": "Başım ağrıyor. (Bir baş ağrım var.)",
+      "highlight": "'ve got"
+    },
+    {
+      "id": "ex-have-got-15",
+      "en": "She has got a cold.",
+      "tr": "Nezle olmuş.",
+      "highlight": "has got"
+    },
+    {
+      "id": "ex-have-got-16",
+      "en": "We've got a test tomorrow.",
+      "tr": "Yarın sınavımız var.",
+      "highlight": "'ve got"
+    },
+    {
+      "id": "ex-have-got-17",
+      "en": "I haven't got a car.",
+      "tr": "Arabam yok.",
+      "highlight": "haven't got",
+      "note": "have not → haven’t"
+    },
+    {
+      "id": "ex-have-got-18",
+      "en": "She hasn't got a brother.",
+      "tr": "Erkek kardeşi yok.",
+      "highlight": "hasn't got",
+      "note": "has not → hasn’t"
+    },
+    {
+      "id": "ex-have-got-19",
+      "en": "We haven't got any money.",
+      "tr": "Hiç paramız yok.",
+      "highlight": "haven't got"
+    },
+    {
+      "id": "ex-have-got-20",
+      "en": "He hasn't got a phone.",
+      "tr": "Telefonu yok.",
+      "highlight": "hasn't got"
+    },
+    {
+      "id": "ex-have-got-21",
+      "en": "They haven't got a garden.",
+      "tr": "Bahçeleri yok.",
+      "highlight": "haven't got"
+    },
+    {
+      "id": "ex-have-got-22",
+      "en": "Have you got a pen?",
+      "tr": "Kalemin var mı?",
+      "highlight": "Have",
+      "note": "Soruda have / has özneden önce gelir."
+    },
+    {
+      "id": "ex-have-got-23",
+      "en": "Has she got a sister?",
+      "tr": "Kız kardeşi var mı?",
+      "highlight": "Has"
+    },
+    {
+      "id": "ex-have-got-24",
+      "en": "Have they got a car?",
+      "tr": "Arabaları var mı?",
+      "highlight": "Have"
+    },
+    {
+      "id": "ex-have-got-25",
+      "en": "Has your school got a library?",
+      "tr": "Okulunuzun kütüphanesi var mı?",
+      "highlight": "Has"
+    },
+    {
+      "id": "ex-have-got-26",
+      "en": "Yes, I have.",
+      "tr": "Evet, var.",
+      "highlight": "have",
+      "note": "Kısa cevapta got tekrarlanmaz."
+    },
+    {
+      "id": "ex-have-got-27",
+      "en": "No, she hasn't.",
+      "tr": "Hayır, yok.",
+      "highlight": "hasn't"
+    },
+    {
+      "id": "ex-have-got-28",
+      "en": "What have you got in your bag?",
+      "tr": "Çantanda ne var?",
+      "highlight": "have"
+    },
+    {
+      "id": "ex-have-got-29",
+      "en": "How many brothers has he got?",
+      "tr": "Kaç erkek kardeşi var?",
+      "highlight": "has"
+    },
+    {
+      "id": "ex-have-got-30",
+      "en": "I have breakfast at eight.",
+      "tr": "Saat sekizde kahvaltı ederim.",
+      "highlight": "have breakfast",
+      "note": "Eylem anlamında have: got eklenmez."
+    },
+    {
+      "id": "ex-have-got-31",
+      "en": "She has a shower every morning.",
+      "tr": "Her sabah duş alır.",
+      "highlight": "has a shower",
+      "note": "Eylem anlamında has: got eklenmez."
+    },
+    {
+      "id": "ex-have-got-32",
+      "en": "He's got a car. He's a doctor.",
+      "tr": "Arabası var. O bir doktor.",
+      "highlight": "'s got",
+      "note": "İlk ’s = has, ikinci ’s = is"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-have-got-01",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ got a car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile have got kullanılır: I have got a car.",
+      "optionExplanations": {
+        "b": "Has yalnızca he, she, it ile kullanılır.",
+        "c": "Am ile got birlikte kullanılmaz.",
+        "d": "Have got’ta do kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-02",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ got a big garden.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "We ile have got kullanılır: We have got a big garden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Has yalnızca he, she, it ile kullanılır."
+        },
+        {
+          "answer": "are",
+          "explanation": "Are ile got birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-03",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir arabam var.",
+      "answer": [
+        "I",
+        "have",
+        "got",
+        "a",
+        "car"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has"
+      ],
+      "explanation": "Özne + have got + nesne: I have got a car. (Türkçedeki “var” burada have got olur.)",
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-04",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I has got a car.",
+      "errorSpan": "has",
+      "answers": [
+        "I have got a car.",
+        "I've got a car."
+      ],
+      "explanation": "I ile has değil have kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have gots a car.",
+          "explanation": "Got değişmez; -s eklenmez."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-05",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir kardeşim var.",
+      "hint": "kardeş: brother (erkek kardeş)",
+      "answers": [
+        "I have got a brother.",
+        "I've got a brother."
+      ],
+      "targetStructure": "Have got: “var” cümlesi",
+      "explanation": "Türkçedeki “var” cümlesi İngilizcede have got ile kurulur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am a brother.",
+          "explanation": "Bu “ben bir erkek kardeşim” demek olur; “var” için have got gerekir."
+        },
+        {
+          "answer": "I have a got brother.",
+          "explanation": "Got, have’den hemen sonra gelir: have got."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative",
+        "family"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-06",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ got two brothers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "She için has got kullanılır: She has got two brothers.",
+      "optionExplanations": {
+        "a": "Have, I / you / we / they ile kullanılır.",
+        "c": "Is ile got birlikte kullanılmaz.",
+        "d": "Have got’ta does kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-07",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "My father ___ got a new phone.",
+      "answers": [
+        "has"
+      ],
+      "explanation": "My father = he; has got kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "My father tekildir (he); have değil has gerekir."
+        },
+        {
+          "answer": "is",
+          "explanation": "Is ile got birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-08",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onun (kadın) iki kız kardeşi var.",
+      "answer": [
+        "She",
+        "has",
+        "got",
+        "two",
+        "sisters"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have"
+      ],
+      "explanation": "She ile has got kullanılır: She has got two sisters.",
+      "tags": [
+        "have-got",
+        "affirmative",
+        "family"
+      ],
+      "errorTags": [
+        "word_order",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-09",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She have got a brother.",
+      "errorSpan": "have",
+      "answers": [
+        "She has got a brother.",
+        "She's got a brother."
+      ],
+      "explanation": "She üçüncü tekil kişidir; has got gerekir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has gots a brother.",
+          "explanation": "Got değişmez; -s eklenmez."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-10",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onun (erkek) yeni bir telefonu var.",
+      "hint": "telefon: phone",
+      "answers": [
+        "He has got a new phone.",
+        "He's got a new phone."
+      ],
+      "targetStructure": "Has got: he ile",
+      "explanation": "He ile has got kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He have got a new phone.",
+          "explanation": "He ile have değil has kullanılır."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-11",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you got a pen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have"
+        },
+        {
+          "id": "b",
+          "text": "Has"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda have özneden önce gelir: Have you got a pen?",
+      "optionExplanations": {
+        "b": "Has, he / she / it ile kullanılır.",
+        "c": "Do ile have got sorusu kurulmaz.",
+        "d": "Are ile got birlikte kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-12",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ got three children.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "They ile have got kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "They çoğuldur; has değil have gerekir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-13",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ got a phone.",
+      "hint": "Telefonu yok.",
+      "options": [
+        {
+          "id": "a",
+          "text": "haven't"
+        },
+        {
+          "id": "b",
+          "text": "hasn't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "isn't"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "He ile olumsuz biçim hasn’t got’tur: He hasn’t got a phone.",
+      "optionExplanations": {
+        "a": "Haven’t, I / you / we / they ile kullanılır.",
+        "c": "Doesn’t ile have got olumsuzu kurulmaz.",
+        "d": "Isn’t ile got birlikte kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-14",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bahçeleri yok.",
+      "answer": [
+        "They",
+        "haven't",
+        "got",
+        "a",
+        "garden"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "hasn't"
+      ],
+      "explanation": "Olumsuz: haven’t got. They ile haven’t kullanılır.",
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-15",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ got a car.",
+      "hint": "Cümleyi olumsuz yap: Arabam yok.",
+      "answers": [
+        "haven't",
+        "have not"
+      ],
+      "explanation": "Olumsuz için have’in yanına not eklenir: I haven’t got a car.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Have got’ta don’t kullanılmaz: haven’t got."
+        },
+        {
+          "answer": "hasn't",
+          "explanation": "I ile hasn’t değil haven’t kullanılır."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-16",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ got a brother.",
+      "hint": "Cümleyi olumsuz yap: Erkek kardeşi yok.",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "explanation": "She ile olumsuz biçim hasn’t got’tur: She hasn’t got a brother.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "haven't",
+          "explanation": "She ile haven’t değil hasn’t kullanılır."
+        },
+        {
+          "answer": "doesn't",
+          "explanation": "Have got’ta doesn’t kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-17",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have she got a sister?",
+      "errorSpan": "Have",
+      "answers": [
+        "Has she got a sister?"
+      ],
+      "explanation": "She ile soruda has kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does she got a sister?",
+          "explanation": "Have got sorusunda does kullanılmaz; has özneden önce gelir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-18",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Arabamız yok.",
+      "hint": "araba: car",
+      "answers": [
+        "We haven't got a car.",
+        "We have not got a car."
+      ],
+      "targetStructure": "Olumsuz have got: haven’t got",
+      "explanation": "Türkçedeki “yok” olumsuz have got ile kurulur: haven’t got.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We don't have got a car.",
+          "explanation": "Have got’ta don’t kullanılmaz."
+        },
+        {
+          "answer": "We hasn't got a car.",
+          "explanation": "We ile hasn’t değil haven’t kullanılır."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-19",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kalemin var mı?",
+      "answer": [
+        "Have",
+        "you",
+        "got",
+        "a",
+        "pen"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Has",
+        "Do"
+      ],
+      "explanation": "Soruda have özneden önce gelir: Have you got a pen?",
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-20",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She have got a bike."
+        },
+        {
+          "id": "b",
+          "text": "She has got a bike."
+        },
+        {
+          "id": "c",
+          "text": "She has a got bike."
+        },
+        {
+          "id": "d",
+          "text": "She is got a bike."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "She ile has got kullanılır: She has got a bike.",
+      "optionExplanations": {
+        "a": "She ile have değil has kullanılır.",
+        "c": "Got, has’ten hemen sonra gelir: has got.",
+        "d": "Is ile got birlikte kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-21",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi soru doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Has she got a sister?"
+        },
+        {
+          "id": "b",
+          "text": "Have she got a sister?"
+        },
+        {
+          "id": "c",
+          "text": "Does she got a sister?"
+        },
+        {
+          "id": "d",
+          "text": "Has she a got sister?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has özneden önce gelir: Has she got a sister?",
+      "optionExplanations": {
+        "b": "She ile have değil has kullanılır.",
+        "c": "Have got sorusunda does kullanılmaz.",
+        "d": "Got, özneden hemen sonra gelmelidir."
+      },
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-have-got-22",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Kardeşim yok.” cümlesinin İngilizcesi hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I haven't got a brother."
+        },
+        {
+          "id": "b",
+          "text": "I don't got a brother."
+        },
+        {
+          "id": "c",
+          "text": "I am not a brother."
+        },
+        {
+          "id": "d",
+          "text": "I no have brother."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Türkçedeki “yok” olumsuz have got ile kurulur: I haven’t got a brother.",
+      "optionExplanations": {
+        "b": "Have got’ta don’t kullanılmaz.",
+        "c": "Bu “ben erkek kardeş değilim” demek olur.",
+        "d": "Olumsuz için no değil not (haven’t) kullanılır."
+      },
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-have-got-23",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ your school got a library?",
+      "answers": [
+        "Has"
+      ],
+      "explanation": "Your school = it; soruda has özneden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Have",
+          "explanation": "School tekildir (it); has gerekir."
+        },
+        {
+          "answer": "Does",
+          "explanation": "Have got sorusunda does kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-have-got-24",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Have you got a pen? Yes, I ___.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "Kısa cevapta got tekrarlanmaz: Yes, I have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "'ve",
+          "explanation": "Olumlu kısa cevapta kısaltma yapılmaz."
+        },
+        {
+          "answer": "got",
+          "explanation": "Kısa cevapta yalnızca have verilir: Yes, I have."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-25",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Has he got a car? No, he ___.",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "explanation": "Soru has ile kurulduğu için olumsuz kısa cevap hasn’t’tir: No, he hasn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "haven't",
+          "explanation": "He ile haven’t değil hasn’t kullanılır."
+        },
+        {
+          "answer": "doesn't",
+          "explanation": "Have got’ta doesn’t kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-have-got-26",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kalemin var mı?",
+      "hint": "kalem: pen",
+      "answers": [
+        "Have you got a pen?"
+      ],
+      "targetStructure": "Have got sorusu: Have + özne + got …?",
+      "explanation": "Soruda have özneden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you got a pen?",
+          "explanation": "Do ile have got sorusu kurulmaz."
+        },
+        {
+          "answer": "You have got a pen?",
+          "explanation": "Soru yaparken have özneden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-have-got-27",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onun (kadın) mavi gözleri var.",
+      "hint": "göz: eyes",
+      "answers": [
+        "She has got blue eyes.",
+        "She's got blue eyes."
+      ],
+      "targetStructure": "Has got: dış görünüş",
+      "explanation": "Göz rengi için has got kullanılır. Eyes çoğul olduğu için a gelmez.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has got a blue eyes.",
+          "explanation": "Eyes çoğuldur; önünde a kullanılmaz."
+        },
+        {
+          "answer": "She is blue eyes.",
+          "explanation": "Bu cümlede is ile have got anlamı karıştırılmış; sahiplik için has got gerekir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "appearance"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-have-got-28",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He haven't got a phone.",
+      "errorSpan": "haven't",
+      "answers": [
+        "He hasn't got a phone.",
+        "He has not got a phone."
+      ],
+      "explanation": "He ile olumsuz biçim hasn’t got’tur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He doesn't got a phone.",
+          "explanation": "Have got’ta doesn’t kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-29",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you have got a pen?",
+      "errorSpan": "Do you have got",
+      "answers": [
+        "Have you got a pen?",
+        "Do you have a pen?"
+      ],
+      "explanation": "Have got’ta do kullanılmaz. İki doğru yol var: Have you got a pen? ya da Do you have a pen?",
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-have-got-30",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“He’s got a car.” cümlesindeki ’s neyin kısaltmasıdır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Have got yapısında ’s, has demektir: He has got a car.",
+      "optionExplanations": {
+        "b": "He is a car anlamsız olurdu; got’tan önceki ’s, has’tir.",
+        "c": "Does yardımcı fiil olarak kısaltılmaz.",
+        "d": "Was ile got birlikte kullanılmaz."
+      },
+      "tags": [
+        "have-got",
+        "contractions"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-31",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have got breakfast at eight."
+        },
+        {
+          "id": "b",
+          "text": "I have breakfast at eight."
+        },
+        {
+          "id": "c",
+          "text": "I has breakfast at eight."
+        },
+        {
+          "id": "d",
+          "text": "I am have breakfast at eight."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kahvaltı etmek bir eylemdir; eylem anlamındaki have ile got kullanılmaz.",
+      "optionExplanations": {
+        "a": "Eylem anlamındaki have ile got eklenmez.",
+        "c": "I ile has değil have kullanılır.",
+        "d": "Am ile have yan yana gelmez."
+      },
+      "tags": [
+        "have-got",
+        "have-action"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-32",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Has she got a car?” sorusuna olumsuz kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, she hasn't."
+        },
+        {
+          "id": "b",
+          "text": "No, she doesn't."
+        },
+        {
+          "id": "c",
+          "text": "No, she hasn't got."
+        },
+        {
+          "id": "d",
+          "text": "No, she isn't."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta got tekrarlanmaz: No, she hasn’t.",
+      "optionExplanations": {
+        "b": "Soru has ile kurulmuş; doesn’t kullanılmaz.",
+        "c": "Kısa cevapta got tekrarlanmaz.",
+        "d": "Isn’t, to be fiilinin olumsuzudur."
+      },
+      "tags": [
+        "have-got",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-33",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has got a long hair."
+        },
+        {
+          "id": "b",
+          "text": "She has got long hair."
+        },
+        {
+          "id": "c",
+          "text": "She has got long hairs."
+        },
+        {
+          "id": "d",
+          "text": "She have got long hair."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Saç, sayılamayan bir sözcük gibi kullanılır; önünde a gelmez: long hair.",
+      "optionExplanations": {
+        "a": "Hair sayılamaz, önünde a kullanılmaz.",
+        "c": "Bu anlamda hair çoğul olmaz.",
+        "d": "She ile have değil has kullanılır."
+      },
+      "tags": [
+        "have-got",
+        "appearance"
+      ],
+      "errorTags": [
+        "article_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-34",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ you got in your bag?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "Wh- sorusunda de have özneden önce gelir: What have you got in your bag?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Have got’ta do kullanılmaz."
+        },
+        {
+          "answer": "has",
+          "explanation": "You ile have kullanılır."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-have-got-35",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How many brothers ___ he got?",
+      "answers": [
+        "has"
+      ],
+      "explanation": "He ile has kullanılır: How many brothers has he got?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "He ile have değil has kullanılır."
+        },
+        {
+          "answer": "does",
+          "explanation": "Have got sorusunda does kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-have-got-36",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I ___ breakfast at eight.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "Kahvaltı etmek bir eylemdir; eylem anlamındaki have ile got kullanılmaz: I have breakfast.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have got",
+          "explanation": "Eylem anlamındaki have ile got kullanılmaz."
+        },
+        {
+          "answer": "has",
+          "explanation": "I ile has değil have kullanılır."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "have-action"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-37",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kız kardeşi var mı? (O kadın)",
+      "answer": [
+        "Has",
+        "she",
+        "got",
+        "a",
+        "sister"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Have",
+        "Does"
+      ],
+      "explanation": "Soruda has özneden önce gelir: Has she got a sister?",
+      "tags": [
+        "have-got",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-38",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çantanda ne var?",
+      "answer": [
+        "What",
+        "have",
+        "you",
+        "got",
+        "in",
+        "your",
+        "bag"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "has",
+        "do"
+      ],
+      "explanation": "Soru sözcüğü + have + özne + got: What have you got in your bag?",
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-39",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kaç erkek kardeşi var? (O erkek)",
+      "answer": [
+        "How",
+        "many",
+        "brothers",
+        "has",
+        "he",
+        "got"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "have",
+        "do"
+      ],
+      "explanation": "How many + isim + has + özne + got: How many brothers has he got?",
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-40",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onun (kadın) mavi gözleri var.",
+      "answer": [
+        "She",
+        "has",
+        "got",
+        "blue",
+        "eyes"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "a",
+        "have"
+      ],
+      "explanation": "Dış görünüş için has got kullanılır; eyes çoğul olduğu için a gelmez.",
+      "tags": [
+        "have-got",
+        "appearance"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-have-got-41",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has got a long hair.",
+      "errorSpan": "a long hair",
+      "answers": [
+        "She has got long hair."
+      ],
+      "explanation": "Hair sayılamayan bir sözcük gibi kullanılır; önünde a gelmez.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has got a long hairs.",
+          "explanation": "Hair bu anlamda çoğul olmaz ve a ile birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "appearance"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-have-got-42",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have got breakfast at eight.",
+      "errorSpan": "have got",
+      "answers": [
+        "I have breakfast at eight."
+      ],
+      "explanation": "Kahvaltı etmek bir eylemdir; eylem anlamındaki have ile got kullanılmaz.",
+      "tags": [
+        "have-got",
+        "have-action"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-43",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He has got 20 years old.",
+      "errorSpan": "has got",
+      "answers": [
+        "He is 20 years old.",
+        "He is 20.",
+        "He's 20 years old.",
+        "He's 20."
+      ],
+      "explanation": "Yaş to be ile söylenir (is), have got ile söylenmez.",
+      "tags": [
+        "have-got",
+        "age"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-have-got-44",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have you got a pen? Yes, I have got.",
+      "errorSpan": "have got.",
+      "answers": [
+        "Have you got a pen? Yes, I have.",
+        "Have you got a pen? Yes I have.",
+        "Yes, I have.",
+        "Yes I have."
+      ],
+      "explanation": "Kısa cevapta got tekrarlanmaz: Yes, I have.",
+      "tags": [
+        "have-got",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-have-got-45",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çantanda ne var?",
+      "hint": "çanta: bag",
+      "answers": [
+        "What have you got in your bag?"
+      ],
+      "targetStructure": "Wh- sorusu: What + have + özne + got …?",
+      "explanation": "Soru sözcüğü başa gelir, ardından have, özne ve got: What have you got in your bag?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What you have got in your bag?",
+          "explanation": "Soru yaparken have özneden önce gelmelidir."
+        },
+        {
+          "answer": "What do you got in your bag?",
+          "explanation": "Have got’ta do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-46",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın sınavımız var.",
+      "hint": "sınav: test",
+      "answers": [
+        "We have got a test tomorrow.",
+        "We've got a test tomorrow.",
+        "Tomorrow we have got a test.",
+        "Tomorrow we've got a test."
+      ],
+      "targetStructure": "Have got: plan / sınav",
+      "explanation": "Yarın bir sınav “var” olduğu için have got kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We are a test tomorrow.",
+          "explanation": "Are ile “sınavımız var” anlamı kurulamaz; have got gerekir."
+        },
+        {
+          "answer": "We have a got test tomorrow.",
+          "explanation": "Got, have’den hemen sonra gelir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-have-got-47",
+      "lessonId": "a1-have-got",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kaç erkek kardeşi var? (O erkek)",
+      "hint": "kaç: how many, kardeş: brother",
+      "answers": [
+        "How many brothers has he got?"
+      ],
+      "targetStructure": "Wh- sorusu: How many + isim + has + özne + got?",
+      "explanation": "He ile has kullanılır ve soruda özneden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How many brothers have he got?",
+          "explanation": "He ile have değil has kullanılır."
+        },
+        {
+          "answer": "How many brothers he has got?",
+          "explanation": "Soru yaparken has özneden önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "have-got",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-have-got",
+    "title": "Have Got: Konu sonu sınavı",
+    "description": "Olumlu, olumsuz, soru, kısa cevap ve eylem anlamındaki have konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-have-got-exam-01",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ got a bike.",
+        "options": [
+          {
+            "id": "a",
+            "text": "have"
+          },
+          {
+            "id": "b",
+            "text": "has"
+          },
+          {
+            "id": "c",
+            "text": "is"
+          },
+          {
+            "id": "d",
+            "text": "does"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "He ile has got kullanılır.",
+        "optionExplanations": {
+          "a": "I / you / we / they ile kullanılır.",
+          "c": "Is ile got birlikte kullanılmaz.",
+          "d": "Have got’ta does kullanılmaz."
+        },
+        "tags": [
+          "have-got",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-02",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "My sister ___ got long hair.",
+        "answers": [
+          "has"
+        ],
+        "explanation": "My sister = she; has got kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "My sister tekildir; has gerekir."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "affirmative",
+          "appearance"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-03",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "İki kız kardeşim var.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "two",
+          "sisters"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has"
+        ],
+        "explanation": "I ile have got kullanılır: I have got two sisters.",
+        "tags": [
+          "have-got",
+          "affirmative",
+          "family"
+        ],
+        "errorTags": [
+          "word_order",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-04",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They has got a car.",
+        "errorSpan": "has",
+        "answers": [
+          "They have got a car.",
+          "They've got a car."
+        ],
+        "explanation": "They ile have got kullanılır.",
+        "tags": [
+          "have-got",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-05",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bir fikrim var.",
+        "hint": "fikir: idea (an ile kullanılır)",
+        "answers": [
+          "I have got an idea.",
+          "I've got an idea."
+        ],
+        "targetStructure": "Have got: fikir",
+        "explanation": "Fikir sahibi olmak have got ile söylenir; idea ünlü ile başladığı için an gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have got a idea.",
+            "explanation": "Idea ünlü ses ile başlar; a değil an kullanılır."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-06",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ they got a house?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Have"
+          },
+          {
+            "id": "b",
+            "text": "Has"
+          },
+          {
+            "id": "c",
+            "text": "Do"
+          },
+          {
+            "id": "d",
+            "text": "Are"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "They ile soruda have özneden önce gelir.",
+        "optionExplanations": {
+          "b": "Has, he / she / it ile kullanılır.",
+          "c": "Do ile have got sorusu kurulmaz.",
+          "d": "Are ile got birlikte kullanılmaz."
+        },
+        "tags": [
+          "have-got",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-07",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "We ___ got a test tomorrow.",
+        "answers": [
+          "have"
+        ],
+        "explanation": "We ile have got kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "has",
+            "explanation": "We ile has kullanılmaz."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-08",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Telefonu yok. (O erkek)",
+        "answer": [
+          "He",
+          "hasn't",
+          "got",
+          "a",
+          "phone"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "haven't"
+        ],
+        "explanation": "He ile olumsuz biçim hasn’t got’tur.",
+        "tags": [
+          "have-got",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-09",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Has you got a pen?",
+        "errorSpan": "Has",
+        "answers": [
+          "Have you got a pen?"
+        ],
+        "explanation": "You ile have kullanılır; soruda özneden önce gelir.",
+        "tags": [
+          "have-got",
+          "question"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-10",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Onların çocukları yok.",
+        "hint": "çocuk: children (çoğul)",
+        "answers": [
+          "They haven't got any children.",
+          "They have not got any children.",
+          "They haven't got children.",
+          "They have not got children."
+        ],
+        "targetStructure": "Olumsuz have got: haven’t got",
+        "explanation": "They ile haven’t got kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "They don't got children.",
+            "explanation": "Have got’ta don’t kullanılmaz."
+          },
+          {
+            "answer": "They hasn't got children.",
+            "explanation": "They ile hasn’t değil haven’t kullanılır."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-11",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We haven't got a dog."
+          },
+          {
+            "id": "b",
+            "text": "We hasn't got a dog."
+          },
+          {
+            "id": "c",
+            "text": "We don't got a dog."
+          },
+          {
+            "id": "d",
+            "text": "We no have a dog."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "We ile olumsuz biçim haven’t got’tur.",
+        "optionExplanations": {
+          "b": "We ile hasn’t değil haven’t kullanılır.",
+          "c": "Have got’ta don’t kullanılmaz.",
+          "d": "Olumsuz için no değil not (haven’t) kullanılır."
+        },
+        "tags": [
+          "have-got",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-12",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She ___ got a car.",
+        "hint": "Cümleyi olumsuz yap: Arabası yok.",
+        "answers": [
+          "hasn't",
+          "has not"
+        ],
+        "explanation": "She ile olumsuz biçim hasn’t got’tur.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "haven't",
+            "explanation": "She ile hasn’t kullanılır."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-13",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ the shop got milk?",
+        "answers": [
+          "Has"
+        ],
+        "explanation": "The shop = it; soruda has özneden önce gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Have",
+            "explanation": "Shop tekildir; has gerekir."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-14",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She haven't got a brother.",
+        "errorSpan": "haven't",
+        "answers": [
+          "She hasn't got a brother.",
+          "She has not got a brother."
+        ],
+        "explanation": "She ile olumsuz biçim hasn’t got’tur.",
+        "tags": [
+          "have-got",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-15",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangi cümlede have got kullanılamaz?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I have got a headache."
+          },
+          {
+            "id": "b",
+            "text": "I have got a shower every day."
+          },
+          {
+            "id": "c",
+            "text": "I have got two sisters."
+          },
+          {
+            "id": "d",
+            "text": "I have got a cold."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "“Duş almak” bir eylemdir; eylem anlamındaki have ile got kullanılmaz: I have a shower every day.",
+        "optionExplanations": {
+          "a": "Baş ağrısı bir rahatsızlıktır; have got kullanılabilir.",
+          "c": "Kardeş sahibi olmak için have got kullanılabilir.",
+          "d": "Nezle bir rahatsızlıktır; have got kullanılabilir."
+        },
+        "tags": [
+          "have-got",
+          "have-action"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-16",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onların bir bahçesi var mı?",
+        "answer": [
+          "Have",
+          "they",
+          "got",
+          "a",
+          "garden"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Has",
+          "Do"
+        ],
+        "explanation": "Soruda have özneden önce gelir: Have they got a garden?",
+        "tags": [
+          "have-got",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-17",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have got a headaches.",
+        "errorSpan": "headaches",
+        "answers": [
+          "I have got a headache.",
+          "I've got a headache."
+        ],
+        "explanation": "A ile tekil isim kullanılır: a headache.",
+        "tags": [
+          "have-got",
+          "affirmative"
+        ],
+        "errorTags": [
+          "plural_form",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-have-got-exam-18",
+        "lessonId": "a1-have-got",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Okulunuzun kütüphanesi var mı?",
+        "hint": "okulunuz: your school, kütüphane: library",
+        "answers": [
+          "Has your school got a library?"
+        ],
+        "targetStructure": "Have got sorusu: Has + tekil özne + got …?",
+        "explanation": "Your school = it; soruda has özneden önce gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Have your school got a library?",
+            "explanation": "School tekildir; has gerekir."
+          },
+          {
+            "answer": "Does your school got a library?",
+            "explanation": "Have got sorusunda does kullanılmaz."
+          }
+        ],
+        "tags": [
+          "have-got",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "subject_verb_agreement"
+        ]
+      }
+    ]
+  }
+}
