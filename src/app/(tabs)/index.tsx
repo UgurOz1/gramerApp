@@ -3,7 +3,9 @@ import { StyleSheet, View } from "react-native";
 
 import { AppText, Button, Card, Screen, SectionHeader } from "@/components/common";
 import { LevelCard } from "@/components/progress/LevelCard";
-import { getCatalogStats, getLessonsForLevel, getLevels } from "@/features/curriculum/catalog";
+import { getCatalogStats, getLessonSummary, getLessonsForLevel, getLevels, isLessonAvailable } from "@/features/curriculum/catalog";
+import { getLessonStatus, lessonStatusLabels } from "@/domain/progress/lessonStatus";
+import { useUserState } from "@/services/progress/userStore";
 import { spacing } from "@/theme";
 
 const STUDY_FLOW = [
@@ -17,6 +19,12 @@ const STUDY_FLOW = [
 export default function HomeScreen() {
   const levels = getLevels();
   const stats = getCatalogStats();
+  const { lastLessonId, lessonProgress } = useUserState();
+  const lastLesson = lastLessonId ? getLessonSummary(lastLessonId) : undefined;
+  const firstAvailable = getLevels()
+    .flatMap((l) => getLessonsForLevel(l.id))
+    .find((l) => isLessonAvailable(l.id));
+  const continueLesson = lastLesson && isLessonAvailable(lastLesson.id) ? lastLesson : firstAvailable;
 
   return (
     <Screen>
@@ -26,6 +34,20 @@ export default function HomeScreen() {
           {"A1'den B2'ye İngilizce grameri adım adım öğren. Her şey cihazında, internet gerekmez."}
         </AppText>
       </View>
+
+      {continueLesson ? (
+        <Card>
+          <AppText variant="label" color="accent">{lastLesson && continueLesson.id === lastLesson.id ? "KALDIĞIN YERDEN DEVAM ET" : "BURADAN BAŞLA"}</AppText>
+          <AppText variant="subheading">{continueLesson.title}</AppText>
+          <AppText variant="caption" color="textSecondary">
+            {lessonStatusLabels[getLessonStatus(lessonProgress[continueLesson.id])]} · ~{continueLesson.estimatedMinutes} dk
+          </AppText>
+          <Button
+            title="Devam et"
+            onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: continueLesson.id } })}
+          />
+        </Card>
+      ) : null}
 
       <Card>
         <AppText variant="subheading">Nasıl çalışırsın?</AppText>

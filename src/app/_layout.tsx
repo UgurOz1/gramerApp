@@ -61,6 +61,10 @@ export default function RootLayout() {
         >
           <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
           <Stack.Screen name="level/[levelId]" options={{ title: "" }} />
+          <Stack.Screen name="lesson/[lessonId]" options={{ title: "" }} />
+          <Stack.Screen name="practice/[lessonId]" options={{ title: "Alıştırma" }} />
+          <Stack.Screen name="exam/[lessonId]" options={{ title: "Sınav" }} />
+          <Stack.Screen name="exam/result" options={{ title: "Sınav sonucu" }} />
         </Stack>
       ) : (
         <View style={styles.error}>

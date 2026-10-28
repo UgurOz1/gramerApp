@@ -10,11 +10,13 @@ import {
   getUnitsForLevel,
   isLessonAvailable,
 } from "@/features/curriculum/catalog";
+import { useUserState } from "@/services/progress/userStore";
 import { spacing } from "@/theme";
 
 export default function LevelScreen() {
   const { levelId } = useLocalSearchParams<{ levelId: string }>();
   const level = getLevel(levelId);
+  const { lessonProgress } = useUserState();
 
   if (!level) {
     return (
@@ -38,6 +40,7 @@ export default function LevelScreen() {
                 key={lesson.id}
                 lesson={lesson}
                 available={isLessonAvailable(lesson.id)}
+                progress={lessonProgress[lesson.id]}
                 prerequisiteTitles={lesson.prerequisiteIds
                   .map((id) => getLessonSummary(id)?.title)
                   .filter((t): t is string => !!t)}

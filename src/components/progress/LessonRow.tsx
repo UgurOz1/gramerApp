@@ -1,48 +1,72 @@
-import { StyleSheet, View } from "react-native";
+import { router } from "expo-router";
+import { Pressable, StyleSheet, View } from "react-native";
 
-import { AppText, Badge } from "@/components/common";
-import type { LessonSummary } from "@/domain/models";
-import { colors, spacing } from "@/theme";
+import { AppText, Badge, Icon, type BadgeTone } from "@/components/common";
+import type { LessonProgress, LessonSummary } from "@/domain/models";
+import { getLessonStatus, lessonStatusLabels, type LessonStatus } from "@/domain/progress/lessonStatus";
+import { colors, minTouchSize, spacing } from "@/theme";
 
 type Props = {
   lesson: LessonSummary;
   available: boolean;
+  progress: LessonProgress | undefined;
   prerequisiteTitles: string[];
   isLast: boolean;
 };
 
+const statusTone: Record<LessonStatus, BadgeTone> = {
+  not_started: "neutral",
+  learning: "accent",
+  practice_done: "accent",
+  exam_done: "success",
+};
+
 /**
- * Müfredattaki tek konu satırı. İçeriği henüz hazır olmayan konular
- * dokunulabilir gösterilmez; Aşama 3'te ders ekranına bağlanacak.
+ * Müfredattaki tek konu satırı. İçeriği hazır olan konular açılır;
+ * henüz hazır olmayanlar dokunulabilir gösterilmez.
  */
-export function LessonRow({ lesson, available, prerequisiteTitles, isLast }: Props) {
-  return (
-    <View style={[styles.row, !isLast && styles.divider]}>
+export function LessonRow({ lesson, available, progress, prerequisiteTitles, isLast }: Props) {
+  const status = getLessonStatus(progress);
+
+  const body = (
+    <>
       <View style={styles.header}>
-        <AppText variant="bodyStrong" style={styles.title}>
-          {lesson.title}
-        </AppText>
+        <AppText variant="bodyStrong" style={styles.title}>{lesson.title}</AppText>
+        {available ? (
+          <Icon name={{ ios: "chevron.right", android: "chevron_right", web: "chevron_right" }} color={colors.textMuted} size={18} />
+        ) : null}
       </View>
-      <AppText variant="caption" color="textSecondary">
-        {lesson.summary}
-      </AppText>
+      <AppText variant="caption" color="textSecondary">{lesson.summary}</AppText>
       <View style={styles.badges}>
         {lesson.kind === "comparison" ? <Badge label="Karşılaştırma" tone="accent" /> : null}
         <Badge label={`~${lesson.estimatedMinutes} dk`} />
-        {!available ? <Badge label="İçerik hazırlanıyor" tone="warning" /> : null}
+        {available ? <Badge label={lessonStatusLabels[status]} tone={statusTone[status]} /> : <Badge label="İçerik hazırlanıyor" tone="warning" />}
       </View>
       {prerequisiteTitles.length > 0 ? (
-        <AppText variant="caption" color="textMuted">
-          Önce önerilen: {prerequisiteTitles.join(", ")}
-        </AppText>
+        <AppText variant="caption" color="textMuted">Önce önerilen: {prerequisiteTitles.join(", ")}</AppText>
       ) : null}
-    </View>
+    </>
+  );
+
+  const rowStyle = [styles.row, !isLast && styles.divider];
+
+  if (!available) return <View style={rowStyle}>{body}</View>;
+  return (
+    <Pressable
+      style={({ pressed }) => [rowStyle, pressed && styles.pressed]}
+      onPress={() => router.push({ pathname: "/lesson/[lessonId]", params: { lessonId: lesson.id } })}
+      accessibilityRole="button"
+      accessibilityLabel={`${lesson.title}. ${lessonStatusLabels[status]}`}
+    >
+      {body}
+    </Pressable>
   );
 }
 
 const styles = StyleSheet.create({
-  row: { paddingVertical: spacing.md, gap: spacing.xs },
+  row: { paddingVertical: spacing.md, gap: spacing.xs, minHeight: minTouchSize },
   divider: { borderBottomWidth: StyleSheet.hairlineWidth, borderBottomColor: colors.border },
+  pressed: { opacity: 0.7 },
   header: { flexDirection: "row", alignItems: "center", gap: spacing.sm },
   title: { flex: 1 },
   badges: { flexDirection: "row", flexWrap: "wrap", gap: spacing.xs, marginTop: spacing.xs },

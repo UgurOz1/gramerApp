@@ -76,6 +76,26 @@ Tek anahtar altında sürümlü bir kullanıcı durumu (`grammarpath/user-state`
 - Daha yeni bir uygulama sürümünün verisi okunursa üzerine yazılmaz.
 - Ustalık saklanmaz; cevap geçmişinden hesaplanır (tek doğruluk kaynağı).
 
+### Aşama 3: öğrenme akışı
+
+Rotalar: `lesson/[lessonId]` → `practice/[lessonId]` → `exam/[lessonId]` → `exam/result?resultId=…`
+
+- **Ders:** bölümler JSON'dan çizilir (`SectionView`). Dersin sonuna kaydırmak dersi "okundu" yapar.
+  Ders içi anlama kontrolü cevapları `lesson_check` modunda kaydedilir.
+- **Alıştırma:** cevap sonrası anında geri bildirim. Atlanan soru kaydedilmez; tur sonunda
+  atlananlar ve yanlışlar yeniden çözülebilir. Soruların %70'i cevaplanırsa alıştırmalar tamamlanır
+  (`src/constants/progress.ts`).
+- **Sınav:** cevaplar bitene kadar gösterilmez ve kaydedilmez; bitişte tek seferde puanlanır
+  (`scoreExam`), her deneme ayrı kayıt olur. Atlanan soru yanlış sayılmaz ama puan getirmez.
+- **Cevap değerlendirme:** `domain/question-engine/evaluate.ts` (UI'dan bağımsız). Kabul edilen
+  alternatifler içerikte açıkça listelenir; listelenmeyen cevap otomatik doğru sayılmaz.
+- **İlerleme servisi:** `services/progress/progressService.ts` ekranların tek giriş noktasıdır.
+- **İçerik kalitesi testi:** `tests/unit/content/lessonContent.test.ts` her sorunun doğru cevabını,
+  alternatiflerini ve yanlış cevap geri bildirimlerini değerlendiriciyle çalıştırarak doğrular.
+
+İlk ders: `assets/data/levels/a1/a1-to-be.json` (30 örnek, 42 alıştırma, 20 soruluk sınav).
+Yeni ders eklerken JSON'u `src/data/lessonFiles.ts` içine kaydet ve `npm test` çalıştır.
+
 ### Aşama 2 dosyaları
 
 | Dosya | Görev |
@@ -117,7 +137,7 @@ Toplam ders sayısı ve ön koşullar `assets/data/curriculum.json` içindedir.
 2. **Veri mimarisi** — tüm tipler, içerik doğrulayıcı (uygulama açılışında +
    test), depolama katmanı, Jest kurulumu ve temel testler. ✅
 3. **İlk ders (A1 To Be)** — ders ekranı, 5 soru türü, alıştırma akışı,
-   konu sonu sınavı, ilerleme kaydı. Uçtan uca doğrulama.
+   konu sonu sınavı, ilerleme kaydı. Uçtan uca doğrulama. ✅
 4. **Öğrenme motoru** — puanlama, ustalık, yanlışlar, tekrar listesi, karışık test.
 5. **İçerik** — kalan 7 örnek ders, karşılaştırmalar, sonra A1→B2 genişletme.
 6. **İstatistikler ve iyileştirme** — istatistik ekranı, erişilebilirlik, küçük ekran.

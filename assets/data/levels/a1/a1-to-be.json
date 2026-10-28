@@ -1,0 +1,2584 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-to-be",
+  "levelId": "a1",
+  "title": "To Be: Am, Is, Are",
+  "objectives": [
+    "Özneye göre am, is ve are seçmek",
+    "Kısa biçimleri (I’m, he’s, they’re) tanımak ve kullanmak",
+    "Olumsuz cümle kurmak (am not, isn’t, aren’t)",
+    "Soru cümlesi kurmak ve kısa cevap vermek",
+    "Kimlik, meslek, yaş, uyruk, yer, durum ve özellik anlatmak",
+    "Türkçeden gelen sık hataları (fiilsiz cümle, I am agree gibi) ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "To be nedir?",
+      "paragraphs": [
+        "İngilizcede her cümlede bir fiil bulunur. Türkçede “Ben öğrenciyim” derken -im ekini, “O evde” derken ise gizli bir “bulunmak” anlamını kullanırız; fiil sözcüğü görünmez. İngilizcede bu işi ayrı bir sözcük yapar: to be.",
+        "To be fiilinin şimdiki zamandaki üç biçimi am, is ve are’dır. Kim ya da ne hakkında konuştuğuna göre doğru biçimi seçersin.",
+        "Bu fiille şunları anlatırsın: kim olduğunu, mesleğini, yaşını, nereli olduğunu, nerede bulunduğunu, nasıl hissettiğini ve bir şeyin nasıl olduğunu.",
+        "Bu dersin sonunda “I am a student.” gibi cümleleri kurabilecek, olumsuz yapabilecek, soruya çevirebilecek ve kısa cevap verebileceksin."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: özneye göre am, is, are",
+      "paragraphs": [
+        "Özne, cümlede hakkında konuşulan kişi ya da şeydir. To be fiili özneye uyar. Ezberlemek için özneleri üç gruba ayır:"
+      ],
+      "formulas": [
+        {
+          "label": "Ben",
+          "pattern": "I + am",
+          "exampleIds": [
+            "ex-to-be-01",
+            "ex-to-be-20"
+          ]
+        },
+        {
+          "label": "O (tek kişi veya tek şey)",
+          "pattern": "He / She / It + is",
+          "exampleIds": [
+            "ex-to-be-03",
+            "ex-to-be-04",
+            "ex-to-be-05"
+          ]
+        },
+        {
+          "label": "Sen, siz, biz, onlar",
+          "pattern": "You / We / They + are",
+          "exampleIds": [
+            "ex-to-be-02",
+            "ex-to-be-06",
+            "ex-to-be-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-nouns",
+      "type": "rule",
+      "title": "İsimlerle özneyi bulmak",
+      "paragraphs": [
+        "Özne bir isim olduğunda onun yerine geçebilecek zamiri düşün ve o zamire uygun biçimi seç.",
+        "You hem tek kişi (sen) hem de birden fazla kişi (siz) için kullanılır ve her zaman are alır."
+      ],
+      "formulas": [
+        {
+          "label": "Tek kişi",
+          "pattern": "My brother = he → My brother is …",
+          "exampleIds": [
+            "ex-to-be-08"
+          ]
+        },
+        {
+          "label": "Tek şey",
+          "pattern": "The tea = it → The tea is …",
+          "exampleIds": [
+            "ex-to-be-09"
+          ]
+        },
+        {
+          "label": "Birden fazla kişi veya şey",
+          "pattern": "Ayşe and Mert = they → Ayşe and Mert are …",
+          "exampleIds": [
+            "ex-to-be-24",
+            "ex-to-be-23",
+            "ex-to-be-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "To be fiilinin en güzel yanı, olumsuz ve soru yaparken yardımcı bir sözcüğe (do, does) ihtiyaç duymamasıdır. Fiilin kendisi yer değiştirir ya da yanına not gelir."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "Özne + am / is / are + …",
+          "exampleIds": [
+            "ex-to-be-01",
+            "ex-to-be-03",
+            "ex-to-be-07",
+            "ex-to-be-20"
+          ],
+          "note": "Konuşmada kısa biçimler çok yaygındır: I am → I’m, he is → he’s, she is → she’s, it is → it’s, you are → you’re, we are → we’re, they are → they’re."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "Özne + am / is / are + not + …",
+          "exampleIds": [
+            "ex-to-be-10",
+            "ex-to-be-11",
+            "ex-to-be-12",
+            "ex-to-be-13"
+          ],
+          "note": "is not → isn’t, are not → aren’t. I am not → I’m not (“amn’t” kullanılmaz). He is not yerine he’s not, they are not yerine they’re not da denir."
+        },
+        {
+          "label": "Soru",
+          "formula": "Am / Is / Are + özne + …?",
+          "exampleIds": [
+            "ex-to-be-14",
+            "ex-to-be-15",
+            "ex-to-be-16",
+            "ex-to-be-19"
+          ],
+          "note": "Soru yaparken fiil özneden önce gelir. Araya do ya da does girmez."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, özne + am / is / are.  |  No, özne + am not / isn’t / aren’t.",
+          "exampleIds": [
+            "ex-to-be-17",
+            "ex-to-be-18"
+          ],
+          "note": "Olumlu kısa cevapta kısaltma yapılmaz: Yes, I am. (Yes, I’m. ✗). Olumsuz kısa cevapta kısaltma serbesttir: No, I’m not. / No, she isn’t."
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "Soru sözcüğü + am / is / are + özne …?",
+          "exampleIds": [
+            "ex-to-be-25",
+            "ex-to-be-27"
+          ],
+          "note": "Where, what, who, how gibi soru sözcükleri ayrı bir derste (Wh- Questions) ayrıntılı işlenecek. Burada yalnızca to be ile kurulan örneklere bakıyoruz."
+        }
+      ]
+    },
+    {
+      "id": "examples-positive",
+      "type": "examples",
+      "title": "Örnekler: olumlu cümleler",
+      "paragraphs": [
+        "Her cümlede özneyi bul, sonra fiilin neden am, is ya da are olduğunu kendine açıkla."
+      ],
+      "exampleIds": [
+        "ex-to-be-01",
+        "ex-to-be-02",
+        "ex-to-be-03",
+        "ex-to-be-04",
+        "ex-to-be-05",
+        "ex-to-be-06",
+        "ex-to-be-07",
+        "ex-to-be-08",
+        "ex-to-be-09",
+        "ex-to-be-30"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler, sorular ve kısa cevaplar",
+      "exampleIds": [
+        "ex-to-be-10",
+        "ex-to-be-11",
+        "ex-to-be-12",
+        "ex-to-be-13",
+        "ex-to-be-14",
+        "ex-to-be-15",
+        "ex-to-be-16",
+        "ex-to-be-17",
+        "ex-to-be-18",
+        "ex-to-be-19"
+      ]
+    },
+    {
+      "id": "examples-daily",
+      "type": "examples",
+      "title": "Örnekler: günlük hayattan",
+      "exampleIds": [
+        "ex-to-be-20",
+        "ex-to-be-21",
+        "ex-to-be-22",
+        "ex-to-be-23",
+        "ex-to-be-24",
+        "ex-to-be-25",
+        "ex-to-be-26",
+        "ex-to-be-27",
+        "ex-to-be-28",
+        "ex-to-be-29"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Kullanım alanları",
+      "paragraphs": [
+        "To be en çok şu durumlarda kullanılır:"
+      ],
+      "items": [
+        {
+          "heading": "İsim ve kimlik",
+          "body": "Adını ya da kim olduğunu söylerken: My name is Deniz. I am a student.",
+          "exampleIds": [
+            "ex-to-be-28",
+            "ex-to-be-01"
+          ]
+        },
+        {
+          "heading": "Meslek",
+          "body": "Ne iş yaptığını söylerken, mesleğin önüne a / an gelir: He is a doctor. Çoğulda a / an kullanılmaz: They are teachers.",
+          "exampleIds": [
+            "ex-to-be-03",
+            "ex-to-be-07"
+          ]
+        },
+        {
+          "heading": "Yaş",
+          "body": "İngilizcede yaş to be ile söylenir, have ile söylenmez. “years old” kısmı çoğu zaman atılır: I’m 25.",
+          "exampleIds": [
+            "ex-to-be-20",
+            "ex-to-be-08"
+          ]
+        },
+        {
+          "heading": "Uyruk ve geldiği yer",
+          "body": "Nereli olduğunu söylerken to be + from kullanılır.",
+          "exampleIds": [
+            "ex-to-be-26",
+            "ex-to-be-04",
+            "ex-to-be-25"
+          ]
+        },
+        {
+          "heading": "Bulunduğu yer",
+          "body": "Bir kişi ya da şeyin nerede olduğunu söylerken: We are at home.",
+          "exampleIds": [
+            "ex-to-be-06",
+            "ex-to-be-19"
+          ]
+        },
+        {
+          "heading": "Durum ve duygu",
+          "body": "Yorgun, aç, mutlu gibi anlık durumları anlatırken: I am not tired. Are you hungry?",
+          "exampleIds": [
+            "ex-to-be-10",
+            "ex-to-be-15"
+          ]
+        },
+        {
+          "heading": "Özellik",
+          "body": "Bir kişi ya da şeyin nasıl olduğunu anlatırken: The tea is hot. The shops are closed.",
+          "exampleIds": [
+            "ex-to-be-09",
+            "ex-to-be-21",
+            "ex-to-be-23"
+          ]
+        },
+        {
+          "heading": "Hava ve saat",
+          "body": "Hava durumu ve saat söylerken özne her zaman it’tir: It’s cold today. It’s five o’clock.",
+          "exampleIds": [
+            "ex-to-be-22",
+            "ex-to-be-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She teacher.",
+          "right": "She is a teacher.",
+          "explanation": "Türkçede “O öğretmen” diyebiliriz; fiil görünmez. İngilizcede fiil zorunludur, bu yüzden is eklenir. Meslekten önce de a gelir."
+        },
+        {
+          "wrong": "Ali at home.",
+          "right": "Ali is at home.",
+          "explanation": "Yer bildiren cümlelerde de to be unutulmamalıdır."
+        },
+        {
+          "wrong": "I is happy.",
+          "right": "I am happy.",
+          "explanation": "I öznesiyle her zaman am kullanılır."
+        },
+        {
+          "wrong": "They is at home.",
+          "right": "They are at home.",
+          "explanation": "They çoğuldur; çoğul özneyle are gelir."
+        },
+        {
+          "wrong": "My brothers is students.",
+          "right": "My brothers are students.",
+          "explanation": "Brothers çoğul olduğu için onun yerine they diyebilirsin: They are. Dolayısıyla are gerekir."
+        },
+        {
+          "wrong": "I no tired.",
+          "right": "I am not tired.",
+          "explanation": "Olumsuzluk için no değil not kullanılır ve not, to be fiilinden sonra gelir."
+        },
+        {
+          "wrong": "Do you tired?",
+          "right": "Are you tired?",
+          "explanation": "To be ile kurulan sorularda do / does kullanılmaz; are özneden önce gelir."
+        },
+        {
+          "wrong": "I am agree.",
+          "right": "I agree.",
+          "explanation": "Agree zaten bir fiildir. Am / is / are başka bir fiilin yerine geçmez ya da onunla yan yana gelmez. (Am / is / are + -ing yapısı Present Continuous dersinde ayrıca işlenecek.)"
+        },
+        {
+          "wrong": "I have 25 years old.",
+          "right": "I am 25 (years old).",
+          "explanation": "İngilizcede yaş have ile değil to be ile söylenir."
+        },
+        {
+          "wrong": "Yes, I’m.",
+          "right": "Yes, I am.",
+          "explanation": "Olumlu kısa cevapta am / is / are kısaltılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "To be ve have got",
+          "body": "To be bir kişi ya da şeyin kim ya da nasıl olduğunu anlatır (She is tall). Have got / has got ise sahip olunan şeyi anlatır (She has got a car). Birbirinin yerine kullanılmaz.",
+          "lessonId": "a1-have-got"
+        },
+        {
+          "topic": "To be ve Present Simple",
+          "body": "Is / are bir eylem değil, durum ya da kimlik anlatır. Eylemler (work, play, go) için Present Simple kullanılır: She is a teacher. She works in a school.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "To be ve There is / There are",
+          "body": "“Bir yerde bir şey var” demek için there is / there are kullanılır. Yine to be fiili vardır ama özne yerine there gelir.",
+          "lessonId": "a1-there-is-are"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "I ile her zaman am kullanılır. “I is” ya da “I are” yoktur.",
+        "You, tek kişiyi (sen) de birden fazla kişiyi (siz) de anlatsa are alır.",
+        "Olumlu kısa cevaplarda kısaltma yapılmaz: Yes, I am. Yes, she is.",
+        "“Amn’t” diye standart bir kısaltma yoktur; I am not için I’m not denir."
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Tek bir kişi ya da şeyle is, birden fazla kişi ya da şeyle are kullanılır.",
+        "Resmî yazıda kısaltmalardan genellikle kaçınılır; günlük konuşma ve mesajlaşmada kısaltmalar doğaldır.",
+        "Isn’t ve aren’t’in yanında he’s not, they’re not gibi kullanımlar da doğrudur; ikisi de aynı anlama gelir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-to-be-01",
+        "q-to-be-02",
+        "q-to-be-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-to-be-01",
+      "en": "I am a student.",
+      "tr": "Ben bir öğrenciyim.",
+      "highlight": "am",
+      "note": "I → am"
+    },
+    {
+      "id": "ex-to-be-02",
+      "en": "You are my friend.",
+      "tr": "Sen benim arkadaşımsın.",
+      "highlight": "are",
+      "note": "You → are"
+    },
+    {
+      "id": "ex-to-be-03",
+      "en": "He is a doctor.",
+      "tr": "O (erkek) bir doktor.",
+      "highlight": "is",
+      "note": "He → is"
+    },
+    {
+      "id": "ex-to-be-04",
+      "en": "She is from Izmir.",
+      "tr": "O (kadın) İzmirli.",
+      "highlight": "is",
+      "note": "She → is"
+    },
+    {
+      "id": "ex-to-be-05",
+      "en": "It is a big city.",
+      "tr": "O büyük bir şehir.",
+      "highlight": "is",
+      "note": "Nesne, hayvan veya yer için it → is"
+    },
+    {
+      "id": "ex-to-be-06",
+      "en": "We are at home.",
+      "tr": "Biz evdeyiz.",
+      "highlight": "are",
+      "note": "We → are"
+    },
+    {
+      "id": "ex-to-be-07",
+      "en": "They are teachers.",
+      "tr": "Onlar öğretmen.",
+      "highlight": "are",
+      "note": "They → are"
+    },
+    {
+      "id": "ex-to-be-08",
+      "en": "My brother is twenty.",
+      "tr": "Erkek kardeşim yirmi yaşında.",
+      "highlight": "is",
+      "note": "My brother = he → is"
+    },
+    {
+      "id": "ex-to-be-09",
+      "en": "The tea is hot.",
+      "tr": "Çay sıcak.",
+      "highlight": "is",
+      "note": "The tea = it → is"
+    },
+    {
+      "id": "ex-to-be-10",
+      "en": "I am not tired.",
+      "tr": "Yorgun değilim.",
+      "highlight": "am not",
+      "note": "Olumsuz: am + not"
+    },
+    {
+      "id": "ex-to-be-11",
+      "en": "She isn't at school.",
+      "tr": "O okulda değil.",
+      "highlight": "isn't",
+      "note": "is not → isn't"
+    },
+    {
+      "id": "ex-to-be-12",
+      "en": "We aren't late.",
+      "tr": "Geç kalmadık. (Geç değiliz.)",
+      "highlight": "aren't",
+      "note": "are not → aren't"
+    },
+    {
+      "id": "ex-to-be-13",
+      "en": "They aren't ready.",
+      "tr": "Onlar hazır değil.",
+      "highlight": "aren't"
+    },
+    {
+      "id": "ex-to-be-14",
+      "en": "Is he a teacher?",
+      "tr": "O öğretmen mi?",
+      "highlight": "Is",
+      "note": "Soruda is özneden önce gelir."
+    },
+    {
+      "id": "ex-to-be-15",
+      "en": "Are you hungry?",
+      "tr": "Aç mısın?",
+      "highlight": "Are"
+    },
+    {
+      "id": "ex-to-be-16",
+      "en": "Am I late?",
+      "tr": "Geç kaldım mı?",
+      "highlight": "Am"
+    },
+    {
+      "id": "ex-to-be-17",
+      "en": "Yes, I am.",
+      "tr": "Evet, (öyleyim).",
+      "highlight": "am",
+      "note": "Olumlu kısa cevapta kısaltma yapılmaz."
+    },
+    {
+      "id": "ex-to-be-18",
+      "en": "No, she isn't.",
+      "tr": "Hayır, (o) değil.",
+      "highlight": "isn't"
+    },
+    {
+      "id": "ex-to-be-19",
+      "en": "Are they at the park?",
+      "tr": "Onlar parkta mı?",
+      "highlight": "Are"
+    },
+    {
+      "id": "ex-to-be-20",
+      "en": "I'm 25 years old.",
+      "tr": "25 yaşındayım.",
+      "highlight": "I'm",
+      "note": "I'm = I am"
+    },
+    {
+      "id": "ex-to-be-21",
+      "en": "He's tall and she's short.",
+      "tr": "O (erkek) uzun, o (kadın) kısa.",
+      "note": "He's = he is, she's = she is"
+    },
+    {
+      "id": "ex-to-be-22",
+      "en": "It's cold today.",
+      "tr": "Bugün hava soğuk.",
+      "highlight": "It's",
+      "note": "Hava durumunda özne it'tir."
+    },
+    {
+      "id": "ex-to-be-23",
+      "en": "The shops are closed.",
+      "tr": "Dükkânlar kapalı.",
+      "highlight": "are"
+    },
+    {
+      "id": "ex-to-be-24",
+      "en": "Ayşe and Mert are in the kitchen.",
+      "tr": "Ayşe ile Mert mutfakta.",
+      "highlight": "are",
+      "note": "Ayşe and Mert = they → are"
+    },
+    {
+      "id": "ex-to-be-25",
+      "en": "Where are you from?",
+      "tr": "Nerelisin?",
+      "highlight": "are"
+    },
+    {
+      "id": "ex-to-be-26",
+      "en": "I'm from Turkey.",
+      "tr": "Türkiyeliyim. (Türkiye'denim.)",
+      "highlight": "I'm"
+    },
+    {
+      "id": "ex-to-be-27",
+      "en": "What is your name?",
+      "tr": "Adın ne?",
+      "highlight": "is"
+    },
+    {
+      "id": "ex-to-be-28",
+      "en": "My name is Deniz.",
+      "tr": "Adım Deniz.",
+      "highlight": "is"
+    },
+    {
+      "id": "ex-to-be-29",
+      "en": "It's five o'clock.",
+      "tr": "Saat beş.",
+      "highlight": "It's",
+      "note": "Saat söylerken de özne it'tir."
+    },
+    {
+      "id": "ex-to-be-30",
+      "en": "My parents are at work.",
+      "tr": "Anne babam işte.",
+      "highlight": "are",
+      "note": "My parents = they → are"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-to-be-01",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ a student.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "She üçüncü tekil kişidir (o). To be fiilinin he / she / it ile kullanılan biçimi is’tir: She is a student.",
+      "optionExplanations": {
+        "a": "Am yalnızca I öznesiyle kullanılır.",
+        "c": "Are; you, we ve they ile kullanılır. She tek kişi olduğu için are olmaz.",
+        "d": "Be fiilin yalın biçimidir; cümlede özneye göre çekimlenmiş biçim (am / is / are) gerekir."
+      },
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-02",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ a teacher.",
+      "answers": [
+        "am"
+      ],
+      "explanation": "I öznesiyle am kullanılır: I am a teacher.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "I ile is kullanılmaz; I her zaman am alır."
+        },
+        {
+          "answer": "are",
+          "explanation": "Are; you, we ve they ile kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-03",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O bir öğretmen.",
+      "answer": [
+        "She",
+        "is",
+        "a",
+        "teacher"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are"
+      ],
+      "explanation": "She ile is kullanılır, meslekten önce a gelir: She is a teacher.",
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-04",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She teacher.",
+      "answers": [
+        "She is a teacher.",
+        "She's a teacher."
+      ],
+      "explanation": "Türkçede “O öğretmen” diyebiliriz; fiil görünmez. İngilizcede fiil zorunludur: is eklenir. Meslekten önce de a gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is teacher.",
+          "explanation": "Is eklenmiş ama meslekten önce a eksik: a teacher."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-to-be-05",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben bir öğrenciyim.",
+      "hint": "öğrenci: student",
+      "answers": [
+        "I am a student.",
+        "I'm a student."
+      ],
+      "targetStructure": "To be olumlu: I am + meslek",
+      "explanation": "“Öğrenciyim” cümlesindeki -im eki İngilizcede am ile karşılanır. Meslekten önce a gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I student.",
+          "explanation": "Fiil eksik: I am a student."
+        },
+        {
+          "answer": "I is a student.",
+          "explanation": "I ile is değil am kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-to-be-06",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My parents ___ at work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "My parents (anne babam) birden fazla kişiyi anlatır; yerine they diyebiliriz. They ile are kullanılır.",
+      "optionExplanations": {
+        "a": "Is tek bir kişi ya da şey için kullanılır; parents çoğuldur.",
+        "c": "Am yalnızca I ile kullanılır.",
+        "d": "Be yalın biçimdir; çekimli bir fiil gerekir."
+      },
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-07",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Mert ___ from Ankara.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Mert tek bir erkektir (he). He ile is kullanılır: Mert is from Ankara.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Are çoğul özneler içindir; Mert tek kişidir."
+        },
+        {
+          "answer": "am",
+          "explanation": "Am yalnızca I ile kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-08",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben doktor değilim.",
+      "answer": [
+        "I",
+        "am",
+        "not",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is"
+      ],
+      "explanation": "Olumsuzda not, am’den sonra gelir: I am not a doctor.",
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-09",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I is a student.",
+      "errorSpan": "is",
+      "answers": [
+        "I am a student.",
+        "I'm a student."
+      ],
+      "explanation": "I öznesiyle her zaman am kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I are a student.",
+          "explanation": "Are; you, we, they ile kullanılır. I için am gerekir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-10",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sen aç mısın?",
+      "hint": "aç: hungry",
+      "answers": [
+        "Are you hungry?"
+      ],
+      "targetStructure": "To be soru: Are you …?",
+      "explanation": "Soru yaparken to be özneden önce gelir. You ile are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You are hungry?",
+          "explanation": "Soru cümlesinde fiil özneden önce gelir: Are you hungry?"
+        },
+        {
+          "answer": "Do you hungry?",
+          "explanation": "To be sorularında do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-to-be-11",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you ready?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Am"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Soru yaparken to be özneden önce gelir. You ile kullanılan biçim are olduğu için: Are you ready?",
+      "optionExplanations": {
+        "a": "Is, he / she / it ile kullanılır; you ile are gelir.",
+        "c": "Am yalnızca I ile kullanılır (Am I ready?).",
+        "d": "To be sorularında do kullanılmaz; “Do you ready?” yanlıştır. Do, eylem fiilleriyle kullanılır (Do you work?)."
+      },
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-to-be-12",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ not late.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "We ile are kullanılır: We are not late.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Is tek kişi için kullanılır; we birden fazla kişidir."
+        },
+        {
+          "answer": "am",
+          "explanation": "Am yalnızca I ile kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-13",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Yorgun değilim.” cümlesinin İngilizcesi hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I not tired."
+        },
+        {
+          "id": "b",
+          "text": "I am not tired."
+        },
+        {
+          "id": "c",
+          "text": "I don't tired."
+        },
+        {
+          "id": "d",
+          "text": "I amn't tired."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "I ile am kullanılır. Olumsuz yapmak için am’den sonra not eklenir: I am not tired (kısaca I’m not tired).",
+      "optionExplanations": {
+        "a": "Fiil eksik. İngilizcede olumsuz cümlede de fiil bulunur: am not.",
+        "c": "Don’t eylem fiilleriyle kullanılır. Tired bir eylem değil, durumu anlatan sözcüktür ve to be ile kullanılır.",
+        "d": "“Amn’t” standart İngilizcede kullanılmaz; kısa biçim I’m not’tır."
+      },
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-to-be-14",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The children ___ in the garden.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Children, child’ın çoğuludur. Çoğul özneyle (they) are kullanılır: The children are in the garden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Children çoğuldur; is tek kişi ya da şey için kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-to-be-15",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O senin erkek kardeşin mi?",
+      "answer": [
+        "Is",
+        "he",
+        "your",
+        "brother"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "are"
+      ],
+      "explanation": "Soruda is özneden önce gelir: Is he your brother?",
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-16",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ at home.",
+      "hint": "Cümleyi olumsuz yap: O evde değil.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "She için is kullanılır. Olumsuzu is not ya da kısaca isn’t’tir: She isn’t at home.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "not",
+          "explanation": "Not tek başına yetmez; to be fiili de gerekir: is not / isn’t."
+        },
+        {
+          "answer": "is",
+          "explanation": "Is cümleyi olumlu yapar; “evde değil” demek için is not / isn’t gerekir."
+        },
+        {
+          "answer": "aren't",
+          "explanation": "Aren’t, you / we / they ile kullanılır. She ile isn’t gelir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-to-be-17",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Ali at home now.",
+      "answers": [
+        "Ali is at home now.",
+        "Ali's at home now."
+      ],
+      "explanation": "Yer bildiren cümlelerde de fiil gerekir. Ali = he olduğu için is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali are at home now.",
+          "explanation": "Ali tek kişidir; are değil is gerekir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "location"
+      ],
+      "errorTags": [
+        "verb_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-18",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O evde değil.",
+      "hint": "Bu cümlede “o” bir kadın (she). “Evde”: at home.",
+      "answers": [
+        "She is not at home.",
+        "She isn't at home.",
+        "She's not at home."
+      ],
+      "targetStructure": "To be olumsuz: she is not / isn’t",
+      "explanation": "She ile is kullanılır; olumsuz için not eklenir: She is not at home. Kısa biçimleri de doğrudur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She not at home.",
+          "explanation": "Fiil eksik: She is not / isn’t at home."
+        },
+        {
+          "answer": "She no is at home.",
+          "explanation": "Olumsuzluk için no değil not kullanılır ve fiilden sonra gelir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative",
+        "location"
+      ],
+      "errorTags": [
+        "negation",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-to-be-19",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I am twenty years old."
+        },
+        {
+          "id": "b",
+          "text": "I have twenty years old."
+        },
+        {
+          "id": "c",
+          "text": "I am have twenty years."
+        },
+        {
+          "id": "d",
+          "text": "I twenty years old."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İngilizcede yaş to be ile söylenir: I am twenty (years old). Türkçedeki “yaşındayım” yapısına karşılık gelir.",
+      "optionExplanations": {
+        "b": "Have “sahip olmak” demektir; yaş söylerken kullanılmaz.",
+        "c": "Am ile have aynı cümlede yan yana kullanılmaz; yalnızca am gerekir.",
+        "d": "To be fiili eksik."
+      },
+      "tags": [
+        "to-be",
+        "age"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-to-be-20",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ they your cousins?",
+      "hint": "Soru cümlesi kur.",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Soruda to be özneden önce gelir. They ile are: Are they your cousins?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is",
+          "explanation": "Is, he / she / it ile kullanılır; they ile are gelir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-to-be-21",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onlar okulda değil.",
+      "answer": [
+        "They",
+        "are",
+        "not",
+        "at",
+        "school"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "isn't"
+      ],
+      "explanation": "They ile are kullanılır; not, are’dan sonra gelir: They are not at school.",
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-22",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onlar benim komşularım.",
+      "hint": "komşu: neighbour (İngiliz) / neighbor (Amerikan). Her iki yazım da kabul edilir.",
+      "answers": [
+        "They are my neighbours.",
+        "They are my neighbors.",
+        "They're my neighbours.",
+        "They're my neighbors."
+      ],
+      "targetStructure": "To be olumlu: they are",
+      "explanation": "They ile are kullanılır. Komşular çoğul olduğu için neighbours.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They is my neighbours.",
+          "explanation": "They ile is değil are kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-23",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you tired?",
+      "errorSpan": "Do",
+      "answers": [
+        "Are you tired?"
+      ],
+      "explanation": "Tired, bir eylem değil durumu anlatan sözcüktür. Bu tür cümleler to be ile kurulur; soruda are özneden önce gelir. Do, eylem fiilleriyle kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you are tired?",
+          "explanation": "Do ve are aynı cümlede kullanılmaz; to be sorusunda yalnızca are yeterlidir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-to-be-24",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My phone ___ new; it is very old.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "My phone = it; it ile is kullanılır. Cümlenin ikinci yarısı telefonun eski olduğunu söylediği için olumsuz gerekir: isn’t / is not.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "İkinci cümle telefonun çok eski olduğunu söylüyor, bu yüzden “yeni değil” anlamı gerekir."
+        },
+        {
+          "answer": "aren't",
+          "explanation": "Phone tek bir şeydir (it); aren’t çoğul özneyle kullanılır."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-25",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "They ___ at home today.",
+      "hint": "Cümle olumsuz olmalı: Onlar bugün evde değil.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "aren't"
+        },
+        {
+          "id": "c",
+          "text": "amn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "They ile are kullanılır. Olumsuz yapmak için are not ya da aren’t denir: They aren’t at home today.",
+      "optionExplanations": {
+        "a": "Isn’t, he / she / it ile kullanılır; they çoğuldur.",
+        "c": "“Amn’t” standart değildir ve zaten yalnızca I ile kullanılırdı.",
+        "d": "Don’t eylem fiilleriyle kullanılır; “at home” yer bildirir ve to be ile kurulur."
+      },
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-26",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Nerelisin? (Nereden geliyorsun?)",
+      "answer": [
+        "Where",
+        "are",
+        "you",
+        "from"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "is"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından to be (are), sonra özne: Where are you from?",
+      "tags": [
+        "to-be",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-27",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bugün hava soğuk.",
+      "hint": "Hava durumunda özne olarak it kullanılır. cold: soğuk",
+      "answers": [
+        "It is cold today.",
+        "It's cold today.",
+        "Today it is cold.",
+        "Today it's cold."
+      ],
+      "targetStructure": "It + is ile hava durumu",
+      "explanation": "Hava durumu anlatırken özne it’tir ve is gelir. Zaman zarfı (today) başa da sona da gelebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is cold today.",
+          "explanation": "Özne eksik. İngilizcede özne zorunludur; hava için it kullanılır."
+        },
+        {
+          "answer": "He is cold today.",
+          "explanation": "He bir erkeği anlatır; hava durumunun öznesi it’tir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-to-be-28",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Are you a student? Yes, I ___.",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Soruda are var ama cevap veren kişi kendinden söz ettiği için I kullanır: Yes, I am.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "'m",
+          "explanation": "Olumlu kısa cevapta kısaltma yapılmaz: Yes, I am."
+        },
+        {
+          "answer": "are",
+          "explanation": "Cevap veren kişi kendinden söz ediyor (I); I ile am gelir."
+        },
+        {
+          "answer": "is",
+          "explanation": "I ile is kullanılmaz."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "short-answer"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-29",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She not is happy.",
+      "errorSpan": "not is",
+      "answers": [
+        "She is not happy.",
+        "She isn't happy.",
+        "She's not happy."
+      ],
+      "explanation": "Not, to be fiilinden sonra gelir: She is not happy.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She no is happy.",
+          "explanation": "Olumsuzluk için no değil not kullanılır; ayrıca not fiilden sonra gelir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative"
+      ],
+      "errorTags": [
+        "word_order",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-to-be-30",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ cold today.",
+      "hint": "Hava durumu için hangi özne kullanılır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It's"
+        },
+        {
+          "id": "b",
+          "text": "They're"
+        },
+        {
+          "id": "c",
+          "text": "I'm"
+        },
+        {
+          "id": "d",
+          "text": "He's"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hava durumu, saat ve genel durumlar anlatılırken özne it olur: It’s cold today. “It” burada Türkçeye “o” diye çevrilmez; “Bugün hava soğuk” deriz.",
+      "optionExplanations": {
+        "b": "They çoğul kişi ya da şeyleri anlatır; hava durumu için uygun değildir.",
+        "c": "“I’m cold” “üşüyorum” anlamına gelir; havadan söz etmez.",
+        "d": "He bir erkeği anlatır; hava durumunun öznesi it’tir."
+      },
+      "tags": [
+        "to-be",
+        "weather"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-to-be-31",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Anne babanız evde mi?",
+      "answer": [
+        "Are",
+        "your",
+        "parents",
+        "at",
+        "home"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "is"
+      ],
+      "explanation": "Parents çoğuldur (they); soruda are özneden önce gelir: Are your parents at home?",
+      "tags": [
+        "to-be",
+        "question",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-32",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Annem evde değil.",
+      "hint": "Anne için mother kullan. evde: at home",
+      "answers": [
+        "My mother is not at home.",
+        "My mother isn't at home.",
+        "My mother's not at home."
+      ],
+      "targetStructure": "To be olumsuz: my mother (she) is not",
+      "explanation": "My mother = she; she ile is kullanılır. Olumsuz için is not / isn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My mother not at home.",
+          "explanation": "Fiil eksik: is not / isn’t."
+        },
+        {
+          "answer": "My mother are not at home.",
+          "explanation": "Mother tektir; are değil is gelir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "negative",
+        "location"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-33",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Selin and I ___ classmates.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Selin and I, iki kişi demektir (we). We ile are kullanılır: Selin and I are classmates.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "I tek başına am alır; ama “Selin and I” iki kişidir (we)."
+        },
+        {
+          "answer": "is",
+          "explanation": "İki kişiden söz ediliyor, bu yüzden is olmaz."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-34",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Is Selin your sister?” sorusuna olumlu kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, she's."
+        },
+        {
+          "id": "b",
+          "text": "Yes, she is."
+        },
+        {
+          "id": "c",
+          "text": "Yes, she does."
+        },
+        {
+          "id": "d",
+          "text": "Yes, her is."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumlu kısa cevapta kısaltma yapılmaz. Selin yerine she kullanılır ve soruda is olduğu için cevapta da is gelir: Yes, she is.",
+      "optionExplanations": {
+        "a": "Olumlu kısa cevapta am / is / are kısaltılmaz; Yes, she is. denir.",
+        "c": "Does, eylem fiilleriyle kurulan sorulara cevapta kullanılır; bu soru is ile kurulmuş.",
+        "d": "Her, “onun” anlamında bir sahiplik sözcüğüdür; özne olarak she gerekir."
+      },
+      "tags": [
+        "to-be",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-to-be-35",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Are you tired? Yes, I'm.",
+      "errorSpan": "I'm",
+      "answers": [
+        "Are you tired? Yes, I am.",
+        "Are you tired? Yes I am.",
+        "Yes, I am.",
+        "Yes I am."
+      ],
+      "explanation": "Olumlu kısa cevaplarda am / is / are kısaltılmaz: Yes, I am.",
+      "tags": [
+        "to-be",
+        "short-answer"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-to-be-36",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geç kaldım mı?",
+      "hint": "geç: late",
+      "answers": [
+        "Am I late?"
+      ],
+      "targetStructure": "To be soru: Am I …?",
+      "explanation": "I ile am kullanılır. Soruda am özneden önce gelir: Am I late?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do I late?",
+          "explanation": "To be sorularında do kullanılmaz."
+        },
+        {
+          "answer": "Is I late?",
+          "explanation": "I ile is kullanılmaz; am gerekir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-to-be-37",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ayşe ile ben iyi arkadaşız.",
+      "answer": [
+        "Ayşe",
+        "and",
+        "I",
+        "are",
+        "good",
+        "friends"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "am"
+      ],
+      "explanation": "Ayşe and I iki kişidir (we); are kullanılır: Ayşe and I are good friends.",
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-to-be-38",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Am I late? No, you ___.",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Soruyu soran kişi kendinden I diye söz eder; cevap veren ona you diye hitap eder. You ile are: No, you aren’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am not",
+          "explanation": "Cevap veren kişi karşısındakine you diye hitap eder; you ile are not / aren’t gelir."
+        },
+        {
+          "answer": "isn't",
+          "explanation": "You ile isn’t kullanılmaz; are not / aren’t gerekir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-39",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I ___ not hungry, but my friends ___ hungry.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am / are"
+        },
+        {
+          "id": "b",
+          "text": "is / are"
+        },
+        {
+          "id": "c",
+          "text": "am / is"
+        },
+        {
+          "id": "d",
+          "text": "are / am"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile am, my friends (they) ile are kullanılır: I am not hungry, but my friends are hungry.",
+      "optionExplanations": {
+        "b": "I ile is kullanılmaz; I her zaman am alır.",
+        "c": "My friends çoğuldur; is değil are olmalı.",
+        "d": "Biçimler ters yazılmış: I → am, friends → are."
+      },
+      "tags": [
+        "to-be",
+        "mixed-subjects"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-40",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have 25 years old.",
+      "errorSpan": "have",
+      "answers": [
+        "I am 25 years old.",
+        "I am 25.",
+        "I'm 25 years old.",
+        "I'm 25."
+      ],
+      "explanation": "İngilizcede yaş have ile değil to be ile söylenir: I am 25.",
+      "tags": [
+        "to-be",
+        "age"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-to-be-41",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ali ile Mert iyi arkadaşlar.",
+      "hint": "iyi arkadaş: good friends",
+      "answers": [
+        "Ali and Mert are good friends."
+      ],
+      "targetStructure": "İki kişi: they = are",
+      "explanation": "Ali and Mert iki kişidir (they); are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali and Mert is good friends.",
+          "explanation": "İki kişi söz konusu; is değil are gerekir."
+        }
+      ],
+      "tags": [
+        "to-be",
+        "plural-subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-to-be-42",
+      "lessonId": "a1-to-be",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O öğrenci mi yoksa öğretmen mi?",
+      "answer": [
+        "Is",
+        "she",
+        "a",
+        "student",
+        "or",
+        "is",
+        "she",
+        "a",
+        "teacher"
+      ],
+      "endPunctuation": "?",
+      "explanation": "İki soru da to be ile kurulur ve her ikisinde de is özneden önce gelir: Is she a student, or is she a teacher? Cümlede aynı sözcükler iki kez geçer.",
+      "tags": [
+        "to-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-a1-to-be",
+    "title": "To Be: Konu sonu sınavı",
+    "description": "Am, is, are; olumsuz cümle, soru ve kısa cevap konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-to-be-exam-01",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ a nurse.",
+        "options": [
+          {
+            "id": "a",
+            "text": "am"
+          },
+          {
+            "id": "b",
+            "text": "is"
+          },
+          {
+            "id": "c",
+            "text": "are"
+          },
+          {
+            "id": "d",
+            "text": "be"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "He ile is kullanılır: He is a nurse.",
+        "optionExplanations": {
+          "a": "Am yalnızca I ile.",
+          "c": "Are, you / we / they ile kullanılır.",
+          "d": "Be yalın biçimdir; çekimli fiil gerekir."
+        },
+        "tags": [
+          "to-be",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-02",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "You ___ my best friend.",
+        "answers": [
+          "are"
+        ],
+        "explanation": "You ile her zaman are kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "You tek kişiyi anlatsa bile is almaz; are kullanılır."
+          },
+          {
+            "answer": "am",
+            "explanation": "Am yalnızca I ile kullanılır."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-03",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Selin benim kız kardeşim.",
+        "answer": [
+          "Selin",
+          "is",
+          "my",
+          "sister"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are"
+        ],
+        "explanation": "Selin tek kişidir (she); is kullanılır: Selin is my sister.",
+        "tags": [
+          "to-be",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-04",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We is tired.",
+        "errorSpan": "is",
+        "answers": [
+          "We are tired.",
+          "We're tired."
+        ],
+        "explanation": "We ile are kullanılır.",
+        "tags": [
+          "to-be",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-05",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biz öğrenciyiz.",
+        "hint": "öğrenci: student (çoğul kullan)",
+        "answers": [
+          "We are students.",
+          "We're students."
+        ],
+        "targetStructure": "To be olumlu: we are",
+        "explanation": "We ile are kullanılır. Çoğul olduğu için students; a / an gelmez.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We are student.",
+            "explanation": "Biz birden fazla kişiyiz; student çoğul olmalı: students."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-06",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We ___ in the same class.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is"
+          },
+          {
+            "id": "b",
+            "text": "am"
+          },
+          {
+            "id": "c",
+            "text": "are"
+          },
+          {
+            "id": "d",
+            "text": "be"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "We ile are kullanılır: We are in the same class.",
+        "optionExplanations": {
+          "a": "Is tek kişi için kullanılır.",
+          "b": "Am yalnızca I ile.",
+          "d": "Be yalın biçimdir."
+        },
+        "tags": [
+          "to-be",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-07",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "It ___ a sunny day.",
+        "answers": [
+          "is"
+        ],
+        "explanation": "It ile is kullanılır: It is a sunny day.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "It tek bir şey ya da durumdur; are çoğul özneyle kullanılır."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "weather"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-08",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "İzmirli misin? (İzmir’den misin?)",
+        "answer": [
+          "Are",
+          "you",
+          "from",
+          "Izmir"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Is"
+        ],
+        "explanation": "Soruda are özneden önce gelir: Are you from Izmir?",
+        "tags": [
+          "to-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-09",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Mert at school today?",
+        "answers": [
+          "Is Mert at school today?"
+        ],
+        "explanation": "Soru cümlesinde fiil gerekir ve özneden önce gelir. Mert = he olduğu için is: Is Mert at school today?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Mert is at school today?",
+            "explanation": "Soru yapmak için is özneden önce gelmelidir: Is Mert …?"
+          }
+        ],
+        "tags": [
+          "to-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-10",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kitabım masada değil.",
+        "hint": "masanın üstünde: on the table",
+        "answers": [
+          "My book is not on the table.",
+          "My book isn't on the table.",
+          "My book's not on the table."
+        ],
+        "targetStructure": "To be olumsuz: my book (it) is not",
+        "explanation": "My book = it; is not / isn’t kullanılır. Masanın üstünde için on the table denir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "My book not on the table.",
+            "explanation": "Fiil eksik: is not / isn’t."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "negative",
+          "location"
+        ],
+        "errorTags": [
+          "negation",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-11",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "___ your sister at university?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Is"
+          },
+          {
+            "id": "b",
+            "text": "Are"
+          },
+          {
+            "id": "c",
+            "text": "Am"
+          },
+          {
+            "id": "d",
+            "text": "Do"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Your sister = she; she ile is. Soruda is başa gelir: Is your sister at university?",
+        "optionExplanations": {
+          "b": "Are, you / we / they ile; sister tek kişidir.",
+          "c": "Am yalnızca I ile.",
+          "d": "To be sorularında do kullanılmaz."
+        },
+        "tags": [
+          "to-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-12",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I ___ not at school today.",
+        "answers": [
+          "am"
+        ],
+        "explanation": "I ile am kullanılır: I am not at school today.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "I ile is kullanılmaz."
+          },
+          {
+            "answer": "are",
+            "explanation": "I ile are kullanılmaz."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "negative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-13",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Anne babam ofiste değil.",
+        "answer": [
+          "My",
+          "parents",
+          "are",
+          "not",
+          "at",
+          "the",
+          "office"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is"
+        ],
+        "explanation": "My parents = they; are not kullanılır: My parents are not at the office.",
+        "tags": [
+          "to-be",
+          "negative",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-14",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He not is a teacher.",
+        "errorSpan": "not is",
+        "answers": [
+          "He is not a teacher.",
+          "He isn't a teacher.",
+          "He's not a teacher."
+        ],
+        "explanation": "Not, to be fiilinden sonra gelir: He is not a teacher.",
+        "tags": [
+          "to-be",
+          "negative"
+        ],
+        "errorTags": [
+          "word_order",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-15",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Siz yorgun musunuz?",
+        "hint": "yorgun: tired",
+        "answers": [
+          "Are you tired?"
+        ],
+        "targetStructure": "To be soru: Are you …?",
+        "explanation": "You (siz) ile are kullanılır ve soruda özneden önce gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do you tired?",
+            "explanation": "To be sorularında do kullanılmaz."
+          },
+          {
+            "answer": "You are tired?",
+            "explanation": "Soru yapmak için are özneden önce gelmelidir: Are you tired?"
+          }
+        ],
+        "tags": [
+          "to-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-16",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She doesn't a student."
+          },
+          {
+            "id": "b",
+            "text": "She not a student."
+          },
+          {
+            "id": "c",
+            "text": "She isn't a student."
+          },
+          {
+            "id": "d",
+            "text": "She amn't a student."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "She ile is kullanılır; olumsuzu isn’t’tir: She isn’t a student.",
+        "optionExplanations": {
+          "a": "Doesn’t eylem fiilleriyle kullanılır; to be olumsuzu does not ile kurulmaz.",
+          "b": "Fiil eksik: is not / isn’t gerekir.",
+          "d": "“Amn’t” standart değildir ve she ile am kullanılmaz."
+        },
+        "tags": [
+          "to-be",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-17",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "___ the books on the table?",
+        "answers": [
+          "Are"
+        ],
+        "explanation": "Books çoğuldur (they); soruda are başa gelir: Are the books on the table?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Is",
+            "explanation": "Books çoğul olduğu için is değil are gerekir."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "question",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "question_form",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-18",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is your father at home? Yes, he's.",
+        "errorSpan": "he's",
+        "answers": [
+          "Is your father at home? Yes, he is.",
+          "Is your father at home? Yes he is.",
+          "Yes, he is.",
+          "Yes he is."
+        ],
+        "explanation": "Olumlu kısa cevapta kısaltma yapılmaz: Yes, he is.",
+        "tags": [
+          "to-be",
+          "short-answer"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-19",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Is Kemal at home? No, ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "he isn't"
+          },
+          {
+            "id": "b",
+            "text": "he aren't"
+          },
+          {
+            "id": "c",
+            "text": "he don't"
+          },
+          {
+            "id": "d",
+            "text": "he no"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Soruda is var, özne Kemal = he. Olumsuz kısa cevap: No, he isn’t.",
+        "optionExplanations": {
+          "b": "Aren’t, you / we / they ile kullanılır; he ile isn’t gelir.",
+          "c": "Don’t eylem fiilleriyle kullanılır; to be sorusuna cevapta isn’t gelir.",
+          "d": "Olumsuzluk için no değil not / n’t kullanılır ve to be ile birlikte yazılır."
+        },
+        "tags": [
+          "to-be",
+          "short-answer"
+        ],
+        "errorTags": [
+          "auxiliary_verb",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-to-be-exam-20",
+        "lessonId": "a1-to-be",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Ece and Deniz ___ at home. They are at the cinema.",
+        "answers": [
+          "aren't",
+          "are not"
+        ],
+        "explanation": "Ece and Deniz = they; ikinci cümle sinemada olduklarını söylüyor, yani evde değiller: aren’t / are not.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "İkinci cümle sinemada olduklarını söylüyor; bu yüzden “evde değil” anlamı gerekir."
+          },
+          {
+            "answer": "isn't",
+            "explanation": "İki kişiden söz ediliyor (they); isn’t tek kişi içindir."
+          }
+        ],
+        "tags": [
+          "to-be",
+          "negative",
+          "plural-subject"
+        ],
+        "errorTags": [
+          "negation",
+          "subject_verb_agreement"
+        ]
+      }
+    ]
+  }
+}
