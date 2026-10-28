@@ -1,0 +1,2558 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-articles",
+  "levelId": "a1",
+  "title": "Articles: A, An, The",
+  "objectives": [
+    "A ve an arasında ilk sese bakarak seçim yapmak (an hour, a university)",
+    "Tekil mesleklerin önüne a / an koymak",
+    "Belli ve ikinci kez söz edilen şeyler için the kullanmak",
+    "Dünyada tek olan şeylerde the kullanmak",
+    "Genel anlamdaki çoğul ve sayılamayan isimlerde, dil, spor ve öğün adlarında artikel kullanmamak",
+    "Türkçede olmayan artikel hatalarını fark etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Artikel nedir?",
+      "paragraphs": [
+        "Artikeller (a, an, the), ismin önünde gelen küçük sözcüklerdir. Türkçede artikel yoktur; bu yüzden en çok unutulan ya da yanlış kullanılan konulardan biridir.",
+        "Türkçedeki “bir” sözcüğü a / an’a benzer: “Bir kitap aldım” = I bought a book. Ancak Türkçede “bir” çoğu zaman söylenmez (“Doktor” deriz), İngilizcede ise tekil sayılabilen isimlerin önünde mutlaka bir artikel (ya da my, this gibi başka bir belirleyici) bulunmalıdır.",
+        "“The” ise Türkçede doğrudan karşılığı olmayan bir sözcüktür. Kime ya da neye dendiği konuşan ve dinleyen için belli olduğunda kullanılır: “Kapıyı kapat” = Close the door."
+      ]
+    },
+    {
+      "id": "a-an",
+      "type": "rule",
+      "title": "A ve an: “bir”",
+      "paragraphs": [
+        "A / an, tekil ve sayılabilen isimlerden önce gelir ve “herhangi bir, bir tane” anlamı verir. Bir şeyden ilk kez söz ederken ya da mesleğini, kimliğini söylerken kullanılır.",
+        "A mı an mı? Yazıya değil, ismin ilk sesine bakılır. İsim ünsüz sesiyle başlıyorsa a, ünlü sesiyle başlıyorsa an kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Ünsüz sesi: a",
+          "pattern": "a car,  a teacher,  a book,  a university (yu sesi),  a useful tool",
+          "exampleIds": [
+            "ex-articles-01",
+            "ex-articles-02",
+            "ex-articles-06",
+            "ex-articles-08"
+          ]
+        },
+        {
+          "label": "Ünlü sesi: an",
+          "pattern": "an apple,  an umbrella,  an egg,  an hour (h okunmaz),  an honest man",
+          "exampleIds": [
+            "ex-articles-03",
+            "ex-articles-04",
+            "ex-articles-05",
+            "ex-articles-07",
+            "ex-articles-28"
+          ]
+        },
+        {
+          "label": "Sıfat varsa sıfata bak",
+          "pattern": "an old man,  a new phone,  an interesting book",
+          "exampleIds": [
+            "ex-articles-09",
+            "ex-articles-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the",
+      "type": "rule",
+      "title": "The: belli olan şey",
+      "paragraphs": [
+        "The, hangi şeyden söz edildiği hem konuşan hem dinleyen için belli olduğunda kullanılır. Hem tekil hem çoğul isimlerle gelir. Şu durumlarda the kullanırsın:"
+      ],
+      "formulas": [
+        {
+          "label": "İkinci kez söz ettiğinde",
+          "pattern": "I saw a dog. The dog was big.",
+          "exampleIds": [
+            "ex-articles-11",
+            "ex-articles-12"
+          ]
+        },
+        {
+          "label": "Ortamdan belli olduğunda",
+          "pattern": "Close the door.   Where is the bathroom?",
+          "exampleIds": [
+            "ex-articles-13",
+            "ex-articles-14"
+          ]
+        },
+        {
+          "label": "Dünyada tek olan şeylerde",
+          "pattern": "the sun,  the moon,  the sky,  the world",
+          "exampleIds": [
+            "ex-articles-15",
+            "ex-articles-16"
+          ]
+        },
+        {
+          "label": "Belirten bir ifade geldiğinde",
+          "pattern": "the book on the table",
+          "exampleIds": [
+            "ex-articles-17"
+          ]
+        },
+        {
+          "label": "En üstünlük derecesinde",
+          "pattern": "the best,  the biggest,  the most interesting",
+          "exampleIds": [
+            "ex-articles-18"
+          ]
+        },
+        {
+          "label": "Çalgı aletlerinde",
+          "pattern": "play the guitar,  play the piano",
+          "exampleIds": [
+            "ex-articles-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "type": "rule",
+      "title": "Artikel kullanılmayan durumlar",
+      "paragraphs": [
+        "Bazı durumlarda isimden önce hiçbir artikel gelmez. A1 seviyesinde en çok işine yarayacaklar şunlardır:"
+      ],
+      "formulas": [
+        {
+          "label": "Genel anlamda çoğul isimler",
+          "pattern": "I like dogs.   Children need love.",
+          "exampleIds": [
+            "ex-articles-19"
+          ]
+        },
+        {
+          "label": "Genel anlamda sayılamayan isimler",
+          "pattern": "Water is important.   Tea is popular.",
+          "exampleIds": [
+            "ex-articles-20",
+            "ex-articles-21"
+          ]
+        },
+        {
+          "label": "Diller",
+          "pattern": "I speak English.   She learns German.",
+          "exampleIds": [
+            "ex-articles-22"
+          ]
+        },
+        {
+          "label": "Sporlar",
+          "pattern": "play football,  play tennis",
+          "exampleIds": [
+            "ex-articles-23"
+          ]
+        },
+        {
+          "label": "Öğünler",
+          "pattern": "have breakfast,  have lunch,  have dinner",
+          "exampleIds": [
+            "ex-articles-24"
+          ]
+        },
+        {
+          "label": "Çoğu ülke ve şehir adı",
+          "pattern": "Turkey,  Germany,  Istanbul   (istisna: the USA, the UK)",
+          "exampleIds": [
+            "ex-articles-26",
+            "ex-articles-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "choose",
+      "type": "usage",
+      "title": "Hangi artikeli seçmeliyim?",
+      "paragraphs": [
+        "Kendine şu soruları sırayla sor:"
+      ],
+      "items": [
+        {
+          "heading": "1. İsim tekil ve sayılabilir mi?",
+          "body": "Evet ise ve herhangi biri / ilk kez söz ediyorsan → a / an. Belli bir şeyse → the.",
+          "exampleIds": [
+            "ex-articles-01",
+            "ex-articles-13"
+          ]
+        },
+        {
+          "heading": "2. İsim çoğul ya da sayılamaz mı?",
+          "body": "Genel anlamda söylüyorsan → artikel yok. Belli bir şeyden söz ediyorsan → the.",
+          "exampleIds": [
+            "ex-articles-19",
+            "ex-articles-20"
+          ]
+        },
+        {
+          "heading": "3. Meslek ya da kimlik mi söylüyorsun?",
+          "body": "Tekil bir meslekten önce a / an gelir.",
+          "exampleIds": [
+            "ex-articles-02",
+            "ex-articles-30"
+          ]
+        },
+        {
+          "heading": "4. Dünyada tek olan bir şey mi?",
+          "body": "The kullan: the sun, the moon.",
+          "exampleIds": [
+            "ex-articles-15",
+            "ex-articles-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-a-an",
+      "type": "examples",
+      "title": "Örnekler: a ve an",
+      "paragraphs": [
+        "Her isimde ilk sesin ünlü mü ünsüz mü olduğuna dikkat et."
+      ],
+      "exampleIds": [
+        "ex-articles-01",
+        "ex-articles-02",
+        "ex-articles-03",
+        "ex-articles-04",
+        "ex-articles-05",
+        "ex-articles-06",
+        "ex-articles-07",
+        "ex-articles-08",
+        "ex-articles-09",
+        "ex-articles-10",
+        "ex-articles-28",
+        "ex-articles-29",
+        "ex-articles-30"
+      ]
+    },
+    {
+      "id": "examples-the",
+      "type": "examples",
+      "title": "Örnekler: the",
+      "exampleIds": [
+        "ex-articles-11",
+        "ex-articles-12",
+        "ex-articles-13",
+        "ex-articles-14",
+        "ex-articles-15",
+        "ex-articles-16",
+        "ex-articles-17",
+        "ex-articles-18",
+        "ex-articles-25",
+        "ex-articles-27"
+      ]
+    },
+    {
+      "id": "examples-zero",
+      "type": "examples",
+      "title": "Örnekler: artikel yok",
+      "exampleIds": [
+        "ex-articles-19",
+        "ex-articles-20",
+        "ex-articles-21",
+        "ex-articles-22",
+        "ex-articles-23",
+        "ex-articles-24",
+        "ex-articles-26"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She is teacher.",
+          "right": "She is a teacher.",
+          "explanation": "Türkçede “O öğretmen” deriz; “bir” söylemeyiz. İngilizcede tekil meslekten önce a / an zorunludur."
+        },
+        {
+          "wrong": "I have car.",
+          "right": "I have a car.",
+          "explanation": "Tekil ve sayılabilir isim artikelsiz kullanılmaz."
+        },
+        {
+          "wrong": "He is a engineer.",
+          "right": "He is an engineer.",
+          "explanation": "Engineer ünlü sesiyle başlar; an gerekir."
+        },
+        {
+          "wrong": "She goes to an university.",
+          "right": "She goes to a university.",
+          "explanation": "University “yu” sesiyle başlar; bu bir ünsüz sesidir, bu yüzden a gelir."
+        },
+        {
+          "wrong": "I need a hour.",
+          "right": "I need an hour.",
+          "explanation": "Hour’da h okunmaz; ünlü sesiyle başlar gibi davranır → an."
+        },
+        {
+          "wrong": "Sun is hot.",
+          "right": "The sun is hot.",
+          "explanation": "Dünyada tek olan şeylerin önünde the kullanılır."
+        },
+        {
+          "wrong": "I saw a dog. A dog was big.",
+          "right": "I saw a dog. The dog was big.",
+          "explanation": "Aynı köpekten ikinci kez söz ederken the kullanılır."
+        },
+        {
+          "wrong": "I play the football on Sundays.",
+          "right": "I play football on Sundays.",
+          "explanation": "Sporlardan önce artikel gelmez."
+        },
+        {
+          "wrong": "I have the breakfast at eight.",
+          "right": "I have breakfast at eight.",
+          "explanation": "Öğün adlarından önce artikel gelmez."
+        },
+        {
+          "wrong": "I speak the English.",
+          "right": "I speak English.",
+          "explanation": "Dil adlarından önce artikel gelmez."
+        },
+        {
+          "wrong": "I like a dogs.",
+          "right": "I like dogs.",
+          "explanation": "A / an yalnızca tekil isimlerle kullanılır; çoğul isimlerle kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Artikel ve çoğul isimler",
+          "body": "A / an yalnızca tekil isimle kullanılır. Çoğul isim genel anlamdaysa artikelsiz kalır (I like dogs). Çoğulların nasıl yapıldığı ayrı bir derstir.",
+          "lessonId": "a1-plurals"
+        },
+        {
+          "topic": "Artikel ve some / any",
+          "body": "Sayılamayan ve çoğul isimlerle “biraz, bazı” demek için some / any kullanılır; a / an kullanılmaz.",
+          "lessonId": "a1-countable-some-any"
+        },
+        {
+          "topic": "Artikel ve this / that",
+          "body": "This book gibi işaret sözcükleri de ismi belirler; bunlarla the kullanılmaz (the this book ✗).",
+          "lessonId": "a1-demonstratives"
+        },
+        {
+          "topic": "Artikel ve sahiplik sıfatları",
+          "body": "My, your, his gibi sözcükler de artikel yerine geçer; ikisi birlikte kullanılmaz (the my car ✗, a my friend ✗).",
+          "lessonId": "a1-possessives"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "A / an kararı yazıya değil sese bağlıdır: an hour, a university.",
+        "A / an yalnızca tekil ve sayılabilen isimlerle kullanılır: a cars ✗, a water ✗.",
+        "Sıfat varsa a / an sıfatın ilk sesine göre seçilir: an old car, a new car.",
+        "Genel anlamda çoğul ve sayılamayan isimlerde artikel yoktur: I like dogs. Water is important.",
+        "Dil, spor ve öğün adlarından önce artikel gelmez."
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Türkçede “bir” ve belirli nesne (-ı, -i eki: kitabı) benzer işlevi görür; İngilizcede bu fark artikelle gösterilir.",
+        "Mesleği söylerken yalnızca tekil biçimde a / an gelir: He is a doctor. Çoğulda artikel yoktur: They are doctors.",
+        "Sayılamayan bir şeyi ölçüyle sayabilirsin: a glass of water, a cup of tea, a piece of bread."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-articles-01",
+        "q-articles-02",
+        "q-articles-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-articles-01",
+      "en": "I have a car.",
+      "tr": "Bir arabam var.",
+      "highlight": "a car",
+      "note": "a + ünsüz sesiyle başlayan tekil isim"
+    },
+    {
+      "id": "ex-articles-02",
+      "en": "She is a teacher.",
+      "tr": "O bir öğretmen.",
+      "highlight": "a teacher",
+      "note": "Meslekten önce a / an gelir."
+    },
+    {
+      "id": "ex-articles-03",
+      "en": "He has an apple.",
+      "tr": "Bir elması var.",
+      "highlight": "an apple",
+      "note": "an + ünlü sesiyle başlayan tekil isim"
+    },
+    {
+      "id": "ex-articles-04",
+      "en": "It is an umbrella.",
+      "tr": "Bu bir şemsiye.",
+      "highlight": "an umbrella"
+    },
+    {
+      "id": "ex-articles-05",
+      "en": "I need an hour.",
+      "tr": "Bir saate ihtiyacım var.",
+      "highlight": "an hour",
+      "note": "Hour’da h okunmaz; ünlüyle başlar gibi → an"
+    },
+    {
+      "id": "ex-articles-06",
+      "en": "She goes to a university in Ankara.",
+      "tr": "Ankara’da bir üniversiteye gidiyor.",
+      "highlight": "a university",
+      "note": "University “yu” sesiyle başlar → a"
+    },
+    {
+      "id": "ex-articles-07",
+      "en": "He is an honest man.",
+      "tr": "O dürüst bir adam.",
+      "highlight": "an honest",
+      "note": "Honest’te h okunmaz → an"
+    },
+    {
+      "id": "ex-articles-08",
+      "en": "It is a useful tool.",
+      "tr": "Bu yararlı bir alet.",
+      "highlight": "a useful",
+      "note": "Useful “yu” sesiyle başlar → a"
+    },
+    {
+      "id": "ex-articles-09",
+      "en": "He is an old man.",
+      "tr": "O yaşlı bir adam.",
+      "highlight": "an old man",
+      "note": "Sıfat ünlüyle başlıyorsa an: an old man"
+    },
+    {
+      "id": "ex-articles-10",
+      "en": "She wants a new phone.",
+      "tr": "Yeni bir telefon istiyor.",
+      "highlight": "a new phone",
+      "note": "a + sıfat + isim: sıfatın ilk sesi belirler."
+    },
+    {
+      "id": "ex-articles-11",
+      "en": "I saw a dog. The dog was big.",
+      "tr": "Bir köpek gördüm. Köpek büyüktü.",
+      "highlight": "The dog",
+      "note": "İlk söylediğinde a, ikinci kez söylediğinde the"
+    },
+    {
+      "id": "ex-articles-12",
+      "en": "I have a cat. The cat is black.",
+      "tr": "Bir kedim var. Kedi siyah.",
+      "highlight": "The cat"
+    },
+    {
+      "id": "ex-articles-13",
+      "en": "Close the door, please.",
+      "tr": "Kapıyı kapat lütfen.",
+      "highlight": "the door",
+      "note": "Hangi kapı olduğu bellidir → the"
+    },
+    {
+      "id": "ex-articles-14",
+      "en": "Where is the bathroom?",
+      "tr": "Banyo nerede?",
+      "highlight": "the bathroom"
+    },
+    {
+      "id": "ex-articles-15",
+      "en": "The sun is hot.",
+      "tr": "Güneş sıcak.",
+      "highlight": "The sun",
+      "note": "Dünyada tek olan şeyler → the"
+    },
+    {
+      "id": "ex-articles-16",
+      "en": "The moon is beautiful tonight.",
+      "tr": "Ay bu gece çok güzel.",
+      "highlight": "The moon"
+    },
+    {
+      "id": "ex-articles-17",
+      "en": "The book on the table is mine.",
+      "tr": "Masanın üstündeki kitap benim.",
+      "highlight": "The book",
+      "note": "Belirli bir kitap → the"
+    },
+    {
+      "id": "ex-articles-18",
+      "en": "She is the best student in the class.",
+      "tr": "Sınıfın en iyi öğrencisi o.",
+      "highlight": "the best",
+      "note": "En üstünlük (best, biggest …) → the"
+    },
+    {
+      "id": "ex-articles-19",
+      "en": "I like dogs.",
+      "tr": "Köpekleri severim.",
+      "highlight": "dogs",
+      "note": "Genel konuşma, çoğul isim → artikel yok"
+    },
+    {
+      "id": "ex-articles-20",
+      "en": "Water is important.",
+      "tr": "Su önemlidir.",
+      "highlight": "Water",
+      "note": "Sayılamayan isim, genel → artikel yok"
+    },
+    {
+      "id": "ex-articles-21",
+      "en": "Tea is popular in Turkey.",
+      "tr": "Türkiye’de çay popülerdir.",
+      "highlight": "Tea"
+    },
+    {
+      "id": "ex-articles-22",
+      "en": "I speak English.",
+      "tr": "İngilizce konuşurum.",
+      "highlight": "English",
+      "note": "Diller → artikel yok"
+    },
+    {
+      "id": "ex-articles-23",
+      "en": "We play football on Sundays.",
+      "tr": "Pazar günleri futbol oynarız.",
+      "highlight": "football",
+      "note": "Sporlar → artikel yok"
+    },
+    {
+      "id": "ex-articles-24",
+      "en": "I have breakfast at eight.",
+      "tr": "Saat sekizde kahvaltı ederim.",
+      "highlight": "breakfast",
+      "note": "Öğünler → artikel yok"
+    },
+    {
+      "id": "ex-articles-25",
+      "en": "He plays the guitar.",
+      "tr": "Gitar çalar.",
+      "highlight": "the guitar",
+      "note": "Çalgı aletleri → the"
+    },
+    {
+      "id": "ex-articles-26",
+      "en": "They live in Turkey.",
+      "tr": "Türkiye’de yaşıyorlar.",
+      "highlight": "Turkey",
+      "note": "Çoğu ülke adı → artikel yok"
+    },
+    {
+      "id": "ex-articles-27",
+      "en": "He lives in the USA.",
+      "tr": "ABD’de yaşıyor.",
+      "highlight": "the USA",
+      "note": "İstisna: the USA, the UK"
+    },
+    {
+      "id": "ex-articles-28",
+      "en": "I eat an egg every morning.",
+      "tr": "Her sabah bir yumurta yerim.",
+      "highlight": "an egg"
+    },
+    {
+      "id": "ex-articles-29",
+      "en": "Can I have a glass of water?",
+      "tr": "Bir bardak su alabilir miyim?",
+      "highlight": "a glass of water",
+      "note": "Sayılamayan sözcüğü ölçüyle sayarız: a glass of water"
+    },
+    {
+      "id": "ex-articles-30",
+      "en": "My sister is a doctor.",
+      "tr": "Kız kardeşim doktor.",
+      "highlight": "a doctor"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-articles-01",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Car ünsüz sesiyle başlar; tekil sayılabilir isim olduğu için a gelir: I have a car.",
+      "optionExplanations": {
+        "b": "An yalnızca ünlü sesiyle başlayan isimlerden önce gelir; car ünsüzle başlar.",
+        "c": "The, belli bir arabadan söz ederken kullanılırdı; burada herhangi bir araba var.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-02",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is ___ teacher.",
+      "answers": [
+        "a"
+      ],
+      "explanation": "Teacher ünsüz sesiyle başlar; meslekten önce a gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "an",
+          "explanation": "An yalnızca ünlü sesiyle başlayan isimlerden önce gelir."
+        },
+        {
+          "answer": "the",
+          "explanation": "Herhangi bir öğretmenden söz ediyoruz; the belli biri için kullanılırdı."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-03",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O (erkek) bir mühendis.",
+      "answer": [
+        "He",
+        "is",
+        "an",
+        "engineer"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "a"
+      ],
+      "explanation": "Engineer ünlü sesiyle başlar; an gelir: He is an engineer.",
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-04",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is teacher.",
+      "errorSpan": "teacher",
+      "answers": [
+        "She is a teacher.",
+        "She's a teacher."
+      ],
+      "explanation": "Tekil meslekten önce a / an zorunludur: a teacher.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is an teacher.",
+          "explanation": "Teacher ünsüz sesiyle başlar; an değil a gelir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-05",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben bir öğrenciyim.",
+      "hint": "öğrenci: student",
+      "answers": [
+        "I am a student.",
+        "I'm a student."
+      ],
+      "targetStructure": "Meslek / kimlik: a + isim",
+      "explanation": "Türkçedeki “bir” İngilizcede a ile karşılanır; student ünsüz sesiyle başlar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am student.",
+          "explanation": "Tekil isimden önce a gerekir."
+        },
+        {
+          "answer": "I am an student.",
+          "explanation": "Student ünsüzle başlar; an değil a kullanılır."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-06",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She has ___ apple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Apple ünlü sesiyle başlar; an gelir: She has an apple.",
+      "optionExplanations": {
+        "a": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir.",
+        "c": "The belli bir elma için kullanılırdı.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-07",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He has ___ egg.",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Egg ünlü sesiyle başlar; an gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-08",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir kedim var.",
+      "answer": [
+        "I",
+        "have",
+        "a",
+        "cat"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "an",
+        "the"
+      ],
+      "explanation": "Cat ünsüz sesiyle başlar; tekil sayılabilir isim için a gelir: I have a cat.",
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-09",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have car.",
+      "errorSpan": "car",
+      "answers": [
+        "I have a car."
+      ],
+      "explanation": "Tekil sayılabilir isim artikelsiz kullanılmaz: a car.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have an car.",
+          "explanation": "Car ünsüz sesiyle başlar; an değil a gelir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-10",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir elmam var.",
+      "hint": "elma: apple",
+      "answers": [
+        "I have an apple.",
+        "I've got an apple."
+      ],
+      "targetStructure": "an + ünlü sesli isim",
+      "explanation": "Apple ünlü sesiyle başlar; an gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have a apple.",
+          "explanation": "Apple ünlü sesiyle başlar; an gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-11",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I need ___ umbrella.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Umbrella ünlü sesiyle başlar; an gelir.",
+      "optionExplanations": {
+        "a": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir.",
+        "c": "The belli bir şemsiye için kullanılırdı.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-12",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There is ___ orange on the table.",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Orange ünlü sesiyle başlar; an gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-13",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is ___ engineer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Engineer ünlü sesiyle başlar; an gelir: He is an engineer.",
+      "optionExplanations": {
+        "a": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir.",
+        "c": "The belli bir mühendis için kullanılırdı.",
+        "d": "Tekil meslekten önce artikel gerekir."
+      },
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-14",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She goes to ___ university in Ankara.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "University “yu” sesiyle başlar; bu bir ünsüz sesidir. Bu yüzden a gelir: a university.",
+      "optionExplanations": {
+        "b": "An’ı yazıdaki u harfi yüzünden seçme; ses “yu”dur, yani ünsüzdür.",
+        "c": "The belli bir üniversite için kullanılırdı.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-15",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I need ___ hour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hour’da h harfi okunmaz; kelime ünlü sesiyle başlar gibi okunur. Bu yüzden an gelir: an hour.",
+      "optionExplanations": {
+        "a": "A, h harfi yüzünden seçilirse yanlış olur; h okunmadığı için ses ünlüdür.",
+        "c": "The belli bir saat için kullanılırdı.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-16",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I bought a book. ___ book is interesting.",
+      "answers": [
+        "The"
+      ],
+      "explanation": "Aynı kitaptan ikinci kez söz ediliyor; the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "A",
+          "explanation": "A, ilk kez söz ederken kullanılır; burada kitap artık bellidir."
+        },
+        {
+          "answer": "An",
+          "explanation": "An, ünlü sesiyle başlayan isimlerden önce gelir; ayrıca kitap artık bellidir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-17",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Close ___ door, please.",
+      "answers": [
+        "the"
+      ],
+      "explanation": "Hangi kapıdan söz edildiği belli olduğu için the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "A herhangi bir kapı için kullanılırdı; burada belli bir kapı kastediliyor."
+        },
+        {
+          "answer": "an",
+          "explanation": "Door ünsüzle başlar; ayrıca belli bir kapı kastediliyor."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-18",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ sun is a star.",
+      "answers": [
+        "The"
+      ],
+      "explanation": "Dünyada tek olan şeylerin önünde the kullanılır: The sun.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "A",
+          "explanation": "Güneş tektir; a değil the gerekir."
+        },
+        {
+          "answer": "An",
+          "explanation": "Sun ünsüzle başlar; ayrıca güneş tektir, the gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the",
+        "unique"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-19",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is ___ honest man.",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Honest’te h okunmaz; ünlü sesiyle başlar gibi olur: an honest man.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "H harfi yüzünden a seçilmemeli; h okunmuyor, ses ünlüdür."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-20",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir elma yiyorum. (Bir elma yerim.)",
+      "answer": [
+        "I",
+        "eat",
+        "an",
+        "apple"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "a"
+      ],
+      "explanation": "Apple ünlü sesiyle başlar; an gelir: I eat an apple.",
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-21",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Güneş sıcak.",
+      "answer": [
+        "The",
+        "sun",
+        "is",
+        "hot"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "A",
+        "an"
+      ],
+      "explanation": "Dünyada tek olan şeylerin önünde the kullanılır: The sun is hot.",
+      "tags": [
+        "articles",
+        "the",
+        "unique"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-22",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O (erkek) bir mühendis.",
+      "hint": "mühendis: engineer",
+      "answers": [
+        "He is an engineer.",
+        "He's an engineer."
+      ],
+      "targetStructure": "an + ünlü sesli meslek",
+      "explanation": "Engineer ünlü sesiyle başlar; an gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is a engineer.",
+          "explanation": "Engineer ünlü sesiyle başlar; an gerekir."
+        },
+        {
+          "answer": "He is engineer.",
+          "explanation": "Tekil meslekten önce an gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-23",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kapıyı kapat.",
+      "hint": "kapı: door, kapatmak: close",
+      "answers": [
+        "Close the door.",
+        "Shut the door."
+      ],
+      "targetStructure": "the: belli olan şey",
+      "explanation": "Hangi kapı olduğu belli olduğu için the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Close a door.",
+          "explanation": "A herhangi bir kapıyı anlatırdı; belli bir kapı kastediliyor."
+        },
+        {
+          "answer": "Close door.",
+          "explanation": "Kapı tekil ve belli; the gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-24",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Güneş sıcak.",
+      "hint": "güneş: sun",
+      "answers": [
+        "The sun is hot."
+      ],
+      "targetStructure": "the: tek olan şey",
+      "explanation": "Dünyada tek olan şeylerin önünde the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Sun is hot.",
+          "explanation": "Güneş tektir; the gerekir."
+        },
+        {
+          "answer": "A sun is hot.",
+          "explanation": "A herhangi bir güneşi anlatırdı; güneş tektir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the",
+        "unique"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-25",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is a engineer.",
+      "errorSpan": "a engineer",
+      "answers": [
+        "He is an engineer.",
+        "He's an engineer."
+      ],
+      "explanation": "Engineer ünlü sesiyle başlar; an gerekir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is the engineer.",
+          "explanation": "The belli bir mühendis için kullanılır; burada herhangi bir meslek söyleniyor."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-26",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She goes to an university.",
+      "errorSpan": "an university",
+      "answers": [
+        "She goes to a university."
+      ],
+      "explanation": "University “yu” sesiyle başlar; ünsüz sesi olduğu için a gelir.",
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-27",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I need a hour.",
+      "errorSpan": "a hour",
+      "answers": [
+        "I need an hour."
+      ],
+      "explanation": "Hour’da h okunmaz; an gelir.",
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-28",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Sun is hot.",
+      "errorSpan": "Sun",
+      "answers": [
+        "The sun is hot."
+      ],
+      "explanation": "Dünyada tek olan şeylerin önünde the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "A sun is hot.",
+          "explanation": "Güneş tektir; a değil the gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the",
+        "unique"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-29",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I saw a dog. ___ dog was big.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "An"
+        },
+        {
+          "id": "c",
+          "text": "The"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Aynı köpekten ikinci kez söz ediliyor; the kullanılır.",
+      "optionExplanations": {
+        "a": "A, ilk kez söz ederken kullanılır; köpek artık bellidir.",
+        "b": "An ünlü sesiyle başlayan isimlerden önce gelir; ayrıca köpek bellidir.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-30",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "___ sun is hot.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "An"
+        },
+        {
+          "id": "c",
+          "text": "The"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Güneş dünyada tektir; the kullanılır.",
+      "optionExplanations": {
+        "a": "A herhangi bir güneşi anlatırdı.",
+        "b": "An ünlü sesiyle başlayan isimlerden önce gelir.",
+        "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+      },
+      "tags": [
+        "articles",
+        "the",
+        "unique"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-31",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I like ___ dogs.",
+      "hint": "Köpekleri genel olarak seviyorum.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Köpekleri genel olarak sevdiğini söylüyorsun; genel anlamda çoğul isimlerin önünde artikel gelmez.",
+      "optionExplanations": {
+        "a": "A yalnızca tekil isimlerle kullanılır; dogs çoğuldur.",
+        "b": "An yalnızca tekil isimlerle kullanılır.",
+        "c": "The belli köpeklerden söz ederken kullanılırdı; burada genel anlam var."
+      },
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-articles-32",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "We play ___ football on Sundays.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "(artikel yok)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sporlardan önce artikel gelmez: play football.",
+      "optionExplanations": {
+        "a": "A, spor adlarından önce kullanılmaz.",
+        "b": "An, spor adlarından önce kullanılmaz.",
+        "c": "The, spor adlarından önce kullanılmaz (çalgı aletlerinden önce kullanılır: play the guitar)."
+      },
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-33",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is teacher."
+        },
+        {
+          "id": "b",
+          "text": "She is a teacher."
+        },
+        {
+          "id": "c",
+          "text": "She is an teacher."
+        },
+        {
+          "id": "d",
+          "text": "She teacher."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tekil meslekten önce a / an gerekir; teacher ünsüzle başlar → a.",
+      "optionExplanations": {
+        "a": "Tekil meslekten önce artikel gerekir.",
+        "c": "Teacher ünsüz sesiyle başlar; an değil a gelir.",
+        "d": "To be fiili ve artikel eksik."
+      },
+      "tags": [
+        "articles",
+        "a-an",
+        "jobs"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-34",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have the breakfast at eight."
+        },
+        {
+          "id": "b",
+          "text": "I have breakfast at eight."
+        },
+        {
+          "id": "c",
+          "text": "I have a breakfast at eight."
+        },
+        {
+          "id": "d",
+          "text": "I have an breakfast at eight."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Öğün adlarından önce artikel gelmez: have breakfast.",
+      "optionExplanations": {
+        "a": "Öğün adlarından önce the gelmez.",
+        "c": "Öğün adlarından önce a gelmez.",
+        "d": "Öğün adlarından önce an gelmez; ayrıca breakfast ünsüzle başlar."
+      },
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-35",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She is ___ best student in the class.",
+      "answers": [
+        "the"
+      ],
+      "explanation": "En üstünlük derecesinde (best) the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "Best gibi en üstünlük ifadelerinden önce the gelir."
+        },
+        {
+          "answer": "an",
+          "explanation": "Best ünsüzle başlar; ayrıca the gerekir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the",
+        "superlative"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-36",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "My brother studies at ___ university.",
+      "answers": [
+        "a"
+      ],
+      "explanation": "University “yu” sesiyle başlar; a kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "an",
+          "explanation": "University’de ilk ses ünsüzdür (yu); an değil a gelir."
+        },
+        {
+          "answer": "the",
+          "explanation": "Herhangi bir üniversiteden söz ediliyor."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an",
+        "sound"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-37",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Can I have ___ glass of water?",
+      "answers": [
+        "a"
+      ],
+      "explanation": "Glass ünsüz sesiyle başlar; “bir bardak” için a gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "an",
+          "explanation": "Glass ünsüzle başlar; an değil a gelir."
+        },
+        {
+          "answer": "the",
+          "explanation": "Herhangi bir bardak isteniyor; the belli bir bardak içindir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-38",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Where is ___ bathroom?",
+      "hint": "Bulunduğun yerdeki banyoyu soruyorsun.",
+      "answers": [
+        "the"
+      ],
+      "explanation": "Bulunduğun yerdeki belli banyo sorulduğu için the kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "A herhangi bir banyoyu sorardı; burada belli banyo kastediliyor."
+        },
+        {
+          "answer": "an",
+          "explanation": "Bathroom ünsüzle başlar; ayrıca belli banyo sorulmuş."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-39",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben İngilizce konuşurum.",
+      "answer": [
+        "I",
+        "speak",
+        "English"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "the",
+        "an"
+      ],
+      "explanation": "Dil adlarından önce artikel gelmez: I speak English.",
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-40",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kapıyı kapat lütfen.",
+      "answer": [
+        "Close",
+        "the",
+        "door,",
+        "please"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "a",
+        "an"
+      ],
+      "explanation": "Belli olan kapı için the kullanılır: Close the door, please.",
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-articles-41",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I play the football on Sundays.",
+      "errorSpan": "the football",
+      "answers": [
+        "I play football on Sundays."
+      ],
+      "explanation": "Spor adlarından önce artikel gelmez: play football.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I play a football on Sundays.",
+          "explanation": "Spor adlarından önce a gelmez."
+        }
+      ],
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-42",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have the breakfast at eight.",
+      "errorSpan": "the breakfast",
+      "answers": [
+        "I have breakfast at eight."
+      ],
+      "explanation": "Öğün adlarından önce artikel gelmez: have breakfast.",
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-43",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I saw a dog. A dog was big.",
+      "errorSpan": "A dog was",
+      "answers": [
+        "I saw a dog. The dog was big.",
+        "I saw a dog. It was big."
+      ],
+      "explanation": "İkinci kez söz edilen köpek için the (ya da it) kullanılır.",
+      "tags": [
+        "articles",
+        "the"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-44",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Futbol oynarım.",
+      "hint": "oynamak: play, futbol: football",
+      "answers": [
+        "I play football."
+      ],
+      "targetStructure": "Spor adlarından önce artikel yok",
+      "explanation": "Spor adlarından önce artikel gelmez.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I play the football.",
+          "explanation": "Spor adlarından önce the gelmez."
+        },
+        {
+          "answer": "I play a football.",
+          "explanation": "Spor adlarından önce a gelmez."
+        }
+      ],
+      "tags": [
+        "articles",
+        "zero-article"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-45",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir köpek gördüm. Köpek büyüktü.",
+      "hint": "görmek: see (geçmişi saw). İkinci cümlede the kullan.",
+      "answers": [
+        "I saw a dog. The dog was big."
+      ],
+      "targetStructure": "İlk söz edişte a, ikincide the",
+      "explanation": "İlk söz edişte a dog, ikinci söz edişte the dog kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I saw a dog. A dog was big.",
+          "explanation": "İkinci söz edişte the gerekir."
+        },
+        {
+          "answer": "I saw the dog. The dog was big.",
+          "explanation": "İlk söz edişte köpek henüz belli değil; a kullanılır."
+        }
+      ],
+      "tags": [
+        "articles",
+        "the",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-46",
+      "lessonId": "a1-articles",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir bardak su alabilir miyim?",
+      "hint": "bardak: glass, su: water",
+      "answers": [
+        "Can I have a glass of water?"
+      ],
+      "targetStructure": "a + ölçü + of + sayılamayan isim",
+      "explanation": "Sayılamayan sözcük ölçüyle sayılır: a glass of water.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Can I have glass of water?",
+          "explanation": "Tekil ölçü sözcüğünden önce a gerekir."
+        },
+        {
+          "answer": "Can I have a water?",
+          "explanation": "Bu anlam için a glass of water denir."
+        }
+      ],
+      "tags": [
+        "articles",
+        "a-an"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-articles",
+    "title": "Articles: Konu sonu sınavı",
+    "description": "A / an seçimi, the kullanımı ve artikelsiz durumlar konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-articles-exam-01",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She has ___ orange.",
+        "options": [
+          {
+            "id": "a",
+            "text": "a"
+          },
+          {
+            "id": "b",
+            "text": "an"
+          },
+          {
+            "id": "c",
+            "text": "the"
+          },
+          {
+            "id": "d",
+            "text": "(artikel yok)"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Orange ünlü sesiyle başlar; an gelir.",
+        "optionExplanations": {
+          "a": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir.",
+          "c": "The belli bir portakal için kullanılırdı.",
+          "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+        },
+        "tags": [
+          "articles",
+          "a-an"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-02",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "This is ___ elephant.",
+        "answers": [
+          "an"
+        ],
+        "explanation": "Elephant ünlü sesiyle başlar; an gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "a",
+            "explanation": "A yalnızca ünsüz sesiyle başlayan isimlerden önce gelir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "a-an"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-03",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bir şemsiyem var.",
+        "answer": [
+          "I",
+          "have",
+          "an",
+          "umbrella"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "a"
+        ],
+        "explanation": "Umbrella ünlü sesiyle başlar; an gelir.",
+        "tags": [
+          "articles",
+          "a-an"
+        ],
+        "errorTags": [
+          "article_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-articles-exam-04",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He has apple.",
+        "errorSpan": "apple",
+        "answers": [
+          "He has an apple."
+        ],
+        "explanation": "Tekil sayılabilir isim artikelsiz kullanılmaz; apple ünlüyle başladığı için an gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He has a apple.",
+            "explanation": "Apple ünlü sesiyle başlar; an gerekir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "a-an"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-05",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bir şemsiyem var.",
+        "hint": "şemsiye: umbrella",
+        "answers": [
+          "I have an umbrella.",
+          "I've got an umbrella."
+        ],
+        "targetStructure": "an + ünlü sesli isim",
+        "explanation": "Umbrella ünlü sesiyle başlar; an gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have a umbrella.",
+            "explanation": "Umbrella ünlü sesiyle başlar; an gerekir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "a-an"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-06",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He is ___ doctor.",
+        "options": [
+          {
+            "id": "a",
+            "text": "a"
+          },
+          {
+            "id": "b",
+            "text": "an"
+          },
+          {
+            "id": "c",
+            "text": "the"
+          },
+          {
+            "id": "d",
+            "text": "(artikel yok)"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Doctor ünsüz sesiyle başlar; meslekten önce a gelir.",
+        "optionExplanations": {
+          "b": "An ünlü sesiyle başlayan isimlerden önce gelir.",
+          "c": "The belli bir doktor için kullanılırdı.",
+          "d": "Tekil meslekten önce artikel gerekir."
+        },
+        "tags": [
+          "articles",
+          "a-an",
+          "jobs"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-07",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "My father is ___ engineer.",
+        "answers": [
+          "an"
+        ],
+        "explanation": "Engineer ünlü sesiyle başlar; an gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "a",
+            "explanation": "Engineer ünlü sesiyle başlar; a değil an gelir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "a-an",
+          "jobs"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-08",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "O (kadın) bir üniversitede çalışır.",
+        "answer": [
+          "She",
+          "works",
+          "at",
+          "a",
+          "university"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "an"
+        ],
+        "explanation": "University “yu” sesiyle başlar; a kullanılır.",
+        "tags": [
+          "articles",
+          "a-an",
+          "sound"
+        ],
+        "errorTags": [
+          "article_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-articles-exam-09",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I speak the English.",
+        "errorSpan": "the English",
+        "answers": [
+          "I speak English."
+        ],
+        "explanation": "Dil adlarından önce artikel gelmez.",
+        "tags": [
+          "articles",
+          "zero-article"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-10",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Banyo nerede?",
+        "hint": "banyo: bathroom",
+        "answers": [
+          "Where is the bathroom?"
+        ],
+        "targetStructure": "the: belli olan şey",
+        "explanation": "Bulunduğun yerdeki belli banyo sorulduğu için the kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Where is bathroom?",
+            "explanation": "Belli bir şey için the gerekir."
+          },
+          {
+            "answer": "Where is a bathroom?",
+            "explanation": "A herhangi bir banyoyu sorardı."
+          }
+        ],
+        "tags": [
+          "articles",
+          "the"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-11",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "We have a cat. ___ cat is black.",
+        "options": [
+          {
+            "id": "a",
+            "text": "A"
+          },
+          {
+            "id": "b",
+            "text": "An"
+          },
+          {
+            "id": "c",
+            "text": "The"
+          },
+          {
+            "id": "d",
+            "text": "(artikel yok)"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Aynı kediden ikinci kez söz ediliyor; the kullanılır.",
+        "optionExplanations": {
+          "a": "A, ilk kez söz ederken kullanılır.",
+          "b": "An ünlü sesiyle başlayan isimlerden önce gelir.",
+          "d": "Tekil sayılabilir isim artikelsiz kullanılmaz."
+        },
+        "tags": [
+          "articles",
+          "the"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-12",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Open ___ window, please.",
+        "answers": [
+          "the"
+        ],
+        "explanation": "Hangi pencere olduğu belli olduğu için the kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "a",
+            "explanation": "A herhangi bir pencereyi anlatırdı."
+          },
+          {
+            "answer": "an",
+            "explanation": "Window ünsüzle başlar; ayrıca belli bir pencere kastediliyor."
+          }
+        ],
+        "tags": [
+          "articles",
+          "the"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-13",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Moon is beautiful.",
+        "errorSpan": "Moon",
+        "answers": [
+          "The moon is beautiful."
+        ],
+        "explanation": "Dünyada tek olan şeylerin önünde the kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "A moon is beautiful.",
+            "explanation": "Ay tektir; a değil the gerekir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "the",
+          "unique"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-14",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He plays the football."
+          },
+          {
+            "id": "b",
+            "text": "He plays football."
+          },
+          {
+            "id": "c",
+            "text": "He plays a football."
+          },
+          {
+            "id": "d",
+            "text": "He plays an football."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Spor adlarından önce artikel gelmez: He plays football.",
+        "optionExplanations": {
+          "a": "Spor adlarından önce the gelmez.",
+          "c": "Spor adlarından önce a gelmez.",
+          "d": "Spor adlarından önce an gelmez."
+        },
+        "tags": [
+          "articles",
+          "zero-article"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-15",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "___ moon is beautiful tonight.",
+        "answers": [
+          "The"
+        ],
+        "explanation": "Dünyada tek olan şeylerin önünde the kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "A",
+            "explanation": "Ay tektir; a değil the gerekir."
+          }
+        ],
+        "tags": [
+          "articles",
+          "the",
+          "unique"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-exam-16",
+        "lessonId": "a1-articles",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Su önemlidir.",
+        "answer": [
+          "Water",
+          "is",
+          "important"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "The",
+          "A"
+        ],
+        "explanation": "Genel anlamda sayılamayan isimlerin önünde artikel gelmez.",
+        "tags": [
+          "articles",
+          "zero-article"
+        ],
+        "errorTags": [
+          "article_usage",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

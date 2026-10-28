@@ -1,3 +1,4 @@
+import aArticles from "@/assets/data/levels/a1/a1-articles.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -13,6 +14,7 @@ import aPresentSimple from "@/assets/data/levels/a1/a1-present-simple.json";
 export const lessonFiles: Record<string, unknown> = {
   "a1-pronouns-sentence": aPronouns,
   "a1-have-got": aHaveGot,
+  "a1-articles": aArticles,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,
