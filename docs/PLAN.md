@@ -61,7 +61,7 @@ durumdaki ekranlar için eklenir.
 
 ### Yerel veri (AsyncStorage)
 
-Tek anahtar altında sürümlü bir kullanıcı durumu (`grammarpath/state/v1`):
+Tek anahtar altında sürümlü bir kullanıcı durumu (`grammarpath/user-state`):
 
 ```
 { schemaVersion, lessonProgress, attempts[], examResults[], mistakes{questionId→kayıt},
@@ -72,6 +72,22 @@ Tek anahtar altında sürümlü bir kullanıcı durumu (`grammarpath/state/v1`):
 - `migrations[]` ile sürüm yükseltme.
 - Yazmalar kısa bir gecikmeyle birleştirilir (debounce); cevap geçmişi sınırlandırılır.
 - Yanlışlar `questionId` ile anahtarlanır → kopya kayıt oluşmaz.
+- Bozuk tek tek kayıtlar atılır, geri kalan veri korunur; ham veri önce yedeklenir.
+- Daha yeni bir uygulama sürümünün verisi okunursa üzerine yazılmaz.
+- Ustalık saklanmaz; cevap geçmişinden hesaplanır (tek doğruluk kaynağı).
+
+### Aşama 2 dosyaları
+
+| Dosya | Görev |
+| --- | --- |
+| `src/domain/models/*` | Müfredat, ders, soru (türe göre ayrı tipler), karşılaştırma, kullanıcı verisi tipleri |
+| `src/domain/validation/*` | Müfredat, ders ve karşılaştırma doğrulayıcıları |
+| `src/domain/question-engine/normalize.ts` | Serbest metin cevap normalizasyonu |
+| `src/domain/progress/userStateUpdates.ts` | Cevap kaydı, yanlışlar, tekrar listesi, ders adımları (saf fonksiyonlar) |
+| `src/data/contentRepository.ts` | Paketlenmiş JSON'u bir kez yükler ve doğrular |
+| `src/data/lessonFiles.ts` | Ders dosyalarının kaydı (Metro statik require ister) |
+| `src/services/storage/*` | AsyncStorage deposu, şema onarımı, geçişler, birleştirilmiş yazma |
+| `src/services/progress/userStore.ts` | Uygulama geneli durum + `useUserState()` |
 
 ### Ustalık
 
@@ -97,9 +113,9 @@ Toplam ders sayısı ve ön koşullar `assets/data/curriculum.json` içindedir.
 ## Aşamalar
 
 1. **İskelet** — tema, ortak bileşenler, sekmeli navigasyon, ana sayfa,
-   müfredat ve seviye ekranları, müfredat kataloğu. ✅ bu aşama
+   müfredat ve seviye ekranları, müfredat kataloğu. ✅
 2. **Veri mimarisi** — tüm tipler, içerik doğrulayıcı (uygulama açılışında +
-   test), depolama katmanı, Jest kurulumu ve temel testler.
+   test), depolama katmanı, Jest kurulumu ve temel testler. ✅
 3. **İlk ders (A1 To Be)** — ders ekranı, 5 soru türü, alıştırma akışı,
    konu sonu sınavı, ilerleme kaydı. Uçtan uca doğrulama.
 4. **Öğrenme motoru** — puanlama, ustalık, yanlışlar, tekrar listesi, karışık test.

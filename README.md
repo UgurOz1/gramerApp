@@ -15,6 +15,7 @@ npx expo start      # Expo Go ile QR kodu okut
 - `npm run android` / `npm run ios` — emülatör/simülatör
 - `npm run lint` — ESLint
 - `npm run typecheck` — TypeScript kontrolü
+- `npm test` — birim testleri (içerik doğrulama dahil)
 
 ## Klasör yapısı
 
@@ -23,9 +24,12 @@ assets/data/        # Müfredat ve ders içerikleri (JSON)
 src/
 ├── app/            # Yalnızca ekranlar ve layout dosyaları (Expo Router)
 ├── components/     # common/ (temel bileşenler), progress/ …
-├── domain/models/  # İçerik ve kullanıcı verisi tipleri
+├── data/           # Paketlenmiş içeriğin yüklenmesi ve doğrulanması
+├── domain/         # Tipler, doğrulama, cevap ve ilerleme mantığı (saf TS)
 ├── features/       # Ekranlara veri hazırlayan modüller
+├── services/       # Yerel depolama ve uygulama durumu
 └── theme/          # Renkler, boşluklar, tipografi
+tests/              # Jest testleri
 docs/               # Plan ve mimari notlar
 ```
 

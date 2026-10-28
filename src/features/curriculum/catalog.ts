@@ -1,15 +1,19 @@
-import rawCurriculum from "@/assets/data/curriculum.json";
+import { getAvailableLessonIds, getCurriculum } from "@/data/contentRepository";
 import type { Curriculum, LessonSummary, Level, LevelId, Unit } from "@/domain/models";
 
-// JSON'un tam doğrulaması Aşama 2'de içerik doğrulayıcıyla eklenecek.
-const curriculum = rawCurriculum as Curriculum;
+const EMPTY: Curriculum = { schemaVersion: 1, contentVersion: 0, levels: [], units: [], lessons: [] };
+
+// Müfredat geçersizse (testler bunu engeller) boş katalog döner ve ekranlar çökmez.
+const curriculum = getCurriculum() ?? EMPTY;
 
 const levelById = new Map(curriculum.levels.map((l) => [l.id, l]));
 const unitById = new Map(curriculum.units.map((u) => [u.id, u]));
 const lessonById = new Map(curriculum.lessons.map((l) => [l.id, l]));
+const availableLessonIds = new Set(getAvailableLessonIds());
 
-/** Tam içeriği hazırlanmış derslerin kimlikleri. Aşama 3'ten itibaren dolacak. */
-const availableLessonIds = new Set<string>();
+export function isCatalogLoaded(): boolean {
+  return curriculum !== EMPTY;
+}
 
 export function getLevels(): Level[] {
   return [...curriculum.levels].sort((a, b) => a.order - b.order);
