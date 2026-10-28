@@ -1,0 +1,2621 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-demonstratives",
+  "levelId": "a1",
+  "title": "This, That, These, Those",
+  "objectives": [
+    "Yakın ve uzak, tek ve çoğul şeyler için doğru işaret sözcüğünü seçmek",
+    "This / that ile is, these / those ile are kullanmak",
+    "İsimle işaret sözcüğünü uyumlu kullanmak (this book, these books)",
+    "Soru, olumsuz cümle ve kısa cevap kurmak; kısa cevapta it ve they kullanmak",
+    "Birini tanıştırırken ve telefonda this is kalıbını kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "This, that, these, those",
+      "paragraphs": [
+        "This, that, these ve those işaret sözcükleridir; bir şeyi ya da kişiyi “bu, şu, o” diyerek gösterirsin. İki şeye bakarak seçersin: şey sana yakın mı uzak mı, ve tek mi çok mu.",
+        "Türkçede üç kademe vardır: bu (yakın), şu (biraz uzak), o (uzak). İngilizcede ise iki kademe vardır: this / these yakın, that / those uzak. Türkçedeki “şu” ve “o” İngilizcede çoğu zaman that olur.",
+        "Bu sözcükler iki biçimde kullanılır: tek başına (This is my bag.) ve bir ismin önünde (This bag is new.). İkisinde de tekil / çoğul seçimi aynıdır."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "rule",
+      "title": "Dört işaret sözcüğü",
+      "paragraphs": [
+        "Yakınlık ve sayıya göre dört sözcükten birini seçersin:"
+      ],
+      "formulas": [
+        {
+          "label": "Yakın, tek",
+          "pattern": "this  =  bu   →   This is my bag.",
+          "exampleIds": [
+            "ex-demonstratives-01",
+            "ex-demonstratives-05"
+          ]
+        },
+        {
+          "label": "Uzak, tek",
+          "pattern": "that  =  şu, o   →   That is my house.",
+          "exampleIds": [
+            "ex-demonstratives-02",
+            "ex-demonstratives-06"
+          ]
+        },
+        {
+          "label": "Yakın, çok",
+          "pattern": "these  =  bunlar   →   These are my shoes.",
+          "exampleIds": [
+            "ex-demonstratives-03",
+            "ex-demonstratives-07"
+          ]
+        },
+        {
+          "label": "Uzak, çok",
+          "pattern": "those  =  şunlar, onlar   →   Those are my parents.",
+          "exampleIds": [
+            "ex-demonstratives-04",
+            "ex-demonstratives-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be",
+      "type": "rule",
+      "title": "To be ile uyum",
+      "paragraphs": [
+        "This ve that tekildir; is alır. These ve those çoğuldur; are alır. Kısa biçim yalnızca that is için yaygındır: that’s."
+      ],
+      "formulas": [
+        {
+          "label": "Tekil",
+          "pattern": "This / That + is   (that’s)",
+          "exampleIds": [
+            "ex-demonstratives-01",
+            "ex-demonstratives-02",
+            "ex-demonstratives-10"
+          ]
+        },
+        {
+          "label": "Çoğul",
+          "pattern": "These / Those + are",
+          "exampleIds": [
+            "ex-demonstratives-03",
+            "ex-demonstratives-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noun",
+      "type": "rule",
+      "title": "İsmin önünde kullanım",
+      "paragraphs": [
+        "This / that tekil, these / those çoğul isimle birlikte gelir. İsmin tekil ya da çoğul olması işaret sözcüğüyle uyumlu olmalıdır. Artikel (a, the) bu sözcüklerle birlikte kullanılmaz: this book (the this book ✗)."
+      ],
+      "formulas": [
+        {
+          "label": "This / that + tekil isim",
+          "pattern": "this book,  that car",
+          "exampleIds": [
+            "ex-demonstratives-05",
+            "ex-demonstratives-06",
+            "ex-demonstratives-29"
+          ]
+        },
+        {
+          "label": "These / those + çoğul isim",
+          "pattern": "these apples,  those mountains,  those shoes",
+          "exampleIds": [
+            "ex-demonstratives-07",
+            "ex-demonstratives-08",
+            "ex-demonstratives-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "İşaret sözcükleriyle kurulan cümleler to be fiiliyle kurulur; yani olumsuz ve soru yaparken do / does kullanılmaz."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "This / That + is  |  These / Those + are",
+          "exampleIds": [
+            "ex-demonstratives-01",
+            "ex-demonstratives-02",
+            "ex-demonstratives-03",
+            "ex-demonstratives-04"
+          ],
+          "note": "Birini tanıştırırken: This is my friend Ali. Telefonda kendini tanıtırken: Hello, this is Ali."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "This / That + is not (isn’t)  |  These / Those + are not (aren’t)",
+          "exampleIds": [
+            "ex-demonstratives-25",
+            "ex-demonstratives-26"
+          ],
+          "note": "that is not → that isn’t, those are not → those aren’t."
+        },
+        {
+          "label": "Soru",
+          "formula": "Is + this / that …?  |  Are + these / those …?",
+          "exampleIds": [
+            "ex-demonstratives-15",
+            "ex-demonstratives-16",
+            "ex-demonstratives-17",
+            "ex-demonstratives-18"
+          ],
+          "note": "Soruda is / are işaret sözcüğünden önce gelir."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, it is. / No, it isn’t.  |  Yes, they are. / No, they aren’t.",
+          "exampleIds": [
+            "ex-demonstratives-19",
+            "ex-demonstratives-20",
+            "ex-demonstratives-21",
+            "ex-demonstratives-22"
+          ],
+          "note": "Cevapta this / that yerine it, these / those yerine they kullanılır: Yes, this is ✗ → Yes, it is ✓."
+        },
+        {
+          "label": "Soru sözcüğüyle soru",
+          "formula": "What / Who + is + this / that?  |  What + are + these / those?",
+          "exampleIds": [
+            "ex-demonstratives-11",
+            "ex-demonstratives-12",
+            "ex-demonstratives-13",
+            "ex-demonstratives-14",
+            "ex-demonstratives-28"
+          ],
+          "note": "Cevap: It is a pen. / They are pens."
+        }
+      ]
+    },
+    {
+      "id": "examples-single",
+      "type": "examples",
+      "title": "Örnekler: this ve that",
+      "exampleIds": [
+        "ex-demonstratives-01",
+        "ex-demonstratives-02",
+        "ex-demonstratives-05",
+        "ex-demonstratives-06",
+        "ex-demonstratives-09",
+        "ex-demonstratives-10",
+        "ex-demonstratives-27",
+        "ex-demonstratives-29",
+        "ex-demonstratives-25"
+      ]
+    },
+    {
+      "id": "examples-plural",
+      "type": "examples",
+      "title": "Örnekler: these ve those",
+      "exampleIds": [
+        "ex-demonstratives-03",
+        "ex-demonstratives-04",
+        "ex-demonstratives-07",
+        "ex-demonstratives-08",
+        "ex-demonstratives-30",
+        "ex-demonstratives-26"
+      ]
+    },
+    {
+      "id": "examples-questions",
+      "type": "examples",
+      "title": "Örnekler: sorular ve cevaplar",
+      "exampleIds": [
+        "ex-demonstratives-11",
+        "ex-demonstratives-12",
+        "ex-demonstratives-13",
+        "ex-demonstratives-14",
+        "ex-demonstratives-15",
+        "ex-demonstratives-16",
+        "ex-demonstratives-17",
+        "ex-demonstratives-18",
+        "ex-demonstratives-19",
+        "ex-demonstratives-20",
+        "ex-demonstratives-21",
+        "ex-demonstratives-22",
+        "ex-demonstratives-23",
+        "ex-demonstratives-24",
+        "ex-demonstratives-28"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Ne zaman hangisi?",
+      "paragraphs": [
+        "Seçim yaparken şu soruları sor:"
+      ],
+      "items": [
+        {
+          "heading": "Yakın mı, uzak mı?",
+          "body": "Elinde ya da yanında olan şey → this / these. Biraz uzakta, karşıda ya da gösterdiğin şey → that / those.",
+          "exampleIds": [
+            "ex-demonstratives-01",
+            "ex-demonstratives-02"
+          ]
+        },
+        {
+          "heading": "Tek mi, çok mu?",
+          "body": "Tek şey → this / that. Birden fazla şey → these / those.",
+          "exampleIds": [
+            "ex-demonstratives-05",
+            "ex-demonstratives-07"
+          ]
+        },
+        {
+          "heading": "Tanıştırma ve telefon",
+          "body": "Birini tanıştırırken ve telefonda kendini tanıtırken this kullanılır: This is my friend Ali. / Hello, this is Ali.",
+          "exampleIds": [
+            "ex-demonstratives-09",
+            "ex-demonstratives-27"
+          ]
+        },
+        {
+          "heading": "Kısa cevapta it ve they",
+          "body": "This / that yerine it, these / those yerine they kullanılır: Is this your bag? Yes, it is.",
+          "exampleIds": [
+            "ex-demonstratives-19",
+            "ex-demonstratives-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "This are my books.",
+          "right": "These are my books.",
+          "explanation": "Birden fazla şey için these kullanılır ve are ile birlikte gelir."
+        },
+        {
+          "wrong": "These is my bag.",
+          "right": "This is my bag.",
+          "explanation": "Tek şey için this kullanılır ve is ile birlikte gelir."
+        },
+        {
+          "wrong": "That is my shoes.",
+          "right": "Those are my shoes.",
+          "explanation": "Shoes çoğuldur; çoğul için those ve are gerekir."
+        },
+        {
+          "wrong": "This books are new.",
+          "right": "These books are new.",
+          "explanation": "İsim çoğulsa işaret sözcüğü de çoğul olmalıdır."
+        },
+        {
+          "wrong": "I like these book.",
+          "right": "I like this book.  /  I like these books.",
+          "explanation": "Tekil isimle this, çoğul isimle these kullanılır."
+        },
+        {
+          "wrong": "What are this?",
+          "right": "What is this?",
+          "explanation": "This tekildir; is ile kullanılır."
+        },
+        {
+          "wrong": "Is this your bag? Yes, this is.",
+          "right": "Is this your bag? Yes, it is.",
+          "explanation": "Kısa cevapta this yerine it kullanılır."
+        },
+        {
+          "wrong": "Are these your keys? Yes, these are.",
+          "right": "Are these your keys? Yes, they are.",
+          "explanation": "Kısa cevapta these yerine they kullanılır."
+        },
+        {
+          "wrong": "The this book is new.",
+          "right": "This book is new.",
+          "explanation": "This ile artikel birlikte kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "İşaret sözcükleri ve çoğul isimler",
+          "body": "Çoğul isimler the, these, those ile gelir; a / an ile gelmez. Çoğul yapmayı ayrı bir derste öğreniyorsun.",
+          "lessonId": "a1-plurals"
+        },
+        {
+          "topic": "İşaret sözcükleri ve To be",
+          "body": "This / that ile is, these / those ile are kullanılır.",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "İşaret sözcükleri ve artikeller",
+          "body": "This book ile the book farklıdır; ikisi bir arada kullanılmaz.",
+          "lessonId": "a1-articles"
+        },
+        {
+          "topic": "İşaret sözcükleri ve sahiplik sıfatları",
+          "body": "This bag ile my bag birlikte kullanılabilir ama ismin önüne iki belirleyici koyulmaz: this my bag ✗.",
+          "lessonId": "a1-possessives"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "This / that + is, these / those + are: tek ya da çok olması fiili belirler.",
+        "İsim çoğulsa işaret sözcüğü de çoğul olmalı: these books, those shoes.",
+        "Kısa cevapta this / that yerine it, these / those yerine they kullanılır.",
+        "This / that / these / those ile artikel birlikte kullanılmaz."
+      ]
+    },
+    {
+      "id": "notes-info",
+      "type": "notes",
+      "tone": "info",
+      "title": "Bilmekte fayda var",
+      "items": [
+        "Türkçedeki “şu” ve “o” İngilizcede çoğu zaman that olur; “bu” this olur.",
+        "That is genellikle that’s diye kısaltılır; this is, these are, those are kısaltılmaz.",
+        "Yakın ve uzak yalnızca fiziksel mesafe olmak zorunda değildir: konuşan kişi kendine yakın hissettiği şeye this der."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-demonstratives-01",
+        "q-demonstratives-02",
+        "q-demonstratives-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-demonstratives-01",
+      "en": "This is my bag.",
+      "tr": "Bu benim çantam.",
+      "highlight": "This",
+      "note": "Yakında, tek şey"
+    },
+    {
+      "id": "ex-demonstratives-02",
+      "en": "That is my house.",
+      "tr": "Şu benim evim.",
+      "highlight": "That",
+      "note": "Uzakta, tek şey"
+    },
+    {
+      "id": "ex-demonstratives-03",
+      "en": "These are my shoes.",
+      "tr": "Bunlar benim ayakkabılarım.",
+      "highlight": "These",
+      "note": "Yakında, birden fazla şey"
+    },
+    {
+      "id": "ex-demonstratives-04",
+      "en": "Those are my parents.",
+      "tr": "Şunlar anne babam.",
+      "highlight": "Those",
+      "note": "Uzakta, birden fazla kişi / şey"
+    },
+    {
+      "id": "ex-demonstratives-05",
+      "en": "This book is interesting.",
+      "tr": "Bu kitap ilginç.",
+      "highlight": "This book",
+      "note": "This + tekil isim"
+    },
+    {
+      "id": "ex-demonstratives-06",
+      "en": "That car is expensive.",
+      "tr": "O araba pahalı.",
+      "highlight": "That car"
+    },
+    {
+      "id": "ex-demonstratives-07",
+      "en": "These apples are red.",
+      "tr": "Bu elmalar kırmızı.",
+      "highlight": "These apples",
+      "note": "These + çoğul isim"
+    },
+    {
+      "id": "ex-demonstratives-08",
+      "en": "Those mountains are high.",
+      "tr": "Şu dağlar yüksek.",
+      "highlight": "Those mountains"
+    },
+    {
+      "id": "ex-demonstratives-09",
+      "en": "This is my friend Ali.",
+      "tr": "Bu arkadaşım Ali.",
+      "highlight": "This",
+      "note": "Birini tanıştırırken this kullanılır."
+    },
+    {
+      "id": "ex-demonstratives-10",
+      "en": "That's a big dog.",
+      "tr": "O büyük bir köpek.",
+      "highlight": "That's",
+      "note": "That is → that’s"
+    },
+    {
+      "id": "ex-demonstratives-11",
+      "en": "What is this?",
+      "tr": "Bu nedir?",
+      "highlight": "this"
+    },
+    {
+      "id": "ex-demonstratives-12",
+      "en": "What's that?",
+      "tr": "O ne?",
+      "highlight": "that"
+    },
+    {
+      "id": "ex-demonstratives-13",
+      "en": "What are these?",
+      "tr": "Bunlar nedir?",
+      "highlight": "these"
+    },
+    {
+      "id": "ex-demonstratives-14",
+      "en": "What are those?",
+      "tr": "Şunlar nedir?",
+      "highlight": "those"
+    },
+    {
+      "id": "ex-demonstratives-15",
+      "en": "Is this your bag?",
+      "tr": "Bu senin çantan mı?",
+      "highlight": "Is this",
+      "note": "Soruda is / are önce gelir."
+    },
+    {
+      "id": "ex-demonstratives-16",
+      "en": "Is that your car?",
+      "tr": "O senin araban mı?",
+      "highlight": "Is that"
+    },
+    {
+      "id": "ex-demonstratives-17",
+      "en": "Are these your keys?",
+      "tr": "Bunlar senin anahtarların mı?",
+      "highlight": "Are these"
+    },
+    {
+      "id": "ex-demonstratives-18",
+      "en": "Are those your children?",
+      "tr": "Şunlar senin çocukların mı?",
+      "highlight": "Are those"
+    },
+    {
+      "id": "ex-demonstratives-19",
+      "en": "Yes, it is.",
+      "tr": "Evet, öyle.",
+      "highlight": "it",
+      "note": "this / that için kısa cevapta it kullanılır."
+    },
+    {
+      "id": "ex-demonstratives-20",
+      "en": "No, it isn't.",
+      "tr": "Hayır, değil.",
+      "highlight": "it"
+    },
+    {
+      "id": "ex-demonstratives-21",
+      "en": "Yes, they are.",
+      "tr": "Evet, öyleler.",
+      "highlight": "they",
+      "note": "these / those için kısa cevapta they kullanılır."
+    },
+    {
+      "id": "ex-demonstratives-22",
+      "en": "No, they aren't.",
+      "tr": "Hayır, değiller.",
+      "highlight": "they"
+    },
+    {
+      "id": "ex-demonstratives-23",
+      "en": "It is a pen.",
+      "tr": "Bu bir kalem.",
+      "highlight": "It",
+      "note": "What is this? sorusuna cevap"
+    },
+    {
+      "id": "ex-demonstratives-24",
+      "en": "They are pens.",
+      "tr": "Bunlar kalem.",
+      "highlight": "They",
+      "note": "What are these? sorusuna cevap"
+    },
+    {
+      "id": "ex-demonstratives-25",
+      "en": "This is not my phone.",
+      "tr": "Bu benim telefonum değil.",
+      "highlight": "This is not"
+    },
+    {
+      "id": "ex-demonstratives-26",
+      "en": "Those aren't my keys.",
+      "tr": "Şunlar benim anahtarlarım değil.",
+      "highlight": "Those aren't"
+    },
+    {
+      "id": "ex-demonstratives-27",
+      "en": "Hello, this is Ali.",
+      "tr": "Alo, ben Ali. (telefonda)",
+      "highlight": "this",
+      "note": "Telefonda kendini tanıtırken this is kullanılır."
+    },
+    {
+      "id": "ex-demonstratives-28",
+      "en": "Who is that?",
+      "tr": "O kim?",
+      "highlight": "that"
+    },
+    {
+      "id": "ex-demonstratives-29",
+      "en": "I like this song.",
+      "tr": "Bu şarkıyı seviyorum.",
+      "highlight": "this song"
+    },
+    {
+      "id": "ex-demonstratives-30",
+      "en": "Those shoes are new.",
+      "tr": "Şu ayakkabılar yeni.",
+      "highlight": "Those shoes"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-demonstratives-01",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ is my bag.",
+      "hint": "Elindeki çantayı gösteriyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Elindeki ya da yanındaki tek bir şey için this kullanılır.",
+      "optionExplanations": {
+        "b": "That uzaktaki tek şey içindir.",
+        "c": "These çoğul içindir; bag tektir.",
+        "d": "Those çoğul içindir; bag tektir."
+      },
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-02",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ is my phone.",
+      "hint": "Elindeki telefonu gösteriyorsun.",
+      "answers": [
+        "This"
+      ],
+      "explanation": "Elindeki ya da yanındaki tek bir şey için this kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "That",
+          "explanation": "That uzaktaki şeyler içindir."
+        },
+        {
+          "answer": "These",
+          "explanation": "These çoğul içindir ve is ile kullanılmaz."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-03",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu benim çantam.",
+      "answer": [
+        "This",
+        "is",
+        "my",
+        "bag"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "These",
+        "are"
+      ],
+      "explanation": "Yakındaki tek şey için this, is ile birlikte gelir: This is my bag.",
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-04",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This are my books.",
+      "errorSpan": "This",
+      "answers": [
+        "These are my books."
+      ],
+      "explanation": "Books çoğuldur; yakındaki çoğul şeyler için these kullanılır ve are alır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is my books.",
+          "explanation": "Books çoğuldur; this tekil içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-05",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu benim çantam.",
+      "hint": "bu: this",
+      "answers": [
+        "This is my bag."
+      ],
+      "targetStructure": "Yakın, tek: this",
+      "explanation": "Yakındaki tek şey için this kullanılır; is ile gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "These is my bag.",
+          "explanation": "Bag tektir; these çoğul içindir."
+        },
+        {
+          "answer": "That is my bag.",
+          "explanation": "“Bu” yakındaki şeydir; that uzaktaki şey içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-06",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ are my shoes.",
+      "hint": "Ayağındaki ayakkabıları gösteriyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ayağındaki (yakın) çoğul şeyler için these kullanılır.",
+      "optionExplanations": {
+        "a": "This tek şey içindir.",
+        "b": "That tek şey içindir.",
+        "d": "Those uzaktaki çoğul şeyler içindir."
+      },
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-07",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ are my glasses.",
+      "hint": "Yüzündeki gözlükleri gösteriyorsun.",
+      "answers": [
+        "These"
+      ],
+      "explanation": "Yakındaki çoğul şeyler için these kullanılır ve are alır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This",
+          "explanation": "This tek şey içindir."
+        },
+        {
+          "answer": "Those",
+          "explanation": "Those uzaktaki şeyler içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-08",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bunlar benim ayakkabılarım.",
+      "answer": [
+        "These",
+        "are",
+        "my",
+        "shoes"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "This",
+        "is"
+      ],
+      "explanation": "Yakındaki çoğul şeyler için these, are ile birlikte gelir.",
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-09",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "That is my shoes.",
+      "errorSpan": "That is",
+      "answers": [
+        "Those are my shoes."
+      ],
+      "explanation": "Shoes çoğuldur; çoğul için those ve are gerekir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "That are my shoes.",
+          "explanation": "That tekildir; çoğul özne için those gerekir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-10",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bunlar benim ayakkabılarım.",
+      "hint": "ayakkabı: shoe (çoğul kullan)",
+      "answers": [
+        "These are my shoes."
+      ],
+      "targetStructure": "Yakın, çok: these",
+      "explanation": "Yakındaki çoğul şeyler için these kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This are my shoes.",
+          "explanation": "This tekildir; çoğul için these gerekir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-11",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ is my house.",
+      "hint": "Karşıdaki evi gösteriyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Uzaktaki tek bir şey için that kullanılır.",
+      "optionExplanations": {
+        "a": "This yakındaki şey içindir.",
+        "c": "These çoğul içindir.",
+        "d": "Those çoğul içindir."
+      },
+      "tags": [
+        "demonstratives",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-12",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ is my car.",
+      "hint": "Uzakta duran arabayı gösteriyorsun.",
+      "answers": [
+        "That"
+      ],
+      "explanation": "Uzaktaki tek şey için that kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This",
+          "explanation": "This yakındaki şey içindir."
+        },
+        {
+          "answer": "Those",
+          "explanation": "Those çoğul içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-13",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ are my parents.",
+      "hint": "Karşıda duran anne babanı gösteriyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Uzaktaki çoğul kişi ya da şeyler için those kullanılır.",
+      "optionExplanations": {
+        "a": "This tek şey içindir.",
+        "b": "That tek şey içindir.",
+        "c": "These yakındaki şeyler içindir."
+      },
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-14",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ are my children.",
+      "hint": "Karşıda duran çocuklarını gösteriyorsun.",
+      "answers": [
+        "Those"
+      ],
+      "explanation": "Uzaktaki çoğul kişiler için those kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "These",
+          "explanation": "These yakındaki kişiler içindir."
+        },
+        {
+          "answer": "That",
+          "explanation": "That tek şey içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-15",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şu benim evim.",
+      "answer": [
+        "That",
+        "is",
+        "my",
+        "house"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Those",
+        "are"
+      ],
+      "explanation": "Uzaktaki tek şey için that kullanılır.",
+      "tags": [
+        "demonstratives",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-16",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şunlar anne babam.",
+      "answer": [
+        "Those",
+        "are",
+        "my",
+        "parents"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "That",
+        "is"
+      ],
+      "explanation": "Uzaktaki çoğul kişiler için those, are ile birlikte gelir.",
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-17",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu benim evim.",
+      "hint": "şu / o (uzakta): that",
+      "answers": [
+        "That is my house.",
+        "That's my house."
+      ],
+      "targetStructure": "Uzak, tek: that",
+      "explanation": "Uzaktaki tek şey için that kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is my house.",
+          "explanation": "Uzaktaki ev için this değil that kullanılır."
+        },
+        {
+          "answer": "Those is my house.",
+          "explanation": "House tektir; those çoğul içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-18",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ books are interesting.",
+      "hint": "Elindeki kitapları gösteriyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Elindeki (yakın) çoğul kitaplar için these kullanılır; isim de çoğuldur.",
+      "optionExplanations": {
+        "a": "This tekil isimle kullanılır; books çoğuldur.",
+        "b": "That tekil isimle kullanılır.",
+        "d": "Those uzaktaki çoğul şeyler içindir."
+      },
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-19",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ book is interesting.",
+      "hint": "Elindeki kitabı gösteriyorsun.",
+      "answers": [
+        "This"
+      ],
+      "explanation": "Elindeki tek kitap için this kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "These",
+          "explanation": "These çoğul isimle kullanılır; book tektir."
+        },
+        {
+          "answer": "That",
+          "explanation": "That uzaktaki şey içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-20",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ apples are red.",
+      "hint": "Elindeki elmaları gösteriyorsun.",
+      "answers": [
+        "These"
+      ],
+      "explanation": "Elindeki çoğul elmalar için these kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This",
+          "explanation": "This tekil isimle kullanılır; apples çoğuldur."
+        },
+        {
+          "answer": "Those",
+          "explanation": "Those uzaktaki şeyler içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-21",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This are my keys."
+        },
+        {
+          "id": "b",
+          "text": "These are my keys."
+        },
+        {
+          "id": "c",
+          "text": "These is my keys."
+        },
+        {
+          "id": "d",
+          "text": "This is my keys."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Keys çoğuldur; these ve are birlikte gelir.",
+      "optionExplanations": {
+        "a": "This tekildir; are ile kullanılmaz.",
+        "c": "These çoğuldur; is ile kullanılmaz.",
+        "d": "This tekildir; keys çoğuldur."
+      },
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-22",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "That is my shoes."
+        },
+        {
+          "id": "b",
+          "text": "Those are my shoes."
+        },
+        {
+          "id": "c",
+          "text": "Those is my shoes."
+        },
+        {
+          "id": "d",
+          "text": "That are my shoes."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Shoes çoğuldur; those ve are birlikte gelir.",
+      "optionExplanations": {
+        "a": "That tekildir; shoes çoğuldur.",
+        "c": "Those çoğuldur; is ile kullanılmaz.",
+        "d": "That tekildir; are ile kullanılmaz."
+      },
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-23",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Is this your bag?” sorusuna olumlu kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it is."
+        },
+        {
+          "id": "b",
+          "text": "Yes, this is."
+        },
+        {
+          "id": "c",
+          "text": "Yes, that is."
+        },
+        {
+          "id": "d",
+          "text": "Yes, they are."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta this yerine it kullanılır: Yes, it is.",
+      "optionExplanations": {
+        "b": "Kısa cevapta this tekrar edilmez; it kullanılır.",
+        "c": "Kısa cevapta that kullanılmaz; it gelir.",
+        "d": "They çoğul içindir; bag tektir."
+      },
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-24",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ is Ali, my friend.",
+      "hint": "Arkadaşını birine tanıştırıyorsun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "This"
+        },
+        {
+          "id": "b",
+          "text": "That"
+        },
+        {
+          "id": "c",
+          "text": "These"
+        },
+        {
+          "id": "d",
+          "text": "Those"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Birini tanıştırırken this is kullanılır.",
+      "optionExplanations": {
+        "b": "Tanıştırırken that kullanılmaz; this tercih edilir.",
+        "c": "These çoğuldur; Ali tek kişidir.",
+        "d": "Those çoğuldur; Ali tek kişidir."
+      },
+      "tags": [
+        "demonstratives",
+        "this",
+        "introduction"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-25",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ this?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "This tekildir; is ile kullanılır: What is this?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Are çoğul içindir; this tekildir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-26",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ those?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Those çoğuldur; are ile kullanılır: What are those?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Is tekil içindir; those çoğuldur."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-27",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Hello, ___ is Ali.",
+      "answers": [
+        "this"
+      ],
+      "explanation": "Telefonda kendini tanıtırken this is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "that",
+          "explanation": "Telefonda kendini tanıtırken that değil this kullanılır."
+        },
+        {
+          "answer": "it",
+          "explanation": "Telefonda kendini tanıtırken it değil this kullanılır."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "this",
+        "introduction"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-28",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu nedir?",
+      "answer": [
+        "What",
+        "is",
+        "this"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "are",
+        "these"
+      ],
+      "explanation": "Soru sözcüğü başa gelir, ardından is ve this: What is this?",
+      "tags": [
+        "demonstratives",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-29",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "These is my bag.",
+      "errorSpan": "These",
+      "answers": [
+        "This is my bag."
+      ],
+      "explanation": "Bag tektir; this ve is birlikte gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "These are my bag.",
+          "explanation": "Bag tektir; these çoğul içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "this"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-30",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I like these book.",
+      "errorSpan": "these book",
+      "answers": [
+        "I like this book.",
+        "I like these books."
+      ],
+      "explanation": "İsim ve işaret sözcüğü uyumlu olmalıdır: this book (tekil) ya da these books (çoğul).",
+      "tags": [
+        "demonstratives",
+        "this",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-31",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What are this?",
+      "errorSpan": "are this",
+      "answers": [
+        "What is this?",
+        "What are these?"
+      ],
+      "explanation": "This tekildir, is ile kullanılır (What is this?). Çoğul sormak istiyorsan these ile are kullanılır (What are these?).",
+      "tags": [
+        "demonstratives",
+        "question"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-32",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu nedir?",
+      "hint": "bu: this",
+      "answers": [
+        "What is this?",
+        "What's this?"
+      ],
+      "targetStructure": "Wh- sorusu: What is this?",
+      "explanation": "This tekildir; is ile kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What are this?",
+          "explanation": "This tekildir; is gerekir."
+        },
+        {
+          "answer": "What this is?",
+          "explanation": "Soruda is işaret sözcüğünden önce gelir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-33",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bunlar senin anahtarların mı?",
+      "hint": "anahtar: key",
+      "answers": [
+        "Are these your keys?"
+      ],
+      "targetStructure": "Soru: Are these …?",
+      "explanation": "These çoğuldur; soruda are önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is these your keys?",
+          "explanation": "These çoğuldur; is değil are gerekir."
+        },
+        {
+          "answer": "These are your keys?",
+          "explanation": "Soruda are önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-demonstratives-34",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Are those your keys?” sorusuna olumsuz kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, they aren't."
+        },
+        {
+          "id": "b",
+          "text": "No, those aren't."
+        },
+        {
+          "id": "c",
+          "text": "No, it isn't."
+        },
+        {
+          "id": "d",
+          "text": "No, they isn't."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta those yerine they kullanılır: No, they aren’t.",
+      "optionExplanations": {
+        "b": "Kısa cevapta those tekrar edilmez; they kullanılır.",
+        "c": "It tekil içindir; keys çoğuldur.",
+        "d": "They ile is değil are kullanılır."
+      },
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-35",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“What are these?” sorusuna doğru cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They are books."
+        },
+        {
+          "id": "b",
+          "text": "It is a book."
+        },
+        {
+          "id": "c",
+          "text": "This are books."
+        },
+        {
+          "id": "d",
+          "text": "They is books."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çoğul sorusuna they are ile cevap verilir.",
+      "optionExplanations": {
+        "b": "It tekil içindir; these çoğuldur.",
+        "c": "This, cevapta kullanılmaz; they gelir.",
+        "d": "They ile is değil are kullanılır."
+      },
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-36",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This books are new."
+        },
+        {
+          "id": "b",
+          "text": "These books are new."
+        },
+        {
+          "id": "c",
+          "text": "These book is new."
+        },
+        {
+          "id": "d",
+          "text": "This book are new."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İsim çoğul olduğu için işaret sözcüğü de çoğul olur: these books are.",
+      "optionExplanations": {
+        "a": "Books çoğuldur; this tekildir.",
+        "c": "Book tekil, these çoğuldur; uyumsuz.",
+        "d": "This tekildir; are ile kullanılmaz."
+      },
+      "tags": [
+        "demonstratives",
+        "these"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-37",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Is this your bag? Yes, ___ is.",
+      "answers": [
+        "it"
+      ],
+      "explanation": "Kısa cevapta this yerine it kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "this",
+          "explanation": "Kısa cevapta this tekrar edilmez; it kullanılır."
+        },
+        {
+          "answer": "that",
+          "explanation": "Kısa cevapta that kullanılmaz; it gelir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-38",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Are these your keys? No, ___ aren't.",
+      "answers": [
+        "they"
+      ],
+      "explanation": "Kısa cevapta these yerine they kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "these",
+          "explanation": "Kısa cevapta these tekrar edilmez; they kullanılır."
+        },
+        {
+          "answer": "it",
+          "explanation": "It tekildir; keys çoğuldur."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-39",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "___ aren't my keys.",
+      "hint": "Uzaktaki anahtarları gösteriyorsun.",
+      "answers": [
+        "Those"
+      ],
+      "explanation": "Uzaktaki çoğul şeyler için those kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "These",
+          "explanation": "These yakındaki şeyler içindir."
+        },
+        {
+          "answer": "That",
+          "explanation": "That tekildir; aren’t ile kullanılmaz."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "those",
+        "negative"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-demonstratives-40",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bunlar senin anahtarların mı?",
+      "answer": [
+        "Are",
+        "these",
+        "your",
+        "keys"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Is",
+        "this"
+      ],
+      "explanation": "Soruda are önce gelir: Are these your keys?",
+      "tags": [
+        "demonstratives",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-41",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu benim telefonum değil.",
+      "answer": [
+        "This",
+        "is",
+        "not",
+        "my",
+        "phone"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "These",
+        "are"
+      ],
+      "explanation": "Olumsuz: is not. This tektir; is gelir.",
+      "tags": [
+        "demonstratives",
+        "this",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-demonstratives-42",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şu kitaplar ilginç.",
+      "answer": [
+        "Those",
+        "books",
+        "are",
+        "interesting"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "That",
+        "is"
+      ],
+      "explanation": "Uzaktaki çoğul kitaplar için those books, are ile gelir.",
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-43",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Is this your bag? Yes, this is.",
+      "errorSpan": "this is.",
+      "answers": [
+        "Is this your bag? Yes, it is.",
+        "Is this your bag? Yes it is.",
+        "Yes, it is.",
+        "Yes it is."
+      ],
+      "explanation": "Kısa cevapta this yerine it kullanılır.",
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-44",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Those book is expensive.",
+      "errorSpan": "Those book is",
+      "answers": [
+        "That book is expensive.",
+        "Those books are expensive."
+      ],
+      "explanation": "İsim ve işaret sözcüğü uyumlu olmalıdır: that book (tekil) ya da those books (çoğul).",
+      "tags": [
+        "demonstratives",
+        "those",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-demonstratives-45",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Are these your keys? Yes, these are.",
+      "errorSpan": "these are.",
+      "answers": [
+        "Are these your keys? Yes, they are.",
+        "Are these your keys? Yes they are.",
+        "Yes, they are.",
+        "Yes they are."
+      ],
+      "explanation": "Kısa cevapta these yerine they kullanılır.",
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-46",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şunlar anne babam.",
+      "hint": "anne baba: parents. Uzakta, çoğul.",
+      "answers": [
+        "Those are my parents."
+      ],
+      "targetStructure": "Uzak, çok: those",
+      "explanation": "Uzaktaki çoğul kişiler için those kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "That is my parents.",
+          "explanation": "Parents çoğuldur; those ve are gerekir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "those"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-47",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu senin çantan mı? Evet, öyle.",
+      "hint": "Kısa cevapta it kullan.",
+      "answers": [
+        "Is this your bag? Yes, it is."
+      ],
+      "targetStructure": "Soru ve kısa cevap: this → it",
+      "explanation": "Kısa cevapta this yerine it kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is this your bag? Yes, this is.",
+          "explanation": "Kısa cevapta this yerine it kullanılır."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "short-answer"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-demonstratives-48",
+      "lessonId": "a1-demonstratives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu benim telefonum değil.",
+      "hint": "telefon: phone",
+      "answers": [
+        "This is not my phone.",
+        "This isn't my phone."
+      ],
+      "targetStructure": "Olumsuz: This is not …",
+      "explanation": "This tekildir; olumsuz için is not / isn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This not is my phone.",
+          "explanation": "Not, to be fiilinden sonra gelir."
+        },
+        {
+          "answer": "These are not my phone.",
+          "explanation": "Phone tektir; these çoğul içindir."
+        }
+      ],
+      "tags": [
+        "demonstratives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-demonstratives",
+    "title": "This, That, These, Those: Konu sonu sınavı",
+    "description": "İşaret sözcüğü seçimi, to be ile uyum, soru, olumsuz cümle ve kısa cevaplar konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-demonstratives-exam-01",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ is my pen.",
+        "hint": "Elindeki kalemi gösteriyorsun.",
+        "options": [
+          {
+            "id": "a",
+            "text": "This"
+          },
+          {
+            "id": "b",
+            "text": "That"
+          },
+          {
+            "id": "c",
+            "text": "These"
+          },
+          {
+            "id": "d",
+            "text": "Those"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yakındaki tek şey için this kullanılır.",
+        "optionExplanations": {
+          "b": "That uzaktaki şey içindir.",
+          "c": "These çoğul içindir.",
+          "d": "Those çoğul içindir."
+        },
+        "tags": [
+          "demonstratives",
+          "this"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-02",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "___ are my keys.",
+        "hint": "Elindeki anahtarları gösteriyorsun.",
+        "answers": [
+          "These"
+        ],
+        "explanation": "Yakındaki çoğul şeyler için these kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "This",
+            "explanation": "This tek şey içindir."
+          },
+          {
+            "answer": "Those",
+            "explanation": "Those uzaktaki şeyler içindir."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "these"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-03",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bunlar kalem.",
+        "answer": [
+          "These",
+          "are",
+          "pens"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "This",
+          "is"
+        ],
+        "explanation": "Yakındaki çoğul şeyler için these, are ile gelir.",
+        "tags": [
+          "demonstratives",
+          "these"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-04",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "These is my book.",
+        "errorSpan": "These",
+        "answers": [
+          "This is my book."
+        ],
+        "explanation": "Book tektir; this ve is birlikte gelir.",
+        "tags": [
+          "demonstratives",
+          "this"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-05",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Şu benim arabam.",
+        "hint": "şu / o (uzakta): that",
+        "answers": [
+          "That is my car.",
+          "That's my car."
+        ],
+        "targetStructure": "Uzak, tek: that",
+        "explanation": "Uzaktaki tek şey için that kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "This is my car.",
+            "explanation": "“Şu” uzaktaki şeydir; this yakındaki şey içindir."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "that"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-06",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ are my friends.",
+        "hint": "Karşıda duran arkadaşlarını gösteriyorsun.",
+        "options": [
+          {
+            "id": "a",
+            "text": "This"
+          },
+          {
+            "id": "b",
+            "text": "That"
+          },
+          {
+            "id": "c",
+            "text": "These"
+          },
+          {
+            "id": "d",
+            "text": "Those"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Uzaktaki çoğul kişiler için those kullanılır.",
+        "optionExplanations": {
+          "a": "This tek şey içindir.",
+          "b": "That tek şey içindir.",
+          "c": "These yakındaki kişiler içindir."
+        },
+        "tags": [
+          "demonstratives",
+          "those"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-07",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "___ is my teacher.",
+        "hint": "Karşıda duran öğretmenini gösteriyorsun.",
+        "answers": [
+          "That"
+        ],
+        "explanation": "Uzaktaki tek kişi için that kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "This",
+            "explanation": "This yakındaki kişi içindir."
+          },
+          {
+            "answer": "Those",
+            "explanation": "Those çoğul içindir."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "that"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-08",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu senin telefonun mu?",
+        "answer": [
+          "Is",
+          "this",
+          "your",
+          "phone"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Are",
+          "these"
+        ],
+        "explanation": "Soruda is önce gelir: Is this your phone?",
+        "tags": [
+          "demonstratives",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-09",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "That are my keys.",
+        "errorSpan": "That",
+        "answers": [
+          "Those are my keys."
+        ],
+        "explanation": "Keys çoğuldur; those ve are birlikte gelir.",
+        "tags": [
+          "demonstratives",
+          "those"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-10",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bunlar nedir?",
+        "hint": "bunlar: these",
+        "answers": [
+          "What are these?"
+        ],
+        "targetStructure": "Wh- sorusu: What are these?",
+        "explanation": "These çoğuldur; are ile gelir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "What is these?",
+            "explanation": "These çoğuldur; is değil are gerekir."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-11",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "These is my book."
+          },
+          {
+            "id": "b",
+            "text": "This is my book."
+          },
+          {
+            "id": "c",
+            "text": "This are my book."
+          },
+          {
+            "id": "d",
+            "text": "These are my book."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Book tektir; this ve is birlikte gelir.",
+        "optionExplanations": {
+          "a": "These çoğuldur; is ile kullanılmaz.",
+          "c": "This tekildir; are ile kullanılmaz.",
+          "d": "Book tektir; these çoğuldur."
+        },
+        "tags": [
+          "demonstratives",
+          "this"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-12",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "What ___ these?",
+        "answers": [
+          "are"
+        ],
+        "explanation": "These çoğuldur; are ile kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Is tekil içindir; these çoğuldur."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "question",
+          "wh-question"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-13",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is that your car? Yes, that is.",
+        "errorSpan": "that is.",
+        "answers": [
+          "Is that your car? Yes, it is.",
+          "Is that your car? Yes it is.",
+          "Yes, it is.",
+          "Yes it is."
+        ],
+        "explanation": "Kısa cevapta that yerine it kullanılır.",
+        "tags": [
+          "demonstratives",
+          "short-answer"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-14",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "“Are those your shoes?” sorusuna olumlu kısa cevap hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes, they are."
+          },
+          {
+            "id": "b",
+            "text": "Yes, those are."
+          },
+          {
+            "id": "c",
+            "text": "Yes, it is."
+          },
+          {
+            "id": "d",
+            "text": "Yes, they is."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kısa cevapta those yerine they kullanılır.",
+        "optionExplanations": {
+          "b": "Kısa cevapta those tekrar edilmez; they gelir.",
+          "c": "It tekil içindir; shoes çoğuldur.",
+          "d": "They ile is değil are kullanılır."
+        },
+        "tags": [
+          "demonstratives",
+          "short-answer"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-15",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Is that your car? No, ___ isn't.",
+        "answers": [
+          "it"
+        ],
+        "explanation": "Kısa cevapta that yerine it kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "that",
+            "explanation": "Kısa cevapta that tekrar edilmez; it gelir."
+          },
+          {
+            "answer": "this",
+            "explanation": "Kısa cevapta this de kullanılmaz; it gelir."
+          }
+        ],
+        "tags": [
+          "demonstratives",
+          "short-answer"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-demonstratives-exam-16",
+        "lessonId": "a1-demonstratives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Şunlar benim çocuklarım değil.",
+        "answer": [
+          "Those",
+          "are",
+          "not",
+          "my",
+          "children"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "That",
+          "is"
+        ],
+        "explanation": "Olumsuz: are not. Those çoğuldur; are ile gelir.",
+        "tags": [
+          "demonstratives",
+          "those",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

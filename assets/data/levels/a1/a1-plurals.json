@@ -1,0 +1,2648 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-plurals",
+  "levelId": "a1",
+  "title": "Singular & Plural Nouns",
+  "objectives": [
+    "Çoğul yapmak için -s, -es, -ies ve -ves kurallarını uygulamak",
+    "Sık kullanılan düzensiz çoğulları bilmek (men, women, children, people, feet, teeth, mice)",
+    "Sayıdan sonra ismin çoğul olması gerektiğini hatırlamak",
+    "Çoğul özneyle are kullanmak ve çoğulla a / an kullanmamak",
+    "Her zaman çoğul olan (jeans, glasses) ve tekil–çoğulu aynı olan (sheep) sözcükleri tanımak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Tekil ve çoğul isimler",
+      "paragraphs": [
+        "İngilizcede sayılabilen isimlerin tekil (bir tane: a book) ve çoğul (birden fazla: books) biçimi vardır. Çoğul yapmak için çoğu zaman isme -s eklenir.",
+        "Türkçeden gelen en büyük tuzak şudur: Türkçede sayıdan sonra çoğul eki kullanmayız (“üç kitap”, “iki kardeş”). İngilizcede ise sayıdan sonra isim mutlaka çoğul olur: three books, two brothers. Bu yüzden “three book” demek çok sık yapılan bir hatadır.",
+        "Çoğul isimlerle to be fiili are olur (The books are …) ve a / an kullanılmaz. Bu derste çoğul yapma kurallarını, düzensiz çoğulları ve her zaman çoğul olan sözcükleri öğreneceksin."
+      ]
+    },
+    {
+      "id": "regular",
+      "type": "rule",
+      "title": "Temel kural: + s",
+      "paragraphs": [
+        "Çoğu isim -s ekleyerek çoğul olur:"
+      ],
+      "formulas": [
+        {
+          "label": "Çoğu isim: + s",
+          "pattern": "book → books,  cat → cats,  car → cars,  student → students,  day → days",
+          "exampleIds": [
+            "ex-plurals-01",
+            "ex-plurals-02",
+            "ex-plurals-05",
+            "ex-plurals-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "-es, -ies ve -ves",
+      "paragraphs": [
+        "Bazı isimlerin sonuna göre çoğul eki değişir:"
+      ],
+      "formulas": [
+        {
+          "label": "-s, -ss, -sh, -ch, -x, -z ile bitenler: + es",
+          "pattern": "bus → buses,  class → classes,  dish → dishes,  watch → watches,  box → boxes",
+          "exampleIds": [
+            "ex-plurals-06",
+            "ex-plurals-07",
+            "ex-plurals-08",
+            "ex-plurals-09",
+            "ex-plurals-10"
+          ]
+        },
+        {
+          "label": "Ünsüz + y ile bitenler: y → ies",
+          "pattern": "baby → babies,  city → cities,  country → countries",
+          "exampleIds": [
+            "ex-plurals-11",
+            "ex-plurals-12"
+          ]
+        },
+        {
+          "label": "Ünlü + y ile bitenler: + s",
+          "pattern": "boy → boys,  day → days,  key → keys",
+          "exampleIds": [
+            "ex-plurals-13",
+            "ex-plurals-14"
+          ]
+        },
+        {
+          "label": "-f / -fe ile bitenlerin çoğu: → ves",
+          "pattern": "knife → knives,  leaf → leaves,  wife → wives   (roof → roofs gibi istisnalar var)",
+          "exampleIds": [
+            "ex-plurals-15",
+            "ex-plurals-16"
+          ]
+        },
+        {
+          "label": "-o ile bitenler: bazıları -es, bazıları -s",
+          "pattern": "tomato → tomatoes,  potato → potatoes   |   photo → photos,  piano → pianos",
+          "exampleIds": [
+            "ex-plurals-17",
+            "ex-plurals-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irregular",
+      "type": "rule",
+      "title": "Düzensiz çoğullar",
+      "paragraphs": [
+        "Bazı isimler kurala uymaz; çoğulları ezberlenir. Günlük hayatta çok sık kullanıldıkları için hepsini öğrenmek gerekir:"
+      ],
+      "formulas": [
+        {
+          "label": "İnsanlar",
+          "pattern": "man → men,  woman → women,  child → children,  person → people",
+          "exampleIds": [
+            "ex-plurals-19",
+            "ex-plurals-20",
+            "ex-plurals-21",
+            "ex-plurals-22"
+          ]
+        },
+        {
+          "label": "Vücut",
+          "pattern": "foot → feet,  tooth → teeth",
+          "exampleIds": [
+            "ex-plurals-23",
+            "ex-plurals-24"
+          ]
+        },
+        {
+          "label": "Hayvanlar",
+          "pattern": "mouse → mice,  sheep → sheep,  fish → fish",
+          "exampleIds": [
+            "ex-plurals-25",
+            "ex-plurals-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "always-plural",
+      "type": "rule",
+      "title": "Hep çoğul olan ve tekil–çoğulu aynı olan sözcükler",
+      "paragraphs": [
+        "İki parçadan oluşan bazı eşyalar her zaman çoğul kullanılır ve are alır: jeans (kot pantolon), trousers (pantolon), glasses (gözlük), scissors (makas). Tek bir tane demek için a pair of kullanılır: a pair of jeans.",
+        "Sheep, fish ve deer’ın tekil ve çoğulu aynıdır: one sheep, two sheep."
+      ],
+      "formulas": [
+        {
+          "label": "Hep çoğul",
+          "pattern": "jeans,  trousers,  glasses,  scissors   →   My jeans are new.",
+          "exampleIds": [
+            "ex-plurals-27",
+            "ex-plurals-28"
+          ]
+        },
+        {
+          "label": "Tekil = çoğul",
+          "pattern": "one sheep → two sheep,  one fish → two fish",
+          "exampleIds": [
+            "ex-plurals-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "type": "notes",
+      "tone": "info",
+      "title": "Çoğul -s nasıl okunur?",
+      "items": [
+        "Çoğul eki üç farklı okunur: /s/ (books, cats), /z/ (dogs, days) ve /ɪz/ (buses, watches, boxes).",
+        "-es ekinden sonra ayrı bir hece duyulur: bus → bu-ses."
+      ]
+    },
+    {
+      "id": "using",
+      "type": "usage",
+      "title": "Çoğulları cümlede kullanmak",
+      "paragraphs": [
+        "Çoğul isimlerle kurulan cümlelerde şunlara dikkat et:"
+      ],
+      "items": [
+        {
+          "heading": "Sayıdan sonra isim çoğul olur",
+          "body": "Türkçedeki “üç kitap” İngilizcede three books olur. İki ve daha fazlası için çoğul gerekir.",
+          "exampleIds": [
+            "ex-plurals-01",
+            "ex-plurals-02",
+            "ex-plurals-03"
+          ]
+        },
+        {
+          "heading": "Çoğul özneyle are kullanılır",
+          "body": "The students are in the classroom. Tekil özneyle is gelir: The student is in the classroom.",
+          "exampleIds": [
+            "ex-plurals-04",
+            "ex-plurals-21"
+          ]
+        },
+        {
+          "heading": "A / an çoğulla kullanılmaz",
+          "body": "A book ama books. Çoğul isimden önce a / an gelmez: a books ✗.",
+          "exampleIds": [
+            "ex-plurals-01",
+            "ex-plurals-29"
+          ]
+        },
+        {
+          "heading": "Tek sayılan sözcüklerde tekil kalır",
+          "body": "“Bir” ile söylenen isim tekil kalır: one book, a cat. Sıfır ve birden fazla için çoğul kullanılır: zero books, two books.",
+          "exampleIds": [
+            "ex-plurals-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-regular",
+      "type": "examples",
+      "title": "Örnekler: düzenli çoğullar",
+      "exampleIds": [
+        "ex-plurals-01",
+        "ex-plurals-02",
+        "ex-plurals-03",
+        "ex-plurals-04",
+        "ex-plurals-05",
+        "ex-plurals-06",
+        "ex-plurals-07",
+        "ex-plurals-08",
+        "ex-plurals-09",
+        "ex-plurals-10",
+        "ex-plurals-11",
+        "ex-plurals-12",
+        "ex-plurals-13",
+        "ex-plurals-14",
+        "ex-plurals-15",
+        "ex-plurals-16",
+        "ex-plurals-17",
+        "ex-plurals-18"
+      ]
+    },
+    {
+      "id": "examples-irregular",
+      "type": "examples",
+      "title": "Örnekler: düzensiz ve özel çoğullar",
+      "exampleIds": [
+        "ex-plurals-19",
+        "ex-plurals-20",
+        "ex-plurals-21",
+        "ex-plurals-22",
+        "ex-plurals-23",
+        "ex-plurals-24",
+        "ex-plurals-25",
+        "ex-plurals-26",
+        "ex-plurals-27",
+        "ex-plurals-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I have three book.",
+          "right": "I have three books.",
+          "explanation": "Türkçede sayıdan sonra çoğul eki kullanmayız ama İngilizcede iki ve daha fazlası için isim çoğul olur."
+        },
+        {
+          "wrong": "There are two cat in the garden.",
+          "right": "There are two cats in the garden.",
+          "explanation": "Sayıdan sonra isim çoğul olur."
+        },
+        {
+          "wrong": "The childs are in the garden.",
+          "right": "The children are in the garden.",
+          "explanation": "Child düzensiz bir isimdir; çoğulu children’dır."
+        },
+        {
+          "wrong": "The childrens are happy.",
+          "right": "The children are happy.",
+          "explanation": "Children zaten çoğuldur; ayrıca -s eklenmez."
+        },
+        {
+          "wrong": "Two mans are at the door.",
+          "right": "Two men are at the door.",
+          "explanation": "Man düzensizdir: men. Woman → women."
+        },
+        {
+          "wrong": "Five peoples are here.",
+          "right": "Five people are here.",
+          "explanation": "People zaten çoğuldur; peoples denmez ve are ile kullanılır."
+        },
+        {
+          "wrong": "I have two boxs.",
+          "right": "I have two boxes.",
+          "explanation": "-x ile biten isimlere -es eklenir."
+        },
+        {
+          "wrong": "She has two babys.",
+          "right": "She has two babies.",
+          "explanation": "Ünsüz + y ile biten isimlerde y, ies olur."
+        },
+        {
+          "wrong": "The knifes are on the table.",
+          "right": "The knives are on the table.",
+          "explanation": "-fe ile biten isimlerde çoğul -ves olur: knives."
+        },
+        {
+          "wrong": "There are two sheeps.",
+          "right": "There are two sheep.",
+          "explanation": "Sheep’in tekil ve çoğulu aynıdır."
+        },
+        {
+          "wrong": "My jeans is new.",
+          "right": "My jeans are new.",
+          "explanation": "Jeans her zaman çoğuldur; are ile kullanılır."
+        },
+        {
+          "wrong": "I have a books.",
+          "right": "I have a book.  /  I have books.",
+          "explanation": "A / an yalnızca tekil isimle kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Çoğul isimler ve artikeller",
+          "body": "A / an yalnızca tekil isimlerle gelir. Genel anlamdaki çoğul isimlerde artikel yoktur (I like dogs).",
+          "lessonId": "a1-articles"
+        },
+        {
+          "topic": "Çoğul isimler ve there is / there are",
+          "body": "There is tekil, there are çoğul isimlerle kullanılır: There is a book. There are two books.",
+          "lessonId": "a1-there-is-are"
+        },
+        {
+          "topic": "Çoğul isimler ve this / these",
+          "body": "This / that tekil, these / those çoğul isimlerle kullanılır.",
+          "lessonId": "a1-demonstratives"
+        },
+        {
+          "topic": "Çoğul isimler ve To be",
+          "body": "Çoğul özneyle are kullanılır: The books are new.",
+          "lessonId": "a1-to-be"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Sayıdan sonra isim çoğul olur: two books, three cats.",
+        "-s, -ss, -sh, -ch, -x ile biten isimlere -es, ünsüz + y ile bitenlerde y yerine -ies gelir.",
+        "Düzensiz çoğulları ezberle: men, women, children, people, feet, teeth, mice.",
+        "Children ve people zaten çoğuldur; üstüne -s eklenmez.",
+        "Jeans, glasses, trousers hep çoğuldur ve are alır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-plurals-01",
+        "q-plurals-02",
+        "q-plurals-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-plurals-01",
+      "en": "I have one book. I have two books.",
+      "tr": "Bir kitabım var. İki kitabım var.",
+      "highlight": "two books",
+      "note": "Türkçede sayıdan sonra çoğul eki yok; İngilizcede -s zorunlu."
+    },
+    {
+      "id": "ex-plurals-02",
+      "en": "There are three cats in the garden.",
+      "tr": "Bahçede üç kedi var.",
+      "highlight": "three cats"
+    },
+    {
+      "id": "ex-plurals-03",
+      "en": "She has two brothers and three sisters.",
+      "tr": "İki erkek kardeşi ve üç kız kardeşi var.",
+      "highlight": "two brothers"
+    },
+    {
+      "id": "ex-plurals-04",
+      "en": "The students are in the classroom.",
+      "tr": "Öğrenciler sınıfta.",
+      "highlight": "students",
+      "note": "Çoğul özneyle are gelir."
+    },
+    {
+      "id": "ex-plurals-05",
+      "en": "He has two cars.",
+      "tr": "İki arabası var.",
+      "highlight": "two cars"
+    },
+    {
+      "id": "ex-plurals-06",
+      "en": "The buses are late.",
+      "tr": "Otobüsler geç kaldı.",
+      "highlight": "buses",
+      "note": "bus → buses (-s ile biten isimlere -es)"
+    },
+    {
+      "id": "ex-plurals-07",
+      "en": "We have two classes today.",
+      "tr": "Bugün iki dersimiz var.",
+      "highlight": "classes",
+      "note": "class → classes"
+    },
+    {
+      "id": "ex-plurals-08",
+      "en": "I wash the dishes every day.",
+      "tr": "Her gün bulaşıkları yıkarım.",
+      "highlight": "dishes",
+      "note": "dish → dishes"
+    },
+    {
+      "id": "ex-plurals-09",
+      "en": "The watches are expensive.",
+      "tr": "Saatler pahalı.",
+      "highlight": "watches",
+      "note": "watch → watches"
+    },
+    {
+      "id": "ex-plurals-10",
+      "en": "There are three boxes on the table.",
+      "tr": "Masanın üstünde üç kutu var.",
+      "highlight": "boxes",
+      "note": "box → boxes"
+    },
+    {
+      "id": "ex-plurals-11",
+      "en": "She has two babies.",
+      "tr": "İki bebeği var.",
+      "highlight": "babies",
+      "note": "baby → babies (ünsüz + y → ies)"
+    },
+    {
+      "id": "ex-plurals-12",
+      "en": "Istanbul and Ankara are big cities.",
+      "tr": "İstanbul ve Ankara büyük şehirler.",
+      "highlight": "cities",
+      "note": "city → cities"
+    },
+    {
+      "id": "ex-plurals-13",
+      "en": "The boys are in the garden.",
+      "tr": "Erkek çocuklar bahçede.",
+      "highlight": "boys",
+      "note": "boy → boys (ünlü + y: yalnızca -s)"
+    },
+    {
+      "id": "ex-plurals-14",
+      "en": "There are seven days in a week.",
+      "tr": "Bir haftada yedi gün var.",
+      "highlight": "days"
+    },
+    {
+      "id": "ex-plurals-15",
+      "en": "The knives are on the table.",
+      "tr": "Bıçaklar masanın üstünde.",
+      "highlight": "knives",
+      "note": "knife → knives (-fe → -ves)"
+    },
+    {
+      "id": "ex-plurals-16",
+      "en": "The leaves are green.",
+      "tr": "Yapraklar yeşil.",
+      "highlight": "leaves",
+      "note": "leaf → leaves (-f → -ves)"
+    },
+    {
+      "id": "ex-plurals-17",
+      "en": "We buy tomatoes and potatoes.",
+      "tr": "Domates ve patates alırız.",
+      "highlight": "tomatoes",
+      "note": "tomato → tomatoes, potato → potatoes"
+    },
+    {
+      "id": "ex-plurals-18",
+      "en": "I take many photos.",
+      "tr": "Çok fotoğraf çekerim.",
+      "highlight": "photos",
+      "note": "photo → photos (bazı -o’lu sözcüklere yalnızca -s)"
+    },
+    {
+      "id": "ex-plurals-19",
+      "en": "Two men are at the door.",
+      "tr": "Kapıda iki adam var.",
+      "highlight": "men",
+      "note": "man → men (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-20",
+      "en": "The women are doctors.",
+      "tr": "Kadınlar doktor.",
+      "highlight": "women",
+      "note": "woman → women (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-21",
+      "en": "The children are in the garden.",
+      "tr": "Çocuklar bahçede.",
+      "highlight": "children",
+      "note": "child → children (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-22",
+      "en": "Many people are at the party.",
+      "tr": "Partide çok insan var.",
+      "highlight": "people",
+      "note": "person → people; people çoğuldur, peoples denmez."
+    },
+    {
+      "id": "ex-plurals-23",
+      "en": "My feet are cold.",
+      "tr": "Ayaklarım üşüdü.",
+      "highlight": "feet",
+      "note": "foot → feet (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-24",
+      "en": "I brush my teeth every day.",
+      "tr": "Her gün dişlerimi fırçalarım.",
+      "highlight": "teeth",
+      "note": "tooth → teeth (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-25",
+      "en": "There are two mice in the kitchen.",
+      "tr": "Mutfakta iki fare var.",
+      "highlight": "mice",
+      "note": "mouse → mice (düzensiz)"
+    },
+    {
+      "id": "ex-plurals-26",
+      "en": "There are ten sheep on the farm.",
+      "tr": "Çiftlikte on koyun var.",
+      "highlight": "sheep",
+      "note": "sheep: tekil ve çoğul aynı"
+    },
+    {
+      "id": "ex-plurals-27",
+      "en": "My jeans are new.",
+      "tr": "Kot pantolonum yeni.",
+      "highlight": "jeans",
+      "note": "jeans her zaman çoğuldur."
+    },
+    {
+      "id": "ex-plurals-28",
+      "en": "My glasses are on the table.",
+      "tr": "Gözlüğüm masanın üstünde.",
+      "highlight": "glasses",
+      "note": "glasses (gözlük) her zaman çoğuldur."
+    },
+    {
+      "id": "ex-plurals-29",
+      "en": "She is a student. They are students.",
+      "tr": "O bir öğrenci. Onlar öğrenci.",
+      "highlight": "students"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-plurals-01",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "one book → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "books"
+        },
+        {
+          "id": "b",
+          "text": "bookes"
+        },
+        {
+          "id": "c",
+          "text": "bookies"
+        },
+        {
+          "id": "d",
+          "text": "book"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çoğu isim -s ekleyerek çoğul olur: books.",
+      "optionExplanations": {
+        "b": "Book -k ile biter; -es gerekmez, yalnızca -s eklenir.",
+        "c": "-ies, ünsüz + y ile biten isimler içindir.",
+        "d": "Book tekil biçimdir; iki tane için çoğul gerekir."
+      },
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-02",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have two ___ (cat).",
+      "answers": [
+        "cats"
+      ],
+      "explanation": "Çoğu isim -s ile çoğul olur: cats.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "cat",
+          "explanation": "İki tane olduğu için çoğul gerekir: cats."
+        },
+        {
+          "answer": "cates",
+          "explanation": "Cat -t ile biter; -es gerekmez, yalnızca -s eklenir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-03",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bahçede üç kedi var.",
+      "answer": [
+        "There",
+        "are",
+        "three",
+        "cats",
+        "in",
+        "the",
+        "garden"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "cat"
+      ],
+      "explanation": "Sayıdan sonra isim çoğul olur ve çoğulla are kullanılır: There are three cats in the garden.",
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-plurals-04",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have three book.",
+      "errorSpan": "book",
+      "answers": [
+        "I have three books."
+      ],
+      "explanation": "Sayıdan sonra isim çoğul olur: three books.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have three bookes.",
+          "explanation": "Book’a yalnızca -s eklenir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "regular",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-05",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Üç kitabım var.",
+      "hint": "kitap: book",
+      "answers": [
+        "I have three books.",
+        "I've got three books."
+      ],
+      "targetStructure": "Sayıdan sonra çoğul isim",
+      "explanation": "İngilizcede sayıdan sonra isim çoğul olur: three books.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have three book.",
+          "explanation": "Sayıdan sonra isim çoğul olur."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-06",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "one bus → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "bus"
+        },
+        {
+          "id": "b",
+          "text": "buss"
+        },
+        {
+          "id": "c",
+          "text": "buses"
+        },
+        {
+          "id": "d",
+          "text": "busies"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "-s ile biten isimlere -es eklenir: buses.",
+      "optionExplanations": {
+        "a": "Bus tekil biçimdir.",
+        "b": "-s ile biten isimlere sadece -s eklenmez; -es gerekir.",
+        "d": "-ies, ünsüz + y ile biten isimler içindir."
+      },
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-07",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There are three ___ in the garden (dog).",
+      "answers": [
+        "dogs"
+      ],
+      "explanation": "Çoğu isim -s ile çoğul olur: dogs.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "dog",
+          "explanation": "Üç tane olduğu için çoğul gerekir."
+        },
+        {
+          "answer": "doges",
+          "explanation": "Dog -g ile biter; yalnızca -s eklenir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-08",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Öğrenciler sınıfta.",
+      "answer": [
+        "The",
+        "students",
+        "are",
+        "in",
+        "the",
+        "classroom"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "student"
+      ],
+      "explanation": "Çoğul özneyle are kullanılır: The students are in the classroom.",
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-09",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There are two cat in the garden.",
+      "errorSpan": "cat",
+      "answers": [
+        "There are two cats in the garden."
+      ],
+      "explanation": "Sayıdan sonra isim çoğul olur.",
+      "tags": [
+        "plurals",
+        "regular",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-10",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bahçede iki köpek var.",
+      "hint": "köpek: dog. “There are …” ile başla.",
+      "answers": [
+        "There are two dogs in the garden."
+      ],
+      "targetStructure": "There are + sayı + çoğul isim",
+      "explanation": "İki tane olduğu için dogs, çoğulla are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There is two dogs in the garden.",
+          "explanation": "Çoğulla is değil are kullanılır."
+        },
+        {
+          "answer": "There are two dog in the garden.",
+          "explanation": "Sayıdan sonra isim çoğul olur."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-11",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "one baby → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "babys"
+        },
+        {
+          "id": "b",
+          "text": "babies"
+        },
+        {
+          "id": "c",
+          "text": "babyes"
+        },
+        {
+          "id": "d",
+          "text": "baby"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Baby ünsüz + y ile biter; y düşer, -ies eklenir: babies.",
+      "optionExplanations": {
+        "a": "Ünsüz + y ile biten isimlerde y, ies olur.",
+        "c": "Y’den sonra -es eklenmez; y, ies olur.",
+        "d": "Baby tekil biçimdir."
+      },
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-12",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has two ___ (brother).",
+      "answers": [
+        "brothers"
+      ],
+      "explanation": "Çoğu isim -s ile çoğul olur: brothers.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "brother",
+          "explanation": "İki tane olduğu için çoğul gerekir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-13",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "one child → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "childs"
+        },
+        {
+          "id": "b",
+          "text": "childes"
+        },
+        {
+          "id": "c",
+          "text": "children"
+        },
+        {
+          "id": "d",
+          "text": "childrens"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Child düzensiz bir isimdir; çoğulu children’dır.",
+      "optionExplanations": {
+        "a": "Child düzensizdir; -s eklenmez.",
+        "b": "Child düzensizdir; -es eklenmez.",
+        "d": "Children zaten çoğuldur; üzerine -s eklenmez."
+      },
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-14",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The ___ are late (bus).",
+      "answers": [
+        "buses"
+      ],
+      "explanation": "Bus, -s ile biter; -es eklenir: buses.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "buss",
+          "explanation": "-s ile biten isimlere -es eklenir: buses."
+        },
+        {
+          "answer": "bus",
+          "explanation": "Çoğul özne are ile kullanılır; isim de çoğul olmalıdır."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-15",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wash the ___ every day (dish).",
+      "answers": [
+        "dishes"
+      ],
+      "explanation": "Dish, -sh ile biter; -es eklenir: dishes.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "dishs",
+          "explanation": "-sh ile biten isimlere -es eklenir."
+        },
+        {
+          "answer": "dish",
+          "explanation": "Birden fazla bulaşık için çoğul gerekir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-16",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There are three ___ on the table (box).",
+      "answers": [
+        "boxes"
+      ],
+      "explanation": "Box, -x ile biter; -es eklenir: boxes.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "boxs",
+          "explanation": "-x ile biten isimlere -es eklenir."
+        },
+        {
+          "answer": "box",
+          "explanation": "Üç tane olduğu için çoğul gerekir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-17",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She has two ___ (baby).",
+      "answers": [
+        "babies"
+      ],
+      "explanation": "Baby ünsüz + y ile biter; y düşer, -ies eklenir: babies.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "babys",
+          "explanation": "Ünsüz + y ile biten isimlerde y, ies olur."
+        },
+        {
+          "answer": "babyes",
+          "explanation": "Y düşer ve -ies eklenir; -yes olmaz."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-18",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Two ___ are at the door (man).",
+      "answers": [
+        "men"
+      ],
+      "explanation": "Man düzensiz bir isimdir; çoğulu men’dir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "mans",
+          "explanation": "Man düzensizdir: men."
+        },
+        {
+          "answer": "man",
+          "explanation": "İki kişi olduğu için çoğul gerekir: men."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-19",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have three book."
+        },
+        {
+          "id": "b",
+          "text": "I have three books."
+        },
+        {
+          "id": "c",
+          "text": "I have three bookes."
+        },
+        {
+          "id": "d",
+          "text": "I have three a books."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sayıdan sonra isim çoğul olur: three books.",
+      "optionExplanations": {
+        "a": "Sayıdan sonra isim çoğul olmalıdır.",
+        "c": "Book’a yalnızca -s eklenir.",
+        "d": "Çoğul isimle a kullanılmaz."
+      },
+      "tags": [
+        "plurals",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-20",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The childs are in the garden."
+        },
+        {
+          "id": "b",
+          "text": "The children are in the garden."
+        },
+        {
+          "id": "c",
+          "text": "The childrens are in the garden."
+        },
+        {
+          "id": "d",
+          "text": "The child are in the garden."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Child düzensizdir: children. Çoğul özneyle are gelir.",
+      "optionExplanations": {
+        "a": "Child düzensizdir; childs diye bir biçim yoktur.",
+        "c": "Children zaten çoğuldur; -s eklenmez.",
+        "d": "Child tekildir; çoğul özneyle are kullanılmaz."
+      },
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-21",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Many ___ are at the party.",
+      "options": [
+        {
+          "id": "a",
+          "text": "peoples"
+        },
+        {
+          "id": "b",
+          "text": "people"
+        },
+        {
+          "id": "c",
+          "text": "a people"
+        },
+        {
+          "id": "d",
+          "text": "peopleses"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "People zaten çoğuldur ve “insanlar” demektir; peoples denmez.",
+      "optionExplanations": {
+        "a": "Peoples “halklar, uluslar” anlamında nadir bir biçimdir; “insanlar” için people kullanılır.",
+        "c": "People çoğuldur; a ile kullanılmaz.",
+        "d": "Böyle bir biçim yoktur."
+      },
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-22",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "one knife → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "knifes"
+        },
+        {
+          "id": "b",
+          "text": "knives"
+        },
+        {
+          "id": "c",
+          "text": "knifs"
+        },
+        {
+          "id": "d",
+          "text": "knifees"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "-fe ile biten isimlerde çoğul -ves olur: knives.",
+      "optionExplanations": {
+        "a": "-fe ile biten isimlerde çoğul genellikle -ves olur.",
+        "c": "-fe’den sonra -s eklenmez; f, v olur ve -es gelir.",
+        "d": "Böyle bir biçim yoktur."
+      },
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-23",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "one tomato → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "tomatos"
+        },
+        {
+          "id": "b",
+          "text": "tomatoes"
+        },
+        {
+          "id": "c",
+          "text": "tomatoies"
+        },
+        {
+          "id": "d",
+          "text": "tomatoos"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tomato, -o ile biten sözcüklerdendir; çoğulu -es ile yapılır: tomatoes.",
+      "optionExplanations": {
+        "a": "Tomato’da -es eklenir.",
+        "c": "-ies ünsüz + y ile biten isimler içindir.",
+        "d": "Böyle bir biçim yoktur."
+      },
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-24",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The childs are in the garden.",
+      "errorSpan": "childs",
+      "answers": [
+        "The children are in the garden."
+      ],
+      "explanation": "Child düzensizdir; çoğulu children’dır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The childrens are in the garden.",
+          "explanation": "Children zaten çoğuldur; ayrıca -s eklenmez."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-25",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have two boxs.",
+      "errorSpan": "boxs",
+      "answers": [
+        "I have two boxes."
+      ],
+      "explanation": "-x ile biten isimlere -es eklenir.",
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-26",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has two babys.",
+      "errorSpan": "babys",
+      "answers": [
+        "She has two babies."
+      ],
+      "explanation": "Ünsüz + y ile biten isimlerde y, ies olur.",
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-27",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Two mans are at the door.",
+      "errorSpan": "mans",
+      "answers": [
+        "Two men are at the door."
+      ],
+      "explanation": "Man düzensizdir; çoğulu men’dir.",
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-28",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İki erkek kardeşi var. (O kadın)",
+      "answer": [
+        "She",
+        "has",
+        "two",
+        "brothers"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "brother",
+        "have"
+      ],
+      "explanation": "Sayıdan sonra isim çoğul olur: two brothers.",
+      "tags": [
+        "plurals",
+        "numbers"
+      ],
+      "errorTags": [
+        "plural_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-plurals-29",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çocuklar bahçede.",
+      "answer": [
+        "The",
+        "children",
+        "are",
+        "in",
+        "the",
+        "garden"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "childs",
+        "is"
+      ],
+      "explanation": "Children düzensiz bir çoğuldur; çoğul özneyle are gelir.",
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-30",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Öğrenciler sınıfta.",
+      "hint": "sınıf: classroom",
+      "answers": [
+        "The students are in the classroom."
+      ],
+      "targetStructure": "Çoğul isim + are",
+      "explanation": "Çoğul özneyle are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The students is in the classroom.",
+          "explanation": "Çoğul özneyle is değil are kullanılır."
+        },
+        {
+          "answer": "The student are in the classroom.",
+          "explanation": "Öğrenciler çoğuldur; student değil students."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "regular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-31",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çocuklar bahçede.",
+      "hint": "çocuk: child (çoğulu düzensiz)",
+      "answers": [
+        "The children are in the garden."
+      ],
+      "targetStructure": "Düzensiz çoğul: children",
+      "explanation": "Child’ın çoğulu children’dır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The childs are in the garden.",
+          "explanation": "Child düzensizdir: children."
+        },
+        {
+          "answer": "The childrens are in the garden.",
+          "explanation": "Children zaten çoğuldur."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-32",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Masanın üstünde üç kutu var.",
+      "hint": "kutu: box. “There are …” ile başla.",
+      "answers": [
+        "There are three boxes on the table."
+      ],
+      "targetStructure": "-x ile biten isimde -es",
+      "explanation": "Box, -x ile biter; çoğulu boxes’tır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There are three boxs on the table.",
+          "explanation": "-x ile biten isimlere -es eklenir."
+        },
+        {
+          "answer": "There is three boxes on the table.",
+          "explanation": "Çoğulla is değil are kullanılır."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "numbers",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-33",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kız kardeşimin iki bebeği var.",
+      "hint": "bebek: baby",
+      "answers": [
+        "My sister has two babies."
+      ],
+      "targetStructure": "Ünsüz + y → ies",
+      "explanation": "Baby’nin çoğulu babies’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My sister has two babys.",
+          "explanation": "Ünsüz + y ile biten isimlerde y, ies olur."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-34",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My jeans is new."
+        },
+        {
+          "id": "b",
+          "text": "My jeans are new."
+        },
+        {
+          "id": "c",
+          "text": "My jean is new."
+        },
+        {
+          "id": "d",
+          "text": "My jeans be new."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Jeans her zaman çoğuldur; are ile kullanılır.",
+      "optionExplanations": {
+        "a": "Jeans hep çoğuldur; is kullanılmaz.",
+        "c": "Tek “jean” bu anlamda kullanılmaz.",
+        "d": "Be çekimli bir fiil değildir."
+      },
+      "tags": [
+        "plurals",
+        "always-plural"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-35",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi sözcüğün tekil ve çoğul biçimi aynıdır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "sheep"
+        },
+        {
+          "id": "b",
+          "text": "child"
+        },
+        {
+          "id": "c",
+          "text": "man"
+        },
+        {
+          "id": "d",
+          "text": "foot"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sheep’in tekil ve çoğulu aynıdır: one sheep, two sheep.",
+      "optionExplanations": {
+        "b": "Child → children.",
+        "c": "Man → men.",
+        "d": "Foot → feet."
+      },
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-36",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "one photo → two ___",
+      "options": [
+        {
+          "id": "a",
+          "text": "photoes"
+        },
+        {
+          "id": "b",
+          "text": "photos"
+        },
+        {
+          "id": "c",
+          "text": "photose"
+        },
+        {
+          "id": "d",
+          "text": "photies"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Photo gibi bazı -o ile biten sözcüklere yalnızca -s eklenir: photos. (Tomato → tomatoes gibi istisnaları ezberlemek gerekir.)",
+      "optionExplanations": {
+        "a": "Photo’da -es eklenmez.",
+        "c": "Böyle bir biçim yoktur.",
+        "d": "Photo ünsüz + y ile bitmez."
+      },
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-37",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has two sheeps."
+        },
+        {
+          "id": "b",
+          "text": "She has two sheep."
+        },
+        {
+          "id": "c",
+          "text": "She has two sheepes."
+        },
+        {
+          "id": "d",
+          "text": "She has two sheepies."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sheep’in çoğulu da sheep’tir.",
+      "optionExplanations": {
+        "a": "Sheep’e -s eklenmez.",
+        "c": "Sheep’e -es eklenmez.",
+        "d": "Böyle bir biçim yoktur."
+      },
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-38",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The ___ are in the garden (child).",
+      "answers": [
+        "children"
+      ],
+      "explanation": "Child’ın çoğulu children’dır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "childs",
+          "explanation": "Child düzensizdir: children."
+        },
+        {
+          "answer": "childrens",
+          "explanation": "Children zaten çoğuldur."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-39",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The ___ are green (leaf).",
+      "answers": [
+        "leaves"
+      ],
+      "explanation": "Leaf, -f ile biter; çoğulu leaves’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "leafs",
+          "explanation": "-f ile biten isimlerin çoğu -ves ile çoğul olur: leaves."
+        },
+        {
+          "answer": "leaf",
+          "explanation": "Birden fazla yaprak için çoğul gerekir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-40",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I brush my ___ every day (tooth).",
+      "answers": [
+        "teeth"
+      ],
+      "explanation": "Tooth düzensiz bir isimdir; çoğulu teeth’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "tooths",
+          "explanation": "Tooth düzensizdir: teeth."
+        },
+        {
+          "answer": "tooth",
+          "explanation": "Birden fazla diş için çoğul gerekir."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-41",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "My ___ are cold (foot).",
+      "answers": [
+        "feet"
+      ],
+      "explanation": "Foot düzensiz bir isimdir; çoğulu feet’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "foots",
+          "explanation": "Foot düzensizdir: feet."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-42",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "We buy ___ and potatoes (tomato).",
+      "answers": [
+        "tomatoes"
+      ],
+      "explanation": "Tomato’nun çoğulu tomatoes’tur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "tomatos",
+          "explanation": "Tomato’da -es eklenir: tomatoes."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-43",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "There are ten ___ on the farm (sheep).",
+      "answers": [
+        "sheep"
+      ],
+      "explanation": "Sheep’in çoğulu da sheep’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "sheeps",
+          "explanation": "Sheep’e -s eklenmez."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-44",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Partide çok insan var.",
+      "answer": [
+        "Many",
+        "people",
+        "are",
+        "at",
+        "the",
+        "party"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "peoples"
+      ],
+      "explanation": "People zaten çoğuldur ve are ile kullanılır.",
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-45",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kot pantolonum yeni.",
+      "answer": [
+        "My",
+        "jeans",
+        "are",
+        "new"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "jean"
+      ],
+      "explanation": "Jeans her zaman çoğuldur; are alır.",
+      "tags": [
+        "plurals",
+        "always-plural"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-46",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Five peoples are at the door.",
+      "errorSpan": "peoples",
+      "answers": [
+        "Five people are at the door."
+      ],
+      "explanation": "People zaten çoğuldur; peoples denmez.",
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-47",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "My jeans is new.",
+      "errorSpan": "is",
+      "answers": [
+        "My jeans are new."
+      ],
+      "explanation": "Jeans her zaman çoğuldur; are ile kullanılır.",
+      "tags": [
+        "plurals",
+        "always-plural"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-48",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There are two sheeps on the farm.",
+      "errorSpan": "sheeps",
+      "answers": [
+        "There are two sheep on the farm."
+      ],
+      "explanation": "Sheep’in çoğulu da sheep’tir.",
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-49",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The knifes are on the table.",
+      "errorSpan": "knifes",
+      "answers": [
+        "The knives are on the table."
+      ],
+      "explanation": "-fe ile biten isimlerde çoğul -ves olur: knives.",
+      "tags": [
+        "plurals",
+        "spelling"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-50",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Her gün dişlerimi fırçalarım.",
+      "hint": "diş: tooth (çoğulu düzensiz), fırçalamak: brush",
+      "answers": [
+        "I brush my teeth every day.",
+        "Every day I brush my teeth."
+      ],
+      "targetStructure": "Düzensiz çoğul: teeth",
+      "explanation": "Tooth’un çoğulu teeth’tir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I brush my tooths every day.",
+          "explanation": "Tooth düzensizdir: teeth."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-plurals-51",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Partide çok insan var.",
+      "hint": "insan: people",
+      "answers": [
+        "There are many people at the party.",
+        "Many people are at the party."
+      ],
+      "targetStructure": "People çoğuldur",
+      "explanation": "People zaten çoğuldur ve are ile kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There is many people at the party.",
+          "explanation": "People çoğuldur; is değil are gelir."
+        },
+        {
+          "answer": "There are many peoples at the party.",
+          "explanation": "People zaten çoğuldur; peoples denmez."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-plurals-52",
+      "lessonId": "a1-plurals",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Mutfakta iki fare var.",
+      "hint": "fare: mouse (çoğulu düzensiz). “There are …” ile başla.",
+      "answers": [
+        "There are two mice in the kitchen."
+      ],
+      "targetStructure": "Düzensiz çoğul: mice",
+      "explanation": "Mouse’un çoğulu mice’tır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There are two mouses in the kitchen.",
+          "explanation": "Mouse düzensizdir: mice."
+        }
+      ],
+      "tags": [
+        "plurals",
+        "irregular"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-plurals",
+    "title": "Singular & Plural: Konu sonu sınavı",
+    "description": "Düzenli ve düzensiz çoğullar, yazım kuralları ve çoğul özneyle fiil uyumu konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-plurals-exam-01",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "one dog → two ___",
+        "options": [
+          {
+            "id": "a",
+            "text": "dog"
+          },
+          {
+            "id": "b",
+            "text": "dogs"
+          },
+          {
+            "id": "c",
+            "text": "doges"
+          },
+          {
+            "id": "d",
+            "text": "dogies"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Çoğu isim -s ile çoğul olur: dogs.",
+        "optionExplanations": {
+          "a": "Dog tekildir.",
+          "c": "Dog -g ile biter; -es gerekmez.",
+          "d": "-ies ünsüz + y ile biten isimler içindir."
+        },
+        "tags": [
+          "plurals",
+          "regular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-02",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I have three ___ (pen).",
+        "answers": [
+          "pens"
+        ],
+        "explanation": "Çoğu isim -s ile çoğul olur: pens.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "pen",
+            "explanation": "Üç tane olduğu için çoğul gerekir."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "regular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-03",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Dört kedim var.",
+        "answer": [
+          "I",
+          "have",
+          "four",
+          "cats"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "cat"
+        ],
+        "explanation": "Sayıdan sonra isim çoğul olur: four cats.",
+        "tags": [
+          "plurals",
+          "numbers"
+        ],
+        "errorTags": [
+          "plural_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-04",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She has two dog.",
+        "errorSpan": "dog",
+        "answers": [
+          "She has two dogs."
+        ],
+        "explanation": "Sayıdan sonra isim çoğul olur.",
+        "tags": [
+          "plurals",
+          "numbers"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-05",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İki arabam var.",
+        "hint": "araba: car",
+        "answers": [
+          "I have two cars.",
+          "I've got two cars."
+        ],
+        "targetStructure": "Sayıdan sonra çoğul isim",
+        "explanation": "İngilizcede sayıdan sonra isim çoğul olur.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have two car.",
+            "explanation": "Sayıdan sonra isim çoğul olur."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "numbers"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-06",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "one city → two ___",
+        "options": [
+          {
+            "id": "a",
+            "text": "citys"
+          },
+          {
+            "id": "b",
+            "text": "cities"
+          },
+          {
+            "id": "c",
+            "text": "cityes"
+          },
+          {
+            "id": "d",
+            "text": "city"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "City ünsüz + y ile biter; y düşer, -ies eklenir: cities.",
+        "optionExplanations": {
+          "a": "Ünsüz + y ile biten isimlerde y, ies olur.",
+          "c": "Y düşer ve -ies eklenir; -yes olmaz.",
+          "d": "City tekildir."
+        },
+        "tags": [
+          "plurals",
+          "spelling"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-07",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The ___ are late (train).",
+        "answers": [
+          "trains"
+        ],
+        "explanation": "Çoğu isim -s ile çoğul olur: trains.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "train",
+            "explanation": "Çoğul özne are ile kullanılır; isim de çoğul olmalıdır."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "regular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-08",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Masanın üstünde iki kutu var.",
+        "answer": [
+          "There",
+          "are",
+          "two",
+          "boxes",
+          "on",
+          "the",
+          "table"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "box"
+        ],
+        "explanation": "Box, -x ile biter; çoğulu boxes’tır. Çoğulla are kullanılır.",
+        "tags": [
+          "plurals",
+          "spelling"
+        ],
+        "errorTags": [
+          "plural_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-09",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The mans are tall.",
+        "errorSpan": "mans",
+        "answers": [
+          "The men are tall."
+        ],
+        "explanation": "Man düzensizdir; çoğulu men’dir.",
+        "tags": [
+          "plurals",
+          "irregular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-10",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yapraklar yeşil.",
+        "hint": "yaprak: leaf (çoğulu düzensiz)",
+        "answers": [
+          "The leaves are green."
+        ],
+        "targetStructure": "-f → -ves",
+        "explanation": "Leaf’in çoğulu leaves’tir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The leafs are green.",
+            "explanation": "-f ile biten isimlerin çoğu -ves ile çoğul olur."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "spelling"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-11",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I have two sister."
+          },
+          {
+            "id": "b",
+            "text": "I have two sisters."
+          },
+          {
+            "id": "c",
+            "text": "I have two sistres."
+          },
+          {
+            "id": "d",
+            "text": "I have a two sisters."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Sayıdan sonra isim çoğul olur: two sisters.",
+        "optionExplanations": {
+          "a": "Sayıdan sonra isim çoğul olmalıdır.",
+          "c": "Böyle bir yazım yoktur.",
+          "d": "Çoğul isimle a kullanılmaz."
+        },
+        "tags": [
+          "plurals",
+          "numbers"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-12",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She has two ___ (watch).",
+        "answers": [
+          "watches"
+        ],
+        "explanation": "Watch, -ch ile biter; -es eklenir: watches.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "watchs",
+            "explanation": "-ch ile biten isimlere -es eklenir."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "spelling"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-13",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The childrens are happy.",
+        "errorSpan": "childrens",
+        "answers": [
+          "The children are happy."
+        ],
+        "explanation": "Children zaten çoğuldur; -s eklenmez.",
+        "tags": [
+          "plurals",
+          "irregular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-14",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "one woman → two ___",
+        "options": [
+          {
+            "id": "a",
+            "text": "womans"
+          },
+          {
+            "id": "b",
+            "text": "womens"
+          },
+          {
+            "id": "c",
+            "text": "women"
+          },
+          {
+            "id": "d",
+            "text": "womanes"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Woman düzensizdir; çoğulu women’dır.",
+        "optionExplanations": {
+          "a": "Woman düzensizdir.",
+          "b": "Women zaten çoğuldur; -s eklenmez.",
+          "d": "Böyle bir biçim yoktur."
+        },
+        "tags": [
+          "plurals",
+          "irregular"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-15",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "The ___ are on the table (knife).",
+        "answers": [
+          "knives"
+        ],
+        "explanation": "-fe ile biten isimlerde çoğul -ves olur: knives.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "knifes",
+            "explanation": "-fe ile biten isimlerde çoğul genellikle -ves olur."
+          }
+        ],
+        "tags": [
+          "plurals",
+          "spelling"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-plurals-exam-16",
+        "lessonId": "a1-plurals",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ayaklarım soğuk.",
+        "answer": [
+          "My",
+          "feet",
+          "are",
+          "cold"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "foots",
+          "is"
+        ],
+        "explanation": "Foot düzensizdir; çoğulu feet’tir ve are ile kullanılır.",
+        "tags": [
+          "plurals",
+          "irregular"
+        ],
+        "errorTags": [
+          "plural_form",
+          "subject_verb_agreement"
+        ]
+      }
+    ]
+  }
+}
