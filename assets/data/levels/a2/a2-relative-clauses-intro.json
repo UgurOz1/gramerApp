@@ -1,0 +1,2334 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-relative-clauses-intro",
+  "levelId": "a2",
+  "title": "Relative Clauses: Intro",
+  "objectives": [
+    "Who, which ve that ile kişi ve şeyleri tanımlamak",
+    "Özne ve nesne olan ilgi zamirlerini ayırt etmek",
+    "Nesne olan zamirin düşebileceğini bilmek",
+    "Whose ve where ile sahiplik ve yeri anlatmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Relative clause nedir?",
+      "paragraphs": [
+        "Relative clause (ilgi cümlesi), bir ismi tanımlayan ya da hangisi olduğunu belirten cümlecik: “yan kapıda yaşayan adam”, “masanın üstündeki kitap”. İngilizcede isimden sonra gelir ve who, which ya da that ile başlar.",
+        "Türkçede ise -en, -an, -dığı gibi ekler isimden önce gelir; İngilizcede cümle tam bir cümle gibi isimden sonra gelir. Bu yüzden sıralama farklıdır."
+      ]
+    },
+    {
+      "id": "who",
+      "type": "rule",
+      "title": "Who: kişiler için",
+      "paragraphs": [
+        "Who, kişiyi tanımlar. Ardından fiil gelir; who zaten özne görevindedir, ayrıca özne eklenmez."
+      ],
+      "formulas": [
+        {
+          "label": "Who + fiil",
+          "pattern": "isim (kişi) + who + fiil …",
+          "exampleIds": [
+            "ex-rel-clauses-01",
+            "ex-rel-clauses-02",
+            "ex-rel-clauses-03",
+            "ex-rel-clauses-04",
+            "ex-rel-clauses-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "which",
+      "type": "rule",
+      "title": "Which: şeyler için",
+      "paragraphs": [
+        "Which, şeyleri ve hayvanları tanımlar. Who gibi, özne ise fiilden önce gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Which + fiil",
+          "pattern": "isim (şey) + which + fiil …",
+          "exampleIds": [
+            "ex-rel-clauses-06",
+            "ex-rel-clauses-07",
+            "ex-rel-clauses-08",
+            "ex-rel-clauses-09",
+            "ex-rel-clauses-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "that",
+      "type": "rule",
+      "title": "That: kişi ya da şey",
+      "paragraphs": [
+        "That, hem kişiler hem şeyler için kullanılabilir. Günlük dilde çok yaygındır. Özne görevindeyse mutlaka kalır."
+      ],
+      "formulas": [
+        {
+          "label": "That + fiil",
+          "pattern": "isim + that + fiil …",
+          "exampleIds": [
+            "ex-rel-clauses-11",
+            "ex-rel-clauses-12",
+            "ex-rel-clauses-13",
+            "ex-rel-clauses-22",
+            "ex-rel-clauses-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "object",
+      "type": "rule",
+      "title": "Nesne olan who / which / that",
+      "paragraphs": [
+        "Who, which ya da that ilgi cümlesinde özne değil nesne görevindeyse düşebilir: The film (that) we saw was great. Özne görevindeyse düşmez."
+      ],
+      "formulas": [
+        {
+          "label": "Nesne (düşebilir)",
+          "pattern": "isim + (that) + özne + fiil",
+          "exampleIds": [
+            "ex-rel-clauses-14",
+            "ex-rel-clauses-15",
+            "ex-rel-clauses-16",
+            "ex-rel-clauses-17",
+            "ex-rel-clauses-18"
+          ]
+        },
+        {
+          "label": "Özne (düşmez)",
+          "pattern": "isim + who / which / that + fiil",
+          "exampleIds": [
+            "ex-rel-clauses-01",
+            "ex-rel-clauses-06",
+            "ex-rel-clauses-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whose-where",
+      "type": "forms",
+      "title": "Whose ve where",
+      "forms": [
+        {
+          "label": "whose",
+          "formula": "whose + isim: sahiplik",
+          "exampleIds": [
+            "ex-rel-clauses-21"
+          ],
+          "note": "That is the girl whose bag was stolen."
+        },
+        {
+          "label": "where",
+          "formula": "where + özne + fiil: yer",
+          "exampleIds": [
+            "ex-rel-clauses-28"
+          ],
+          "note": "This is the house where I was born."
+        }
+      ]
+    },
+    {
+      "id": "tanim",
+      "type": "forms",
+      "title": "Tanım yapmak",
+      "forms": [
+        {
+          "label": "A … is a person who …",
+          "formula": "A teacher is a person who teaches.",
+          "exampleIds": [
+            "ex-rel-clauses-05",
+            "ex-rel-clauses-19"
+          ],
+          "note": "Kişi tanımı."
+        },
+        {
+          "label": "A … is a thing which …",
+          "formula": "A knife is a thing which cuts.",
+          "exampleIds": [
+            "ex-rel-clauses-10",
+            "ex-rel-clauses-20"
+          ],
+          "note": "Şey tanımı."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: who",
+      "exampleIds": [
+        "ex-rel-clauses-01",
+        "ex-rel-clauses-02",
+        "ex-rel-clauses-03",
+        "ex-rel-clauses-04",
+        "ex-rel-clauses-05",
+        "ex-rel-clauses-19",
+        "ex-rel-clauses-23",
+        "ex-rel-clauses-24",
+        "ex-rel-clauses-27"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: which ve that",
+      "exampleIds": [
+        "ex-rel-clauses-06",
+        "ex-rel-clauses-07",
+        "ex-rel-clauses-08",
+        "ex-rel-clauses-09",
+        "ex-rel-clauses-10",
+        "ex-rel-clauses-11",
+        "ex-rel-clauses-12",
+        "ex-rel-clauses-13",
+        "ex-rel-clauses-20",
+        "ex-rel-clauses-22",
+        "ex-rel-clauses-25",
+        "ex-rel-clauses-26"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: nesne, whose, where",
+      "exampleIds": [
+        "ex-rel-clauses-14",
+        "ex-rel-clauses-15",
+        "ex-rel-clauses-16",
+        "ex-rel-clauses-17",
+        "ex-rel-clauses-18",
+        "ex-rel-clauses-21",
+        "ex-rel-clauses-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "The man which lives next door is a doctor.",
+          "right": "The man who lives next door is a doctor.",
+          "explanation": "Kişi için who."
+        },
+        {
+          "wrong": "The book who is on the table is mine.",
+          "right": "The book which is on the table is mine.",
+          "explanation": "Şey için which."
+        },
+        {
+          "wrong": "The man who he lives next door is a doctor.",
+          "right": "The man who lives next door is a doctor.",
+          "explanation": "Who zaten özne; ikinci özne eklenmez."
+        },
+        {
+          "wrong": "The book which it is on the table is mine.",
+          "right": "The book which is on the table is mine.",
+          "explanation": "Which zaten özne."
+        },
+        {
+          "wrong": "The man I met him yesterday is a teacher.",
+          "right": "The man I met yesterday is a teacher.",
+          "explanation": "Nesne tekrar edilmez."
+        },
+        {
+          "wrong": "The film that we saw it was great.",
+          "right": "The film that we saw was great.",
+          "explanation": "Nesne tekrar edilmez."
+        },
+        {
+          "wrong": "The girl what lives next door is nice.",
+          "right": "The girl who lives next door is nice.",
+          "explanation": "What ilgi zamiri değildir."
+        },
+        {
+          "wrong": "The man lives next door is a doctor.",
+          "right": "The man who lives next door is a doctor.",
+          "explanation": "Özne olan who düşmez."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Wh- soruları",
+          "body": "Soru sözcükleri ile ilgi zamirleri aynı sözcüklerdir ama farklı kullanılır.",
+          "lessonId": "a1-wh-questions"
+        },
+        {
+          "topic": "Sıfatlar",
+          "body": "İlgi cümlesi bir ismi sıfat gibi niteler.",
+          "lessonId": "a2-adjectives-adverbs"
+        },
+        {
+          "topic": "Zamirler",
+          "body": "Nesne zamirleri ilgi cümlesinde tekrar edilmez.",
+          "lessonId": "a1-object-pronouns"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Kişi: who (ya da that); şey: which (ya da that).",
+        "Özne olan who / which / that düşmez; nesne olan düşebilir.",
+        "Ayrıca özne ya da nesne zamiri eklenmez.",
+        "İlgi cümlesi isimden hemen sonra gelir.",
+        "Whose sahiplik, where yer bildirir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-rel-clauses-01",
+        "q-rel-clauses-02",
+        "q-rel-clauses-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-rel-clauses-01",
+      "en": "The man who lives next door is a doctor.",
+      "tr": "Yan kapıda yaşayan adam doktor.",
+      "highlight": "who lives next door",
+      "note": "who: kişi"
+    },
+    {
+      "id": "ex-rel-clauses-02",
+      "en": "I know a girl who speaks five languages.",
+      "tr": "Beş dil konuşan bir kız tanıyorum.",
+      "highlight": "who speaks five languages"
+    },
+    {
+      "id": "ex-rel-clauses-03",
+      "en": "The woman who called you is my aunt.",
+      "tr": "Seni arayan kadın teyzem.",
+      "highlight": "who called you"
+    },
+    {
+      "id": "ex-rel-clauses-04",
+      "en": "People who smoke should stop.",
+      "tr": "Sigara içenler bırakmalı.",
+      "highlight": "who smoke"
+    },
+    {
+      "id": "ex-rel-clauses-05",
+      "en": "A teacher is a person who teaches.",
+      "tr": "Öğretmen, öğreten kişidir.",
+      "highlight": "who teaches"
+    },
+    {
+      "id": "ex-rel-clauses-06",
+      "en": "The book which is on the table is mine.",
+      "tr": "Masanın üstündeki kitap benim.",
+      "highlight": "which is on the table",
+      "note": "which: şey"
+    },
+    {
+      "id": "ex-rel-clauses-07",
+      "en": "I live in a house which has a garden.",
+      "tr": "Bahçesi olan bir evde yaşıyorum.",
+      "highlight": "which has a garden"
+    },
+    {
+      "id": "ex-rel-clauses-08",
+      "en": "This is the bus which goes to the airport.",
+      "tr": "Bu, havaalanına giden otobüs.",
+      "highlight": "which goes to the airport"
+    },
+    {
+      "id": "ex-rel-clauses-09",
+      "en": "She bought a dress which was very expensive.",
+      "tr": "Çok pahalı bir elbise aldı.",
+      "highlight": "which was very expensive"
+    },
+    {
+      "id": "ex-rel-clauses-10",
+      "en": "A dictionary is a book which explains words.",
+      "tr": "Sözlük, sözcükleri açıklayan kitaptır.",
+      "highlight": "which explains words"
+    },
+    {
+      "id": "ex-rel-clauses-11",
+      "en": "The man that lives next door is a doctor.",
+      "tr": "Yan kapıda yaşayan adam doktor.",
+      "highlight": "that lives next door",
+      "note": "that: kişi ve şey"
+    },
+    {
+      "id": "ex-rel-clauses-12",
+      "en": "The book that is on the table is mine.",
+      "tr": "Masanın üstündeki kitap benim.",
+      "highlight": "that is on the table"
+    },
+    {
+      "id": "ex-rel-clauses-13",
+      "en": "I know a girl that speaks five languages.",
+      "tr": "Beş dil konuşan bir kız tanıyorum.",
+      "highlight": "that speaks five languages"
+    },
+    {
+      "id": "ex-rel-clauses-14",
+      "en": "This is the car that I bought.",
+      "tr": "Bu, aldığım araba.",
+      "highlight": "that I bought",
+      "note": "nesne: that düşebilir"
+    },
+    {
+      "id": "ex-rel-clauses-15",
+      "en": "The film that we saw was great.",
+      "tr": "Gördüğümüz film harikaydı.",
+      "highlight": "that we saw"
+    },
+    {
+      "id": "ex-rel-clauses-16",
+      "en": "The film we saw was great.",
+      "tr": "Gördüğümüz film harikaydı.",
+      "highlight": "we saw",
+      "note": "nesne ise that düşer"
+    },
+    {
+      "id": "ex-rel-clauses-17",
+      "en": "The man I met yesterday is a teacher.",
+      "tr": "Dün tanıştığım adam öğretmen.",
+      "highlight": "I met yesterday"
+    },
+    {
+      "id": "ex-rel-clauses-18",
+      "en": "The woman who I met yesterday is a doctor.",
+      "tr": "Dün tanıştığım kadın doktor.",
+      "highlight": "who I met yesterday"
+    },
+    {
+      "id": "ex-rel-clauses-19",
+      "en": "A baker is a person who makes bread.",
+      "tr": "Fırıncı ekmek yapan kişidir.",
+      "highlight": "who makes bread"
+    },
+    {
+      "id": "ex-rel-clauses-20",
+      "en": "A knife is a thing which cuts.",
+      "tr": "Bıçak kesen bir şeydir.",
+      "highlight": "which cuts"
+    },
+    {
+      "id": "ex-rel-clauses-21",
+      "en": "That is the girl whose bag was stolen.",
+      "tr": "Bu, çantası çalınan kız.",
+      "highlight": "whose bag was stolen",
+      "note": "whose: sahiplik"
+    },
+    {
+      "id": "ex-rel-clauses-22",
+      "en": "Where is the pen that was on my desk?",
+      "tr": "Masamdaki kalem nerede?",
+      "highlight": "that was on my desk"
+    },
+    {
+      "id": "ex-rel-clauses-23",
+      "en": "She has a brother who lives in London.",
+      "tr": "Londra'da yaşayan bir erkek kardeşi var.",
+      "highlight": "who lives in London"
+    },
+    {
+      "id": "ex-rel-clauses-24",
+      "en": "The people who work here are very friendly.",
+      "tr": "Burada çalışan insanlar çok arkadaş canlısı.",
+      "highlight": "who work here"
+    },
+    {
+      "id": "ex-rel-clauses-25",
+      "en": "The shop which sells shoes is closed.",
+      "tr": "Ayakkabı satan dükkân kapalı.",
+      "highlight": "which sells shoes"
+    },
+    {
+      "id": "ex-rel-clauses-26",
+      "en": "I like films that make me laugh.",
+      "tr": "Beni güldüren filmleri severim.",
+      "highlight": "that make me laugh"
+    },
+    {
+      "id": "ex-rel-clauses-27",
+      "en": "The students who study hard pass the exam.",
+      "tr": "Sıkı çalışan öğrenciler sınavı geçer.",
+      "highlight": "who study hard"
+    },
+    {
+      "id": "ex-rel-clauses-28",
+      "en": "This is the house where I was born.",
+      "tr": "Bu, doğduğum ev.",
+      "highlight": "where I was born",
+      "note": "where: yer"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-rel-clauses-01",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The man ___ lives next door is a doctor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "what"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kişi: who.",
+      "optionExplanations": {
+        "b": "Which şeyler için.",
+        "c": "What ilgi zamiri değildir.",
+        "d": "Whose sahiplik."
+      },
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-02",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The book ___ is on the table is mine.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Şey: which / that.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who kişiler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-03",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yan kapıda yaşayan adam doktor.",
+      "answer": [
+        "The",
+        "man",
+        "who",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "which",
+        "live"
+      ],
+      "explanation": "isim + who + fiil",
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-04",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man which lives next door is a doctor.",
+      "errorSpan": "which",
+      "answers": [
+        "The man who lives next door is a doctor.",
+        "The man that lives next door is a doctor."
+      ],
+      "explanation": "Kişi için who / that.",
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-05",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yan kapıda yaşayan adam doktor.",
+      "hint": "yan kapı: next door",
+      "answers": [
+        "The man who lives next door is a doctor.",
+        "The man that lives next door is a doctor."
+      ],
+      "targetStructure": "who + fiil",
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The man which lives next door is a doctor.",
+          "explanation": "Kişi için who."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-06",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The book ___ is on the table is mine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "what"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şey: which.",
+      "optionExplanations": {
+        "b": "Who kişiler için.",
+        "c": "What ilgi zamiri değildir.",
+        "d": "Whose sahiplik."
+      },
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-07",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I know a girl ___ speaks five languages.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "what"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kişi: who.",
+      "optionExplanations": {
+        "b": "Which şeyler için.",
+        "c": "What ilgi zamiri değildir.",
+        "d": "Where yer için."
+      },
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-08",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This is the bus ___ goes to the airport.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şey: which.",
+      "optionExplanations": {
+        "b": "Who kişiler için.",
+        "c": "Whose sahiplik.",
+        "d": "Where yer için."
+      },
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-09",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "A teacher is a person ___ teaches.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-10",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I live in a house ___ has a garden.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who kişiler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-11",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "A knife is a thing ___ cuts.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who kişiler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-12",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The film ___ we saw was great. (that düşebilir)",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şey: that.",
+      "optionExplanations": {
+        "b": "Who kişiler için.",
+        "c": "Whose sahiplik.",
+        "d": "Where yer için."
+      },
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-13",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The man who lives next door is a doctor."
+        },
+        {
+          "id": "b",
+          "text": "The man who he lives next door is a doctor."
+        },
+        {
+          "id": "c",
+          "text": "The man lives next door is a doctor."
+        },
+        {
+          "id": "d",
+          "text": "The man who is lives next door is a doctor."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Who zaten özne.",
+      "optionExplanations": {
+        "b": "İkinci özne eklenmez.",
+        "c": "Who eksik.",
+        "d": "Fazladan fiil."
+      },
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-14",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The film we saw was great."
+        },
+        {
+          "id": "b",
+          "text": "The film we saw it was great."
+        },
+        {
+          "id": "c",
+          "text": "The film saw was great."
+        },
+        {
+          "id": "d",
+          "text": "The film what we saw was great."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne tekrar edilmez.",
+      "optionExplanations": {
+        "b": "Nesne tekrar edilmez.",
+        "c": "Özne eksik.",
+        "d": "What ilgi zamiri değildir."
+      },
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-15",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "That is the girl ___ bag was stolen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sahiplik: whose.",
+      "optionExplanations": {
+        "b": "Who bu yapıda sahiplik bildirmez.",
+        "c": "Which şeyler için.",
+        "d": "Where yer için."
+      },
+      "tags": [
+        "rel-clauses",
+        "whose-where"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-16",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "This is the house ___ I was born.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "what"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer: where.",
+      "optionExplanations": {
+        "b": "Who kişiler için.",
+        "c": "Whose sahiplik.",
+        "d": "What ilgi zamiri değildir."
+      },
+      "tags": [
+        "rel-clauses",
+        "whose-where"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-17",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I like films ___ make me laugh.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şey: that.",
+      "optionExplanations": {
+        "b": "Who kişiler için.",
+        "c": "Whose sahiplik.",
+        "d": "Where yer için."
+      },
+      "tags": [
+        "rel-clauses",
+        "that"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-18",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The woman ___ called you is my aunt.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-19",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She bought a dress ___ was very expensive.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who kişiler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-20",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "People ___ smoke should stop.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-21",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She has a brother ___ lives in London.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-22",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The shop ___ sells shoes is closed.",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who kişiler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-23",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "That is the girl ___ bag was stolen.",
+      "answers": [
+        "whose"
+      ],
+      "explanation": "Sahiplik.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "who",
+          "explanation": "Who sahiplik bildirmez."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "whose-where"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-24",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This is the house ___ I was born.",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Yer.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Yer için where."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "whose-where"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-25",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The students ___ study hard pass the exam.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-26",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The book who is on the table is mine.",
+      "errorSpan": "who",
+      "answers": [
+        "The book which is on the table is mine.",
+        "The book that is on the table is mine."
+      ],
+      "explanation": "Şey için which / that.",
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-27",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man who he lives next door is a doctor.",
+      "errorSpan": "who he",
+      "answers": [
+        "The man who lives next door is a doctor."
+      ],
+      "explanation": "Who zaten özne.",
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-28",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The film that we saw it was great.",
+      "errorSpan": "saw it",
+      "answers": [
+        "The film that we saw was great.",
+        "The film we saw was great."
+      ],
+      "explanation": "Nesne tekrar edilmez.",
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-29",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The girl what lives next door is nice.",
+      "errorSpan": "what",
+      "answers": [
+        "The girl who lives next door is nice.",
+        "The girl that lives next door is nice."
+      ],
+      "explanation": "What ilgi zamiri değildir.",
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-30",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man lives next door is a doctor.",
+      "errorSpan": "man lives",
+      "answers": [
+        "The man who lives next door is a doctor.",
+        "The man that lives next door is a doctor."
+      ],
+      "explanation": "Özne olan who düşmez.",
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-31",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Masanın üstündeki kitap benim.",
+      "answer": [
+        "The",
+        "book",
+        "which",
+        "is",
+        "on",
+        "the",
+        "table",
+        "is",
+        "mine"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "are"
+      ],
+      "explanation": "isim + which + fiil",
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-32",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu, aldığım araba.",
+      "answer": [
+        "This",
+        "is",
+        "the",
+        "car",
+        "that",
+        "I",
+        "bought"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "buy"
+      ],
+      "explanation": "nesne: that",
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-33",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu, çantası çalınan kız.",
+      "answer": [
+        "That",
+        "is",
+        "the",
+        "girl",
+        "whose",
+        "bag",
+        "was",
+        "stolen"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "were"
+      ],
+      "explanation": "whose + isim",
+      "tags": [
+        "rel-clauses",
+        "whose-where"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-34",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beş dil konuşan bir kız tanıyorum.",
+      "hint": "konuşmak: speak",
+      "answers": [
+        "I know a girl who speaks five languages.",
+        "I know a girl that speaks five languages."
+      ],
+      "targetStructure": "who + fiil",
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I know a girl which speaks five languages.",
+          "explanation": "Kişi için who."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-35",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu, havaalanına giden otobüs.",
+      "hint": "havaalanı: airport",
+      "answers": [
+        "This is the bus which goes to the airport.",
+        "This is the bus that goes to the airport."
+      ],
+      "targetStructure": "which + fiil",
+      "explanation": "Şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is the bus who goes to the airport.",
+          "explanation": "Şey için which."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-36",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gördüğümüz film harikaydı.",
+      "hint": "görmek: see",
+      "answers": [
+        "The film we saw was great.",
+        "The film that we saw was great.",
+        "The film which we saw was great."
+      ],
+      "targetStructure": "nesne ilgi cümlesi",
+      "explanation": "That düşebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The film we saw it was great.",
+          "explanation": "Nesne tekrar edilmez."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-37",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinde that düşebilir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The film that we saw was great."
+        },
+        {
+          "id": "b",
+          "text": "The man that lives next door is a doctor."
+        },
+        {
+          "id": "c",
+          "text": "The book that is on the table is mine."
+        },
+        {
+          "id": "d",
+          "text": "The girl that speaks French is my friend."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne olan that düşer.",
+      "optionExplanations": {
+        "b": "Özne olan that düşmez.",
+        "c": "Özne olan that düşmez.",
+        "d": "Özne olan that düşmez."
+      },
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-38",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi tanımdır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A baker is a person who makes bread."
+        },
+        {
+          "id": "b",
+          "text": "A baker makes bread."
+        },
+        {
+          "id": "c",
+          "text": "Bread is made by a baker."
+        },
+        {
+          "id": "d",
+          "text": "The baker is in the shop."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tanım: a person who …",
+      "optionExplanations": {
+        "b": "Tanım yapısı değil.",
+        "c": "Edilgen.",
+        "d": "Tanım değil."
+      },
+      "tags": [
+        "rel-clauses",
+        "tanim"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-39",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The woman who I met yesterday is a doctor."
+        },
+        {
+          "id": "b",
+          "text": "The woman who I met her yesterday is a doctor."
+        },
+        {
+          "id": "c",
+          "text": "The woman I met who yesterday is a doctor."
+        },
+        {
+          "id": "d",
+          "text": "The woman what I met yesterday is a doctor."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne tekrar edilmez.",
+      "optionExplanations": {
+        "b": "Nesne tekrar edilmez.",
+        "c": "Sıra bozuk.",
+        "d": "What ilgi zamiri değildir."
+      },
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-40",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The woman ___ I met yesterday is a doctor.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Nesne olan zamir de kullanılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Kişi için who / that."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-41",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "A baker is a person ___ makes bread.",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "which",
+          "explanation": "Which şeyler için."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "tanim"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-42",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sözlük, sözcükleri açıklayan kitaptır.",
+      "hint": "açıklamak: explain",
+      "answers": [
+        "A dictionary is a book which explains words.",
+        "A dictionary is a book that explains words."
+      ],
+      "targetStructure": "a … which …",
+      "explanation": "Şey tanımı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "A dictionary is a book who explains words.",
+          "explanation": "Şey için which."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "tanim"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-43",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Burada çalışan insanlar çok arkadaş canlısı.",
+      "hint": "arkadaş canlısı: friendly",
+      "answers": [
+        "The people who work here are very friendly.",
+        "The people that work here are very friendly."
+      ],
+      "targetStructure": "who + fiil",
+      "explanation": "Kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The people which work here are very friendly.",
+          "explanation": "Kişi için who."
+        }
+      ],
+      "tags": [
+        "rel-clauses",
+        "who"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-44",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man I met him yesterday is a teacher.",
+      "errorSpan": "met him",
+      "answers": [
+        "The man I met yesterday is a teacher.",
+        "The man who I met yesterday is a teacher.",
+        "The man that I met yesterday is a teacher."
+      ],
+      "explanation": "Nesne tekrar edilmez.",
+      "tags": [
+        "rel-clauses",
+        "object"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-rel-clauses-45",
+      "lessonId": "a2-relative-clauses-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The book which it is on the table is mine.",
+      "errorSpan": "which it",
+      "answers": [
+        "The book which is on the table is mine."
+      ],
+      "explanation": "Which zaten özne.",
+      "tags": [
+        "rel-clauses",
+        "which"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-rel-clauses",
+    "title": "Relative Clauses: Konu sonu sınavı",
+    "description": "Who, which, that, whose ve where.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-rel-clauses-exam-01",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The woman ___ works here is kind.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "which"
+          },
+          {
+            "id": "c",
+            "text": "what"
+          },
+          {
+            "id": "d",
+            "text": "whose"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kişi: who.",
+        "optionExplanations": {
+          "b": "Which şeyler için.",
+          "c": "What ilgi zamiri değildir.",
+          "d": "Whose sahiplik."
+        },
+        "tags": [
+          "rel-clauses",
+          "who"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-02",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The chair ___ is broken is old.",
+        "answers": [
+          "which",
+          "that"
+        ],
+        "explanation": "Şey.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "who",
+            "explanation": "Who kişiler için."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "which"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-03",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Beni güldüren filmleri severim.",
+        "answer": [
+          "I",
+          "like",
+          "films",
+          "that",
+          "make",
+          "me",
+          "laugh"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "who",
+          "makes"
+        ],
+        "explanation": "that + fiil",
+        "tags": [
+          "rel-clauses",
+          "that"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-04",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The cat who sleeps on my bed is lazy.",
+        "errorSpan": "who sleeps",
+        "answers": [
+          "The cat which sleeps on my bed is lazy.",
+          "The cat that sleeps on my bed is lazy."
+        ],
+        "explanation": "Hayvan için which / that.",
+        "tags": [
+          "rel-clauses",
+          "which"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-05",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bahçesi olan bir evde yaşıyorum.",
+        "hint": "bahçe: garden",
+        "answers": [
+          "I live in a house which has a garden.",
+          "I live in a house that has a garden."
+        ],
+        "targetStructure": "which + fiil",
+        "explanation": "Şey.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I live in a house who has a garden.",
+            "explanation": "Şey için which."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "which"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-06",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "This is the girl ___ bag was stolen.",
+        "options": [
+          {
+            "id": "a",
+            "text": "whose"
+          },
+          {
+            "id": "b",
+            "text": "who"
+          },
+          {
+            "id": "c",
+            "text": "which"
+          },
+          {
+            "id": "d",
+            "text": "where"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sahiplik.",
+        "optionExplanations": {
+          "b": "Sahiplik için whose.",
+          "c": "Which şeyler için.",
+          "d": "Where yer için."
+        },
+        "tags": [
+          "rel-clauses",
+          "whose-where"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-07",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "This is the town ___ I grew up.",
+        "answers": [
+          "where"
+        ],
+        "explanation": "Yer.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "whose",
+            "explanation": "Yer için where."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "whose-where"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-08",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Dün tanıştığım adam öğretmen.",
+        "answer": [
+          "The",
+          "man",
+          "I",
+          "met",
+          "yesterday",
+          "is",
+          "a",
+          "teacher"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "who",
+          "meet"
+        ],
+        "explanation": "nesne ilgi cümlesi",
+        "tags": [
+          "rel-clauses",
+          "object"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-09",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The people which work here are friendly.",
+        "errorSpan": "which",
+        "answers": [
+          "The people who work here are friendly.",
+          "The people that work here are friendly."
+        ],
+        "explanation": "Kişi için who.",
+        "tags": [
+          "rel-clauses",
+          "who"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-10",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Seni arayan kadın teyzem.",
+        "hint": "aramak: call",
+        "answers": [
+          "The woman who called you is my aunt.",
+          "The woman that called you is my aunt."
+        ],
+        "targetStructure": "who + fiil",
+        "explanation": "Kişi.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The woman which called you is my aunt.",
+            "explanation": "Kişi için who."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "who"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-11",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The bag I bought was expensive."
+          },
+          {
+            "id": "b",
+            "text": "The bag I bought it was expensive."
+          },
+          {
+            "id": "c",
+            "text": "The bag bought was expensive."
+          },
+          {
+            "id": "d",
+            "text": "The bag what I bought was expensive."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Nesne tekrar edilmez.",
+        "optionExplanations": {
+          "b": "Nesne tekrar edilmez.",
+          "c": "Özne eksik.",
+          "d": "What ilgi zamiri değildir."
+        },
+        "tags": [
+          "rel-clauses",
+          "object"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-12",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "A pilot is a person ___ flies planes.",
+        "answers": [
+          "who",
+          "that"
+        ],
+        "explanation": "Kişi.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "which",
+            "explanation": "Which şeyler için."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "tanim"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-13",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The dog that it barks all night is mine.",
+        "errorSpan": "that it",
+        "answers": [
+          "The dog that barks all night is mine."
+        ],
+        "explanation": "That zaten özne.",
+        "tags": [
+          "rel-clauses",
+          "that"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-14",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangi cümlede that düşemez?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The student that works hard will pass."
+          },
+          {
+            "id": "b",
+            "text": "The movie that we saw was good."
+          },
+          {
+            "id": "c",
+            "text": "The pen that I lost was blue."
+          },
+          {
+            "id": "d",
+            "text": "The cake that she baked was great."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Özne olan that düşmez.",
+        "optionExplanations": {
+          "b": "Nesne olan düşebilir.",
+          "c": "Nesne olan düşebilir.",
+          "d": "Nesne olan düşebilir."
+        },
+        "tags": [
+          "rel-clauses",
+          "object"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-15",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "A clock is a thing ___ shows the time.",
+        "answers": [
+          "which",
+          "that"
+        ],
+        "explanation": "Şey.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "who",
+            "explanation": "Who kişiler için."
+          }
+        ],
+        "tags": [
+          "rel-clauses",
+          "tanim"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-rel-clauses-exam-16",
+        "lessonId": "a2-relative-clauses-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu, doğduğum ev.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "house",
+          "where",
+          "I",
+          "was",
+          "born"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "who",
+          "were"
+        ],
+        "explanation": "where",
+        "tags": [
+          "rel-clauses",
+          "whose-where"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
