@@ -1,0 +1,2170 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-so-such",
+  "levelId": "b1",
+  "title": "So & Such",
+  "objectives": [
+    "So + sıfat / zarf yapısını kurmak",
+    "Such + (a / an) + sıfat + isim yapısını kurmak",
+    "So … that ve such … that ile sonuç cümlesi kurmak",
+    "So many / so much / so few / so little kullanımını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Vurgu ve sonuç: so ve such",
+      "paragraphs": [
+        "So ve such, “çok, öyle” anlamı veren vurgu sözcükleridir. Aralarındaki fark, ardından ne geldiğidir: so yalnız sıfat ya da zarfla; such ise isim öbeğiyle kullanılır.",
+        "İkisi de sonuç cümlesiyle birlikte kullanılabilir: The film was so boring that I fell asleep. Such a boring film! Dikkat: so + sıfat, such + (a / an) + (sıfat) + isim."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "So + sıfat / zarf",
+      "paragraphs": [
+        "So, bir sıfat ya da zarfı güçlendirir. Ardından isim gelmez."
+      ],
+      "formulas": [
+        {
+          "label": "Sıfat",
+          "pattern": "so + sıfat",
+          "exampleIds": [
+            "ex-so-such-01",
+            "ex-so-such-02",
+            "ex-so-such-03"
+          ]
+        },
+        {
+          "label": "Zarf",
+          "pattern": "so + zarf",
+          "exampleIds": [
+            "ex-so-such-04",
+            "ex-so-such-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Such + isim öbeği",
+      "paragraphs": [
+        "Such, bir isim öbeğini (sıfat + isim) güçlendirir. Tekil sayılabilir isimle a / an gerekir. Çoğul ve sayılamayan isimlerle artikel gelmez."
+      ],
+      "formulas": [
+        {
+          "label": "Tekil",
+          "pattern": "such + a / an + (sıfat) + tekil isim",
+          "exampleIds": [
+            "ex-so-such-06",
+            "ex-so-such-07",
+            "ex-so-such-08"
+          ]
+        },
+        {
+          "label": "Çoğul",
+          "pattern": "such + (sıfat) + çoğul isim",
+          "exampleIds": [
+            "ex-so-such-09",
+            "ex-so-such-10"
+          ]
+        },
+        {
+          "label": "Sayılamayan",
+          "pattern": "such + (sıfat) + sayılamayan isim",
+          "exampleIds": [
+            "ex-so-such-11",
+            "ex-so-such-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "So … that / such … that",
+      "paragraphs": [
+        "That ile sonuç belirtilir. Gündelik konuşmada that çoğu zaman atılır."
+      ],
+      "formulas": [
+        {
+          "label": "So … that",
+          "pattern": "so + sıfat + that + sonuç",
+          "exampleIds": [
+            "ex-so-such-13",
+            "ex-so-such-14",
+            "ex-so-such-15"
+          ]
+        },
+        {
+          "label": "Such … that",
+          "pattern": "such + isim öbeği + that + sonuç",
+          "exampleIds": [
+            "ex-so-such-16",
+            "ex-so-such-17",
+            "ex-so-such-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "So much / many / few / little",
+      "paragraphs": [
+        "So many sayılabilir çoğul isimle, so much sayılamayan isimle, so few ve so little ise az miktarı vurgulamak için kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Many",
+          "pattern": "so many + çoğul isim",
+          "exampleIds": [
+            "ex-so-such-19",
+            "ex-so-such-20"
+          ]
+        },
+        {
+          "label": "Much",
+          "pattern": "so much + sayılamayan isim",
+          "exampleIds": [
+            "ex-so-such-21",
+            "ex-so-such-22"
+          ]
+        },
+        {
+          "label": "Few / little",
+          "pattern": "so few + çoğul / so little + sayılamayan",
+          "exampleIds": [
+            "ex-so-such-23",
+            "ex-so-such-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "So ve such ayrımı",
+      "paragraphs": [
+        "Eğer sıfat tek başına gelirse so, sıfattan sonra isim varsa such kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "So",
+          "pattern": "The weather is so nice.",
+          "exampleIds": [
+            "ex-so-such-01"
+          ]
+        },
+        {
+          "label": "Such",
+          "pattern": "It is such nice weather.",
+          "exampleIds": [
+            "ex-so-such-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Diğer kullanımlar",
+      "paragraphs": [
+        "So, kısa cevaplarda ve ‘de’ anlamında kullanılır: So do I. Such as, ‘gibi’ demektir: fruits such as apples. So that, amaç bildirir."
+      ],
+      "formulas": [
+        {
+          "label": "So do I",
+          "pattern": "So + yardımcı fiil + özne",
+          "exampleIds": [
+            "ex-so-such-25",
+            "ex-so-such-26"
+          ]
+        },
+        {
+          "label": "Such as",
+          "pattern": "such as + örnek",
+          "exampleIds": [
+            "ex-so-such-27"
+          ]
+        },
+        {
+          "label": "So that",
+          "pattern": "so that + amaç",
+          "exampleIds": [
+            "ex-so-such-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-so-such-01",
+        "ex-so-such-02",
+        "ex-so-such-03",
+        "ex-so-such-04",
+        "ex-so-such-05",
+        "ex-so-such-06",
+        "ex-so-such-07",
+        "ex-so-such-08",
+        "ex-so-such-09",
+        "ex-so-such-10",
+        "ex-so-such-11",
+        "ex-so-such-12",
+        "ex-so-such-13",
+        "ex-so-such-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-so-such-15",
+        "ex-so-such-16",
+        "ex-so-such-17",
+        "ex-so-such-18",
+        "ex-so-such-19",
+        "ex-so-such-20",
+        "ex-so-such-21",
+        "ex-so-such-22",
+        "ex-so-such-23",
+        "ex-so-such-24",
+        "ex-so-such-25",
+        "ex-so-such-26",
+        "ex-so-such-27",
+        "ex-so-such-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She is such kind.",
+          "right": "She is so kind.",
+          "explanation": "Yalın sıfat: so."
+        },
+        {
+          "wrong": "It was so a good film.",
+          "right": "It was such a good film.",
+          "explanation": "Isim öbeği: such a."
+        },
+        {
+          "wrong": "They are so nice people.",
+          "right": "They are such nice people.",
+          "explanation": "Çoğul isim öbeği: such."
+        },
+        {
+          "wrong": "I have so many homework.",
+          "right": "I have so much homework.",
+          "explanation": "Sayılamayan: so much."
+        },
+        {
+          "wrong": "There were so much people.",
+          "right": "There were so many people.",
+          "explanation": "Çoğul: so many."
+        },
+        {
+          "wrong": "It was such cold that we stayed in.",
+          "right": "It was so cold that we stayed in.",
+          "explanation": "Yalın sıfat: so."
+        },
+        {
+          "wrong": "He is such tall.",
+          "right": "He is so tall.",
+          "explanation": "Yalın sıfat: so."
+        },
+        {
+          "wrong": "It's so nice weather.",
+          "right": "It's such nice weather.",
+          "explanation": "İsim öbeği: such."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Linking words",
+          "body": "Sonuç bağlaçlarını birlikte gör.",
+          "lessonId": "b1-linking-words"
+        },
+        {
+          "topic": "Too / enough",
+          "body": "Çok fazla ve yeterli anlamı farklıdır.",
+          "lessonId": "a2-too-enough"
+        },
+        {
+          "topic": "Quantifiers",
+          "body": "Much / many / few / little kullanımını hatırla.",
+          "lessonId": "a2-quantifiers"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "So + sıfat / zarf; such + (a / an) + sıfat + isim.",
+        "So many çoğul, so much sayılamayan isimle kullanılır.",
+        "Tekil sayılabilir isimde such a / such an gerekir.",
+        "Sonuç için that kullanılır: so … that, such … that.",
+        "So do I / So can I: ‘ben de’ anlamı verir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-so-such-01",
+        "q-so-such-13",
+        "q-so-such-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-so-such-01",
+      "en": "The weather is so nice today.",
+      "tr": "Hava bugün çok güzel.",
+      "highlight": "so nice"
+    },
+    {
+      "id": "ex-so-such-02",
+      "en": "I'm so tired.",
+      "tr": "Çok yorgunum.",
+      "highlight": "so tired"
+    },
+    {
+      "id": "ex-so-such-03",
+      "en": "She is so kind.",
+      "tr": "O çok nazik.",
+      "highlight": "so kind"
+    },
+    {
+      "id": "ex-so-such-04",
+      "en": "He drives so fast.",
+      "tr": "O çok hızlı sürüyor.",
+      "highlight": "so fast"
+    },
+    {
+      "id": "ex-so-such-05",
+      "en": "They spoke so quietly that I couldn't hear.",
+      "tr": "O kadar sessiz konuştular ki duyamadım.",
+      "highlight": "so quietly"
+    },
+    {
+      "id": "ex-so-such-06",
+      "en": "It was such a beautiful day.",
+      "tr": "Çok güzel bir gündü.",
+      "highlight": "such a beautiful day"
+    },
+    {
+      "id": "ex-so-such-07",
+      "en": "He is such an interesting person.",
+      "tr": "O çok ilginç bir insan.",
+      "highlight": "such an interesting person"
+    },
+    {
+      "id": "ex-so-such-08",
+      "en": "That was such a good idea!",
+      "tr": "Bu çok iyi bir fikirdi!",
+      "highlight": "such a good idea"
+    },
+    {
+      "id": "ex-so-such-09",
+      "en": "They are such nice people.",
+      "tr": "Onlar çok iyi insanlar.",
+      "highlight": "such nice people"
+    },
+    {
+      "id": "ex-so-such-10",
+      "en": "We had such good friends.",
+      "tr": "Çok iyi arkadaşlarımız vardı.",
+      "highlight": "such good friends"
+    },
+    {
+      "id": "ex-so-such-11",
+      "en": "It is such nice weather.",
+      "tr": "Çok güzel bir hava.",
+      "highlight": "such nice weather"
+    },
+    {
+      "id": "ex-so-such-12",
+      "en": "She gave me such good advice.",
+      "tr": "Bana çok iyi bir tavsiye verdi.",
+      "highlight": "such good advice"
+    },
+    {
+      "id": "ex-so-such-13",
+      "en": "The film was so boring that I fell asleep.",
+      "tr": "Film o kadar sıkıcıydı ki uyuyakaldım.",
+      "highlight": "so boring that"
+    },
+    {
+      "id": "ex-so-such-14",
+      "en": "He was so tired that he went to bed.",
+      "tr": "O kadar yorgundu ki yattı.",
+      "highlight": "so tired that"
+    },
+    {
+      "id": "ex-so-such-15",
+      "en": "The soup was so hot that I couldn't eat it.",
+      "tr": "Çorba o kadar sıcaktı ki yiyemedim.",
+      "highlight": "so hot that"
+    },
+    {
+      "id": "ex-so-such-16",
+      "en": "It was such a boring film that I left.",
+      "tr": "O kadar sıkıcı bir filmdi ki çıktım.",
+      "highlight": "such a boring film that"
+    },
+    {
+      "id": "ex-so-such-17",
+      "en": "She has such a loud voice that everyone hears her.",
+      "tr": "O kadar yüksek sesi var ki herkes duyuyor.",
+      "highlight": "such a loud voice that"
+    },
+    {
+      "id": "ex-so-such-18",
+      "en": "It was such terrible weather that we stayed in.",
+      "tr": "O kadar kötü bir hava vardı ki evde kaldık.",
+      "highlight": "such terrible weather that"
+    },
+    {
+      "id": "ex-so-such-19",
+      "en": "There were so many people at the party.",
+      "tr": "Partide çok fazla insan vardı.",
+      "highlight": "so many people"
+    },
+    {
+      "id": "ex-so-such-20",
+      "en": "I have so many questions.",
+      "tr": "Çok sorum var.",
+      "highlight": "so many questions"
+    },
+    {
+      "id": "ex-so-such-21",
+      "en": "There is so much noise here.",
+      "tr": "Burada çok gürültü var.",
+      "highlight": "so much noise"
+    },
+    {
+      "id": "ex-so-such-22",
+      "en": "I have so much homework.",
+      "tr": "Çok ödevim var.",
+      "highlight": "so much homework"
+    },
+    {
+      "id": "ex-so-such-23",
+      "en": "There are so few chairs.",
+      "tr": "Çok az sandalye var.",
+      "highlight": "so few chairs"
+    },
+    {
+      "id": "ex-so-such-24",
+      "en": "We have so little time.",
+      "tr": "Çok az zamanımız var.",
+      "highlight": "so little time"
+    },
+    {
+      "id": "ex-so-such-25",
+      "en": "I love pizza. – So do I.",
+      "tr": "Pizzayı severim. – Ben de.",
+      "highlight": "So do I"
+    },
+    {
+      "id": "ex-so-such-26",
+      "en": "I can swim. – So can I.",
+      "tr": "Yüzebilirim. – Ben de.",
+      "highlight": "So can I"
+    },
+    {
+      "id": "ex-so-such-27",
+      "en": "I like fruits such as apples and bananas.",
+      "tr": "Elma ve muz gibi meyveleri severim.",
+      "highlight": "such as"
+    },
+    {
+      "id": "ex-so-such-28",
+      "en": "I spoke slowly so that everyone could understand.",
+      "tr": "Herkes anlayabilsin diye yavaş konuştum.",
+      "highlight": "so that"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-so-such-01",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The test was ___ difficult.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "such a"
+        },
+        {
+          "id": "d",
+          "text": "very much"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "So + sıfat.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-02",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It was ___ difficult test.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "so a"
+        },
+        {
+          "id": "c",
+          "text": "such a"
+        },
+        {
+          "id": "d",
+          "text": "such"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Such a + sıfat + isim.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-03",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is ___ nice girl.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "such"
+        },
+        {
+          "id": "c",
+          "text": "so a"
+        },
+        {
+          "id": "d",
+          "text": "such a"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Such a + sıfat + isim.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-04",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They are ___ nice people.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "such a"
+        },
+        {
+          "id": "d",
+          "text": "so many"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Such + çoğul isim.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-05",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ran ___ fast that nobody could catch him.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "such a"
+        },
+        {
+          "id": "d",
+          "text": "too"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "So + zarf.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-06",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ homework to do.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so many"
+        },
+        {
+          "id": "b",
+          "text": "so few"
+        },
+        {
+          "id": "c",
+          "text": "so much"
+        },
+        {
+          "id": "d",
+          "text": "such"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Sayılamayan: so much.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-07",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There were ___ cars on the road.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so much"
+        },
+        {
+          "id": "b",
+          "text": "so little"
+        },
+        {
+          "id": "c",
+          "text": "such"
+        },
+        {
+          "id": "d",
+          "text": "so many"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Çoğul: so many.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-08",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It is ___ nice weather today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "such a"
+        },
+        {
+          "id": "d",
+          "text": "so a"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Such + sayılamayan isim.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-09",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We have ___ time left.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so few"
+        },
+        {
+          "id": "b",
+          "text": "so little"
+        },
+        {
+          "id": "c",
+          "text": "so many"
+        },
+        {
+          "id": "d",
+          "text": "such"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sayılamayan: so little.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-10",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It was ___ cold that we stayed in.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such"
+        },
+        {
+          "id": "b",
+          "text": "such a"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "too"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "So + sıfat + that.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-11",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It was ___ cold day that we stayed in.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "so a"
+        },
+        {
+          "id": "c",
+          "text": "such"
+        },
+        {
+          "id": "d",
+          "text": "such a"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Such a + sıfat + isim + that.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-12",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I like fruit ___ apples and pears.",
+      "options": [
+        {
+          "id": "a",
+          "text": "such as"
+        },
+        {
+          "id": "b",
+          "text": "so as"
+        },
+        {
+          "id": "c",
+          "text": "so that"
+        },
+        {
+          "id": "d",
+          "text": "such like"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Such as: gibi.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-13",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is ___ clever. (so/such)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "such",
+          "explanation": "Yalın sıfat: so."
+        }
+      ],
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-14",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is ___ a clever boy. (so/such)",
+      "answers": [
+        "such"
+      ],
+      "explanation": "Such a + sıfat + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "Sıfattan sonra isim: such."
+        }
+      ],
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-15",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They sing ___ beautifully. (so/such)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So + zarf.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-16",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We had ___ good time. (such a)",
+      "answers": [
+        "such a"
+      ],
+      "explanation": "Such a + sıfat + isim.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-17",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There are ___ many people here. (so)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So many.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "such",
+          "explanation": "Many ile so."
+        }
+      ],
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-18",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have ___ little money. (so)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So little.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-19",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He was ___ angry that he left. (so)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So + sıfat + that.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-20",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It was ___ a lovely day. (such)",
+      "answers": [
+        "such"
+      ],
+      "explanation": "Such a + sıfat + isim.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-21",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm ___ happy that you came. (so)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So + sıfat + that.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-22",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She has ___ nice friends. (such)",
+      "answers": [
+        "such"
+      ],
+      "explanation": "Such + çoğul isim.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-23",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hava çok güzel.",
+      "answer": [
+        "The",
+        "weather",
+        "is",
+        "so",
+        "nice"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "such",
+        "very"
+      ],
+      "explanation": "so + sıfat",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-24",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O çok nazik bir insan.",
+      "answer": [
+        "He",
+        "is",
+        "such",
+        "a",
+        "kind",
+        "person"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "so",
+        "very"
+      ],
+      "explanation": "such a + sıfat + isim",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-25",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O kadar yorgundu ki yattı.",
+      "answer": [
+        "He",
+        "was",
+        "so",
+        "tired",
+        "that",
+        "he",
+        "went",
+        "to",
+        "bed"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "such",
+        "too"
+      ],
+      "explanation": "so + sıfat + that",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-26",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çok fazla insan vardı.",
+      "answer": [
+        "There",
+        "were",
+        "so",
+        "many",
+        "people"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "much",
+        "such"
+      ],
+      "explanation": "so many",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-27",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is such kind.",
+      "errorSpan": "such kind",
+      "answers": [
+        "She is so kind."
+      ],
+      "explanation": "Yalın sıfat: so.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-28",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It was so a good idea.",
+      "errorSpan": "so a good idea",
+      "answers": [
+        "It was such a good idea."
+      ],
+      "explanation": "Isim öbeği: such a.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-29",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They are so nice people.",
+      "errorSpan": "so nice people",
+      "answers": [
+        "They are such nice people."
+      ],
+      "explanation": "İsim öbeği: such.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-30",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have so many homework.",
+      "errorSpan": "so many homework",
+      "answers": [
+        "I have so much homework."
+      ],
+      "explanation": "Sayılamayan: much.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-31",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There is so many noise.",
+      "errorSpan": "so many noise",
+      "answers": [
+        "There is so much noise."
+      ],
+      "explanation": "Sayılamayan: much.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-32",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is such a tired that he can't walk.",
+      "errorSpan": "such a tired",
+      "answers": [
+        "He is so tired that he can't walk."
+      ],
+      "explanation": "Yalın sıfat: so.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-33",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It was such cold that we stayed in.",
+      "errorSpan": "such cold",
+      "answers": [
+        "It was so cold that we stayed in."
+      ],
+      "explanation": "Yalın sıfat: so.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-34",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok yorgunum.",
+      "hint": "yorgun: tired",
+      "answers": [
+        "I'm so tired.",
+        "I am so tired."
+      ],
+      "targetStructure": "so + sıfat",
+      "explanation": "Vurgu.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-35",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu çok iyi bir fikir.",
+      "hint": "fikir: idea",
+      "answers": [
+        "That's such a good idea.",
+        "It's such a good idea.",
+        "This is such a good idea.",
+        "That is such a good idea."
+      ],
+      "targetStructure": "such a",
+      "explanation": "Vurgu.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-36",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok fazla insan vardı.",
+      "hint": "insan: people",
+      "answers": [
+        "There were so many people."
+      ],
+      "targetStructure": "so many",
+      "explanation": "Sayılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There were so much people.",
+          "explanation": "Çoğul sayılabilir: many."
+        }
+      ],
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-37",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O kadar sıcaktı ki dışarı çıkamadık.",
+      "hint": "sıcak: hot",
+      "answers": [
+        "It was so hot that we couldn't go out."
+      ],
+      "targetStructure": "so … that",
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It was such hot that we couldn't go out.",
+          "explanation": "Yalın sıfat: so."
+        }
+      ],
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-38",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok güzel bir günümüz oldu.",
+      "hint": "gün: day",
+      "answers": [
+        "We had such a lovely day.",
+        "We had such a beautiful day.",
+        "We had such a nice day."
+      ],
+      "targetStructure": "such a",
+      "explanation": "Vurgu.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-39",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok az zamanımız var.",
+      "hint": "zaman: time",
+      "answers": [
+        "We have so little time."
+      ],
+      "targetStructure": "so little",
+      "explanation": "Sayılamayan.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-40",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben de yüzebilirim.",
+      "hint": "yüzmek: swim",
+      "answers": [
+        "So can I."
+      ],
+      "targetStructure": "So + modal + özne",
+      "explanation": "Katılma.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-so-such-41",
+      "lessonId": "b1-so-such",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben de Ankara'da yaşıyorum.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "So do I."
+      ],
+      "targetStructure": "So do I",
+      "explanation": "Katılma.",
+      "tags": [
+        "so-such",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "article_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-so-such",
+    "title": "So & Such: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-so-such-exam-01",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The film was ___ boring.",
+        "options": [
+          {
+            "id": "a",
+            "text": "such"
+          },
+          {
+            "id": "b",
+            "text": "such a"
+          },
+          {
+            "id": "c",
+            "text": "so"
+          },
+          {
+            "id": "d",
+            "text": "very much"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "So + sıfat.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-02",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "It was ___ boring film.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so"
+          },
+          {
+            "id": "b",
+            "text": "so a"
+          },
+          {
+            "id": "c",
+            "text": "such"
+          },
+          {
+            "id": "d",
+            "text": "such a"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Such a + sıfat + isim.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-03",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "They have ___ friends.",
+        "options": [
+          {
+            "id": "a",
+            "text": "such nice"
+          },
+          {
+            "id": "b",
+            "text": "so nice"
+          },
+          {
+            "id": "c",
+            "text": "so much"
+          },
+          {
+            "id": "d",
+            "text": "such a nice"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Such + sıfat + çoğul isim.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-04",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I have ___ books that I can't read them all.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so much"
+          },
+          {
+            "id": "b",
+            "text": "so many"
+          },
+          {
+            "id": "c",
+            "text": "such"
+          },
+          {
+            "id": "d",
+            "text": "so few"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Çoğul: so many.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-05",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "There is ___ traffic today.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so many"
+          },
+          {
+            "id": "b",
+            "text": "so few"
+          },
+          {
+            "id": "c",
+            "text": "so much"
+          },
+          {
+            "id": "d",
+            "text": "such a"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Sayılamayan: so much.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-06",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He speaks ___ quickly that I can't understand. (so)",
+        "answers": [
+          "so"
+        ],
+        "explanation": "So + zarf.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-07",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She is ___ a kind woman. (such)",
+        "answers": [
+          "such"
+        ],
+        "explanation": "Such a + sıfat + isim.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-08",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "There are ___ few seats. (so)",
+        "answers": [
+          "so"
+        ],
+        "explanation": "So few.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-09",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I love animals ___ as dogs and cats. (such)",
+        "answers": [
+          "such"
+        ],
+        "explanation": "Such as.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-10",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "O çok akıllı bir çocuk.",
+        "answer": [
+          "He",
+          "is",
+          "such",
+          "a",
+          "clever",
+          "boy"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "so",
+          "very"
+        ],
+        "explanation": "such a + sıfat + isim",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-11",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çok yorgunduk.",
+        "answer": [
+          "We",
+          "were",
+          "so",
+          "tired"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "such",
+          "much"
+        ],
+        "explanation": "so + sıfat",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-12",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He is so a good teacher.",
+        "errorSpan": "so a good",
+        "answers": [
+          "He is such a good teacher."
+        ],
+        "explanation": "İsim öbeği: such a.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-13",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have so much friends.",
+        "errorSpan": "so much friends",
+        "answers": [
+          "I have so many friends."
+        ],
+        "explanation": "Çoğul: many.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-14",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is such beautiful.",
+        "errorSpan": "such beautiful",
+        "answers": [
+          "She is so beautiful."
+        ],
+        "explanation": "Yalın sıfat: so.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-15",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Çok güzel bir müzik.",
+        "hint": "müzik: music",
+        "answers": [
+          "It is such beautiful music.",
+          "That is such beautiful music.",
+          "What beautiful music!"
+        ],
+        "targetStructure": "such",
+        "explanation": "Sayılamayan isim.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-so-such-exam-16",
+        "lessonId": "b1-so-such",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "O kadar yorgundu ki hemen uyudu.",
+        "hint": "uyumak: fall asleep",
+        "answers": [
+          "He was so tired that he fell asleep immediately.",
+          "She was so tired that she fell asleep immediately.",
+          "He was so tired that he fell asleep at once.",
+          "She was so tired that she fell asleep at once."
+        ],
+        "targetStructure": "so … that",
+        "explanation": "Sonuç.",
+        "tags": [
+          "so-such",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "article_usage"
+        ]
+      }
+    ]
+  }
+}

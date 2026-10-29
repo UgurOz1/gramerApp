@@ -59,6 +59,7 @@ import bArtAdv from "@/assets/data/levels/b1/b1-articles-advanced.json";
 import bQuant2 from "@/assets/data/levels/b1/b1-quantifiers.json";
 import bQTag2 from "@/assets/data/levels/b1/b1-question-tags.json";
 import bLinkW from "@/assets/data/levels/b1/b1-linking-words.json";
+import bSoSuch from "@/assets/data/levels/b1/b1-so-such.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -135,6 +136,7 @@ export const lessonFiles: Record<string, unknown> = {
   "b1-quantifiers": bQuant2,
   "b1-question-tags": bQTag2,
   "b1-linking-words": bLinkW,
+  "b1-so-such": bSoSuch,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,
