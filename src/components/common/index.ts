@@ -4,7 +4,6 @@ export type { BadgeTone } from "./Badge";
 export { Button } from "./Button";
 export { Card } from "./Card";
 export { Chip } from "./Chip";
-export { HeaderButton } from "./HeaderButton";
 export { Icon, icons } from "./Icon";
 export type { IconName } from "./Icon";
 export { IconBubble } from "./IconBubble";

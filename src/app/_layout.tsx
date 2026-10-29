@@ -4,7 +4,8 @@ import { StatusBar } from "expo-status-bar";
 import { useEffect, useState } from "react";
 import { AppState, StyleSheet, View } from "react-native";
 
-import { AppText, HeaderButton } from "@/components/common";
+import { AppText } from "@/components/common";
+import { HeaderButton } from "@/components/common/HeaderButton";
 import { isCatalogLoaded } from "@/features/curriculum/catalog";
 import { userStore } from "@/services/progress/userStore";
 import { colors, spacing } from "@/theme";
