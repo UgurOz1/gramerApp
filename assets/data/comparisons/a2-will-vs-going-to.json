@@ -1,0 +1,1214 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-will-vs-going-to",
+  "levelId": "a2",
+  "title": "Will vs Be Going To",
+  "objectives": [
+    "Anlık karar (will) ile önceden verilmiş karar (be going to) arasındaki farkı ayırt etmek",
+    "Kişisel görüşe dayalı tahmin (will) ile kanıta dayalı tahmin (be going to) farkını anlamak",
+    "Söz, teklif ve rica için will'i seçmek",
+    "Plan ve niyet için be going to'yu seçmek"
+  ],
+  "intro": [
+    "Türkçede ikisi de -ecek / -acak ile söylenir, bu yüzden İngilizcede hangisini seçeceğin kafa karıştırır. Karar zamanı ve elindeki kanıt farkı belirler.",
+    "Kısaca: karar konuşma anında doğuyorsa will; karar önceden verilmişse ya da şu anda gözünün önünde bir kanıt varsa be going to.",
+    "Bazı cümlelerde ikisi de doğru olabilir (örneğin genel tahminlerde); bu ders, bağlamın belirgin olduğu durumlarda doğru seçimi yapmanı sağlar."
+  ],
+  "lessonIds": [
+    "a2-will",
+    "a2-going-to"
+  ],
+  "structures": [
+    {
+      "name": "Will",
+      "meaning": "Konuşma anında verilen karar, söz, teklif ve kişisel görüşe dayanan tahmin. Karar o anda doğar.",
+      "usage": [
+        "Anlık karar (The phone is ringing. I'll answer it.)",
+        "Söz (I promise I'll call you.)",
+        "Teklif ve rica (I'll carry your bag. Will you help me?)",
+        "Görüşe dayalı tahmin (I think it will rain.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + will + yalın fiil",
+          "example": "I'll help you."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + won't + yalın fiil",
+          "example": "I won't tell anyone."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Will + özne + yalın fiil …?",
+          "example": "Will you help me?"
+        }
+      ],
+      "signals": [
+        "I think",
+        "I'm sure",
+        "probably",
+        "perhaps",
+        "I promise",
+        "I hope",
+        "tomorrow",
+        "in 2050"
+      ]
+    },
+    {
+      "name": "Be going to",
+      "meaning": "Önceden verilmiş plan ve niyet; şu anda elimizde bir kanıt olan, olması neredeyse kesin gelecek olaylar.",
+      "usage": [
+        "Önceden verilmiş karar ve plan (I'm going to visit my aunt.)",
+        "Şu anki kanıta dayalı tahmin (Look at the clouds! It's going to rain.)",
+        "Hazırlığı yapılmış niyet (I've bought tickets. We're going to travel.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + am / is / are + going to + yalın fiil",
+          "example": "I'm going to help."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + am / is / are + not + going to + yalın fiil",
+          "example": "I'm not going to tell."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + going to + yalın fiil …?",
+          "example": "Are you going to help?"
+        }
+      ],
+      "signals": [
+        "Look!",
+        "Be careful!",
+        "I've decided",
+        "I've already bought",
+        "next week",
+        "this weekend",
+        "tonight"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-will-vs-gt-01",
+        "en": "The phone is ringing. I'll answer it.",
+        "tr": "Telefon çalıyor. Ben açarım. (Karar şimdi verildi.)",
+        "highlight": "I'll answer"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-02",
+        "en": "I'm going to answer the phone after my meeting.",
+        "tr": "Toplantımdan sonra telefona bakacağım. (Plan önceden vardı.)",
+        "highlight": "I'm going to answer"
+      },
+      "note": "Konuşma anında karar ile önceden verilmiş karar."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-03",
+        "en": "I think it will rain tomorrow.",
+        "tr": "Bence yarın yağmur yağacak. (Görüş.)",
+        "highlight": "will rain"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-04",
+        "en": "Look at the clouds! It's going to rain.",
+        "tr": "Şu bulutlara bak! Yağmur yağacak. (Kanıt.)",
+        "highlight": "going to rain"
+      },
+      "note": "Kişisel görüş ile şu anki kanıt."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-05",
+        "en": "I'll help you with your bags.",
+        "tr": "Çantalarında sana yardım ederim. (Teklif.)",
+        "highlight": "I'll help"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-06",
+        "en": "I'm going to help my parents this weekend.",
+        "tr": "Bu hafta sonu ailemlere yardım edeceğim. (Plan.)",
+        "highlight": "I'm going to help"
+      },
+      "note": "Anlık teklif ile planlanmış niyet."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-07",
+        "en": "I promise I'll call you.",
+        "tr": "Söz veriyorum, seni arayacağım.",
+        "highlight": "I'll call"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-08",
+        "en": "I'm going to call my mother tonight.",
+        "tr": "Bu gece annemi arayacağım. (Planım var.)",
+        "highlight": "I'm going to call"
+      },
+      "note": "Söz ile planlanmış eylem."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-09",
+        "en": "It's cold. I'll close the window.",
+        "tr": "Hava soğuk. Pencereyi kapatırım.",
+        "highlight": "I'll close"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-10",
+        "en": "I'm going to close the window before I leave.",
+        "tr": "Çıkmadan önce pencereyi kapatacağım.",
+        "highlight": "I'm going to close"
+      },
+      "note": "O anki karar ile önceden düşünülmüş plan."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-11",
+        "en": "She'll probably pass the exam.",
+        "tr": "Muhtemelen sınavı geçer.",
+        "highlight": "She'll probably pass"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-12",
+        "en": "She is going to study for the exam all week.",
+        "tr": "Bütün hafta sınav için çalışacak.",
+        "highlight": "is going to study"
+      },
+      "note": "Tahmin ile plan."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-13",
+        "en": "I'll be a doctor one day.",
+        "tr": "Bir gün doktor olacağım.",
+        "highlight": "I'll be"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-14",
+        "en": "I'm going to be a doctor. I've applied to medical school.",
+        "tr": "Doktor olacağım. Tıp fakültesine başvurdum.",
+        "highlight": "I'm going to be"
+      },
+      "note": "Hayal / tahmin ile adımları atılmış plan."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-15",
+        "en": "We won't be late.",
+        "tr": "Geç kalmayacağız.",
+        "highlight": "won't be"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-16",
+        "en": "We aren't going to be late. We've left early.",
+        "tr": "Geç kalmayacağız. Erken yola çıktık.",
+        "highlight": "aren't going to be"
+      },
+      "note": "Söz / tahmin ile planlı olumsuz."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-17",
+        "en": "I'll take the red one, please.",
+        "tr": "Kırmızıyı alayım lütfen.",
+        "highlight": "I'll take"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-18",
+        "en": "I'm going to take the red one. I've decided.",
+        "tr": "Kırmızıyı alacağım. Karar verdim.",
+        "highlight": "I'm going to take"
+      },
+      "note": "Dükkânda anında karar ile verilmiş karar."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-19",
+        "en": "Will you open the door, please?",
+        "tr": "Kapıyı açar mısın lütfen?",
+        "highlight": "Will you open"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-20",
+        "en": "Are you going to open the door?",
+        "tr": "Kapıyı açacak mısın? (Niyetini soruyorum.)",
+        "highlight": "Are you going to open"
+      },
+      "note": "Rica ile planı sorma."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-21",
+        "en": "The bag is heavy. I'll carry it.",
+        "tr": "Çanta ağır. Ben taşırım.",
+        "highlight": "I'll carry"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-22",
+        "en": "I'm going to carry the bag to the car.",
+        "tr": "Çantayı arabaya taşıyacağım.",
+        "highlight": "I'm going to carry"
+      },
+      "note": "Anlık teklif ile niyet."
+    },
+    {
+      "left": {
+        "id": "ex-will-vs-gt-23",
+        "en": "In 2050, cars will fly.",
+        "tr": "2050'de arabalar uçacak.",
+        "highlight": "will fly"
+      },
+      "right": {
+        "id": "ex-will-vs-gt-24",
+        "en": "Look at that car! It's going to crash.",
+        "tr": "Şu arabaya bak! Çarpacak.",
+        "highlight": "going to crash"
+      },
+      "note": "Uzak gelecek tahmini ile hemen olacak olay."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Karar ne zaman verildi?",
+      "body": "Will’de karar konuşma anında doğar (The phone is ringing. I’ll answer it.). Be going to’da karar konuşmadan önce verilmiştir (I’m going to answer it after lunch.)."
+    },
+    {
+      "heading": "Görüş mü, kanıt mı?",
+      "body": "Will, kişisel görüşe dayanır (I think it will rain). Be going to, şu anda görülen bir kanıta dayanır (Look at those clouds! It’s going to rain.)."
+    },
+    {
+      "heading": "Söz ve teklif",
+      "body": "Söz verirken ve yardım teklif ederken will kullanılır: I’ll help you. I promise I’ll call. Bunlar için going to doğal değildir."
+    },
+    {
+      "heading": "Plan ve niyet",
+      "body": "Önceden düşünülmüş niyetler için be going to kullanılır: I’m going to learn French. Hazırlık yapılmışsa (I’ve bought a book) going to daha da doğal olur."
+    },
+    {
+      "heading": "Soruların anlamı",
+      "body": "Will you …? nazik bir ricadır (Will you open the door?). Are you going to …? ise niyet sorar (Are you going to open the door? = Kapıyı açmayı düşünüyor musun?)."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Karar tam şu anda mı verildi?",
+      "answer": "Evet → will."
+    },
+    {
+      "question": "Karar önceden verildi ve hazırlık yapıldı mı?",
+      "answer": "Evet → be going to."
+    },
+    {
+      "question": "Şu anda gözünle gördüğün bir kanıt var mı (bulut, kaza, hamilelik)?",
+      "answer": "Evet → be going to."
+    },
+    {
+      "question": "I think / I’m sure / probably ile görüş mü bildiriyorsun?",
+      "answer": "Evet → will."
+    },
+    {
+      "question": "Söz mü veriyorsun ya da yardım mı teklif ediyorsun?",
+      "answer": "Evet → will."
+    },
+    {
+      "question": "Kesinleşmiş bir randevu ve saat mi var?",
+      "answer": "Evet → Present Continuous da kullanılabilir (I’m meeting Tom at six)."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "The phone is ringing. I’m going to answer it.",
+      "right": "The phone is ringing. I’ll answer it.",
+      "explanation": "Karar şimdi verildi; will."
+    },
+    {
+      "wrong": "Look at the clouds! It will rain.",
+      "right": "Look at the clouds! It’s going to rain.",
+      "explanation": "Şu anki kanıt var; going to."
+    },
+    {
+      "wrong": "I’ve decided. I’ll study medicine.",
+      "right": "I’ve decided. I’m going to study medicine.",
+      "explanation": "Karar önceden verildi; going to."
+    },
+    {
+      "wrong": "I promise I’m going to call you.",
+      "right": "I promise I’ll call you.",
+      "explanation": "Söz için will."
+    },
+    {
+      "wrong": "I’ll to help you.",
+      "right": "I’ll help you.",
+      "explanation": "Will’den sonra to yok."
+    },
+    {
+      "wrong": "I will going to visit her.",
+      "right": "I’m going to visit her.",
+      "explanation": "Will ve going to birlikte kullanılmaz."
+    },
+    {
+      "wrong": "She is going to wins.",
+      "right": "She is going to win.",
+      "explanation": "Going to’dan sonra yalın fiil."
+    },
+    {
+      "wrong": "If it will rain, I’ll stay home.",
+      "right": "If it rains, I’ll stay home.",
+      "explanation": "If cümlesinde will kullanılmaz."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-will-vs-gt-01",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The phone is ringing. I ___ answer it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'ll"
+        },
+        {
+          "id": "b",
+          "text": "am going to"
+        },
+        {
+          "id": "c",
+          "text": "answer"
+        },
+        {
+          "id": "d",
+          "text": "am answering"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Karar konuşma anında verildi: will.",
+      "optionExplanations": {
+        "b": "Going to önceden verilmiş plan içindir; burada karar şimdi verildi.",
+        "c": "Present Simple karar bildirmez.",
+        "d": "Present Continuous plan içindir."
+      },
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-02",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I've decided. I ___ study medicine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'m going to"
+        },
+        {
+          "id": "b",
+          "text": "'ll"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "studied"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Karar önceden verilmiş: going to.",
+      "optionExplanations": {
+        "b": "Will anlık karardır; burada karar daha önce verildi.",
+        "c": "Present Simple plan bildirmez.",
+        "d": "Geçmiş zaman; gelecek plan anlatılıyor."
+      },
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-03",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Look at the clouds! It ___ rain.",
+      "answers": [
+        "is going to",
+        "'s going to"
+      ],
+      "explanation": "Şu anki kanıt: going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Kanıt olduğunda going to daha uygundur."
+        },
+        {
+          "answer": "rains",
+          "explanation": "Gelecek anlamı için going to."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "evidence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-04",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I promise I ___ call you.",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Söz: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am going to",
+          "explanation": "Söz için will kullanılır."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "promise"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-05",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çanta ağır. Ben taşırım.",
+      "answer": [
+        "I'll",
+        "carry",
+        "it"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "carries",
+        "am"
+      ],
+      "explanation": "Anlık teklif: will.",
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-06",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm going to answer the phone! (Telefon yeni çaldı, karar o anda verildi.)",
+      "errorSpan": "going to answer",
+      "answers": [
+        "I'll answer the phone!"
+      ],
+      "explanation": "Anlık karar will ile söylenir.",
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-07",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu bulutlara bak! Yağmur yağacak.",
+      "hint": "bulut: cloud",
+      "answers": [
+        "Look at those clouds! It's going to rain.",
+        "Look at those clouds! It is going to rain."
+      ],
+      "targetStructure": "going to: kanıt",
+      "explanation": "Şu anki kanıt.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Look at those clouds! It will rain.",
+          "explanation": "Kanıt olduğunda going to daha uygundur."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "evidence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-08",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I think it ___ rain tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "is going to"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "is raining"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I think: kişisel görüş, kanıt yok: will.",
+      "optionExplanations": {
+        "b": "Going to şu anki kanıt gerektirir.",
+        "c": "Present Simple tahmin bildirmez.",
+        "d": "Present Continuous plan içindir."
+      },
+      "tags": [
+        "will-vs-gt",
+        "opinion"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-09",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Be careful! You ___ fall.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "fall"
+        },
+        {
+          "id": "d",
+          "text": "are falling"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şu anda gördüğün kanıt var: going to.",
+      "optionExplanations": {
+        "b": "Kanıt olduğundan going to daha uygundur.",
+        "c": "Gelecek anlamı yok.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "will-vs-gt",
+        "evidence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-10",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We've bought the tickets. We ___ travel next week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "travel"
+        },
+        {
+          "id": "d",
+          "text": "travelled"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Plan önceden yapılmış: going to.",
+      "optionExplanations": {
+        "b": "Will karar anı için; burada plan hazır.",
+        "c": "Present Simple plan bildirmez.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-11",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "It's cold in here. I ___ close the window.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'ll"
+        },
+        {
+          "id": "b",
+          "text": "am going to"
+        },
+        {
+          "id": "c",
+          "text": "close"
+        },
+        {
+          "id": "d",
+          "text": "closed"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Konuşma anında verilen karar: will.",
+      "optionExplanations": {
+        "b": "Going to önceden planlanmış durum için.",
+        "c": "Present Simple karar bildirmez.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-12",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ (study) for the exam all week. She has decided.",
+      "answers": [
+        "is going to study"
+      ],
+      "explanation": "Verilmiş karar: going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will study",
+          "explanation": "Önceden verilmiş karar için going to."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-13",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "A: I'm so thirsty. B: I ___ (get) you some water.",
+      "answers": [
+        "'ll get",
+        "will get"
+      ],
+      "explanation": "Anlık teklif: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am going to get",
+          "explanation": "Anlık teklif için will."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-14",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I think she ___ (pass) the exam.",
+      "answers": [
+        "will pass",
+        "'ll pass"
+      ],
+      "explanation": "I think: görüş → will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is going to pass",
+          "explanation": "Kanıt yoksa will daha doğal."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "opinion"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-15",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Why are you buying paint? We ___ (paint) the kitchen.",
+      "answers": [
+        "are going to paint",
+        "'re going to paint"
+      ],
+      "explanation": "Önceden verilmiş plan: going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will paint",
+          "explanation": "Plan önceden vardı; going to."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-16",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Look at the clouds! It will rain.",
+      "errorSpan": "will rain",
+      "answers": [
+        "Look at the clouds! It's going to rain.",
+        "Look at the clouds! It is going to rain."
+      ],
+      "explanation": "Şu anki kanıt: going to.",
+      "tags": [
+        "will-vs-gt",
+        "evidence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-17",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm hungry. I'm going to make a sandwich! (Aklıma yeni geldi.)",
+      "errorSpan": "going to make",
+      "answers": [
+        "I'm hungry. I'll make a sandwich!"
+      ],
+      "explanation": "Anlık karar: will.",
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-18",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'll visit my aunt next week. I've already bought the ticket.",
+      "errorSpan": "I'll visit",
+      "answers": [
+        "I'm going to visit my aunt next week. I've already bought the ticket."
+      ],
+      "explanation": "Önceden hazırlık yapılmış plan: going to.",
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-19",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur? (Bilet çoktan alındı.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm going to fly to Rome next week."
+        },
+        {
+          "id": "b",
+          "text": "I'll fly to Rome next week."
+        },
+        {
+          "id": "c",
+          "text": "I fly to Rome next week."
+        },
+        {
+          "id": "d",
+          "text": "I flying to Rome next week."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hazırlığı yapılmış plan: going to.",
+      "optionExplanations": {
+        "b": "Will önceden verilmiş plan için doğal değil.",
+        "c": "Present Simple tarife bildirir.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-20",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur? (Dükkânda, karar anı.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'll take the red one, please."
+        },
+        {
+          "id": "b",
+          "text": "I'm going to take the red one, please."
+        },
+        {
+          "id": "c",
+          "text": "I take the red one, please."
+        },
+        {
+          "id": "d",
+          "text": "I'm taking the red one, please."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Dükkânda anlık karar: will.",
+      "optionExplanations": {
+        "b": "Going to önceden verilmiş karar içindir.",
+        "c": "Present Simple karar bildirmez.",
+        "d": "Present Continuous plan içindir."
+      },
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-21",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Will you open the door? cümlesi ne anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rica"
+        },
+        {
+          "id": "b",
+          "text": "Plan"
+        },
+        {
+          "id": "c",
+          "text": "Kanıta dayalı tahmin"
+        },
+        {
+          "id": "d",
+          "text": "Geçmiş olay"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will you …? nazik bir ricadır.",
+      "optionExplanations": {
+        "b": "Plan için going to kullanılır.",
+        "c": "Tahmin için going to ya da will.",
+        "d": "Geçmiş zaman değildir."
+      },
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-22",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu hafta sonu ailemlere yardım edeceğim.",
+      "answer": [
+        "I'm",
+        "going",
+        "to",
+        "help",
+        "my",
+        "parents",
+        "this",
+        "weekend"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "helps"
+      ],
+      "explanation": "Plan: going to.",
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-23",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bence kazanacak.",
+      "answer": [
+        "I",
+        "think",
+        "he",
+        "will",
+        "win"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "wins",
+        "is"
+      ],
+      "explanation": "Görüş: I think + will.",
+      "tags": [
+        "will-vs-gt",
+        "opinion"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-24",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Telefon çalıyor. Ben açarım.",
+      "hint": "açmak: answer",
+      "answers": [
+        "The phone is ringing. I'll answer it.",
+        "The phone's ringing. I'll answer it.",
+        "The phone is ringing. I will answer it."
+      ],
+      "targetStructure": "Anlık karar: will",
+      "explanation": "Karar konuşma anında verildi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The phone is ringing. I'm going to answer it.",
+          "explanation": "Anlık karar için will."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "instant"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-25",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Karar verdim. Tıp okuyacağım.",
+      "hint": "okumak (üniversite): study",
+      "answers": [
+        "I've decided. I'm going to study medicine.",
+        "I have decided. I'm going to study medicine.",
+        "I've decided. I am going to study medicine."
+      ],
+      "targetStructure": "Verilmiş karar: going to",
+      "explanation": "Önceden verilmiş karar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I've decided. I'll study medicine.",
+          "explanation": "Karar önceden verildi; going to."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "plan"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-26",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Söz veriyorum, zamanında olacağım.",
+      "hint": "zamanında olmak: be on time",
+      "answers": [
+        "I promise I'll be on time.",
+        "I promise I will be on time."
+      ],
+      "targetStructure": "Söz: will",
+      "explanation": "Söz için will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I promise I'm going to be on time.",
+          "explanation": "Söz için will kullanılır."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "promise"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-vs-gt-27",
+      "lessonId": "a2-will-vs-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın yağmur yağacak diye düşünüyorum.",
+      "hint": "düşünmek: think",
+      "answers": [
+        "I think it will rain tomorrow.",
+        "I think it'll rain tomorrow."
+      ],
+      "targetStructure": "I think + will",
+      "explanation": "Görüş.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I think it is going to rain tomorrow.",
+          "explanation": "Bu da kullanılır ama bu alıştırma görüş için will ister."
+        }
+      ],
+      "tags": [
+        "will-vs-gt",
+        "opinion"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ]
+}
