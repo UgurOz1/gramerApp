@@ -87,6 +87,7 @@ describeLesson("a1-have-got", { examples: 28, exercises: 40, exam: 18 });
 describeLesson("a1-articles", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-plurals", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-demonstratives", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("a1-possessives", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });

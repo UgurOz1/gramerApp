@@ -1,0 +1,2711 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-possessives",
+  "levelId": "a1",
+  "title": "Possessive Adjectives & Pronouns",
+  "objectives": [
+    "Sahiplik sıfatlarını (my, your, his, her, its, our, their) isimden önce kullanmak",
+    "Sahibin cinsiyetine göre his ve her arasında seçim yapmak",
+    "Sahiplik zamirlerini (mine, yours, hers …) ismin yerine kullanmak",
+    "Sahiplik ’s yapısını kurmak (Ali’s book, my parents’ house)",
+    "Whose? ile soru sormak ve cevap vermek",
+    "Its / it’s ve your / you’re karışıklığını önlemek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Sahiplik nasıl söylenir?",
+      "paragraphs": [
+        "İngilizcede bir şeyin kime ait olduğunu üç yolla söylersin: sahiplik sıfatlarıyla (my book), sahiplik zamirleriyle (This book is mine) ve isme ’s ekleyerek (Ali’s book).",
+        "Türkçede sahiplik ekle söylenir: kitabım, kitabın, kitabı. İngilizcede ise ek yerine ayrı bir sözcük kullanılır: my book, your book. En önemli fark üçüncü kişidedir: Türkçedeki “onun kitabı” cinsiyet belirtmez, İngilizcede ise sahibin erkek mi kadın mı olduğuna göre his book ya da her book dersin.",
+        "Bu derste önce sahiplik sıfatlarını (my, your …), sonra sahiplik zamirlerini (mine, yours …), sonra ’s yapısını ve “whose?” sorusunu öğreneceksin."
+      ]
+    },
+    {
+      "id": "adjectives",
+      "type": "rule",
+      "title": "Sahiplik sıfatları: my, your, his …",
+      "paragraphs": [
+        "Sahiplik sıfatları ismin önünde gelir ve o ismin kime ait olduğunu söyler. İsmin önünde artikel (a, the) ile birlikte kullanılmazlar: my book (the my book ✗)."
+      ],
+      "formulas": [
+        {
+          "label": "I → my",
+          "pattern": "my name,  my family",
+          "exampleIds": [
+            "ex-possessives-01",
+            "ex-possessives-08"
+          ]
+        },
+        {
+          "label": "you → your",
+          "pattern": "your bag,  your friends",
+          "exampleIds": [
+            "ex-possessives-02"
+          ]
+        },
+        {
+          "label": "he → his",
+          "pattern": "his name,  his tea",
+          "exampleIds": [
+            "ex-possessives-03",
+            "ex-possessives-10",
+            "ex-possessives-30"
+          ]
+        },
+        {
+          "label": "she → her",
+          "pattern": "her name,  her friends",
+          "exampleIds": [
+            "ex-possessives-04",
+            "ex-possessives-09"
+          ]
+        },
+        {
+          "label": "it → its",
+          "pattern": "its bone,  its bowl",
+          "exampleIds": [
+            "ex-possessives-05",
+            "ex-possessives-27"
+          ]
+        },
+        {
+          "label": "we → our",
+          "pattern": "our house",
+          "exampleIds": [
+            "ex-possessives-06"
+          ]
+        },
+        {
+          "label": "they → their",
+          "pattern": "their children",
+          "exampleIds": [
+            "ex-possessives-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronouns",
+      "type": "rule",
+      "title": "Sahiplik zamirleri: mine, yours, hers …",
+      "paragraphs": [
+        "Sahiplik zamirleri ismin yerine geçer; arkasından isim gelmez: This bag is mine. (This bag is my ✗). Aynı ismi tekrarlamamak için kullanılırlar."
+      ],
+      "formulas": [
+        {
+          "label": "I → mine",
+          "pattern": "This bag is mine.",
+          "exampleIds": [
+            "ex-possessives-11"
+          ]
+        },
+        {
+          "label": "you → yours",
+          "pattern": "That book is yours.",
+          "exampleIds": [
+            "ex-possessives-12",
+            "ex-possessives-26"
+          ]
+        },
+        {
+          "label": "he → his",
+          "pattern": "The red car is his.",
+          "exampleIds": [
+            "ex-possessives-13"
+          ]
+        },
+        {
+          "label": "she → hers",
+          "pattern": "The blue bag is hers.",
+          "exampleIds": [
+            "ex-possessives-14"
+          ]
+        },
+        {
+          "label": "we → ours",
+          "pattern": "This house is ours.",
+          "exampleIds": [
+            "ex-possessives-15"
+          ]
+        },
+        {
+          "label": "they → theirs",
+          "pattern": "Those shoes are theirs.",
+          "exampleIds": [
+            "ex-possessives-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "type": "notes",
+      "tone": "info",
+      "title": "Özet tablo",
+      "items": [
+        "I → my (sıfat) → mine (zamir)",
+        "you → your → yours",
+        "he → his → his",
+        "she → her → hers",
+        "it → its → (kullanılmaz)",
+        "we → our → ours",
+        "they → their → theirs"
+      ]
+    },
+    {
+      "id": "apostrophe-s",
+      "type": "rule",
+      "title": "Sahiplik ’s: Ali’s book",
+      "paragraphs": [
+        "Bir kişinin ya da hayvanın sahip olduğu şeyi söylemek için isme ’s eklenir. Türkçedeki -ın / -in ekinin karşılığıdır ve sahip olan kişi önce, sahip olunan şey sonra gelir: Ali’s book (Ali’nin kitabı)."
+      ],
+      "formulas": [
+        {
+          "label": "Tekil isim: + ’s",
+          "pattern": "Ali’s book,  my sister’s phone",
+          "exampleIds": [
+            "ex-possessives-17",
+            "ex-possessives-18"
+          ]
+        },
+        {
+          "label": "-s ile biten çoğul isim: yalnızca ’",
+          "pattern": "my parents’ house,  the students’ books",
+          "exampleIds": [
+            "ex-possessives-19"
+          ]
+        },
+        {
+          "label": "Düzensiz çoğul: + ’s",
+          "pattern": "the children’s toys,  the men’s shoes",
+          "exampleIds": [
+            "ex-possessives-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whose",
+      "type": "forms",
+      "title": "Whose? ile soru ve cevap",
+      "paragraphs": [
+        "Bir şeyin kime ait olduğunu sormak için whose kullanılır. Cevap sahiplik zamiri ya da ’s ile verilir."
+      ],
+      "forms": [
+        {
+          "label": "Whose + isim",
+          "formula": "Whose + isim + is / are + this / these …?",
+          "exampleIds": [
+            "ex-possessives-21",
+            "ex-possessives-24"
+          ],
+          "note": "Whose bag is this? = Bu kimin çantası?"
+        },
+        {
+          "label": "Cevap: sahiplik zamiri",
+          "formula": "It’s mine / yours / his / hers.  |  They’re ours / theirs.",
+          "exampleIds": [
+            "ex-possessives-22",
+            "ex-possessives-25"
+          ],
+          "note": "Cevapta isim tekrarlanmaz."
+        },
+        {
+          "label": "Cevap: ’s",
+          "formula": "It’s + isim + ’s.",
+          "exampleIds": [
+            "ex-possessives-23"
+          ],
+          "note": "It’s Ali’s. (Ali’nin.)"
+        }
+      ]
+    },
+    {
+      "id": "confusing",
+      "type": "rule",
+      "title": "Karıştırılan sözcük çiftleri",
+      "paragraphs": [
+        "Aynı gibi duyulan ama farklı anlamlara gelen çiftlere dikkat et:"
+      ],
+      "formulas": [
+        {
+          "label": "its ≠ it’s",
+          "pattern": "its = onun (sahiplik)   |   it’s = it is (O …)",
+          "exampleIds": [
+            "ex-possessives-27",
+            "ex-possessives-28"
+          ]
+        },
+        {
+          "label": "your ≠ you’re",
+          "pattern": "your = senin (sahiplik)   |   you’re = you are (Sen …)",
+          "exampleIds": [
+            "ex-possessives-29"
+          ]
+        },
+        {
+          "label": "their / there / they’re",
+          "pattern": "their = onların   |   there = orada   |   they’re = they are",
+          "exampleIds": [
+            "ex-possessives-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-adj",
+      "type": "examples",
+      "title": "Örnekler: sahiplik sıfatları",
+      "exampleIds": [
+        "ex-possessives-01",
+        "ex-possessives-02",
+        "ex-possessives-03",
+        "ex-possessives-04",
+        "ex-possessives-05",
+        "ex-possessives-06",
+        "ex-possessives-07",
+        "ex-possessives-08",
+        "ex-possessives-09",
+        "ex-possessives-10",
+        "ex-possessives-30"
+      ]
+    },
+    {
+      "id": "examples-pron",
+      "type": "examples",
+      "title": "Örnekler: sahiplik zamirleri",
+      "exampleIds": [
+        "ex-possessives-11",
+        "ex-possessives-12",
+        "ex-possessives-13",
+        "ex-possessives-14",
+        "ex-possessives-15",
+        "ex-possessives-16",
+        "ex-possessives-26"
+      ]
+    },
+    {
+      "id": "examples-s",
+      "type": "examples",
+      "title": "Örnekler: ’s ve whose",
+      "exampleIds": [
+        "ex-possessives-17",
+        "ex-possessives-18",
+        "ex-possessives-19",
+        "ex-possessives-20",
+        "ex-possessives-21",
+        "ex-possessives-22",
+        "ex-possessives-23",
+        "ex-possessives-24",
+        "ex-possessives-25",
+        "ex-possessives-27",
+        "ex-possessives-28",
+        "ex-possessives-29"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He is my brother. Her name is Ali.",
+          "right": "He is my brother. His name is Ali.",
+          "explanation": "Türkçedeki “onun” cinsiyet belirtmez. İngilizcede sahip erkekse his, kadınsa her kullanılır."
+        },
+        {
+          "wrong": "This is mine book.",
+          "right": "This is my book.",
+          "explanation": "İsmin önünde sıfat (my) kullanılır; zamir (mine) ismin yerine geçer."
+        },
+        {
+          "wrong": "This book is my.",
+          "right": "This book is mine.",
+          "explanation": "İsim söylenmediğinde zamir gerekir: mine."
+        },
+        {
+          "wrong": "The my book is new.",
+          "right": "My book is new.",
+          "explanation": "Sahiplik sıfatıyla artikel birlikte kullanılmaz."
+        },
+        {
+          "wrong": "Ali book is on the table.",
+          "right": "Ali’s book is on the table.",
+          "explanation": "Sahiplik için isme ’s eklenir."
+        },
+        {
+          "wrong": "My parents house is big.",
+          "right": "My parents’ house is big.",
+          "explanation": "-s ile biten çoğul isimlerden sonra yalnızca ’ gelir."
+        },
+        {
+          "wrong": "The children toys are here.",
+          "right": "The children’s toys are here.",
+          "explanation": "Düzensiz çoğul isimlere ’s eklenir."
+        },
+        {
+          "wrong": "The dog likes it’s bone.",
+          "right": "The dog likes its bone.",
+          "explanation": "Its (onun) sahiplik sıfatıdır; apostrof almaz. It’s ise it is demektir."
+        },
+        {
+          "wrong": "Your my friend.",
+          "right": "You’re my friend.",
+          "explanation": "You’re = you are. Your sahiplik sıfatıdır."
+        },
+        {
+          "wrong": "Who bag is this?",
+          "right": "Whose bag is this?",
+          "explanation": "Bir şeyin kime ait olduğunu whose ile sorarsın."
+        },
+        {
+          "wrong": "She loves his husband.",
+          "right": "She loves her husband.",
+          "explanation": "Sahip kadınsa her kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Sahiplik sıfatları ve özne zamirleri",
+          "body": "I (ben), he (o) özne olarak kullanılır; my (benim), his (onun) isimden önce gelir. I am a student. My name is Deniz.",
+          "lessonId": "a1-pronouns-sentence"
+        },
+        {
+          "topic": "Sahiplik ve have got",
+          "body": "“Benim arabam” için my car; “bir arabam var” için I have got a car.",
+          "lessonId": "a1-have-got"
+        },
+        {
+          "topic": "Sahiplik sıfatları ve artikeller",
+          "body": "My, your, his gibi sözcükler artikel yerine geçer; ikisi birlikte kullanılmaz.",
+          "lessonId": "a1-articles"
+        },
+        {
+          "topic": "Sahiplik zamirleri ve nesne zamirleri",
+          "body": "Mine (benimki) ile me (beni, bana) farklıdır.",
+          "lessonId": "a1-object-pronouns"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Sahibin cinsiyetine bak: erkek → his, kadın → her, nesne ya da hayvan → its.",
+        "Sıfat isimden önce gelir (my book), zamir isimsiz kullanılır (It’s mine).",
+        "Its sahiplik, it’s ise it is demektir; your sahiplik, you’re ise you are demektir.",
+        "-s ile biten çoğul isimlerde yalnızca ’ gelir: my parents’ house.",
+        "Sahiplik sıfatlarıyla artikel kullanılmaz: the my book ✗."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-possessives-01",
+        "q-possessives-02",
+        "q-possessives-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-possessives-01",
+      "en": "My name is Deniz.",
+      "tr": "Benim adım Deniz.",
+      "highlight": "My",
+      "note": "I → my"
+    },
+    {
+      "id": "ex-possessives-02",
+      "en": "Your bag is on the table.",
+      "tr": "Çantan masanın üstünde.",
+      "highlight": "Your",
+      "note": "you → your"
+    },
+    {
+      "id": "ex-possessives-03",
+      "en": "His name is Ali.",
+      "tr": "Onun (erkek) adı Ali.",
+      "highlight": "His",
+      "note": "he → his"
+    },
+    {
+      "id": "ex-possessives-04",
+      "en": "Her name is Ayşe.",
+      "tr": "Onun (kadın) adı Ayşe.",
+      "highlight": "Her",
+      "note": "she → her"
+    },
+    {
+      "id": "ex-possessives-05",
+      "en": "The dog likes its bone.",
+      "tr": "Köpek kemiğini sever.",
+      "highlight": "its",
+      "note": "it → its (apostrof yok)"
+    },
+    {
+      "id": "ex-possessives-06",
+      "en": "Our house is big.",
+      "tr": "Evimiz büyük.",
+      "highlight": "Our",
+      "note": "we → our"
+    },
+    {
+      "id": "ex-possessives-07",
+      "en": "Their children are at school.",
+      "tr": "Çocukları okulda.",
+      "highlight": "Their",
+      "note": "they → their"
+    },
+    {
+      "id": "ex-possessives-08",
+      "en": "I love my family.",
+      "tr": "Ailemi severim.",
+      "highlight": "my family"
+    },
+    {
+      "id": "ex-possessives-09",
+      "en": "She is with her friends.",
+      "tr": "Arkadaşlarıyla birlikte.",
+      "highlight": "her friends"
+    },
+    {
+      "id": "ex-possessives-10",
+      "en": "He drinks his tea.",
+      "tr": "Çayını içer.",
+      "highlight": "his tea"
+    },
+    {
+      "id": "ex-possessives-11",
+      "en": "This bag is mine.",
+      "tr": "Bu çanta benim.",
+      "highlight": "mine",
+      "note": "I → mine"
+    },
+    {
+      "id": "ex-possessives-12",
+      "en": "That book is yours.",
+      "tr": "O kitap senin.",
+      "highlight": "yours",
+      "note": "you → yours"
+    },
+    {
+      "id": "ex-possessives-13",
+      "en": "The red car is his.",
+      "tr": "Kırmızı araba onun (erkek).",
+      "highlight": "his",
+      "note": "his hem sıfat hem zamirdir."
+    },
+    {
+      "id": "ex-possessives-14",
+      "en": "The blue bag is hers.",
+      "tr": "Mavi çanta onun (kadın).",
+      "highlight": "hers",
+      "note": "she → hers"
+    },
+    {
+      "id": "ex-possessives-15",
+      "en": "This house is ours.",
+      "tr": "Bu ev bizim.",
+      "highlight": "ours",
+      "note": "we → ours"
+    },
+    {
+      "id": "ex-possessives-16",
+      "en": "Those shoes are theirs.",
+      "tr": "Şu ayakkabılar onların.",
+      "highlight": "theirs",
+      "note": "they → theirs"
+    },
+    {
+      "id": "ex-possessives-17",
+      "en": "Ali's book is on the table.",
+      "tr": "Ali’nin kitabı masanın üstünde.",
+      "highlight": "Ali's book",
+      "note": "isim + 's"
+    },
+    {
+      "id": "ex-possessives-18",
+      "en": "My sister's phone is new.",
+      "tr": "Kız kardeşimin telefonu yeni.",
+      "highlight": "sister's",
+      "note": "Tek kişi: 's"
+    },
+    {
+      "id": "ex-possessives-19",
+      "en": "My parents' house is big.",
+      "tr": "Anne babamın evi büyük.",
+      "highlight": "parents'",
+      "note": "-s ile biten çoğul isim: yalnızca '"
+    },
+    {
+      "id": "ex-possessives-20",
+      "en": "The children's toys are on the floor.",
+      "tr": "Çocukların oyuncakları yerde.",
+      "highlight": "children's",
+      "note": "Düzensiz çoğul: 's"
+    },
+    {
+      "id": "ex-possessives-21",
+      "en": "Whose bag is this?",
+      "tr": "Bu kimin çantası?",
+      "highlight": "Whose"
+    },
+    {
+      "id": "ex-possessives-22",
+      "en": "It's mine.",
+      "tr": "Benim.",
+      "highlight": "mine"
+    },
+    {
+      "id": "ex-possessives-23",
+      "en": "It's Ali's.",
+      "tr": "Ali’nin.",
+      "highlight": "Ali's"
+    },
+    {
+      "id": "ex-possessives-24",
+      "en": "Whose keys are these?",
+      "tr": "Bunlar kimin anahtarları?",
+      "highlight": "Whose"
+    },
+    {
+      "id": "ex-possessives-25",
+      "en": "They're hers.",
+      "tr": "Onun (kadın) anahtarları.",
+      "highlight": "hers"
+    },
+    {
+      "id": "ex-possessives-26",
+      "en": "This is my book and that is yours.",
+      "tr": "Bu benim kitabım, şu da senin.",
+      "highlight": "yours"
+    },
+    {
+      "id": "ex-possessives-27",
+      "en": "The cat is hungry. Its bowl is empty.",
+      "tr": "Kedi aç. Kabı boş.",
+      "highlight": "Its",
+      "note": "its = onun; it’s = it is"
+    },
+    {
+      "id": "ex-possessives-28",
+      "en": "It's my phone.",
+      "tr": "Bu benim telefonum.",
+      "highlight": "It's",
+      "note": "it’s = it is"
+    },
+    {
+      "id": "ex-possessives-29",
+      "en": "You're my friend. Your bag is here.",
+      "tr": "Sen benim arkadaşımsın. Çantan burada.",
+      "highlight": "You're",
+      "note": "you’re = you are; your = senin"
+    },
+    {
+      "id": "ex-possessives-30",
+      "en": "Mert is my brother. His wife is Ece.",
+      "tr": "Mert benim kardeşim. Karısı Ece.",
+      "highlight": "His",
+      "note": "Sahibin cinsiyetine göre his / her"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-possessives-01",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This is ___ book.",
+      "hint": "Kitap benim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "my"
+        },
+        {
+          "id": "b",
+          "text": "mine"
+        },
+        {
+          "id": "c",
+          "text": "I"
+        },
+        {
+          "id": "d",
+          "text": "me"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: my book.",
+      "optionExplanations": {
+        "b": "Mine isimsiz kullanılır: This book is mine.",
+        "c": "I özne zamiridir; sahiplik anlamı vermez.",
+        "d": "Me nesne zamiridir; sahiplik anlamı vermez."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-02",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I love ___ family.",
+      "answers": [
+        "my"
+      ],
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: my family.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "mine",
+          "explanation": "Mine isimsiz kullanılır; family’den önce my gelir."
+        },
+        {
+          "answer": "me",
+          "explanation": "Me nesne zamiridir; sahiplik için my gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-03",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Benim adım Deniz.",
+      "answer": [
+        "My",
+        "name",
+        "is",
+        "Deniz"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Mine",
+        "I"
+      ],
+      "explanation": "Sahiplik sıfatı isimden önce gelir: My name is Deniz.",
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-04",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This is mine book.",
+      "errorSpan": "mine",
+      "answers": [
+        "This is my book."
+      ],
+      "explanation": "İsmin önünde sıfat (my) kullanılır; mine ismin yerine geçer.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is my a book.",
+          "explanation": "Sahiplik sıfatıyla a kullanılmaz."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-05",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Benim adım Deniz.",
+      "hint": "benim: my",
+      "answers": [
+        "My name is Deniz."
+      ],
+      "targetStructure": "Sahiplik sıfatı: my",
+      "explanation": "“Benim” için my kullanılır ve isimden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Mine name is Deniz.",
+          "explanation": "İsmin önünde mine değil my kullanılır."
+        },
+        {
+          "answer": "I name is Deniz.",
+          "explanation": "Özne zamiri (I) sahiplik anlamı vermez; my gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-06",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is my brother. ___ name is Ali.",
+      "options": [
+        {
+          "id": "a",
+          "text": "His"
+        },
+        {
+          "id": "b",
+          "text": "Her"
+        },
+        {
+          "id": "c",
+          "text": "Its"
+        },
+        {
+          "id": "d",
+          "text": "Their"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sahip erkek olduğu için his kullanılır: His name is Ali.",
+      "optionExplanations": {
+        "b": "Her kadınlar içindir; kardeş erkektir.",
+        "c": "Its nesne ve hayvanlar içindir.",
+        "d": "Their çoğul içindir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-07",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is with ___ friends.",
+      "answers": [
+        "her"
+      ],
+      "explanation": "Sahip kadın olduğu için her kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "his",
+          "explanation": "His erkekler içindir; sahip kadındır."
+        },
+        {
+          "answer": "she",
+          "explanation": "She özne zamiridir; sahiplik için her gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-08",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onun (kadın) adı Ayşe.",
+      "answer": [
+        "Her",
+        "name",
+        "is",
+        "Ayşe"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "His",
+        "She"
+      ],
+      "explanation": "Sahip kadınsa her kullanılır.",
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-09",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is my brother. Her name is Ali.",
+      "errorSpan": "Her",
+      "answers": [
+        "He is my brother. His name is Ali."
+      ],
+      "explanation": "Sahip erkek olduğu için his kullanılır. Türkçedeki “onun” cinsiyet belirtmez; İngilizcede sahibin cinsiyetine bakılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is my brother. Its name is Ali.",
+          "explanation": "Its nesne ve hayvanlar içindir; kardeş bir erkektir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-10",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onun (kadın) adı Ayşe.",
+      "hint": "onun (kadın): her",
+      "answers": [
+        "Her name is Ayşe."
+      ],
+      "targetStructure": "Sahiplik sıfatı: her",
+      "explanation": "Sahip kadın olduğu için her kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "His name is Ayşe.",
+          "explanation": "His erkekler içindir; sahip kadındır."
+        },
+        {
+          "answer": "She name is Ayşe.",
+          "explanation": "Özne zamiri (she) sahiplik anlamı vermez; her gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-11",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is my sister. ___ name is Ayşe.",
+      "options": [
+        {
+          "id": "a",
+          "text": "His"
+        },
+        {
+          "id": "b",
+          "text": "Her"
+        },
+        {
+          "id": "c",
+          "text": "Its"
+        },
+        {
+          "id": "d",
+          "text": "Their"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sahip kadın olduğu için her kullanılır.",
+      "optionExplanations": {
+        "a": "His erkekler içindir.",
+        "c": "Its nesne ve hayvanlar içindir.",
+        "d": "Their çoğul içindir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-12",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He drinks ___ tea.",
+      "answers": [
+        "his"
+      ],
+      "explanation": "Sahip erkek olduğu için his kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "her",
+          "explanation": "Her kadınlar içindir; sahip erkektir."
+        },
+        {
+          "answer": "he",
+          "explanation": "He özne zamiridir; sahiplik için his gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-13",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We love ___ house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "our"
+        },
+        {
+          "id": "b",
+          "text": "ours"
+        },
+        {
+          "id": "c",
+          "text": "we"
+        },
+        {
+          "id": "d",
+          "text": "us"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: our house.",
+      "optionExplanations": {
+        "b": "Ours isimsiz kullanılır: This house is ours.",
+        "c": "We özne zamiridir.",
+        "d": "Us nesne zamiridir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-14",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They love ___ children.",
+      "answers": [
+        "their"
+      ],
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: their children.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "theirs",
+          "explanation": "Theirs isimsiz kullanılır; children’dan önce their gelir."
+        },
+        {
+          "answer": "they",
+          "explanation": "They özne zamiridir; sahiplik için their gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-15",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "This bag is ___.",
+      "hint": "Bu çanta benim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "my"
+        },
+        {
+          "id": "b",
+          "text": "mine"
+        },
+        {
+          "id": "c",
+          "text": "me"
+        },
+        {
+          "id": "d",
+          "text": "I"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bag zaten söylenmiş; ismin yerine geçen zamir gerekir: mine.",
+      "optionExplanations": {
+        "a": "My isimle birlikte kullanılır: my bag.",
+        "c": "Me nesne zamiridir.",
+        "d": "I özne zamiridir."
+      },
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-16",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This bag is ___.",
+      "hint": "Bu çanta benim.",
+      "answers": [
+        "mine"
+      ],
+      "explanation": "Cümle isimle bitiyorsa sıfat değil zamir gerekir: mine.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "my",
+          "explanation": "My isimden önce gelir; burada isim yok, zamir gerekir."
+        },
+        {
+          "answer": "me",
+          "explanation": "Me nesne zamiridir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-17",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "That book is ___.",
+      "hint": "O kitap senin.",
+      "answers": [
+        "yours"
+      ],
+      "explanation": "İsim söylenmediği için zamir gerekir: yours.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "your",
+          "explanation": "Your isimden önce gelir; burada isim yok."
+        },
+        {
+          "answer": "you",
+          "explanation": "You özne zamiridir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-18",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This house is ___.",
+      "hint": "Bu ev bizim.",
+      "answers": [
+        "ours"
+      ],
+      "explanation": "İsim söylenmediği için zamir gerekir: ours.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "our",
+          "explanation": "Our isimden önce gelir; burada isim yok."
+        },
+        {
+          "answer": "we",
+          "explanation": "We özne zamiridir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-19",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The blue bag is ___.",
+      "hint": "Mavi çanta onun (kadın).",
+      "answers": [
+        "hers"
+      ],
+      "explanation": "Sahip kadın olduğu için ve isim söylenmediği için hers kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "her",
+          "explanation": "Her isimden önce gelir; burada isim yok."
+        },
+        {
+          "answer": "his",
+          "explanation": "His erkekler içindir; sahip kadındır."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-20",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Those shoes are ___.",
+      "hint": "Şu ayakkabılar onların.",
+      "answers": [
+        "theirs"
+      ],
+      "explanation": "İsim söylenmediği için zamir gerekir: theirs.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "their",
+          "explanation": "Their isimden önce gelir; burada isim yok."
+        },
+        {
+          "answer": "they",
+          "explanation": "They özne zamiridir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-21",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This is mine book."
+        },
+        {
+          "id": "b",
+          "text": "This is my book."
+        },
+        {
+          "id": "c",
+          "text": "This is me book."
+        },
+        {
+          "id": "d",
+          "text": "This is I book."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: my book.",
+      "optionExplanations": {
+        "a": "Mine isimsiz kullanılır.",
+        "c": "Me nesne zamiridir.",
+        "d": "I özne zamiridir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-22",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This book is my."
+        },
+        {
+          "id": "b",
+          "text": "This book is mine."
+        },
+        {
+          "id": "c",
+          "text": "This book is me."
+        },
+        {
+          "id": "d",
+          "text": "This book is I."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cümle isimle bitmiyorsa sahiplik zamiri gerekir: mine.",
+      "optionExplanations": {
+        "a": "My isimden önce gelir; cümle sonunda mine kullanılır.",
+        "c": "Me nesne zamiridir.",
+        "d": "I özne zamiridir."
+      },
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-23",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The dog likes ___ bone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it's"
+        },
+        {
+          "id": "b",
+          "text": "its"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "his"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hayvan ve nesneler için sahiplik sıfatı its’tir (apostrof yok).",
+      "optionExplanations": {
+        "a": "It’s = it is demektir.",
+        "c": "Their çoğul içindir; dog tektir.",
+        "d": "His erkek bir kişi içindir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-24",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This book is my.",
+      "errorSpan": "my",
+      "answers": [
+        "This book is mine."
+      ],
+      "explanation": "Cümle sonunda isim yoksa zamir kullanılır: mine.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This book is my book.",
+          "explanation": "Bu da doğru bir cümle ama “mine” kullanmak daha kısadır; soruda zamir isteniyor."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-25",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The my book is new.",
+      "errorSpan": "The my",
+      "answers": [
+        "My book is new."
+      ],
+      "explanation": "Sahiplik sıfatıyla artikel birlikte kullanılmaz.",
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "article_usage",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-26",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Ali book is on the table.",
+      "errorSpan": "Ali book",
+      "answers": [
+        "Ali's book is on the table."
+      ],
+      "explanation": "Sahiplik için isme ’s eklenir.",
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-27",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu çanta benim.",
+      "answer": [
+        "This",
+        "bag",
+        "is",
+        "mine"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "my",
+        "me"
+      ],
+      "explanation": "İsim söylenmediği için zamir gerekir: mine.",
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-28",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu ev bizim.",
+      "answer": [
+        "This",
+        "house",
+        "is",
+        "ours"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "our",
+        "we"
+      ],
+      "explanation": "İsim söylenmediği için zamir gerekir: ours.",
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-29",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu çanta benim.",
+      "hint": "benim: mine",
+      "answers": [
+        "This bag is mine."
+      ],
+      "targetStructure": "Sahiplik zamiri: mine",
+      "explanation": "Cümle sonunda isim olmadığı için mine kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This bag is my.",
+          "explanation": "İsimsiz kullanımda mine gerekir."
+        },
+        {
+          "answer": "This bag is me.",
+          "explanation": "Me nesne zamiridir; sahiplik için mine gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-30",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Evimiz büyük.",
+      "hint": "ev: house",
+      "answers": [
+        "Our house is big."
+      ],
+      "targetStructure": "Sahiplik sıfatı: our",
+      "explanation": "İsmin önünde sahiplik sıfatı gelir: our house.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ours house is big.",
+          "explanation": "İsmin önünde ours değil our kullanılır."
+        },
+        {
+          "answer": "We house is big.",
+          "explanation": "We özne zamiridir; our gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-31",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ali'nin kitabı masanın üstünde.",
+      "hint": "kitap: book, masa: table",
+      "answers": [
+        "Ali's book is on the table."
+      ],
+      "targetStructure": "Sahiplik ’s",
+      "explanation": "Sahip olan kişi önce gelir ve ’s alır: Ali’s book.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali book is on the table.",
+          "explanation": "Sahiplik için ’s gerekir."
+        },
+        {
+          "answer": "The book of Ali is on the table.",
+          "explanation": "Bu yapı kişiler için kullanılmaz; Ali’s book denir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-32",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu benim kitabım, şu da senin.",
+      "hint": "senin (zamir): yours",
+      "answers": [
+        "This is my book and that is yours.",
+        "This is my book, and that is yours."
+      ],
+      "targetStructure": "Sıfat ve zamir bir arada",
+      "explanation": "İlk kısımda isim var (my book), ikinci kısımda isim söylenmediği için zamir gerekir (yours).",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is my book and that is your.",
+          "explanation": "İsimsiz kullanımda yours gerekir."
+        },
+        {
+          "answer": "This is mine book and that is yours.",
+          "explanation": "İsmin önünde mine değil my kullanılır."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "adjective",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-33",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Ali’nin kitabı” İngilizcede nasıl söylenir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ali book"
+        },
+        {
+          "id": "b",
+          "text": "Ali's book"
+        },
+        {
+          "id": "c",
+          "text": "Alis book"
+        },
+        {
+          "id": "d",
+          "text": "Ali' book"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sahip olan kişiye ’s eklenir: Ali’s book.",
+      "optionExplanations": {
+        "a": "’s eksik.",
+        "c": "Apostrof olmadan yazılmaz.",
+        "d": "Tekil isimlere ’ değil ’s eklenir."
+      },
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-34",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My parents house is big."
+        },
+        {
+          "id": "b",
+          "text": "My parents' house is big."
+        },
+        {
+          "id": "c",
+          "text": "My parent's houses is big."
+        },
+        {
+          "id": "d",
+          "text": "My parents's house is big."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "-s ile biten çoğul isimlerden sonra yalnızca ’ gelir: my parents’ house.",
+      "optionExplanations": {
+        "a": "Sahiplik için ’ eksik.",
+        "c": "Parent’s tek bir ebeveyni anlatır; houses is de hatalıdır.",
+        "d": "-s ile biten çoğul isimlere ’s eklenmez, yalnızca ’ gelir."
+      },
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-possessives-35",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "___ keys are these?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who"
+        },
+        {
+          "id": "b",
+          "text": "Whose"
+        },
+        {
+          "id": "c",
+          "text": "Who's"
+        },
+        {
+          "id": "d",
+          "text": "What"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bir şeyin kime ait olduğunu whose ile sorarsın.",
+      "optionExplanations": {
+        "a": "Who “kim” demektir; sahiplik sormaz.",
+        "c": "Who’s = who is demektir.",
+        "d": "What “ne” demektir."
+      },
+      "tags": [
+        "possessives",
+        "whose"
+      ],
+      "errorTags": [
+        "question_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-36",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "The cat is hungry. ___ bowl is empty.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It's"
+        },
+        {
+          "id": "b",
+          "text": "Its"
+        },
+        {
+          "id": "c",
+          "text": "Their"
+        },
+        {
+          "id": "d",
+          "text": "Her"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kedinin kabı: sahiplik sıfatı its (apostrof yok).",
+      "optionExplanations": {
+        "a": "It’s = it is demektir.",
+        "c": "Their çoğul içindir; cat tektir.",
+        "d": "Her kadın bir kişi içindir."
+      },
+      "tags": [
+        "possessives",
+        "adjective"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-37",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Your my friend."
+        },
+        {
+          "id": "b",
+          "text": "You're my friend."
+        },
+        {
+          "id": "c",
+          "text": "Youre my friend."
+        },
+        {
+          "id": "d",
+          "text": "Your are my friend."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "You’re = you are. “Sen benim arkadaşımsın” için you’re kullanılır.",
+      "optionExplanations": {
+        "a": "Your sahiplik sıfatıdır; fiil gerekir.",
+        "c": "Apostrof olmadan yazılmaz.",
+        "d": "Your ve are birlikte kullanılmaz."
+      },
+      "tags": [
+        "possessives",
+        "confusing-pairs"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-38",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "___ bag is this? It's mine.",
+      "answers": [
+        "Whose"
+      ],
+      "explanation": "Bir şeyin kime ait olduğunu whose ile sorarsın.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Who",
+          "explanation": "Who “kim” demektir."
+        },
+        {
+          "answer": "Who's",
+          "explanation": "Who’s = who is demektir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "whose"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-possessives-39",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Whose book is this? It's ___ (Ali).",
+      "answers": [
+        "Ali's"
+      ],
+      "explanation": "Sahip olan kişiye ’s eklenir: Ali’s.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Ali",
+          "explanation": "Sahiplik için ’s gerekir."
+        },
+        {
+          "answer": "his",
+          "explanation": "Soruda isim (Ali) verilmiş; cevapta Ali’s denir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-40",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Whose keys are these? They're ___ (she).",
+      "answers": [
+        "hers"
+      ],
+      "explanation": "Kadın sahip için ve isim söylenmediği için hers kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "her",
+          "explanation": "Her isimden önce gelir; burada isim yok."
+        },
+        {
+          "answer": "his",
+          "explanation": "His erkekler içindir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-41",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ali'nin kitabı masanın üstünde.",
+      "answer": [
+        "Ali's",
+        "book",
+        "is",
+        "on",
+        "the",
+        "table"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Ali",
+        "his"
+      ],
+      "explanation": "Sahip olan kişi önce gelir ve ’s alır.",
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-42",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu kimin çantası?",
+      "answer": [
+        "Whose",
+        "bag",
+        "is",
+        "this"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Who",
+        "who's"
+      ],
+      "explanation": "Whose + isim + is + this: Whose bag is this?",
+      "tags": [
+        "possessives",
+        "whose",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-43",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Anne babamın evi büyük.",
+      "answer": [
+        "My",
+        "parents'",
+        "house",
+        "is",
+        "big"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "parents",
+        "parent's"
+      ],
+      "explanation": "-s ile biten çoğul isimlerden sonra yalnızca ’ gelir.",
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-possessives-44",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "My parents house is big.",
+      "errorSpan": "parents house",
+      "answers": [
+        "My parents' house is big."
+      ],
+      "explanation": "-s ile biten çoğul isimlerden sonra yalnızca ’ gelir.",
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-possessives-45",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The dog likes it's bone.",
+      "errorSpan": "it's",
+      "answers": [
+        "The dog likes its bone."
+      ],
+      "explanation": "Its (onun) sahiplik sıfatıdır; apostrof almaz. It’s ise it is demektir.",
+      "tags": [
+        "possessives",
+        "confusing-pairs"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-46",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Your my friend.",
+      "errorSpan": "Your",
+      "answers": [
+        "You're my friend.",
+        "You are my friend."
+      ],
+      "explanation": "Your sahiplik sıfatıdır. “Sen … sın” demek için you’re (you are) kullanılır.",
+      "tags": [
+        "possessives",
+        "confusing-pairs"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-47",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Who bag is this?",
+      "errorSpan": "Who",
+      "answers": [
+        "Whose bag is this?"
+      ],
+      "explanation": "Bir şeyin kime ait olduğunu whose ile sorarsın.",
+      "tags": [
+        "possessives",
+        "whose"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-possessives-48",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu kimin çantası?",
+      "hint": "kimin: whose",
+      "answers": [
+        "Whose bag is this?"
+      ],
+      "targetStructure": "Whose ile soru",
+      "explanation": "Whose + isim + is + this: Whose bag is this?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Who bag is this?",
+          "explanation": "Sahiplik sorusunda whose kullanılır."
+        },
+        {
+          "answer": "Whose is this bag?",
+          "explanation": "Bu da anlaşılır ama bu derste Whose + isim yapısı isteniyor: Whose bag is this?"
+        }
+      ],
+      "tags": [
+        "possessives",
+        "whose",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-possessives-49",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu ayakkabılar onların.",
+      "hint": "ayakkabı: shoe (çoğul kullan), onların (zamir): theirs",
+      "answers": [
+        "Those shoes are theirs."
+      ],
+      "targetStructure": "Sahiplik zamiri: theirs",
+      "explanation": "İsim söylenmediği için zamir kullanılır: theirs.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Those shoes are their.",
+          "explanation": "İsimsiz kullanımda theirs gerekir."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-possessives-50",
+      "lessonId": "a1-possessives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anne babamın evi büyük.",
+      "hint": "anne baba: parents",
+      "answers": [
+        "My parents' house is big."
+      ],
+      "targetStructure": "Çoğul isim + '",
+      "explanation": "-s ile biten çoğul isimlerden sonra yalnızca ’ gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My parents's house is big.",
+          "explanation": "-s ile biten çoğul isimlere ’s eklenmez; yalnızca ’ gelir."
+        },
+        {
+          "answer": "My parent's house is big.",
+          "explanation": "Parent’s tek bir ebeveyni anlatır; çoğul için parents’."
+        }
+      ],
+      "tags": [
+        "possessives",
+        "apostrophe-s"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "plural_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-possessives",
+    "title": "Possessives: Konu sonu sınavı",
+    "description": "Sahiplik sıfatları, zamirleri, ’s yapısı ve whose konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-possessives-exam-01",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We are with ___ friends.",
+        "options": [
+          {
+            "id": "a",
+            "text": "our"
+          },
+          {
+            "id": "b",
+            "text": "ours"
+          },
+          {
+            "id": "c",
+            "text": "we"
+          },
+          {
+            "id": "d",
+            "text": "us"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "İsmin önünde sahiplik sıfatı gelir: our friends.",
+        "optionExplanations": {
+          "b": "Ours isimsiz kullanılır.",
+          "c": "We özne zamiridir.",
+          "d": "Us nesne zamiridir."
+        },
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-02",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He is with ___ friends.",
+        "answers": [
+          "his"
+        ],
+        "explanation": "Sahip erkek olduğu için his kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "her",
+            "explanation": "Her kadınlar içindir."
+          },
+          {
+            "answer": "he",
+            "explanation": "He özne zamiridir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-03",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onun (erkek) adı Mert.",
+        "answer": [
+          "His",
+          "name",
+          "is",
+          "Mert"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Her",
+          "He"
+        ],
+        "explanation": "Sahip erkekse his kullanılır.",
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-04",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She loves his husband.",
+        "errorSpan": "his",
+        "answers": [
+          "She loves her husband."
+        ],
+        "explanation": "Sahip kadın olduğu için her kullanılır.",
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-05",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Çantan masanın üstünde.",
+        "hint": "çanta: bag, senin: your",
+        "answers": [
+          "Your bag is on the table."
+        ],
+        "targetStructure": "Sahiplik sıfatı: your",
+        "explanation": "İsmin önünde sahiplik sıfatı gelir: your bag.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "You bag is on the table.",
+            "explanation": "You özne zamiridir; your gerekir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-06",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She loves ___ job.",
+        "options": [
+          {
+            "id": "a",
+            "text": "his"
+          },
+          {
+            "id": "b",
+            "text": "her"
+          },
+          {
+            "id": "c",
+            "text": "its"
+          },
+          {
+            "id": "d",
+            "text": "their"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Sahip kadın olduğu için her kullanılır.",
+        "optionExplanations": {
+          "a": "His erkekler içindir.",
+          "c": "Its nesne ve hayvanlar içindir.",
+          "d": "Their çoğul içindir."
+        },
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-07",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They are at ___ house.",
+        "answers": [
+          "their"
+        ],
+        "explanation": "İsmin önünde sahiplik sıfatı gelir: their house.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "theirs",
+            "explanation": "Theirs isimsiz kullanılır."
+          },
+          {
+            "answer": "they",
+            "explanation": "They özne zamiridir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-08",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu telefon senin.",
+        "answer": [
+          "This",
+          "phone",
+          "is",
+          "yours"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "your",
+          "you"
+        ],
+        "explanation": "İsim söylenmediği için zamir gerekir: yours.",
+        "tags": [
+          "possessives",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-09",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "This pen is you.",
+        "errorSpan": "you",
+        "answers": [
+          "This pen is yours."
+        ],
+        "explanation": "Sahiplik zamiri gerekir: yours.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "This pen is your.",
+            "explanation": "İsimsiz kullanımda yours gerekir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-10",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Mavi çanta onun. (kadın)",
+        "hint": "onun (kadın, zamir): hers",
+        "answers": [
+          "The blue bag is hers."
+        ],
+        "targetStructure": "Sahiplik zamiri: hers",
+        "explanation": "Sahip kadın olduğu için ve isim söylenmediği için hers kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The blue bag is her.",
+            "explanation": "İsimsiz kullanımda hers gerekir."
+          },
+          {
+            "answer": "The blue bag is his.",
+            "explanation": "His erkekler içindir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-11",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "This is yours book."
+          },
+          {
+            "id": "b",
+            "text": "This is your book."
+          },
+          {
+            "id": "c",
+            "text": "This is you book."
+          },
+          {
+            "id": "d",
+            "text": "This is yours' book."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "İsmin önünde sahiplik sıfatı gelir: your book.",
+        "optionExplanations": {
+          "a": "İsmin önünde yours değil your kullanılır.",
+          "c": "You özne zamiridir.",
+          "d": "Yours isimsiz kullanılır."
+        },
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-12",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "That car is ___.",
+        "hint": "O araba onun (erkek).",
+        "answers": [
+          "his"
+        ],
+        "explanation": "Erkek sahip için isimsiz kullanılan zamir his’tir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "he",
+            "explanation": "He özne zamiridir."
+          },
+          {
+            "answer": "her",
+            "explanation": "Her kadınlar içindir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-13",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The children toys are on the floor.",
+        "errorSpan": "children toys",
+        "answers": [
+          "The children's toys are on the floor."
+        ],
+        "explanation": "Düzensiz çoğul isimlere ’s eklenir: children’s.",
+        "tags": [
+          "possessives",
+          "apostrophe-s"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-14",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "The cat likes ___ food.",
+        "options": [
+          {
+            "id": "a",
+            "text": "it's"
+          },
+          {
+            "id": "b",
+            "text": "its"
+          },
+          {
+            "id": "c",
+            "text": "their"
+          },
+          {
+            "id": "d",
+            "text": "her"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Hayvan ve nesneler için sahiplik sıfatı its’tir (apostrof yok).",
+        "optionExplanations": {
+          "a": "It’s = it is demektir.",
+          "c": "Their çoğul içindir.",
+          "d": "Her kadın bir kişi içindir."
+        },
+        "tags": [
+          "possessives",
+          "adjective"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-15",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "___ shoes are these?",
+        "answers": [
+          "Whose"
+        ],
+        "explanation": "Bir şeyin kime ait olduğunu whose ile sorarsın.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Who",
+            "explanation": "Who “kim” demektir."
+          }
+        ],
+        "tags": [
+          "possessives",
+          "whose"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-possessives-exam-16",
+        "lessonId": "a1-possessives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çocukların oyuncakları yerde.",
+        "answer": [
+          "The",
+          "children's",
+          "toys",
+          "are",
+          "on",
+          "the",
+          "floor"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "childrens",
+          "is"
+        ],
+        "explanation": "Düzensiz çoğul isimlere ’s eklenir: children’s toys.",
+        "tags": [
+          "possessives",
+          "apostrophe-s"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "plural_form"
+        ]
+      }
+    ]
+  }
+}
