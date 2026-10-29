@@ -46,6 +46,7 @@ import bThirdC from "@/assets/data/levels/b1/b1-third-conditional-intro.json";
 import bWish from "@/assets/data/levels/b1/b1-wish-intro.json";
 import bPassT from "@/assets/data/levels/b1/b1-passive-tenses.json";
 import bRepS from "@/assets/data/levels/b1/b1-reported-speech.json";
+import bRepQ from "@/assets/data/levels/b1/b1-reported-questions.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -109,6 +110,7 @@ export const lessonFiles: Record<string, unknown> = {
   "b1-wish-intro": bWish,
   "b1-passive-tenses": bPassT,
   "b1-reported-speech": bRepS,
+  "b1-reported-questions": bRepQ,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

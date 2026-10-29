@@ -1,0 +1,2160 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-reported-questions",
+  "levelId": "b1",
+  "title": "Reported Questions",
+  "objectives": [
+    "Yes/no sorularını if / whether ile aktarmak",
+    "Wh- sorularını soru sözcüğüyle aktarmak",
+    "Aktarılan soruda düz cümle sırasını kullanmak",
+    "Zaman kayması ve zamir değişikliklerini sorulara uygulamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Soruları aktarmak",
+      "paragraphs": [
+        "Birinin sorduğu soruyu aktarırken soru cümlesi, düz cümle sırasına döner. Yardımcı fiil (do / does / did) kalkar ve soru işareti kullanılmaz.",
+        "Zaman kayması ve zamir değişiklikleri Reported Speech’teki gibi uygulanır. Fiil olarak genellikle asked, wanted to know, wondered kullanılır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Yes / no soruları: if ve whether",
+      "paragraphs": [
+        "Cevabı evet ya da hayır olan sorular if veya whether ile aktarılır. Sonrasında düz cümle sırası gelir: özne + fiil."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "asked + if / whether + özne + fiil",
+          "exampleIds": [
+            "ex-reported-questions-01",
+            "ex-reported-questions-02",
+            "ex-reported-questions-03"
+          ]
+        },
+        {
+          "label": "Whether",
+          "pattern": "whether … or not",
+          "exampleIds": [
+            "ex-reported-questions-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Wh- soruları",
+      "paragraphs": [
+        "Where, what, when, why, how gibi soru sözcükleri korunur. Ardından özne + fiil gelir; do / does / did kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "asked + soru sözcüğü + özne + fiil",
+          "exampleIds": [
+            "ex-reported-questions-05",
+            "ex-reported-questions-06",
+            "ex-reported-questions-07",
+            "ex-reported-questions-08"
+          ]
+        },
+        {
+          "label": "Özne sorusu",
+          "pattern": "asked + who + fiil",
+          "exampleIds": [
+            "ex-reported-questions-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Kelime sırası ve noktalama",
+      "paragraphs": [
+        "Doğrudan soruda yardımcı fiil özneden önce gelir (Where does she live?). Aktarılan soruda özne önce gelir (where she lived) ve soru işareti konmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Direct",
+          "pattern": "Where does she live?",
+          "exampleIds": [
+            "ex-reported-questions-05"
+          ]
+        },
+        {
+          "label": "Reported",
+          "pattern": "He asked where she lived.",
+          "exampleIds": [
+            "ex-reported-questions-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Zaman kayması",
+      "paragraphs": [
+        "Aktaran fiil geçmişteyse zaman geri kayar: Present → Past, Past → Past Perfect, will → would, can → could. Zaman ve yer ifadeleri de değişir."
+      ],
+      "formulas": [
+        {
+          "label": "Kayma",
+          "pattern": "do → did, is → was, will → would",
+          "exampleIds": [
+            "ex-reported-questions-10",
+            "ex-reported-questions-11",
+            "ex-reported-questions-12",
+            "ex-reported-questions-13"
+          ]
+        },
+        {
+          "label": "İfadeler",
+          "pattern": "tomorrow → the next day, here → there",
+          "exampleIds": [
+            "ex-reported-questions-14",
+            "ex-reported-questions-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Diğer kalıplar",
+      "paragraphs": [
+        "Wondered ve wanted to know da kullanılır. Kibar aktarımda Could you tell me …? ve I wonder … kalıpları da düz cümle sırası kullanır."
+      ],
+      "formulas": [
+        {
+          "label": "Wonder",
+          "pattern": "wondered + if / soru sözcüğü + özne + fiil",
+          "exampleIds": [
+            "ex-reported-questions-16",
+            "ex-reported-questions-17"
+          ]
+        },
+        {
+          "label": "Kibar",
+          "pattern": "Could you tell me where + özne + fiil?",
+          "exampleIds": [
+            "ex-reported-questions-18",
+            "ex-reported-questions-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-reported-questions-01",
+        "ex-reported-questions-02",
+        "ex-reported-questions-03",
+        "ex-reported-questions-04",
+        "ex-reported-questions-05",
+        "ex-reported-questions-06",
+        "ex-reported-questions-07",
+        "ex-reported-questions-08",
+        "ex-reported-questions-09",
+        "ex-reported-questions-10",
+        "ex-reported-questions-11",
+        "ex-reported-questions-12",
+        "ex-reported-questions-13",
+        "ex-reported-questions-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-reported-questions-15",
+        "ex-reported-questions-16",
+        "ex-reported-questions-17",
+        "ex-reported-questions-18",
+        "ex-reported-questions-19",
+        "ex-reported-questions-20",
+        "ex-reported-questions-21",
+        "ex-reported-questions-22",
+        "ex-reported-questions-23",
+        "ex-reported-questions-24",
+        "ex-reported-questions-25",
+        "ex-reported-questions-26",
+        "ex-reported-questions-27",
+        "ex-reported-questions-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He asked where did she live.",
+          "right": "He asked where she lived.",
+          "explanation": "Aktarılan soruda do / did kullanılmaz."
+        },
+        {
+          "wrong": "She asked if did I like tea.",
+          "right": "She asked if I liked tea.",
+          "explanation": "If’ten sonra düz sıra gelir."
+        },
+        {
+          "wrong": "He asked what was I doing.",
+          "right": "He asked what I was doing.",
+          "explanation": "Özne önce gelir."
+        },
+        {
+          "wrong": "She asked me where do I live?",
+          "right": "She asked me where I lived.",
+          "explanation": "Soru işareti ve yardımcı fiil kalkar."
+        },
+        {
+          "wrong": "He asked me do I speak English.",
+          "right": "He asked me if I spoke English.",
+          "explanation": "Yes/no sorusu için if gerekir."
+        },
+        {
+          "wrong": "She asked where he lives. (geçmişte aktarım)",
+          "right": "She asked where he lived.",
+          "explanation": "Zaman geri kayar."
+        },
+        {
+          "wrong": "He asked me what is my name.",
+          "right": "He asked me what my name was.",
+          "explanation": "Düz sıra ve zaman kayması."
+        },
+        {
+          "wrong": "Could you tell me where is the station?",
+          "right": "Could you tell me where the station is?",
+          "explanation": "Kibar soruda da düz sıra."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Reported Speech",
+          "body": "Cümlelerin aktarımı ve zaman kayması.",
+          "lessonId": "b1-reported-speech"
+        },
+        {
+          "topic": "Say / tell",
+          "body": "Aktarma fiillerinin farkı.",
+          "lessonId": "b1-say-tell"
+        },
+        {
+          "topic": "Question forms",
+          "body": "Doğrudan soru kalıpları.",
+          "lessonId": "a1-wh-questions"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Aktarılan soruda düz cümle sırası: özne + fiil.",
+        "Do / does / did kalkar, soru işareti kalkar.",
+        "Yes/no sorusunda if veya whether kullan.",
+        "Zaman kayması ve zamir değişimi unutulmasın.",
+        "Could you tell me …? kalıbında da düz sıra kullanılır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-reported-questions-01",
+        "q-reported-questions-02",
+        "q-reported-questions-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-reported-questions-01",
+      "en": "“Do you like pizza?” he asked. → He asked if I liked pizza.",
+      "tr": "“Pizza sever misin?” diye sordu. → Pizza sevip sevmediğimi sordu.",
+      "highlight": "if I liked",
+      "note": "Do kalktı"
+    },
+    {
+      "id": "ex-reported-questions-02",
+      "en": "“Is she at home?” he asked. → He asked if she was at home.",
+      "tr": "“O evde mi?” diye sordu. → Onun evde olup olmadığını sordu.",
+      "highlight": "if she was"
+    },
+    {
+      "id": "ex-reported-questions-03",
+      "en": "“Have you finished?” she asked. → She asked if I had finished.",
+      "tr": "“Bitirdin mi?” diye sordu. → Bitirip bitirmediğimi sordu.",
+      "highlight": "if I had finished"
+    },
+    {
+      "id": "ex-reported-questions-04",
+      "en": "He asked whether I wanted tea or not.",
+      "tr": "Çay isteyip istemediğimi sordu.",
+      "highlight": "whether I wanted",
+      "note": "whether … or not"
+    },
+    {
+      "id": "ex-reported-questions-05",
+      "en": "“Where does she live?” he asked. → He asked where she lived.",
+      "tr": "“O nerede yaşıyor?” diye sordu. → Onun nerede yaşadığını sordu.",
+      "highlight": "where she lived"
+    },
+    {
+      "id": "ex-reported-questions-06",
+      "en": "“What are you doing?” she asked. → She asked what I was doing.",
+      "tr": "“Ne yapıyorsun?” diye sordu. → Ne yaptığımı sordu.",
+      "highlight": "what I was doing"
+    },
+    {
+      "id": "ex-reported-questions-07",
+      "en": "“Why did you leave?” he asked. → He asked why I had left.",
+      "tr": "“Neden ayrıldın?” diye sordu. → Neden ayrıldığımı sordu.",
+      "highlight": "why I had left"
+    },
+    {
+      "id": "ex-reported-questions-08",
+      "en": "“How old are you?” she asked. → She asked how old I was.",
+      "tr": "“Kaç yaşındasın?” diye sordu. → Kaç yaşında olduğumu sordu.",
+      "highlight": "how old I was"
+    },
+    {
+      "id": "ex-reported-questions-09",
+      "en": "“Who called you?” he asked. → He asked who had called me.",
+      "tr": "“Seni kim aradı?” diye sordu. → Beni kimin aradığını sordu.",
+      "highlight": "who had called me",
+      "note": "Özne sorusu: düz sıra zaten aynı"
+    },
+    {
+      "id": "ex-reported-questions-10",
+      "en": "“Do you speak English?” she asked. → She asked if I spoke English.",
+      "tr": "“İngilizce konuşuyor musun?” diye sordu. → İngilizce konuşup konuşmadığımı sordu.",
+      "highlight": "if I spoke"
+    },
+    {
+      "id": "ex-reported-questions-11",
+      "en": "“Did you see the film?” he asked. → He asked if I had seen the film.",
+      "tr": "“Filmi gördün mü?” diye sordu. → Filmi görüp görmediğimi sordu.",
+      "highlight": "if I had seen"
+    },
+    {
+      "id": "ex-reported-questions-12",
+      "en": "“Will you come?” she asked. → She asked if I would come.",
+      "tr": "“Gelecek misin?” diye sordu. → Gelip gelmeyeceğimi sordu.",
+      "highlight": "if I would come"
+    },
+    {
+      "id": "ex-reported-questions-13",
+      "en": "“Can you swim?” he asked. → He asked if I could swim.",
+      "tr": "“Yüzebilir misin?” diye sordu. → Yüzüp yüzemediğimi sordu.",
+      "highlight": "if I could swim"
+    },
+    {
+      "id": "ex-reported-questions-14",
+      "en": "“Are you coming tomorrow?” she asked. → She asked if I was coming the next day.",
+      "tr": "“Yarın geliyor musun?” diye sordu. → Ertesi gün gelip gelmeyeceğimi sordu.",
+      "highlight": "the next day"
+    },
+    {
+      "id": "ex-reported-questions-15",
+      "en": "“Do you live here?” he asked. → He asked if I lived there.",
+      "tr": "“Burada mı yaşıyorsun?” diye sordu. → Orada yaşayıp yaşamadığımı sordu.",
+      "highlight": "there"
+    },
+    {
+      "id": "ex-reported-questions-16",
+      "en": "She wondered if he was ill.",
+      "tr": "Onun hasta olup olmadığını merak etti.",
+      "highlight": "wondered if",
+      "note": "wonder"
+    },
+    {
+      "id": "ex-reported-questions-17",
+      "en": "I wondered where they had gone.",
+      "tr": "Nereye gittiklerini merak ettim.",
+      "highlight": "where they had gone"
+    },
+    {
+      "id": "ex-reported-questions-18",
+      "en": "Could you tell me where the station is?",
+      "tr": "İstasyonun nerede olduğunu söyleyebilir misiniz?",
+      "highlight": "where the station is",
+      "note": "Düz sıra: the station is"
+    },
+    {
+      "id": "ex-reported-questions-19",
+      "en": "Do you know what time it is?",
+      "tr": "Saatin kaç olduğunu biliyor musun?",
+      "highlight": "what time it is"
+    },
+    {
+      "id": "ex-reported-questions-20",
+      "en": "She asked me what my name was.",
+      "tr": "Adımın ne olduğunu sordu.",
+      "highlight": "what my name was"
+    },
+    {
+      "id": "ex-reported-questions-21",
+      "en": "He wanted to know when the film started.",
+      "tr": "Filmin ne zaman başladığını bilmek istedi.",
+      "highlight": "when the film started"
+    },
+    {
+      "id": "ex-reported-questions-22",
+      "en": "They asked us why we were late.",
+      "tr": "Neden geç kaldığımızı sordular.",
+      "highlight": "why we were late"
+    },
+    {
+      "id": "ex-reported-questions-23",
+      "en": "I asked him how he had solved the problem.",
+      "tr": "Sorunu nasıl çözdüğünü ona sordum.",
+      "highlight": "how he had solved"
+    },
+    {
+      "id": "ex-reported-questions-24",
+      "en": "She asked if they had any children.",
+      "tr": "Çocukları olup olmadığını sordu.",
+      "highlight": "if they had any children"
+    },
+    {
+      "id": "ex-reported-questions-25",
+      "en": "He asked me whether I was married.",
+      "tr": "Evli olup olmadığımı sordu.",
+      "highlight": "whether I was married"
+    },
+    {
+      "id": "ex-reported-questions-26",
+      "en": "The teacher asked who had done the homework.",
+      "tr": "Öğretmen ödevi kimin yaptığını sordu.",
+      "highlight": "who had done the homework"
+    },
+    {
+      "id": "ex-reported-questions-27",
+      "en": "She asked me how long I had lived there.",
+      "tr": "Orada ne kadar süredir yaşadığımı sordu.",
+      "highlight": "how long I had lived"
+    },
+    {
+      "id": "ex-reported-questions-28",
+      "en": "He asked where I was going.",
+      "tr": "Nereye gittiğimi sordu.",
+      "highlight": "where I was going"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-reported-questions-01",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Do you like tea?” he asked. → He asked ___ I liked tea.",
+      "options": [
+        {
+          "id": "a",
+          "text": "do"
+        },
+        {
+          "id": "b",
+          "text": "if"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "what"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Yes/no sorusu if ile aktarılır.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-02",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She asked ___ I was tired. (whether / if)",
+      "answers": [
+        "if",
+        "whether"
+      ],
+      "explanation": "Yes/no sorusunda if ya da whether.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-03",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Nerede yaşadığımı sordu.",
+      "answer": [
+        "He",
+        "asked",
+        "where",
+        "I",
+        "lived"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "did",
+        "live"
+      ],
+      "explanation": "Düz sıra",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-04",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He asked where did she live.",
+      "errorSpan": "where did she live",
+      "answers": [
+        "He asked where she lived."
+      ],
+      "explanation": "Aktarılan soruda did kullanılmaz.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-05",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onun evde olup olmadığını sordu.",
+      "hint": "ev: at home",
+      "answers": [
+        "He asked if she was at home.",
+        "She asked if he was at home.",
+        "He asked whether she was at home.",
+        "She asked whether he was at home."
+      ],
+      "targetStructure": "if + was",
+      "explanation": "Yes/no soru.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-06",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Where do you work?” she asked. → She asked where I ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "work"
+        },
+        {
+          "id": "b",
+          "text": "did work"
+        },
+        {
+          "id": "c",
+          "text": "worked"
+        },
+        {
+          "id": "d",
+          "text": "do work"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Düz sıra ve zaman kayması.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-07",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Why are you late?” he asked. → He asked why I ___ late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "were being"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "am → was.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-08",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“What do you want?” she asked. → She asked what I ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wanted"
+        },
+        {
+          "id": "b",
+          "text": "want"
+        },
+        {
+          "id": "c",
+          "text": "did want"
+        },
+        {
+          "id": "d",
+          "text": "wants"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Do kalkar, fiil geçmişe kayar.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-09",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Have you seen him?” she asked. → She asked if I ___ him.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have seen"
+        },
+        {
+          "id": "b",
+          "text": "had seen"
+        },
+        {
+          "id": "c",
+          "text": "saw"
+        },
+        {
+          "id": "d",
+          "text": "see"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Present Perfect → Past Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-10",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Did you call her?” he asked. → He asked if I ___ her.",
+      "options": [
+        {
+          "id": "a",
+          "text": "called did"
+        },
+        {
+          "id": "b",
+          "text": "did call"
+        },
+        {
+          "id": "c",
+          "text": "had called"
+        },
+        {
+          "id": "d",
+          "text": "have called"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Past Simple → Past Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-11",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“Where is the bank?” he asked. → He asked where the bank ___.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "is → was.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-12",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“What time does it start?” she asked. → She asked what time it ___.",
+      "answers": [
+        "started"
+      ],
+      "explanation": "does kalkar, fiil geçmişe kayar.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-13",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“Will you help me?” he asked. → He asked if I ___ help him.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "will → would.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-14",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“Can you drive?” she asked. → She asked if I ___ drive.",
+      "answers": [
+        "could"
+      ],
+      "explanation": "can → could.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-15",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“How old is he?” I asked. → I asked how old he ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "does"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "is → was.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-16",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Are you coming tomorrow?” → She asked if I was coming ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the next day"
+        },
+        {
+          "id": "b",
+          "text": "tomorrow"
+        },
+        {
+          "id": "c",
+          "text": "yesterday"
+        },
+        {
+          "id": "d",
+          "text": "the day before"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "tomorrow → the next day.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-17",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur? (Nerede yaşadığımı sordu.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "She asked me where did I live."
+        },
+        {
+          "id": "b",
+          "text": "She asked me where I lived."
+        },
+        {
+          "id": "c",
+          "text": "She asked me where I did live."
+        },
+        {
+          "id": "d",
+          "text": "She asked me where lived I."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Düz sıra.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-18",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur? (Hazır olup olmadığımı sordu.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "He asked was I ready."
+        },
+        {
+          "id": "b",
+          "text": "He asked that I was ready."
+        },
+        {
+          "id": "c",
+          "text": "He asked if I was ready."
+        },
+        {
+          "id": "d",
+          "text": "He asked if was I ready."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yes/no sorusu için if.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-19",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi kibar ve doğru sorudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Could you tell me where is the post office?"
+        },
+        {
+          "id": "b",
+          "text": "Could you tell me where the post office does?"
+        },
+        {
+          "id": "c",
+          "text": "Could you tell me where does the post office?"
+        },
+        {
+          "id": "d",
+          "text": "Could you tell me where the post office is?"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Düz sıra.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-20",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Do you know what time ___ is? (it)",
+      "answers": [
+        "it"
+      ],
+      "explanation": "what time it is: düz sıra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Önce özne gelir."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-21",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She asked if did I like tea.",
+      "errorSpan": "did I like",
+      "answers": [
+        "She asked if I liked tea."
+      ],
+      "explanation": "If’ten sonra düz sıra.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-22",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He asked what was I doing.",
+      "errorSpan": "what was I doing",
+      "answers": [
+        "He asked what I was doing."
+      ],
+      "explanation": "Özne önce.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-23",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She asked where do I live?",
+      "errorSpan": "where do I live?",
+      "answers": [
+        "She asked where I lived."
+      ],
+      "explanation": "Yardımcı fiil kalkar.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-24",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He asked me do I speak English.",
+      "errorSpan": "do I speak",
+      "answers": [
+        "He asked me if I spoke English.",
+        "He asked me whether I spoke English."
+      ],
+      "explanation": "If gerekir.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-25",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She asked where he lives. (geçmişte aktarım)",
+      "errorSpan": "lives",
+      "answers": [
+        "She asked where he lived."
+      ],
+      "explanation": "Zaman geri kayar.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-26",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He asked me what is my name.",
+      "errorSpan": "what is my name",
+      "answers": [
+        "He asked me what my name was."
+      ],
+      "explanation": "Düz sıra ve kayma.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-27",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Could you tell me where is the station?",
+      "errorSpan": "where is the station",
+      "answers": [
+        "Could you tell me where the station is."
+      ],
+      "explanation": "Düz sıra.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-28",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne yaptığımı sordu.",
+      "answer": [
+        "She",
+        "asked",
+        "what",
+        "I",
+        "was",
+        "doing"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "did",
+        "do"
+      ],
+      "explanation": "Wh- + özne + fiil",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-29",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gelip gelmeyeceğimi sordu.",
+      "answer": [
+        "He",
+        "asked",
+        "if",
+        "I",
+        "would",
+        "come"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "that"
+      ],
+      "explanation": "will → would",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-30",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Neden geç kaldığımızı sordular.",
+      "answer": [
+        "They",
+        "asked",
+        "why",
+        "we",
+        "were",
+        "late"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "did",
+        "are"
+      ],
+      "explanation": "Düz sıra",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-31",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İstasyonun nerede olduğunu söyleyebilir misiniz?",
+      "answer": [
+        "Could",
+        "you",
+        "tell",
+        "me",
+        "where",
+        "the",
+        "station",
+        "is"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "is the"
+      ],
+      "explanation": "Kibar düz sıra",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-32",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Nerede yaşadığımı sordu.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "He asked where I lived.",
+        "She asked where I lived."
+      ],
+      "targetStructure": "where + özne + fiil",
+      "explanation": "Düz sıra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He asked where did I live.",
+          "explanation": "Did kullanılmaz."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-33",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne istediğimi sordu.",
+      "hint": "istemek: want",
+      "answers": [
+        "She asked what I wanted.",
+        "He asked what I wanted."
+      ],
+      "targetStructure": "what + özne + fiil",
+      "explanation": "Zaman kayması.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She asked what did I want.",
+          "explanation": "Düz sıra."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-34",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bitirip bitirmediğimi sordu.",
+      "hint": "bitirmek: finish",
+      "answers": [
+        "She asked if I had finished.",
+        "He asked if I had finished.",
+        "She asked whether I had finished.",
+        "He asked whether I had finished."
+      ],
+      "targetStructure": "if + had finished",
+      "explanation": "Present Perfect → Past Perfect.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She asked if I have finished.",
+          "explanation": "Geriye kayar."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-35",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Filmin ne zaman başladığını bilmek istedi.",
+      "hint": "başlamak: start",
+      "answers": [
+        "He wanted to know when the film started.",
+        "She wanted to know when the film started."
+      ],
+      "targetStructure": "wanted to know + when",
+      "explanation": "Düz sıra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He wanted to know when did the film start.",
+          "explanation": "Düz sıra."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-36",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ertesi gün gelip gelmeyeceğimi sordu.",
+      "hint": "gelmek: come",
+      "answers": [
+        "She asked if I would come the next day.",
+        "He asked if I would come the next day.",
+        "She asked whether I would come the next day.",
+        "He asked whether I would come the next day."
+      ],
+      "targetStructure": "the next day",
+      "explanation": "tomorrow → the next day.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She asked if I will come tomorrow.",
+          "explanation": "Zaman ve ifade değişir."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-37",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kaç yaşında olduğumu sordu.",
+      "hint": "yaş: old",
+      "answers": [
+        "She asked how old I was.",
+        "He asked how old I was."
+      ],
+      "targetStructure": "how old I was",
+      "explanation": "Düz sıra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She asked how old was I.",
+          "explanation": "Düz sıra."
+        }
+      ],
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-38",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Who lives here?” he asked. → He asked who ___ there.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did live"
+        },
+        {
+          "id": "b",
+          "text": "does live"
+        },
+        {
+          "id": "c",
+          "text": "lived"
+        },
+        {
+          "id": "d",
+          "text": "live"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Özne sorusunda yardımcı fiil zaten yok.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-39",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He asked ___ I was married or not. (whether)",
+      "answers": [
+        "whether"
+      ],
+      "explanation": "whether … or not.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-questions-40",
+      "lessonId": "b1-reported-questions",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She wondered ___ he was ill. (if)",
+      "answers": [
+        "if",
+        "whether"
+      ],
+      "explanation": "wondered + if.",
+      "tags": [
+        "reported-questions",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-reported-questions",
+    "title": "Reported Questions: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-reported-questions-exam-01",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "“Do you smoke?” she asked. → She asked ___ I smoked.",
+        "options": [
+          {
+            "id": "a",
+            "text": "do"
+          },
+          {
+            "id": "b",
+            "text": "if"
+          },
+          {
+            "id": "c",
+            "text": "what"
+          },
+          {
+            "id": "d",
+            "text": "that"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Yes/no için if.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-02",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "“Where are you from?” he asked. → He asked where I ___ from.",
+        "answers": [
+          "was"
+        ],
+        "explanation": "are → was.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-03",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kaç yaşında olduğunu sordu.",
+        "answer": [
+          "He",
+          "asked",
+          "how",
+          "old",
+          "she",
+          "was"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "did"
+        ],
+        "explanation": "Düz sıra",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-04",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She asked where did he go.",
+        "errorSpan": "where did he go",
+        "answers": [
+          "She asked where he had gone.",
+          "She asked where he went."
+        ],
+        "explanation": "Did kalkar.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-05",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Neden ayrıldığımı sordu.",
+        "hint": "ayrılmak: leave",
+        "answers": [
+          "He asked why I had left.",
+          "She asked why I had left.",
+          "He asked why I left.",
+          "She asked why I left."
+        ],
+        "targetStructure": "why + özne + fiil",
+        "explanation": "Düz sıra.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He asked why did I leave.",
+            "explanation": "Did kullanılmaz."
+          }
+        ],
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-06",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "“Can you help me?” → He asked if I ___ help him.",
+        "options": [
+          {
+            "id": "a",
+            "text": "can"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "could"
+          },
+          {
+            "id": "d",
+            "text": "did"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "can → could.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-07",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "“Will it rain?” he asked. → He asked if it ___ rain.",
+        "answers": [
+          "would"
+        ],
+        "explanation": "will → would.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-08",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Filmi görüp görmediğimi sordu.",
+        "answer": [
+          "She",
+          "asked",
+          "if",
+          "I",
+          "had",
+          "seen",
+          "the",
+          "film"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "saw",
+          "did"
+        ],
+        "explanation": "Past Perfect",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-09",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He asked what is her name.",
+        "errorSpan": "what is her name",
+        "answers": [
+          "He asked what her name was."
+        ],
+        "explanation": "Düz sıra ve kayma.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-10",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İngilizce konuşup konuşmadığını sordu.",
+        "hint": "konuşmak: speak",
+        "answers": [
+          "She asked if I spoke English.",
+          "He asked if I spoke English.",
+          "She asked whether I spoke English.",
+          "He asked whether I spoke English."
+        ],
+        "targetStructure": "if + spoke",
+        "explanation": "Yes/no.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She asked if did I speak English.",
+            "explanation": "Düz sıra."
+          }
+        ],
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-11",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Could you tell me ___ ?",
+        "options": [
+          {
+            "id": "a",
+            "text": "where is the bank"
+          },
+          {
+            "id": "b",
+            "text": "where does the bank"
+          },
+          {
+            "id": "c",
+            "text": "where the bank does"
+          },
+          {
+            "id": "d",
+            "text": "where the bank is"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Kibar sorularda düz sıra.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-12",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I wonder what time the shop ___. (open)",
+        "answers": [
+          "opens"
+        ],
+        "explanation": "Düz sıra: özne + fiil.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-13",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She asked me did I know him.",
+        "errorSpan": "did I know",
+        "answers": [
+          "She asked me if I knew him.",
+          "She asked me whether I knew him."
+        ],
+        "explanation": "If gerekir.",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-14",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "He asked me ___ I was doing.",
+        "options": [
+          {
+            "id": "a",
+            "text": "if"
+          },
+          {
+            "id": "b",
+            "text": "that"
+          },
+          {
+            "id": "c",
+            "text": "what"
+          },
+          {
+            "id": "d",
+            "text": "did"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Wh- sorusu: what.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-15",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nerede çalıştığını bilmek istedi.",
+        "answer": [
+          "He",
+          "wanted",
+          "to",
+          "know",
+          "where",
+          "she",
+          "worked"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "did",
+          "works"
+        ],
+        "explanation": "wanted to know",
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-reported-questions-exam-16",
+        "lessonId": "b1-reported-questions",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Onların evli olup olmadığını sordu.",
+        "hint": "evli: married",
+        "answers": [
+          "She asked if they were married.",
+          "He asked if they were married.",
+          "She asked whether they were married.",
+          "He asked whether they were married."
+        ],
+        "targetStructure": "if + were",
+        "explanation": "are → were.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She asked if were they married.",
+            "explanation": "Düz sıra."
+          }
+        ],
+        "tags": [
+          "reported-questions",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

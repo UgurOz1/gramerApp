@@ -132,6 +132,7 @@ describeLesson("b1-third-conditional-intro", { examples: 28, exercises: 40, exam
 describeLesson("b1-wish-intro", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("b1-passive-tenses", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("b1-reported-speech", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("b1-reported-questions", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });
