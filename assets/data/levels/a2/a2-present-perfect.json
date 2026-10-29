@@ -1,0 +1,2396 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-present-perfect",
+  "levelId": "a2",
+  "title": "Present Perfect",
+  "objectives": [
+    "Have / has + V3 yapısını kurmak (olumlu, olumsuz, soru)",
+    "Hayat deneyimi, şimdiye etkisi olan sonuç ve hâlâ süren durumları anlatmak",
+    "Sık düzensiz fiillerin V3 biçimlerini kullanmak",
+    "Gone ve been farkını bilmek",
+    "Belirli zaman ifadeleriyle Past Simple kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Perfect nedir?",
+      "paragraphs": [
+        "Present Perfect, geçmişte olmuş ama şimdiyle bağlantısı olan eylemleri anlatır: hayat deneyimleri, şimdiye etkisi olan sonuçlar ve hâlâ süren durumlar. Zamanın kendisi önemli değildir; önemli olan şimdiki durumdur.",
+        "Yapı: have / has + fiilin üçüncü hâli (V3, past participle). Türkçede tek bir karşılığı yoktur; bazen -di'li geçmişle (Anahtarlarını kaybetti), bazen -yor ekiyle (On yıldır burada yaşıyoruz) söylenir. Bu yüzden Türkçeye bakarak karar veremezsin."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Olumlu cümle",
+      "paragraphs": [
+        "I / you / we / they için have, he / she / it için has kullanılır. Ardından V3 gelir. Düzenli fiillerde V3, V2 ile aynıdır (-ed); düzensiz fiillerde farklıdır."
+      ],
+      "formulas": [
+        {
+          "label": "Have",
+          "pattern": "I / you / we / they + have + V3",
+          "exampleIds": [
+            "ex-present-perfect-01",
+            "ex-present-perfect-03",
+            "ex-present-perfect-04"
+          ]
+        },
+        {
+          "label": "Has",
+          "pattern": "he / she / it + has + V3",
+          "exampleIds": [
+            "ex-present-perfect-02",
+            "ex-present-perfect-05"
+          ]
+        },
+        {
+          "label": "Kısaltma",
+          "pattern": "I’ve,  you’ve,  we’ve,  they’ve,  he’s,  she’s",
+          "exampleIds": [
+            "ex-present-perfect-06",
+            "ex-present-perfect-07",
+            "ex-present-perfect-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v3",
+      "type": "forms",
+      "title": "V3 biçimleri",
+      "paragraphs": [
+        "Düzenli fiiller -ed alır: visit → visited. Düzensiz fiillerin üçüncü biçimini ezberlemek gerekir:"
+      ],
+      "forms": [
+        {
+          "label": "see → saw → seen",
+          "formula": "I have seen it.",
+          "exampleIds": [
+            "ex-present-perfect-02"
+          ]
+        },
+        {
+          "label": "go → went → gone / been",
+          "formula": "He has gone / been.",
+          "exampleIds": [
+            "ex-present-perfect-25",
+            "ex-present-perfect-26"
+          ]
+        },
+        {
+          "label": "eat → ate → eaten",
+          "formula": "I have eaten.",
+          "exampleIds": [
+            "ex-present-perfect-06",
+            "ex-present-perfect-21"
+          ]
+        },
+        {
+          "label": "do → did → done",
+          "formula": "I have done it.",
+          "exampleIds": [
+            "ex-present-perfect-27"
+          ]
+        },
+        {
+          "label": "make → made → made",
+          "formula": "She has made a cake.",
+          "exampleIds": [
+            "ex-present-perfect-28"
+          ]
+        },
+        {
+          "label": "write → wrote → written",
+          "formula": "She has written books.",
+          "exampleIds": [
+            "ex-present-perfect-07"
+          ]
+        },
+        {
+          "label": "buy → bought → bought",
+          "formula": "They have bought a car.",
+          "exampleIds": [
+            "ex-present-perfect-04"
+          ]
+        },
+        {
+          "label": "lose → lost → lost",
+          "formula": "He has lost his keys.",
+          "exampleIds": [
+            "ex-present-perfect-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Olumsuz: haven’t / hasn’t + V3. Soru: Have / Has + özne + V3. Do / does kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + haven’t / hasn’t + V3",
+          "exampleIds": [
+            "ex-present-perfect-09",
+            "ex-present-perfect-10",
+            "ex-present-perfect-11",
+            "ex-present-perfect-12"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + V3 …?",
+          "exampleIds": [
+            "ex-present-perfect-13",
+            "ex-present-perfect-14",
+            "ex-present-perfect-15"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I have.   No, she hasn’t.",
+          "exampleIds": [
+            "ex-present-perfect-16",
+            "ex-present-perfect-17"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + have / has + özne + V3 …?",
+          "exampleIds": [
+            "ex-present-perfect-18",
+            "ex-present-perfect-19",
+            "ex-present-perfect-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Hayat deneyimi",
+          "formula": "I’ve visited Paris.   Have you ever been …?",
+          "exampleIds": [
+            "ex-present-perfect-01",
+            "ex-present-perfect-06",
+            "ex-present-perfect-13",
+            "ex-present-perfect-21"
+          ],
+          "note": "Hayatın herhangi bir noktasında olmuş."
+        },
+        {
+          "label": "Şimdiye etkisi olan sonuç",
+          "formula": "He’s lost his keys.",
+          "exampleIds": [
+            "ex-present-perfect-05",
+            "ex-present-perfect-03",
+            "ex-present-perfect-27"
+          ],
+          "note": "Sonuç şimdi de geçerli."
+        },
+        {
+          "label": "Yeni haber",
+          "formula": "She’s just arrived.",
+          "exampleIds": [
+            "ex-present-perfect-22"
+          ],
+          "note": "Az önce olmuş."
+        },
+        {
+          "label": "Hâlâ süren durum",
+          "formula": "We’ve lived here for ten years.",
+          "exampleIds": [
+            "ex-present-perfect-08",
+            "ex-present-perfect-20"
+          ],
+          "note": "for / since ile."
+        }
+      ]
+    },
+    {
+      "id": "gone-been",
+      "type": "rule",
+      "title": "Gone ve been",
+      "paragraphs": [
+        "Have gone: biri bir yere gitti ve hâlâ orada, dönmedi. Have been: gitti ve döndü (orada bulundu)."
+      ],
+      "formulas": [
+        {
+          "label": "gone",
+          "pattern": "He has gone to Paris. (şimdi Paris’te)",
+          "exampleIds": [
+            "ex-present-perfect-25"
+          ]
+        },
+        {
+          "label": "been",
+          "pattern": "He has been to Paris. (gitti, döndü)",
+          "exampleIds": [
+            "ex-present-perfect-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no-time",
+      "type": "rule",
+      "title": "Belirli zaman ifadesi yok",
+      "paragraphs": [
+        "Yesterday, last week, in 2019, two days ago gibi belirli zaman ifadeleri Present Perfect ile kullanılmaz. Bunlarla Past Simple gerekir: I saw it yesterday. (Present Perfect’in zaman ifadeleri bir sonraki derste.)"
+      ],
+      "formulas": [
+        {
+          "label": "Doğru",
+          "pattern": "I have seen it.  /  I saw it yesterday.",
+          "exampleIds": [
+            "ex-present-perfect-02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu",
+      "exampleIds": [
+        "ex-present-perfect-01",
+        "ex-present-perfect-02",
+        "ex-present-perfect-03",
+        "ex-present-perfect-04",
+        "ex-present-perfect-05",
+        "ex-present-perfect-06",
+        "ex-present-perfect-07",
+        "ex-present-perfect-08",
+        "ex-present-perfect-21",
+        "ex-present-perfect-22",
+        "ex-present-perfect-23",
+        "ex-present-perfect-25",
+        "ex-present-perfect-26",
+        "ex-present-perfect-27",
+        "ex-present-perfect-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: olumsuz ve soru",
+      "exampleIds": [
+        "ex-present-perfect-09",
+        "ex-present-perfect-10",
+        "ex-present-perfect-11",
+        "ex-present-perfect-12",
+        "ex-present-perfect-13",
+        "ex-present-perfect-14",
+        "ex-present-perfect-15",
+        "ex-present-perfect-16",
+        "ex-present-perfect-17",
+        "ex-present-perfect-18",
+        "ex-present-perfect-19",
+        "ex-present-perfect-20",
+        "ex-present-perfect-24"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I have see that film.",
+          "right": "I have seen that film.",
+          "explanation": "V3 gerekir: seen."
+        },
+        {
+          "wrong": "She have visited Paris.",
+          "right": "She has visited Paris.",
+          "explanation": "She ile has."
+        },
+        {
+          "wrong": "I have seen him yesterday.",
+          "right": "I saw him yesterday.",
+          "explanation": "Yesterday ile Past Simple."
+        },
+        {
+          "wrong": "Did you ever been to London?",
+          "right": "Have you ever been to London?",
+          "explanation": "Present Perfect: have + V3."
+        },
+        {
+          "wrong": "He have gone to Paris.",
+          "right": "He has gone to Paris.",
+          "explanation": "He ile has."
+        },
+        {
+          "wrong": "I didn't finish yet.",
+          "right": "I haven't finished yet.",
+          "explanation": "Yet ile Present Perfect."
+        },
+        {
+          "wrong": "I have went to Spain.",
+          "right": "I have been to Spain.  /  I went to Spain.",
+          "explanation": "V3: gone / been; went Past Simple biçimidir."
+        },
+        {
+          "wrong": "Has she finish her work?",
+          "right": "Has she finished her work?",
+          "explanation": "V3 gerekir: finished."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Past Simple",
+          "body": "Zamanı belli bitmiş olaylar Past Simple ile söylenir.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Ever, never, just, already, yet",
+          "body": "Present Perfect’le kullanılan zarflar ayrı bir derstir.",
+          "lessonId": "a2-ever-never-just-already-yet"
+        },
+        {
+          "topic": "For ve since",
+          "body": "Hâlâ süren durumlar için süre ve başlangıç noktası.",
+          "lessonId": "a2-for-since"
+        },
+        {
+          "topic": "Present Perfect ve Past Simple",
+          "body": "Karşılaştırma dersinde farklar ayrıntılı işlenir.",
+          "lessonId": "a2-present-perfect-vs-past-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: have / has + V3. He / she / it ile has.",
+        "Belirli geçmiş zaman ifadeleriyle (yesterday, last week) Past Simple kullan.",
+        "Soru ve olumsuzda do / did yok; have / has özneden önce gelir.",
+        "Gone (hâlâ orada) ve been (gitti, döndü) farklıdır.",
+        "Düzensiz fiillerin V3 biçimlerini ezberle."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-present-perfect-01",
+        "q-present-perfect-02",
+        "q-present-perfect-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-present-perfect-01",
+      "en": "I have visited Paris.",
+      "tr": "Paris'i ziyaret ettim (hayatımda).",
+      "highlight": "have visited",
+      "note": "have + V3"
+    },
+    {
+      "id": "ex-present-perfect-02",
+      "en": "She has seen that film.",
+      "tr": "O filmi izledi.",
+      "highlight": "has seen",
+      "note": "he / she / it + has"
+    },
+    {
+      "id": "ex-present-perfect-03",
+      "en": "We have finished our homework.",
+      "tr": "Ödevimizi bitirdik.",
+      "highlight": "have finished"
+    },
+    {
+      "id": "ex-present-perfect-04",
+      "en": "They have bought a new car.",
+      "tr": "Yeni bir araba aldılar.",
+      "highlight": "have bought"
+    },
+    {
+      "id": "ex-present-perfect-05",
+      "en": "He has lost his keys.",
+      "tr": "Anahtarlarını kaybetti (şimdi yok).",
+      "highlight": "has lost",
+      "note": "Şimdiye etkisi olan sonuç"
+    },
+    {
+      "id": "ex-present-perfect-06",
+      "en": "I've eaten sushi twice.",
+      "tr": "İki kez suşi yedim.",
+      "highlight": "I've eaten"
+    },
+    {
+      "id": "ex-present-perfect-07",
+      "en": "She's written three books.",
+      "tr": "Üç kitap yazdı.",
+      "highlight": "She's written"
+    },
+    {
+      "id": "ex-present-perfect-08",
+      "en": "We've lived here for ten years.",
+      "tr": "On yıldır burada yaşıyoruz.",
+      "highlight": "We've lived",
+      "note": "for: süre"
+    },
+    {
+      "id": "ex-present-perfect-09",
+      "en": "I haven't seen him today.",
+      "tr": "Bugün onu görmedim.",
+      "highlight": "haven't seen",
+      "note": "Olumsuz: haven't / hasn't + V3"
+    },
+    {
+      "id": "ex-present-perfect-10",
+      "en": "She hasn't called me.",
+      "tr": "Beni aramadı.",
+      "highlight": "hasn't called"
+    },
+    {
+      "id": "ex-present-perfect-11",
+      "en": "We haven't finished yet.",
+      "tr": "Henüz bitirmedik.",
+      "highlight": "haven't finished"
+    },
+    {
+      "id": "ex-present-perfect-12",
+      "en": "They haven't arrived.",
+      "tr": "Henüz varmadılar.",
+      "highlight": "haven't arrived"
+    },
+    {
+      "id": "ex-present-perfect-13",
+      "en": "Have you ever been to London?",
+      "tr": "Hiç Londra'ya gittin mi?",
+      "highlight": "Have you ever been",
+      "note": "Soru: Have / Has + özne + V3"
+    },
+    {
+      "id": "ex-present-perfect-14",
+      "en": "Has she finished her work?",
+      "tr": "İşini bitirdi mi?",
+      "highlight": "Has she finished"
+    },
+    {
+      "id": "ex-present-perfect-15",
+      "en": "Have they arrived?",
+      "tr": "Vardılar mı?",
+      "highlight": "Have they arrived"
+    },
+    {
+      "id": "ex-present-perfect-16",
+      "en": "Yes, I have.",
+      "tr": "Evet, gittim.",
+      "highlight": "Yes, I have",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-present-perfect-17",
+      "en": "No, she hasn't.",
+      "tr": "Hayır, yapmadı.",
+      "highlight": "No, she hasn't"
+    },
+    {
+      "id": "ex-present-perfect-18",
+      "en": "What have you done?",
+      "tr": "Ne yaptın?",
+      "highlight": "What have you done"
+    },
+    {
+      "id": "ex-present-perfect-19",
+      "en": "Where has he gone?",
+      "tr": "Nereye gitti?",
+      "highlight": "Where has he gone"
+    },
+    {
+      "id": "ex-present-perfect-20",
+      "en": "How long have you lived here?",
+      "tr": "Ne zamandır burada yaşıyorsun?",
+      "highlight": "How long have you lived"
+    },
+    {
+      "id": "ex-present-perfect-21",
+      "en": "I have never eaten sushi.",
+      "tr": "Hiç suşi yemedim.",
+      "highlight": "have never eaten",
+      "note": "never: hiç (olumsuz anlam)"
+    },
+    {
+      "id": "ex-present-perfect-22",
+      "en": "She has just arrived.",
+      "tr": "Az önce geldi.",
+      "highlight": "has just arrived",
+      "note": "just: az önce"
+    },
+    {
+      "id": "ex-present-perfect-23",
+      "en": "We have already eaten.",
+      "tr": "Zaten yedik.",
+      "highlight": "have already eaten",
+      "note": "already: zaten, çoktan"
+    },
+    {
+      "id": "ex-present-perfect-24",
+      "en": "Have you finished yet?",
+      "tr": "Bitirdin mi (henüz)?",
+      "highlight": "Have you finished yet",
+      "note": "yet: soru ve olumsuzda"
+    },
+    {
+      "id": "ex-present-perfect-25",
+      "en": "He has gone to Paris.",
+      "tr": "Paris'e gitti (şimdi orada).",
+      "highlight": "has gone",
+      "note": "gone: gitti, hâlâ orada"
+    },
+    {
+      "id": "ex-present-perfect-26",
+      "en": "He has been to Paris.",
+      "tr": "Paris'e gitti ve döndü (bulundu).",
+      "highlight": "has been",
+      "note": "been: gitti ve döndü"
+    },
+    {
+      "id": "ex-present-perfect-27",
+      "en": "I have done my homework.",
+      "tr": "Ödevimi yaptım.",
+      "highlight": "have done",
+      "note": "do → did → done"
+    },
+    {
+      "id": "ex-present-perfect-28",
+      "en": "She has made a cake.",
+      "tr": "Bir kek yaptı.",
+      "highlight": "has made",
+      "note": "make → made → made"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-present-perfect-01",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ that film.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has seen"
+        },
+        {
+          "id": "b",
+          "text": "have seen"
+        },
+        {
+          "id": "c",
+          "text": "has saw"
+        },
+        {
+          "id": "d",
+          "text": "is seen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has + V3.",
+      "optionExplanations": {
+        "b": "She ile has.",
+        "c": "Saw V2'dir; V3 seen.",
+        "d": "Is seen edilgendir."
+      },
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-02",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ visited Paris.",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "explanation": "I ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "I ile have."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-perfect-03",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ödevimizi bitirdik.",
+      "answer": [
+        "We",
+        "have",
+        "finished",
+        "our",
+        "homework"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "finish"
+      ],
+      "explanation": "have + V3",
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-present-perfect-04",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She have visited Paris.",
+      "errorSpan": "have",
+      "answers": [
+        "She has visited Paris."
+      ],
+      "explanation": "She ile has.",
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-perfect-05",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ödevimizi bitirdik.",
+      "hint": "bitirmek: finish",
+      "answers": [
+        "We have finished our homework.",
+        "We've finished our homework."
+      ],
+      "targetStructure": "have + V3",
+      "explanation": "Şimdiye etkisi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have finish our homework.",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-06",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ bought a new car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They ile have.",
+      "optionExplanations": {
+        "b": "They ile has kullanılmaz.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "Did kullanılmaz."
+      },
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-perfect-07",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ lost his keys.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He ile has.",
+      "optionExplanations": {
+        "b": "He ile have kullanılmaz.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "Does kullanılmaz."
+      },
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-perfect-08",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ sushi twice. (eat)",
+      "options": [
+        {
+          "id": "a",
+          "text": "eaten"
+        },
+        {
+          "id": "b",
+          "text": "ate"
+        },
+        {
+          "id": "c",
+          "text": "eat"
+        },
+        {
+          "id": "d",
+          "text": "eating"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: eaten.",
+      "optionExplanations": {
+        "b": "Ate V2'dir.",
+        "c": "Yalın fiil.",
+        "d": "-ing."
+      },
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-09",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has ___ three books. (write)",
+      "answers": [
+        "written"
+      ],
+      "explanation": "V3: written.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wrote",
+          "explanation": "Wrote V2'dir."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-10",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ my homework. (do)",
+      "answers": [
+        "done"
+      ],
+      "explanation": "V3: done.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Did V2'dir."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-11",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has ___ a cake. (make)",
+      "answers": [
+        "made"
+      ],
+      "explanation": "V3: made.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "maked",
+          "explanation": "Düzensiz: made."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-12",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ seen him today. (görmedim)",
+      "options": [
+        {
+          "id": "a",
+          "text": "haven't"
+        },
+        {
+          "id": "b",
+          "text": "hasn't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile haven't.",
+      "optionExplanations": {
+        "b": "I ile hasn't kullanılmaz.",
+        "c": "Didn't ile V3 gelmez.",
+        "d": "Don't kullanılmaz."
+      },
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-13",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ called me. (aramadı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hasn't"
+        },
+        {
+          "id": "b",
+          "text": "haven't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "doesn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile hasn't.",
+      "optionExplanations": {
+        "b": "She ile haven't.",
+        "c": "Didn't ile V3 gelmez.",
+        "d": "Doesn't kullanılmaz."
+      },
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-14",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have you ever been to London?"
+        },
+        {
+          "id": "b",
+          "text": "Did you ever been to London?"
+        },
+        {
+          "id": "c",
+          "text": "Are you ever been to London?"
+        },
+        {
+          "id": "d",
+          "text": "Have you ever be to London?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Have + özne + V3.",
+      "optionExplanations": {
+        "b": "Did ile V3 gelmez.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "V3: been."
+      },
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-15",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ she finished her work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Has"
+        },
+        {
+          "id": "b",
+          "text": "Have"
+        },
+        {
+          "id": "c",
+          "text": "Did"
+        },
+        {
+          "id": "d",
+          "text": "Is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has.",
+      "optionExplanations": {
+        "b": "She ile have.",
+        "c": "Did ile V3 gelmez.",
+        "d": "Is kullanılmaz."
+      },
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-16",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Biri Paris'e gitti ve hâlâ orada. Hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He has gone to Paris."
+        },
+        {
+          "id": "b",
+          "text": "He has been to Paris."
+        },
+        {
+          "id": "c",
+          "text": "He went to Paris."
+        },
+        {
+          "id": "d",
+          "text": "He was Paris."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gone: hâlâ orada.",
+      "optionExplanations": {
+        "b": "Been: gitti ve döndü.",
+        "c": "Past Simple; hâlâ orada olduğu belli olmaz.",
+        "d": "Biçim yanlış."
+      },
+      "tags": [
+        "present-perfect",
+        "gone-been"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-17",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Biri Paris'e gitti ve döndü. Hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He has been to Paris."
+        },
+        {
+          "id": "b",
+          "text": "He has gone to Paris."
+        },
+        {
+          "id": "c",
+          "text": "He has go to Paris."
+        },
+        {
+          "id": "d",
+          "text": "He has went to Paris."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Been: gitti ve döndü.",
+      "optionExplanations": {
+        "b": "Gone: hâlâ orada.",
+        "c": "V3 gerekir.",
+        "d": "Went V2'dir."
+      },
+      "tags": [
+        "present-perfect",
+        "gone-been"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-18",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ finished yet. (bitirmedik)",
+      "answers": [
+        "haven't",
+        "have not"
+      ],
+      "explanation": "We ile haven't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hasn't",
+          "explanation": "We ile haven't."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-19",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ called me. (aramadı)",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "explanation": "She ile hasn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "haven't",
+          "explanation": "She ile hasn't."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-20",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ they arrived?",
+      "answers": [
+        "Have"
+      ],
+      "explanation": "They ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Has",
+          "explanation": "They ile have."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-21",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she finished her work?",
+      "answers": [
+        "Has"
+      ],
+      "explanation": "She ile has.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Have",
+          "explanation": "She ile has."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-22",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you done?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "You ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "You ile have."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-23",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ he gone?",
+      "answers": [
+        "has"
+      ],
+      "explanation": "He ile has.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "He ile has."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-24",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "How long ___ you lived here?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "How long + have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Süre sorusu: Present Perfect."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-25",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He has ___ his keys. (lose)",
+      "answers": [
+        "lost"
+      ],
+      "explanation": "V3: lost.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "losed",
+          "explanation": "Düzensiz: lost."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-26",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have see that film.",
+      "errorSpan": "see",
+      "answers": [
+        "I have seen that film."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-27",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He have gone to Paris.",
+      "errorSpan": "have",
+      "answers": [
+        "He has gone to Paris."
+      ],
+      "explanation": "He ile has.",
+      "tags": [
+        "present-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-present-perfect-28",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you ever been to London?",
+      "errorSpan": "Did you ever been",
+      "answers": [
+        "Have you ever been to London?"
+      ],
+      "explanation": "Present Perfect.",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-present-perfect-29",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Has she finish her work?",
+      "errorSpan": "finish",
+      "answers": [
+        "Has she finished her work?"
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-30",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I haven't saw him.",
+      "errorSpan": "saw",
+      "answers": [
+        "I haven't seen him."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-31",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bugün onu görmedim.",
+      "answer": [
+        "I",
+        "haven't",
+        "seen",
+        "him",
+        "today"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "hasn't",
+        "saw"
+      ],
+      "explanation": "haven't + V3",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-32",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç Londra'ya gittin mi?",
+      "answer": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "London"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Did",
+        "went"
+      ],
+      "explanation": "Have + özne + V3",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-33",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İşini bitirdi mi?",
+      "answer": [
+        "Has",
+        "she",
+        "finished",
+        "her",
+        "work"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Have",
+        "finish"
+      ],
+      "explanation": "Has + özne + V3",
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-34",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç Londra'ya gittin mi?",
+      "hint": "gitmek (bulunmak): be",
+      "answers": [
+        "Have you ever been to London?"
+      ],
+      "targetStructure": "Have you ever + V3",
+      "explanation": "Deneyim sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you ever go to London?",
+          "explanation": "Deneyim için Present Perfect."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-35",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Henüz bitirmedik.",
+      "hint": "bitirmek: finish",
+      "answers": [
+        "We haven't finished yet."
+      ],
+      "targetStructure": "haven't + V3",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We didn't finish yet.",
+          "explanation": "Yet ile Present Perfect."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-present-perfect-36",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anahtarlarını kaybetti.",
+      "hint": "kaybetmek: lose",
+      "answers": [
+        "He has lost his keys.",
+        "She has lost her keys."
+      ],
+      "targetStructure": "has + V3",
+      "explanation": "Şimdiye etkisi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He has lose his keys.",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-present-perfect-37",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I saw him yesterday."
+        },
+        {
+          "id": "b",
+          "text": "I have seen him yesterday."
+        },
+        {
+          "id": "c",
+          "text": "I have saw him yesterday."
+        },
+        {
+          "id": "d",
+          "text": "I see him yesterday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yesterday ile Past Simple.",
+      "optionExplanations": {
+        "b": "Belirli zamanla Present Perfect kullanılmaz.",
+        "c": "Hem Present Perfect hem V2 hatalı.",
+        "d": "Geçmiş zaman gerekir."
+      },
+      "tags": [
+        "present-perfect",
+        "no-time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-perfect-38",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "We ___ here for ten years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have lived"
+        },
+        {
+          "id": "b",
+          "text": "lived"
+        },
+        {
+          "id": "c",
+          "text": "live"
+        },
+        {
+          "id": "d",
+          "text": "are living"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "For ile süren durum: Present Perfect.",
+      "optionExplanations": {
+        "b": "Past Simple artık yaşamadığını anlatır.",
+        "c": "Present Simple süreyi anlatmaz.",
+        "d": "Present Continuous geçici durumdur."
+      },
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-perfect-39",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "She has ___ arrived. (az önce)",
+      "options": [
+        {
+          "id": "a",
+          "text": "just"
+        },
+        {
+          "id": "b",
+          "text": "yesterday"
+        },
+        {
+          "id": "c",
+          "text": "ago"
+        },
+        {
+          "id": "d",
+          "text": "last"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Just: az önce.",
+      "optionExplanations": {
+        "b": "Yesterday ile Present Perfect gelmez.",
+        "c": "Ago ile Present Perfect gelmez.",
+        "d": "Last ile Present Perfect gelmez."
+      },
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-present-perfect-40",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I have ___ eaten sushi. (hiç)",
+      "answers": [
+        "never"
+      ],
+      "explanation": "Never: hiç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ever",
+          "explanation": "Ever soru ve olumsuzda; olumlu cümlede never."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-present-perfect-41",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "We have ___ eaten. (zaten)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already: zaten.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet soru ve olumsuzda."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-present-perfect-42",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Az önce geldi.",
+      "hint": "gelmek: arrive",
+      "answers": [
+        "She has just arrived.",
+        "He has just arrived.",
+        "She's just arrived.",
+        "He's just arrived."
+      ],
+      "targetStructure": "has just + V3",
+      "explanation": "Yeni haber.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She just arrived yesterday.",
+          "explanation": "Present Perfect ile just."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-present-perfect-43",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "On yıldır burada yaşıyoruz.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "We have lived here for ten years.",
+        "We've lived here for ten years."
+      ],
+      "targetStructure": "have + V3 + for",
+      "explanation": "Süren durum.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We lived here for ten years.",
+          "explanation": "Hâlâ yaşıyorsanız Present Perfect."
+        }
+      ],
+      "tags": [
+        "present-perfect",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-perfect-44",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have seen him yesterday.",
+      "errorSpan": "have seen",
+      "answers": [
+        "I saw him yesterday.",
+        "I have seen him."
+      ],
+      "explanation": "Yesterday ile Past Simple.",
+      "tags": [
+        "present-perfect",
+        "no-time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-present-perfect-45",
+      "lessonId": "a2-present-perfect",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have went to Spain.",
+      "errorSpan": "went",
+      "answers": [
+        "I have been to Spain.",
+        "I went to Spain."
+      ],
+      "explanation": "V3: been; went Past Simple.",
+      "tags": [
+        "present-perfect",
+        "v3"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-present-perfect",
+    "title": "Present Perfect: Konu sonu sınavı",
+    "description": "Present Perfect yapısı ve kullanımı.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-present-perfect-exam-01",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ visited Paris.",
+        "options": [
+          {
+            "id": "a",
+            "text": "has"
+          },
+          {
+            "id": "b",
+            "text": "have"
+          },
+          {
+            "id": "c",
+            "text": "is"
+          },
+          {
+            "id": "d",
+            "text": "does"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "He ile has.",
+        "optionExplanations": {
+          "b": "He ile have.",
+          "c": "Be fiili.",
+          "d": "Does."
+        },
+        "tags": [
+          "present-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-02",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They have ___ a new car. (buy)",
+        "answers": [
+          "bought"
+        ],
+        "explanation": "V3: bought.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "buyed",
+            "explanation": "Düzensiz: bought."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "v3"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-03",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Üç kitap yazdı.",
+        "answer": [
+          "She",
+          "has",
+          "written",
+          "three",
+          "books"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "have",
+          "wrote"
+        ],
+        "explanation": "has + V3",
+        "tags": [
+          "present-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-04",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have see him.",
+        "errorSpan": "see",
+        "answers": [
+          "I have seen him."
+        ],
+        "explanation": "V3.",
+        "tags": [
+          "present-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-05",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İki kez suşi yedim.",
+        "hint": "yemek: eat",
+        "answers": [
+          "I've eaten sushi twice.",
+          "I have eaten sushi twice."
+        ],
+        "targetStructure": "have + V3",
+        "explanation": "Deneyim.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have ate sushi twice.",
+            "explanation": "V3: eaten."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-06",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ eaten yet. (yemedi)",
+        "options": [
+          {
+            "id": "a",
+            "text": "hasn't"
+          },
+          {
+            "id": "b",
+            "text": "haven't"
+          },
+          {
+            "id": "c",
+            "text": "didn't"
+          },
+          {
+            "id": "d",
+            "text": "doesn't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "She ile hasn't.",
+        "optionExplanations": {
+          "b": "She ile haven't.",
+          "c": "Didn't ile V3 gelmez.",
+          "d": "Doesn't."
+        },
+        "tags": [
+          "present-perfect",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-07",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you ever been to London?",
+        "answers": [
+          "Have"
+        ],
+        "explanation": "You ile have.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did",
+            "explanation": "Present Perfect."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "negative"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-08",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nereye gitti?",
+        "answer": [
+          "Where",
+          "has",
+          "he",
+          "gone"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "have",
+          "went"
+        ],
+        "explanation": "Wh + has + V3",
+        "tags": [
+          "present-perfect",
+          "negative"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-09",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She have gone.",
+        "errorSpan": "have",
+        "answers": [
+          "She has gone."
+        ],
+        "explanation": "She ile has.",
+        "tags": [
+          "present-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-10",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ne zamandır burada yaşıyorsun?",
+        "hint": "yaşamak: live",
+        "answers": [
+          "How long have you lived here?"
+        ],
+        "targetStructure": "How long have you + V3",
+        "explanation": "Süre.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "How long did you live here?",
+            "explanation": "Süren durum Present Perfect."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "uses"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-11",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We watched it last week."
+          },
+          {
+            "id": "b",
+            "text": "We have watched it last week."
+          },
+          {
+            "id": "c",
+            "text": "We have watch it last week."
+          },
+          {
+            "id": "d",
+            "text": "We watch it last week."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yesterday ile Past Simple.",
+        "optionExplanations": {
+          "b": "Belirli zaman ile Present Perfect gelmez.",
+          "c": "Hatalı.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "present-perfect",
+          "no-time"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-12",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She has ___ arrived. (az önce)",
+        "answers": [
+          "just"
+        ],
+        "explanation": "Just.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "yesterday",
+            "explanation": "Present Perfect ile gelmez."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "uses"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-13",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Has he finish his homework?",
+        "errorSpan": "finish",
+        "answers": [
+          "Has he finished his homework?"
+        ],
+        "explanation": "V3.",
+        "tags": [
+          "present-perfect",
+          "negative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-14",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Paris'e gitti ve döndü: ",
+        "options": [
+          {
+            "id": "a",
+            "text": "He has been to Paris."
+          },
+          {
+            "id": "b",
+            "text": "He has gone to Paris."
+          },
+          {
+            "id": "c",
+            "text": "He has go to Paris."
+          },
+          {
+            "id": "d",
+            "text": "He has went to Paris."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Been.",
+        "optionExplanations": {
+          "b": "Gone: hâlâ orada.",
+          "c": "V3.",
+          "d": "V2."
+        },
+        "tags": [
+          "present-perfect",
+          "gone-been"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-15",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "We have lived here ___ ten years.",
+        "answers": [
+          "for"
+        ],
+        "explanation": "For + süre.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "since",
+            "explanation": "Since başlangıç noktası ile."
+          }
+        ],
+        "tags": [
+          "present-perfect",
+          "uses"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-present-perfect-exam-16",
+        "lessonId": "a2-present-perfect",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Henüz bitirmedik.",
+        "answer": [
+          "We",
+          "haven't",
+          "finished",
+          "yet"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "hasn't",
+          "finish"
+        ],
+        "explanation": "haven't + V3 + yet",
+        "tags": [
+          "present-perfect",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      }
+    ]
+  }
+}
