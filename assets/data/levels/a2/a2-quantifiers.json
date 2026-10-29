@@ -1,0 +1,2332 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-quantifiers",
+  "levelId": "a2",
+  "title": "Much, Many, A Lot Of, A Few, A Little",
+  "objectives": [
+    "Sayılabilen ve sayılamayan isimler için doğru miktar sözcüğünü seçmek",
+    "Much / many ve a lot of kullanımını ayırt etmek",
+    "A few / a little ile few / little farkını anlamak",
+    "How much / how many ile miktar sormak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Miktar sözcükleri",
+      "paragraphs": [
+        "Miktar sözcükleri (quantifiers), bir şeyin ne kadar olduğunu söyler: çok, az, birkaç, biraz. Doğru sözcüğü seçmek için ismin sayılabilen mi yoksa sayılamayan mı olduğuna bakmalısın.",
+        "Sayılabilen isimlerle many, a few, few; sayılamayan isimlerle much, a little, little kullanılır. A lot of ve lots of ise her ikisiyle de kullanılabilir."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "forms",
+      "title": "Hangi sözcük hangi isimle?",
+      "forms": [
+        {
+          "label": "Sayılabilen (çoğul)",
+          "formula": "many,  a few,  few,  a lot of",
+          "exampleIds": [
+            "ex-quantifiers-08",
+            "ex-quantifiers-14",
+            "ex-quantifiers-20",
+            "ex-quantifiers-01"
+          ],
+          "note": "friends, books, eggs, chairs"
+        },
+        {
+          "label": "Sayılamayan",
+          "formula": "much,  a little,  little,  a lot of",
+          "exampleIds": [
+            "ex-quantifiers-11",
+            "ex-quantifiers-17",
+            "ex-quantifiers-22",
+            "ex-quantifiers-02"
+          ],
+          "note": "water, time, money, milk"
+        }
+      ]
+    },
+    {
+      "id": "alot",
+      "type": "rule",
+      "title": "A lot of / lots of",
+      "paragraphs": [
+        "A lot of, hem sayılabilen hem sayılamayan isimlerle kullanılır ve özellikle olumlu cümlelerde tercih edilir. Konuşmada lots of aynı anlamdadır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "a lot of / lots of + isim",
+          "exampleIds": [
+            "ex-quantifiers-01",
+            "ex-quantifiers-02",
+            "ex-quantifiers-03",
+            "ex-quantifiers-25"
+          ]
+        },
+        {
+          "label": "Zarf",
+          "pattern": "fiil + a lot",
+          "exampleIds": [
+            "ex-quantifiers-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manymuch",
+      "type": "rule",
+      "title": "Many ve much",
+      "paragraphs": [
+        "Many çoğul sayılabilen isimlerle, much sayılamayan isimlerle kullanılır. Genellikle olumsuz cümle ve sorularda gelirler. How many / how much ile miktar sorulur."
+      ],
+      "formulas": [
+        {
+          "label": "How many",
+          "pattern": "How many + çoğul isim + …?",
+          "exampleIds": [
+            "ex-quantifiers-04",
+            "ex-quantifiers-05"
+          ]
+        },
+        {
+          "label": "How much",
+          "pattern": "How much + sayılamayan isim + …?",
+          "exampleIds": [
+            "ex-quantifiers-06",
+            "ex-quantifiers-07"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "not many + çoğul isim;  not much + sayılamayan isim",
+          "exampleIds": [
+            "ex-quantifiers-08",
+            "ex-quantifiers-09",
+            "ex-quantifiers-11",
+            "ex-quantifiers-12"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do you have many … ?   Is there much … ?",
+          "exampleIds": [
+            "ex-quantifiers-10",
+            "ex-quantifiers-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fewlittle",
+      "type": "rule",
+      "title": "A few / a little ve few / little",
+      "paragraphs": [
+        "A few ve a little olumlu anlam taşır: “birkaç, biraz; yeterli”. Few ve little ise olumsuz anlam taşır: “çok az, neredeyse hiç; yetersiz”. A olduğunda olumlu, a olmadığında olumsuz."
+      ],
+      "formulas": [
+        {
+          "label": "A few",
+          "pattern": "a few + çoğul isim (birkaç)",
+          "exampleIds": [
+            "ex-quantifiers-14",
+            "ex-quantifiers-15",
+            "ex-quantifiers-16"
+          ]
+        },
+        {
+          "label": "A little",
+          "pattern": "a little + sayılamayan isim (biraz)",
+          "exampleIds": [
+            "ex-quantifiers-17",
+            "ex-quantifiers-18",
+            "ex-quantifiers-19"
+          ]
+        },
+        {
+          "label": "Few",
+          "pattern": "few + çoğul isim (çok az)",
+          "exampleIds": [
+            "ex-quantifiers-20",
+            "ex-quantifiers-21"
+          ]
+        },
+        {
+          "label": "Little",
+          "pattern": "little + sayılamayan isim (çok az)",
+          "exampleIds": [
+            "ex-quantifiers-22",
+            "ex-quantifiers-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "type": "forms",
+      "title": "A few ve few farkı",
+      "forms": [
+        {
+          "label": "a few friends",
+          "formula": "birkaç arkadaş (yeterli, olumlu)",
+          "exampleIds": [
+            "ex-quantifiers-14"
+          ],
+          "note": "I have a few friends. Yalnız değilim."
+        },
+        {
+          "label": "few friends",
+          "formula": "çok az arkadaş (yetersiz, olumsuz)",
+          "exampleIds": [
+            "ex-quantifiers-20"
+          ],
+          "note": "I have few friends. Yalnızım."
+        },
+        {
+          "label": "a little time",
+          "formula": "biraz zaman (yeterli)",
+          "exampleIds": [
+            "ex-quantifiers-17"
+          ],
+          "note": "I have a little time. Yardım edebilirim."
+        },
+        {
+          "label": "little time",
+          "formula": "çok az zaman (yetersiz)",
+          "exampleIds": [
+            "ex-quantifiers-22"
+          ],
+          "note": "I have little time. Acele etmeliyim."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: a lot of, many, much",
+      "exampleIds": [
+        "ex-quantifiers-01",
+        "ex-quantifiers-02",
+        "ex-quantifiers-03",
+        "ex-quantifiers-04",
+        "ex-quantifiers-05",
+        "ex-quantifiers-06",
+        "ex-quantifiers-07",
+        "ex-quantifiers-08",
+        "ex-quantifiers-09",
+        "ex-quantifiers-10",
+        "ex-quantifiers-11",
+        "ex-quantifiers-12",
+        "ex-quantifiers-13",
+        "ex-quantifiers-25",
+        "ex-quantifiers-26"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: a few, a little, few, little",
+      "exampleIds": [
+        "ex-quantifiers-14",
+        "ex-quantifiers-15",
+        "ex-quantifiers-16",
+        "ex-quantifiers-17",
+        "ex-quantifiers-18",
+        "ex-quantifiers-19",
+        "ex-quantifiers-20",
+        "ex-quantifiers-21",
+        "ex-quantifiers-22",
+        "ex-quantifiers-23",
+        "ex-quantifiers-24",
+        "ex-quantifiers-27",
+        "ex-quantifiers-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "How much books do you have?",
+          "right": "How many books do you have?",
+          "explanation": "Books sayılabilir: how many."
+        },
+        {
+          "wrong": "How many money do you have?",
+          "right": "How much money do you have?",
+          "explanation": "Money sayılamaz: how much."
+        },
+        {
+          "wrong": "I don't have many time.",
+          "right": "I don't have much time.",
+          "explanation": "Time sayılamaz: much."
+        },
+        {
+          "wrong": "I have a few time.",
+          "right": "I have a little time.",
+          "explanation": "Time sayılamaz: a little."
+        },
+        {
+          "wrong": "I have a little friends.",
+          "right": "I have a few friends.",
+          "explanation": "Friends sayılabilir: a few."
+        },
+        {
+          "wrong": "I have much friends.",
+          "right": "I have a lot of friends.",
+          "explanation": "Olumlu cümlede much yerine a lot of."
+        },
+        {
+          "wrong": "She drinks many water.",
+          "right": "She drinks a lot of water.",
+          "explanation": "Water sayılamaz; olumluda a lot of."
+        },
+        {
+          "wrong": "There are a few water.",
+          "right": "There is a little water.",
+          "explanation": "Water sayılamaz: a little."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Some ve any",
+          "body": "Belirsiz miktar bildiren some / any de sayılabilen ve sayılamayanla kullanılır.",
+          "lessonId": "a1-countable-some-any"
+        },
+        {
+          "topic": "Too ve enough",
+          "body": "Çok fazla (too many) ve yeterli (enough) ayrı bir derstir.",
+          "lessonId": "a2-too-enough"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Sayılabilen: many, a few, few. Sayılamayan: much, a little, little.",
+        "Olumlu cümlede much ve many yerine genellikle a lot of kullan.",
+        "A few / a little olumlu (yeterli); few / little olumsuz (yetersiz).",
+        "A lot of her iki isim türüyle kullanılır.",
+        "How many (sayılabilen) ve how much (sayılamayan) ile miktar sor."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-quantifiers-01",
+        "q-quantifiers-02",
+        "q-quantifiers-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-quantifiers-01",
+      "en": "I have a lot of friends.",
+      "tr": "Çok arkadaşım var.",
+      "highlight": "a lot of",
+      "note": "a lot of: olumluda, her ikisiyle"
+    },
+    {
+      "id": "ex-quantifiers-02",
+      "en": "She drinks a lot of water.",
+      "tr": "Çok su içer.",
+      "highlight": "a lot of"
+    },
+    {
+      "id": "ex-quantifiers-03",
+      "en": "There is a lot of traffic.",
+      "tr": "Çok trafik var.",
+      "highlight": "a lot of"
+    },
+    {
+      "id": "ex-quantifiers-04",
+      "en": "How many books do you have?",
+      "tr": "Kaç kitabın var?",
+      "highlight": "How many",
+      "note": "How many + çoğul sayılabilen"
+    },
+    {
+      "id": "ex-quantifiers-05",
+      "en": "How many students are there?",
+      "tr": "Kaç öğrenci var?",
+      "highlight": "How many"
+    },
+    {
+      "id": "ex-quantifiers-06",
+      "en": "How much milk do we need?",
+      "tr": "Ne kadar süte ihtiyacımız var?",
+      "highlight": "How much",
+      "note": "How much + sayılamayan"
+    },
+    {
+      "id": "ex-quantifiers-07",
+      "en": "How much money do you have?",
+      "tr": "Ne kadar paran var?",
+      "highlight": "How much"
+    },
+    {
+      "id": "ex-quantifiers-08",
+      "en": "I don't have many friends.",
+      "tr": "Fazla arkadaşım yok.",
+      "highlight": "many",
+      "note": "many: olumsuzda, sayılabilen"
+    },
+    {
+      "id": "ex-quantifiers-09",
+      "en": "There aren't many people here.",
+      "tr": "Burada fazla insan yok.",
+      "highlight": "many"
+    },
+    {
+      "id": "ex-quantifiers-10",
+      "en": "Do you have many books?",
+      "tr": "Çok kitabın var mı?",
+      "highlight": "many"
+    },
+    {
+      "id": "ex-quantifiers-11",
+      "en": "I don't have much time.",
+      "tr": "Fazla zamanım yok.",
+      "highlight": "much",
+      "note": "much: olumsuzda, sayılamayan"
+    },
+    {
+      "id": "ex-quantifiers-12",
+      "en": "We don't have much money.",
+      "tr": "Fazla paramız yok.",
+      "highlight": "much"
+    },
+    {
+      "id": "ex-quantifiers-13",
+      "en": "Is there much traffic?",
+      "tr": "Çok trafik var mı?",
+      "highlight": "much"
+    },
+    {
+      "id": "ex-quantifiers-14",
+      "en": "I have a few friends in London.",
+      "tr": "Londra'da birkaç arkadaşım var.",
+      "highlight": "a few",
+      "note": "a few: birkaç (yeterli), sayılabilen"
+    },
+    {
+      "id": "ex-quantifiers-15",
+      "en": "We need a few eggs.",
+      "tr": "Birkaç yumurtaya ihtiyacımız var.",
+      "highlight": "a few"
+    },
+    {
+      "id": "ex-quantifiers-16",
+      "en": "There are a few chairs in the room.",
+      "tr": "Odada birkaç sandalye var.",
+      "highlight": "a few"
+    },
+    {
+      "id": "ex-quantifiers-17",
+      "en": "I have a little time.",
+      "tr": "Biraz zamanım var.",
+      "highlight": "a little",
+      "note": "a little: biraz (yeterli), sayılamayan"
+    },
+    {
+      "id": "ex-quantifiers-18",
+      "en": "Can I have a little milk?",
+      "tr": "Biraz süt alabilir miyim?",
+      "highlight": "a little"
+    },
+    {
+      "id": "ex-quantifiers-19",
+      "en": "She speaks a little English.",
+      "tr": "Biraz İngilizce konuşur.",
+      "highlight": "a little"
+    },
+    {
+      "id": "ex-quantifiers-20",
+      "en": "I have few friends.",
+      "tr": "Neredeyse hiç arkadaşım yok.",
+      "highlight": "few",
+      "note": "few: çok az (yetersiz), sayılabilen"
+    },
+    {
+      "id": "ex-quantifiers-21",
+      "en": "There are few people here.",
+      "tr": "Burada çok az insan var.",
+      "highlight": "few"
+    },
+    {
+      "id": "ex-quantifiers-22",
+      "en": "I have little time.",
+      "tr": "Çok az zamanım var.",
+      "highlight": "little",
+      "note": "little: çok az (yetersiz), sayılamayan"
+    },
+    {
+      "id": "ex-quantifiers-23",
+      "en": "We have little money.",
+      "tr": "Çok az paramız var.",
+      "highlight": "little"
+    },
+    {
+      "id": "ex-quantifiers-24",
+      "en": "There are some apples, but not many.",
+      "tr": "Birkaç elma var ama çok değil.",
+      "highlight": "not many"
+    },
+    {
+      "id": "ex-quantifiers-25",
+      "en": "She has lots of toys.",
+      "tr": "Bir sürü oyuncağı var.",
+      "highlight": "lots of",
+      "note": "lots of = a lot of"
+    },
+    {
+      "id": "ex-quantifiers-26",
+      "en": "He eats a lot.",
+      "tr": "Çok yer.",
+      "highlight": "a lot",
+      "note": "a lot: fiilin sonunda zarf"
+    },
+    {
+      "id": "ex-quantifiers-27",
+      "en": "Too many people were there.",
+      "tr": "Orada çok fazla insan vardı.",
+      "highlight": "Too many"
+    },
+    {
+      "id": "ex-quantifiers-28",
+      "en": "I have enough time.",
+      "tr": "Yeterli zamanım var.",
+      "highlight": "enough"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-quantifiers-01",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "How ___ books do you have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Books sayılabilir: many.",
+      "optionExplanations": {
+        "b": "Much sayılamayanla.",
+        "c": "A little sayılamayanla.",
+        "d": "Few olumsuz anlamlıdır, soruda kullanılmaz."
+      },
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-02",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "How ___ money do you have?",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Money sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Many sayılabilenle."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-03",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne kadar paran var?",
+      "answer": [
+        "How",
+        "much",
+        "money",
+        "do",
+        "you",
+        "have"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "many",
+        "does"
+      ],
+      "explanation": "How much + sayılamayan",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-04",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "How much books do you have?",
+      "errorSpan": "How much",
+      "answers": [
+        "How many books do you have?"
+      ],
+      "explanation": "Books sayılabilir: how many.",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-05",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kaç kitabın var?",
+      "hint": "kitap: book",
+      "answers": [
+        "How many books do you have?",
+        "How many books have you got?"
+      ],
+      "targetStructure": "How many",
+      "explanation": "Sayılabilen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How much books do you have?",
+          "explanation": "Books sayılabilir: how many."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-06",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ friends in London. (birkaç)",
+      "options": [
+        {
+          "id": "a",
+          "text": "a few"
+        },
+        {
+          "id": "b",
+          "text": "a little"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sayılabilen: a few.",
+      "optionExplanations": {
+        "b": "A little sayılamayanla.",
+        "c": "Much sayılamayanla.",
+        "d": "Little sayılamayanla."
+      },
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-07",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Can I have ___ milk? (biraz)",
+      "options": [
+        {
+          "id": "a",
+          "text": "a little"
+        },
+        {
+          "id": "b",
+          "text": "a few"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sayılamayan: a little.",
+      "optionExplanations": {
+        "b": "A few sayılabilenle.",
+        "c": "Many sayılabilenle.",
+        "d": "Few sayılabilenle."
+      },
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-08",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She has ___ toys. (bir sürü)",
+      "options": [
+        {
+          "id": "a",
+          "text": "a lot of"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "a few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A lot of: olumlu.",
+      "optionExplanations": {
+        "b": "Much olumlu cümlede genellikle kullanılmaz.",
+        "c": "A little sayılamayanla.",
+        "d": "A few az anlamlıdır."
+      },
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-quantifiers-09",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There are ___ chairs in the room. (birkaç)",
+      "answers": [
+        "a few"
+      ],
+      "explanation": "Sayılabilen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a little",
+          "explanation": "Chairs sayılabilir."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-10",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She speaks ___ English. (biraz)",
+      "answers": [
+        "a little"
+      ],
+      "explanation": "Sayılamayan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a few",
+          "explanation": "English sayılamaz."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-11",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ of friends. (çok)",
+      "answers": [
+        "a lot",
+        "lots"
+      ],
+      "explanation": "A lot of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "much",
+          "explanation": "A lot of kalıbı."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-quantifiers-12",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I don't have ___ time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Time sayılamaz: much.",
+      "optionExplanations": {
+        "b": "Many sayılabilenle.",
+        "c": "A few sayılabilenle.",
+        "d": "Few sayılabilenle."
+      },
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-13",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "There aren't ___ people here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "People sayılabilir: many.",
+      "optionExplanations": {
+        "b": "Much sayılamayanla.",
+        "c": "A little sayılamayanla.",
+        "d": "Little sayılamayanla."
+      },
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-14",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Do you have ___ homework?",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Homework sayılamaz: much.",
+      "optionExplanations": {
+        "b": "Many sayılabilenle.",
+        "c": "A few sayılabilenle.",
+        "d": "Few sayılabilenle."
+      },
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-15",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How ___ students are there?",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "little"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Students sayılabilir.",
+      "optionExplanations": {
+        "b": "Much sayılamayanla.",
+        "c": "Little sayılamayanla.",
+        "d": "A little sayılamayanla."
+      },
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-16",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have a few friends."
+        },
+        {
+          "id": "b",
+          "text": "I have a little friends."
+        },
+        {
+          "id": "c",
+          "text": "I have a few time."
+        },
+        {
+          "id": "d",
+          "text": "I have much friends."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A few + sayılabilen.",
+      "optionExplanations": {
+        "b": "Friends sayılabilir.",
+        "c": "Time sayılamaz.",
+        "d": "Much olumlu cümlede kullanılmaz."
+      },
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-17",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She drinks a lot of water."
+        },
+        {
+          "id": "b",
+          "text": "She drinks many water."
+        },
+        {
+          "id": "c",
+          "text": "She drinks a few water."
+        },
+        {
+          "id": "d",
+          "text": "She drinks much waters."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A lot of her ikisiyle.",
+      "optionExplanations": {
+        "b": "Water sayılamaz.",
+        "c": "A few sayılabilenle.",
+        "d": "Water çoğul olmaz."
+      },
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-18",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We don't have ___ money. (fazla)",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Money sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Many sayılabilenle."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-19",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There aren't ___ people here. (fazla)",
+      "answers": [
+        "many"
+      ],
+      "explanation": "People sayılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "much",
+          "explanation": "Much sayılamayanla."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-20",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Is there ___ traffic? (çok)",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Traffic sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Many sayılabilenle."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-21",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We need ___ eggs. (birkaç)",
+      "answers": [
+        "a few"
+      ],
+      "explanation": "Eggs sayılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a little",
+          "explanation": "Eggs sayılabilir."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-22",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have ___ time. (biraz)",
+      "answers": [
+        "a little"
+      ],
+      "explanation": "Time sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a few",
+          "explanation": "Time sayılamaz."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-23",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have ___ friends. (çok az, yalnızım)",
+      "answers": [
+        "few"
+      ],
+      "explanation": "Few: çok az.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a few",
+          "explanation": "A few olumlu anlamlıdır."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-24",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We have ___ money. (çok az, yetersiz)",
+      "answers": [
+        "little"
+      ],
+      "explanation": "Little: çok az.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a little",
+          "explanation": "A little olumlu anlamlıdır."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-25",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She has ___ of toys. (bir sürü)",
+      "answers": [
+        "lots",
+        "a lot"
+      ],
+      "explanation": "Lots of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "much",
+          "explanation": "Lots of kalıbı."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-quantifiers-26",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "How many money do you have?",
+      "errorSpan": "How many",
+      "answers": [
+        "How much money do you have?"
+      ],
+      "explanation": "Money sayılamaz.",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-27",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't have many time.",
+      "errorSpan": "many",
+      "answers": [
+        "I don't have much time."
+      ],
+      "explanation": "Time sayılamaz.",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-28",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have a little friends.",
+      "errorSpan": "a little",
+      "answers": [
+        "I have a few friends."
+      ],
+      "explanation": "Friends sayılabilir.",
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-29",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have much friends.",
+      "errorSpan": "much",
+      "answers": [
+        "I have a lot of friends.",
+        "I have lots of friends.",
+        "I have many friends."
+      ],
+      "explanation": "Olumluda a lot of.",
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-30",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She drinks many water.",
+      "errorSpan": "many",
+      "answers": [
+        "She drinks a lot of water.",
+        "She drinks lots of water.",
+        "She drinks much water."
+      ],
+      "explanation": "Water sayılamaz.",
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-31",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Fazla zamanım yok.",
+      "answer": [
+        "I",
+        "don't",
+        "have",
+        "much",
+        "time"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "many",
+        "a few"
+      ],
+      "explanation": "not much + sayılamayan",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-quantifiers-32",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Birkaç yumurtaya ihtiyacımız var.",
+      "answer": [
+        "We",
+        "need",
+        "a",
+        "few",
+        "eggs"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "little",
+        "much"
+      ],
+      "explanation": "a few + sayılabilen",
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-33",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Biraz süt alabilir miyim?",
+      "answer": [
+        "Can",
+        "I",
+        "have",
+        "a",
+        "little",
+        "milk"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "few",
+        "many"
+      ],
+      "explanation": "a little + sayılamayan",
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-34",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Fazla zamanım yok.",
+      "hint": "zaman: time",
+      "answers": [
+        "I don't have much time.",
+        "I haven't got much time."
+      ],
+      "targetStructure": "not much",
+      "explanation": "Sayılamayan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't have many time.",
+          "explanation": "Time sayılamaz."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-35",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Birkaç yumurtaya ihtiyacımız var.",
+      "hint": "yumurta: egg",
+      "answers": [
+        "We need a few eggs."
+      ],
+      "targetStructure": "a few",
+      "explanation": "Sayılabilen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We need a little eggs.",
+          "explanation": "Eggs sayılabilir."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-36",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne kadar süte ihtiyacımız var?",
+      "hint": "süt: milk",
+      "answers": [
+        "How much milk do we need?"
+      ],
+      "targetStructure": "How much",
+      "explanation": "Sayılamayan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How many milk do we need?",
+          "explanation": "Milk sayılamaz."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-37",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Yalnız bir insan söylüyor: 'I have ___ friends.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "few"
+        },
+        {
+          "id": "b",
+          "text": "a few"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Few: çok az, olumsuz.",
+      "optionExplanations": {
+        "b": "A few olumlu: yeterince arkadaş var.",
+        "c": "A little sayılamayanla.",
+        "d": "Much sayılamayanla."
+      },
+      "tags": [
+        "quantifiers",
+        "compare"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-38",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'I have a few friends.' hangisini anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Birkaç arkadaşım var; yalnız değilim."
+        },
+        {
+          "id": "b",
+          "text": "Hiç arkadaşım yok."
+        },
+        {
+          "id": "c",
+          "text": "Çok az arkadaşım var; yalnızım."
+        },
+        {
+          "id": "d",
+          "text": "Çok arkadaşım var."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "A few: olumlu.",
+      "optionExplanations": {
+        "b": "Hiç demek değildir.",
+        "c": "Few ile söylenirdi.",
+        "d": "A lot of ile söylenirdi."
+      },
+      "tags": [
+        "quantifiers",
+        "compare"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-39",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is a little water."
+        },
+        {
+          "id": "b",
+          "text": "There are a little water."
+        },
+        {
+          "id": "c",
+          "text": "There is a few water."
+        },
+        {
+          "id": "d",
+          "text": "There are a few water."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Water sayılamaz: a little.",
+      "optionExplanations": {
+        "b": "Water ile is kullanılır.",
+        "c": "A few sayılabilenle.",
+        "d": "A few ve are sayılamayanla uyumsuz."
+      },
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-quantifiers-40",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I have ___ time. I can't help you. (çok az)",
+      "answers": [
+        "little"
+      ],
+      "explanation": "Little: çok az.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a little",
+          "explanation": "A little olumlu anlamlıdır."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "compare"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-41",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She has ___ friends. She is lonely. (çok az)",
+      "answers": [
+        "few"
+      ],
+      "explanation": "Few.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a few",
+          "explanation": "A few olumlu anlamlıdır."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "compare"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-42",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir sürü oyuncağı var.",
+      "hint": "oyuncak: toy",
+      "answers": [
+        "She has lots of toys.",
+        "She has a lot of toys.",
+        "He has lots of toys.",
+        "He has a lot of toys."
+      ],
+      "targetStructure": "lots of",
+      "explanation": "Olumlu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has much toys.",
+          "explanation": "Toys sayılabilir; olumluda a lot of."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "alot"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-43",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok az paramız var.",
+      "hint": "para: money",
+      "answers": [
+        "We have little money."
+      ],
+      "targetStructure": "little",
+      "explanation": "Çok az.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have a little money.",
+          "explanation": "A little olumlu anlamlıdır."
+        }
+      ],
+      "tags": [
+        "quantifiers",
+        "compare"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-quantifiers-44",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There are a few water.",
+      "errorSpan": "are a few",
+      "answers": [
+        "There is a little water."
+      ],
+      "explanation": "Water sayılamaz.",
+      "tags": [
+        "quantifiers",
+        "fewlittle"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-quantifiers-45",
+      "lessonId": "a2-quantifiers",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "How much people are there?",
+      "errorSpan": "How much",
+      "answers": [
+        "How many people are there?"
+      ],
+      "explanation": "People sayılabilir.",
+      "tags": [
+        "quantifiers",
+        "manymuch"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-quantifiers",
+    "title": "Miktar sözcükleri: Konu sonu sınavı",
+    "description": "Much, many, a lot of, a few, a little, few, little.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-quantifiers-exam-01",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "How ___ students are there?",
+        "options": [
+          {
+            "id": "a",
+            "text": "many"
+          },
+          {
+            "id": "b",
+            "text": "much"
+          },
+          {
+            "id": "c",
+            "text": "a little"
+          },
+          {
+            "id": "d",
+            "text": "little"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Students sayılabilir.",
+        "optionExplanations": {
+          "b": "Much sayılamayanla.",
+          "c": "A little sayılamayanla.",
+          "d": "Little sayılamayanla."
+        },
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-02",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "How ___ milk do we need?",
+        "answers": [
+          "much"
+        ],
+        "explanation": "Milk sayılamaz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "Many sayılabilenle."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-03",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kaç kitabın var?",
+        "answer": [
+          "How",
+          "many",
+          "books",
+          "do",
+          "you",
+          "have"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "much",
+          "does"
+        ],
+        "explanation": "How many + sayılabilen",
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-04",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "How many water do you drink?",
+        "errorSpan": "How many",
+        "answers": [
+          "How much water do you drink?"
+        ],
+        "explanation": "Water sayılamaz.",
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-05",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biraz İngilizce konuşur.",
+        "hint": "konuşmak: speak",
+        "answers": [
+          "She speaks a little English.",
+          "He speaks a little English."
+        ],
+        "targetStructure": "a little",
+        "explanation": "Sayılamayan.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She speaks a few English.",
+            "explanation": "English sayılamaz."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "fewlittle"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-06",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We bought ___ apples. (birkaç)",
+        "options": [
+          {
+            "id": "a",
+            "text": "a few"
+          },
+          {
+            "id": "b",
+            "text": "a little"
+          },
+          {
+            "id": "c",
+            "text": "much"
+          },
+          {
+            "id": "d",
+            "text": "little"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sayılabilen: a few.",
+        "optionExplanations": {
+          "b": "Sayılamayanla.",
+          "c": "Sayılamayanla.",
+          "d": "Sayılamayanla."
+        },
+        "tags": [
+          "quantifiers",
+          "fewlittle"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-07",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I don't have ___ time.",
+        "answers": [
+          "much"
+        ],
+        "explanation": "Time sayılamaz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "Many sayılabilenle."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-08",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Odada birkaç sandalye var.",
+        "answer": [
+          "There",
+          "are",
+          "a",
+          "few",
+          "chairs",
+          "in",
+          "the",
+          "room"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "little"
+        ],
+        "explanation": "a few + sayılabilen",
+        "tags": [
+          "quantifiers",
+          "fewlittle"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-09",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have a few time.",
+        "errorSpan": "a few",
+        "answers": [
+          "I have a little time."
+        ],
+        "explanation": "Time sayılamaz.",
+        "tags": [
+          "quantifiers",
+          "fewlittle"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-10",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Fazla arkadaşım yok.",
+        "hint": "arkadaş: friend",
+        "answers": [
+          "I don't have many friends."
+        ],
+        "targetStructure": "not many",
+        "explanation": "Sayılabilen.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I don't have much friends.",
+            "explanation": "Friends sayılabilir."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-11",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She has a lot of friends."
+          },
+          {
+            "id": "b",
+            "text": "She has much friends."
+          },
+          {
+            "id": "c",
+            "text": "She has a little friends."
+          },
+          {
+            "id": "d",
+            "text": "She has many friend."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "A lot of olumluda.",
+        "optionExplanations": {
+          "b": "Much olumlu cümlede kullanılmaz.",
+          "c": "A little sayılamayanla.",
+          "d": "Many çoğul isimle."
+        },
+        "tags": [
+          "quantifiers",
+          "alot"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-12",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We have ___ money. (çok az)",
+        "answers": [
+          "little"
+        ],
+        "explanation": "Little.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "a little",
+            "explanation": "A little olumlu anlamlıdır."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "compare"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-13",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "There are a few water in the bottle.",
+        "errorSpan": "are a few",
+        "answers": [
+          "There is a little water in the bottle."
+        ],
+        "explanation": "Water sayılamaz.",
+        "tags": [
+          "quantifiers",
+          "fewlittle"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-14",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "'I have few friends.' ne anlatır?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Çok az arkadaşım var; yalnızım."
+          },
+          {
+            "id": "b",
+            "text": "Birkaç arkadaşım var; yalnız değilim."
+          },
+          {
+            "id": "c",
+            "text": "Çok arkadaşım var."
+          },
+          {
+            "id": "d",
+            "text": "Hiç arkadaşım yok."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Few: çok az, olumsuz.",
+        "optionExplanations": {
+          "b": "A few ile söylenirdi.",
+          "c": "A lot of ile söylenirdi.",
+          "d": "Hiç demek değildir."
+        },
+        "tags": [
+          "quantifiers",
+          "compare"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-15",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "She has ___ friends. (çok az, yalnız)",
+        "answers": [
+          "few"
+        ],
+        "explanation": "Few.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "a few",
+            "explanation": "A few olumlu."
+          }
+        ],
+        "tags": [
+          "quantifiers",
+          "compare"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-quantifiers-exam-16",
+        "lessonId": "a2-quantifiers",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Burada fazla insan yok.",
+        "answer": [
+          "There",
+          "aren't",
+          "many",
+          "people",
+          "here"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "much",
+          "isn't"
+        ],
+        "explanation": "not many + sayılabilen",
+        "tags": [
+          "quantifiers",
+          "manymuch"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      }
+    ]
+  }
+}
