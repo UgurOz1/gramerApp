@@ -1,0 +1,2260 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-will",
+  "levelId": "a2",
+  "title": "Future: Will",
+  "objectives": [
+    "Will ile tahmin, anlık karar, söz ve teklif anlatmak",
+    "Olumlu, olumsuz (won't) ve soru biçimlerini kurmak",
+    "I'll gibi kısaltmaları kullanmak",
+    "Probably, perhaps, I think gibi ifadeleri doğru yerde kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Will ile gelecek",
+      "paragraphs": [
+        "Will, gelecekle ilgili dört durumda kullanılır: tahmin, anlık karar, söz ve teklif. Türkçede -ecek / -acak ekine denk gelir.",
+        "Will bir modal fiildir: tüm öznelerde aynıdır, -s almaz ve ardından yalın fiil gelir. Konuşmada I will → I’ll, he will → he’ll biçiminde kısaltılır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Olumlu, olumsuz, soru",
+      "paragraphs": [
+        "Will tüm özneler için aynıdır. Olumsuzu won’t (will not), soru biçimi Will + özne + yalın fiil’dir. Do / does kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + will + yalın fiil   →   She will win.",
+          "exampleIds": [
+            "ex-will-01",
+            "ex-will-02",
+            "ex-will-04",
+            "ex-will-05"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + won’t + yalın fiil   →   She won’t win.",
+          "exampleIds": [
+            "ex-will-14",
+            "ex-will-15",
+            "ex-will-16",
+            "ex-will-17"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Will + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-will-19",
+            "ex-will-20",
+            "ex-will-21"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I will.   No, he won’t.",
+          "exampleIds": [
+            "ex-will-22",
+            "ex-will-23"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + will + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-will-24",
+            "ex-will-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Will ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Tahmin (görüş)",
+          "formula": "I think it will rain.",
+          "exampleIds": [
+            "ex-will-01",
+            "ex-will-02",
+            "ex-will-03",
+            "ex-will-28"
+          ],
+          "note": "Kişisel görüş ya da genel gelecek tahmini; I think, probably, perhaps ile sık gelir."
+        },
+        {
+          "label": "Anlık karar",
+          "formula": "The phone is ringing. I’ll answer it.",
+          "exampleIds": [
+            "ex-will-06",
+            "ex-will-07",
+            "ex-will-08"
+          ],
+          "note": "Konuşma anında verilen karar."
+        },
+        {
+          "label": "Söz",
+          "formula": "I’ll call you tonight.",
+          "exampleIds": [
+            "ex-will-09",
+            "ex-will-10",
+            "ex-will-11"
+          ],
+          "note": "Promise, I’m sure ile birlikte."
+        },
+        {
+          "label": "Teklif ve rica",
+          "formula": "I’ll carry your bag.   Will you help me?",
+          "exampleIds": [
+            "ex-will-12",
+            "ex-will-13",
+            "ex-will-20"
+          ],
+          "note": "Yardım teklifi ve nazik rica."
+        },
+        {
+          "label": "Won’t: direnç",
+          "formula": "The car won’t start.",
+          "exampleIds": [
+            "ex-will-18"
+          ],
+          "note": "Bir şeyin çalışmayı reddetmesi."
+        }
+      ]
+    },
+    {
+      "id": "signals",
+      "type": "rule",
+      "title": "Will ile kullanılan ifadeler",
+      "paragraphs": [
+        "Gelecek zaman ifadeleri ve görüş sözcükleri will ile sık gelir. Probably will’den sonra, won’t’tan önce gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman",
+          "pattern": "tomorrow,  next week / month / year,  tonight,  in 2050,  soon",
+          "exampleIds": [
+            "ex-will-01",
+            "ex-will-09",
+            "ex-will-28"
+          ]
+        },
+        {
+          "label": "Görüş",
+          "pattern": "I think,  I’m sure,  I hope,  probably,  perhaps,  maybe",
+          "exampleIds": [
+            "ex-will-03",
+            "ex-will-26",
+            "ex-will-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: tahmin ve olumlu",
+      "exampleIds": [
+        "ex-will-01",
+        "ex-will-02",
+        "ex-will-03",
+        "ex-will-04",
+        "ex-will-05",
+        "ex-will-26",
+        "ex-will-27",
+        "ex-will-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: karar, söz, teklif",
+      "exampleIds": [
+        "ex-will-06",
+        "ex-will-07",
+        "ex-will-08",
+        "ex-will-09",
+        "ex-will-10",
+        "ex-will-11",
+        "ex-will-12",
+        "ex-will-13"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: olumsuz ve soru",
+      "exampleIds": [
+        "ex-will-14",
+        "ex-will-15",
+        "ex-will-16",
+        "ex-will-17",
+        "ex-will-18",
+        "ex-will-19",
+        "ex-will-20",
+        "ex-will-21",
+        "ex-will-22",
+        "ex-will-23",
+        "ex-will-24",
+        "ex-will-25"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She wills win.",
+          "right": "She will win.",
+          "explanation": "Will -s almaz."
+        },
+        {
+          "wrong": "I will to go.",
+          "right": "I will go.",
+          "explanation": "Will'den sonra to yok."
+        },
+        {
+          "wrong": "He will goes.",
+          "right": "He will go.",
+          "explanation": "Will'den sonra yalın fiil."
+        },
+        {
+          "wrong": "Do you will come?",
+          "right": "Will you come?",
+          "explanation": "Will ile do kullanılmaz."
+        },
+        {
+          "wrong": "I don't will tell.",
+          "right": "I won't tell.",
+          "explanation": "Olumsuz: won't."
+        },
+        {
+          "wrong": "If it will rain, I'll stay.",
+          "right": "If it rains, I'll stay.",
+          "explanation": "If cümlesinde will kullanılmaz (A2 First Conditional)."
+        },
+        {
+          "wrong": "I will probably not go.",
+          "right": "I probably won't go.",
+          "explanation": "Probably won't'tan önce gelir."
+        },
+        {
+          "wrong": "Will you to help me?",
+          "right": "Will you help me?",
+          "explanation": "To kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Be going to",
+          "body": "Önceden verilmiş plan ve kanıta dayalı tahmin için going to kullanılır.",
+          "lessonId": "a2-going-to"
+        },
+        {
+          "topic": "Will ve going to farkı",
+          "body": "Anlık karar mı, önceden plan mı? Karşılaştırma dersinde ayrıntılı işlenir.",
+          "lessonId": "a2-will-vs-going-to"
+        },
+        {
+          "topic": "Can ve modal fiiller",
+          "body": "Will da can gibi modaldır: -s yok, to yok, do yok.",
+          "lessonId": "a1-can"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Will + yalın fiil; -s, to ve do yoktur.",
+        "Kısaltma: I'll, you'll, he'll, we'll, they'll; olumsuz: won't.",
+        "Anlık karar, söz ve teklifte will kullanılır.",
+        "If ve when cümlelerinde will kullanılmaz: If it rains, … (A2 First Conditional).",
+        "Probably, will'den sonra, won't'tan önce gelir: She will probably come. / She probably won't come."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-will-01",
+        "q-will-02",
+        "q-will-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-will-01",
+      "en": "It will rain tomorrow.",
+      "tr": "Yarın yağmur yağacak.",
+      "highlight": "will rain",
+      "note": "will + yalın fiil"
+    },
+    {
+      "id": "ex-will-02",
+      "en": "She will be a doctor one day.",
+      "tr": "Bir gün doktor olacak.",
+      "highlight": "will be"
+    },
+    {
+      "id": "ex-will-03",
+      "en": "I think he will win.",
+      "tr": "Bence kazanacak.",
+      "highlight": "will win",
+      "note": "I think + will: tahmin"
+    },
+    {
+      "id": "ex-will-04",
+      "en": "They will arrive at six.",
+      "tr": "Altıda varacaklar.",
+      "highlight": "will arrive"
+    },
+    {
+      "id": "ex-will-05",
+      "en": "We will help you.",
+      "tr": "Sana yardım edeceğiz.",
+      "highlight": "will help"
+    },
+    {
+      "id": "ex-will-06",
+      "en": "The phone is ringing. I'll answer it.",
+      "tr": "Telefon çalıyor. Ben açarım.",
+      "highlight": "I'll answer",
+      "note": "Anlık karar: I'll"
+    },
+    {
+      "id": "ex-will-07",
+      "en": "I'm cold. I'll close the window.",
+      "tr": "Üşüyorum. Pencereyi kapatırım.",
+      "highlight": "I'll close"
+    },
+    {
+      "id": "ex-will-08",
+      "en": "It's hot. I'll open the window.",
+      "tr": "Hava sıcak. Pencereyi açarım.",
+      "highlight": "I'll open"
+    },
+    {
+      "id": "ex-will-09",
+      "en": "I'll call you tonight.",
+      "tr": "Bu gece seni arayacağım.",
+      "highlight": "I'll call",
+      "note": "Söz"
+    },
+    {
+      "id": "ex-will-10",
+      "en": "I'll always love you.",
+      "tr": "Seni her zaman seveceğim.",
+      "highlight": "I'll always love"
+    },
+    {
+      "id": "ex-will-11",
+      "en": "I promise I'll be on time.",
+      "tr": "Söz veriyorum, zamanında olacağım.",
+      "highlight": "I'll be",
+      "note": "promise + will"
+    },
+    {
+      "id": "ex-will-12",
+      "en": "I'll carry your bag.",
+      "tr": "Çantanı ben taşırım.",
+      "highlight": "I'll carry",
+      "note": "Teklif"
+    },
+    {
+      "id": "ex-will-13",
+      "en": "Shall I help you? / I'll help you.",
+      "tr": "Sana yardım edeyim mi? / Sana yardım ederim.",
+      "highlight": "I'll help"
+    },
+    {
+      "id": "ex-will-14",
+      "en": "I won't tell anyone.",
+      "tr": "Kimseye söylemeyeceğim.",
+      "highlight": "won't tell",
+      "note": "won't = will not"
+    },
+    {
+      "id": "ex-will-15",
+      "en": "He won't come to the party.",
+      "tr": "Partiye gelmeyecek.",
+      "highlight": "won't come"
+    },
+    {
+      "id": "ex-will-16",
+      "en": "It won't rain tomorrow.",
+      "tr": "Yarın yağmur yağmayacak.",
+      "highlight": "won't rain"
+    },
+    {
+      "id": "ex-will-17",
+      "en": "They won't be late.",
+      "tr": "Geç kalmayacaklar.",
+      "highlight": "won't be"
+    },
+    {
+      "id": "ex-will-18",
+      "en": "The car won't start.",
+      "tr": "Araba çalışmıyor.",
+      "highlight": "won't start",
+      "note": "Direnç: won't"
+    },
+    {
+      "id": "ex-will-19",
+      "en": "Will it rain tomorrow?",
+      "tr": "Yarın yağmur yağacak mı?",
+      "highlight": "Will it rain",
+      "note": "Soru: Will + özne + yalın fiil"
+    },
+    {
+      "id": "ex-will-20",
+      "en": "Will you help me?",
+      "tr": "Bana yardım eder misin?",
+      "highlight": "Will you help",
+      "note": "Rica"
+    },
+    {
+      "id": "ex-will-21",
+      "en": "Will she come to the party?",
+      "tr": "Partiye gelecek mi?",
+      "highlight": "Will she come"
+    },
+    {
+      "id": "ex-will-22",
+      "en": "Yes, I will.",
+      "tr": "Evet, yapacağım.",
+      "highlight": "Yes, I will",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-will-23",
+      "en": "No, he won't.",
+      "tr": "Hayır, yapmayacak.",
+      "highlight": "No, he won't"
+    },
+    {
+      "id": "ex-will-24",
+      "en": "What will you do tomorrow?",
+      "tr": "Yarın ne yapacaksın?",
+      "highlight": "What will you do"
+    },
+    {
+      "id": "ex-will-25",
+      "en": "When will they arrive?",
+      "tr": "Ne zaman varacaklar?",
+      "highlight": "When will they arrive"
+    },
+    {
+      "id": "ex-will-26",
+      "en": "She'll probably be late.",
+      "tr": "Muhtemelen geç kalacak.",
+      "highlight": "probably be",
+      "note": "probably: will'den sonra, won't'tan önce"
+    },
+    {
+      "id": "ex-will-27",
+      "en": "Perhaps it will rain.",
+      "tr": "Belki yağmur yağar.",
+      "highlight": "Perhaps it will"
+    },
+    {
+      "id": "ex-will-28",
+      "en": "In 2050, people will live on Mars.",
+      "tr": "2050'de insanlar Mars'ta yaşayacak.",
+      "highlight": "will live"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-will-01",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ win the game.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "wills"
+        },
+        {
+          "id": "c",
+          "text": "is will"
+        },
+        {
+          "id": "d",
+          "text": "does will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will tüm öznelerle aynıdır.",
+      "optionExplanations": {
+        "b": "Will -s almaz.",
+        "c": "Is will biçimi yoktur.",
+        "d": "Does will biçimi yoktur."
+      },
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-02",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It ___ rain tomorrow.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Yarın için tahmin: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-03",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın yağmur yağacak.",
+      "answer": [
+        "It",
+        "will",
+        "rain",
+        "tomorrow"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "wills",
+        "rains"
+      ],
+      "explanation": "will + yalın fiil",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-04",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She wills win.",
+      "errorSpan": "wills",
+      "answers": [
+        "She will win."
+      ],
+      "explanation": "Will -s almaz.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-05",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın yağmur yağacak.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "It will rain tomorrow."
+      ],
+      "targetStructure": "will + fiil",
+      "explanation": "Tahmin.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It will to rain tomorrow.",
+          "explanation": "To yok."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-06",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ come to the party. (gelmeyeceğim)",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "isn't"
+        },
+        {
+          "id": "d",
+          "text": "wasn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: won't.",
+      "optionExplanations": {
+        "b": "Don't, will ile birlikte kullanılmaz.",
+        "c": "Isn't kullanılmaz.",
+        "d": "Wasn't geçmiş zamandır."
+      },
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation",
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-07",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will you help me?"
+        },
+        {
+          "id": "b",
+          "text": "Do you will help me?"
+        },
+        {
+          "id": "c",
+          "text": "Will you to help me?"
+        },
+        {
+          "id": "d",
+          "text": "You will help me?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will + özne + yalın fiil.",
+      "optionExplanations": {
+        "b": "Will ile do kullanılmaz.",
+        "c": "To yok.",
+        "d": "Soru yapısı eksik."
+      },
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-08",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ arrive at six. (varacaklar)",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Gelecek: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-09",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ come to the party. (gelmeyecek)",
+      "answers": [
+        "won't",
+        "will not"
+      ],
+      "explanation": "Olumsuz: won't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Will ile don't kullanılmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-10",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ it rain tomorrow?",
+      "answers": [
+        "Will"
+      ],
+      "explanation": "Will + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does",
+          "explanation": "Will ile does kullanılmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-11",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ help you. (yardım edeceğiz)",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Teklif / söz: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-12",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The phone is ringing. I ___ answer it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "am going to"
+        },
+        {
+          "id": "c",
+          "text": "am answering"
+        },
+        {
+          "id": "d",
+          "text": "answer"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Anlık karar: will.",
+      "optionExplanations": {
+        "b": "Going to önceden verilmiş plan içindir.",
+        "c": "Present Continuous plan içindir.",
+        "d": "Present Simple karar bildirmez."
+      },
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-13",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I'm cold. I ___ close the window.",
+      "options": [
+        {
+          "id": "a",
+          "text": "'ll"
+        },
+        {
+          "id": "b",
+          "text": "am going to"
+        },
+        {
+          "id": "c",
+          "text": "close"
+        },
+        {
+          "id": "d",
+          "text": "am closing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Konuşma anında verilen karar: I'll.",
+      "optionExplanations": {
+        "b": "Going to önceden planlanmış durum için.",
+        "c": "Present Simple karar bildirmez.",
+        "d": "Present Continuous plan içindir."
+      },
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-14",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I promise I ___ be on time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Söz: will.",
+      "optionExplanations": {
+        "b": "Be fiili ile gelecek kurulmaz.",
+        "c": "Do ile modal kurulmaz.",
+        "d": "Did geçmiştir."
+      },
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-15",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I won't tell anyone."
+        },
+        {
+          "id": "b",
+          "text": "I don't will tell anyone."
+        },
+        {
+          "id": "c",
+          "text": "I won't to tell anyone."
+        },
+        {
+          "id": "d",
+          "text": "I will not to tell anyone."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Won't + yalın fiil.",
+      "optionExplanations": {
+        "b": "Don't will kullanılmaz.",
+        "c": "To yok.",
+        "d": "To yok."
+      },
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-16",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She will probably be late."
+        },
+        {
+          "id": "b",
+          "text": "She will be probably late."
+        },
+        {
+          "id": "c",
+          "text": "She probably will be late is."
+        },
+        {
+          "id": "d",
+          "text": "She will probably is late."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Probably will'den sonra gelir.",
+      "optionExplanations": {
+        "b": "Probably be fiilinden önce, will'den sonra gelir.",
+        "c": "Cümle yapısı bozuk.",
+        "d": "Be yalın hâlde gelmeli."
+      },
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-17",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I think she ___ win.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "wills"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I think + will.",
+      "optionExplanations": {
+        "b": "Will -s almaz.",
+        "c": "Be fiili ile gelecek kurulmaz.",
+        "d": "Does ile modal kurulmaz."
+      },
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-18",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you do tomorrow?",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Wh + will + özne + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Will gerekir."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-19",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ they arrive?",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Wh + will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Gelecek soru: will."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-20",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The car ___ start. (çalışmıyor)",
+      "answers": [
+        "won't",
+        "will not"
+      ],
+      "explanation": "Direnç: won't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Araba için doesn't olur ama won't direnç anlatır."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-21",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ carry your bag. (ben taşırım)",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Teklif: I'll.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-22",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It's hot. I ___ open the window.",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Anlık karar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "Be fiili ile karar kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-23",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you help me? (rica)",
+      "answers": [
+        "Will"
+      ],
+      "explanation": "Rica: Will you …?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Will gerekir."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-24",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She will ___ be late. (muhtemelen)",
+      "answers": [
+        "probably"
+      ],
+      "explanation": "Probably will'den sonra gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "possible",
+          "explanation": "Sıfattır; zarf gerekir."
+        }
+      ],
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-25",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will to go.",
+      "errorSpan": "to go",
+      "answers": [
+        "I will go."
+      ],
+      "explanation": "Will'den sonra to yok.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-will-26",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He will goes.",
+      "errorSpan": "goes",
+      "answers": [
+        "He will go."
+      ],
+      "explanation": "Will'den sonra yalın fiil.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-will-27",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you will come?",
+      "errorSpan": "Do you will",
+      "answers": [
+        "Will you come?"
+      ],
+      "explanation": "Will ile do kullanılmaz.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-will-28",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't will tell.",
+      "errorSpan": "don't will",
+      "answers": [
+        "I won't tell.",
+        "I will not tell."
+      ],
+      "explanation": "Olumsuz: won't.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-29",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Will you to help me?",
+      "errorSpan": "to help",
+      "answers": [
+        "Will you help me?"
+      ],
+      "explanation": "To kullanılmaz.",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-will-30",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çantanı ben taşırım.",
+      "answer": [
+        "I'll",
+        "carry",
+        "your",
+        "bag"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "carries",
+        "will"
+      ],
+      "explanation": "I'll + fiil",
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-31",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana yardım eder misin?",
+      "answer": [
+        "Will",
+        "you",
+        "help",
+        "me"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "helps"
+      ],
+      "explanation": "Will + özne + fiil",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-32",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Partiye gelmeyecek.",
+      "answer": [
+        "He",
+        "won't",
+        "come",
+        "to",
+        "the",
+        "party"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "comes"
+      ],
+      "explanation": "won't + fiil",
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-33",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu gece seni arayacağım.",
+      "hint": "aramak: call, bu gece: tonight",
+      "answers": [
+        "I'll call you tonight.",
+        "I will call you tonight."
+      ],
+      "targetStructure": "I'll + fiil",
+      "explanation": "Söz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I call you tonight.",
+          "explanation": "Will ile söz verilir."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-34",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kimseye söylemeyeceğim.",
+      "hint": "söylemek: tell",
+      "answers": [
+        "I won't tell anyone.",
+        "I will not tell anyone."
+      ],
+      "targetStructure": "won't + fiil",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't tell anyone.",
+          "explanation": "Gelecek anlamı için won't."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-will-35",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne zaman varacaklar?",
+      "hint": "varmak: arrive",
+      "answers": [
+        "When will they arrive?"
+      ],
+      "targetStructure": "When will …",
+      "explanation": "Wh soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When do they arrive?",
+          "explanation": "Gelecek soru için will."
+        }
+      ],
+      "tags": [
+        "will",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-will-36",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle anlık karar bildirir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'll answer the phone."
+        },
+        {
+          "id": "b",
+          "text": "I'm going to answer the phone tomorrow."
+        },
+        {
+          "id": "c",
+          "text": "I'm answering at six."
+        },
+        {
+          "id": "d",
+          "text": "I answer the phone every day."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Anlık karar: I'll.",
+      "optionExplanations": {
+        "b": "Önceden plan.",
+        "c": "Kesinleşmiş plan.",
+        "d": "Alışkanlık."
+      },
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-37",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it rains, I'll stay at home."
+        },
+        {
+          "id": "b",
+          "text": "If it will rain, I'll stay at home."
+        },
+        {
+          "id": "c",
+          "text": "If it rains, I stay at home will."
+        },
+        {
+          "id": "d",
+          "text": "If it rain, I'll stay at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If cümlesinde will yok.",
+      "optionExplanations": {
+        "b": "If'ten sonra will kullanılmaz.",
+        "c": "Sıra bozuk.",
+        "d": "It ile rains gerekir."
+      },
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-will-38",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She probably won't come."
+        },
+        {
+          "id": "b",
+          "text": "She won't probably come."
+        },
+        {
+          "id": "c",
+          "text": "She will not probably come."
+        },
+        {
+          "id": "d",
+          "text": "She doesn't probably come."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Probably won't'tan önce gelir.",
+      "optionExplanations": {
+        "b": "Probably won't'tan önce.",
+        "c": "Probably will not'tan önce.",
+        "d": "Will gerekir."
+      },
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-39",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'm sure he ___ pass the exam.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "I'm sure + will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-40",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "In 2050, people ___ live on Mars.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Tahmin.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Be fiili ile gelecek kurulmaz."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-will-41",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Telefon çalıyor. Ben açarım.",
+      "hint": "açmak: answer",
+      "answers": [
+        "The phone is ringing. I'll answer it.",
+        "The phone's ringing. I'll answer it.",
+        "The phone is ringing. I will answer it."
+      ],
+      "targetStructure": "I'll + fiil",
+      "explanation": "Anlık karar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The phone is ringing. I'm going to answer it.",
+          "explanation": "Anlık karar için will."
+        }
+      ],
+      "tags": [
+        "will",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-will-42",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Muhtemelen geç kalacak.",
+      "hint": "geç kalmak: be late",
+      "answers": [
+        "She will probably be late.",
+        "She'll probably be late.",
+        "He will probably be late.",
+        "He'll probably be late."
+      ],
+      "targetStructure": "will probably",
+      "explanation": "Probably will'den sonra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She probably will be late.",
+          "explanation": "Bu da kullanılır ama bu alıştırma will probably yapısını ister."
+        }
+      ],
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-will-43",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it will rain, I'll stay at home.",
+      "errorSpan": "will rain",
+      "answers": [
+        "If it rains, I'll stay at home."
+      ],
+      "explanation": "If cümlesinde will kullanılmaz.",
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-will-44",
+      "lessonId": "a2-will",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will probably not go.",
+      "errorSpan": "will probably not",
+      "answers": [
+        "I probably won't go."
+      ],
+      "explanation": "Probably won't'tan önce gelir.",
+      "tags": [
+        "will",
+        "signals"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-will",
+    "title": "Will: Konu sonu sınavı",
+    "description": "Will ile gelecek: tahmin, karar, söz ve teklif.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-will-exam-01",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ be a doctor one day.",
+        "options": [
+          {
+            "id": "a",
+            "text": "will"
+          },
+          {
+            "id": "b",
+            "text": "wills"
+          },
+          {
+            "id": "c",
+            "text": "is will"
+          },
+          {
+            "id": "d",
+            "text": "does"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Will -s almaz.",
+        "optionExplanations": {
+          "b": "-s yok.",
+          "c": "Biçim yok.",
+          "d": "Does gelmez."
+        },
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-02",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They ___ arrive tomorrow.",
+        "answers": [
+          "will"
+        ],
+        "explanation": "Gelecek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "Be ile gelecek kurulmaz."
+          }
+        ],
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-03",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Altıda varacaklar.",
+        "answer": [
+          "They",
+          "will",
+          "arrive",
+          "at",
+          "six"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "arrives",
+          "wills"
+        ],
+        "explanation": "will + fiil",
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-04",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He will goes home.",
+        "errorSpan": "goes",
+        "answers": [
+          "He will go home."
+        ],
+        "explanation": "Will'den sonra yalın fiil.",
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-will-exam-05",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bir gün doktor olacak.",
+        "hint": "doktor olmak: be a doctor",
+        "answers": [
+          "She will be a doctor one day.",
+          "He will be a doctor one day."
+        ],
+        "targetStructure": "will be",
+        "explanation": "Tahmin.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She will is a doctor one day.",
+            "explanation": "Will'den sonra be."
+          }
+        ],
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-06",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ tell anyone. (söylemeyeceğim)",
+        "options": [
+          {
+            "id": "a",
+            "text": "won't"
+          },
+          {
+            "id": "b",
+            "text": "don't"
+          },
+          {
+            "id": "c",
+            "text": "isn't"
+          },
+          {
+            "id": "d",
+            "text": "wasn't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Won't.",
+        "optionExplanations": {
+          "b": "Don't kullanılmaz.",
+          "c": "Isn't kullanılmaz.",
+          "d": "Wasn't geçmiştir."
+        },
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-will-exam-07",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ she come to the party?",
+        "answers": [
+          "Will"
+        ],
+        "explanation": "Will + özne.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Does",
+            "explanation": "Will gerekir."
+          }
+        ],
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-will-exam-08",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yarın ne yapacaksın?",
+        "answer": [
+          "What",
+          "will",
+          "you",
+          "do",
+          "tomorrow"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "does",
+          "are"
+        ],
+        "explanation": "Wh + will",
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-will-exam-09",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Will she to come?",
+        "errorSpan": "to come",
+        "answers": [
+          "Will she come?"
+        ],
+        "explanation": "To yok.",
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-will-exam-10",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yarın yağmur yağmayacak.",
+        "hint": "yağmur yağmak: rain",
+        "answers": [
+          "It won't rain tomorrow.",
+          "It will not rain tomorrow."
+        ],
+        "targetStructure": "won't + fiil",
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "It doesn't rain tomorrow.",
+            "explanation": "Gelecek için won't."
+          }
+        ],
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-will-exam-11",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "It's hot. I ___ open the window.",
+        "options": [
+          {
+            "id": "a",
+            "text": "'ll"
+          },
+          {
+            "id": "b",
+            "text": "am going to"
+          },
+          {
+            "id": "c",
+            "text": "open"
+          },
+          {
+            "id": "d",
+            "text": "am opening"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Anlık karar.",
+        "optionExplanations": {
+          "b": "Önceden plan.",
+          "c": "Karar bildirmez.",
+          "d": "Plan."
+        },
+        "tags": [
+          "will",
+          "uses"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-will-exam-12",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I promise I ___ be on time.",
+        "answers": [
+          "will",
+          "'ll"
+        ],
+        "explanation": "Söz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "am",
+            "explanation": "Be ile gelecek kurulmaz."
+          }
+        ],
+        "tags": [
+          "will",
+          "uses"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-13",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I don't will tell anyone.",
+        "errorSpan": "don't will",
+        "answers": [
+          "I won't tell anyone.",
+          "I will not tell anyone."
+        ],
+        "explanation": "Won't.",
+        "tags": [
+          "will",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-will-exam-14",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If it rains, I'll stay home."
+          },
+          {
+            "id": "b",
+            "text": "If it will rain, I'll stay home."
+          },
+          {
+            "id": "c",
+            "text": "If it rain, I'll stay home."
+          },
+          {
+            "id": "d",
+            "text": "If it rains, I stay home will."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "If cümlesinde will yok.",
+        "optionExplanations": {
+          "b": "If'ten sonra will yok.",
+          "c": "Rains gerekir.",
+          "d": "Sıra bozuk."
+        },
+        "tags": [
+          "will",
+          "signals"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-will-exam-15",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "In 2050, people ___ drive flying cars.",
+        "answers": [
+          "will"
+        ],
+        "explanation": "Gelecek tahmini.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "Be ile gelecek kurulmaz."
+          }
+        ],
+        "tags": [
+          "will",
+          "uses"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-will-exam-16",
+        "lessonId": "a2-will",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Muhtemelen geç kalmayacağım.",
+        "answer": [
+          "I",
+          "probably",
+          "won't",
+          "be",
+          "late"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "will",
+          "don't"
+        ],
+        "explanation": "probably won't",
+        "tags": [
+          "will",
+          "signals"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

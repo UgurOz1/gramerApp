@@ -101,6 +101,7 @@ describeLesson("a1-conjunctions", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-comparatives-basic", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-past-be", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-past-continuous", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("a2-will", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });
