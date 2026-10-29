@@ -1,0 +1,2344 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-passive-tenses",
+  "levelId": "b1",
+  "title": "Passive Voice in Different Tenses",
+  "objectives": [
+    "Tüm temel zamanlarda edilgen yapıyı kurmak",
+    "Being, been ve be kullanımını ayırt etmek",
+    "Modal fiillerle edilgen yapı kurmak",
+    "İki nesneli fiillerde ve say / believe kalıplarında pasif kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Farklı zamanlarda edilgen yapı",
+      "paragraphs": [
+        "Edilgen yapıda (passive voice) be fiili cümlenin zamanını taşır ve ardından fiilin üçüncü hâli (V3) gelir. A2’de Present ve Past Simple edilgen yapıyı öğrendin; burada tüm temel zamanlara genişletiyoruz.",
+        "Kural basit: Aktif cümlenin zamanını belirle, be fiilini o zamana çevir, V3’ü ekle."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "forms",
+      "title": "Zamana göre edilgen",
+      "forms": [
+        {
+          "label": "Present Simple",
+          "formula": "am / is / are + V3",
+          "exampleIds": [
+            "ex-passive-tenses-01",
+            "ex-passive-tenses-12"
+          ],
+          "note": "The room is cleaned."
+        },
+        {
+          "label": "Past Simple",
+          "formula": "was / were + V3",
+          "exampleIds": [
+            "ex-passive-tenses-02",
+            "ex-passive-tenses-13"
+          ],
+          "note": "The room was cleaned."
+        },
+        {
+          "label": "Present Continuous",
+          "formula": "am / is / are + being + V3",
+          "exampleIds": [
+            "ex-passive-tenses-03",
+            "ex-passive-tenses-14"
+          ],
+          "note": "The room is being cleaned."
+        },
+        {
+          "label": "Past Continuous",
+          "formula": "was / were + being + V3",
+          "exampleIds": [
+            "ex-passive-tenses-04"
+          ],
+          "note": "The room was being cleaned."
+        },
+        {
+          "label": "Present Perfect",
+          "formula": "has / have + been + V3",
+          "exampleIds": [
+            "ex-passive-tenses-05",
+            "ex-passive-tenses-15"
+          ],
+          "note": "The room has been cleaned."
+        },
+        {
+          "label": "Past Perfect",
+          "formula": "had + been + V3",
+          "exampleIds": [
+            "ex-passive-tenses-06",
+            "ex-passive-tenses-17"
+          ],
+          "note": "The room had been cleaned."
+        },
+        {
+          "label": "will",
+          "formula": "will + be + V3",
+          "exampleIds": [
+            "ex-passive-tenses-07",
+            "ex-passive-tenses-16"
+          ],
+          "note": "The room will be cleaned."
+        },
+        {
+          "label": "be going to",
+          "formula": "am / is / are going to + be + V3",
+          "exampleIds": [
+            "ex-passive-tenses-08"
+          ],
+          "note": "The room is going to be cleaned."
+        },
+        {
+          "label": "Modal",
+          "formula": "modal + be + V3",
+          "exampleIds": [
+            "ex-passive-tenses-09",
+            "ex-passive-tenses-10",
+            "ex-passive-tenses-11"
+          ],
+          "note": "can / must / should / may + be + V3."
+        }
+      ]
+    },
+    {
+      "id": "neg",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Olumsuz için ilk yardımcı fiile not eklenir. Soruda ilk yardımcı fiil özneden önce gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + isn’t being / hasn’t been / won’t be + V3",
+          "exampleIds": [
+            "ex-passive-tenses-18",
+            "ex-passive-tenses-19",
+            "ex-passive-tenses-20"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Is / Has / Will + özne + being / been / be + V3 …?",
+          "exampleIds": [
+            "ex-passive-tenses-21",
+            "ex-passive-tenses-22",
+            "ex-passive-tenses-23"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Where / Who … + pasif yapı?",
+          "exampleIds": [
+            "ex-passive-tenses-24",
+            "ex-passive-tenses-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "by",
+      "type": "rule",
+      "title": "By ne zaman?",
+      "paragraphs": [
+        "Yapan önemli, şaşırtıcı ya da bilgi vermek istediğin kişiyse by eklenir. Yapan bilinmiyorsa, önemsizse ya da genelse eklenmez."
+      ],
+      "formulas": [
+        {
+          "label": "By ile",
+          "pattern": "… + V3 + by + kişi",
+          "exampleIds": [
+            "ex-passive-tenses-25"
+          ]
+        },
+        {
+          "label": "By olmadan",
+          "pattern": "… + V3 (yapan önemsiz / bilinmiyor)",
+          "exampleIds": [
+            "ex-passive-tenses-26",
+            "ex-passive-tenses-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "type": "rule",
+      "title": "İki nesneli fiiller",
+      "paragraphs": [
+        "Give, send, show, tell gibi iki nesneli fiillerin iki pasifi olabilir. Genellikle kişiyle başlayan biçim tercih edilir: I was given a book."
+      ],
+      "formulas": [
+        {
+          "label": "Kişi öznesi",
+          "pattern": "Kişi + was given + şey",
+          "exampleIds": [
+            "ex-passive-tenses-27"
+          ]
+        },
+        {
+          "label": "Şey öznesi",
+          "pattern": "Şey + was given + to + kişi",
+          "exampleIds": [
+            "ex-passive-tenses-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "say",
+      "type": "rule",
+      "title": "It is said / is said to",
+      "paragraphs": [
+        "Say, believe, think, know gibi fiillerle genel yargı bildirmek için kalıp kullanılır: It is said that he is rich. = He is said to be rich."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "He is said to + yalın fiil",
+          "exampleIds": [
+            "ex-passive-tenses-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: zamanlar",
+      "exampleIds": [
+        "ex-passive-tenses-01",
+        "ex-passive-tenses-02",
+        "ex-passive-tenses-03",
+        "ex-passive-tenses-04",
+        "ex-passive-tenses-05",
+        "ex-passive-tenses-06",
+        "ex-passive-tenses-07",
+        "ex-passive-tenses-08",
+        "ex-passive-tenses-09",
+        "ex-passive-tenses-10",
+        "ex-passive-tenses-11",
+        "ex-passive-tenses-12",
+        "ex-passive-tenses-13",
+        "ex-passive-tenses-14",
+        "ex-passive-tenses-15",
+        "ex-passive-tenses-16",
+        "ex-passive-tenses-17"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: olumsuz, soru, özel yapılar",
+      "exampleIds": [
+        "ex-passive-tenses-18",
+        "ex-passive-tenses-19",
+        "ex-passive-tenses-20",
+        "ex-passive-tenses-21",
+        "ex-passive-tenses-22",
+        "ex-passive-tenses-23",
+        "ex-passive-tenses-24",
+        "ex-passive-tenses-25",
+        "ex-passive-tenses-26",
+        "ex-passive-tenses-27",
+        "ex-passive-tenses-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "The room is clean now. (temizleniyor)",
+          "right": "The room is being cleaned now.",
+          "explanation": "Şimdiki süreç: being + V3."
+        },
+        {
+          "wrong": "The room has cleaned.",
+          "right": "The room has been cleaned.",
+          "explanation": "Been eksik."
+        },
+        {
+          "wrong": "The room will cleaned.",
+          "right": "The room will be cleaned.",
+          "explanation": "Be eksik."
+        },
+        {
+          "wrong": "The report must finished today.",
+          "right": "The report must be finished today.",
+          "explanation": "Modal + be + V3."
+        },
+        {
+          "wrong": "The letters were sent by they.",
+          "right": "The letters were sent by them.",
+          "explanation": "By'dan sonra nesne zamiri."
+        },
+        {
+          "wrong": "The work has been finish.",
+          "right": "The work has been finished.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "The house is being selled.",
+          "right": "The house is being sold.",
+          "explanation": "V3: sold."
+        },
+        {
+          "wrong": "It was happened yesterday.",
+          "right": "It happened yesterday.",
+          "explanation": "Geçişsiz fiilin pasifi yoktur."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "A2 Passive",
+          "body": "Present ve Past Simple edilgen temelini A2'de gör.",
+          "lessonId": "a2-passive-basic"
+        },
+        {
+          "topic": "Zaman yapıları",
+          "body": "Edilgen, aktif cümlenin zaman yapısını korur.",
+          "lessonId": "b1-past-perfect"
+        },
+        {
+          "topic": "Causative",
+          "body": "Bir işi başkasına yaptırmak ayrı bir yapıdır.",
+          "lessonId": "b1-causative-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Passive = be (zamana göre) + V3.",
+        "Continuous'ta being, Perfect'te been, will'de be kullanılır.",
+        "By yalnızca gerekliyse eklenir.",
+        "Geçişsiz fiillerin (happen, arrive, die) pasifi yoktur.",
+        "Say, believe gibi fiillerle: He is said to be rich."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-passive-tenses-01",
+        "q-passive-tenses-02",
+        "q-passive-tenses-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-passive-tenses-01",
+      "en": "The room is cleaned every day.",
+      "tr": "Oda her gün temizlenir.",
+      "highlight": "is cleaned",
+      "note": "Present Simple: am / is / are + V3"
+    },
+    {
+      "id": "ex-passive-tenses-02",
+      "en": "The room was cleaned yesterday.",
+      "tr": "Oda dün temizlendi.",
+      "highlight": "was cleaned",
+      "note": "Past Simple: was / were + V3"
+    },
+    {
+      "id": "ex-passive-tenses-03",
+      "en": "The room is being cleaned now.",
+      "tr": "Oda şu anda temizleniyor.",
+      "highlight": "is being cleaned",
+      "note": "Present Continuous: am / is / are + being + V3"
+    },
+    {
+      "id": "ex-passive-tenses-04",
+      "en": "The room was being cleaned when I arrived.",
+      "tr": "Ben geldiğimde oda temizleniyordu.",
+      "highlight": "was being cleaned",
+      "note": "Past Continuous: was / were + being + V3"
+    },
+    {
+      "id": "ex-passive-tenses-05",
+      "en": "The room has been cleaned.",
+      "tr": "Oda temizlendi (şimdi temiz).",
+      "highlight": "has been cleaned",
+      "note": "Present Perfect: has / have + been + V3"
+    },
+    {
+      "id": "ex-passive-tenses-06",
+      "en": "The room had been cleaned before we arrived.",
+      "tr": "Biz gelmeden önce oda temizlenmişti.",
+      "highlight": "had been cleaned",
+      "note": "Past Perfect: had + been + V3"
+    },
+    {
+      "id": "ex-passive-tenses-07",
+      "en": "The room will be cleaned tomorrow.",
+      "tr": "Oda yarın temizlenecek.",
+      "highlight": "will be cleaned",
+      "note": "Future: will + be + V3"
+    },
+    {
+      "id": "ex-passive-tenses-08",
+      "en": "The room is going to be cleaned.",
+      "tr": "Oda temizlenecek.",
+      "highlight": "is going to be cleaned",
+      "note": "be going to + be + V3"
+    },
+    {
+      "id": "ex-passive-tenses-09",
+      "en": "The report must be finished today.",
+      "tr": "Rapor bugün bitirilmeli.",
+      "highlight": "must be finished",
+      "note": "modal + be + V3"
+    },
+    {
+      "id": "ex-passive-tenses-10",
+      "en": "The window can be opened.",
+      "tr": "Pencere açılabilir.",
+      "highlight": "can be opened"
+    },
+    {
+      "id": "ex-passive-tenses-11",
+      "en": "The letters should be sent today.",
+      "tr": "Mektuplar bugün gönderilmeli.",
+      "highlight": "should be sent"
+    },
+    {
+      "id": "ex-passive-tenses-12",
+      "en": "English is spoken all over the world.",
+      "tr": "İngilizce dünyanın her yerinde konuşulur.",
+      "highlight": "is spoken"
+    },
+    {
+      "id": "ex-passive-tenses-13",
+      "en": "The bridge was built in 1990.",
+      "tr": "Köprü 1990'da yapıldı.",
+      "highlight": "was built"
+    },
+    {
+      "id": "ex-passive-tenses-14",
+      "en": "A new bridge is being built.",
+      "tr": "Yeni bir köprü yapılıyor.",
+      "highlight": "is being built"
+    },
+    {
+      "id": "ex-passive-tenses-15",
+      "en": "The bridge has been repaired.",
+      "tr": "Köprü onarıldı.",
+      "highlight": "has been repaired"
+    },
+    {
+      "id": "ex-passive-tenses-16",
+      "en": "The bridge will be opened next week.",
+      "tr": "Köprü gelecek hafta açılacak.",
+      "highlight": "will be opened"
+    },
+    {
+      "id": "ex-passive-tenses-17",
+      "en": "The thieves had been arrested before the police arrived.",
+      "tr": "Polis gelmeden hırsızlar tutuklanmıştı.",
+      "highlight": "had been arrested"
+    },
+    {
+      "id": "ex-passive-tenses-18",
+      "en": "The house isn't being sold.",
+      "tr": "Ev satılmıyor.",
+      "highlight": "isn't being sold",
+      "note": "Olumsuz"
+    },
+    {
+      "id": "ex-passive-tenses-19",
+      "en": "The work hasn't been finished yet.",
+      "tr": "İş henüz bitirilmedi.",
+      "highlight": "hasn't been finished"
+    },
+    {
+      "id": "ex-passive-tenses-20",
+      "en": "The letters won't be sent today.",
+      "tr": "Mektuplar bugün gönderilmeyecek.",
+      "highlight": "won't be sent"
+    },
+    {
+      "id": "ex-passive-tenses-21",
+      "en": "Is the room being cleaned?",
+      "tr": "Oda temizleniyor mu?",
+      "highlight": "Is the room being cleaned",
+      "note": "Soru"
+    },
+    {
+      "id": "ex-passive-tenses-22",
+      "en": "Has the work been finished?",
+      "tr": "İş bitirildi mi?",
+      "highlight": "Has the work been finished"
+    },
+    {
+      "id": "ex-passive-tenses-23",
+      "en": "Will the letters be sent today?",
+      "tr": "Mektuplar bugün gönderilecek mi?",
+      "highlight": "Will the letters be sent"
+    },
+    {
+      "id": "ex-passive-tenses-24",
+      "en": "Where was the film made?",
+      "tr": "Film nerede çekildi?",
+      "highlight": "Where was the film made"
+    },
+    {
+      "id": "ex-passive-tenses-25",
+      "en": "Who was the book written by?",
+      "tr": "Kitabı kim yazdı?",
+      "highlight": "Who was the book written by"
+    },
+    {
+      "id": "ex-passive-tenses-26",
+      "en": "My car was stolen last night.",
+      "tr": "Arabam dün gece çalındı.",
+      "highlight": "was stolen",
+      "note": "yapan belirsiz: by yok"
+    },
+    {
+      "id": "ex-passive-tenses-27",
+      "en": "He gave me a book. → I was given a book. / A book was given to me.",
+      "tr": "Bana bir kitap verildi.",
+      "highlight": "was given",
+      "note": "iki nesneli fiil: iki pasif"
+    },
+    {
+      "id": "ex-passive-tenses-28",
+      "en": "They say that he is rich. → He is said to be rich.",
+      "tr": "Zengin olduğu söylenir.",
+      "highlight": "is said to be",
+      "note": "It is said / is said to"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-passive-tenses-01",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The room ___ now. (temizleniyor)",
+      "options": [
+        {
+          "id": "a",
+          "text": "is being cleaned"
+        },
+        {
+          "id": "b",
+          "text": "is cleaned"
+        },
+        {
+          "id": "c",
+          "text": "has been cleaned"
+        },
+        {
+          "id": "d",
+          "text": "was cleaned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şimdiki süreç: is being + V3.",
+      "optionExplanations": {
+        "b": "Present Simple alışkanlık.",
+        "c": "Present Perfect.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-02",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The room ___ cleaned yesterday.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Past Simple: was + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Geçmiş zaman gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-03",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Oda şu anda temizleniyor.",
+      "answer": [
+        "The",
+        "room",
+        "is",
+        "being",
+        "cleaned",
+        "now"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "been",
+        "clean"
+      ],
+      "explanation": "is being + V3",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-04",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The room has cleaned.",
+      "errorSpan": "has cleaned",
+      "answers": [
+        "The room has been cleaned."
+      ],
+      "explanation": "Been eksik.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-05",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Oda şu anda temizleniyor.",
+      "hint": "temizlemek: clean",
+      "answers": [
+        "The room is being cleaned now.",
+        "The room is being cleaned."
+      ],
+      "targetStructure": "is being + V3",
+      "explanation": "Present Continuous passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The room is cleaned now.",
+          "explanation": "Süreç: being."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-06",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The room ___ tomorrow. (temizlenecek)",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be cleaned"
+        },
+        {
+          "id": "b",
+          "text": "will cleaned"
+        },
+        {
+          "id": "c",
+          "text": "is cleaned"
+        },
+        {
+          "id": "d",
+          "text": "was cleaned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will be + V3.",
+      "optionExplanations": {
+        "b": "Be eksik.",
+        "c": "Present Simple.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-07",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The room ___ before we arrived. (temizlenmişti)",
+      "options": [
+        {
+          "id": "a",
+          "text": "had been cleaned"
+        },
+        {
+          "id": "b",
+          "text": "was cleaned"
+        },
+        {
+          "id": "c",
+          "text": "has been cleaned"
+        },
+        {
+          "id": "d",
+          "text": "is cleaned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "had been + V3.",
+      "optionExplanations": {
+        "b": "Past Simple önce olanı göstermez.",
+        "c": "Present Perfect.",
+        "d": "Present Simple."
+      },
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-08",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The report must ___ finished today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be"
+        },
+        {
+          "id": "b",
+          "text": "been"
+        },
+        {
+          "id": "c",
+          "text": "being"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "modal + be + V3.",
+      "optionExplanations": {
+        "b": "Been farklı.",
+        "c": "Being farklı.",
+        "d": "Be fiili çekimli olmaz."
+      },
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-09",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The work has ___ finished. (been)",
+      "answers": [
+        "been"
+      ],
+      "explanation": "has been + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "be",
+          "explanation": "Perfect'te been."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-10",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The letters will ___ sent today. (be)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "will be + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "been",
+          "explanation": "Will'den sonra be."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-11",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "A new bridge is ___ built. (being)",
+      "answers": [
+        "being"
+      ],
+      "explanation": "is being + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "been",
+          "explanation": "Continuous'ta being."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-12",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The room ___ cleaned when I arrived. (temizleniyordu)",
+      "options": [
+        {
+          "id": "a",
+          "text": "was being"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "had been"
+        },
+        {
+          "id": "d",
+          "text": "is being"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past Continuous passive: was being + V3.",
+      "optionExplanations": {
+        "b": "Süreç: being.",
+        "c": "Past Perfect.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-13",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The work ___ finished yet. (bitirilmedi)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hasn't been"
+        },
+        {
+          "id": "b",
+          "text": "isn't being"
+        },
+        {
+          "id": "c",
+          "text": "wasn't"
+        },
+        {
+          "id": "d",
+          "text": "won't be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "hasn't been + V3.",
+      "optionExplanations": {
+        "b": "Süreç anlamı verir.",
+        "c": "Geçmiş Simple.",
+        "d": "Gelecek zaman."
+      },
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-14",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The house ___ sold. (satılmıyor)",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't being"
+        },
+        {
+          "id": "b",
+          "text": "hasn't been"
+        },
+        {
+          "id": "c",
+          "text": "wasn't"
+        },
+        {
+          "id": "d",
+          "text": "won't be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "isn't being + V3.",
+      "optionExplanations": {
+        "b": "Perfect anlamı verir.",
+        "c": "Geçmiş Simple.",
+        "d": "Gelecek zaman."
+      },
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-15",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ the room being cleaned?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Has"
+        },
+        {
+          "id": "c",
+          "text": "Was"
+        },
+        {
+          "id": "d",
+          "text": "Will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Is + özne + being.",
+      "optionExplanations": {
+        "b": "Has + been gerekirdi.",
+        "c": "Was + being (geçmiş).",
+        "d": "Will + be gerekirdi."
+      },
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-16",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ the work been finished?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Has"
+        },
+        {
+          "id": "b",
+          "text": "Is"
+        },
+        {
+          "id": "c",
+          "text": "Was"
+        },
+        {
+          "id": "d",
+          "text": "Will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Has + özne + been.",
+      "optionExplanations": {
+        "b": "Is + being gerekirdi.",
+        "c": "Was + finished (geçmiş).",
+        "d": "Will + be gerekirdi."
+      },
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-17",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ the letters be sent today?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will + özne + be.",
+      "optionExplanations": {
+        "b": "Be farklı yapı.",
+        "c": "Have + been gerekirdi.",
+        "d": "Did + V1 aktif."
+      },
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-18",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The room ___ being cleaned when I arrived.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Past Continuous.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Geçmiş zaman gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-19",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The work ___ been finished yet. (bitirilmedi)",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "explanation": "hasn't been + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-20",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The letters ___ be sent today. (gönderilmeyecek)",
+      "answers": [
+        "won't",
+        "will not"
+      ],
+      "explanation": "won't be + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "aren't",
+          "explanation": "Gelecek: won't."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-21",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ the room being cleaned?",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "Is + özne + being.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Has",
+          "explanation": "Being gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-22",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ the film made?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Where was … made.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Geçmiş zaman."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-23",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The window can ___ opened.",
+      "answers": [
+        "be"
+      ],
+      "explanation": "modal + be + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "been",
+          "explanation": "Modal'dan sonra be."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-24",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The bridge has been ___. (repair)",
+      "answers": [
+        "repaired"
+      ],
+      "explanation": "V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "repair",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-25",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The house is being ___. (sell)",
+      "answers": [
+        "sold"
+      ],
+      "explanation": "V3: sold.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "selled",
+          "explanation": "Düzensiz: sold."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-26",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The room is clean now. (temizleniyor)",
+      "errorSpan": "is clean",
+      "answers": [
+        "The room is being cleaned now."
+      ],
+      "explanation": "Süreç: being + V3.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-27",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The room will cleaned.",
+      "errorSpan": "will cleaned",
+      "answers": [
+        "The room will be cleaned."
+      ],
+      "explanation": "Be eksik.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-28",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The report must finished today.",
+      "errorSpan": "must finished",
+      "answers": [
+        "The report must be finished today."
+      ],
+      "explanation": "Modal + be + V3.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-29",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The work has been finish.",
+      "errorSpan": "been finish",
+      "answers": [
+        "The work has been finished."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-30",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The house is being selled.",
+      "errorSpan": "selled",
+      "answers": [
+        "The house is being sold."
+      ],
+      "explanation": "V3: sold.",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-31",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İş henüz bitirilmedi.",
+      "answer": [
+        "The",
+        "work",
+        "hasn't",
+        "been",
+        "finished",
+        "yet"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "isn't",
+        "finish"
+      ],
+      "explanation": "hasn't been + V3",
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-32",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Mektuplar bugün gönderilecek mi?",
+      "answer": [
+        "Will",
+        "the",
+        "letters",
+        "be",
+        "sent",
+        "today"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Are",
+        "send"
+      ],
+      "explanation": "Will + özne + be + V3",
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-33",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Köprü gelecek hafta açılacak.",
+      "answer": [
+        "The",
+        "bridge",
+        "will",
+        "be",
+        "opened",
+        "next",
+        "week"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "been",
+        "open"
+      ],
+      "explanation": "will be + V3",
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-34",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben geldiğimde oda temizleniyordu.",
+      "hint": "gelmek: arrive",
+      "answers": [
+        "The room was being cleaned when I arrived."
+      ],
+      "targetStructure": "was being + V3",
+      "explanation": "Past Continuous passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The room was cleaned when I arrived.",
+          "explanation": "Süreç: being."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-35",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Köprü onarıldı.",
+      "hint": "onarmak: repair",
+      "answers": [
+        "The bridge has been repaired."
+      ],
+      "targetStructure": "has been + V3",
+      "explanation": "Present Perfect passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The bridge has repaired.",
+          "explanation": "Been eksik."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "table"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-36",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Mektuplar bugün gönderilmeyecek.",
+      "hint": "göndermek: send",
+      "answers": [
+        "The letters won't be sent today.",
+        "The letters will not be sent today."
+      ],
+      "targetStructure": "won't be + V3",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The letters won't sent today.",
+          "explanation": "Be eksik."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "neg"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-37",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'He gave me a book.' pasif hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I was given a book."
+        },
+        {
+          "id": "b",
+          "text": "I gave a book."
+        },
+        {
+          "id": "c",
+          "text": "A book gave me."
+        },
+        {
+          "id": "d",
+          "text": "I was give a book."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kişi öznesi.",
+      "optionExplanations": {
+        "b": "Aktif biçim.",
+        "c": "Anlam bozulur.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "passive-tenses",
+        "two"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-38",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is said to be rich."
+        },
+        {
+          "id": "b",
+          "text": "He says to be rich."
+        },
+        {
+          "id": "c",
+          "text": "He is say to be rich."
+        },
+        {
+          "id": "d",
+          "text": "It said he is rich is."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "is said to.",
+      "optionExplanations": {
+        "b": "Biçim yanlış.",
+        "c": "V3 gerekir.",
+        "d": "Biçim bozuk."
+      },
+      "tags": [
+        "passive-tenses",
+        "say"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-39",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinin pasifi yoktur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It happened yesterday."
+        },
+        {
+          "id": "b",
+          "text": "They built the bridge."
+        },
+        {
+          "id": "c",
+          "text": "He wrote the report."
+        },
+        {
+          "id": "d",
+          "text": "Someone stole my car."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Happen geçişsizdir.",
+      "optionExplanations": {
+        "b": "Geçişli fiil.",
+        "c": "Geçişli fiil.",
+        "d": "Geçişli fiil."
+      },
+      "tags": [
+        "passive-tenses",
+        "by"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-40",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I was ___ a book. (give)",
+      "answers": [
+        "given"
+      ],
+      "explanation": "V3: given.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "gave",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "two"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-41",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He is ___ to be rich. (say)",
+      "answers": [
+        "said"
+      ],
+      "explanation": "is said to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "says",
+          "explanation": "Edilgen: is said."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "say"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-42",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana bir kitap verildi.",
+      "hint": "vermek: give",
+      "answers": [
+        "I was given a book.",
+        "A book was given to me."
+      ],
+      "targetStructure": "was given",
+      "explanation": "İki nesneli fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I was gave a book.",
+          "explanation": "V3: given."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "two"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-43",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Zengin olduğu söylenir.",
+      "hint": "söylemek: say",
+      "answers": [
+        "He is said to be rich.",
+        "She is said to be rich.",
+        "It is said that he is rich.",
+        "It is said that she is rich."
+      ],
+      "targetStructure": "is said to",
+      "explanation": "Genel yargı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He says to be rich.",
+          "explanation": "Edilgen gerekir."
+        }
+      ],
+      "tags": [
+        "passive-tenses",
+        "say"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-44",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The letters were sent by they.",
+      "errorSpan": "by they",
+      "answers": [
+        "The letters were sent by them."
+      ],
+      "explanation": "By'dan sonra nesne zamiri.",
+      "tags": [
+        "passive-tenses",
+        "by"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-passive-tenses-45",
+      "lessonId": "b1-passive-tenses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It was happened yesterday.",
+      "errorSpan": "was happened",
+      "answers": [
+        "It happened yesterday."
+      ],
+      "explanation": "Geçişsiz fiilin pasifi yok.",
+      "tags": [
+        "passive-tenses",
+        "by"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-passive-tenses",
+    "title": "Passive Voice: Konu sonu sınavı",
+    "description": "Tüm zamanlarda edilgen.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-passive-tenses-exam-01",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "A new bridge ___ now. (yapılıyor)",
+        "options": [
+          {
+            "id": "a",
+            "text": "is being built"
+          },
+          {
+            "id": "b",
+            "text": "is built"
+          },
+          {
+            "id": "c",
+            "text": "has been built"
+          },
+          {
+            "id": "d",
+            "text": "was built"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "is being + V3.",
+        "optionExplanations": {
+          "b": "Present Simple.",
+          "c": "Present Perfect.",
+          "d": "Past Simple."
+        },
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-02",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The window ___ broken last night.",
+        "answers": [
+          "was"
+        ],
+        "explanation": "Past Simple: was + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Geçmiş zaman gerekir."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-03",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Köprü onarıldı.",
+        "answer": [
+          "The",
+          "bridge",
+          "has",
+          "been",
+          "repaired"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "repair"
+        ],
+        "explanation": "has been + V3",
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-04",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The report will finished tomorrow.",
+        "errorSpan": "will finished",
+        "answers": [
+          "The report will be finished tomorrow."
+        ],
+        "explanation": "Be eksik.",
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-05",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hırsızlar tutuklanmıştı.",
+        "hint": "tutuklamak: arrest",
+        "answers": [
+          "The thieves had been arrested."
+        ],
+        "targetStructure": "had been + V3",
+        "explanation": "Past Perfect passive.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The thieves were arrested.",
+            "explanation": "Önce olan: Past Perfect."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-06",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The letters ___ be sent today. (gönderilmeyecek)",
+        "options": [
+          {
+            "id": "a",
+            "text": "won't"
+          },
+          {
+            "id": "b",
+            "text": "don't"
+          },
+          {
+            "id": "c",
+            "text": "aren't"
+          },
+          {
+            "id": "d",
+            "text": "weren't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "won't be + V3.",
+        "optionExplanations": {
+          "b": "Do pasifte kullanılmaz.",
+          "c": "Gelecek anlamı yok.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "passive-tenses",
+          "neg"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-07",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The bridge ___ been repaired yet. (onarılmadı)",
+        "answers": [
+          "hasn't",
+          "has not"
+        ],
+        "explanation": "hasn't been.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "isn't",
+            "explanation": "Perfect gerekir."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "neg"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-08",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Film nerede çekildi?",
+        "answer": [
+          "Where",
+          "was",
+          "the",
+          "film",
+          "made"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "did",
+          "make"
+        ],
+        "explanation": "Wh + was + V3",
+        "tags": [
+          "passive-tenses",
+          "neg"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-09",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The house is being sell.",
+        "errorSpan": "being sell",
+        "answers": [
+          "The house is being sold."
+        ],
+        "explanation": "V3: sold.",
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-10",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Mektuplar bugün gönderilecek.",
+        "hint": "göndermek: send",
+        "answers": [
+          "The letters will be sent today."
+        ],
+        "targetStructure": "will be + V3",
+        "explanation": "Gelecek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The letters will sent today.",
+            "explanation": "Be eksik."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-11",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "___ the bridge been repaired yet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Has"
+          },
+          {
+            "id": "b",
+            "text": "Is"
+          },
+          {
+            "id": "c",
+            "text": "Was"
+          },
+          {
+            "id": "d",
+            "text": "Will"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Has + been.",
+        "optionExplanations": {
+          "b": "Is + being.",
+          "c": "Was + V3.",
+          "d": "Will + be."
+        },
+        "tags": [
+          "passive-tenses",
+          "neg"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-12",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The report must ___ finished today.",
+        "answers": [
+          "be"
+        ],
+        "explanation": "modal + be.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "been",
+            "explanation": "Modal'dan sonra be."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-13",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The thieves were arrested by they.",
+        "errorSpan": "by they",
+        "answers": [
+          "The thieves were arrested by them."
+        ],
+        "explanation": "By'dan sonra nesne zamiri.",
+        "tags": [
+          "passive-tenses",
+          "by"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-14",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "'They say he is rich.' pasif hangisi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He is said to be rich."
+          },
+          {
+            "id": "b",
+            "text": "He says to be rich."
+          },
+          {
+            "id": "c",
+            "text": "He is say rich."
+          },
+          {
+            "id": "d",
+            "text": "He said to be rich."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "is said to.",
+        "optionExplanations": {
+          "b": "Aktif.",
+          "c": "V3 gerekir.",
+          "d": "Geçmiş aktif."
+        },
+        "tags": [
+          "passive-tenses",
+          "say"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-15",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I was ___ a present. (give)",
+        "answers": [
+          "given"
+        ],
+        "explanation": "V3: given.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "gave",
+            "explanation": "V2'dir."
+          }
+        ],
+        "tags": [
+          "passive-tenses",
+          "two"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-passive-tenses-exam-16",
+        "lessonId": "b1-passive-tenses",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Oda her gün temizlenir.",
+        "answer": [
+          "The",
+          "room",
+          "is",
+          "cleaned",
+          "every",
+          "day"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are",
+          "cleaning"
+        ],
+        "explanation": "is + V3",
+        "tags": [
+          "passive-tenses",
+          "table"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      }
+    ]
+  }
+}
