@@ -1,0 +1,2173 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-causative-intro",
+  "levelId": "b1",
+  "title": "Causative Have: Intro",
+  "objectives": [
+    "have + nesne + V3 ile bir işi başkasına yaptırmayı anlatmak",
+    "have someone do something yapısını kullanmak",
+    "Farklı zamanlarda causative have kurmak",
+    "Kendi yaptığın işle yaptırdığın işi ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Bir işi başkasına yaptırmak",
+      "paragraphs": [
+        "Türkçede “saçımı kestirdim” demek, işi başkasına yaptırmak demektir. İngilizcede bunun için causative have kullanılır: I had my hair cut.",
+        "Yapıyı kuran have fiilidir ve zamanını o taşır. İş yapılan nesneden sonra fiilin üçüncü hâli (V3) gelir. Yapan kişi önemliyse by ya da have someone do biçimi kullanılır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "have + nesne + V3",
+      "paragraphs": [
+        "İşi başkasına yaptırdığını söylerken nesne have’den sonra, fiil V3 olarak gelir. Nesne işin yapıldığı şeydir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "have + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-01",
+            "ex-causative-intro-02",
+            "ex-causative-intro-03",
+            "ex-causative-intro-04"
+          ]
+        },
+        {
+          "label": "Nesne yerine",
+          "pattern": "have my car repaired",
+          "exampleIds": [
+            "ex-causative-intro-05",
+            "ex-causative-intro-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Zamanlar",
+      "paragraphs": [
+        "Zamanı have taşır. Present Simple’da have / has, geçmişte had, gelecekte will have, sürekli yapıda having kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Present",
+          "pattern": "I have my hair cut every month.",
+          "exampleIds": [
+            "ex-causative-intro-07",
+            "ex-causative-intro-08"
+          ]
+        },
+        {
+          "label": "Past",
+          "pattern": "I had my hair cut yesterday.",
+          "exampleIds": [
+            "ex-causative-intro-02",
+            "ex-causative-intro-09"
+          ]
+        },
+        {
+          "label": "Future",
+          "pattern": "will have + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-10",
+            "ex-causative-intro-11"
+          ]
+        },
+        {
+          "label": "Present Perfect",
+          "pattern": "have had + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-12"
+          ]
+        },
+        {
+          "label": "Continuous",
+          "pattern": "am having + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Olumsuz ve soruda do / does / did yardımcı fiili kullanılır, çünkü have burada ana fiildir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "don’t / didn’t + have + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-14",
+            "ex-causative-intro-15"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do / Did + özne + have + nesne + V3?",
+          "exampleIds": [
+            "ex-causative-intro-16",
+            "ex-causative-intro-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "have someone do something",
+      "paragraphs": [
+        "İşi yapan kişi belirtiliyorsa have + kişi + yalın fiil kullanılır. Bu yapı iş yaptıran kişinin otoritesini gösterir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "have + kişi + yalın fiil",
+          "exampleIds": [
+            "ex-causative-intro-18",
+            "ex-causative-intro-19",
+            "ex-causative-intro-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Kendi yaptığın iş ile yaptırdığın iş",
+      "paragraphs": [
+        "I cut my hair kendi saçını kendin kestiğini, I had my hair cut ise berberde kestirdiğini anlatır. Get + nesne + V3 de aynı anlamda daha konuşma dilinde kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Kendi",
+          "pattern": "I cut my hair.",
+          "exampleIds": [
+            "ex-causative-intro-21"
+          ]
+        },
+        {
+          "label": "Yaptırma",
+          "pattern": "I had my hair cut.",
+          "exampleIds": [
+            "ex-causative-intro-22"
+          ]
+        },
+        {
+          "label": "Get",
+          "pattern": "get + nesne + V3",
+          "exampleIds": [
+            "ex-causative-intro-23",
+            "ex-causative-intro-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-causative-intro-01",
+        "ex-causative-intro-02",
+        "ex-causative-intro-03",
+        "ex-causative-intro-04",
+        "ex-causative-intro-05",
+        "ex-causative-intro-06",
+        "ex-causative-intro-07",
+        "ex-causative-intro-08",
+        "ex-causative-intro-09",
+        "ex-causative-intro-10",
+        "ex-causative-intro-11",
+        "ex-causative-intro-12",
+        "ex-causative-intro-13",
+        "ex-causative-intro-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-causative-intro-15",
+        "ex-causative-intro-16",
+        "ex-causative-intro-17",
+        "ex-causative-intro-18",
+        "ex-causative-intro-19",
+        "ex-causative-intro-20",
+        "ex-causative-intro-21",
+        "ex-causative-intro-22",
+        "ex-causative-intro-23",
+        "ex-causative-intro-24",
+        "ex-causative-intro-25",
+        "ex-causative-intro-26",
+        "ex-causative-intro-27",
+        "ex-causative-intro-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I cut my hair yesterday. (berberde)",
+          "right": "I had my hair cut yesterday.",
+          "explanation": "Yaptırma için have + nesne + V3."
+        },
+        {
+          "wrong": "I had cut my hair.",
+          "right": "I had my hair cut.",
+          "explanation": "Nesne have’den sonra gelir."
+        },
+        {
+          "wrong": "I had my hair to cut.",
+          "right": "I had my hair cut.",
+          "explanation": "To kullanılmaz; V3 gerekir."
+        },
+        {
+          "wrong": "She had her car wash.",
+          "right": "She had her car washed.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "I didn't had my car repaired.",
+          "right": "I didn't have my car repaired.",
+          "explanation": "Did’den sonra yalın have."
+        },
+        {
+          "wrong": "Do you had your hair cut?",
+          "right": "Did you have your hair cut?",
+          "explanation": "Zamanı did taşır."
+        },
+        {
+          "wrong": "He had the mechanic to check it.",
+          "right": "He had the mechanic check it.",
+          "explanation": "Have + kişi + yalın fiil."
+        },
+        {
+          "wrong": "I will have repaired my car.",
+          "right": "I will have my car repaired.",
+          "explanation": "Nesne V3’ten önce gelir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Passive voice",
+          "body": "Edilgen yapı benzer görünür ama ayrı bir yapıdır.",
+          "lessonId": "b1-passive-tenses"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Had burada ana fiil olabilir.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Verb patterns",
+          "body": "Fiilden sonra yapı değişimleri.",
+          "lessonId": "b1-verb-patterns"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Have + nesne + V3 = işi yaptırmak.",
+        "Nesne have’den sonra, V3 en sonda.",
+        "Olumsuz ve soru için do / did kullanılır.",
+        "Have someone do: kişi + yalın fiil.",
+        "Kötü olaylarda da aynı yapı başa gelenleri anlatır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-causative-intro-01",
+        "q-causative-intro-02",
+        "q-causative-intro-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-causative-intro-01",
+      "en": "I had my hair cut yesterday.",
+      "tr": "Dün saçımı kestirdim.",
+      "highlight": "had my hair cut"
+    },
+    {
+      "id": "ex-causative-intro-02",
+      "en": "She had her house painted.",
+      "tr": "Evini boyattı.",
+      "highlight": "had her house painted"
+    },
+    {
+      "id": "ex-causative-intro-03",
+      "en": "He has his car washed every week.",
+      "tr": "Arabasını her hafta yıkatır.",
+      "highlight": "has his car washed"
+    },
+    {
+      "id": "ex-causative-intro-04",
+      "en": "We had our photos taken.",
+      "tr": "Fotoğraflarımızı çektirdik.",
+      "highlight": "had our photos taken"
+    },
+    {
+      "id": "ex-causative-intro-05",
+      "en": "I need to have my car repaired.",
+      "tr": "Arabamı tamir ettirmem gerekiyor.",
+      "highlight": "have my car repaired"
+    },
+    {
+      "id": "ex-causative-intro-06",
+      "en": "She had her watch repaired.",
+      "tr": "Saatini tamir ettirdi.",
+      "highlight": "had her watch repaired"
+    },
+    {
+      "id": "ex-causative-intro-07",
+      "en": "I have my hair cut every month.",
+      "tr": "Her ay saçımı kestiririm.",
+      "highlight": "have my hair cut"
+    },
+    {
+      "id": "ex-causative-intro-08",
+      "en": "They have their windows cleaned twice a year.",
+      "tr": "Pencerelerini yılda iki kez sildirirler.",
+      "highlight": "have their windows cleaned"
+    },
+    {
+      "id": "ex-causative-intro-09",
+      "en": "He had his tooth pulled out last week.",
+      "tr": "Geçen hafta dişini çektirdi.",
+      "highlight": "had his tooth pulled out"
+    },
+    {
+      "id": "ex-causative-intro-10",
+      "en": "I will have my flat painted next month.",
+      "tr": "Gelecek ay dairemi boyatacağım.",
+      "highlight": "will have my flat painted"
+    },
+    {
+      "id": "ex-causative-intro-11",
+      "en": "She is going to have her eyes tested.",
+      "tr": "Gözlerini muayene ettirecek.",
+      "highlight": "have her eyes tested"
+    },
+    {
+      "id": "ex-causative-intro-12",
+      "en": "I have had my phone repaired.",
+      "tr": "Telefonumu tamir ettirdim.",
+      "highlight": "have had my phone repaired"
+    },
+    {
+      "id": "ex-causative-intro-13",
+      "en": "He is having his house painted now.",
+      "tr": "Şu anda evini boyatıyor.",
+      "highlight": "is having his house painted"
+    },
+    {
+      "id": "ex-causative-intro-14",
+      "en": "I don't have my hair cut often.",
+      "tr": "Saçımı sık kestirmem.",
+      "highlight": "don't have my hair cut"
+    },
+    {
+      "id": "ex-causative-intro-15",
+      "en": "She didn't have her car washed.",
+      "tr": "Arabasını yıkatmadı.",
+      "highlight": "didn't have her car washed"
+    },
+    {
+      "id": "ex-causative-intro-16",
+      "en": "Do you have your nails done?",
+      "tr": "Tırnaklarını yaptırır mısın?",
+      "highlight": "Do you have your nails done"
+    },
+    {
+      "id": "ex-causative-intro-17",
+      "en": "Did you have your teeth checked?",
+      "tr": "Dişlerini kontrol ettirdin mi?",
+      "highlight": "Did you have your teeth checked"
+    },
+    {
+      "id": "ex-causative-intro-18",
+      "en": "I had the mechanic check my car.",
+      "tr": "Tamirciye arabamı kontrol ettirdim.",
+      "highlight": "had the mechanic check",
+      "note": "have + kişi + V1"
+    },
+    {
+      "id": "ex-causative-intro-19",
+      "en": "She had her assistant book the tickets.",
+      "tr": "Asistanına biletleri aldırdı.",
+      "highlight": "had her assistant book"
+    },
+    {
+      "id": "ex-causative-intro-20",
+      "en": "The manager had everyone sign the form.",
+      "tr": "Müdür herkese formu imzalattı.",
+      "highlight": "had everyone sign"
+    },
+    {
+      "id": "ex-causative-intro-21",
+      "en": "I cut my own hair.",
+      "tr": "Saçımı kendim keserim.",
+      "highlight": "cut my own hair",
+      "note": "Kendin yaptın"
+    },
+    {
+      "id": "ex-causative-intro-22",
+      "en": "I had my hair cut.",
+      "tr": "Saçımı kestirdim.",
+      "highlight": "had my hair cut",
+      "note": "Yaptırdın"
+    },
+    {
+      "id": "ex-causative-intro-23",
+      "en": "I got my car repaired.",
+      "tr": "Arabamı tamir ettirdim.",
+      "highlight": "got my car repaired",
+      "note": "get + nesne + V3"
+    },
+    {
+      "id": "ex-causative-intro-24",
+      "en": "She got her hair dyed.",
+      "tr": "Saçını boyattı.",
+      "highlight": "got her hair dyed"
+    },
+    {
+      "id": "ex-causative-intro-25",
+      "en": "He had his wallet stolen.",
+      "tr": "Cüzdanı çalındı.",
+      "highlight": "had his wallet stolen",
+      "note": "Kötü olay: başına gelen"
+    },
+    {
+      "id": "ex-causative-intro-26",
+      "en": "We had our luggage lost at the airport.",
+      "tr": "Havalimanında bavullarımız kayboldu.",
+      "highlight": "had our luggage lost"
+    },
+    {
+      "id": "ex-causative-intro-27",
+      "en": "Where do you have your hair cut?",
+      "tr": "Saçını nerede kestirirsin?",
+      "highlight": "Where do you have your hair cut"
+    },
+    {
+      "id": "ex-causative-intro-28",
+      "en": "How often do you have your car serviced?",
+      "tr": "Arabanın bakımını ne sıklıkla yaptırırsın?",
+      "highlight": "have your car serviced"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-causative-intro-01",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ my hair cut yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cut"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "have cut"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Geçmişte yaptırma: had + nesne + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-02",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ her car washed every week. (have)",
+      "answers": [
+        "has"
+      ],
+      "explanation": "Present Simple, özne she: has.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-03",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün saçımı kestirdim.",
+      "answer": [
+        "I",
+        "had",
+        "my",
+        "hair",
+        "cut",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "cutting",
+        "cuts"
+      ],
+      "explanation": "had + nesne + V3",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-04",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I had my car wash.",
+      "errorSpan": "wash",
+      "answers": [
+        "I had my car washed."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-05",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Evini boyattı.",
+      "hint": "boyamak: paint",
+      "answers": [
+        "She had her house painted.",
+        "He had his house painted."
+      ],
+      "targetStructure": "had + nesne + V3",
+      "explanation": "Yaptırma.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She painted her house.",
+          "explanation": "Kendi yaptığını anlatır."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-06",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ his teeth checked last week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "last week → had.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-07",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ our windows cleaned twice a year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "had"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Alışkanlık, özne we: have.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-08",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ my flat painted next month. (gelecek)",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have"
+        },
+        {
+          "id": "b",
+          "text": "have had"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "am had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will have + nesne + V3.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-09",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ her photo taken now. (şu anda)",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "is having"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sürekli: is having.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-10",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I need to ___ my car repaired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "having"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "to + yalın have.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-11",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ their house painted last year. (have)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Geçmiş: had.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-12",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ my phone repaired. (have; yeni oldu)",
+      "answers": [
+        "have had"
+      ],
+      "explanation": "Present Perfect: have had.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-13",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is ___ his hair cut. (have)",
+      "answers": [
+        "having"
+      ],
+      "explanation": "is having + nesne + V3.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-14",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ her eyes tested next week. (will have)",
+      "answers": [
+        "will have"
+      ],
+      "explanation": "Gelecek.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-15",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ have my hair cut often.",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't"
+        },
+        {
+          "id": "b",
+          "text": "didn't have"
+        },
+        {
+          "id": "c",
+          "text": "haven't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Present Simple olumsuz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-16",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you have your teeth checked last month?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş soru: Did.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-17",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ have her car washed. (yıkatmadı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't"
+        },
+        {
+          "id": "b",
+          "text": "didn't"
+        },
+        {
+          "id": "c",
+          "text": "hasn't"
+        },
+        {
+          "id": "d",
+          "text": "doesn't"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Geçmiş olumsuz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-18",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I cut my hair. / I had my hair cut. Fark nedir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "İkisi de aynı."
+        },
+        {
+          "id": "b",
+          "text": "İkincisinde kendin kestin."
+        },
+        {
+          "id": "c",
+          "text": "İkincisinde saçı başkası kesti."
+        },
+        {
+          "id": "d",
+          "text": "Birincisi yaptırmayı anlatır."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Causative have yaptırmayı gösterir.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-19",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I had the mechanic ___ my car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to check"
+        },
+        {
+          "id": "b",
+          "text": "checked"
+        },
+        {
+          "id": "c",
+          "text": "checking"
+        },
+        {
+          "id": "d",
+          "text": "check"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "have + kişi + yalın fiil.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-20",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She had her assistant ___ the tickets.",
+      "options": [
+        {
+          "id": "a",
+          "text": "book"
+        },
+        {
+          "id": "b",
+          "text": "to book"
+        },
+        {
+          "id": "c",
+          "text": "booked"
+        },
+        {
+          "id": "d",
+          "text": "booking"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "have + kişi + yalın fiil.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-21",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The manager had everyone ___ the form. (sign)",
+      "answers": [
+        "sign"
+      ],
+      "explanation": "have + kişi + V1.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-22",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I got my car ___. (repair)",
+      "answers": [
+        "repaired"
+      ],
+      "explanation": "get + nesne + V3.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-23",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She got her hair ___. (dye)",
+      "answers": [
+        "dyed"
+      ],
+      "explanation": "V3.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-24",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He had his wallet ___ on the bus. (steal)",
+      "answers": [
+        "stolen"
+      ],
+      "explanation": "V3: stolen.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-25",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I had cut my hair at the barber's. (yaptırdım)",
+      "errorSpan": "had cut my hair",
+      "answers": [
+        "I had my hair cut at the barber's."
+      ],
+      "explanation": "Nesne have’den sonra.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-26",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She had her hair to cut.",
+      "errorSpan": "to cut",
+      "answers": [
+        "She had her hair cut."
+      ],
+      "explanation": "To kullanılmaz.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-27",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I didn't had my car repaired.",
+      "errorSpan": "didn't had",
+      "answers": [
+        "I didn't have my car repaired."
+      ],
+      "explanation": "Did’den sonra yalın have.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-28",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you had your hair cut yesterday?",
+      "errorSpan": "Do you had",
+      "answers": [
+        "Did you have your hair cut yesterday?"
+      ],
+      "explanation": "Geçmiş soru.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-29",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He had the mechanic to check it.",
+      "errorSpan": "to check",
+      "answers": [
+        "He had the mechanic check it."
+      ],
+      "explanation": "Have + kişi + V1.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-30",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will have repaired my car.",
+      "errorSpan": "have repaired my car",
+      "answers": [
+        "I will have my car repaired."
+      ],
+      "explanation": "Nesne V3’ten önce.",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-31",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Arabamı tamir ettirmem gerekiyor.",
+      "answer": [
+        "I",
+        "need",
+        "to",
+        "have",
+        "my",
+        "car",
+        "repaired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "repair",
+        "had"
+      ],
+      "explanation": "have + nesne + V3",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-32",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Saçını nerede kestirirsin?",
+      "answer": [
+        "Where",
+        "do",
+        "you",
+        "have",
+        "your",
+        "hair",
+        "cut"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "did",
+        "cutting"
+      ],
+      "explanation": "Soru",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-33",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Tamirciye arabamı kontrol ettirdim.",
+      "answer": [
+        "I",
+        "had",
+        "the",
+        "mechanic",
+        "check",
+        "my",
+        "car"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "checked",
+        "to"
+      ],
+      "explanation": "have + kişi + V1",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-34",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gelecek ay dairemi boyatacağım.",
+      "answer": [
+        "I",
+        "will",
+        "have",
+        "my",
+        "flat",
+        "painted",
+        "next",
+        "month"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "paint",
+        "had"
+      ],
+      "explanation": "will have",
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-35",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Arabasını her hafta yıkatır.",
+      "hint": "yıkamak: wash",
+      "answers": [
+        "He has his car washed every week.",
+        "She has her car washed every week."
+      ],
+      "targetStructure": "has + nesne + V3",
+      "explanation": "Alışkanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He washes his car every week.",
+          "explanation": "Kendi yaptığını anlatır."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-36",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Saçımı sık kestirmem.",
+      "hint": "kesmek: cut",
+      "answers": [
+        "I don't have my hair cut often.",
+        "I don't often have my hair cut."
+      ],
+      "targetStructure": "don't have",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't had my hair cut often.",
+          "explanation": "Don't'tan sonra have."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-37",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dişlerini kontrol ettirdin mi?",
+      "hint": "kontrol etmek: check",
+      "answers": [
+        "Did you have your teeth checked?"
+      ],
+      "targetStructure": "Did you have",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you had your teeth checked?",
+          "explanation": "Did gerekir."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-38",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Asistanına biletleri aldırdı.",
+      "hint": "almak: book",
+      "answers": [
+        "She had her assistant book the tickets.",
+        "He had his assistant book the tickets."
+      ],
+      "targetStructure": "had someone do",
+      "explanation": "Kişi + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She had her assistant to book the tickets.",
+          "explanation": "To kullanılmaz."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-39",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Cüzdanı çalındı.",
+      "hint": "çalmak: steal",
+      "answers": [
+        "He had his wallet stolen.",
+        "She had her wallet stolen."
+      ],
+      "targetStructure": "had + nesne + V3",
+      "explanation": "Başa gelen olay.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He had stolen his wallet.",
+          "explanation": "Nesne have'den sonra."
+        }
+      ],
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-causative-intro-40",
+      "lessonId": "b1-causative-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "She ___ her house painted last summer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "painted"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "last summer → had.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "causative-intro",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-causative-intro",
+    "title": "Causative Have: Intro: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-causative-intro-exam-01",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ my photo taken yesterday.",
+        "options": [
+          {
+            "id": "a",
+            "text": "took"
+          },
+          {
+            "id": "b",
+            "text": "had"
+          },
+          {
+            "id": "c",
+            "text": "have"
+          },
+          {
+            "id": "d",
+            "text": "am"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Geçmiş yaptırma.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-02",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He ___ his car repaired every year. (have)",
+        "answers": [
+          "has"
+        ],
+        "explanation": "Özne he: has.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-03",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Evlerini boyattılar.",
+        "answer": [
+          "They",
+          "had",
+          "their",
+          "house",
+          "painted"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "paint",
+          "painting"
+        ],
+        "explanation": "had + nesne + V3",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-04",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He had his eyes to test.",
+        "errorSpan": "to test",
+        "answers": [
+          "He had his eyes tested."
+        ],
+        "explanation": "To yok; V3.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-05",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Dün gözlerimi muayene ettirdim.",
+        "hint": "test etmek: test",
+        "answers": [
+          "I had my eyes tested yesterday.",
+          "Yesterday I had my eyes tested."
+        ],
+        "targetStructure": "had + nesne + V3",
+        "explanation": "Yaptırma.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I tested my eyes yesterday.",
+            "explanation": "Kendi yaptığını anlatır."
+          }
+        ],
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-06",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "We ___ our windows cleaned next week.",
+        "options": [
+          {
+            "id": "a",
+            "text": "have"
+          },
+          {
+            "id": "b",
+            "text": "had"
+          },
+          {
+            "id": "c",
+            "text": "will have"
+          },
+          {
+            "id": "d",
+            "text": "are having"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Gelecek: will have.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-07",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She is ___ her nails done. (have)",
+        "answers": [
+          "having"
+        ],
+        "explanation": "is having.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-08",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Saçını yaptırdı mı?",
+        "answer": [
+          "Did",
+          "she",
+          "have",
+          "her",
+          "hair",
+          "done"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Does",
+          "had"
+        ],
+        "explanation": "Did + have",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-09",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Did you had your car washed?",
+        "errorSpan": "Did you had",
+        "answers": [
+          "Did you have your car washed?"
+        ],
+        "explanation": "Did’den sonra have.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-10",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biz fotoğrafımızı çektirdik.",
+        "hint": "çekmek: take",
+        "answers": [
+          "We had our photo taken.",
+          "We had our photos taken."
+        ],
+        "targetStructure": "had + nesne + V3",
+        "explanation": "Yaptırma.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We had taken our photo.",
+            "explanation": "Nesne have'den sonra."
+          }
+        ],
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-11",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "The boss ___ everyone sign the paper.",
+        "options": [
+          {
+            "id": "a",
+            "text": "made to"
+          },
+          {
+            "id": "b",
+            "text": "has to"
+          },
+          {
+            "id": "c",
+            "text": "got to"
+          },
+          {
+            "id": "d",
+            "text": "had"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "have + kişi + V1.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-12",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I got my phone ___. (fix)",
+        "answers": [
+          "fixed"
+        ],
+        "explanation": "get + nesne + V3.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-13",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He didn't had his hair cut.",
+        "errorSpan": "didn't had",
+        "answers": [
+          "He didn't have his hair cut."
+        ],
+        "explanation": "Didn’t’ten sonra have.",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-14",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "I ___ have my car repaired. (tamir ettirmedim)",
+        "options": [
+          {
+            "id": "a",
+            "text": "don't"
+          },
+          {
+            "id": "b",
+            "text": "haven't"
+          },
+          {
+            "id": "c",
+            "text": "didn't"
+          },
+          {
+            "id": "d",
+            "text": "wasn't"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Geçmiş olumsuz.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-15",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Şu anda evini boyatıyor.",
+        "answer": [
+          "He",
+          "is",
+          "having",
+          "his",
+          "house",
+          "painted"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "paint"
+        ],
+        "explanation": "is having",
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-causative-intro-exam-16",
+        "lessonId": "b1-causative-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu ay saçını kestirdin mi?",
+        "hint": "kesmek: cut",
+        "answers": [
+          "Did you have your hair cut this month?",
+          "Have you had your hair cut this month?"
+        ],
+        "targetStructure": "Did you have",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did you had your hair cut this month?",
+            "explanation": "Did'den sonra have."
+          }
+        ],
+        "tags": [
+          "causative-intro",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
