@@ -1,0 +1,2195 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-linking-words",
+  "levelId": "b1",
+  "title": "Linking Words: Although, Despite, However",
+  "objectives": [
+    "Although / even though / though ile zıtlık kurmak",
+    "Despite / in spite of + isim / -ing yapısını kullanmak",
+    "However ve nevertheless ile cümleleri bağlamak",
+    "Ekleme ve sonuç bağlaçlarını (also, as well, therefore, so) ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Zıtlık, ekleme ve sonuç bağlaçları",
+      "paragraphs": [
+        "Bağlaçlar cümleleri ve fikirleri bağlar. Zıtlık için although, despite ve however; sebep-sonuç için because, so, therefore; ekleme için and, also, as well kullanılır.",
+        "En sık karıştırılan nokta, hangi bağlaçtan sonra cümle, hangisinden sonra isim ya da -ing geleceğidir. Although + özne + fiil; despite + isim / -ing; however ise yeni bir cümleyi başlatır ve virgülle ayrılır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Although, even though, though",
+      "paragraphs": [
+        "Although ve even though’dan sonra tam cümle (özne + fiil) gelir. Even though daha güçlü zıtlık verir. Though konuşma dilinde yaygındır ve cümle sonunda da kullanılabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Although",
+          "pattern": "Although + özne + fiil, …",
+          "exampleIds": [
+            "ex-linking-words-01",
+            "ex-linking-words-02",
+            "ex-linking-words-03"
+          ]
+        },
+        {
+          "label": "Even though",
+          "pattern": "Even though + özne + fiil",
+          "exampleIds": [
+            "ex-linking-words-04",
+            "ex-linking-words-05"
+          ]
+        },
+        {
+          "label": "Though",
+          "pattern": "…, though  /  Though …",
+          "exampleIds": [
+            "ex-linking-words-06",
+            "ex-linking-words-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Despite / in spite of",
+      "paragraphs": [
+        "Despite ve in spite of’tan sonra isim, zamir ya da -ing gelir; tam cümle gelmez. Despite of kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "İsimle",
+          "pattern": "Despite + isim",
+          "exampleIds": [
+            "ex-linking-words-08",
+            "ex-linking-words-09"
+          ]
+        },
+        {
+          "label": "-ing ile",
+          "pattern": "In spite of + V-ing",
+          "exampleIds": [
+            "ex-linking-words-10",
+            "ex-linking-words-11"
+          ]
+        },
+        {
+          "label": "Cümle için",
+          "pattern": "Despite the fact that + özne + fiil",
+          "exampleIds": [
+            "ex-linking-words-12",
+            "ex-linking-words-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "However, nevertheless",
+      "paragraphs": [
+        "However ve nevertheless iki cümle arasında zıtlık kurar. Noktalı virgül ya da nokta ile ayrılır, kendisinden sonra virgül gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Cümle başı",
+          "pattern": "…. However, …",
+          "exampleIds": [
+            "ex-linking-words-14",
+            "ex-linking-words-15",
+            "ex-linking-words-16"
+          ]
+        },
+        {
+          "label": "Nevertheless",
+          "pattern": "…. Nevertheless, …",
+          "exampleIds": [
+            "ex-linking-words-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "But, yet, while, whereas",
+      "paragraphs": [
+        "But en yaygın zıtlık bağlacıdır. While ve whereas iki durumu karşılaştırır, yet daha resmî bir zıtlık kurar."
+      ],
+      "formulas": [
+        {
+          "label": "But",
+          "pattern": "…, but …",
+          "exampleIds": [
+            "ex-linking-words-18"
+          ]
+        },
+        {
+          "label": "While / whereas",
+          "pattern": "While … , … / … whereas …",
+          "exampleIds": [
+            "ex-linking-words-19",
+            "ex-linking-words-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Ekleme bağlaçları",
+      "paragraphs": [
+        "And ile benzer fikirleri bağlarız. Also, as well, too, in addition ve besides bilgiye ekleme yapar. Also genellikle fiilin önüne, as well ve too cümle sonuna gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Also",
+          "pattern": "özne + also + fiil",
+          "exampleIds": [
+            "ex-linking-words-21"
+          ]
+        },
+        {
+          "label": "As well / too",
+          "pattern": "… as well / too",
+          "exampleIds": [
+            "ex-linking-words-22",
+            "ex-linking-words-23"
+          ]
+        },
+        {
+          "label": "In addition",
+          "pattern": "In addition, … / Besides, …",
+          "exampleIds": [
+            "ex-linking-words-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Sebep ve sonuç",
+      "paragraphs": [
+        "Because (çünkü) ve since sebep, so ve therefore sonuç bildirir. Because of ve due to’dan sonra isim gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Sebep",
+          "pattern": "because + cümle / because of + isim",
+          "exampleIds": [
+            "ex-linking-words-25",
+            "ex-linking-words-26"
+          ]
+        },
+        {
+          "label": "Sonuç",
+          "pattern": "so + cümle / Therefore, …",
+          "exampleIds": [
+            "ex-linking-words-27",
+            "ex-linking-words-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-linking-words-01",
+        "ex-linking-words-02",
+        "ex-linking-words-03",
+        "ex-linking-words-04",
+        "ex-linking-words-05",
+        "ex-linking-words-06",
+        "ex-linking-words-07",
+        "ex-linking-words-08",
+        "ex-linking-words-09",
+        "ex-linking-words-10",
+        "ex-linking-words-11",
+        "ex-linking-words-12",
+        "ex-linking-words-13",
+        "ex-linking-words-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-linking-words-15",
+        "ex-linking-words-16",
+        "ex-linking-words-17",
+        "ex-linking-words-18",
+        "ex-linking-words-19",
+        "ex-linking-words-20",
+        "ex-linking-words-21",
+        "ex-linking-words-22",
+        "ex-linking-words-23",
+        "ex-linking-words-24",
+        "ex-linking-words-25",
+        "ex-linking-words-26",
+        "ex-linking-words-27",
+        "ex-linking-words-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "Despite it was raining, we went out.",
+          "right": "Although it was raining, we went out.",
+          "explanation": "Despite’ten sonra isim ya da -ing gelir."
+        },
+        {
+          "wrong": "Although the rain, we went out.",
+          "right": "Despite the rain, we went out.",
+          "explanation": "Although + tam cümle."
+        },
+        {
+          "wrong": "In spite of he was ill, he went to work.",
+          "right": "In spite of being ill, he went to work.",
+          "explanation": "In spite of + isim / -ing."
+        },
+        {
+          "wrong": "Despite of the rain, we went out.",
+          "right": "Despite the rain, we went out.",
+          "explanation": "Despite’ten sonra of gelmez."
+        },
+        {
+          "wrong": "He is tired. Although, he works.",
+          "right": "He is tired. However, he works.",
+          "explanation": "Cümle başında however."
+        },
+        {
+          "wrong": "We stayed home because the rain.",
+          "right": "We stayed home because of the rain.",
+          "explanation": "Because of + isim."
+        },
+        {
+          "wrong": "Although he was ill, but he went.",
+          "right": "Although he was ill, he went.",
+          "explanation": "Although ile but birlikte kullanılmaz."
+        },
+        {
+          "wrong": "However he was ill, he went to work.",
+          "right": "Although he was ill, he went to work.",
+          "explanation": "Cümle içinde although."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "So / because",
+          "body": "Sebep-sonuç bağlaçlarını hatırla.",
+          "lessonId": "a2-so-because"
+        },
+        {
+          "topic": "Conjunctions",
+          "body": "And, but, or temelini A1'de gör.",
+          "lessonId": "a1-conjunctions"
+        },
+        {
+          "topic": "So / such",
+          "body": "Sonuç bildiren so / such yapısına bak.",
+          "lessonId": "b1-so-such"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Although + cümle; despite / in spite of + isim ya da -ing.",
+        "Although ile but aynı cümlede kullanılmaz.",
+        "However yeni cümleyi başlatır, virgülle ayrılır.",
+        "Despite of yoktur; despite veya in spite of.",
+        "Because + cümle; because of + isim."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-linking-words-01",
+        "q-linking-words-13",
+        "q-linking-words-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-linking-words-01",
+      "en": "Although it was raining, we went out.",
+      "tr": "Yağmur yağmasına rağmen dışarı çıktık.",
+      "highlight": "Although it was raining"
+    },
+    {
+      "id": "ex-linking-words-02",
+      "en": "Although she was tired, she kept working.",
+      "tr": "Yorgun olmasına rağmen çalışmaya devam etti.",
+      "highlight": "Although she was tired"
+    },
+    {
+      "id": "ex-linking-words-03",
+      "en": "I went to work although I felt ill.",
+      "tr": "Kendimi hasta hissetmeme rağmen işe gittim.",
+      "highlight": "although I felt ill"
+    },
+    {
+      "id": "ex-linking-words-04",
+      "en": "Even though he studied hard, he failed.",
+      "tr": "Çok çalışmasına rağmen kaldı.",
+      "highlight": "Even though he studied hard"
+    },
+    {
+      "id": "ex-linking-words-05",
+      "en": "She smiled even though she was sad.",
+      "tr": "Üzgün olmasına rağmen gülümsedi.",
+      "highlight": "even though she was sad"
+    },
+    {
+      "id": "ex-linking-words-06",
+      "en": "Though it was late, we stayed.",
+      "tr": "Geç olmasına rağmen kaldık.",
+      "highlight": "Though it was late"
+    },
+    {
+      "id": "ex-linking-words-07",
+      "en": "It was cold. We enjoyed the trip, though.",
+      "tr": "Hava soğuktu. Yine de gezinin tadını çıkardık.",
+      "highlight": "though"
+    },
+    {
+      "id": "ex-linking-words-08",
+      "en": "Despite the rain, we had a picnic.",
+      "tr": "Yağmura rağmen piknik yaptık.",
+      "highlight": "Despite the rain"
+    },
+    {
+      "id": "ex-linking-words-09",
+      "en": "Despite his age, he runs every day.",
+      "tr": "Yaşına rağmen her gün koşar.",
+      "highlight": "Despite his age"
+    },
+    {
+      "id": "ex-linking-words-10",
+      "en": "In spite of being tired, she kept going.",
+      "tr": "Yorgun olmasına rağmen devam etti.",
+      "highlight": "In spite of being tired"
+    },
+    {
+      "id": "ex-linking-words-11",
+      "en": "Despite working hard, he didn't pass.",
+      "tr": "Çok çalışmasına rağmen geçemedi.",
+      "highlight": "Despite working hard"
+    },
+    {
+      "id": "ex-linking-words-12",
+      "en": "Despite the fact that he was ill, he went to work.",
+      "tr": "Hasta olmasına rağmen işe gitti.",
+      "highlight": "Despite the fact that"
+    },
+    {
+      "id": "ex-linking-words-13",
+      "en": "In spite of the fact that it was late, we stayed.",
+      "tr": "Geç olmasına rağmen kaldık.",
+      "highlight": "In spite of the fact that"
+    },
+    {
+      "id": "ex-linking-words-14",
+      "en": "He worked hard. However, he didn't pass.",
+      "tr": "Çok çalıştı. Ancak geçemedi.",
+      "highlight": "However,"
+    },
+    {
+      "id": "ex-linking-words-15",
+      "en": "The food was good. However, it was expensive.",
+      "tr": "Yemek güzeldi. Ancak pahalıydı.",
+      "highlight": "However,"
+    },
+    {
+      "id": "ex-linking-words-16",
+      "en": "It was a long trip; however, we enjoyed it.",
+      "tr": "Uzun bir yolculuktu; ancak keyif aldık.",
+      "highlight": "however,"
+    },
+    {
+      "id": "ex-linking-words-17",
+      "en": "It rained all day. Nevertheless, we had fun.",
+      "tr": "Bütün gün yağmur yağdı. Yine de eğlendik.",
+      "highlight": "Nevertheless,"
+    },
+    {
+      "id": "ex-linking-words-18",
+      "en": "I wanted to go, but I was busy.",
+      "tr": "Gitmek istedim ama meşguldüm.",
+      "highlight": "but I was busy"
+    },
+    {
+      "id": "ex-linking-words-19",
+      "en": "While I like tea, my sister prefers coffee.",
+      "tr": "Ben çayı severken kız kardeşim kahveyi tercih eder.",
+      "highlight": "While I like tea"
+    },
+    {
+      "id": "ex-linking-words-20",
+      "en": "He is rich, whereas his brother is poor.",
+      "tr": "O zengin, oysa kardeşi fakir.",
+      "highlight": "whereas his brother"
+    },
+    {
+      "id": "ex-linking-words-21",
+      "en": "She speaks English and also French.",
+      "tr": "İngilizce konuşur ve ayrıca Fransızca da.",
+      "highlight": "also French"
+    },
+    {
+      "id": "ex-linking-words-22",
+      "en": "I like pizza, and I like pasta as well.",
+      "tr": "Pizzayı severim, makarnayı da severim.",
+      "highlight": "as well"
+    },
+    {
+      "id": "ex-linking-words-23",
+      "en": "She is clever, and she is kind too.",
+      "tr": "Zeki, ve ayrıca nazik de.",
+      "highlight": "too"
+    },
+    {
+      "id": "ex-linking-words-24",
+      "en": "In addition, the hotel has a pool.",
+      "tr": "Ayrıca otelin bir havuzu var.",
+      "highlight": "In addition,"
+    },
+    {
+      "id": "ex-linking-words-25",
+      "en": "We stayed home because it was raining.",
+      "tr": "Yağmur yağdığı için evde kaldık.",
+      "highlight": "because it was raining"
+    },
+    {
+      "id": "ex-linking-words-26",
+      "en": "We stayed home because of the rain.",
+      "tr": "Yağmur yüzünden evde kaldık.",
+      "highlight": "because of the rain"
+    },
+    {
+      "id": "ex-linking-words-27",
+      "en": "It was late, so we took a taxi.",
+      "tr": "Geç olmuştu, bu yüzden taksiye bindik.",
+      "highlight": "so we took a taxi"
+    },
+    {
+      "id": "ex-linking-words-28",
+      "en": "He missed the bus. Therefore, he was late.",
+      "tr": "Otobüsü kaçırdı. Bu nedenle geç kaldı.",
+      "highlight": "Therefore,"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-linking-words-01",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ it was cold, we went swimming.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite"
+        },
+        {
+          "id": "b",
+          "text": "Although"
+        },
+        {
+          "id": "c",
+          "text": "However"
+        },
+        {
+          "id": "d",
+          "text": "Because"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Although + özne + fiil.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-02",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ the cold, we went swimming.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "However"
+        },
+        {
+          "id": "c",
+          "text": "Despite"
+        },
+        {
+          "id": "d",
+          "text": "Even though"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Despite + isim.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-03",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is rich. ___, he isn't happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Because"
+        },
+        {
+          "id": "d",
+          "text": "However"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Ayrı cümle: However.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-04",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She passed the exam ___ she didn't study much.",
+      "options": [
+        {
+          "id": "a",
+          "text": "although"
+        },
+        {
+          "id": "b",
+          "text": "despite"
+        },
+        {
+          "id": "c",
+          "text": "however"
+        },
+        {
+          "id": "d",
+          "text": "because of"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Although + cümle.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-05",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ being tired, he went on working.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Despite"
+        },
+        {
+          "id": "c",
+          "text": "Even though"
+        },
+        {
+          "id": "d",
+          "text": "However"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Despite + -ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-06",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ he is very rich, he lives simply.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Despite"
+        },
+        {
+          "id": "b",
+          "text": "In spite of"
+        },
+        {
+          "id": "c",
+          "text": "Even though"
+        },
+        {
+          "id": "d",
+          "text": "However"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Even though + cümle.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-07",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We stayed home ___ the rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "although"
+        },
+        {
+          "id": "c",
+          "text": "despite of"
+        },
+        {
+          "id": "d",
+          "text": "because of"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Because of + isim.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-08",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It was late, ___ we took a taxi.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "although"
+        },
+        {
+          "id": "c",
+          "text": "however"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: so.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-09",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He missed the bus. ___, he was late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Therefore"
+        },
+        {
+          "id": "c",
+          "text": "Despite"
+        },
+        {
+          "id": "d",
+          "text": "Even though"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sonuç: therefore.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-10",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He plays football, and he plays tennis ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "however"
+        },
+        {
+          "id": "b",
+          "text": "although"
+        },
+        {
+          "id": "c",
+          "text": "as well"
+        },
+        {
+          "id": "d",
+          "text": "despite"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ekleme: as well.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-11",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ the fact that it was late, we stayed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "However"
+        },
+        {
+          "id": "c",
+          "text": "Because"
+        },
+        {
+          "id": "d",
+          "text": "In spite of"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "In spite of the fact that.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-12",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I like tea, ___ my sister prefers coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whereas"
+        },
+        {
+          "id": "b",
+          "text": "despite"
+        },
+        {
+          "id": "c",
+          "text": "because of"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Karşılaştırma: whereas.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-13",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ it was late, we stayed. (although)",
+      "answers": [
+        "Although"
+      ],
+      "explanation": "Although + cümle.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Despite",
+          "explanation": "Despite + isim."
+        }
+      ],
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-14",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ the rain, we went out. (despite)",
+      "answers": [
+        "Despite"
+      ],
+      "explanation": "Despite + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Although",
+          "explanation": "Although + cümle."
+        }
+      ],
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-15",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He worked hard. ___, he failed. (however)",
+      "answers": [
+        "However"
+      ],
+      "explanation": "Yeni cümle: However,.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-16",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She was tired ___ she kept working. (but)",
+      "answers": [
+        "but"
+      ],
+      "explanation": "Zıtlık: but.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-17",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We stayed in ___ of the rain. (spite)",
+      "answers": [
+        "spite"
+      ],
+      "explanation": "In spite of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "despite",
+          "explanation": "In ___ of: spite."
+        }
+      ],
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-18",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He didn't call. ___, I was worried. (therefore)",
+      "answers": [
+        "Therefore"
+      ],
+      "explanation": "Sonuç: Therefore.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-19",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She stayed home because ___ the weather. (of)",
+      "answers": [
+        "of"
+      ],
+      "explanation": "Because of + isim.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-20",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he was ill, he went to work. (even though)",
+      "answers": [
+        "Even though"
+      ],
+      "explanation": "Even though + cümle.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-21",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It was expensive. ___, we bought it. (nevertheless)",
+      "answers": [
+        "Nevertheless"
+      ],
+      "explanation": "Zıtlık: Nevertheless.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-22",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I like tea ___ coffee. (and)",
+      "answers": [
+        "and"
+      ],
+      "explanation": "Ekleme: and.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-23",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmura rağmen dışarı çıktık.",
+      "answer": [
+        "Despite",
+        "the",
+        "rain,",
+        "we",
+        "went",
+        "out"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Although",
+        "However"
+      ],
+      "explanation": "despite + isim",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-24",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun olmasına rağmen çalıştı.",
+      "answer": [
+        "Although",
+        "she",
+        "was",
+        "tired,",
+        "she",
+        "worked"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Despite",
+        "However"
+      ],
+      "explanation": "although + cümle",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-25",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çok çalıştı. Ancak geçemedi.",
+      "answer": [
+        "He",
+        "worked",
+        "hard.",
+        "However,",
+        "he",
+        "didn't",
+        "pass"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Although",
+        "Despite"
+      ],
+      "explanation": "However",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-26",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geç olmuştu, bu yüzden taksiye bindik.",
+      "answer": [
+        "It",
+        "was",
+        "late,",
+        "so",
+        "we",
+        "took",
+        "a",
+        "taxi"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "although",
+        "despite"
+      ],
+      "explanation": "so",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-27",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Despite it was raining, we went out.",
+      "errorSpan": "Despite it was raining",
+      "answers": [
+        "Although it was raining, we went out.",
+        "Despite the rain, we went out."
+      ],
+      "explanation": "Despite + isim; cümle için although.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-28",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Although the rain, we went out.",
+      "errorSpan": "Although the rain",
+      "answers": [
+        "Despite the rain, we went out.",
+        "Although it was raining, we went out."
+      ],
+      "explanation": "Although + cümle.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-29",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is tired. Although, he works.",
+      "errorSpan": "Although, he works",
+      "answers": [
+        "He is tired. However, he works."
+      ],
+      "explanation": "Although cümle başı bağlaç değildir; However.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-30",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "In spite of he was ill, he went to work.",
+      "errorSpan": "In spite of he was ill",
+      "answers": [
+        "In spite of being ill, he went to work.",
+        "Although he was ill, he went to work."
+      ],
+      "explanation": "In spite of + -ing.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-31",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Despite of the rain, we went out.",
+      "errorSpan": "Despite of",
+      "answers": [
+        "Despite the rain, we went out.",
+        "In spite of the rain, we went out."
+      ],
+      "explanation": "Despite of yoktur.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-32",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "We stayed home because the rain.",
+      "errorSpan": "because the rain",
+      "answers": [
+        "We stayed home because of the rain."
+      ],
+      "explanation": "Because of + isim.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-33",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "However he was ill, he went to work.",
+      "errorSpan": "However he was ill",
+      "answers": [
+        "Although he was ill, he went to work."
+      ],
+      "explanation": "Cümle içinde although.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-34",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağmasına rağmen dışarı çıktık.",
+      "hint": "çıkmak: go out",
+      "answers": [
+        "Although it was raining, we went out.",
+        "We went out although it was raining.",
+        "Even though it was raining, we went out.",
+        "We went out even though it was raining."
+      ],
+      "targetStructure": "although",
+      "explanation": "Zıtlık.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-35",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmura rağmen dışarı çıktık.",
+      "hint": "yağmur: rain",
+      "answers": [
+        "Despite the rain, we went out.",
+        "In spite of the rain, we went out.",
+        "We went out despite the rain.",
+        "We went out in spite of the rain."
+      ],
+      "targetStructure": "despite",
+      "explanation": "Zıtlık.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-36",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok çalıştı. Ancak başaramadı.",
+      "hint": "başarmak: succeed",
+      "answers": [
+        "He worked hard. However, he didn't succeed.",
+        "She worked hard. However, she didn't succeed."
+      ],
+      "targetStructure": "However",
+      "explanation": "Zıtlık.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-37",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgun olmasına rağmen çalışmaya devam etti.",
+      "hint": "devam etmek: keep",
+      "answers": [
+        "Although she was tired, she kept working.",
+        "Despite being tired, she kept working.",
+        "In spite of being tired, she kept working.",
+        "Although he was tired, he kept working."
+      ],
+      "targetStructure": "although / despite",
+      "explanation": "Zıtlık.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-38",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hasta olduğu için evde kaldı.",
+      "hint": "hasta: ill",
+      "answers": [
+        "He stayed home because he was ill.",
+        "She stayed home because she was ill."
+      ],
+      "targetStructure": "because",
+      "explanation": "Sebep.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-39",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yüzünden maç iptal edildi.",
+      "hint": "iptal etmek: cancel",
+      "answers": [
+        "The match was cancelled because of the rain."
+      ],
+      "targetStructure": "because of",
+      "explanation": "Sebep.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The match was cancelled because the rain.",
+          "explanation": "Because of + isim."
+        }
+      ],
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-40",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben çayı severken kız kardeşim kahveyi sever.",
+      "hint": "sevmek: like",
+      "answers": [
+        "While I like tea, my sister likes coffee.",
+        "I like tea, whereas my sister likes coffee.",
+        "Whereas I like tea, my sister likes coffee.",
+        "I like tea, while my sister likes coffee."
+      ],
+      "targetStructure": "while / whereas",
+      "explanation": "Karşılaştırma.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-linking-words-41",
+      "lessonId": "b1-linking-words",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ayrıca otelin bir havuzu da var.",
+      "hint": "havuz: pool",
+      "answers": [
+        "In addition, the hotel has a pool.",
+        "Also, the hotel has a pool.",
+        "Besides, the hotel has a pool."
+      ],
+      "targetStructure": "in addition",
+      "explanation": "Ekleme.",
+      "tags": [
+        "linking-words",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "preposition_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-linking-words",
+    "title": "Linking Words: Although, Despite, However: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-linking-words-exam-01",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ he was ill, he went to school.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Despite"
+          },
+          {
+            "id": "b",
+            "text": "However"
+          },
+          {
+            "id": "c",
+            "text": "Although"
+          },
+          {
+            "id": "d",
+            "text": "Because of"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Although + cümle.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-02",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ his illness, he went to school.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Although"
+          },
+          {
+            "id": "b",
+            "text": "However"
+          },
+          {
+            "id": "c",
+            "text": "Even though"
+          },
+          {
+            "id": "d",
+            "text": "Despite"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Despite + isim.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-03",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She loves chocolate. ___, she never eats it.",
+        "options": [
+          {
+            "id": "a",
+            "text": "However"
+          },
+          {
+            "id": "b",
+            "text": "Although"
+          },
+          {
+            "id": "c",
+            "text": "Despite"
+          },
+          {
+            "id": "d",
+            "text": "Because"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ayrı cümle: However.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-04",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We didn't go out ___ the bad weather.",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "because of"
+          },
+          {
+            "id": "c",
+            "text": "although"
+          },
+          {
+            "id": "d",
+            "text": "despite"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Because of + isim.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-05",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He didn't study. ___, he failed.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Although"
+          },
+          {
+            "id": "b",
+            "text": "Even though"
+          },
+          {
+            "id": "c",
+            "text": "Therefore"
+          },
+          {
+            "id": "d",
+            "text": "Despite"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Sonuç: therefore.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-06",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ it was cold, she wore a T-shirt. (even though)",
+        "answers": [
+          "Even though"
+        ],
+        "explanation": "Even though + cümle.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-07",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ working hard, he is still poor. (despite)",
+        "answers": [
+          "Despite"
+        ],
+        "explanation": "Despite + -ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Although",
+            "explanation": "Although + cümle."
+          }
+        ],
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-08",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I was hungry, ___ I ate something. (so)",
+        "answers": [
+          "so"
+        ],
+        "explanation": "Sonuç: so.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-09",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She is smart. ___, she is hard-working. (also)",
+        "answers": [
+          "Also",
+          "In addition",
+          "Besides"
+        ],
+        "explanation": "Ekleme.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-10",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yağmura rağmen maç oynandı.",
+        "answer": [
+          "Despite",
+          "the",
+          "rain,",
+          "the",
+          "match",
+          "was",
+          "played"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Although",
+          "However"
+        ],
+        "explanation": "despite + isim",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-11",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Geç olmasına rağmen kaldık.",
+        "answer": [
+          "Although",
+          "it",
+          "was",
+          "late,",
+          "we",
+          "stayed"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Despite",
+          "However"
+        ],
+        "explanation": "although + cümle",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-12",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Despite he was tired, he worked.",
+        "errorSpan": "Despite he was tired",
+        "answers": [
+          "Although he was tired, he worked.",
+          "Despite being tired, he worked."
+        ],
+        "explanation": "Despite + isim / -ing.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-13",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Although of the rain, we went out.",
+        "errorSpan": "Although of",
+        "answers": [
+          "Despite the rain, we went out.",
+          "Although it was raining, we went out."
+        ],
+        "explanation": "Although of yoktur.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-14",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We were late because the traffic.",
+        "errorSpan": "because the traffic",
+        "answers": [
+          "We were late because of the traffic."
+        ],
+        "explanation": "Because of + isim.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-15",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hava soğuk olmasına rağmen yüzdük.",
+        "hint": "yüzmek: swim",
+        "answers": [
+          "Although it was cold, we swam.",
+          "We swam although it was cold.",
+          "Even though it was cold, we swam.",
+          "We swam even though it was cold."
+        ],
+        "targetStructure": "although",
+        "explanation": "Zıtlık.",
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-linking-words-exam-16",
+        "lessonId": "b1-linking-words",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Trafik yüzünden geç kaldık.",
+        "hint": "trafik: traffic",
+        "answers": [
+          "We were late because of the traffic."
+        ],
+        "targetStructure": "because of",
+        "explanation": "Sebep.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We were late because the traffic.",
+            "explanation": "Because of + isim."
+          }
+        ],
+        "tags": [
+          "linking-words",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "preposition_usage"
+        ]
+      }
+    ]
+  }
+}
