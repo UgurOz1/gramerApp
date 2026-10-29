@@ -52,6 +52,7 @@ import bVerbP from "@/assets/data/levels/b1/b1-verb-patterns.json";
 import bUsed from "@/assets/data/levels/b1/b1-used-to.json";
 import bGetU from "@/assets/data/levels/b1/b1-be-get-used-to.json";
 import bDefRel from "@/assets/data/levels/b1/b1-defining-relative.json";
+import bNonDef from "@/assets/data/levels/b1/b1-non-defining-relative.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -121,6 +122,7 @@ export const lessonFiles: Record<string, unknown> = {
   "b1-used-to": bUsed,
   "b1-be-get-used-to": bGetU,
   "b1-defining-relative": bDefRel,
+  "b1-non-defining-relative": bNonDef,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

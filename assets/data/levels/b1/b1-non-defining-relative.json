@@ -1,0 +1,2151 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-non-defining-relative",
+  "levelId": "b1",
+  "title": "Non-defining Relative Clauses",
+  "objectives": [
+    "Non-defining relative clause ile ek bilgi vermek",
+    "Virgül kullanımını doğru uygulamak",
+    "That kullanılamayacağını ve zamirin atılamayacağını bilmek",
+    "Which ile bir cümlenin tamamına gönderme yapmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Virgüllü ek bilgi cümlecikleri",
+      "paragraphs": [
+        "Non-defining relative clause, zaten belli olan bir isim hakkında ek bilgi verir. Cümleden çıkarsan cümle yine anlamlıdır: My brother, who lives in Berlin, is a doctor. Kimden söz edildiği bellidir; cümlecik sadece bilgi ekler.",
+        "Bu cümlecikler virgülle ayrılır, konuşmada kısa duraklamalar yapılır. Burada that kullanılamaz ve nesne zamiri atılamaz."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Virgülle ayrılır",
+      "paragraphs": [
+        "Ek bilgi cümleciği iki virgül arasında yer alır. Cümle sonundaysa tek virgül ve nokta kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Ortada",
+          "pattern": "isim, who / which + fiil, devam",
+          "exampleIds": [
+            "ex-non-defining-relative-01",
+            "ex-non-defining-relative-02",
+            "ex-non-defining-relative-03"
+          ]
+        },
+        {
+          "label": "Sonda",
+          "pattern": "… isim, who / which + fiil.",
+          "exampleIds": [
+            "ex-non-defining-relative-04",
+            "ex-non-defining-relative-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Who ve which",
+      "paragraphs": [
+        "İnsan için who, nesne ve hayvan için which kullanılır. Bunlar her zaman yazılır; atılamaz."
+      ],
+      "formulas": [
+        {
+          "label": "Who",
+          "pattern": "isim, who + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-06",
+            "ex-non-defining-relative-07"
+          ]
+        },
+        {
+          "label": "Which",
+          "pattern": "isim, which + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-08",
+            "ex-non-defining-relative-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "That kullanılmaz",
+      "paragraphs": [
+        "Non-defining clause'larda that kullanılamaz. Sadece who, which, whose, where, when kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Doğru",
+          "pattern": "My car, which is old, …",
+          "exampleIds": [
+            "ex-non-defining-relative-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Whose, where, when",
+      "paragraphs": [
+        "Whose sahiplik, where yer, when zaman bildirir. Hepsi virgülle ayrılır."
+      ],
+      "formulas": [
+        {
+          "label": "Whose",
+          "pattern": "isim, whose + isim + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-11",
+            "ex-non-defining-relative-12"
+          ]
+        },
+        {
+          "label": "Where",
+          "pattern": "yer, where + özne + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-13",
+            "ex-non-defining-relative-14"
+          ]
+        },
+        {
+          "label": "When",
+          "pattern": "zaman, when + özne + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-15",
+            "ex-non-defining-relative-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Cümlenin tamamına gönderme",
+      "paragraphs": [
+        "Which, bir cümlenin tamamını işaret edebilir. Bu durumda anlam “bu durum, bu da” demektir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "…, which + fiil",
+          "exampleIds": [
+            "ex-non-defining-relative-17",
+            "ex-non-defining-relative-18",
+            "ex-non-defining-relative-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Defining ve non-defining farkı",
+      "paragraphs": [
+        "Defining clause'da virgül yoktur ve bilgi kimin kastedildiğini belirler. Non-defining clause'da virgül vardır ve bilgi ek bilgidir."
+      ],
+      "formulas": [
+        {
+          "label": "Defining",
+          "pattern": "My sister who lives in Rome …",
+          "exampleIds": [
+            "ex-non-defining-relative-20"
+          ]
+        },
+        {
+          "label": "Non-defining",
+          "pattern": "My sister, who lives in Rome, …",
+          "exampleIds": [
+            "ex-non-defining-relative-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-non-defining-relative-01",
+        "ex-non-defining-relative-02",
+        "ex-non-defining-relative-03",
+        "ex-non-defining-relative-04",
+        "ex-non-defining-relative-05",
+        "ex-non-defining-relative-06",
+        "ex-non-defining-relative-07",
+        "ex-non-defining-relative-08",
+        "ex-non-defining-relative-09",
+        "ex-non-defining-relative-10",
+        "ex-non-defining-relative-11",
+        "ex-non-defining-relative-12",
+        "ex-non-defining-relative-13",
+        "ex-non-defining-relative-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-non-defining-relative-15",
+        "ex-non-defining-relative-16",
+        "ex-non-defining-relative-17",
+        "ex-non-defining-relative-18",
+        "ex-non-defining-relative-19",
+        "ex-non-defining-relative-20",
+        "ex-non-defining-relative-21",
+        "ex-non-defining-relative-22",
+        "ex-non-defining-relative-23",
+        "ex-non-defining-relative-24",
+        "ex-non-defining-relative-25",
+        "ex-non-defining-relative-26",
+        "ex-non-defining-relative-27",
+        "ex-non-defining-relative-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "My brother who lives in Berlin, is a doctor.",
+          "right": "My brother, who lives in Berlin, is a doctor.",
+          "explanation": "Non-defining clause iki virgülle ayrılır."
+        },
+        {
+          "wrong": "My car, that is old, works well.",
+          "right": "My car, which is old, works well.",
+          "explanation": "Non-defining'de that kullanılmaz."
+        },
+        {
+          "wrong": "Paris, which I was born, is beautiful.",
+          "right": "Paris, where I was born, is beautiful.",
+          "explanation": "Yer için where."
+        },
+        {
+          "wrong": "Anna, she is a nurse, is my friend.",
+          "right": "Anna, who is a nurse, is my friend.",
+          "explanation": "Virgül yeterli bağlama değildir; zamir gerekir."
+        },
+        {
+          "wrong": "Tom, who car broke down, was late.",
+          "right": "Tom, whose car broke down, was late.",
+          "explanation": "Sahiplik: whose."
+        },
+        {
+          "wrong": "He passed, what surprised me.",
+          "right": "He passed, which surprised me.",
+          "explanation": "What ilgi zamiri değildir."
+        },
+        {
+          "wrong": "My mother, which is a teacher, …",
+          "right": "My mother, who is a teacher, …",
+          "explanation": "İnsan için who."
+        },
+        {
+          "wrong": "The book, I read, was great.",
+          "right": "The book (that) I read was great.",
+          "explanation": "Defining clause virgülle ayrılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Defining clauses",
+          "body": "Kimi ya da neyi kastettiğini belirleyen cümleciklerde virgül kullanılmaz.",
+          "lessonId": "b1-defining-relative"
+        },
+        {
+          "topic": "Cümleciklere genel bakış",
+          "body": "Cümlecik türlerini birlikte gör.",
+          "lessonId": "b1-clauses"
+        },
+        {
+          "topic": "A2 Relative clauses",
+          "body": "Temel who / which kullanımını hatırla.",
+          "lessonId": "a2-relative-clauses-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Non-defining clause iki virgül arasında yer alır.",
+        "That kullanılmaz; zamir atılamaz.",
+        "Which, cümlenin tamamına da gönderme yapabilir.",
+        "Virgül yoksa defining, varsa non-defining'dir.",
+        "Özel isimlerden sonra genellikle non-defining clause kullanılır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-non-defining-relative-01",
+        "q-non-defining-relative-13",
+        "q-non-defining-relative-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-non-defining-relative-01",
+      "en": "My brother, who lives in Berlin, is a doctor.",
+      "tr": "Berlin'de yaşayan kardeşim doktor.",
+      "highlight": "who lives in Berlin"
+    },
+    {
+      "id": "ex-non-defining-relative-02",
+      "en": "Mr Brown, who is 80, still works.",
+      "tr": "Seksen yaşındaki Bay Brown hâlâ çalışıyor.",
+      "highlight": "who is 80"
+    },
+    {
+      "id": "ex-non-defining-relative-03",
+      "en": "The Taj Mahal, which is in India, is beautiful.",
+      "tr": "Hindistan'daki Tac Mahal çok güzel.",
+      "highlight": "which is in India"
+    },
+    {
+      "id": "ex-non-defining-relative-04",
+      "en": "I met Sara, who is a nurse.",
+      "tr": "Hemşire olan Sara ile tanıştım.",
+      "highlight": "who is a nurse"
+    },
+    {
+      "id": "ex-non-defining-relative-05",
+      "en": "We visited Rome, which is a lovely city.",
+      "tr": "Güzel bir şehir olan Roma'yı ziyaret ettik.",
+      "highlight": "which is a lovely city"
+    },
+    {
+      "id": "ex-non-defining-relative-06",
+      "en": "Anna, who works at a bank, is my neighbour.",
+      "tr": "Bankada çalışan Anna komşum.",
+      "highlight": "who works at a bank"
+    },
+    {
+      "id": "ex-non-defining-relative-07",
+      "en": "My uncle, who is a pilot, travels a lot.",
+      "tr": "Pilot olan amcam çok seyahat eder.",
+      "highlight": "who is a pilot"
+    },
+    {
+      "id": "ex-non-defining-relative-08",
+      "en": "My laptop, which I bought last year, is broken.",
+      "tr": "Geçen yıl aldığım dizüstü bilgisayarım bozuldu.",
+      "highlight": "which I bought last year"
+    },
+    {
+      "id": "ex-non-defining-relative-09",
+      "en": "Our dog, which is very old, sleeps all day.",
+      "tr": "Çok yaşlı olan köpeğimiz bütün gün uyur.",
+      "highlight": "which is very old"
+    },
+    {
+      "id": "ex-non-defining-relative-10",
+      "en": "My car, which is old, still works well.",
+      "tr": "Eski olan arabam hâlâ iyi çalışıyor.",
+      "highlight": "which is old"
+    },
+    {
+      "id": "ex-non-defining-relative-11",
+      "en": "My neighbour, whose son is a pilot, is nice.",
+      "tr": "Oğlu pilot olan komşum çok kibar.",
+      "highlight": "whose son is a pilot"
+    },
+    {
+      "id": "ex-non-defining-relative-12",
+      "en": "Tom, whose car broke down, was late.",
+      "tr": "Arabası bozulan Tom geç kaldı.",
+      "highlight": "whose car broke down"
+    },
+    {
+      "id": "ex-non-defining-relative-13",
+      "en": "Paris, where I was born, is beautiful.",
+      "tr": "Doğduğum yer olan Paris çok güzel.",
+      "highlight": "where I was born"
+    },
+    {
+      "id": "ex-non-defining-relative-14",
+      "en": "We stayed in Antalya, where the weather was warm.",
+      "tr": "Havanın sıcak olduğu Antalya'da kaldık.",
+      "highlight": "where the weather was warm"
+    },
+    {
+      "id": "ex-non-defining-relative-15",
+      "en": "I love summer, when the days are long.",
+      "tr": "Günlerin uzun olduğu yazı severim.",
+      "highlight": "when the days are long"
+    },
+    {
+      "id": "ex-non-defining-relative-16",
+      "en": "In 2020, when the pandemic began, we stayed home.",
+      "tr": "Pandeminin başladığı 2020'de evde kaldık.",
+      "highlight": "when the pandemic began"
+    },
+    {
+      "id": "ex-non-defining-relative-17",
+      "en": "He passed the exam, which surprised everyone.",
+      "tr": "Sınavı geçti, bu herkesi şaşırttı.",
+      "highlight": "which surprised everyone"
+    },
+    {
+      "id": "ex-non-defining-relative-18",
+      "en": "She didn't call me, which was rude.",
+      "tr": "Beni aramadı, bu kabaydı.",
+      "highlight": "which was rude"
+    },
+    {
+      "id": "ex-non-defining-relative-19",
+      "en": "It rained all day, which spoiled our picnic.",
+      "tr": "Bütün gün yağmur yağdı, bu pikniğimizi bozdu.",
+      "highlight": "which spoiled our picnic"
+    },
+    {
+      "id": "ex-non-defining-relative-20",
+      "en": "My sister who lives in Rome is a teacher.",
+      "tr": "Roma'da yaşayan kız kardeşim öğretmen.",
+      "highlight": "who lives in Rome",
+      "note": "Defining: başka kardeşlerim de var"
+    },
+    {
+      "id": "ex-non-defining-relative-21",
+      "en": "My sister, who lives in Rome, is a teacher.",
+      "tr": "Roma'da yaşayan kız kardeşim öğretmen.",
+      "highlight": "who lives in Rome",
+      "note": "Non-defining: tek kız kardeşim"
+    },
+    {
+      "id": "ex-non-defining-relative-22",
+      "en": "Istanbul, which is huge, never sleeps.",
+      "tr": "Dev bir şehir olan İstanbul hiç uyumaz.",
+      "highlight": "which is huge"
+    },
+    {
+      "id": "ex-non-defining-relative-23",
+      "en": "Our teacher, who is very patient, explains everything twice.",
+      "tr": "Çok sabırlı olan öğretmenimiz her şeyi iki kez açıklar.",
+      "highlight": "who is very patient"
+    },
+    {
+      "id": "ex-non-defining-relative-24",
+      "en": "The Nile, which is the longest river, flows through Egypt.",
+      "tr": "En uzun nehir olan Nil, Mısır'dan geçer.",
+      "highlight": "which is the longest river"
+    },
+    {
+      "id": "ex-non-defining-relative-25",
+      "en": "My best friend, whose name is Ali, lives abroad.",
+      "tr": "Adı Ali olan en iyi arkadaşım yurt dışında yaşıyor.",
+      "highlight": "whose name is Ali"
+    },
+    {
+      "id": "ex-non-defining-relative-26",
+      "en": "The meeting, which started at nine, ended at noon.",
+      "tr": "Dokuzda başlayan toplantı öğlen bitti.",
+      "highlight": "which started at nine"
+    },
+    {
+      "id": "ex-non-defining-relative-27",
+      "en": "Ankara, where my parents live, is the capital.",
+      "tr": "Ailemin yaşadığı Ankara başkenttir.",
+      "highlight": "where my parents live"
+    },
+    {
+      "id": "ex-non-defining-relative-28",
+      "en": "I called Mehmet, whom I trust.",
+      "tr": "Güvendiğim Mehmet'i aradım.",
+      "highlight": "whom I trust"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-non-defining-relative-01",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My mother, ___ is a teacher, loves books.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Non-defining'de that olmaz; insan: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-02",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "London, ___ is the capital of England, is huge.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yer: which, that olmaz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-03",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Tom, ___ car is red, lives next door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sahiplik: whose.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-04",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We went to Rome, ___ we saw the Colosseum.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer: where.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-05",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He didn't help me, ___ made me angry.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Cümlenin tamamı: which.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-06",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My car, that is old, works well."
+        },
+        {
+          "id": "b",
+          "text": "My car which, is old, works well."
+        },
+        {
+          "id": "c",
+          "text": "My car, which is old, works well."
+        },
+        {
+          "id": "d",
+          "text": "My car, is old, works well."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Virgülle which.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-07",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which clause is non-defining?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The man who lives next door is a doctor."
+        },
+        {
+          "id": "b",
+          "text": "I like films that are funny."
+        },
+        {
+          "id": "c",
+          "text": "The book I read was great."
+        },
+        {
+          "id": "d",
+          "text": "My brother, who lives in Berlin, is a doctor."
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Virgülle ayrılan ek bilgi.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-08",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Mr Smith, ___ is 70, still jogs every morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İnsan: who.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-09",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My phone, ___ I bought last week, is already broken.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Nesne: which.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-10",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "In July, ___ the days are long, we go camping.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "when"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Zaman: when.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-11",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She passed the test, ___ was a surprise.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "what"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Cümlenin tamamı: which.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-12",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My sister, ___ lives in Rome, is a teacher.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İnsan: who.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-13",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Ankara, ___ my parents live, is big. (where)",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-14",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Anna, ___ is a nurse, is my friend. (who)",
+      "answers": [
+        "who"
+      ],
+      "explanation": "İnsan: who.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "that",
+          "explanation": "Non-defining'de that olmaz."
+        }
+      ],
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-15",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The car, ___ is old, still works. (which)",
+      "answers": [
+        "which"
+      ],
+      "explanation": "Nesne: which.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "that",
+          "explanation": "Non-defining'de that olmaz."
+        }
+      ],
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-16",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My neighbour, ___ dog barks a lot, is nice. (whose)",
+      "answers": [
+        "whose"
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-17",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He lost his job, ___ made him sad. (which)",
+      "answers": [
+        "which"
+      ],
+      "explanation": "Cümlenin tamamı: which.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-18",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Summer, ___ I relax, is my favourite season. (when)",
+      "answers": [
+        "when"
+      ],
+      "explanation": "Zaman: when.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-19",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The Nile, ___ is very long, flows through Egypt. (which)",
+      "answers": [
+        "which"
+      ],
+      "explanation": "Nesne: which.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-20",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Mr Brown, ___ lives upstairs, is retired. (who)",
+      "answers": [
+        "who"
+      ],
+      "explanation": "İnsan: who.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-21",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Istanbul, ___ I grew up, is huge. (where)",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-22",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I called Ahmet, ___ I trust. (whom)",
+      "answers": [
+        "whom",
+        "who"
+      ],
+      "explanation": "Nesne konumunda whom kullanılır.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-23",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Berlin'de yaşayan kardeşim doktor.",
+      "answer": [
+        "My",
+        "brother,",
+        "who",
+        "lives",
+        "in",
+        "Berlin,",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "that",
+        "whose"
+      ],
+      "explanation": "virgüllü who",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-24",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hindistan'daki Tac Mahal çok güzel.",
+      "answer": [
+        "The",
+        "Taj",
+        "Mahal,",
+        "which",
+        "is",
+        "in",
+        "India,",
+        "is",
+        "beautiful"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "that",
+        "who"
+      ],
+      "explanation": "virgüllü which",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-25",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Oğlu pilot olan komşum çok kibar.",
+      "answer": [
+        "My",
+        "neighbour,",
+        "whose",
+        "son",
+        "is",
+        "a",
+        "pilot,",
+        "is",
+        "nice"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "which"
+      ],
+      "explanation": "virgüllü whose",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-26",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sınavı geçti, bu herkesi şaşırttı.",
+      "answer": [
+        "He",
+        "passed",
+        "the",
+        "exam,",
+        "which",
+        "surprised",
+        "everyone"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "that",
+        "who"
+      ],
+      "explanation": "which + fiil",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-27",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "My car, that is old, still works.",
+      "errorSpan": "that is old",
+      "answers": [
+        "My car, which is old, still works."
+      ],
+      "explanation": "Non-defining'de that olmaz.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-28",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "My brother who lives in Berlin, is a doctor.",
+      "errorSpan": "My brother who",
+      "answers": [
+        "My brother, who lives in Berlin, is a doctor."
+      ],
+      "explanation": "Virgül eksik.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-29",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Paris, which I was born, is beautiful.",
+      "errorSpan": "which I was born",
+      "answers": [
+        "Paris, where I was born, is beautiful."
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-30",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom, who car broke down, was late.",
+      "errorSpan": "who car",
+      "answers": [
+        "Tom, whose car broke down, was late."
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-31",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Anna, she is a nurse, is my friend.",
+      "errorSpan": "she is a nurse",
+      "answers": [
+        "Anna, who is a nurse, is my friend."
+      ],
+      "explanation": "Zamir gerekir: who.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-32",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He passed the exam which, surprised everyone.",
+      "errorSpan": "exam which,",
+      "answers": [
+        "He passed the exam, which surprised everyone."
+      ],
+      "explanation": "Virgül which'ten önce gelir.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-33",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The Nile, it is long, flows through Egypt.",
+      "errorSpan": "it is long",
+      "answers": [
+        "The Nile, which is long, flows through Egypt."
+      ],
+      "explanation": "Which gerekir.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-34",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Berlin'de yaşayan kardeşim doktor.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "My brother, who lives in Berlin, is a doctor."
+      ],
+      "targetStructure": "virgüllü who",
+      "explanation": "Ek bilgi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My brother, that lives in Berlin, is a doctor.",
+          "explanation": "That kullanılmaz."
+        }
+      ],
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-35",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eski olan arabam hâlâ çalışıyor.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "My car, which is old, still works."
+      ],
+      "targetStructure": "virgüllü which",
+      "explanation": "Ek bilgi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My car, that is old, still works.",
+          "explanation": "That kullanılmaz."
+        }
+      ],
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-36",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bütün gün yağmur yağdı, bu pikniğimizi bozdu.",
+      "hint": "bozmak: spoil",
+      "answers": [
+        "It rained all day, which spoiled our picnic."
+      ],
+      "targetStructure": "which",
+      "explanation": "Cümlenin tamamı.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-37",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Oğlu pilot olan komşum kibar.",
+      "hint": "kibar: kind",
+      "answers": [
+        "My neighbour, whose son is a pilot, is kind.",
+        "My neighbour, whose son is a pilot, is nice."
+      ],
+      "targetStructure": "whose",
+      "explanation": "Sahiplik.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-38",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doğduğum yer olan Paris çok güzel.",
+      "hint": "doğmak: be born",
+      "answers": [
+        "Paris, where I was born, is beautiful."
+      ],
+      "targetStructure": "where",
+      "explanation": "Yer.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-39",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Seksen yaşındaki Bay Brown hâlâ çalışıyor.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "Mr Brown, who is 80, still works."
+      ],
+      "targetStructure": "who",
+      "explanation": "Ek bilgi.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-40",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Günlerin uzun olduğu yazı severim.",
+      "hint": "uzun: long",
+      "answers": [
+        "I love summer, when the days are long."
+      ],
+      "targetStructure": "when",
+      "explanation": "Zaman.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-non-defining-relative-41",
+      "lessonId": "b1-non-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sana dün söylediğim kitap çok iyiydi.",
+      "hint": "söylemek: tell",
+      "answers": [
+        "The book I told you about yesterday was very good.",
+        "The book that I told you about yesterday was very good.",
+        "The book which I told you about yesterday was very good."
+      ],
+      "targetStructure": "defining",
+      "explanation": "Bu defining clause; virgül yok.",
+      "tags": [
+        "non-defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-non-defining-relative",
+    "title": "Non-defining Relative Clauses: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-non-defining-relative-exam-01",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Maria, ___ is my cousin, lives in Spain.",
+        "options": [
+          {
+            "id": "a",
+            "text": "that"
+          },
+          {
+            "id": "b",
+            "text": "whose"
+          },
+          {
+            "id": "c",
+            "text": "who"
+          },
+          {
+            "id": "d",
+            "text": "which"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "İnsan: who.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-02",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The film, ___ lasted three hours, was boring.",
+        "options": [
+          {
+            "id": "a",
+            "text": "that"
+          },
+          {
+            "id": "b",
+            "text": "who"
+          },
+          {
+            "id": "c",
+            "text": "whose"
+          },
+          {
+            "id": "d",
+            "text": "which"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Nesne: which.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-03",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "My uncle, ___ house is huge, is rich.",
+        "options": [
+          {
+            "id": "a",
+            "text": "whose"
+          },
+          {
+            "id": "b",
+            "text": "who"
+          },
+          {
+            "id": "c",
+            "text": "which"
+          },
+          {
+            "id": "d",
+            "text": "that"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sahiplik: whose.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-04",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He lied to me, ___ I couldn't forgive.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "which"
+          },
+          {
+            "id": "c",
+            "text": "where"
+          },
+          {
+            "id": "d",
+            "text": "whose"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Cümlenin tamamı: which.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-05",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We visited Izmir, ___ my grandmother lives.",
+        "options": [
+          {
+            "id": "a",
+            "text": "which"
+          },
+          {
+            "id": "b",
+            "text": "who"
+          },
+          {
+            "id": "c",
+            "text": "where"
+          },
+          {
+            "id": "d",
+            "text": "whose"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Yer: where.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-06",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "My cat, ___ is 12 years old, is very lazy. (which)",
+        "answers": [
+          "which"
+        ],
+        "explanation": "Hayvan: which.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "that",
+            "explanation": "That kullanılmaz."
+          }
+        ],
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-07",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Her boss, ___ is very strict, never smiles. (who)",
+        "answers": [
+          "who"
+        ],
+        "explanation": "İnsan: who.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-08",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "December, ___ the days are short, is my least favourite month. (when)",
+        "answers": [
+          "when"
+        ],
+        "explanation": "Zaman: when.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-09",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "My friend, ___ phone was stolen, called the police. (whose)",
+        "answers": [
+          "whose"
+        ],
+        "explanation": "Sahiplik: whose.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-10",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bankada çalışan Anna komşum.",
+        "answer": [
+          "Anna,",
+          "who",
+          "works",
+          "at",
+          "a",
+          "bank,",
+          "is",
+          "my",
+          "neighbour"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "that",
+          "which"
+        ],
+        "explanation": "virgüllü who",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-11",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Havanın sıcak olduğu Antalya'da kaldık.",
+        "answer": [
+          "We",
+          "stayed",
+          "in",
+          "Antalya,",
+          "where",
+          "the",
+          "weather",
+          "was",
+          "warm"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "which",
+          "who"
+        ],
+        "explanation": "virgüllü where",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-12",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "My sister, that is a doctor, lives in Ankara.",
+        "errorSpan": "that is a doctor",
+        "answers": [
+          "My sister, who is a doctor, lives in Ankara."
+        ],
+        "explanation": "That kullanılmaz.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-13",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "My house which, is old, needs repair.",
+        "errorSpan": "house which,",
+        "answers": [
+          "My house, which is old, needs repair."
+        ],
+        "explanation": "Virgül which'ten önce.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-14",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Rome, where I visited last year, is beautiful.",
+        "errorSpan": "where I visited",
+        "answers": [
+          "Rome, which I visited last year, is beautiful."
+        ],
+        "explanation": "Nesne olduğu için which.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-15",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Beni aramadı, bu çok kabaydı.",
+        "hint": "kaba: rude",
+        "answers": [
+          "She didn't call me, which was very rude.",
+          "He didn't call me, which was very rude."
+        ],
+        "targetStructure": "which",
+        "explanation": "Cümlenin tamamı.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-non-defining-relative-exam-16",
+        "lessonId": "b1-non-defining-relative",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yaşlı olan köpeğimiz bütün gün uyuyor.",
+        "hint": "uyumak: sleep",
+        "answers": [
+          "Our dog, which is old, sleeps all day.",
+          "Our dog, which is very old, sleeps all day."
+        ],
+        "targetStructure": "which",
+        "explanation": "Ek bilgi.",
+        "tags": [
+          "non-defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
