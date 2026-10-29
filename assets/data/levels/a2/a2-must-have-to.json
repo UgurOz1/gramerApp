@@ -1,0 +1,2327 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-must-have-to",
+  "levelId": "a2",
+  "title": "Must, Mustn't, Have To, Don't Have To",
+  "objectives": [
+    "Must ve have to ile zorunluluğu anlatmak",
+    "Mustn't (yasak) ile don't have to (gerek yok) arasındaki farkı bilmek",
+    "Have to'nun soru ve olumsuz biçimlerini do / does ile kurmak",
+    "Geçmiş zorunluluğu had to ile anlatmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Zorunluluk ve yasak",
+      "paragraphs": [
+        "Must ve have to zorunluluğu anlatır: yapılması gereken şey. Olumsuzları ise çok farklıdır: mustn’t yasak, don’t have to ise gerek yok anlamındadır. Bu fark A2’nin en önemli noktalarından biridir.",
+        "Must konuşanın kendi görüşüdür ya da genel kuraldır; have to dışarıdan gelen bir zorunluluktur (kural, iş, yasa)."
+      ]
+    },
+    {
+      "id": "must",
+      "type": "rule",
+      "title": "Must: zorunluluk",
+      "paragraphs": [
+        "Must bir modal fiildir: tüm öznelerde aynıdır, -s almaz ve ardından yalın fiil gelir. Konuşanın kendi görüşünü ya da genel bir kuralı belirtir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + must + yalın fiil",
+          "exampleIds": [
+            "ex-must-have-to-01",
+            "ex-must-have-to-02",
+            "ex-must-have-to-03",
+            "ex-must-have-to-04",
+            "ex-must-have-to-25",
+            "ex-must-have-to-28"
+          ]
+        },
+        {
+          "label": "Soru (nadir)",
+          "pattern": "Must + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-must-have-to-02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mustnt",
+      "type": "rule",
+      "title": "Mustn’t: yasak",
+      "paragraphs": [
+        "Mustn’t (must not), bir şeyi yapmanın yasak ya da yanlış olduğunu söyler. “Yapma” anlamı taşır."
+      ],
+      "formulas": [
+        {
+          "label": "Yasak",
+          "pattern": "özne + mustn’t + yalın fiil",
+          "exampleIds": [
+            "ex-must-have-to-05",
+            "ex-must-have-to-06",
+            "ex-must-have-to-07",
+            "ex-must-have-to-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haveto",
+      "type": "rule",
+      "title": "Have to: dış zorunluluk",
+      "paragraphs": [
+        "Have to, dışarıdan gelen zorunluluğu anlatır: kural, iş, program. He / she / it için has to kullanılır. Normal bir fiil gibi çalışır: soru ve olumsuzda do / does gerekir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "I / you / we / they + have to + fiil;   he / she / it + has to + fiil",
+          "exampleIds": [
+            "ex-must-have-to-08",
+            "ex-must-have-to-09",
+            "ex-must-have-to-10",
+            "ex-must-have-to-11"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do / Does + özne + have to + fiil …?",
+          "exampleIds": [
+            "ex-must-have-to-16",
+            "ex-must-have-to-17",
+            "ex-must-have-to-20"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I do.   No, she doesn’t.",
+          "exampleIds": [
+            "ex-must-have-to-18",
+            "ex-must-have-to-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "donthave",
+      "type": "rule",
+      "title": "Don’t have to: gerek yok",
+      "paragraphs": [
+        "Don’t have to / doesn’t have to, bir şeyin gerekli olmadığını, ama yapılabileceğini söyler. Yasak değildir; seçenek vardır."
+      ],
+      "formulas": [
+        {
+          "label": "Gerek yok",
+          "pattern": "özne + don’t / doesn’t have to + fiil",
+          "exampleIds": [
+            "ex-must-have-to-12",
+            "ex-must-have-to-13",
+            "ex-must-have-to-14",
+            "ex-must-have-to-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diff",
+      "type": "forms",
+      "title": "Mustn’t ve don’t have to",
+      "forms": [
+        {
+          "label": "mustn’t",
+          "formula": "You mustn’t smoke here.",
+          "exampleIds": [
+            "ex-must-have-to-05"
+          ],
+          "note": "Yasak: yapma."
+        },
+        {
+          "label": "don’t have to",
+          "formula": "You don’t have to come.",
+          "exampleIds": [
+            "ex-must-have-to-14"
+          ],
+          "note": "Gerek yok: istersen gel, istemezsen gelme."
+        },
+        {
+          "label": "Karşılaştırma",
+          "formula": "You mustn’t be quiet ✗ → You don’t have to be quiet.",
+          "exampleIds": [
+            "ex-must-have-to-27",
+            "ex-must-have-to-26"
+          ],
+          "note": "Sessiz olmak zorunda değilsin (gereksiz); geç kalmamalısın (yasak)."
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "type": "rule",
+      "title": "Geçmiş zaman: had to",
+      "paragraphs": [
+        "Must’ın geçmişi yoktur; geçmiş zorunluluk için had to kullanılır. Olumsuz ve soruda did gerekir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + had to + fiil",
+          "exampleIds": [
+            "ex-must-have-to-21",
+            "ex-must-have-to-22"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + didn’t have to + fiil",
+          "exampleIds": [
+            "ex-must-have-to-23"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + have to + fiil …?",
+          "exampleIds": [
+            "ex-must-have-to-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: must ve mustn't",
+      "exampleIds": [
+        "ex-must-have-to-01",
+        "ex-must-have-to-02",
+        "ex-must-have-to-03",
+        "ex-must-have-to-04",
+        "ex-must-have-to-05",
+        "ex-must-have-to-06",
+        "ex-must-have-to-07",
+        "ex-must-have-to-25",
+        "ex-must-have-to-26",
+        "ex-must-have-to-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: have to ve don't have to",
+      "exampleIds": [
+        "ex-must-have-to-08",
+        "ex-must-have-to-09",
+        "ex-must-have-to-10",
+        "ex-must-have-to-11",
+        "ex-must-have-to-12",
+        "ex-must-have-to-13",
+        "ex-must-have-to-14",
+        "ex-must-have-to-15",
+        "ex-must-have-to-16",
+        "ex-must-have-to-17",
+        "ex-must-have-to-18",
+        "ex-must-have-to-19",
+        "ex-must-have-to-20"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: geçmiş ve karşılaştırma",
+      "exampleIds": [
+        "ex-must-have-to-21",
+        "ex-must-have-to-22",
+        "ex-must-have-to-23",
+        "ex-must-have-to-24",
+        "ex-must-have-to-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He musts go.",
+          "right": "He must go.",
+          "explanation": "Must -s almaz."
+        },
+        {
+          "wrong": "You must to go.",
+          "right": "You must go.",
+          "explanation": "Must'tan sonra to yok."
+        },
+        {
+          "wrong": "She have to work.",
+          "right": "She has to work.",
+          "explanation": "She ile has to."
+        },
+        {
+          "wrong": "Does she has to work?",
+          "right": "Does she have to work?",
+          "explanation": "Does'tan sonra have."
+        },
+        {
+          "wrong": "You mustn't come. (gerek yok anlamında)",
+          "right": "You don't have to come.",
+          "explanation": "Gerek yoksa don't have to."
+        },
+        {
+          "wrong": "I don't must go.",
+          "right": "I mustn't go. / I don't have to go.",
+          "explanation": "Must ile don't kullanılmaz."
+        },
+        {
+          "wrong": "I musted go yesterday.",
+          "right": "I had to go yesterday.",
+          "explanation": "Must'ın geçmişi yok: had to."
+        },
+        {
+          "wrong": "You don't have to smoke here. (yasak)",
+          "right": "You mustn't smoke here.",
+          "explanation": "Yasak: mustn't."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Should",
+          "body": "Should tavsiye verir; must ise güçlü zorunluluktur.",
+          "lessonId": "a2-should"
+        },
+        {
+          "topic": "Can ve modallar",
+          "body": "Must da modaldır: -s yok, to yok, do yok.",
+          "lessonId": "a1-can"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Had to, have to'nun geçmişidir; did ile soru kurulur.",
+          "lessonId": "a2-past-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Mustn’t = yasak; don’t have to = gerek yok. Bu ikisi aynı değildir.",
+        "Must modaldır (-s yok, to yok); have to normal fiil gibi çekimlenir.",
+        "Must'ın geçmişi yoktur: had to.",
+        "Must konuşanın görüşü, have to dış zorunluluktur.",
+        "Have to'da soru ve olumsuz do / does / did ile."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-must-have-to-01",
+        "q-must-have-to-02",
+        "q-must-have-to-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-must-have-to-01",
+      "en": "You must wear a seat belt.",
+      "tr": "Emniyet kemeri takmalısın.",
+      "highlight": "must wear",
+      "note": "must + yalın fiil: zorunluluk"
+    },
+    {
+      "id": "ex-must-have-to-02",
+      "en": "I must go now.",
+      "tr": "Şimdi gitmeliyim.",
+      "highlight": "must go"
+    },
+    {
+      "id": "ex-must-have-to-03",
+      "en": "Students must be on time.",
+      "tr": "Öğrenciler zamanında olmalı.",
+      "highlight": "must be"
+    },
+    {
+      "id": "ex-must-have-to-04",
+      "en": "You must study for the exam.",
+      "tr": "Sınav için çalışmalısın.",
+      "highlight": "must study"
+    },
+    {
+      "id": "ex-must-have-to-05",
+      "en": "You must not smoke here.",
+      "tr": "Burada sigara içmemelisin.",
+      "highlight": "must not smoke",
+      "note": "mustn't: yasak"
+    },
+    {
+      "id": "ex-must-have-to-06",
+      "en": "You mustn't park here.",
+      "tr": "Buraya park etmemelisin.",
+      "highlight": "mustn't park"
+    },
+    {
+      "id": "ex-must-have-to-07",
+      "en": "Children mustn't play with fire.",
+      "tr": "Çocuklar ateşle oynamamalı.",
+      "highlight": "mustn't play"
+    },
+    {
+      "id": "ex-must-have-to-08",
+      "en": "I have to work on Saturday.",
+      "tr": "Cumartesi çalışmam gerekiyor.",
+      "highlight": "have to work",
+      "note": "have to: dış zorunluluk"
+    },
+    {
+      "id": "ex-must-have-to-09",
+      "en": "She has to wear a uniform.",
+      "tr": "Üniforma giymesi gerekiyor.",
+      "highlight": "has to wear",
+      "note": "he / she / it + has to"
+    },
+    {
+      "id": "ex-must-have-to-10",
+      "en": "We have to leave at six.",
+      "tr": "Altıda çıkmamız gerekiyor.",
+      "highlight": "have to leave"
+    },
+    {
+      "id": "ex-must-have-to-11",
+      "en": "They have to pay taxes.",
+      "tr": "Vergi ödemek zorundalar.",
+      "highlight": "have to pay"
+    },
+    {
+      "id": "ex-must-have-to-12",
+      "en": "I don't have to work tomorrow.",
+      "tr": "Yarın çalışmam gerekmiyor.",
+      "highlight": "don't have to work",
+      "note": "don't have to: gerek yok"
+    },
+    {
+      "id": "ex-must-have-to-13",
+      "en": "She doesn't have to wear a uniform.",
+      "tr": "Üniforma giymesi gerekmiyor.",
+      "highlight": "doesn't have to wear"
+    },
+    {
+      "id": "ex-must-have-to-14",
+      "en": "You don't have to come.",
+      "tr": "Gelmek zorunda değilsin.",
+      "highlight": "don't have to come"
+    },
+    {
+      "id": "ex-must-have-to-15",
+      "en": "We don't have to hurry.",
+      "tr": "Acele etmemiz gerekmiyor.",
+      "highlight": "don't have to hurry"
+    },
+    {
+      "id": "ex-must-have-to-16",
+      "en": "Do you have to work on Sundays?",
+      "tr": "Pazar günleri çalışman gerekiyor mu?",
+      "highlight": "Do you have to work",
+      "note": "Soru: Do / Does + özne + have to"
+    },
+    {
+      "id": "ex-must-have-to-17",
+      "en": "Does she have to wear a uniform?",
+      "tr": "Üniforma giymesi gerekiyor mu?",
+      "highlight": "Does she have to wear"
+    },
+    {
+      "id": "ex-must-have-to-18",
+      "en": "Yes, I do.",
+      "tr": "Evet, gerekiyor.",
+      "highlight": "Yes, I do",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-must-have-to-19",
+      "en": "No, she doesn't.",
+      "tr": "Hayır, gerekmiyor.",
+      "highlight": "No, she doesn't"
+    },
+    {
+      "id": "ex-must-have-to-20",
+      "en": "What do you have to do?",
+      "tr": "Ne yapman gerekiyor?",
+      "highlight": "What do you have to do"
+    },
+    {
+      "id": "ex-must-have-to-21",
+      "en": "I had to work yesterday.",
+      "tr": "Dün çalışmak zorundaydım.",
+      "highlight": "had to work",
+      "note": "geçmiş: had to"
+    },
+    {
+      "id": "ex-must-have-to-22",
+      "en": "She had to leave early.",
+      "tr": "Erken ayrılmak zorundaydı.",
+      "highlight": "had to leave"
+    },
+    {
+      "id": "ex-must-have-to-23",
+      "en": "I didn't have to wait.",
+      "tr": "Beklemek zorunda kalmadım.",
+      "highlight": "didn't have to wait"
+    },
+    {
+      "id": "ex-must-have-to-24",
+      "en": "Did you have to pay?",
+      "tr": "Ödemek zorunda kaldın mı?",
+      "highlight": "Did you have to pay"
+    },
+    {
+      "id": "ex-must-have-to-25",
+      "en": "You must be quiet in the library.",
+      "tr": "Kütüphanede sessiz olmalısın.",
+      "highlight": "must be quiet",
+      "note": "kural: must"
+    },
+    {
+      "id": "ex-must-have-to-26",
+      "en": "You mustn't be late.",
+      "tr": "Geç kalmamalısın.",
+      "highlight": "mustn't be late"
+    },
+    {
+      "id": "ex-must-have-to-27",
+      "en": "You don't have to be quiet. We are at home.",
+      "tr": "Sessiz olmak zorunda değilsin. Evdeyiz.",
+      "highlight": "don't have to be quiet",
+      "note": "mustn't ≠ don't have to"
+    },
+    {
+      "id": "ex-must-have-to-28",
+      "en": "I must call my mother.",
+      "tr": "Annemi aramalıyım.",
+      "highlight": "must call"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-must-have-to-01",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ wear a seat belt.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "musts"
+        },
+        {
+          "id": "c",
+          "text": "must to"
+        },
+        {
+          "id": "d",
+          "text": "do must"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Must + yalın fiil.",
+      "optionExplanations": {
+        "b": "Must -s almaz.",
+        "c": "Must'tan sonra to yok.",
+        "d": "Do must olmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-02",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ go now. (gitmeliyim)",
+      "answers": [
+        "must"
+      ],
+      "explanation": "Must.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "musts",
+          "explanation": "Must -s almaz."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-03",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Emniyet kemeri takmalısın.",
+      "answer": [
+        "You",
+        "must",
+        "wear",
+        "a",
+        "seat",
+        "belt"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "musts",
+        "to"
+      ],
+      "explanation": "must + fiil",
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "modal_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-must-have-to-04",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He musts go.",
+      "errorSpan": "musts",
+      "answers": [
+        "He must go."
+      ],
+      "explanation": "Must -s almaz.",
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-05",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şimdi gitmeliyim.",
+      "hint": "gitmek: go",
+      "answers": [
+        "I must go now."
+      ],
+      "targetStructure": "must + fiil",
+      "explanation": "Zorunluluk.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I must to go now.",
+          "explanation": "Must'tan sonra to yok."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-06",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ to wear a uniform.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has to.",
+      "optionExplanations": {
+        "b": "She ile has.",
+        "c": "Must'tan sonra to gelmez.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-07",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ to leave at six.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "musts"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We ile have to.",
+      "optionExplanations": {
+        "b": "We ile has kullanılmaz.",
+        "c": "Must -s almaz.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-08",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ smoke here. (yasak)",
+      "options": [
+        {
+          "id": "a",
+          "text": "mustn't"
+        },
+        {
+          "id": "b",
+          "text": "don't have to"
+        },
+        {
+          "id": "c",
+          "text": "have to"
+        },
+        {
+          "id": "d",
+          "text": "must"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yasak: mustn't.",
+      "optionExplanations": {
+        "b": "Gerek yok anlamı verir.",
+        "c": "Zorunluluktur.",
+        "d": "Zorunluluktur."
+      },
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-09",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "You ___ park here. (yasak)",
+      "answers": [
+        "mustn't",
+        "must not"
+      ],
+      "explanation": "Yasak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't have to",
+          "explanation": "Gerek yok anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-10",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ to wear a uniform. (gerekiyor)",
+      "answers": [
+        "has"
+      ],
+      "explanation": "She ile has to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "She ile has."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-11",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ to work on Saturday. (gerekiyor)",
+      "answers": [
+        "have"
+      ],
+      "explanation": "I ile have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "I ile have."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-12",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "You ___ come. It's optional. (gerek yok)",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't have to"
+        },
+        {
+          "id": "b",
+          "text": "mustn't"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "can't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gerek yok: don't have to.",
+      "optionExplanations": {
+        "b": "Yasak anlamı verir.",
+        "c": "Zorunluluktur.",
+        "d": "Yetersizliktir."
+      },
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-13",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ to wear a uniform. (gerekmiyor)",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't have"
+        },
+        {
+          "id": "b",
+          "text": "don't have"
+        },
+        {
+          "id": "c",
+          "text": "hasn't"
+        },
+        {
+          "id": "d",
+          "text": "mustn't have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile doesn't have to.",
+      "optionExplanations": {
+        "b": "She ile doesn't.",
+        "c": "Hasn't farklı yapıdır.",
+        "d": "Mustn't have to olmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-14",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Does she have to work?"
+        },
+        {
+          "id": "b",
+          "text": "Does she has to work?"
+        },
+        {
+          "id": "c",
+          "text": "Has she to work?"
+        },
+        {
+          "id": "d",
+          "text": "Does she must work?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Does + have to.",
+      "optionExplanations": {
+        "b": "Does'tan sonra have.",
+        "c": "Bu yapı resmî ve nadirdir.",
+        "d": "Does ile must kullanılmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-15",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I had to work yesterday."
+        },
+        {
+          "id": "b",
+          "text": "I must work yesterday."
+        },
+        {
+          "id": "c",
+          "text": "I musted work yesterday."
+        },
+        {
+          "id": "d",
+          "text": "I have to work yesterday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş: had to.",
+      "optionExplanations": {
+        "b": "Must geçmiş zamanla kullanılmaz.",
+        "c": "Must'ın geçmişi yoktur.",
+        "d": "Geçmiş için had to."
+      },
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-must-have-to-16",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Did you ___ to pay?",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "must"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Did + have to.",
+      "optionExplanations": {
+        "b": "Did'den sonra yalın fiil.",
+        "c": "Did'den sonra yalın fiil.",
+        "d": "Must kullanılmaz."
+      },
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-17",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ have to wait. (beklemek zorunda kalmadım)",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "mustn't"
+        },
+        {
+          "id": "d",
+          "text": "hadn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş olumsuz: didn't have to.",
+      "optionExplanations": {
+        "b": "Geçmiş için didn't.",
+        "c": "Mustn't geçmişte kullanılmaz.",
+        "d": "Hadn't farklı yapıdır."
+      },
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-18",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You ___ have to come. (gerek yok)",
+      "answers": [
+        "don't"
+      ],
+      "explanation": "Don't have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "mustn't",
+          "explanation": "Mustn't have to olmaz."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-19",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ have to wear a uniform. (gerekmiyor)",
+      "answers": [
+        "doesn't"
+      ],
+      "explanation": "Doesn't have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "She ile doesn't."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-20",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you have to work on Sundays?",
+      "answers": [
+        "Do"
+      ],
+      "explanation": "Do + have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Must",
+          "explanation": "Have to ile do."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-21",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she have to wear a uniform?",
+      "answers": [
+        "Does"
+      ],
+      "explanation": "Does + have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "She ile does."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-22",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ to work yesterday. (zorundaydım)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Geçmiş: had to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "must",
+          "explanation": "Must'ın geçmişi yoktur."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-must-have-to-23",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ to leave early. (zorundaydı)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Geçmiş: had to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Geçmiş için had."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-must-have-to-24",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You ___ be late. (geç kalmamalısın)",
+      "answers": [
+        "mustn't",
+        "must not"
+      ],
+      "explanation": "Yasak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't have to",
+          "explanation": "Gerek yok anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-25",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Children ___ play with fire. (oynamamalı)",
+      "answers": [
+        "mustn't",
+        "must not"
+      ],
+      "explanation": "Yasak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't have to",
+          "explanation": "Gerek yok anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-26",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You must to go.",
+      "errorSpan": "must to go",
+      "answers": [
+        "You must go."
+      ],
+      "explanation": "Must'tan sonra to yok.",
+      "tags": [
+        "must-have-to",
+        "must"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-27",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She have to work.",
+      "errorSpan": "have to",
+      "answers": [
+        "She has to work."
+      ],
+      "explanation": "She ile has to.",
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-28",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Does she has to work?",
+      "errorSpan": "has to",
+      "answers": [
+        "Does she have to work?"
+      ],
+      "explanation": "Does'tan sonra have.",
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-29",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't must go.",
+      "errorSpan": "don't must",
+      "answers": [
+        "I mustn't go.",
+        "I don't have to go."
+      ],
+      "explanation": "Must ile don't kullanılmaz.",
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-30",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I musted go yesterday.",
+      "errorSpan": "musted",
+      "answers": [
+        "I had to go yesterday."
+      ],
+      "explanation": "Must'ın geçmişi yok.",
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-must-have-to-31",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gelmek zorunda değilsin.",
+      "answer": [
+        "You",
+        "don't",
+        "have",
+        "to",
+        "come"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "mustn't",
+        "has"
+      ],
+      "explanation": "don't have to",
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-32",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Burada sigara içmemelisin.",
+      "answer": [
+        "You",
+        "mustn't",
+        "smoke",
+        "here"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "must"
+      ],
+      "explanation": "mustn't",
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-33",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Pazar günleri çalışman gerekiyor mu?",
+      "answer": [
+        "Do",
+        "you",
+        "have",
+        "to",
+        "work",
+        "on",
+        "Sundays"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Does",
+        "must"
+      ],
+      "explanation": "Do + have to",
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-34",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın çalışmam gerekmiyor.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "I don't have to work tomorrow."
+      ],
+      "targetStructure": "don't have to",
+      "explanation": "Gerek yok.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I mustn't work tomorrow.",
+          "explanation": "Yasak anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "donthave"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-35",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Buraya park etmemelisin.",
+      "hint": "park etmek: park",
+      "answers": [
+        "You mustn't park here."
+      ],
+      "targetStructure": "mustn't",
+      "explanation": "Yasak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You don't have to park here.",
+          "explanation": "Gerek yok anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "mustnt"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-36",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün çalışmak zorundaydım.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "I had to work yesterday."
+      ],
+      "targetStructure": "had to",
+      "explanation": "Geçmiş zorunluluk.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I must work yesterday.",
+          "explanation": "Geçmiş için had to."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-must-have-to-37",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'Sessiz olmak zorunda değilsin. Evdeyiz.' hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You don't have to be quiet."
+        },
+        {
+          "id": "b",
+          "text": "You mustn't be quiet."
+        },
+        {
+          "id": "c",
+          "text": "You must be quiet."
+        },
+        {
+          "id": "d",
+          "text": "You can't be quiet."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gerek yok.",
+      "optionExplanations": {
+        "b": "Yasak anlamı verir.",
+        "c": "Zorunluluk.",
+        "d": "Yetersizlik."
+      },
+      "tags": [
+        "must-have-to",
+        "diff"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-38",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle 'yasak' bildirir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You mustn't be late."
+        },
+        {
+          "id": "b",
+          "text": "You don't have to be late."
+        },
+        {
+          "id": "c",
+          "text": "You have to be late."
+        },
+        {
+          "id": "d",
+          "text": "You can be late."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mustn't = yasak.",
+      "optionExplanations": {
+        "b": "Gerek yok.",
+        "c": "Zorunluluk.",
+        "d": "İzin."
+      },
+      "tags": [
+        "must-have-to",
+        "diff"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-39",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle dışarıdan gelen zorunluluğu anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have to wear a uniform at work."
+        },
+        {
+          "id": "b",
+          "text": "I must call my mother."
+        },
+        {
+          "id": "c",
+          "text": "I mustn't forget."
+        },
+        {
+          "id": "d",
+          "text": "I don't have to hurry."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Have to: kural.",
+      "optionExplanations": {
+        "b": "Must kişisel görüş.",
+        "c": "Mustn't yasak.",
+        "d": "Gerek yok."
+      },
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-40",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "You ___ be quiet. We're at home. (gerek yok)",
+      "answers": [
+        "don't have to"
+      ],
+      "explanation": "Gerek yok.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "mustn't",
+          "explanation": "Yasak anlamı verir."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "diff"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-41",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I ___ to wait. (beklemek zorunda kalmadım)",
+      "answers": [
+        "didn't have"
+      ],
+      "explanation": "Didn't have to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't have",
+          "explanation": "Geçmiş için didn't."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-must-have-to-42",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Üniforma giymesi gerekiyor.",
+      "hint": "üniforma: uniform",
+      "answers": [
+        "She has to wear a uniform.",
+        "He has to wear a uniform."
+      ],
+      "targetStructure": "has to",
+      "explanation": "Dış zorunluluk.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She have to wear a uniform.",
+          "explanation": "She ile has to."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "haveto"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-must-have-to-43",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ödemek zorunda kaldın mı?",
+      "hint": "ödemek: pay",
+      "answers": [
+        "Did you have to pay?"
+      ],
+      "targetStructure": "Did + have to",
+      "explanation": "Geçmiş soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you had to pay?",
+          "explanation": "Did'den sonra yalın fiil."
+        }
+      ],
+      "tags": [
+        "must-have-to",
+        "past"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-must-have-to-44",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You mustn't come. It's optional.",
+      "errorSpan": "mustn't",
+      "answers": [
+        "You don't have to come. It's optional."
+      ],
+      "explanation": "Gerek yoksa don't have to.",
+      "tags": [
+        "must-have-to",
+        "diff"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-must-have-to-45",
+      "lessonId": "a2-must-have-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You don't have to smoke here. It's forbidden.",
+      "errorSpan": "don't have to",
+      "answers": [
+        "You mustn't smoke here. It's forbidden."
+      ],
+      "explanation": "Yasak: mustn't.",
+      "tags": [
+        "must-have-to",
+        "diff"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-must-have-to",
+    "title": "Must / Have To: Konu sonu sınavı",
+    "description": "Zorunluluk, yasak ve gereksizlik.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-must-have-to-exam-01",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ go now.",
+        "options": [
+          {
+            "id": "a",
+            "text": "must"
+          },
+          {
+            "id": "b",
+            "text": "musts"
+          },
+          {
+            "id": "c",
+            "text": "must to"
+          },
+          {
+            "id": "d",
+            "text": "does must"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Must.",
+        "optionExplanations": {
+          "b": "Must -s almaz.",
+          "c": "To yok.",
+          "d": "Does must olmaz."
+        },
+        "tags": [
+          "must-have-to",
+          "must"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-02",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They ___ to pay taxes.",
+        "answers": [
+          "have"
+        ],
+        "explanation": "They ile have to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "has",
+            "explanation": "They ile have."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "haveto"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-03",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Altıda çıkmamız gerekiyor.",
+        "answer": [
+          "We",
+          "have",
+          "to",
+          "leave",
+          "at",
+          "six"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "must"
+        ],
+        "explanation": "have to",
+        "tags": [
+          "must-have-to",
+          "haveto"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-04",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She must to go.",
+        "errorSpan": "must to go",
+        "answers": [
+          "She must go."
+        ],
+        "explanation": "To yok.",
+        "tags": [
+          "must-have-to",
+          "must"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-05",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Erken ayrılmak zorundaydı.",
+        "hint": "ayrılmak: leave",
+        "answers": [
+          "She had to leave early.",
+          "He had to leave early."
+        ],
+        "targetStructure": "had to",
+        "explanation": "Geçmiş.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She must leave early yesterday.",
+            "explanation": "Geçmiş için had to."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-06",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "You ___ park here. (yasak)",
+        "options": [
+          {
+            "id": "a",
+            "text": "mustn't"
+          },
+          {
+            "id": "b",
+            "text": "don't have to"
+          },
+          {
+            "id": "c",
+            "text": "have to"
+          },
+          {
+            "id": "d",
+            "text": "must"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yasak.",
+        "optionExplanations": {
+          "b": "Gerek yok.",
+          "c": "Zorunluluk.",
+          "d": "Zorunluluk."
+        },
+        "tags": [
+          "must-have-to",
+          "mustnt"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-07",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He ___ have to pay. (gerekmiyor)",
+        "answers": [
+          "doesn't"
+        ],
+        "explanation": "Doesn't have to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't",
+            "explanation": "He ile doesn't."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "donthave"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-08",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Üniforma giymesi gerekiyor mu?",
+        "answer": [
+          "Does",
+          "she",
+          "have",
+          "to",
+          "wear",
+          "a",
+          "uniform"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Do",
+          "has"
+        ],
+        "explanation": "Does + have to",
+        "tags": [
+          "must-have-to",
+          "haveto"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-09",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Does he has to work?",
+        "errorSpan": "has to",
+        "answers": [
+          "Does he have to work?"
+        ],
+        "explanation": "Does'tan sonra have.",
+        "tags": [
+          "must-have-to",
+          "haveto"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-10",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Beklemek zorunda kalmadım.",
+        "hint": "beklemek: wait",
+        "answers": [
+          "I didn't have to wait."
+        ],
+        "targetStructure": "didn't have to",
+        "explanation": "Geçmiş olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I mustn't wait.",
+            "explanation": "Geçmişte kullanılmaz."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "past"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-11",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We had to wait for an hour."
+          },
+          {
+            "id": "b",
+            "text": "We must wait for an hour yesterday."
+          },
+          {
+            "id": "c",
+            "text": "We musted wait for an hour."
+          },
+          {
+            "id": "d",
+            "text": "We have to wait for an hour yesterday."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Geçmiş: had to.",
+        "optionExplanations": {
+          "b": "Must geçmişte kullanılmaz.",
+          "c": "Must'ın geçmişi yok.",
+          "d": "Geçmiş için had to."
+        },
+        "tags": [
+          "must-have-to",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-12",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "You ___ forget your keys. (unutmamalısın)",
+        "answers": [
+          "mustn't",
+          "must not"
+        ],
+        "explanation": "Yasak.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't have to",
+            "explanation": "Gerek yok."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "mustnt"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-13",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "You mustn't come if you don't want. (gerek yok)",
+        "errorSpan": "mustn't",
+        "answers": [
+          "You don't have to come if you don't want."
+        ],
+        "explanation": "Gerek yoksa don't have to.",
+        "tags": [
+          "must-have-to",
+          "diff"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-14",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "'Gelmek zorunda değilsin' hangisi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "You don't have to come."
+          },
+          {
+            "id": "b",
+            "text": "You mustn't come."
+          },
+          {
+            "id": "c",
+            "text": "You must come."
+          },
+          {
+            "id": "d",
+            "text": "You can't come."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Gerek yok.",
+        "optionExplanations": {
+          "b": "Yasak.",
+          "c": "Zorunluluk.",
+          "d": "Yetersizlik."
+        },
+        "tags": [
+          "must-have-to",
+          "diff"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-15",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "They ___ to move last year. (zorundaydılar)",
+        "answers": [
+          "had"
+        ],
+        "explanation": "Geçmiş.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "has",
+            "explanation": "Geçmiş için had."
+          }
+        ],
+        "tags": [
+          "must-have-to",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-must-have-to-exam-16",
+        "lessonId": "a2-must-have-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kütüphanede sessiz olmalısın.",
+        "answer": [
+          "You",
+          "must",
+          "be",
+          "quiet",
+          "in",
+          "the",
+          "library"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "musts",
+          "to"
+        ],
+        "explanation": "must + be",
+        "tags": [
+          "must-have-to",
+          "must"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      }
+    ]
+  }
+}
