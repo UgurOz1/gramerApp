@@ -35,6 +35,7 @@ import aRelCl from "@/assets/data/levels/a2/a2-relative-clauses-intro.json";
 import aIndef from "@/assets/data/levels/a2/a2-indefinite-pronouns.json";
 import aQTags from "@/assets/data/levels/a2/a2-question-tags-intro.json";
 import aSoBec from "@/assets/data/levels/a2/a2-so-because.json";
+import aPassive from "@/assets/data/levels/a2/a2-passive-basic.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -87,6 +88,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-indefinite-pronouns": aIndef,
   "a2-question-tags-intro": aQTags,
   "a2-so-because": aSoBec,
+  "a2-passive-basic": aPassive,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

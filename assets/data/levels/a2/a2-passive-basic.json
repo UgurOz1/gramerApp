@@ -1,0 +1,2342 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-passive-basic",
+  "levelId": "a2",
+  "title": "Passive Voice: Basic",
+  "objectives": [
+    "Present Simple ve Past Simple edilgen yapıyı be + V3 ile kurmak",
+    "Olumsuz ve soru biçimlerini kurmak",
+    "By ile yapan kişiyi ne zaman ekleyeceğini bilmek",
+    "Aktif cümleyi pasife çevirmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Edilgen yapı (Passive Voice)",
+      "paragraphs": [
+        "Edilgen yapıda önemli olan eylemi yapan kişi değil, eylemden etkilenen şeydir: “Oda her gün temizlenir.” Kimin temizlediği bilinmiyor, önemsiz ya da belli olduğunda edilgen kullanılır.",
+        "Yapı: be fiili + fiilin üçüncü hâli (V3). Be fiilinin zamanı cümlenin zamanını belirler: am / is / are (Present Simple), was / were (Past Simple). Türkçedeki -ilmek / -ınmak / -ilmek eklerine karşılık gelir."
+      ]
+    },
+    {
+      "id": "active-passive",
+      "type": "forms",
+      "title": "Aktif ve pasif",
+      "forms": [
+        {
+          "label": "Aktif",
+          "formula": "Özne (yapan) + fiil + nesne",
+          "exampleIds": [
+            "ex-passive-24"
+          ],
+          "note": "Tom cleans the room."
+        },
+        {
+          "label": "Pasif",
+          "formula": "Nesne (yeni özne) + be + V3 (+ by yapan)",
+          "exampleIds": [
+            "ex-passive-24"
+          ],
+          "note": "The room is cleaned by Tom."
+        }
+      ]
+    },
+    {
+      "id": "present",
+      "type": "rule",
+      "title": "Present Simple Passive",
+      "paragraphs": [
+        "Am / is / are + V3. Tekil özneyle is, çoğul özneyle are kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + am / is / are + V3",
+          "exampleIds": [
+            "ex-passive-01",
+            "ex-passive-02",
+            "ex-passive-03",
+            "ex-passive-04",
+            "ex-passive-05"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + isn’t / aren’t + V3",
+          "exampleIds": [
+            "ex-passive-13",
+            "ex-passive-14"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + V3 …?",
+          "exampleIds": [
+            "ex-passive-17",
+            "ex-passive-18",
+            "ex-passive-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "type": "rule",
+      "title": "Past Simple Passive",
+      "paragraphs": [
+        "Was / were + V3. Tekil özneyle was, çoğul özneyle were kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + was / were + V3",
+          "exampleIds": [
+            "ex-passive-07",
+            "ex-passive-08",
+            "ex-passive-09",
+            "ex-passive-10",
+            "ex-passive-11",
+            "ex-passive-12"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + wasn’t / weren’t + V3",
+          "exampleIds": [
+            "ex-passive-15",
+            "ex-passive-16"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Was / Were + özne + V3 …?",
+          "exampleIds": [
+            "ex-passive-19",
+            "ex-passive-20",
+            "ex-passive-22",
+            "ex-passive-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "by",
+      "type": "rule",
+      "title": "By: yapan kişi",
+      "paragraphs": [
+        "Eylemi yapan kişi önemliyse ya da bilgi vermek istiyorsan by + kişi eklenir. Yapan belli değilse, önemsizse ya da genelse (people, someone, they) by kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "By ile",
+          "pattern": "… + V3 + by + kişi",
+          "exampleIds": [
+            "ex-passive-06",
+            "ex-passive-07",
+            "ex-passive-24",
+            "ex-passive-25"
+          ]
+        },
+        {
+          "label": "By olmadan",
+          "pattern": "… + V3 (yapan önemsiz / bilinmiyor)",
+          "exampleIds": [
+            "ex-passive-26",
+            "ex-passive-27",
+            "ex-passive-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v3",
+      "type": "forms",
+      "title": "Sık V3 biçimleri",
+      "forms": [
+        {
+          "label": "Düzenli (-ed)",
+          "formula": "clean → cleaned,  open → opened,  paint → painted",
+          "exampleIds": [
+            "ex-passive-03",
+            "ex-passive-14",
+            "ex-passive-07"
+          ]
+        },
+        {
+          "label": "Düzensiz",
+          "formula": "make → made,  build → built,  steal → stolen,  write → written,  speak → spoken,  break → broken,  grow → grown,  sell → sold,  send → sent",
+          "exampleIds": [
+            "ex-passive-02",
+            "ex-passive-11",
+            "ex-passive-09",
+            "ex-passive-06",
+            "ex-passive-01",
+            "ex-passive-08",
+            "ex-passive-04",
+            "ex-passive-05",
+            "ex-passive-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when",
+      "type": "rule",
+      "title": "Ne zaman kullanılır?",
+      "paragraphs": [
+        "Edilgen yapı şu durumlarda tercih edilir: yapanı bilmiyorsan, yapan önemsizse, yapan belliyse, genel bilgi veriyorsan, ya da etkilenen şeyi vurgulamak istiyorsan."
+      ],
+      "formulas": [
+        {
+          "label": "Yapanı bilmiyorsun",
+          "pattern": "My bike was stolen.",
+          "exampleIds": [
+            "ex-passive-27"
+          ]
+        },
+        {
+          "label": "Genel bilgi",
+          "pattern": "English is spoken all over the world.",
+          "exampleIds": [
+            "ex-passive-01"
+          ]
+        },
+        {
+          "label": "Üretim ve süreç",
+          "pattern": "Cars are made in this factory.",
+          "exampleIds": [
+            "ex-passive-02",
+            "ex-passive-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: Present Simple Passive",
+      "exampleIds": [
+        "ex-passive-01",
+        "ex-passive-02",
+        "ex-passive-03",
+        "ex-passive-04",
+        "ex-passive-05",
+        "ex-passive-06",
+        "ex-passive-13",
+        "ex-passive-14",
+        "ex-passive-17",
+        "ex-passive-18",
+        "ex-passive-21",
+        "ex-passive-24"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: Past Simple Passive",
+      "exampleIds": [
+        "ex-passive-07",
+        "ex-passive-08",
+        "ex-passive-09",
+        "ex-passive-10",
+        "ex-passive-11",
+        "ex-passive-12",
+        "ex-passive-15",
+        "ex-passive-16",
+        "ex-passive-19",
+        "ex-passive-20",
+        "ex-passive-22",
+        "ex-passive-23",
+        "ex-passive-25",
+        "ex-passive-26",
+        "ex-passive-27",
+        "ex-passive-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "English speaks all over the world.",
+          "right": "English is spoken all over the world.",
+          "explanation": "Pasif: be + V3."
+        },
+        {
+          "wrong": "English is speak all over the world.",
+          "right": "English is spoken all over the world.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "Cars is made here.",
+          "right": "Cars are made here.",
+          "explanation": "Çoğul özne: are."
+        },
+        {
+          "wrong": "The window was break.",
+          "right": "The window was broken.",
+          "explanation": "V3: broken."
+        },
+        {
+          "wrong": "The letters was sent.",
+          "right": "The letters were sent.",
+          "explanation": "Çoğul özne: were."
+        },
+        {
+          "wrong": "Was the window break?",
+          "right": "Was the window broken?",
+          "explanation": "Soruda da V3."
+        },
+        {
+          "wrong": "The house was built by they.",
+          "right": "The house was built by them.",
+          "explanation": "By'dan sonra nesne zamiri."
+        },
+        {
+          "wrong": "My bike was stolen by someone.",
+          "right": "My bike was stolen.",
+          "explanation": "Belirsiz yapan için by gereksiz."
+        },
+        {
+          "wrong": "It was happened yesterday.",
+          "right": "It happened yesterday.",
+          "explanation": "Happen geçişsiz; pasifi yoktur."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Past Simple",
+          "body": "Aktif Past Simple: did / V2; pasif: was / were + V3.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Present Perfect",
+          "body": "V3 Present Perfect'te de kullanılır: have + V3.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "Be fiili",
+          "body": "Pasifte be fiili cümlenin zamanını taşır.",
+          "lessonId": "a1-to-be"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Pasif = be + V3; be fiilinin zamanı cümlenin zamanıdır.",
+        "Özneye göre is / are ya da was / were seç.",
+        "By + yapan kişi yalnızca gerekliyse eklenir.",
+        "By'dan sonra nesne zamiri gelir: by him, by them.",
+        "Geçişsiz fiillerin (happen, arrive, die) pasifi yoktur."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-passive-01",
+        "q-passive-02",
+        "q-passive-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-passive-01",
+      "en": "English is spoken all over the world.",
+      "tr": "İngilizce dünyanın her yerinde konuşulur.",
+      "highlight": "is spoken",
+      "note": "am / is / are + V3"
+    },
+    {
+      "id": "ex-passive-02",
+      "en": "Cars are made in this factory.",
+      "tr": "Arabalar bu fabrikada üretilir.",
+      "highlight": "are made"
+    },
+    {
+      "id": "ex-passive-03",
+      "en": "The room is cleaned every day.",
+      "tr": "Oda her gün temizlenir.",
+      "highlight": "is cleaned"
+    },
+    {
+      "id": "ex-passive-04",
+      "en": "Rice is grown in Asia.",
+      "tr": "Pirinç Asya'da yetiştirilir.",
+      "highlight": "is grown"
+    },
+    {
+      "id": "ex-passive-05",
+      "en": "Coffee is sold in this shop.",
+      "tr": "Kahve bu dükkânda satılır.",
+      "highlight": "is sold"
+    },
+    {
+      "id": "ex-passive-06",
+      "en": "These books are written by Tom.",
+      "tr": "Bu kitapları Tom yazmış.",
+      "highlight": "are written",
+      "note": "by + yapan kişi"
+    },
+    {
+      "id": "ex-passive-07",
+      "en": "The Mona Lisa was painted by Leonardo.",
+      "tr": "Mona Lisa'yı Leonardo yaptı.",
+      "highlight": "was painted",
+      "note": "was / were + V3"
+    },
+    {
+      "id": "ex-passive-08",
+      "en": "The window was broken yesterday.",
+      "tr": "Pencere dün kırıldı.",
+      "highlight": "was broken"
+    },
+    {
+      "id": "ex-passive-09",
+      "en": "My bike was stolen last night.",
+      "tr": "Bisikletim dün gece çalındı.",
+      "highlight": "was stolen"
+    },
+    {
+      "id": "ex-passive-10",
+      "en": "The letters were sent on Monday.",
+      "tr": "Mektuplar pazartesi gönderildi.",
+      "highlight": "were sent"
+    },
+    {
+      "id": "ex-passive-11",
+      "en": "The house was built in 1990.",
+      "tr": "Ev 1990'da yapıldı.",
+      "highlight": "was built"
+    },
+    {
+      "id": "ex-passive-12",
+      "en": "The thieves were arrested.",
+      "tr": "Hırsızlar tutuklandı.",
+      "highlight": "were arrested"
+    },
+    {
+      "id": "ex-passive-13",
+      "en": "English isn't spoken here.",
+      "tr": "Burada İngilizce konuşulmaz.",
+      "highlight": "isn't spoken",
+      "note": "Olumsuz: isn't / aren't + V3"
+    },
+    {
+      "id": "ex-passive-14",
+      "en": "The shops aren't opened on Sundays.",
+      "tr": "Dükkânlar pazar günleri açılmaz.",
+      "highlight": "aren't opened"
+    },
+    {
+      "id": "ex-passive-15",
+      "en": "The window wasn't broken.",
+      "tr": "Pencere kırılmadı.",
+      "highlight": "wasn't broken",
+      "note": "wasn't / weren't + V3"
+    },
+    {
+      "id": "ex-passive-16",
+      "en": "The letters weren't sent.",
+      "tr": "Mektuplar gönderilmedi.",
+      "highlight": "weren't sent"
+    },
+    {
+      "id": "ex-passive-17",
+      "en": "Is English spoken here?",
+      "tr": "Burada İngilizce konuşulur mu?",
+      "highlight": "Is English spoken",
+      "note": "Soru: be + özne + V3"
+    },
+    {
+      "id": "ex-passive-18",
+      "en": "Are cars made in this factory?",
+      "tr": "Bu fabrikada araba üretilir mi?",
+      "highlight": "Are cars made"
+    },
+    {
+      "id": "ex-passive-19",
+      "en": "Was the window broken?",
+      "tr": "Pencere kırıldı mı?",
+      "highlight": "Was the window broken"
+    },
+    {
+      "id": "ex-passive-20",
+      "en": "Were the letters sent?",
+      "tr": "Mektuplar gönderildi mi?",
+      "highlight": "Were the letters sent"
+    },
+    {
+      "id": "ex-passive-21",
+      "en": "Where is coffee grown?",
+      "tr": "Kahve nerede yetiştirilir?",
+      "highlight": "Where is coffee grown"
+    },
+    {
+      "id": "ex-passive-22",
+      "en": "When was the house built?",
+      "tr": "Ev ne zaman yapıldı?",
+      "highlight": "When was the house built"
+    },
+    {
+      "id": "ex-passive-23",
+      "en": "Who was the book written by?",
+      "tr": "Kitabı kim yazdı?",
+      "highlight": "Who was the book written by"
+    },
+    {
+      "id": "ex-passive-24",
+      "en": "Tom cleans the room every day. → The room is cleaned by Tom every day.",
+      "tr": "Oda her gün Tom tarafından temizlenir.",
+      "highlight": "is cleaned by Tom",
+      "note": "Aktif → pasif"
+    },
+    {
+      "id": "ex-passive-25",
+      "en": "Leonardo painted the Mona Lisa. → The Mona Lisa was painted by Leonardo.",
+      "tr": "Mona Lisa Leonardo tarafından yapıldı.",
+      "highlight": "was painted by Leonardo"
+    },
+    {
+      "id": "ex-passive-26",
+      "en": "They built the house in 1990. → The house was built in 1990.",
+      "tr": "Ev 1990'da yapıldı.",
+      "highlight": "was built",
+      "note": "by they: gerekmez"
+    },
+    {
+      "id": "ex-passive-27",
+      "en": "Someone stole my bike. → My bike was stolen.",
+      "tr": "Bisikletim çalındı.",
+      "highlight": "was stolen",
+      "note": "Yapan belirsiz: by yok"
+    },
+    {
+      "id": "ex-passive-28",
+      "en": "This church was built in the 12th century.",
+      "tr": "Bu kilise 12. yüzyılda yapıldı.",
+      "highlight": "was built"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-passive-01",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "English ___ all over the world.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is spoken"
+        },
+        {
+          "id": "b",
+          "text": "speaks"
+        },
+        {
+          "id": "c",
+          "text": "is speak"
+        },
+        {
+          "id": "d",
+          "text": "are spoken"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "is + V3.",
+      "optionExplanations": {
+        "b": "Aktif biçim.",
+        "c": "V3 gerekir.",
+        "d": "Tekil özne: is."
+      },
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-02",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Cars ___ made in this factory.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Çoğul özne: are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Çoğul özne: are."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-03",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İngilizce dünyanın her yerinde konuşulur.",
+      "answer": [
+        "English",
+        "is",
+        "spoken",
+        "all",
+        "over",
+        "the",
+        "world"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are",
+        "speak"
+      ],
+      "explanation": "is + V3",
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-passive-04",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "English speaks all over the world.",
+      "errorSpan": "speaks",
+      "answers": [
+        "English is spoken all over the world."
+      ],
+      "explanation": "Pasif: be + V3.",
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-05",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce dünyanın her yerinde konuşulur.",
+      "hint": "konuşmak: speak",
+      "answers": [
+        "English is spoken all over the world."
+      ],
+      "targetStructure": "is + V3",
+      "explanation": "Present Simple Passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "English is speak all over the world.",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-06",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The room ___ every day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is cleaned"
+        },
+        {
+          "id": "b",
+          "text": "cleans"
+        },
+        {
+          "id": "c",
+          "text": "is clean"
+        },
+        {
+          "id": "d",
+          "text": "are cleaned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "is + V3.",
+      "optionExplanations": {
+        "b": "Aktif biçim.",
+        "c": "Sıfat.",
+        "d": "Tekil özne: is."
+      },
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-07",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The window ___ yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was broken"
+        },
+        {
+          "id": "b",
+          "text": "is broken"
+        },
+        {
+          "id": "c",
+          "text": "broke"
+        },
+        {
+          "id": "d",
+          "text": "were broken"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "was + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş zaman gerekir.",
+        "c": "Aktif biçim.",
+        "d": "Tekil özne: was."
+      },
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-08",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My bike ___ last night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was stolen"
+        },
+        {
+          "id": "b",
+          "text": "is stolen"
+        },
+        {
+          "id": "c",
+          "text": "stole"
+        },
+        {
+          "id": "d",
+          "text": "were stolen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "was + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş zaman gerekir.",
+        "c": "Aktif biçim.",
+        "d": "Tekil özne: was."
+      },
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-09",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Rice ___ grown in Asia.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Tekil özne: is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Rice tekildir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-10",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The window ___ broken yesterday.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Geçmiş, tekil: was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "Window tekildir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-11",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The letters ___ sent on Monday.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Geçmiş, çoğul: were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "Letters çoğuldur."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-12",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cars are made in this factory."
+        },
+        {
+          "id": "b",
+          "text": "Cars is made in this factory."
+        },
+        {
+          "id": "c",
+          "text": "Cars are make in this factory."
+        },
+        {
+          "id": "d",
+          "text": "Cars made in this factory."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "are + V3.",
+      "optionExplanations": {
+        "b": "Çoğul özne: are.",
+        "c": "V3 gerekir.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-13",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The Mona Lisa ___ by Leonardo.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was painted"
+        },
+        {
+          "id": "b",
+          "text": "painted"
+        },
+        {
+          "id": "c",
+          "text": "is painted"
+        },
+        {
+          "id": "d",
+          "text": "were painted"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "was + V3.",
+      "optionExplanations": {
+        "b": "Aktif biçim.",
+        "c": "Geçmiş zaman gerekir.",
+        "d": "Tekil özne: was."
+      },
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-14",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The house ___ in 1990. (build)",
+      "options": [
+        {
+          "id": "a",
+          "text": "was built"
+        },
+        {
+          "id": "b",
+          "text": "built"
+        },
+        {
+          "id": "c",
+          "text": "is built"
+        },
+        {
+          "id": "d",
+          "text": "were built"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "was + V3.",
+      "optionExplanations": {
+        "b": "Aktif ya da V2.",
+        "c": "Geçmiş zaman gerekir.",
+        "d": "Tekil özne: was."
+      },
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-15",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "English ___ spoken here. (olumsuz)",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "doesn't"
+        },
+        {
+          "id": "c",
+          "text": "don't"
+        },
+        {
+          "id": "d",
+          "text": "wasn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "isn't + V3.",
+      "optionExplanations": {
+        "b": "Do pasifte kullanılmaz.",
+        "c": "Do pasifte kullanılmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-16",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The letters ___ sent. (olumsuz, geçmiş)",
+      "options": [
+        {
+          "id": "a",
+          "text": "weren't"
+        },
+        {
+          "id": "b",
+          "text": "wasn't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "aren't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "weren't + V3.",
+      "optionExplanations": {
+        "b": "Letters çoğul.",
+        "c": "Did pasifte kullanılmaz.",
+        "d": "Geçmiş zaman gerekir."
+      },
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-17",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ English spoken here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Does"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Is + özne + V3.",
+      "optionExplanations": {
+        "b": "Do pasifte kullanılmaz.",
+        "c": "Do pasifte kullanılmaz.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-18",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "English ___ spoken here. (konuşulmaz)",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't",
+          "explanation": "Do pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-19",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The shops ___ opened on Sundays. (açılmaz)",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Çoğul olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "Shops çoğul."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-20",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The window ___ broken. (kırılmadı)",
+      "answers": [
+        "wasn't",
+        "was not"
+      ],
+      "explanation": "Geçmiş olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't",
+          "explanation": "Did pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-21",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ the window broken?",
+      "answers": [
+        "Was"
+      ],
+      "explanation": "Was + özne + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did",
+          "explanation": "Did pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-22",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ coffee grown?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Where + is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "does",
+          "explanation": "Do pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-23",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ the house built?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "When + was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Did pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-24",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "These books are written ___ Tom.",
+      "answers": [
+        "by"
+      ],
+      "explanation": "By + yapan kişi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "from",
+          "explanation": "By kullanılır."
+        }
+      ],
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-passive-25",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The house was built ___ them. (by'dan sonra)",
+      "answers": [
+        "by"
+      ],
+      "explanation": "By.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "from",
+          "explanation": "By kullanılır."
+        }
+      ],
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-passive-26",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "English is speak all over the world.",
+      "errorSpan": "is speak",
+      "answers": [
+        "English is spoken all over the world."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-27",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Cars is made here.",
+      "errorSpan": "Cars is",
+      "answers": [
+        "Cars are made here."
+      ],
+      "explanation": "Çoğul özne: are.",
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-passive-28",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The window was break.",
+      "errorSpan": "was break",
+      "answers": [
+        "The window was broken."
+      ],
+      "explanation": "V3: broken.",
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-29",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The letters was sent.",
+      "errorSpan": "letters was",
+      "answers": [
+        "The letters were sent."
+      ],
+      "explanation": "Çoğul özne: were.",
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-passive-30",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Was the window break?",
+      "errorSpan": "break",
+      "answers": [
+        "Was the window broken?"
+      ],
+      "explanation": "Soruda da V3.",
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-31",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Pencere dün kırıldı.",
+      "answer": [
+        "The",
+        "window",
+        "was",
+        "broken",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "were",
+        "break"
+      ],
+      "explanation": "was + V3",
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-32",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu fabrikada araba üretilir mi?",
+      "answer": [
+        "Are",
+        "cars",
+        "made",
+        "in",
+        "this",
+        "factory"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "make"
+      ],
+      "explanation": "Are + özne + V3",
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-33",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Mona Lisa'yı Leonardo yaptı.",
+      "answer": [
+        "The",
+        "Mona",
+        "Lisa",
+        "was",
+        "painted",
+        "by",
+        "Leonardo"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "were",
+        "paint"
+      ],
+      "explanation": "was + V3 + by",
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-34",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pencere dün kırıldı.",
+      "hint": "kırmak: break",
+      "answers": [
+        "The window was broken yesterday."
+      ],
+      "targetStructure": "was + V3",
+      "explanation": "Past Passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The window was break yesterday.",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-35",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bisikletim dün gece çalındı.",
+      "hint": "çalmak (hırsızlık): steal",
+      "answers": [
+        "My bike was stolen last night."
+      ],
+      "targetStructure": "was stolen",
+      "explanation": "Past Passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My bike was steal last night.",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-36",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ev 1990'da yapıldı.",
+      "hint": "yapmak (inşa): build",
+      "answers": [
+        "The house was built in 1990."
+      ],
+      "targetStructure": "was built",
+      "explanation": "Past Passive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The house built in 1990.",
+          "explanation": "Be fiili eksik."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-37",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'Tom cleans the room.' pasif hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The room is cleaned by Tom."
+        },
+        {
+          "id": "b",
+          "text": "The room cleans by Tom."
+        },
+        {
+          "id": "c",
+          "text": "The room was cleaned by Tom."
+        },
+        {
+          "id": "d",
+          "text": "Tom is cleaned by the room."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Simple pasif.",
+      "optionExplanations": {
+        "b": "Aktif biçim.",
+        "c": "Geçmiş zaman.",
+        "d": "Anlam tersine döner."
+      },
+      "tags": [
+        "passive",
+        "active-passive"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-38",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'Someone stole my bike.' pasif hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My bike was stolen."
+        },
+        {
+          "id": "b",
+          "text": "My bike was steal."
+        },
+        {
+          "id": "c",
+          "text": "My bike stole."
+        },
+        {
+          "id": "d",
+          "text": "My bike is stolen."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Belirsiz yapan: by yok.",
+      "optionExplanations": {
+        "b": "V3 gerekir.",
+        "c": "Aktif biçim.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-39",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinin pasifi yoktur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It happened yesterday."
+        },
+        {
+          "id": "b",
+          "text": "They built the house."
+        },
+        {
+          "id": "c",
+          "text": "Leonardo painted it."
+        },
+        {
+          "id": "d",
+          "text": "Someone broke it."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Happen geçişsizdir.",
+      "optionExplanations": {
+        "b": "Geçişli fiil.",
+        "c": "Geçişli fiil.",
+        "d": "Geçişli fiil."
+      },
+      "tags": [
+        "passive",
+        "when"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-40",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Leonardo painted it. → It was painted ___ Leonardo.",
+      "answers": [
+        "by"
+      ],
+      "explanation": "By.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "from",
+          "explanation": "By kullanılır."
+        }
+      ],
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-passive-41",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The house was built by ___. (they)",
+      "answers": [
+        "them"
+      ],
+      "explanation": "By'dan sonra nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "they",
+          "explanation": "Nesne zamiri gerekir."
+        }
+      ],
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-passive-42",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kahve nerede yetiştirilir?",
+      "hint": "yetiştirmek: grow",
+      "answers": [
+        "Where is coffee grown?"
+      ],
+      "targetStructure": "Where is … V3",
+      "explanation": "Wh pasif.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where does coffee grow?",
+          "explanation": "Bu aktif ve geçişsiz kullanımdır; pasif istendi."
+        }
+      ],
+      "tags": [
+        "passive",
+        "present"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-43",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ev ne zaman yapıldı?",
+      "hint": "yapmak (inşa): build",
+      "answers": [
+        "When was the house built?"
+      ],
+      "targetStructure": "When was … V3",
+      "explanation": "Wh pasif.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When did the house built?",
+          "explanation": "Did pasifte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "passive",
+        "past"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-passive-44",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The house was built by they.",
+      "errorSpan": "by they",
+      "answers": [
+        "The house was built by them."
+      ],
+      "explanation": "By'dan sonra nesne zamiri.",
+      "tags": [
+        "passive",
+        "by"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-passive-45",
+      "lessonId": "a2-passive-basic",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It was happened yesterday.",
+      "errorSpan": "was happened",
+      "answers": [
+        "It happened yesterday."
+      ],
+      "explanation": "Happen pasif olmaz.",
+      "tags": [
+        "passive",
+        "when"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-passive",
+    "title": "Passive Voice: Konu sonu sınavı",
+    "description": "Present ve Past Simple edilgen.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-passive-exam-01",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Rice ___ in Asia.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is grown"
+          },
+          {
+            "id": "b",
+            "text": "grows"
+          },
+          {
+            "id": "c",
+            "text": "is grow"
+          },
+          {
+            "id": "d",
+            "text": "are grown"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "is + V3.",
+        "optionExplanations": {
+          "b": "Aktif biçim.",
+          "c": "V3 gerekir.",
+          "d": "Tekil özne: is."
+        },
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-02",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The letters ___ sent on Friday.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "Geçmiş, çoğul.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "was",
+            "explanation": "Letters çoğul."
+          }
+        ],
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-03",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Oda her gün temizlenir.",
+        "answer": [
+          "The",
+          "room",
+          "is",
+          "cleaned",
+          "every",
+          "day"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are",
+          "clean"
+        ],
+        "explanation": "is + V3",
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-04",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The window broke by the wind.",
+        "errorSpan": "broke by",
+        "answers": [
+          "The window was broken by the wind."
+        ],
+        "explanation": "Pasif: was + V3.",
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-05",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hırsızlar tutuklandı.",
+        "hint": "tutuklamak: arrest",
+        "answers": [
+          "The thieves were arrested."
+        ],
+        "targetStructure": "were + V3",
+        "explanation": "Past Passive.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The thieves was arrested.",
+            "explanation": "Thieves çoğul."
+          }
+        ],
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-06",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "French ___ spoken here. (olumsuz)",
+        "options": [
+          {
+            "id": "a",
+            "text": "isn't"
+          },
+          {
+            "id": "b",
+            "text": "doesn't"
+          },
+          {
+            "id": "c",
+            "text": "don't"
+          },
+          {
+            "id": "d",
+            "text": "wasn't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "isn't + V3.",
+        "optionExplanations": {
+          "b": "Do pasifte kullanılmaz.",
+          "c": "Do pasifte kullanılmaz.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-07",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ the letters sent? (miydi / mıydı)",
+        "answers": [
+          "Were"
+        ],
+        "explanation": "Were + özne + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did",
+            "explanation": "Did pasifte kullanılmaz."
+          }
+        ],
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-08",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Burada İngilizce konuşulur mu?",
+        "answer": [
+          "Is",
+          "English",
+          "spoken",
+          "here"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Does",
+          "speak"
+        ],
+        "explanation": "Is + özne + V3",
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-09",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Cars is made in Japan.",
+        "errorSpan": "Cars is",
+        "answers": [
+          "Cars are made in Japan."
+        ],
+        "explanation": "Çoğul özne: are.",
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-passive-exam-10",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Mektuplar gönderilmedi.",
+        "hint": "göndermek: send",
+        "answers": [
+          "The letters weren't sent.",
+          "The letters were not sent."
+        ],
+        "targetStructure": "weren't + V3",
+        "explanation": "Past Passive olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The letters didn't sent.",
+            "explanation": "Did pasifte kullanılmaz."
+          }
+        ],
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-11",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "The thieves ___ by the police.",
+        "options": [
+          {
+            "id": "a",
+            "text": "were arrested"
+          },
+          {
+            "id": "b",
+            "text": "was arrested"
+          },
+          {
+            "id": "c",
+            "text": "arrested"
+          },
+          {
+            "id": "d",
+            "text": "are arrest"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "were + V3.",
+        "optionExplanations": {
+          "b": "Thieves çoğul.",
+          "c": "Aktif biçim.",
+          "d": "V3 gerekir."
+        },
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-12",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "These songs were written ___ her. (by'dan sonra)",
+        "answers": [
+          "by"
+        ],
+        "explanation": "By.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "from",
+            "explanation": "By kullanılır."
+          }
+        ],
+        "tags": [
+          "passive",
+          "by"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-passive-exam-13",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The shop was robbed by they.",
+        "errorSpan": "by they",
+        "answers": [
+          "The shop was robbed by them."
+        ],
+        "explanation": "By'dan sonra nesne zamiri.",
+        "tags": [
+          "passive",
+          "by"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-passive-exam-14",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisinin pasifi yoktur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She arrived late."
+          },
+          {
+            "id": "b",
+            "text": "They sold the car."
+          },
+          {
+            "id": "c",
+            "text": "He wrote the book."
+          },
+          {
+            "id": "d",
+            "text": "Someone took my bag."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Arrive geçişsizdir.",
+        "optionExplanations": {
+          "b": "Geçişli fiil.",
+          "c": "Geçişli fiil.",
+          "d": "Geçişli fiil."
+        },
+        "tags": [
+          "passive",
+          "when"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-15",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "When ___ the school built?",
+        "answers": [
+          "was"
+        ],
+        "explanation": "When + was.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "did",
+            "explanation": "Did pasifte kullanılmaz."
+          }
+        ],
+        "tags": [
+          "passive",
+          "past"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      },
+      {
+        "id": "q-passive-exam-16",
+        "lessonId": "a2-passive-basic",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Pirinç Asya'da yetiştirilir.",
+        "answer": [
+          "Rice",
+          "is",
+          "grown",
+          "in",
+          "Asia"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are",
+          "grow"
+        ],
+        "explanation": "is + V3",
+        "tags": [
+          "passive",
+          "present"
+        ],
+        "errorTags": [
+          "passive_form"
+        ]
+      }
+    ]
+  }
+}
