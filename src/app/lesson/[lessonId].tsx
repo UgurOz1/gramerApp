@@ -3,8 +3,10 @@ import { useEffect, useMemo, useState } from "react";
 import { Animated, Pressable, StyleSheet, View } from "react-native";
 
 import { AppText, Badge, Button, Card, Icon, Screen, icons } from "@/components/common";
+import { QuickTryCard } from "@/components/lesson/QuickTryCard";
 import { SectionView } from "@/components/lesson/SectionView";
 import { getLessonContent } from "@/data/contentRepository";
+import { buildQuickTry, type QuickTry } from "@/features/lesson/quickTry";
 import { getLessonSummary } from "@/features/curriculum/catalog";
 import { progressService } from "@/services/progress/progressService";
 import { useUserState } from "@/services/progress/userStore";
@@ -25,7 +27,7 @@ const stepLabels: Record<string, string> = {
 
 const EXAMPLES_PER_STEP = 5;
 
-type Step = { key: string; label: string; section?: LessonSection };
+type Step = { key: string; label: string; section?: LessonSection; quick?: QuickTry };
 
 /** Adım göstergesi: her adım bir parça; geçilen adımlara dokunarak dönülebilir. */
 function StepHeader({ steps, index, color, onJump }: { steps: Step[]; index: number; color: string; onJump: (i: number) => void }) {
@@ -66,11 +68,10 @@ export default function LessonScreen() {
 
   const steps = useMemo<Step[]>(() => {
     if (!lesson) return [];
-    return [
-      { key: "cover", label: "Başlangıç" },
-      ...lesson.sections.flatMap((section): Step[] => {
-        const label = stepLabels[section.type] ?? "Konu";
-        if (section.type !== "examples" || section.exampleIds.length <= EXAMPLES_PER_STEP) return [{ key: section.id, label, section }];
+    const used = new Set<string>();
+    const sectionSteps = lesson.sections.flatMap((section): Step[] => {
+      const label = stepLabels[section.type] ?? "Konu";
+      if (section.type === "examples" && section.exampleIds.length > EXAMPLES_PER_STEP) {
         // Uzun örnek listeleri kaydırma yerine küçük sayfalara bölünür.
         const pages = Math.ceil(section.exampleIds.length / EXAMPLES_PER_STEP);
         return Array.from({ length: pages }, (_, i) => ({
@@ -82,9 +83,17 @@ export default function LessonScreen() {
             exampleIds: section.exampleIds.slice(i * EXAMPLES_PER_STEP, (i + 1) * EXAMPLES_PER_STEP),
           },
         }));
-      }),
-      { key: "finish", label: "Bitiş" },
-    ];
+      }
+      const steps: Step[] = [{ key: section.id, label, section }];
+      // Kural anlatımından hemen sonra, o kuralın örneğiyle tek soruluk deneme.
+      const quick = buildQuickTry(lesson, section, used);
+      if (quick) {
+        used.add(quick.exampleId);
+        steps.push({ key: `${section.id}-try`, label: "Hemen dene", quick });
+      }
+      return steps;
+    });
+    return [{ key: "cover", label: "Başlangıç" }, ...sectionSteps, { key: "finish", label: "Bitiş" }];
   }, [lesson]);
   const last = steps.length - 1;
 
@@ -152,7 +161,7 @@ export default function LessonScreen() {
         ))}
       </View>
       <AppText variant="caption" color="textSecondary">
-        Konu {steps.length - 2} kısa adımda anlatılıyor. Her adımı bitirince “Devam”a dokun; geçtiğin adımlara üstteki çubuktan dönebilirsin.
+        Konu {steps.length - 2} kısa adımda anlatılıyor; kuralların ardından küçük denemeler var. Her adımı bitirince “Devam”a dokun; geçtiğin adımlara üstteki çubuktan dönebilirsin.
       </AppText>
     </View>
   );
@@ -203,7 +212,9 @@ export default function LessonScreen() {
     >
       <Stack.Screen options={{ title: lesson.title }} />
       <Animated.View style={[styles.stepBody, { opacity: fade, transform: [{ translateX: fade.interpolate({ inputRange: [0, 1], outputRange: [24, 0] }) }] }]}>
-        {step.key === "cover" ? hero : step.key === "finish" ? finish : step.section ? (
+        {step.key === "cover" ? hero : step.key === "finish" ? finish : step.quick ? (
+          <QuickTryCard key={step.key} quick={step.quick} />
+        ) : step.section ? (
           <SectionView section={step.section} lesson={lesson} sessionId={sessionId} showHint={preferences.showHints} />
         ) : null}
       </Animated.View>
