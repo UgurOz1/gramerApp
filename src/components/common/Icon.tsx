@@ -17,6 +17,8 @@ export function Icon({ name, size = 24, color }: Props) {
 
 /** Sık kullanılan simgeler (iOS / Android / web adları). */
 export const icons = {
+  chevronLeft: { ios: "chevron.left", android: "chevron_left", web: "chevron_left" },
+  close: { ios: "xmark", android: "close", web: "close" },
   chevronRight: { ios: "chevron.right", android: "chevron_right", web: "chevron_right" },
   check: { ios: "checkmark", android: "check", web: "check" },
   checkCircle: { ios: "checkmark.circle.fill", android: "check_circle", web: "check_circle" },

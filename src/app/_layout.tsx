@@ -4,7 +4,7 @@ import { StatusBar } from "expo-status-bar";
 import { useEffect, useState } from "react";
 import { AppState, StyleSheet, View } from "react-native";
 
-import { AppText } from "@/components/common";
+import { AppText, HeaderButton } from "@/components/common";
 import { isCatalogLoaded } from "@/features/curriculum/catalog";
 import { userStore } from "@/services/progress/userStore";
 import { colors, spacing } from "@/theme";
@@ -57,22 +57,25 @@ export default function RootLayout() {
             headerTitleStyle: { fontWeight: "800", fontSize: 17 },
             headerShadowVisible: false,
             contentStyle: { backgroundColor: colors.background },
-            headerBackButtonDisplayMode: "minimal",
+            headerTitleAlign: "center",
+            headerLeft: () => <HeaderButton />,
+            // Özel geri düğmesi iOS'ta kenardan kaydırarak geri dönmeyi kapatır; tüm ekrandan kaydırmayla geri getirilir.
+            fullScreenGestureEnabled: true,
           }}
         >
           <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
           <Stack.Screen name="level/[levelId]" options={{ title: "" }} />
           <Stack.Screen name="lesson/[lessonId]" options={{ title: "" }} />
-          <Stack.Screen name="practice/[lessonId]" options={{ title: "Alıştırma" }} />
-          <Stack.Screen name="exam/[lessonId]" options={{ title: "Sınav" }} />
+          <Stack.Screen name="practice/[lessonId]" options={{ title: "Alıştırma", headerLeft: () => <HeaderButton kind="close" /> }} />
+          <Stack.Screen name="exam/[lessonId]" options={{ title: "Sınav", headerLeft: () => <HeaderButton kind="close" /> }} />
           <Stack.Screen name="exam/result" options={{ title: "Sınav sonucu" }} />
           <Stack.Screen name="comparisons/index" options={{ title: "Karşılaştırmalı gramer" }} />
           <Stack.Screen name="comparisons/[comparisonId]" options={{ title: "" }} />
           <Stack.Screen name="mistakes/index" options={{ title: "Yanlışlarım" }} />
-          <Stack.Screen name="mistakes/practice" options={{ title: "Yanlışları tekrar çöz" }} />
+          <Stack.Screen name="mistakes/practice" options={{ title: "Yanlışları tekrar çöz", headerLeft: () => <HeaderButton kind="close" /> }} />
           <Stack.Screen name="review/index" options={{ title: "Tekrar listem" }} />
           <Stack.Screen name="mixed/index" options={{ title: "Karışık test" }} />
-          <Stack.Screen name="mixed/run" options={{ title: "Karışık test" }} />
+          <Stack.Screen name="mixed/run" options={{ title: "Karışık test", headerLeft: () => <HeaderButton kind="close" /> }} />
         </Stack>
       ) : (
         <View style={styles.error}>

@@ -1,7 +1,5 @@
 import { useRef, type ReactNode } from "react";
 import {
-  KeyboardAvoidingView,
-  Platform,
   ScrollView,
   StyleSheet,
   View,
@@ -11,10 +9,11 @@ import {
 import { useSafeAreaInsets } from "react-native-safe-area-context";
 
 import { colors, spacing } from "@/theme";
+import { useKeyboardHeight } from "./useKeyboardHeight";
 
 type Props = {
   children: ReactNode;
-  /** Ekranın altında sabit duran alan (ör. "Sonraki adım" butonu). Klavye açılınca yukarı çıkar. */
+  /** Ekranın altında sabit duran alan (ör. "Sonraki adım" butonu). Klavye açılınca klavyenin üstüne çıkar. */
   footer?: ReactNode;
   /** İçeriğin sonuna gelindiğinde bir kez çağrılır (ör. dersin okundu sayılması). */
   onReachEnd?: () => void;
@@ -26,6 +25,7 @@ type Props = {
 export function Screen({ children, footer, onReachEnd, safeTop }: Props) {
   const reached = useRef(false);
   const insets = useSafeAreaInsets();
+  const keyboardHeight = useKeyboardHeight();
 
   const handleScroll = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
     if (!onReachEnd || reached.current) return;
@@ -37,7 +37,7 @@ export function Screen({ children, footer, onReachEnd, safeTop }: Props) {
   };
 
   return (
-    <KeyboardAvoidingView style={styles.root} behavior={Platform.OS === "ios" ? "padding" : undefined}>
+    <View style={[styles.root, { paddingBottom: keyboardHeight }]}>
       <ScrollView
         contentContainerStyle={[styles.content, safeTop && { paddingTop: insets.top + spacing.lg }]}
         contentInsetAdjustmentBehavior={safeTop ? "never" : "automatic"}
@@ -49,8 +49,8 @@ export function Screen({ children, footer, onReachEnd, safeTop }: Props) {
       >
         {children}
       </ScrollView>
-      {footer ? <View style={[styles.footer, { paddingBottom: Math.max(insets.bottom, spacing.lg) }]}>{footer}</View> : null}
-    </KeyboardAvoidingView>
+      {footer ? <View style={[styles.footer, { paddingBottom: keyboardHeight > 0 ? spacing.md : Math.max(insets.bottom, spacing.lg) }]}>{footer}</View> : null}
+    </View>
   );
 }
 
