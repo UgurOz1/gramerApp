@@ -1,0 +1,2113 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-should-have",
+  "levelId": "b1",
+  "title": "Should Have & Shouldn't Have",
+  "objectives": [
+    "Should have + V3 ile geçmişte yapılmayan doğru eylemi anlatmak",
+    "Shouldn’t have + V3 ile yapılmaması gereken eylemi anlatmak",
+    "Soru ve olumsuz biçimleri doğru kurmak",
+    "Should ile should have farkını ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Geçmişe dair pişmanlık ve eleştiri",
+      "paragraphs": [
+        "Should have + V3, geçmişte yapmamız gerektiği hâlde yapmadığımız şeyleri anlatır: “Doktora gitmeliydim.” Shouldn’t have + V3 ise yapmamamız gereken ama yaptığımız şeyleri anlatır: “O kadar yememeliydim.”",
+        "Yapı pişmanlık, eleştiri ya da geçmişe dair tavsiye için kullanılır. Gelecek ya da şimdiki zaman tavsiyesi için should + yalın fiil kullanılır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Should have + V3",
+      "paragraphs": [
+        "Geçmişte yapılmayan ama yapılması gereken bir eylemi anlatır. Anlam: yapmadım ama yapmalıydım."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "özne + should have + V3",
+          "exampleIds": [
+            "ex-should-have-01",
+            "ex-should-have-02",
+            "ex-should-have-03",
+            "ex-should-have-04"
+          ]
+        },
+        {
+          "label": "Pişmanlık",
+          "pattern": "I should have + V3",
+          "exampleIds": [
+            "ex-should-have-05",
+            "ex-should-have-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Shouldn’t have + V3",
+      "paragraphs": [
+        "Geçmişte yapılmış ama yapılmaması gereken bir eylemi anlatır. Anlam: yaptım ama yapmamalıydım."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "özne + shouldn’t have + V3",
+          "exampleIds": [
+            "ex-should-have-07",
+            "ex-should-have-08",
+            "ex-should-have-09",
+            "ex-should-have-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Soru ve kısa cevap",
+      "paragraphs": [
+        "Soruda should öznenin önüne geçer. Kısa cevapta should ya da shouldn’t kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Should + özne + have + V3?",
+          "exampleIds": [
+            "ex-should-have-11",
+            "ex-should-have-12"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, you should have. / No, you shouldn’t have.",
+          "exampleIds": [
+            "ex-should-have-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Eleştiri ve tavsiye",
+      "paragraphs": [
+        "Başkasına yönelik eleştiri ya da geçmişe dair tavsiyede kullanılır. Ton nazikten sert olana kadar değişebilir."
+      ],
+      "formulas": [
+        {
+          "label": "Eleştiri",
+          "pattern": "You should have + V3",
+          "exampleIds": [
+            "ex-should-have-14",
+            "ex-should-have-15",
+            "ex-should-have-16"
+          ]
+        },
+        {
+          "label": "Tavsiye",
+          "pattern": "He should have asked for help.",
+          "exampleIds": [
+            "ex-should-have-17",
+            "ex-should-have-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Should ile should have",
+      "paragraphs": [
+        "Should + yalın fiil şimdiki ya da gelecek tavsiyesidir. Should have + V3 geçmişle ilgilidir."
+      ],
+      "formulas": [
+        {
+          "label": "Şimdi",
+          "pattern": "You should rest.",
+          "exampleIds": [
+            "ex-should-have-19"
+          ]
+        },
+        {
+          "label": "Geçmiş",
+          "pattern": "You should have rested.",
+          "exampleIds": [
+            "ex-should-have-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Ought to have ve eş anlamlılar",
+      "paragraphs": [
+        "Ought to have + V3 da aynı anlamı verir. Bunun dışında ‘would have’ ve ‘could have’ farklı anlamlar taşır, karıştırılmamalıdır."
+      ],
+      "formulas": [
+        {
+          "label": "Ought to have",
+          "pattern": "ought to have + V3",
+          "exampleIds": [
+            "ex-should-have-21",
+            "ex-should-have-22"
+          ]
+        },
+        {
+          "label": "Could have",
+          "pattern": "could have + V3 = yapabilirdim (yapmadım)",
+          "exampleIds": [
+            "ex-should-have-23",
+            "ex-should-have-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-should-have-01",
+        "ex-should-have-02",
+        "ex-should-have-03",
+        "ex-should-have-04",
+        "ex-should-have-05",
+        "ex-should-have-06",
+        "ex-should-have-07",
+        "ex-should-have-08",
+        "ex-should-have-09",
+        "ex-should-have-10",
+        "ex-should-have-11",
+        "ex-should-have-12",
+        "ex-should-have-13",
+        "ex-should-have-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-should-have-15",
+        "ex-should-have-16",
+        "ex-should-have-17",
+        "ex-should-have-18",
+        "ex-should-have-19",
+        "ex-should-have-20",
+        "ex-should-have-21",
+        "ex-should-have-22",
+        "ex-should-have-23",
+        "ex-should-have-24",
+        "ex-should-have-25",
+        "ex-should-have-26",
+        "ex-should-have-27",
+        "ex-should-have-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I should have went.",
+          "right": "I should have gone.",
+          "explanation": "Should have’den sonra V3 gelir."
+        },
+        {
+          "wrong": "She should of called.",
+          "right": "She should have called.",
+          "explanation": "Should of yanlıştır; should have."
+        },
+        {
+          "wrong": "You shouldn't have say that.",
+          "right": "You shouldn't have said that.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "Should I called her?",
+          "right": "Should I have called her?",
+          "explanation": "Should + özne + have + V3."
+        },
+        {
+          "wrong": "He should has helped.",
+          "right": "He should have helped.",
+          "explanation": "Should'tan sonra has kullanılmaz."
+        },
+        {
+          "wrong": "I should have to go earlier.",
+          "right": "I should have gone earlier.",
+          "explanation": "To yok; V3."
+        },
+        {
+          "wrong": "You shouldn't have been lied. (yalan söylememeliydin)",
+          "right": "You shouldn't have lied.",
+          "explanation": "Etken yapı."
+        },
+        {
+          "wrong": "They should have helped he.",
+          "right": "They should have helped him.",
+          "explanation": "Nesne zamiri."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Should",
+          "body": "Şimdiki / gelecek tavsiyesi için should + yalın fiil.",
+          "lessonId": "a2-should"
+        },
+        {
+          "topic": "Modals of deduction",
+          "body": "Çıkarım için must / might / can’t kullanılır.",
+          "lessonId": "b1-modals-deduction"
+        },
+        {
+          "topic": "Third conditional",
+          "body": "If + had V3 ile would have + V3 pişmanlık anlatır.",
+          "lessonId": "b1-third-conditional-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Should have + V3 = yapmalıydım (yapmadım).",
+        "Shouldn’t have + V3 = yapmamalıydım (yaptım).",
+        "Should of değil should have yazılır.",
+        "Should have’den sonra daima V3 gelir.",
+        "Şimdiki tavsiyede should + yalın fiil kullan."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-should-have-01",
+        "q-should-have-13",
+        "q-should-have-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-should-have-01",
+      "en": "I should have studied more.",
+      "tr": "Daha fazla çalışmalıydım.",
+      "highlight": "should have studied"
+    },
+    {
+      "id": "ex-should-have-02",
+      "en": "She should have called me.",
+      "tr": "Beni aramalıydı.",
+      "highlight": "should have called"
+    },
+    {
+      "id": "ex-should-have-03",
+      "en": "We should have left earlier.",
+      "tr": "Daha erken çıkmalıydık.",
+      "highlight": "should have left"
+    },
+    {
+      "id": "ex-should-have-04",
+      "en": "You should have told me the truth.",
+      "tr": "Bana gerçeği söylemeliydin.",
+      "highlight": "should have told"
+    },
+    {
+      "id": "ex-should-have-05",
+      "en": "I should have listened to my mother.",
+      "tr": "Annemi dinlemeliydim.",
+      "highlight": "should have listened"
+    },
+    {
+      "id": "ex-should-have-06",
+      "en": "I should have saved more money.",
+      "tr": "Daha çok para biriktirmeliydim.",
+      "highlight": "should have saved"
+    },
+    {
+      "id": "ex-should-have-07",
+      "en": "I shouldn't have eaten so much.",
+      "tr": "O kadar çok yememeliydim.",
+      "highlight": "shouldn't have eaten"
+    },
+    {
+      "id": "ex-should-have-08",
+      "en": "He shouldn't have said that.",
+      "tr": "Bunu söylememeliydi.",
+      "highlight": "shouldn't have said"
+    },
+    {
+      "id": "ex-should-have-09",
+      "en": "They shouldn't have laughed at him.",
+      "tr": "Ona gülmemeliydiler.",
+      "highlight": "shouldn't have laughed"
+    },
+    {
+      "id": "ex-should-have-10",
+      "en": "You shouldn't have lied to me.",
+      "tr": "Bana yalan söylememeliydin.",
+      "highlight": "shouldn't have lied"
+    },
+    {
+      "id": "ex-should-have-11",
+      "en": "Should I have called him?",
+      "tr": "Onu aramalı mıydım?",
+      "highlight": "Should I have called"
+    },
+    {
+      "id": "ex-should-have-12",
+      "en": "Should they have waited?",
+      "tr": "Beklemeli miydiler?",
+      "highlight": "Should they have waited"
+    },
+    {
+      "id": "ex-should-have-13",
+      "en": "No, you shouldn't have.",
+      "tr": "Hayır, yapmamalıydın.",
+      "highlight": "shouldn't have"
+    },
+    {
+      "id": "ex-should-have-14",
+      "en": "You should have asked me first.",
+      "tr": "Önce bana sormalıydın.",
+      "highlight": "should have asked"
+    },
+    {
+      "id": "ex-should-have-15",
+      "en": "He should have been more careful.",
+      "tr": "Daha dikkatli olmalıydı.",
+      "highlight": "should have been"
+    },
+    {
+      "id": "ex-should-have-16",
+      "en": "She should have apologised.",
+      "tr": "Özür dilemeliydi.",
+      "highlight": "should have apologised"
+    },
+    {
+      "id": "ex-should-have-17",
+      "en": "He should have asked for help.",
+      "tr": "Yardım istemeliydi.",
+      "highlight": "should have asked for help"
+    },
+    {
+      "id": "ex-should-have-18",
+      "en": "You should have gone to the doctor earlier.",
+      "tr": "Doktora daha erken gitmeliydin.",
+      "highlight": "should have gone"
+    },
+    {
+      "id": "ex-should-have-19",
+      "en": "You should rest now.",
+      "tr": "Şimdi dinlenmelisin.",
+      "highlight": "should rest"
+    },
+    {
+      "id": "ex-should-have-20",
+      "en": "You should have rested yesterday.",
+      "tr": "Dün dinlenmeliydin.",
+      "highlight": "should have rested"
+    },
+    {
+      "id": "ex-should-have-21",
+      "en": "They ought to have helped her.",
+      "tr": "Ona yardım etmeliydiler.",
+      "highlight": "ought to have helped"
+    },
+    {
+      "id": "ex-should-have-22",
+      "en": "I ought to have known better.",
+      "tr": "Daha iyi bilmeliydim.",
+      "highlight": "ought to have known"
+    },
+    {
+      "id": "ex-should-have-23",
+      "en": "I could have passed, but I didn't try.",
+      "tr": "Geçebilirdim ama denemedim.",
+      "highlight": "could have passed"
+    },
+    {
+      "id": "ex-should-have-24",
+      "en": "She could have won the race.",
+      "tr": "Yarışı kazanabilirdi.",
+      "highlight": "could have won"
+    },
+    {
+      "id": "ex-should-have-25",
+      "en": "It was a mistake. I shouldn't have gone there.",
+      "tr": "Bir hataydı. Oraya gitmemeliydim.",
+      "highlight": "shouldn't have gone"
+    },
+    {
+      "id": "ex-should-have-26",
+      "en": "We missed the bus. We should have taken a taxi.",
+      "tr": "Otobüsü kaçırdık. Taksiye binmeliydik.",
+      "highlight": "should have taken"
+    },
+    {
+      "id": "ex-should-have-27",
+      "en": "I'm full. I shouldn't have had dessert.",
+      "tr": "Doydum. Tatlı yememeliydim.",
+      "highlight": "shouldn't have had"
+    },
+    {
+      "id": "ex-should-have-28",
+      "en": "He failed the test. He should have revised.",
+      "tr": "Sınavdan kaldı. Tekrar etmeliydi.",
+      "highlight": "should have revised"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-should-have-01",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'm late again. I ___ earlier.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should leave"
+        },
+        {
+          "id": "b",
+          "text": "should have left"
+        },
+        {
+          "id": "c",
+          "text": "should leaving"
+        },
+        {
+          "id": "d",
+          "text": "should left"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Geçmiş pişmanlık: should have + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-02",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ so fast. You could have had an accident.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't drive"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't driven"
+        },
+        {
+          "id": "c",
+          "text": "shouldn't have driven"
+        },
+        {
+          "id": "d",
+          "text": "don't have driven"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Shouldn't have + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-03",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He failed the exam. He ___ harder.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should study"
+        },
+        {
+          "id": "b",
+          "text": "should have study"
+        },
+        {
+          "id": "c",
+          "text": "should has studied"
+        },
+        {
+          "id": "d",
+          "text": "should have studied"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Should have + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-04",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ I have called her?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Should"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Would"
+        },
+        {
+          "id": "d",
+          "text": "Must"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru: Should + özne + have + V3.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-05",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ate too much. She ___ so much.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't eat"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't have eaten"
+        },
+        {
+          "id": "c",
+          "text": "shouldn't ate"
+        },
+        {
+          "id": "d",
+          "text": "shouldn't had eaten"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Shouldn't have + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-06",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence refers to the past?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You should rest."
+        },
+        {
+          "id": "b",
+          "text": "You should be resting."
+        },
+        {
+          "id": "c",
+          "text": "You should have rested."
+        },
+        {
+          "id": "d",
+          "text": "You should to rest."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Should have + V3: geçmiş.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-07",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We got lost. We ___ the map.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should take"
+        },
+        {
+          "id": "b",
+          "text": "should took"
+        },
+        {
+          "id": "c",
+          "text": "should have take"
+        },
+        {
+          "id": "d",
+          "text": "should have taken"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Should have taken.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-08",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I was rude to him. I ___ so rude.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't have been"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't be"
+        },
+        {
+          "id": "c",
+          "text": "shouldn't was"
+        },
+        {
+          "id": "d",
+          "text": "shouldn't have be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Shouldn't have been.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-09",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She was upset. They ___ at her.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't shout"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't have shouted"
+        },
+        {
+          "id": "c",
+          "text": "shouldn't have shout"
+        },
+        {
+          "id": "d",
+          "text": "shouldn't shouted"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Shouldn't have shouted.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-10",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It's cold. You ___ a coat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should wear had"
+        },
+        {
+          "id": "b",
+          "text": "should have wear"
+        },
+        {
+          "id": "c",
+          "text": "should have worn"
+        },
+        {
+          "id": "d",
+          "text": "should wore"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Should have worn.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-11",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ the red light. It was dangerous.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't ignore"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't ignored"
+        },
+        {
+          "id": "c",
+          "text": "shouldn't have ignore"
+        },
+        {
+          "id": "d",
+          "text": "shouldn't have ignored"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Shouldn't have + V3.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-12",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I didn't go to the party. I ___ gone.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should have"
+        },
+        {
+          "id": "b",
+          "text": "should"
+        },
+        {
+          "id": "c",
+          "text": "shall have"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should have gone.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-13",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We should have ___ a taxi. (take)",
+      "answers": [
+        "taken"
+      ],
+      "explanation": "Should have + V3: taken.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "took",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-14",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I shouldn't have ___ that. (say)",
+      "answers": [
+        "said"
+      ],
+      "explanation": "V3: said.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "say",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-15",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You should have ___ me. (tell)",
+      "answers": [
+        "told"
+      ],
+      "explanation": "V3: told.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "tell",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-16",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ have apologised. (should)",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Should have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "would",
+          "explanation": "Should gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-17",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ have waited for us. (should)",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Should have + V3.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-18",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I shouldn't have ___ so late. (stay)",
+      "answers": [
+        "stayed"
+      ],
+      "explanation": "V3: stayed.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "stay",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-19",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He should have ___ more careful. (be)",
+      "answers": [
+        "been"
+      ],
+      "explanation": "Be'nin V3'ü: been.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "be",
+          "explanation": "V3: been."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-20",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You shouldn't have ___ him. (trust)",
+      "answers": [
+        "trusted"
+      ],
+      "explanation": "V3: trusted.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "trust",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-21",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She should have ___ the doctor. (see)",
+      "answers": [
+        "seen"
+      ],
+      "explanation": "V3: seen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "saw",
+          "explanation": "V3: seen."
+        }
+      ],
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-22",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ have left so late. (shouldn't)",
+      "answers": [
+        "shouldn't",
+        "should not"
+      ],
+      "explanation": "Shouldn't have + V3.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-23",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Daha çok çalışmalıydım.",
+      "answer": [
+        "I",
+        "should",
+        "have",
+        "studied",
+        "more"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "study",
+        "shouldn't"
+      ],
+      "explanation": "should have + V3",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-24",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bunu söylememeliydi.",
+      "answer": [
+        "He",
+        "shouldn't",
+        "have",
+        "said",
+        "that"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "say",
+        "should"
+      ],
+      "explanation": "shouldn't have + V3",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-25",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu aramalı mıydım?",
+      "answer": [
+        "Should",
+        "I",
+        "have",
+        "called",
+        "him"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "call",
+        "Do"
+      ],
+      "explanation": "Should + özne + have + V3",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-26",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Taksiye binmeliydik.",
+      "answer": [
+        "We",
+        "should",
+        "have",
+        "taken",
+        "a",
+        "taxi"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "take",
+        "took"
+      ],
+      "explanation": "should have + V3",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-27",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I should have went to bed earlier.",
+      "errorSpan": "have went",
+      "answers": [
+        "I should have gone to bed earlier."
+      ],
+      "explanation": "V3: gone.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-28",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You shouldn't have say that.",
+      "errorSpan": "have say",
+      "answers": [
+        "You shouldn't have said that."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-29",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She should has called me.",
+      "errorSpan": "should has",
+      "answers": [
+        "She should have called me."
+      ],
+      "explanation": "Should have; has değil.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-30",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They should have to wait.",
+      "errorSpan": "have to wait",
+      "answers": [
+        "They should have waited."
+      ],
+      "explanation": "To yok; V3.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-31",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I shouldn't ate so much.",
+      "errorSpan": "shouldn't ate",
+      "answers": [
+        "I shouldn't have eaten so much."
+      ],
+      "explanation": "Shouldn't have + V3.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-32",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He should of called me.",
+      "errorSpan": "should of",
+      "answers": [
+        "He should have called me."
+      ],
+      "explanation": "Should of değil should have.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-33",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Should I called her?",
+      "errorSpan": "Should I called",
+      "answers": [
+        "Should I have called her?"
+      ],
+      "explanation": "Should + özne + have + V3.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-34",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Daha erken çıkmalıydık.",
+      "hint": "çıkmak: leave",
+      "answers": [
+        "We should have left earlier."
+      ],
+      "targetStructure": "should have + V3",
+      "explanation": "Pişmanlık.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-35",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana gerçeği söylemeliydin.",
+      "hint": "söylemek: tell",
+      "answers": [
+        "You should have told me the truth."
+      ],
+      "targetStructure": "should have + V3",
+      "explanation": "Eleştiri.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-36",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Oraya gitmemeliydim.",
+      "hint": "gitmek: go",
+      "answers": [
+        "I shouldn't have gone there."
+      ],
+      "targetStructure": "shouldn't have + V3",
+      "explanation": "Pişmanlık.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-37",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu aramalı mıydım?",
+      "hint": "aramak: call",
+      "answers": [
+        "Should I have called him?",
+        "Should I have called her?"
+      ],
+      "targetStructure": "Should I have + V3",
+      "explanation": "Soru.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-38",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doktora daha erken gitmeliydin.",
+      "hint": "gitmek: go",
+      "answers": [
+        "You should have gone to the doctor earlier.",
+        "You should have gone to see the doctor earlier."
+      ],
+      "targetStructure": "should have gone",
+      "explanation": "Tavsiye.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-39",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O kadar çok yememeliydi.",
+      "hint": "yemek: eat",
+      "answers": [
+        "He shouldn't have eaten so much.",
+        "She shouldn't have eaten so much."
+      ],
+      "targetStructure": "shouldn't have + V3",
+      "explanation": "Eleştiri.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-40",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beni dinlemeliydin.",
+      "hint": "dinlemek: listen to",
+      "answers": [
+        "You should have listened to me."
+      ],
+      "targetStructure": "should have + V3",
+      "explanation": "Eleştiri.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-have-41",
+      "lessonId": "b1-should-have",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ona gülmemeliydiler.",
+      "hint": "gülmek: laugh at",
+      "answers": [
+        "They shouldn't have laughed at him.",
+        "They shouldn't have laughed at her."
+      ],
+      "targetStructure": "shouldn't have + V3",
+      "explanation": "Eleştiri.",
+      "tags": [
+        "should-have",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-should-have",
+    "title": "Should Have & Shouldn't Have: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-should-have-exam-01",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I'm hungry. I ___ breakfast.",
+        "options": [
+          {
+            "id": "a",
+            "text": "should eat"
+          },
+          {
+            "id": "b",
+            "text": "should ate"
+          },
+          {
+            "id": "c",
+            "text": "should have eaten"
+          },
+          {
+            "id": "d",
+            "text": "should have ate"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Pişmanlık: should have + V3.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-02",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He broke the vase. He ___ careful.",
+        "options": [
+          {
+            "id": "a",
+            "text": "should be"
+          },
+          {
+            "id": "b",
+            "text": "should have be"
+          },
+          {
+            "id": "c",
+            "text": "should been"
+          },
+          {
+            "id": "d",
+            "text": "should have been"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Should have been.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-03",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "You ___ me. I would have helped.",
+        "options": [
+          {
+            "id": "a",
+            "text": "should have called"
+          },
+          {
+            "id": "b",
+            "text": "should call"
+          },
+          {
+            "id": "c",
+            "text": "should calls"
+          },
+          {
+            "id": "d",
+            "text": "should called"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Should have + V3.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-04",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She cheated. She ___ that.",
+        "options": [
+          {
+            "id": "a",
+            "text": "shouldn't do"
+          },
+          {
+            "id": "b",
+            "text": "shouldn't have done"
+          },
+          {
+            "id": "c",
+            "text": "shouldn't did"
+          },
+          {
+            "id": "d",
+            "text": "shouldn't have do"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Shouldn't have + V3.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-05",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ we have left earlier?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Must"
+          },
+          {
+            "id": "b",
+            "text": "Will"
+          },
+          {
+            "id": "c",
+            "text": "Should"
+          },
+          {
+            "id": "d",
+            "text": "Do"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Should + özne + have + V3.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-06",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I should have ___ more. (sleep)",
+        "answers": [
+          "slept"
+        ],
+        "explanation": "V3: slept.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "sleep",
+            "explanation": "V3 gerekir."
+          }
+        ],
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-07",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He shouldn't have ___ so fast. (drive)",
+        "answers": [
+          "driven"
+        ],
+        "explanation": "V3: driven.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "drove",
+            "explanation": "V3: driven."
+          }
+        ],
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-08",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "You ___ have asked me. (should)",
+        "answers": [
+          "should"
+        ],
+        "explanation": "Should have + V3.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-09",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We shouldn't ___ gone there. (have)",
+        "answers": [
+          "have"
+        ],
+        "explanation": "Shouldn't have gone.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "had",
+            "explanation": "Shouldn't have + V3."
+          }
+        ],
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-10",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Daha dikkatli olmalıydın.",
+        "answer": [
+          "You",
+          "should",
+          "have",
+          "been",
+          "more",
+          "careful"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "be",
+          "had"
+        ],
+        "explanation": "should have been",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-11",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ona yalan söylememeliydim.",
+        "answer": [
+          "I",
+          "shouldn't",
+          "have",
+          "lied",
+          "to",
+          "him"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "lie",
+          "should"
+        ],
+        "explanation": "shouldn't have + V3",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-12",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He should have went home.",
+        "errorSpan": "have went",
+        "answers": [
+          "He should have gone home."
+        ],
+        "explanation": "V3: gone.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-13",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She shouldn't had said that.",
+        "errorSpan": "shouldn't had",
+        "answers": [
+          "She shouldn't have said that."
+        ],
+        "explanation": "Shouldn't have + V3.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-14",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We should have to leave.",
+        "errorSpan": "have to leave",
+        "answers": [
+          "We should have left."
+        ],
+        "explanation": "V3 gerekir.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-15",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Daha çok çalışmalıydın.",
+        "hint": "çalışmak: study",
+        "answers": [
+          "You should have studied more.",
+          "You should have worked more."
+        ],
+        "targetStructure": "should have + V3",
+        "explanation": "Eleştiri.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-have-exam-16",
+        "lessonId": "b1-should-have",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bunu yapmamalıydım.",
+        "hint": "yapmak: do",
+        "answers": [
+          "I shouldn't have done that.",
+          "I shouldn't have done this."
+        ],
+        "targetStructure": "shouldn't have + V3",
+        "explanation": "Pişmanlık.",
+        "tags": [
+          "should-have",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      }
+    ]
+  }
+}
