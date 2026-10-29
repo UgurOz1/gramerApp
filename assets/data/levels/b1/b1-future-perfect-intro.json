@@ -1,0 +1,2327 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-future-perfect-intro",
+  "levelId": "b1",
+  "title": "Future Perfect: Intro",
+  "objectives": [
+    "Will have + V3 yapısını kurmak (olumlu, olumsuz, soru)",
+    "Gelecekte bir tarihe kadar bitmiş olacak eylemi anlatmak",
+    "By ve by the time ile kullanmak",
+    "Future Simple, Continuous ve Perfect arasındaki farkı bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Future Perfect nedir?",
+      "paragraphs": [
+        "Future Perfect, gelecekteki bir noktadan önce tamamlanmış olacak eylemi anlatır: “Cumaya kadar kitabı bitirmiş olacağım.” Odak, belirli bir tarihe kadar bitmiş olmasıdır.",
+        "Yapı: will have + fiilin üçüncü hâli (V3). Türkçedeki “-miş olacak” yapısına karşılık gelir. Will tüm öznelerde aynıdır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "Will have + V3 tüm özneler için aynıdır. Olumsuzu won’t have + V3, soru biçimi Will + özne + have + V3’tür."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + will have + V3",
+          "exampleIds": [
+            "ex-fut-perf-01",
+            "ex-fut-perf-02",
+            "ex-fut-perf-03",
+            "ex-fut-perf-04",
+            "ex-fut-perf-05",
+            "ex-fut-perf-06"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + won’t have + V3",
+          "exampleIds": [
+            "ex-fut-perf-09",
+            "ex-fut-perf-10",
+            "ex-fut-perf-11"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Will + özne + have + V3 …?",
+          "exampleIds": [
+            "ex-fut-perf-12",
+            "ex-fut-perf-13"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I will.   No, she won’t.",
+          "exampleIds": [
+            "ex-fut-perf-14",
+            "ex-fut-perf-15"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + will + özne + have + V3?",
+          "exampleIds": [
+            "ex-fut-perf-16",
+            "ex-fut-perf-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "by",
+      "type": "rule",
+      "title": "By ve by the time",
+      "paragraphs": [
+        "Future Perfect genellikle by (+ zaman) ya da by the time ile gelir. By, “-e kadar (bitmiş olacak)” demektir. By the time’dan sonra Present Simple kullanılır, will kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "By + zaman",
+          "pattern": "by + 2030 / Friday / next year / six o’clock",
+          "exampleIds": [
+            "ex-fut-perf-01",
+            "ex-fut-perf-02",
+            "ex-fut-perf-06",
+            "ex-fut-perf-07",
+            "ex-fut-perf-18"
+          ]
+        },
+        {
+          "label": "By the time",
+          "pattern": "By the time + Present Simple, + will have + V3",
+          "exampleIds": [
+            "ex-fut-perf-04",
+            "ex-fut-perf-20",
+            "ex-fut-perf-26"
+          ]
+        },
+        {
+          "label": "In / before",
+          "pattern": "in an hour,  before + zaman",
+          "exampleIds": [
+            "ex-fut-perf-08",
+            "ex-fut-perf-03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "forms",
+      "title": "Üç gelecek",
+      "forms": [
+        {
+          "label": "Future Simple",
+          "formula": "I will finish at six.",
+          "exampleIds": [
+            "ex-fut-perf-21"
+          ],
+          "note": "Altıda bitireceğim (olay anı)."
+        },
+        {
+          "label": "Future Continuous",
+          "formula": "At six, I will be working.",
+          "exampleIds": [
+            "ex-fut-perf-23"
+          ],
+          "note": "Altıda çalışıyor olacağım (o anda sürüyor)."
+        },
+        {
+          "label": "Future Perfect",
+          "formula": "I will have finished by six.",
+          "exampleIds": [
+            "ex-fut-perf-22"
+          ],
+          "note": "Altıya kadar bitmiş olacak."
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Gelecekte bir tarihe kadar tamamlanacak",
+          "formula": "By Friday, I will have read the book.",
+          "exampleIds": [
+            "ex-fut-perf-07",
+            "ex-fut-perf-19",
+            "ex-fut-perf-24"
+          ],
+          "note": "Plan, tahmin."
+        },
+        {
+          "label": "Şimdiye dek olmuş olduğuna dair çıkarım",
+          "formula": "They will have heard the news by now.",
+          "exampleIds": [
+            "ex-fut-perf-28"
+          ],
+          "note": "Olasılık (şimdi için)."
+        },
+        {
+          "label": "Süre dolacak",
+          "formula": "She will have been here for a year in March.",
+          "exampleIds": [
+            "ex-fut-perf-05",
+            "ex-fut-perf-27"
+          ],
+          "note": "Süre tamamlanıyor."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yapı",
+      "exampleIds": [
+        "ex-fut-perf-01",
+        "ex-fut-perf-02",
+        "ex-fut-perf-03",
+        "ex-fut-perf-04",
+        "ex-fut-perf-05",
+        "ex-fut-perf-06",
+        "ex-fut-perf-07",
+        "ex-fut-perf-08",
+        "ex-fut-perf-09",
+        "ex-fut-perf-10",
+        "ex-fut-perf-11",
+        "ex-fut-perf-12",
+        "ex-fut-perf-13",
+        "ex-fut-perf-14",
+        "ex-fut-perf-15"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, kullanım, karşılaştırma",
+      "exampleIds": [
+        "ex-fut-perf-16",
+        "ex-fut-perf-17",
+        "ex-fut-perf-18",
+        "ex-fut-perf-19",
+        "ex-fut-perf-20",
+        "ex-fut-perf-21",
+        "ex-fut-perf-22",
+        "ex-fut-perf-23",
+        "ex-fut-perf-24",
+        "ex-fut-perf-25",
+        "ex-fut-perf-26",
+        "ex-fut-perf-27",
+        "ex-fut-perf-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "By Friday, I will finish the book. (bitmiş olacak)",
+          "right": "By Friday, I will have finished the book.",
+          "explanation": "Tarihe kadar bitmiş: Future Perfect."
+        },
+        {
+          "wrong": "I will have finish by six.",
+          "right": "I will have finished by six.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "She will has finished.",
+          "right": "She will have finished.",
+          "explanation": "Will'den sonra have."
+        },
+        {
+          "wrong": "By the time you will arrive, I will have cooked.",
+          "right": "By the time you arrive, I will have cooked.",
+          "explanation": "By the time'dan sonra will olmaz."
+        },
+        {
+          "wrong": "Do you will have finished?",
+          "right": "Will you have finished?",
+          "explanation": "Will ile do olmaz."
+        },
+        {
+          "wrong": "I don't have finished by Monday.",
+          "right": "I won't have finished by Monday.",
+          "explanation": "Olumsuz: won't have."
+        },
+        {
+          "wrong": "They will have went.",
+          "right": "They will have gone.",
+          "explanation": "V3: gone."
+        },
+        {
+          "wrong": "I will have been know him for ten years.",
+          "right": "I will have known him for ten years.",
+          "explanation": "Durum fiili."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Perfect",
+          "body": "Have + V3 şimdiye dek; will have + V3 gelecekteki bir noktaya kadar.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "Future Continuous",
+          "body": "Gelecekteki anda süren; Future Perfect o noktaya kadar bitmiş olan.",
+          "lessonId": "b1-future-continuous"
+        },
+        {
+          "topic": "Past Perfect",
+          "body": "Geçmişteki bir noktadan önce; had + V3.",
+          "lessonId": "b1-past-perfect"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: will have + V3.",
+        "Genellikle by + zaman ya da by the time ile kullanılır.",
+        "By the time'dan sonra Present Simple.",
+        "Olumsuz: won't have + V3; soru: Will + özne + have + V3.",
+        "Düzensiz fiillerin V3 biçimlerine dikkat et."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-fut-perf-01",
+        "q-fut-perf-02",
+        "q-fut-perf-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-fut-perf-01",
+      "en": "By 2030, I will have finished my studies.",
+      "tr": "2030'a kadar eğitimimi bitirmiş olacağım.",
+      "highlight": "will have finished",
+      "note": "will have + V3"
+    },
+    {
+      "id": "ex-fut-perf-02",
+      "en": "By next year, she will have saved enough money.",
+      "tr": "Gelecek yıla kadar yeterli para biriktirmiş olacak.",
+      "highlight": "will have saved"
+    },
+    {
+      "id": "ex-fut-perf-03",
+      "en": "They will have built the bridge by June.",
+      "tr": "Haziran'a kadar köprüyü yapmış olacaklar.",
+      "highlight": "will have built"
+    },
+    {
+      "id": "ex-fut-perf-04",
+      "en": "By the time you arrive, I will have cooked dinner.",
+      "tr": "Sen varana kadar akşam yemeğini pişirmiş olacağım.",
+      "highlight": "will have cooked"
+    },
+    {
+      "id": "ex-fut-perf-05",
+      "en": "We will have lived here for ten years next month.",
+      "tr": "Gelecek ay burada on yıl yaşamış olacağız.",
+      "highlight": "will have lived"
+    },
+    {
+      "id": "ex-fut-perf-06",
+      "en": "He will have left by six o'clock.",
+      "tr": "Saat altıya kadar gitmiş olacak.",
+      "highlight": "will have left"
+    },
+    {
+      "id": "ex-fut-perf-07",
+      "en": "By Friday, I will have read the whole book.",
+      "tr": "Cumaya kadar kitabın tamamını okumuş olacağım.",
+      "highlight": "will have read"
+    },
+    {
+      "id": "ex-fut-perf-08",
+      "en": "In an hour, the film will have started.",
+      "tr": "Bir saat sonra film başlamış olacak.",
+      "highlight": "will have started"
+    },
+    {
+      "id": "ex-fut-perf-09",
+      "en": "I won't have finished by Monday.",
+      "tr": "Pazartesiye kadar bitirmiş olmayacağım.",
+      "highlight": "won't have finished",
+      "note": "Olumsuz: won't have + V3"
+    },
+    {
+      "id": "ex-fut-perf-10",
+      "en": "She won't have arrived by then.",
+      "tr": "O zamana kadar varmamış olacak.",
+      "highlight": "won't have arrived"
+    },
+    {
+      "id": "ex-fut-perf-11",
+      "en": "They won't have sold the house by June.",
+      "tr": "Haziran'a kadar evi satmamış olacaklar.",
+      "highlight": "won't have sold"
+    },
+    {
+      "id": "ex-fut-perf-12",
+      "en": "Will you have finished by six?",
+      "tr": "Altıya kadar bitirmiş olacak mısın?",
+      "highlight": "Will you have finished",
+      "note": "Soru: Will + özne + have + V3"
+    },
+    {
+      "id": "ex-fut-perf-13",
+      "en": "Will she have arrived by noon?",
+      "tr": "Öğlene kadar varmış olacak mı?",
+      "highlight": "Will she have arrived"
+    },
+    {
+      "id": "ex-fut-perf-14",
+      "en": "Yes, I will.",
+      "tr": "Evet, olacağım.",
+      "highlight": "Yes, I will",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-fut-perf-15",
+      "en": "No, she won't.",
+      "tr": "Hayır, olmayacak.",
+      "highlight": "No, she won't"
+    },
+    {
+      "id": "ex-fut-perf-16",
+      "en": "What will you have done by next year?",
+      "tr": "Gelecek yıla kadar neler yapmış olacaksın?",
+      "highlight": "What will you have done"
+    },
+    {
+      "id": "ex-fut-perf-17",
+      "en": "How many books will you have read by December?",
+      "tr": "Aralığa kadar kaç kitap okumuş olacaksın?",
+      "highlight": "How many books will you have read"
+    },
+    {
+      "id": "ex-fut-perf-18",
+      "en": "By 8 o'clock, I will have gone to bed.",
+      "tr": "Saat sekize kadar yatmış olacağım.",
+      "highlight": "will have gone"
+    },
+    {
+      "id": "ex-fut-perf-19",
+      "en": "By the end of the week, we will have completed the project.",
+      "tr": "Haftanın sonuna kadar projeyi tamamlamış olacağız.",
+      "highlight": "will have completed"
+    },
+    {
+      "id": "ex-fut-perf-20",
+      "en": "By the time I'm 30, I will have travelled to ten countries.",
+      "tr": "30 yaşıma geldiğimde on ülke gezmiş olacağım.",
+      "highlight": "will have travelled"
+    },
+    {
+      "id": "ex-fut-perf-21",
+      "en": "I will finish at six. (olay)",
+      "tr": "Altıda bitireceğim.",
+      "highlight": "will finish",
+      "note": "Future Simple: olay anı"
+    },
+    {
+      "id": "ex-fut-perf-22",
+      "en": "I will have finished by six. (altıdan önce)",
+      "tr": "Altıya kadar bitirmiş olacağım.",
+      "highlight": "will have finished",
+      "note": "Future Perfect: altıdan önce bitmiş"
+    },
+    {
+      "id": "ex-fut-perf-23",
+      "en": "At six, I will be working. (süreç)",
+      "tr": "Altıda çalışıyor olacağım.",
+      "highlight": "will be working",
+      "note": "Continuous: o anda süren"
+    },
+    {
+      "id": "ex-fut-perf-24",
+      "en": "In 2040, scientists will have found a cure.",
+      "tr": "2040'ta bilim insanları bir tedavi bulmuş olacak.",
+      "highlight": "will have found"
+    },
+    {
+      "id": "ex-fut-perf-25",
+      "en": "By tomorrow, it will have stopped raining.",
+      "tr": "Yarına kadar yağmur dinmiş olacak.",
+      "highlight": "will have stopped"
+    },
+    {
+      "id": "ex-fut-perf-26",
+      "en": "By the time they arrive, we will have eaten.",
+      "tr": "Onlar gelene kadar yemek yemiş olacağız.",
+      "highlight": "will have eaten",
+      "note": "by the time + Present Simple"
+    },
+    {
+      "id": "ex-fut-perf-27",
+      "en": "She will have been here for a year in March.",
+      "tr": "Mart'ta burada bir yıl olmuş olacak.",
+      "highlight": "will have been",
+      "note": "have been: be fiili"
+    },
+    {
+      "id": "ex-fut-perf-28",
+      "en": "I'm sure they will have heard the news by now.",
+      "tr": "Eminim artık haberi duymuşlardır.",
+      "highlight": "will have heard",
+      "note": "çıkarım: şimdiye kadar"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-fut-perf-01",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "By 2030, I ___ my studies.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have finished"
+        },
+        {
+          "id": "b",
+          "text": "will finish"
+        },
+        {
+          "id": "c",
+          "text": "finish"
+        },
+        {
+          "id": "d",
+          "text": "have finished"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tarihe kadar bitmiş: will have + V3.",
+      "optionExplanations": {
+        "b": "Future Simple olay anıdır.",
+        "c": "Present Simple.",
+        "d": "Present Perfect geleceğe kadar anlatmaz."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-02",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She will ___ saved enough money by next year.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "will have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Will'den sonra have."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-03",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "2030'a kadar eğitimimi bitirmiş olacağım.",
+      "answer": [
+        "By",
+        "2030",
+        "I",
+        "will",
+        "have",
+        "finished",
+        "my",
+        "studies"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "finish"
+      ],
+      "explanation": "will have + V3",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-fut-perf-04",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will have finish by six.",
+      "errorSpan": "finish",
+      "answers": [
+        "I will have finished by six."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-05",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Cumaya kadar kitabın tamamını okumuş olacağım.",
+      "hint": "okumak: read",
+      "answers": [
+        "By Friday, I will have read the whole book.",
+        "I will have read the whole book by Friday."
+      ],
+      "targetStructure": "will have + V3",
+      "explanation": "Tarihe kadar bitmiş.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "By Friday, I will read the whole book.",
+          "explanation": "Bitmiş olacak: Future Perfect."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-06",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They will ___ built the bridge by June.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "be"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will have + V3.",
+      "optionExplanations": {
+        "b": "Will'den sonra have.",
+        "c": "Be farklı yapı.",
+        "d": "Had farklı yapı."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-07",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He will have ___ by six o'clock. (leave)",
+      "options": [
+        {
+          "id": "a",
+          "text": "left"
+        },
+        {
+          "id": "b",
+          "text": "leave"
+        },
+        {
+          "id": "c",
+          "text": "leaving"
+        },
+        {
+          "id": "d",
+          "text": "leaves"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: left.",
+      "optionExplanations": {
+        "b": "V3 gerekir.",
+        "c": "V3 gerekir.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-08",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We will have ___ here for ten years next month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "live"
+        },
+        {
+          "id": "c",
+          "text": "living"
+        },
+        {
+          "id": "d",
+          "text": "lives"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3.",
+      "optionExplanations": {
+        "b": "V3 gerekir.",
+        "c": "V3 gerekir.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-09",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He will have ___ by six. (leave)",
+      "answers": [
+        "left"
+      ],
+      "explanation": "V3: left.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "leave",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-10",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They will have ___ the bridge by June. (build)",
+      "answers": [
+        "built"
+      ],
+      "explanation": "V3: built.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "builded",
+          "explanation": "Düzensiz: built."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-11",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I will have ___ the whole book by Friday. (read)",
+      "answers": [
+        "read"
+      ],
+      "explanation": "V3: read.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "readed",
+          "explanation": "Düzensiz: read."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-12",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ have finished by Monday. (olmayacağım)",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "haven't"
+        },
+        {
+          "id": "d",
+          "text": "wouldn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "won't have + V3.",
+      "optionExplanations": {
+        "b": "Don't have olmaz.",
+        "c": "Haven't farklı.",
+        "d": "Wouldn't farklı."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-13",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you have finished by six?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will + özne + have.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Have farklı yapı.",
+        "d": "Did kullanılmaz."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-14",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "By the time you ___, I will have cooked dinner.",
+      "options": [
+        {
+          "id": "a",
+          "text": "arrive"
+        },
+        {
+          "id": "b",
+          "text": "will arrive"
+        },
+        {
+          "id": "c",
+          "text": "arrived"
+        },
+        {
+          "id": "d",
+          "text": "arriving"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "By the time + Present.",
+      "optionExplanations": {
+        "b": "By the time'dan sonra will olmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "-ing olmaz."
+      },
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-15",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "By the time they arrive, we ___ eaten.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will have + V3.",
+      "optionExplanations": {
+        "b": "Have eksik.",
+        "c": "Present Perfect.",
+        "d": "Past Perfect."
+      },
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-16",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I will finish at six. ile I will have finished by six. farkı nedir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "İkincisi altıdan önce bitmiş olacağını söyler."
+        },
+        {
+          "id": "b",
+          "text": "İkisi aynıdır."
+        },
+        {
+          "id": "c",
+          "text": "İlki bitmiş olduğunu söyler."
+        },
+        {
+          "id": "d",
+          "text": "İkincisi hâlâ süreceğini söyler."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future Perfect: önce bitmiş.",
+      "optionExplanations": {
+        "b": "Anlam farklıdır.",
+        "c": "İlki olay anını verir.",
+        "d": "İkincisi bitmiş olacağını söyler."
+      },
+      "tags": [
+        "fut-perf",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-17",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How many books will you ___ read by December?",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will you have + V3.",
+      "optionExplanations": {
+        "b": "Will'den sonra have.",
+        "c": "Had farklı yapı.",
+        "d": "Be farklı yapı."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-18",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ have arrived by then. (olmayacak)",
+      "answers": [
+        "won't",
+        "will not"
+      ],
+      "explanation": "won't have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't",
+          "explanation": "Won't have."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-19",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They won't ___ sold the house by June.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "won't have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "be",
+          "explanation": "Won't have."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-20",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she have arrived by noon?",
+      "answers": [
+        "Will"
+      ],
+      "explanation": "Will + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does",
+          "explanation": "Do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-21",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What will you ___ done by next year?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "will you have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Will'den sonra have."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-22",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "By the time I'm 30, I will have ___ to ten countries. (travel)",
+      "answers": [
+        "travelled",
+        "traveled"
+      ],
+      "explanation": "V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "travel",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-23",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "By 8 o'clock, I will have ___ to bed. (go)",
+      "answers": [
+        "gone"
+      ],
+      "explanation": "V3: gone.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "went",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-24",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "In 2040, scientists will have ___ a cure. (find)",
+      "answers": [
+        "found"
+      ],
+      "explanation": "V3: found.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "finded",
+          "explanation": "Düzensiz: found."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-25",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We will have ___ the project by the end of the week. (complete)",
+      "answers": [
+        "completed"
+      ],
+      "explanation": "V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "complete",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-26",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She will has finished.",
+      "errorSpan": "will has",
+      "answers": [
+        "She will have finished."
+      ],
+      "explanation": "Will'den sonra have.",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-27",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "By the time you will arrive, I will have cooked.",
+      "errorSpan": "will arrive",
+      "answers": [
+        "By the time you arrive, I will have cooked."
+      ],
+      "explanation": "By the time'dan sonra will olmaz.",
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-28",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you will have finished?",
+      "errorSpan": "Do you will",
+      "answers": [
+        "Will you have finished?"
+      ],
+      "explanation": "Will ile do olmaz.",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-fut-perf-29",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't have finished by Monday.",
+      "errorSpan": "don't have",
+      "answers": [
+        "I won't have finished by Monday."
+      ],
+      "explanation": "Won't have.",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-30",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They will have went.",
+      "errorSpan": "went",
+      "answers": [
+        "They will have gone."
+      ],
+      "explanation": "V3: gone.",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-31",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Haziran'a kadar köprüyü yapmış olacaklar.",
+      "answer": [
+        "They",
+        "will",
+        "have",
+        "built",
+        "the",
+        "bridge",
+        "by",
+        "June"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "build"
+      ],
+      "explanation": "will have + V3",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-32",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Altıya kadar bitirmiş olacak mısın?",
+      "answer": [
+        "Will",
+        "you",
+        "have",
+        "finished",
+        "by",
+        "six"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "finish"
+      ],
+      "explanation": "Will + özne + have + V3",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-33",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Pazartesiye kadar bitirmiş olmayacağım.",
+      "answer": [
+        "I",
+        "won't",
+        "have",
+        "finished",
+        "by",
+        "Monday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "finish"
+      ],
+      "explanation": "won't have + V3",
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-34",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sen varana kadar akşam yemeğini pişirmiş olacağım.",
+      "hint": "pişirmek: cook",
+      "answers": [
+        "By the time you arrive, I will have cooked dinner.",
+        "I will have cooked dinner by the time you arrive."
+      ],
+      "targetStructure": "by the time + Present",
+      "explanation": "By the time.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "By the time you will arrive, I will have cooked dinner.",
+          "explanation": "By the time'dan sonra will olmaz."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-35",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Haftanın sonuna kadar projeyi tamamlamış olacağız.",
+      "hint": "tamamlamak: complete",
+      "answers": [
+        "By the end of the week, we will have completed the project.",
+        "We will have completed the project by the end of the week."
+      ],
+      "targetStructure": "will have + V3",
+      "explanation": "Tarihe kadar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "By the end of the week, we will complete the project.",
+          "explanation": "Bitmiş olacak: Future Perfect."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-36",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O zamana kadar varmamış olacak.",
+      "hint": "varmak: arrive",
+      "answers": [
+        "She won't have arrived by then.",
+        "He won't have arrived by then."
+      ],
+      "targetStructure": "won't have + V3",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She doesn't have arrived by then.",
+          "explanation": "Won't have."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-perf-37",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi belirli bir noktadan önce bitmiş olacak eylemi anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will have finished by six."
+        },
+        {
+          "id": "b",
+          "text": "I will finish at six."
+        },
+        {
+          "id": "c",
+          "text": "At six, I will be working."
+        },
+        {
+          "id": "d",
+          "text": "I am finishing at six."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future Perfect.",
+      "optionExplanations": {
+        "b": "Future Simple: olay anı.",
+        "c": "Future Continuous: süreç.",
+        "d": "Present Continuous."
+      },
+      "tags": [
+        "fut-perf",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-38",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By Friday, I will have read the whole book."
+        },
+        {
+          "id": "b",
+          "text": "By Friday, I will read had the whole book."
+        },
+        {
+          "id": "c",
+          "text": "By Friday, I have read will the whole book."
+        },
+        {
+          "id": "d",
+          "text": "By Friday, I will have reading the whole book."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will have + V3.",
+      "optionExplanations": {
+        "b": "Sıra bozuk.",
+        "c": "Sıra bozuk.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "fut-perf",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-fut-perf-39",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümlede by the time doğru kullanılmıştır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By the time they arrive, we will have eaten."
+        },
+        {
+          "id": "b",
+          "text": "By the time they will arrive, we will have eaten."
+        },
+        {
+          "id": "c",
+          "text": "By the time they arrived, we will have eaten."
+        },
+        {
+          "id": "d",
+          "text": "By the time they arriving, we eat."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "By the time + Present.",
+      "optionExplanations": {
+        "b": "By the time'dan sonra will olmaz.",
+        "c": "Zaman uyumu bozuk.",
+        "d": "Biçim bozuk."
+      },
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-40",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'm sure they will have ___ the news by now. (hear)",
+      "answers": [
+        "heard"
+      ],
+      "explanation": "V3: heard.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hear",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-41",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She will have ___ here for a year in March.",
+      "answers": [
+        "been"
+      ],
+      "explanation": "will have been.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "be",
+          "explanation": "V3: been."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-perf-42",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gelecek yıla kadar yeterli para biriktirmiş olacak.",
+      "hint": "biriktirmek: save",
+      "answers": [
+        "By next year, she will have saved enough money.",
+        "By next year, he will have saved enough money.",
+        "She will have saved enough money by next year.",
+        "He will have saved enough money by next year."
+      ],
+      "targetStructure": "will have + V3",
+      "explanation": "Tarihe kadar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "By next year, she will save enough money.",
+          "explanation": "Bitmiş olacak: Future Perfect."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-43",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gelecek ay burada on yıl yaşamış olacağız.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "We will have lived here for ten years next month.",
+        "Next month, we will have lived here for ten years."
+      ],
+      "targetStructure": "will have + V3 + for",
+      "explanation": "Süre dolacak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We will live here for ten years next month.",
+          "explanation": "Süre dolacak: Future Perfect."
+        }
+      ],
+      "tags": [
+        "fut-perf",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-44",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "By Friday, I will finish the book. (bitmiş olacak)",
+      "errorSpan": "will finish",
+      "answers": [
+        "By Friday, I will have finished the book."
+      ],
+      "explanation": "Tarihe kadar bitmiş.",
+      "tags": [
+        "fut-perf",
+        "by"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-perf-45",
+      "lessonId": "b1-future-perfect-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will have been know him for ten years.",
+      "errorSpan": "been know",
+      "answers": [
+        "I will have known him for ten years."
+      ],
+      "explanation": "Durum fiili.",
+      "tags": [
+        "fut-perf",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-fut-perf",
+    "title": "Future Perfect: Konu sonu sınavı",
+    "description": "Will have + V3.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-fut-perf-exam-01",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ finished by tomorrow.",
+        "options": [
+          {
+            "id": "a",
+            "text": "will have"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "has"
+          },
+          {
+            "id": "d",
+            "text": "had"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "will have + V3.",
+        "optionExplanations": {
+          "b": "Have eksik.",
+          "c": "Present Perfect.",
+          "d": "Past Perfect."
+        },
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-02",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They will have ___ the work by Friday. (finish)",
+        "answers": [
+          "finished"
+        ],
+        "explanation": "V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "finish",
+            "explanation": "V3 gerekir."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-03",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Cumaya kadar kitabı okumuş olacak.",
+        "answer": [
+          "He",
+          "will",
+          "have",
+          "read",
+          "the",
+          "book",
+          "by",
+          "Friday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "reading"
+        ],
+        "explanation": "will have + V3",
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-04",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He will have went home by six.",
+        "errorSpan": "went",
+        "answers": [
+          "He will have gone home by six."
+        ],
+        "explanation": "V3: gone.",
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-05",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Saat altıya kadar gitmiş olacak.",
+        "hint": "gitmek: leave",
+        "answers": [
+          "He will have left by six o'clock.",
+          "She will have left by six o'clock.",
+          "He will have left by six.",
+          "She will have left by six."
+        ],
+        "targetStructure": "will have + V3",
+        "explanation": "Tarihe kadar.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He will leave by six o'clock.",
+            "explanation": "Bitmiş olacak: Future Perfect."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "by"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-06",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We ___ have finished by Monday. (olmayacağız)",
+        "options": [
+          {
+            "id": "a",
+            "text": "won't"
+          },
+          {
+            "id": "b",
+            "text": "don't"
+          },
+          {
+            "id": "c",
+            "text": "haven't"
+          },
+          {
+            "id": "d",
+            "text": "aren't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "won't have + V3.",
+        "optionExplanations": {
+          "b": "Don't have olmaz.",
+          "c": "Haven't farklı.",
+          "d": "Be fiili."
+        },
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-07",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ she have finished by noon?",
+        "answers": [
+          "Will"
+        ],
+        "explanation": "Will + özne.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Does",
+            "explanation": "Do kullanılmaz."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-08",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Aralığa kadar kaç kitap okumuş olacaksın?",
+        "answer": [
+          "How",
+          "many",
+          "books",
+          "will",
+          "you",
+          "have",
+          "read",
+          "by",
+          "December"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "has",
+          "do"
+        ],
+        "explanation": "Wh + will + have + V3",
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-09",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "By the time he will come, I will have left.",
+        "errorSpan": "will come",
+        "answers": [
+          "By the time he comes, I will have left."
+        ],
+        "explanation": "By the time'dan sonra will olmaz.",
+        "tags": [
+          "fut-perf",
+          "by"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-10",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Pazartesiye kadar bitirmiş olmayacağım.",
+        "hint": "bitirmek: finish",
+        "answers": [
+          "I won't have finished by Monday.",
+          "I will not have finished by Monday."
+        ],
+        "targetStructure": "won't have + V3",
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I don't have finished by Monday.",
+            "explanation": "Won't have."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-11",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "By the time you ___, they will have left.",
+        "options": [
+          {
+            "id": "a",
+            "text": "arrive"
+          },
+          {
+            "id": "b",
+            "text": "will arrive"
+          },
+          {
+            "id": "c",
+            "text": "arrived"
+          },
+          {
+            "id": "d",
+            "text": "arriving"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "By the time + Present.",
+        "optionExplanations": {
+          "b": "By the time'dan sonra will olmaz.",
+          "c": "Geçmiş zaman.",
+          "d": "-ing olmaz."
+        },
+        "tags": [
+          "fut-perf",
+          "by"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-12",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "By 2040, scientists will have ___ a cure. (find)",
+        "answers": [
+          "found"
+        ],
+        "explanation": "V3: found.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "finded",
+            "explanation": "Düzensiz: found."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-13",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "By Monday, I will finish my report. (bitmiş olacak)",
+        "errorSpan": "will finish",
+        "answers": [
+          "By Monday, I will have finished my report."
+        ],
+        "explanation": "Tarihe kadar bitmiş.",
+        "tags": [
+          "fut-perf",
+          "by"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-14",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi Future Perfect'tir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I will have finished by six."
+          },
+          {
+            "id": "b",
+            "text": "I will finish at six."
+          },
+          {
+            "id": "c",
+            "text": "At six, I will be working."
+          },
+          {
+            "id": "d",
+            "text": "I finished at six."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Will have + V3.",
+        "optionExplanations": {
+          "b": "Future Simple.",
+          "c": "Future Continuous.",
+          "d": "Past Simple."
+        },
+        "tags": [
+          "fut-perf",
+          "vs"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-15",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "They will have ___ married for ten years in May.",
+        "answers": [
+          "been"
+        ],
+        "explanation": "will have been.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "be",
+            "explanation": "V3: been."
+          }
+        ],
+        "tags": [
+          "fut-perf",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-perf-exam-16",
+        "lessonId": "b1-future-perfect-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onlar gelene kadar yemek yemiş olacağız.",
+        "answer": [
+          "By",
+          "the",
+          "time",
+          "they",
+          "arrive",
+          "we",
+          "will",
+          "have",
+          "eaten"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "arrived",
+          "ate"
+        ],
+        "explanation": "by the time + Present",
+        "tags": [
+          "fut-perf",
+          "by"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      }
+    ]
+  }
+}
