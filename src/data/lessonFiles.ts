@@ -39,6 +39,7 @@ import aPassive from "@/assets/data/levels/a2/a2-passive-basic.json";
 import aReported from "@/assets/data/levels/a2/a2-reported-speech-basic.json";
 import bPPC from "@/assets/data/levels/b1/b1-present-perfect-continuous.json";
 import bPastPerf from "@/assets/data/levels/b1/b1-past-perfect.json";
+import bFutCont from "@/assets/data/levels/b1/b1-future-continuous.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -95,6 +96,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-reported-speech-basic": aReported,
   "b1-present-perfect-continuous": bPPC,
   "b1-past-perfect": bPastPerf,
+  "b1-future-continuous": bFutCont,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

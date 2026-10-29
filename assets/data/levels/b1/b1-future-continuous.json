@@ -1,0 +1,2314 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-future-continuous",
+  "levelId": "b1",
+  "title": "Future Continuous",
+  "objectives": [
+    "Will be + -ing yapısını kurmak (olumlu, olumsuz, soru)",
+    "Gelecekte belirli bir anda sürecek eylemi anlatmak",
+    "Future Simple ile Future Continuous farkını ayırt etmek",
+    "Nazik bilgi sorusu ve rutin planlar için kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Future Continuous nedir?",
+      "paragraphs": [
+        "Future Continuous, gelecekteki belirli bir anda sürmekte olacak eylemi anlatır: “Yarın bu saatte uçuyor olacağım.” Eylem o anda başlamış ve devam ediyor olacaktır.",
+        "Yapı: will be + fiil-ing. Türkçedeki “-yor olacağım” yapısına karşılık gelir. Will tüm öznelerde aynıdır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "Will be + -ing tüm özneler için aynıdır. Olumsuzu won’t be + -ing, soru biçimi Will + özne + be + -ing’dir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + will be + fiil-ing",
+          "exampleIds": [
+            "ex-fut-cont-01",
+            "ex-fut-cont-02",
+            "ex-fut-cont-03",
+            "ex-fut-cont-04",
+            "ex-fut-cont-05",
+            "ex-fut-cont-06",
+            "ex-fut-cont-07"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + won’t be + fiil-ing",
+          "exampleIds": [
+            "ex-fut-cont-08",
+            "ex-fut-cont-09",
+            "ex-fut-cont-10"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Will + özne + be + fiil-ing …?",
+          "exampleIds": [
+            "ex-fut-cont-11",
+            "ex-fut-cont-12",
+            "ex-fut-cont-21"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I will.   No, she won’t.",
+          "exampleIds": [
+            "ex-fut-cont-13",
+            "ex-fut-cont-14"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + will + özne + be + -ing?",
+          "exampleIds": [
+            "ex-fut-cont-15",
+            "ex-fut-cont-16",
+            "ex-fut-cont-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Gelecekte belirli bir anda süren eylem",
+          "formula": "At 8 tonight, I will be studying.",
+          "exampleIds": [
+            "ex-fut-cont-01",
+            "ex-fut-cont-02",
+            "ex-fut-cont-06",
+            "ex-fut-cont-07",
+            "ex-fut-cont-20"
+          ],
+          "note": "O anda eylem devam ediyor olacak."
+        },
+        {
+          "label": "Dönem boyunca sürecek durum",
+          "formula": "In June, they will be living in Spain.",
+          "exampleIds": [
+            "ex-fut-cont-04",
+            "ex-fut-cont-05",
+            "ex-fut-cont-23"
+          ],
+          "note": "Bir dönemde süren durum."
+        },
+        {
+          "label": "Rutin plan, nazik soru",
+          "formula": "Will you be going to the shop?",
+          "exampleIds": [
+            "ex-fut-cont-21",
+            "ex-fut-cont-27",
+            "ex-fut-cont-28",
+            "ex-fut-cont-22"
+          ],
+          "note": "Zaten olacak olan ya da nazik bilgi isteme."
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "forms",
+      "title": "Future Simple ile fark",
+      "forms": [
+        {
+          "label": "will + fiil (Simple)",
+          "formula": "I will call you at 8.",
+          "exampleIds": [
+            "ex-fut-cont-19",
+            "ex-fut-cont-18"
+          ],
+          "note": "Karar, söz, kısa eylem: sekizde arayacağım."
+        },
+        {
+          "label": "will be + -ing (Continuous)",
+          "formula": "At 8, I will be calling clients.",
+          "exampleIds": [
+            "ex-fut-cont-20",
+            "ex-fut-cont-17"
+          ],
+          "note": "O sırada sürüyor olacak."
+        }
+      ]
+    },
+    {
+      "id": "tips",
+      "type": "rule",
+      "title": "İpuçları",
+      "paragraphs": [
+        "Gelecekte belirli bir saat ya da an belirtiliyorsa (at 8, this time tomorrow, between 5 and 6) Future Continuous kullanılır. Telefon ya da rahatsız etmeme gibi bağlamlarda çok yaygındır."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman ifadeleri",
+          "pattern": "this time tomorrow,  at 8 tonight,  next week,  at midnight,  between 5 and 6",
+          "exampleIds": [
+            "ex-fut-cont-01",
+            "ex-fut-cont-02",
+            "ex-fut-cont-26",
+            "ex-fut-cont-24"
+          ]
+        },
+        {
+          "label": "Yazım",
+          "pattern": "lie → lying,  run → running,  drive → driving",
+          "exampleIds": [
+            "ex-fut-cont-24",
+            "ex-fut-cont-25",
+            "ex-fut-cont-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yapı ve kullanım",
+      "exampleIds": [
+        "ex-fut-cont-01",
+        "ex-fut-cont-02",
+        "ex-fut-cont-03",
+        "ex-fut-cont-04",
+        "ex-fut-cont-05",
+        "ex-fut-cont-06",
+        "ex-fut-cont-07",
+        "ex-fut-cont-08",
+        "ex-fut-cont-09",
+        "ex-fut-cont-10",
+        "ex-fut-cont-11",
+        "ex-fut-cont-12",
+        "ex-fut-cont-13",
+        "ex-fut-cont-14",
+        "ex-fut-cont-15",
+        "ex-fut-cont-16"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: Simple ile fark ve diğerleri",
+      "exampleIds": [
+        "ex-fut-cont-17",
+        "ex-fut-cont-18",
+        "ex-fut-cont-19",
+        "ex-fut-cont-20",
+        "ex-fut-cont-21",
+        "ex-fut-cont-22",
+        "ex-fut-cont-23",
+        "ex-fut-cont-24",
+        "ex-fut-cont-25",
+        "ex-fut-cont-26",
+        "ex-fut-cont-27",
+        "ex-fut-cont-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I will be fly to London tomorrow.",
+          "right": "I will be flying to London tomorrow.",
+          "explanation": "Be'den sonra -ing."
+        },
+        {
+          "wrong": "I will flying tomorrow.",
+          "right": "I will be flying tomorrow.",
+          "explanation": "Be eksik."
+        },
+        {
+          "wrong": "She wills be working.",
+          "right": "She will be working.",
+          "explanation": "Will -s almaz."
+        },
+        {
+          "wrong": "Do you will be working tomorrow?",
+          "right": "Will you be working tomorrow?",
+          "explanation": "Will ile do kullanılmaz."
+        },
+        {
+          "wrong": "I don't be working tomorrow.",
+          "right": "I won't be working tomorrow.",
+          "explanation": "Olumsuz: won't be."
+        },
+        {
+          "wrong": "He will be runing.",
+          "right": "He will be running.",
+          "explanation": "Ünsüz ikizlenir."
+        },
+        {
+          "wrong": "I will be knowing the answer.",
+          "right": "I will know the answer.",
+          "explanation": "Durum fiili Continuous almaz."
+        },
+        {
+          "wrong": "At 8, I will call clients. (süreç)",
+          "right": "At 8, I will be calling clients.",
+          "explanation": "O anda süren eylem Continuous."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Will",
+          "body": "Future Simple: tahmin, anlık karar, söz.",
+          "lessonId": "a2-will"
+        },
+        {
+          "topic": "Present Continuous",
+          "body": "Şimdi süren eylem; yapı be + -ing.",
+          "lessonId": "a1-present-continuous"
+        },
+        {
+          "topic": "Future Perfect",
+          "body": "Gelecekte bir noktadan önce bitmiş olacak eylemler.",
+          "lessonId": "b1-future-perfect-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: will be + fiil-ing.",
+        "Belirli bir anı ve süreci vurgular; tek bir olay için Future Simple.",
+        "Olumsuz: won't be + -ing; soru: Will + özne + be + -ing.",
+        "Durum fiilleri (know, like) Continuous almaz.",
+        "Nazik bilgi sorusu olarak sık kullanılır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-fut-cont-01",
+        "q-fut-cont-02",
+        "q-fut-cont-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-fut-cont-01",
+      "en": "This time tomorrow, I will be flying to London.",
+      "tr": "Yarın bu saatte Londra'ya uçuyor olacağım.",
+      "highlight": "will be flying",
+      "note": "will be + -ing"
+    },
+    {
+      "id": "ex-fut-cont-02",
+      "en": "At 8 o'clock tonight, she will be studying.",
+      "tr": "Bu akşam sekizde ders çalışıyor olacak.",
+      "highlight": "will be studying"
+    },
+    {
+      "id": "ex-fut-cont-03",
+      "en": "Don't call at 7. We will be having dinner.",
+      "tr": "7'de arama. Akşam yemeği yiyor olacağız.",
+      "highlight": "will be having"
+    },
+    {
+      "id": "ex-fut-cont-04",
+      "en": "In June, they will be living in Spain.",
+      "tr": "Haziranda İspanya'da yaşıyor olacaklar.",
+      "highlight": "will be living"
+    },
+    {
+      "id": "ex-fut-cont-05",
+      "en": "Next week, I will be working in Ankara.",
+      "tr": "Gelecek hafta Ankara'da çalışıyor olacağım.",
+      "highlight": "will be working"
+    },
+    {
+      "id": "ex-fut-cont-06",
+      "en": "At midnight, we will be sleeping.",
+      "tr": "Gece yarısı uyuyor olacağız.",
+      "highlight": "will be sleeping"
+    },
+    {
+      "id": "ex-fut-cont-07",
+      "en": "Tomorrow at noon, he will be sitting in a meeting.",
+      "tr": "Yarın öğlen toplantıda oturuyor olacak.",
+      "highlight": "will be sitting"
+    },
+    {
+      "id": "ex-fut-cont-08",
+      "en": "I won't be working tomorrow.",
+      "tr": "Yarın çalışıyor olmayacağım.",
+      "highlight": "won't be working",
+      "note": "Olumsuz: won't be + -ing"
+    },
+    {
+      "id": "ex-fut-cont-09",
+      "en": "She won't be sleeping at 10.",
+      "tr": "Saat onda uyuyor olmayacak.",
+      "highlight": "won't be sleeping"
+    },
+    {
+      "id": "ex-fut-cont-10",
+      "en": "They won't be using the car tonight.",
+      "tr": "Bu gece arabayı kullanıyor olmayacaklar.",
+      "highlight": "won't be using"
+    },
+    {
+      "id": "ex-fut-cont-11",
+      "en": "Will you be using the car tonight?",
+      "tr": "Bu gece arabayı kullanıyor olacak mısın?",
+      "highlight": "Will you be using",
+      "note": "Soru: Will + özne + be + -ing"
+    },
+    {
+      "id": "ex-fut-cont-12",
+      "en": "Will she be working tomorrow?",
+      "tr": "Yarın çalışıyor olacak mı?",
+      "highlight": "Will she be working"
+    },
+    {
+      "id": "ex-fut-cont-13",
+      "en": "Yes, I will.",
+      "tr": "Evet, olacağım.",
+      "highlight": "Yes, I will",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-fut-cont-14",
+      "en": "No, she won't.",
+      "tr": "Hayır, olmayacak.",
+      "highlight": "No, she won't"
+    },
+    {
+      "id": "ex-fut-cont-15",
+      "en": "What will you be doing at 8 tonight?",
+      "tr": "Bu akşam sekizde ne yapıyor olacaksın?",
+      "highlight": "What will you be doing"
+    },
+    {
+      "id": "ex-fut-cont-16",
+      "en": "Where will they be staying?",
+      "tr": "Nerede kalıyor olacaklar?",
+      "highlight": "Where will they be staying"
+    },
+    {
+      "id": "ex-fut-cont-17",
+      "en": "I will be waiting for you at the station.",
+      "tr": "Seni istasyonda bekliyor olacağım.",
+      "highlight": "will be waiting",
+      "note": "bir anda sürecek eylem"
+    },
+    {
+      "id": "ex-fut-cont-18",
+      "en": "I will wait for you at the station.",
+      "tr": "Seni istasyonda bekleyeceğim.",
+      "highlight": "will wait",
+      "note": "Future Simple: karar / söz"
+    },
+    {
+      "id": "ex-fut-cont-19",
+      "en": "I will call you at 8.",
+      "tr": "Seni sekizde arayacağım.",
+      "highlight": "will call",
+      "note": "Simple: kısa eylem"
+    },
+    {
+      "id": "ex-fut-cont-20",
+      "en": "At 8, I will be calling clients.",
+      "tr": "Sekizde müşterileri arıyor olacağım.",
+      "highlight": "will be calling",
+      "note": "Continuous: süreç"
+    },
+    {
+      "id": "ex-fut-cont-21",
+      "en": "Will you be going to the shop? Could you buy some milk?",
+      "tr": "Dükkâna gidiyor olacak mısın? Süt alabilir misin?",
+      "highlight": "Will you be going",
+      "note": "nazik soru"
+    },
+    {
+      "id": "ex-fut-cont-22",
+      "en": "When will you be arriving?",
+      "tr": "Ne zaman varıyor olacaksın?",
+      "highlight": "When will you be arriving",
+      "note": "plan / program"
+    },
+    {
+      "id": "ex-fut-cont-23",
+      "en": "Next year, I will be studying at university.",
+      "tr": "Gelecek yıl üniversitede okuyor olacağım.",
+      "highlight": "will be studying"
+    },
+    {
+      "id": "ex-fut-cont-24",
+      "en": "By this time next week, I will be lying on a beach.",
+      "tr": "Gelecek hafta bu zamanlar sahilde uzanıyor olacağım.",
+      "highlight": "will be lying",
+      "note": "lie → lying"
+    },
+    {
+      "id": "ex-fut-cont-25",
+      "en": "He will be running the marathon next Sunday.",
+      "tr": "Gelecek pazar maraton koşuyor olacak.",
+      "highlight": "will be running",
+      "note": "run → running"
+    },
+    {
+      "id": "ex-fut-cont-26",
+      "en": "Don't phone me between 5 and 6. I will be driving.",
+      "tr": "5 ile 6 arasında arama. Araba sürüyor olacağım.",
+      "highlight": "will be driving"
+    },
+    {
+      "id": "ex-fut-cont-27",
+      "en": "I'll be seeing him tomorrow anyway.",
+      "tr": "Zaten yarın onu göreceğim.",
+      "highlight": "I'll be seeing",
+      "note": "rutin plan"
+    },
+    {
+      "id": "ex-fut-cont-28",
+      "en": "We'll be leaving at six.",
+      "tr": "Altıda yola çıkıyor olacağız.",
+      "highlight": "We'll be leaving"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-fut-cont-01",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This time tomorrow, I ___ to London.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be flying"
+        },
+        {
+          "id": "b",
+          "text": "will fly"
+        },
+        {
+          "id": "c",
+          "text": "am flying"
+        },
+        {
+          "id": "d",
+          "text": "fly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "O anda süren: will be + -ing.",
+      "optionExplanations": {
+        "b": "Future Simple süreci vurgulamaz.",
+        "c": "Present Continuous.",
+        "d": "Present Simple."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-02",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "At 8 tonight, she will ___ studying.",
+      "answers": [
+        "be"
+      ],
+      "explanation": "will be + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Will be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-03",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın bu saatte Londra'ya uçuyor olacağım.",
+      "answer": [
+        "This",
+        "time",
+        "tomorrow",
+        "I",
+        "will",
+        "be",
+        "flying",
+        "to",
+        "London"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "fly"
+      ],
+      "explanation": "will be + -ing",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-fut-cont-04",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will flying to London.",
+      "errorSpan": "will flying",
+      "answers": [
+        "I will be flying to London."
+      ],
+      "explanation": "Be eksik.",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-05",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu akşam sekizde ders çalışıyor olacak.",
+      "hint": "ders çalışmak: study",
+      "answers": [
+        "At 8 o'clock tonight, she will be studying.",
+        "She will be studying at 8 o'clock tonight.",
+        "At 8 tonight, she will be studying.",
+        "At 8 tonight, he will be studying."
+      ],
+      "targetStructure": "will be + -ing",
+      "explanation": "Belirli anda süren.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "At 8 tonight, she will studying.",
+          "explanation": "Be eksik."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-06",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ be having dinner at 7.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will be + -ing.",
+      "optionExplanations": {
+        "b": "Be fiili ile gelecek kurulmaz.",
+        "c": "Would farklı.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-fut-cont-07",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "In June, they will be ___ in Spain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "living"
+        },
+        {
+          "id": "b",
+          "text": "live"
+        },
+        {
+          "id": "c",
+          "text": "lived"
+        },
+        {
+          "id": "d",
+          "text": "lives"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be + -ing.",
+      "optionExplanations": {
+        "b": "-ing gerekir.",
+        "c": "-ing gerekir.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-08",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "At midnight, we ___ sleeping.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will be + -ing.",
+      "optionExplanations": {
+        "b": "Be eksik.",
+        "c": "Present Continuous.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-09",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Next week, I will be ___ in Ankara. (work)",
+      "answers": [
+        "working"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "work",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-10",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She will ___ sleeping at midnight.",
+      "answers": [
+        "be"
+      ],
+      "explanation": "will be + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Will be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-11",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "At midnight, we will be ___. (sleep)",
+      "answers": [
+        "sleeping"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "sleep",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-12",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ working tomorrow. (çalışıyor olmayacağım)",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't be"
+        },
+        {
+          "id": "b",
+          "text": "don't be"
+        },
+        {
+          "id": "c",
+          "text": "am not"
+        },
+        {
+          "id": "d",
+          "text": "will not"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "won't be + -ing.",
+      "optionExplanations": {
+        "b": "Biçim yanlış.",
+        "c": "Present Continuous.",
+        "d": "Be eksik."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-13",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you be using the car tonight?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will + özne + be.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Be fiili.",
+        "d": "Did kullanılmaz."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-14",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ you be doing at 8 tonight?",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh + will.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Be fiili.",
+        "d": "Did kullanılmaz."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-15",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Don't call at 7. We ___ dinner.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be having"
+        },
+        {
+          "id": "b",
+          "text": "will have"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "O anda süren.",
+      "optionExplanations": {
+        "b": "Future Simple süreci vurgulamaz.",
+        "c": "Present Simple.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "fut-cont",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-16",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Don't phone me between 5 and 6. I ___ driving.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will be"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will be + -ing.",
+      "optionExplanations": {
+        "b": "Be eksik.",
+        "c": "Present Continuous.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-17",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Will she be working tomorrow?"
+        },
+        {
+          "id": "b",
+          "text": "Do she will be working tomorrow?"
+        },
+        {
+          "id": "c",
+          "text": "Will she working tomorrow?"
+        },
+        {
+          "id": "d",
+          "text": "Is she will be working tomorrow?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will + özne + be + -ing.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Be eksik.",
+        "d": "Biçim bozuk."
+      },
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-18",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ be working tomorrow. (olumsuz)",
+      "answers": [
+        "won't"
+      ],
+      "explanation": "won't be.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Don't be olmaz."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-19",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She won't ___ sleeping at 10.",
+      "answers": [
+        "be"
+      ],
+      "explanation": "won't be + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Won't be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-20",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she be working tomorrow?",
+      "answers": [
+        "Will"
+      ],
+      "explanation": "Will + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does",
+          "explanation": "Do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-21",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where will they ___ staying?",
+      "answers": [
+        "be"
+      ],
+      "explanation": "will they be + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Will they be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-22",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When will you be ___? (arrive)",
+      "answers": [
+        "arriving"
+      ],
+      "explanation": "-e düşer.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "arrive",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-23",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He will be ___ the marathon. (run)",
+      "answers": [
+        "running"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "runing",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-24",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "By this time next week, I will be ___ on a beach. (lie)",
+      "answers": [
+        "lying"
+      ],
+      "explanation": "ie → ying.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "lieing",
+          "explanation": "ie → ying."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-25",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I will be ___ for you at the station. (wait)",
+      "answers": [
+        "waiting"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wait",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-26",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will be fly tomorrow.",
+      "errorSpan": "be fly",
+      "answers": [
+        "I will be flying tomorrow."
+      ],
+      "explanation": "-ing.",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-27",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She wills be working.",
+      "errorSpan": "wills",
+      "answers": [
+        "She will be working."
+      ],
+      "explanation": "Will -s almaz.",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-fut-cont-28",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you will be working tomorrow?",
+      "errorSpan": "Do you will",
+      "answers": [
+        "Will you be working tomorrow?"
+      ],
+      "explanation": "Will ile do olmaz.",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-fut-cont-29",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't be working tomorrow.",
+      "errorSpan": "don't be",
+      "answers": [
+        "I won't be working tomorrow.",
+        "I will not be working tomorrow."
+      ],
+      "explanation": "Won't be.",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-30",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He will be runing.",
+      "errorSpan": "runing",
+      "answers": [
+        "He will be running."
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-31",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın çalışıyor olmayacağım.",
+      "answer": [
+        "I",
+        "won't",
+        "be",
+        "working",
+        "tomorrow"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "work"
+      ],
+      "explanation": "won't be + -ing",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-32",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu akşam sekizde ne yapıyor olacaksın?",
+      "answer": [
+        "What",
+        "will",
+        "you",
+        "be",
+        "doing",
+        "at",
+        "8",
+        "tonight"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "did"
+      ],
+      "explanation": "Wh + will + be + -ing",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-33",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu gece arabayı kullanıyor olacak mısın?",
+      "answer": [
+        "Will",
+        "you",
+        "be",
+        "using",
+        "the",
+        "car",
+        "tonight"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "use"
+      ],
+      "explanation": "Will + özne + be + -ing",
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-34",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın çalışıyor olmayacağım.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "I won't be working tomorrow.",
+        "I will not be working tomorrow."
+      ],
+      "targetStructure": "won't be + -ing",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't be working tomorrow.",
+          "explanation": "Won't be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-fut-cont-35",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Seni istasyonda bekliyor olacağım.",
+      "hint": "beklemek: wait",
+      "answers": [
+        "I will be waiting for you at the station.",
+        "I'll be waiting for you at the station."
+      ],
+      "targetStructure": "will be + -ing",
+      "explanation": "Süren eylem.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I will waiting for you at the station.",
+          "explanation": "Be eksik."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-36",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne zaman varıyor olacaksın?",
+      "hint": "varmak: arrive",
+      "answers": [
+        "When will you be arriving?"
+      ],
+      "targetStructure": "When will you be + -ing",
+      "explanation": "Wh soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When do you will be arriving?",
+          "explanation": "Will ile do olmaz."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-37",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi belirli anda süren eylemi vurgular?",
+      "options": [
+        {
+          "id": "a",
+          "text": "At 8, I will be calling clients."
+        },
+        {
+          "id": "b",
+          "text": "I will call you at 8."
+        },
+        {
+          "id": "c",
+          "text": "I call clients at 8."
+        },
+        {
+          "id": "d",
+          "text": "I called clients at 8."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future Continuous.",
+      "optionExplanations": {
+        "b": "Future Simple: kısa eylem.",
+        "c": "Present Simple.",
+        "d": "Past Simple."
+      },
+      "tags": [
+        "fut-cont",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-38",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi karar ya da sözdür?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will wait for you at the station."
+        },
+        {
+          "id": "b",
+          "text": "I will be waiting for you at the station."
+        },
+        {
+          "id": "c",
+          "text": "I will have waited for you."
+        },
+        {
+          "id": "d",
+          "text": "I will be waited for you."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future Simple: söz.",
+      "optionExplanations": {
+        "b": "Süreç vurgusu.",
+        "c": "Future Perfect.",
+        "d": "Biçim bozuk."
+      },
+      "tags": [
+        "fut-cont",
+        "vs"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-fut-cont-39",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will know the answer."
+        },
+        {
+          "id": "b",
+          "text": "I will be knowing the answer."
+        },
+        {
+          "id": "c",
+          "text": "I will be know the answer."
+        },
+        {
+          "id": "d",
+          "text": "I will knowing the answer."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Durum fiili Continuous almaz.",
+      "optionExplanations": {
+        "b": "Know durum fiilidir.",
+        "c": "-ing gerekir ama know zaten Continuous almaz.",
+        "d": "Be eksik."
+      },
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-40",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I ___ call you at 8. (kısa eylem, söz)",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Future Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will be",
+          "explanation": "Kısa eylem için will."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "vs"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-fut-cont-41",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "At 8, I will ___ calling clients. (süreç)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "Continuous.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Will be."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "vs"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-42",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Altıda yola çıkıyor olacağız.",
+      "hint": "yola çıkmak: leave",
+      "answers": [
+        "We will be leaving at six.",
+        "We'll be leaving at six."
+      ],
+      "targetStructure": "will be + -ing",
+      "explanation": "Rutin plan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We will leaving at six.",
+          "explanation": "Be eksik."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-fut-cont-43",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "5 ile 6 arasında arama. Araba sürüyor olacağım.",
+      "hint": "sürmek: drive",
+      "answers": [
+        "Don't phone me between 5 and 6. I will be driving.",
+        "Don't call me between 5 and 6. I will be driving."
+      ],
+      "targetStructure": "will be + -ing",
+      "explanation": "Rahatsız etme.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Don't phone me between 5 and 6. I will drive.",
+          "explanation": "O anda süren eylem."
+        }
+      ],
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-44",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "At 8, I will call clients. (o anda süren)",
+      "errorSpan": "will call",
+      "answers": [
+        "At 8, I will be calling clients."
+      ],
+      "explanation": "Süreç: Continuous.",
+      "tags": [
+        "fut-cont",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-fut-cont-45",
+      "lessonId": "b1-future-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will be knowing the answer.",
+      "errorSpan": "be knowing",
+      "answers": [
+        "I will know the answer."
+      ],
+      "explanation": "Durum fiili.",
+      "tags": [
+        "fut-cont",
+        "tips"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-fut-cont",
+    "title": "Future Continuous: Konu sonu sınavı",
+    "description": "Will be + -ing.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-fut-cont-exam-01",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Tomorrow at noon, he ___ sitting in a meeting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "will be"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "is"
+          },
+          {
+            "id": "d",
+            "text": "does"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "will be + -ing.",
+        "optionExplanations": {
+          "b": "Be eksik.",
+          "c": "Present Continuous.",
+          "d": "Does kullanılmaz."
+        },
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-02",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "In the evening, we will be ___ dinner. (have)",
+        "answers": [
+          "having"
+        ],
+        "explanation": "-ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-03",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Gece yarısı uyuyor olacağız.",
+        "answer": [
+          "At",
+          "midnight",
+          "we",
+          "will",
+          "be",
+          "sleeping"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are",
+          "sleep"
+        ],
+        "explanation": "will be + -ing",
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-04",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She will be work in Paris.",
+        "errorSpan": "be work",
+        "answers": [
+          "She will be working in Paris."
+        ],
+        "explanation": "-ing.",
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-05",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Haziranda İspanya'da yaşıyor olacaklar.",
+        "hint": "yaşamak: live",
+        "answers": [
+          "In June, they will be living in Spain.",
+          "They will be living in Spain in June."
+        ],
+        "targetStructure": "will be + -ing",
+        "explanation": "Dönem.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "In June, they will living in Spain.",
+            "explanation": "Be eksik."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-06",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "They ___ be using the car tonight. (olmayacaklar)",
+        "options": [
+          {
+            "id": "a",
+            "text": "won't"
+          },
+          {
+            "id": "b",
+            "text": "don't"
+          },
+          {
+            "id": "c",
+            "text": "aren't"
+          },
+          {
+            "id": "d",
+            "text": "wouldn't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "won't be.",
+        "optionExplanations": {
+          "b": "Don't be olmaz.",
+          "c": "Be fiili kullanılmaz.",
+          "d": "Wouldn't farklı."
+        },
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-07",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you be using the car tonight?",
+        "answers": [
+          "Will"
+        ],
+        "explanation": "Will + özne.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do",
+            "explanation": "Do kullanılmaz."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-08",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nerede kalıyor olacaklar?",
+        "answer": [
+          "Where",
+          "will",
+          "they",
+          "be",
+          "staying"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "are"
+        ],
+        "explanation": "Wh + will",
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-09",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Do you will be working tonight?",
+        "errorSpan": "Do you will",
+        "answers": [
+          "Will you be working tonight?"
+        ],
+        "explanation": "Will ile do olmaz.",
+        "tags": [
+          "fut-cont",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-10",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yarın onu göreceğim zaten.",
+        "hint": "görmek: see",
+        "answers": [
+          "I'll be seeing him tomorrow anyway.",
+          "I will be seeing him tomorrow anyway."
+        ],
+        "targetStructure": "will be + -ing",
+        "explanation": "Rutin plan.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I'll seeing him tomorrow anyway.",
+            "explanation": "Be eksik."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-11",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Please don't call at 9. I ___ in a meeting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "will be sitting"
+          },
+          {
+            "id": "b",
+            "text": "will sit"
+          },
+          {
+            "id": "c",
+            "text": "sit"
+          },
+          {
+            "id": "d",
+            "text": "sat"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "O anda süren.",
+        "optionExplanations": {
+          "b": "Future Simple süreci vurgulamaz.",
+          "c": "Present Simple.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "fut-cont",
+          "uses"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-12",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He will be ___ next Sunday. (run)",
+        "answers": [
+          "running"
+        ],
+        "explanation": "Ünsüz ikizlenir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "runing",
+            "explanation": "Ünsüz ikizlenir."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "tips"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-13",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I will be believing you.",
+        "errorSpan": "be believing",
+        "answers": [
+          "I will believe you."
+        ],
+        "explanation": "Durum fiili.",
+        "tags": [
+          "fut-cont",
+          "tips"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-14",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi karar ya da sözdür?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I'll help you with the bags."
+          },
+          {
+            "id": "b",
+            "text": "I'll be helping you with the bags."
+          },
+          {
+            "id": "c",
+            "text": "I'll be helped with the bags."
+          },
+          {
+            "id": "d",
+            "text": "I'll have helped you."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Future Simple: teklif.",
+        "optionExplanations": {
+          "b": "Süreç vurgusu.",
+          "c": "Edilgen.",
+          "d": "Future Perfect."
+        },
+        "tags": [
+          "fut-cont",
+          "vs"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-15",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "This time next week, I ___ be lying on a beach.",
+        "answers": [
+          "will"
+        ],
+        "explanation": "will be + -ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "am",
+            "explanation": "Will be."
+          }
+        ],
+        "tags": [
+          "fut-cont",
+          "uses"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-fut-cont-exam-16",
+        "lessonId": "b1-future-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Gelecek yıl üniversitede okuyor olacağım.",
+        "answer": [
+          "Next",
+          "year",
+          "I",
+          "will",
+          "be",
+          "studying",
+          "at",
+          "university"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "am",
+          "study"
+        ],
+        "explanation": "will be + -ing",
+        "tags": [
+          "fut-cont",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      }
+    ]
+  }
+}
