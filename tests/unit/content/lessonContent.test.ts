@@ -93,6 +93,7 @@ describeLesson("a1-countable-some-any", { examples: 28, exercises: 40, exam: 16 
 describeLesson("a1-adverbs-frequency", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-wh-questions", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-can", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("a1-imperatives", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });

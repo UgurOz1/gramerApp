@@ -1,0 +1,2249 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-imperatives",
+  "levelId": "a1",
+  "title": "Imperatives",
+  "objectives": [
+    "Olumlu emir cümleleri kurmak",
+    "Don’t ile olumsuz emir kurmak",
+    "Please ile nazik olmak",
+    "Let’s ve Let’s not ile öneri yapmak",
+    "Yol ve tarif cümlelerini anlamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Emir kipi (Imperative)",
+      "paragraphs": [
+        "Emir cümlesi, birine bir şey yapmasını söylemek için kullanılır: emir, talimat, uyarı, tarif, yol tarifi ve davet. İngilizcede özne yazılmaz; çünkü özne zaten karşındaki kişidir (you).",
+        "Emir cümlesi yalın fiil ile başlar: Open the door. Nazik olması için please eklenir. Öneride Let’s kullanılır."
+      ]
+    },
+    {
+      "id": "affirmative",
+      "type": "rule",
+      "title": "Olumlu emir",
+      "paragraphs": [
+        "Yalın fiil ile başla. Özne ve -s yoktur. Fiil be ise yalın hali Be’dir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "yalın fiil + …   →   Open the door.",
+          "exampleIds": [
+            "ex-imperatives-01",
+            "ex-imperatives-02",
+            "ex-imperatives-03",
+            "ex-imperatives-04",
+            "ex-imperatives-05"
+          ]
+        },
+        {
+          "label": "Be ile",
+          "pattern": "Be + sıfat   →   Be quiet.",
+          "exampleIds": [
+            "ex-imperatives-06",
+            "ex-imperatives-07"
+          ]
+        },
+        {
+          "label": "Nazik",
+          "pattern": "… , please.   /   Please + …",
+          "exampleIds": [
+            "ex-imperatives-08",
+            "ex-imperatives-09",
+            "ex-imperatives-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz emir",
+      "paragraphs": [
+        "Olumsuz emir Don’t + yalın fiil ile kurulur. Be fiilinde Don’t be kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "Don’t + yalın fiil   →   Don’t run.",
+          "exampleIds": [
+            "ex-imperatives-11",
+            "ex-imperatives-12",
+            "ex-imperatives-14",
+            "ex-imperatives-15"
+          ]
+        },
+        {
+          "label": "Be ile",
+          "pattern": "Don’t be + sıfat   →   Don’t be late.",
+          "exampleIds": [
+            "ex-imperatives-13"
+          ]
+        },
+        {
+          "label": "Nazik",
+          "pattern": "Please don’t + yalın fiil",
+          "exampleIds": [
+            "ex-imperatives-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lets",
+      "type": "rule",
+      "title": "Let’s ile öneri",
+      "paragraphs": [
+        "Let’s (let us), “hadi … yapalım” anlamında birlikte yapılacak bir şeyi önerir. Ardından yalın fiil gelir. Olumsuz önerisi Let’s not + fiil’dir."
+      ],
+      "formulas": [
+        {
+          "label": "Öneri",
+          "pattern": "Let’s + yalın fiil   →   Let’s go.",
+          "exampleIds": [
+            "ex-imperatives-17",
+            "ex-imperatives-18"
+          ]
+        },
+        {
+          "label": "Olumsuz öneri",
+          "pattern": "Let’s not + yalın fiil",
+          "exampleIds": [
+            "ex-imperatives-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Kullanım alanları",
+      "forms": [
+        {
+          "label": "Emir ve talimat",
+          "formula": "Sit down.   Listen.",
+          "exampleIds": [
+            "ex-imperatives-02",
+            "ex-imperatives-03",
+            "ex-imperatives-26"
+          ],
+          "note": "Sınıf, iş yeri"
+        },
+        {
+          "label": "Uyarı",
+          "formula": "Be careful.   Don’t touch it.",
+          "exampleIds": [
+            "ex-imperatives-07",
+            "ex-imperatives-14"
+          ],
+          "note": "Tehlike"
+        },
+        {
+          "label": "Yol tarifi",
+          "formula": "Turn left.   Go straight.",
+          "exampleIds": [
+            "ex-imperatives-20",
+            "ex-imperatives-21",
+            "ex-imperatives-22",
+            "ex-imperatives-23"
+          ],
+          "note": "Tarif etme"
+        },
+        {
+          "label": "Tarif",
+          "formula": "Add two eggs and mix.",
+          "exampleIds": [
+            "ex-imperatives-24"
+          ],
+          "note": "Yemek tarifi, kullanım kılavuzu"
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu emirler",
+      "exampleIds": [
+        "ex-imperatives-01",
+        "ex-imperatives-02",
+        "ex-imperatives-03",
+        "ex-imperatives-04",
+        "ex-imperatives-05",
+        "ex-imperatives-06",
+        "ex-imperatives-07",
+        "ex-imperatives-08",
+        "ex-imperatives-09",
+        "ex-imperatives-10",
+        "ex-imperatives-25",
+        "ex-imperatives-26",
+        "ex-imperatives-27",
+        "ex-imperatives-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: olumsuz emirler ve öneri",
+      "exampleIds": [
+        "ex-imperatives-11",
+        "ex-imperatives-12",
+        "ex-imperatives-13",
+        "ex-imperatives-14",
+        "ex-imperatives-15",
+        "ex-imperatives-16",
+        "ex-imperatives-17",
+        "ex-imperatives-18",
+        "ex-imperatives-19"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: yol ve tarif",
+      "exampleIds": [
+        "ex-imperatives-20",
+        "ex-imperatives-21",
+        "ex-imperatives-22",
+        "ex-imperatives-23",
+        "ex-imperatives-24"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "You open the door.",
+          "right": "Open the door.",
+          "explanation": "Emirde özne yazılmaz."
+        },
+        {
+          "wrong": "Opens the door.",
+          "right": "Open the door.",
+          "explanation": "Emirde -s yoktur."
+        },
+        {
+          "wrong": "To open the door.",
+          "right": "Open the door.",
+          "explanation": "To kullanılmaz."
+        },
+        {
+          "wrong": "No run.",
+          "right": "Don’t run.",
+          "explanation": "Olumsuzda Don’t kullanılır."
+        },
+        {
+          "wrong": "Don’t to run.",
+          "right": "Don’t run.",
+          "explanation": "Don’t’tan sonra to yok."
+        },
+        {
+          "wrong": "Don’t late.",
+          "right": "Don’t be late.",
+          "explanation": "Sıfatın önünde be gerekir."
+        },
+        {
+          "wrong": "Let’s going.",
+          "right": "Let’s go.",
+          "explanation": "Let’s’ten sonra yalın fiil."
+        },
+        {
+          "wrong": "Let’s to go.",
+          "right": "Let’s go.",
+          "explanation": "To kullanılmaz."
+        },
+        {
+          "wrong": "Quiet!",
+          "right": "Be quiet!",
+          "explanation": "Sıfatla emirde be gerekir (kısa çağrılar hariç)."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Simple olumsuzu",
+          "body": "Emirde Don’t kullanılır; özne yok. Present Simple’da I don’t, he doesn’t gibi özneyle kullanılır.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Can ile rica",
+          "body": "Can you open the window? ricayı soru biçimiyle yapar; Open the window, please. ise emir biçimidir.",
+          "lessonId": "a1-can"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Emirde özne yazılmaz; fiil yalın halde başlar.",
+        "Olumsuz emir: Don’t + yalın fiil. Don’t be + sıfat.",
+        "Nazik olmak için please ekle; cümle başında ya da sonunda olabilir.",
+        "Let’s ile birlikte yapılacak bir öneri yapılır; Let’s not ile olumsuz öneri.",
+        "Kaba görünmemek için emirde please ve tonlamaya dikkat et."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-imperatives-01",
+        "q-imperatives-02",
+        "q-imperatives-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-imperatives-01",
+      "en": "Open the door.",
+      "tr": "Kapıyı aç.",
+      "highlight": "Open",
+      "note": "Emir: yalın fiil"
+    },
+    {
+      "id": "ex-imperatives-02",
+      "en": "Sit down.",
+      "tr": "Otur.",
+      "highlight": "Sit down"
+    },
+    {
+      "id": "ex-imperatives-03",
+      "en": "Listen to the teacher.",
+      "tr": "Öğretmeni dinle.",
+      "highlight": "Listen"
+    },
+    {
+      "id": "ex-imperatives-04",
+      "en": "Close your book.",
+      "tr": "Kitabını kapat.",
+      "highlight": "Close"
+    },
+    {
+      "id": "ex-imperatives-05",
+      "en": "Come here.",
+      "tr": "Buraya gel.",
+      "highlight": "Come here"
+    },
+    {
+      "id": "ex-imperatives-06",
+      "en": "Be quiet.",
+      "tr": "Sessiz ol.",
+      "highlight": "Be quiet",
+      "note": "Be fiilinde: Be"
+    },
+    {
+      "id": "ex-imperatives-07",
+      "en": "Be careful.",
+      "tr": "Dikkatli ol.",
+      "highlight": "Be careful"
+    },
+    {
+      "id": "ex-imperatives-08",
+      "en": "Open the window, please.",
+      "tr": "Lütfen pencereyi aç.",
+      "highlight": "please",
+      "note": "Nazik: please"
+    },
+    {
+      "id": "ex-imperatives-09",
+      "en": "Please sit down.",
+      "tr": "Lütfen otur.",
+      "highlight": "Please sit"
+    },
+    {
+      "id": "ex-imperatives-10",
+      "en": "Help me, please.",
+      "tr": "Lütfen bana yardım et.",
+      "highlight": "Help me"
+    },
+    {
+      "id": "ex-imperatives-11",
+      "en": "Don't open the door.",
+      "tr": "Kapıyı açma.",
+      "highlight": "Don't open",
+      "note": "Olumsuz: Don't + yalın fiil"
+    },
+    {
+      "id": "ex-imperatives-12",
+      "en": "Don't run.",
+      "tr": "Koşma.",
+      "highlight": "Don't run"
+    },
+    {
+      "id": "ex-imperatives-13",
+      "en": "Don't be late.",
+      "tr": "Geç kalma.",
+      "highlight": "Don't be late",
+      "note": "Don't be …"
+    },
+    {
+      "id": "ex-imperatives-14",
+      "en": "Don't touch it.",
+      "tr": "Ona dokunma.",
+      "highlight": "Don't touch"
+    },
+    {
+      "id": "ex-imperatives-15",
+      "en": "Don't forget your keys.",
+      "tr": "Anahtarlarını unutma.",
+      "highlight": "Don't forget"
+    },
+    {
+      "id": "ex-imperatives-16",
+      "en": "Please don't talk.",
+      "tr": "Lütfen konuşma.",
+      "highlight": "Please don't"
+    },
+    {
+      "id": "ex-imperatives-17",
+      "en": "Let's go.",
+      "tr": "Hadi gidelim.",
+      "highlight": "Let's go",
+      "note": "Öneri: Let's + yalın fiil"
+    },
+    {
+      "id": "ex-imperatives-18",
+      "en": "Let's eat lunch.",
+      "tr": "Hadi öğle yemeği yiyelim.",
+      "highlight": "Let's eat"
+    },
+    {
+      "id": "ex-imperatives-19",
+      "en": "Let's not be late.",
+      "tr": "Geç kalmayalım.",
+      "highlight": "Let's not",
+      "note": "Olumsuz öneri: Let's not"
+    },
+    {
+      "id": "ex-imperatives-20",
+      "en": "Turn left at the corner.",
+      "tr": "Köşeden sola dön.",
+      "highlight": "Turn left",
+      "note": "Yol tarifi"
+    },
+    {
+      "id": "ex-imperatives-21",
+      "en": "Go straight.",
+      "tr": "Dümdüz git.",
+      "highlight": "Go straight"
+    },
+    {
+      "id": "ex-imperatives-22",
+      "en": "Stop here.",
+      "tr": "Burada dur.",
+      "highlight": "Stop"
+    },
+    {
+      "id": "ex-imperatives-23",
+      "en": "Take a bus to the city.",
+      "tr": "Şehre otobüse bin.",
+      "highlight": "Take"
+    },
+    {
+      "id": "ex-imperatives-24",
+      "en": "Add two eggs and mix.",
+      "tr": "İki yumurta ekle ve karıştır.",
+      "highlight": "Add two eggs",
+      "note": "Tarif"
+    },
+    {
+      "id": "ex-imperatives-25",
+      "en": "Wash your hands.",
+      "tr": "Ellerini yıka.",
+      "highlight": "Wash"
+    },
+    {
+      "id": "ex-imperatives-26",
+      "en": "Look at the board.",
+      "tr": "Tahtaya bak.",
+      "highlight": "Look at"
+    },
+    {
+      "id": "ex-imperatives-27",
+      "en": "Wait for me.",
+      "tr": "Beni bekle.",
+      "highlight": "Wait"
+    },
+    {
+      "id": "ex-imperatives-28",
+      "en": "Call me tomorrow.",
+      "tr": "Yarın beni ara.",
+      "highlight": "Call"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-imperatives-01",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğru emir cümlesidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You open the door."
+        },
+        {
+          "id": "b",
+          "text": "Open the door."
+        },
+        {
+          "id": "c",
+          "text": "Opens the door."
+        },
+        {
+          "id": "d",
+          "text": "To open the door."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Emir yalın fiille başlar; özne yok.",
+      "optionExplanations": {
+        "a": "Özne yazılmaz.",
+        "c": "-s yok.",
+        "d": "To yok."
+      },
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-02",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ the door. (aç)",
+      "answers": [
+        "Open"
+      ],
+      "explanation": "Emir: yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Opens",
+          "explanation": "Emirde -s yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-03",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Lütfen otur.",
+      "answer": [
+        "Please",
+        "sit",
+        "down"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "You",
+        "sits"
+      ],
+      "explanation": "Yalın fiil",
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-imperatives-04",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You open the door.",
+      "errorSpan": "You open",
+      "answers": [
+        "Open the door."
+      ],
+      "explanation": "Emirde özne yazılmaz.",
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-05",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kapıyı aç.",
+      "hint": "kapı: door",
+      "answers": [
+        "Open the door."
+      ],
+      "targetStructure": "yalın fiil",
+      "explanation": "Emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You open the door.",
+          "explanation": "Özne yazılmaz."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-06",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi olumsuz emirdir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Don't run."
+        },
+        {
+          "id": "b",
+          "text": "Run."
+        },
+        {
+          "id": "c",
+          "text": "Let's run."
+        },
+        {
+          "id": "d",
+          "text": "Please run."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz emir: Don't + fiil.",
+      "optionExplanations": {
+        "b": "Olumlu.",
+        "c": "Öneri.",
+        "d": "Nazik olumlu."
+      },
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-07",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Koşma.” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Don't run."
+        },
+        {
+          "id": "b",
+          "text": "No run."
+        },
+        {
+          "id": "c",
+          "text": "Not run."
+        },
+        {
+          "id": "d",
+          "text": "Don't to run."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Don't + yalın fiil.",
+      "optionExplanations": {
+        "b": "No run biçimi yok.",
+        "c": "Not tek başına olmaz.",
+        "d": "To yok."
+      },
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-08",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Geç kalma.” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Don't late."
+        },
+        {
+          "id": "b",
+          "text": "Don't be late."
+        },
+        {
+          "id": "c",
+          "text": "Not be late."
+        },
+        {
+          "id": "d",
+          "text": "Don't being late."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Don't be + sıfat.",
+      "optionExplanations": {
+        "a": "Be eksik.",
+        "c": "Not be biçimi yok.",
+        "d": "Being kullanılmaz."
+      },
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-09",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ run. (koşma)",
+      "answers": [
+        "Don't"
+      ],
+      "explanation": "Olumsuz emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "No",
+          "explanation": "Don't kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-10",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ quiet. (sessiz ol)",
+      "answers": [
+        "Be"
+      ],
+      "explanation": "Be quiet.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is",
+          "explanation": "Emirde be yalın halde."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-11",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Don't ___ late. (geç kalma)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "Don't be late.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Don't'tan sonra yalın fiil."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-12",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ go. (hadi gidelim)",
+      "answers": [
+        "Let's"
+      ],
+      "explanation": "Öneri: Let's.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Lets",
+          "explanation": "Kesme işareti gerekir: Let's."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-13",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Let's going."
+        },
+        {
+          "id": "b",
+          "text": "Let's go."
+        },
+        {
+          "id": "c",
+          "text": "Let's to go."
+        },
+        {
+          "id": "d",
+          "text": "Let's goes."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Let's + yalın fiil.",
+      "optionExplanations": {
+        "a": "Yalın fiil gerekir.",
+        "c": "To yok.",
+        "d": "-s yok."
+      },
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-14",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Don't touches it."
+        },
+        {
+          "id": "b",
+          "text": "Don't touch it."
+        },
+        {
+          "id": "c",
+          "text": "Don't to touch it."
+        },
+        {
+          "id": "d",
+          "text": "No touch it."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Don't + yalın fiil.",
+      "optionExplanations": {
+        "a": "-s yok.",
+        "c": "To yok.",
+        "d": "Don't kullanılır."
+      },
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-15",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Nazik bir rica için hangisi uygundur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Open the window, please."
+        },
+        {
+          "id": "b",
+          "text": "Open the window!"
+        },
+        {
+          "id": "c",
+          "text": "You open the window."
+        },
+        {
+          "id": "d",
+          "text": "Opens the window."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Please nazik olur.",
+      "optionExplanations": {
+        "b": "Daha sert.",
+        "c": "Özne yazılmaz.",
+        "d": "-s yok."
+      },
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-16",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Geç kalmayalım.” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Let's not be late."
+        },
+        {
+          "id": "b",
+          "text": "Don't let's be late."
+        },
+        {
+          "id": "c",
+          "text": "Let's don't be late."
+        },
+        {
+          "id": "d",
+          "text": "Not let's be late."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz öneri: Let's not.",
+      "optionExplanations": {
+        "b": "Doğru yapı Let's not.",
+        "c": "Let's don't kullanılmaz.",
+        "d": "Sözcük sırası bozuk."
+      },
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-17",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Dikkatli ol.” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Careful."
+        },
+        {
+          "id": "b",
+          "text": "Be careful."
+        },
+        {
+          "id": "c",
+          "text": "Is careful."
+        },
+        {
+          "id": "d",
+          "text": "Being careful."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be + sıfat.",
+      "optionExplanations": {
+        "a": "Be eksik.",
+        "c": "Emirde is yok.",
+        "d": "Being yok."
+      },
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-18",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ to the teacher. (öğretmeni dinle)",
+      "answers": [
+        "Listen"
+      ],
+      "explanation": "Listen to …",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Listens",
+          "explanation": "-s yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-imperatives-19",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Turn ___ at the corner. (sola)",
+      "answers": [
+        "left"
+      ],
+      "explanation": "Sola dön: turn left.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "right",
+          "explanation": "Sağ değil sol isteniyor."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-20",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ straight. (dümdüz git)",
+      "answers": [
+        "Go"
+      ],
+      "explanation": "Go straight.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Goes",
+          "explanation": "-s yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-21",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Please ___ talk. (konuşma)",
+      "answers": [
+        "don't"
+      ],
+      "explanation": "Please don't + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "no",
+          "explanation": "Don't kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-22",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Let's ___ lunch. (yiyelim)",
+      "answers": [
+        "eat",
+        "have"
+      ],
+      "explanation": "Let's + yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "eating",
+          "explanation": "Yalın fiil."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-23",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Don't ___ your keys. (unutma)",
+      "answers": [
+        "forget"
+      ],
+      "explanation": "Don't + yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "forgets",
+          "explanation": "-s yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-24",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Look ___ the board. (tahtaya)",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Look at …",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to",
+          "explanation": "Look at kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-imperatives-25",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Opens the door.",
+      "errorSpan": "Opens",
+      "answers": [
+        "Open the door."
+      ],
+      "explanation": "Emirde -s yok.",
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-26",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "No run.",
+      "errorSpan": "No run",
+      "answers": [
+        "Don't run."
+      ],
+      "explanation": "Olumsuzda Don't.",
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-27",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Don't late.",
+      "errorSpan": "Don't late",
+      "answers": [
+        "Don't be late."
+      ],
+      "explanation": "Be eksik.",
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-28",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Let's going.",
+      "errorSpan": "going",
+      "answers": [
+        "Let's go."
+      ],
+      "explanation": "Let's + yalın fiil.",
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-29",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Don't to touch it.",
+      "errorSpan": "to touch",
+      "answers": [
+        "Don't touch it."
+      ],
+      "explanation": "To kullanılmaz.",
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-30",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Lütfen koşma.",
+      "answer": [
+        "Please",
+        "don't",
+        "run"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "No",
+        "runs"
+      ],
+      "explanation": "Please don't + fiil",
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-31",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geç kalma.",
+      "answer": [
+        "Don't",
+        "be",
+        "late"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "being"
+      ],
+      "explanation": "Don't be + sıfat",
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-32",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hadi öğle yemeği yiyelim.",
+      "answer": [
+        "Let's",
+        "eat",
+        "lunch"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "eats",
+        "to"
+      ],
+      "explanation": "Let's + fiil",
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-33",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Lütfen pencereyi aç.",
+      "answer": [
+        "Please",
+        "open",
+        "the",
+        "window"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "opens",
+        "you"
+      ],
+      "explanation": "Please + fiil",
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-imperatives-34",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Koşma.",
+      "hint": "koşmak: run",
+      "answers": [
+        "Don't run."
+      ],
+      "targetStructure": "Don't + fiil",
+      "explanation": "Olumsuz emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "No run.",
+          "explanation": "Don't kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-35",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hadi gidelim.",
+      "hint": "gitmek: go",
+      "answers": [
+        "Let's go."
+      ],
+      "targetStructure": "Let's + fiil",
+      "explanation": "Öneri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Let's to go.",
+          "explanation": "To yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-36",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sessiz ol.",
+      "hint": "sessiz: quiet",
+      "answers": [
+        "Be quiet."
+      ],
+      "targetStructure": "Be + sıfat",
+      "explanation": "Emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Quiet be.",
+          "explanation": "Sıra bozuk."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-imperatives-37",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Yol tarifinde hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Go straight and turn left."
+        },
+        {
+          "id": "b",
+          "text": "You go straight and turn left."
+        },
+        {
+          "id": "c",
+          "text": "Goes straight and turns left."
+        },
+        {
+          "id": "d",
+          "text": "To go straight and to turn left."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yalın fiil + and + yalın fiil.",
+      "optionExplanations": {
+        "b": "Özne yazılmaz.",
+        "c": "-s yok.",
+        "d": "To yok."
+      },
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-38",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi öneri cümlesidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Let's go to the park."
+        },
+        {
+          "id": "b",
+          "text": "Go to the park."
+        },
+        {
+          "id": "c",
+          "text": "Don't go to the park."
+        },
+        {
+          "id": "d",
+          "text": "You go to the park."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Let's öneridir.",
+      "optionExplanations": {
+        "b": "Emirdir.",
+        "c": "Olumsuz emir.",
+        "d": "Özne var."
+      },
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-39",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi uyarı cümlesidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Be careful!"
+        },
+        {
+          "id": "b",
+          "text": "Let's eat."
+        },
+        {
+          "id": "c",
+          "text": "Sit down."
+        },
+        {
+          "id": "d",
+          "text": "Open the book."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be careful uyarıdır.",
+      "optionExplanations": {
+        "b": "Öneri.",
+        "c": "Emir.",
+        "d": "Talimat."
+      },
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-40",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Add two eggs ___ mix.",
+      "answers": [
+        "and"
+      ],
+      "explanation": "İki talimat and ile bağlanır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "but",
+          "explanation": "Zıtlık yok."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-imperatives-41",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Take a bus ___ the city.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "To: yön.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Yön için to."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "uses"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-imperatives-42",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Lütfen konuşma.",
+      "hint": "konuşmak: talk",
+      "answers": [
+        "Please don't talk.",
+        "Don't talk, please."
+      ],
+      "targetStructure": "Please don't + fiil",
+      "explanation": "Nazik olumsuz emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Please no talk.",
+          "explanation": "Don't kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-43",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geç kalmayalım.",
+      "hint": "geç kalmak: be late",
+      "answers": [
+        "Let's not be late."
+      ],
+      "targetStructure": "Let's not + fiil",
+      "explanation": "Olumsuz öneri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Let's don't be late.",
+          "explanation": "Let's not kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "lets"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-imperatives-44",
+      "lessonId": "a1-imperatives",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anahtarlarını unutma.",
+      "hint": "anahtar: key",
+      "answers": [
+        "Don't forget your keys."
+      ],
+      "targetStructure": "Don't + fiil",
+      "explanation": "Olumsuz emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "No forget your keys.",
+          "explanation": "Don't kullanılır."
+        }
+      ],
+      "tags": [
+        "imperatives",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-imperatives",
+    "title": "Imperatives: Konu sonu sınavı",
+    "description": "Emir cümleleri, Don’t ve Let’s.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-imperatives-exam-01",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi doğru emirdir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Close your book."
+          },
+          {
+            "id": "b",
+            "text": "You close your book."
+          },
+          {
+            "id": "c",
+            "text": "Closes your book."
+          },
+          {
+            "id": "d",
+            "text": "To close your book."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yalın fiil.",
+        "optionExplanations": {
+          "b": "Özne yok.",
+          "c": "-s yok.",
+          "d": "To yok."
+        },
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-02",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "___ here. (buraya gel)",
+        "answers": [
+          "Come"
+        ],
+        "explanation": "Yalın fiil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Comes",
+            "explanation": "-s yok."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-03",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ellerini yıka.",
+        "answer": [
+          "Wash",
+          "your",
+          "hands"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "washes",
+          "you"
+        ],
+        "explanation": "Yalın fiil",
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-04",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "You sit down.",
+        "errorSpan": "You sit",
+        "answers": [
+          "Sit down."
+        ],
+        "explanation": "Özne yazılmaz.",
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-05",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Tahtaya bak.",
+        "hint": "bakmak: look at",
+        "answers": [
+          "Look at the board."
+        ],
+        "targetStructure": "Look at",
+        "explanation": "Emir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Look the board.",
+            "explanation": "At gerekir."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-06",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "“Dokunma.” hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Don't touch."
+          },
+          {
+            "id": "b",
+            "text": "No touch."
+          },
+          {
+            "id": "c",
+            "text": "Not touch."
+          },
+          {
+            "id": "d",
+            "text": "Don't touches."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Don't + fiil.",
+        "optionExplanations": {
+          "b": "Don't kullanılır.",
+          "c": "Not tek başına olmaz.",
+          "d": "-s yok."
+        },
+        "tags": [
+          "imperatives",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-07",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Don't ___ late.",
+        "answers": [
+          "be"
+        ],
+        "explanation": "Don't be late.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Yalın fiil."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "negative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-08",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Beni bekle.",
+        "answer": [
+          "Wait",
+          "for",
+          "me"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "to",
+          "waits"
+        ],
+        "explanation": "Wait for",
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-09",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Quiet be.",
+        "errorSpan": "Quiet be",
+        "answers": [
+          "Be quiet."
+        ],
+        "explanation": "Sıra: Be + sıfat.",
+        "tags": [
+          "imperatives",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-10",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hadi öğle yemeği yiyelim.",
+        "hint": "yemek yemek: eat, lunch",
+        "answers": [
+          "Let's eat lunch."
+        ],
+        "targetStructure": "Let's + fiil",
+        "explanation": "Öneri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Let's eating lunch.",
+            "explanation": "Yalın fiil."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "lets"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-11",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Let's go."
+          },
+          {
+            "id": "b",
+            "text": "Let's going."
+          },
+          {
+            "id": "c",
+            "text": "Let's to go."
+          },
+          {
+            "id": "d",
+            "text": "Let's goes."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Let's + fiil.",
+        "optionExplanations": {
+          "b": "Yalın fiil.",
+          "c": "To yok.",
+          "d": "-s yok."
+        },
+        "tags": [
+          "imperatives",
+          "lets"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-12",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Let's ___ be late. (geç kalmayalım)",
+        "answers": [
+          "not"
+        ],
+        "explanation": "Let's not.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't",
+            "explanation": "Let's not kullanılır."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "lets"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-13",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Don't to run.",
+        "errorSpan": "to run",
+        "answers": [
+          "Don't run."
+        ],
+        "explanation": "To yok.",
+        "tags": [
+          "imperatives",
+          "negative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-14",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi tarif cümlesidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Add two eggs and mix."
+          },
+          {
+            "id": "b",
+            "text": "She adds two eggs."
+          },
+          {
+            "id": "c",
+            "text": "I add two eggs."
+          },
+          {
+            "id": "d",
+            "text": "Eggs are good."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Tarif: yalın fiiller.",
+        "optionExplanations": {
+          "b": "Üçüncü tekil.",
+          "c": "Özne var.",
+          "d": "Tarif değil."
+        },
+        "tags": [
+          "imperatives",
+          "uses"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-15",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Please ___ shout. (bağırma)",
+        "answers": [
+          "don't"
+        ],
+        "explanation": "Please don't.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "no",
+            "explanation": "Don't kullanılır."
+          }
+        ],
+        "tags": [
+          "imperatives",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-imperatives-exam-16",
+        "lessonId": "a1-imperatives",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Köşeden sola dön.",
+        "answer": [
+          "Turn",
+          "left",
+          "at",
+          "the",
+          "corner"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "turns",
+          "right"
+        ],
+        "explanation": "Turn left",
+        "tags": [
+          "imperatives",
+          "uses"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
