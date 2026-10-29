@@ -1,0 +1,2192 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-quantifiers",
+  "levelId": "b1",
+  "title": "Quantifiers: Both, Either, Neither, All",
+  "objectives": [
+    "Both, either ve neither ile iki şey hakkında konuşmak",
+    "All, most, some, none gibi miktar sözcüklerini doğru kullanmak",
+    "Neither ve either ile fiil uyumunu kurmak",
+    "Of ile ve of olmadan kullanım farkını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Miktar ve seçim belirleyicileri",
+      "paragraphs": [
+        "Both, either ve neither iki kişi ya da iki şey hakkında konuşurken kullanılır: both (ikisi de), either (ikisinden biri), neither (ikisi de değil). Üç ya da daha fazla şey için all, any, none kullanılır.",
+        "Miktar sözcükleri isimden önce gelir (both books) ya da of ile zamirlerle birlikte kullanılır (both of them). Fiil uyumuna dikkat edilmelidir: neither tekil, both çoğul fiil alır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Both: ikisi de",
+      "paragraphs": [
+        "Both iki şeyi birlikte anlatır, çoğul fiil alır. Both … and … ile iki ögeyi bağlayabilirsin."
+      ],
+      "formulas": [
+        {
+          "label": "İsimle",
+          "pattern": "both + çoğul isim",
+          "exampleIds": [
+            "ex-b1-quantifiers-01",
+            "ex-b1-quantifiers-02"
+          ]
+        },
+        {
+          "label": "Of ile",
+          "pattern": "both of + the / my / them",
+          "exampleIds": [
+            "ex-b1-quantifiers-03",
+            "ex-b1-quantifiers-04"
+          ]
+        },
+        {
+          "label": "Bağlaç",
+          "pattern": "both … and …",
+          "exampleIds": [
+            "ex-b1-quantifiers-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Either: ikisinden biri",
+      "paragraphs": [
+        "Either iki şeyden hangisinin olursa olsun fark etmediğini anlatır. Tekil isim ve tekil fiil alır. Olumsuzda “ikisi de değil” anlamı için either kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "İsimle",
+          "pattern": "either + tekil isim",
+          "exampleIds": [
+            "ex-b1-quantifiers-06",
+            "ex-b1-quantifiers-07"
+          ]
+        },
+        {
+          "label": "Of ile",
+          "pattern": "either of + the / my / them",
+          "exampleIds": [
+            "ex-b1-quantifiers-08"
+          ]
+        },
+        {
+          "label": "Bağlaç",
+          "pattern": "either … or …",
+          "exampleIds": [
+            "ex-b1-quantifiers-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Neither: ikisi de değil",
+      "paragraphs": [
+        "Neither olumsuz anlam taşır ama fiil olumlu yazılır. Tekil fiil alır. Çift olumsuzluk yapılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "İsimle",
+          "pattern": "neither + tekil isim + olumlu fiil",
+          "exampleIds": [
+            "ex-b1-quantifiers-10",
+            "ex-b1-quantifiers-11"
+          ]
+        },
+        {
+          "label": "Of ile",
+          "pattern": "neither of + the / my / them",
+          "exampleIds": [
+            "ex-b1-quantifiers-12"
+          ]
+        },
+        {
+          "label": "Bağlaç",
+          "pattern": "neither … nor …",
+          "exampleIds": [
+            "ex-b1-quantifiers-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "All, most, some, none",
+      "paragraphs": [
+        "Üç ya da daha fazla şey için all (hepsi), most (çoğu), some (bazı), none (hiçbiri) kullanılır. Of the / my / them ile ya da doğrudan isimle gelir."
+      ],
+      "formulas": [
+        {
+          "label": "All",
+          "pattern": "all + çoğul isim / all of + the",
+          "exampleIds": [
+            "ex-b1-quantifiers-14",
+            "ex-b1-quantifiers-15"
+          ]
+        },
+        {
+          "label": "Most",
+          "pattern": "most + çoğul isim / most of + the",
+          "exampleIds": [
+            "ex-b1-quantifiers-16",
+            "ex-b1-quantifiers-17"
+          ]
+        },
+        {
+          "label": "None",
+          "pattern": "none of + the / them",
+          "exampleIds": [
+            "ex-b1-quantifiers-18",
+            "ex-b1-quantifiers-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Every ve each",
+      "paragraphs": [
+        "Every ve each tekil isim alır. Every bütün bir grubu, each tek tek herkesi vurgular. Every + isim tekil fiil alır."
+      ],
+      "formulas": [
+        {
+          "label": "Every",
+          "pattern": "every + tekil isim + tekil fiil",
+          "exampleIds": [
+            "ex-b1-quantifiers-20",
+            "ex-b1-quantifiers-21"
+          ]
+        },
+        {
+          "label": "Each",
+          "pattern": "each + tekil isim / each of + çoğul",
+          "exampleIds": [
+            "ex-b1-quantifiers-22",
+            "ex-b1-quantifiers-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Fiil uyumu ve zamirler",
+      "paragraphs": [
+        "Both of them are …, neither of them is …, none of them are / is …. Neither of + çoğul isim sonrasında tekil fiil ya da çoğul fiil kullanılabilir, resmî yazıda tekil tercih edilir."
+      ],
+      "formulas": [
+        {
+          "label": "Both",
+          "pattern": "both of them are",
+          "exampleIds": [
+            "ex-b1-quantifiers-24"
+          ]
+        },
+        {
+          "label": "Neither",
+          "pattern": "neither of them is / are",
+          "exampleIds": [
+            "ex-b1-quantifiers-25"
+          ]
+        },
+        {
+          "label": "Zamir",
+          "pattern": "Both of us, all of you",
+          "exampleIds": [
+            "ex-b1-quantifiers-26",
+            "ex-b1-quantifiers-27",
+            "ex-b1-quantifiers-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-b1-quantifiers-01",
+        "ex-b1-quantifiers-02",
+        "ex-b1-quantifiers-03",
+        "ex-b1-quantifiers-04",
+        "ex-b1-quantifiers-05",
+        "ex-b1-quantifiers-06",
+        "ex-b1-quantifiers-07",
+        "ex-b1-quantifiers-08",
+        "ex-b1-quantifiers-09",
+        "ex-b1-quantifiers-10",
+        "ex-b1-quantifiers-11",
+        "ex-b1-quantifiers-12",
+        "ex-b1-quantifiers-13",
+        "ex-b1-quantifiers-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-b1-quantifiers-15",
+        "ex-b1-quantifiers-16",
+        "ex-b1-quantifiers-17",
+        "ex-b1-quantifiers-18",
+        "ex-b1-quantifiers-19",
+        "ex-b1-quantifiers-20",
+        "ex-b1-quantifiers-21",
+        "ex-b1-quantifiers-22",
+        "ex-b1-quantifiers-23",
+        "ex-b1-quantifiers-24",
+        "ex-b1-quantifiers-25",
+        "ex-b1-quantifiers-26",
+        "ex-b1-quantifiers-27",
+        "ex-b1-quantifiers-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "Both of them is here.",
+          "right": "Both of them are here.",
+          "explanation": "Both çoğul fiil alır."
+        },
+        {
+          "wrong": "Neither of them are here.",
+          "right": "Neither of them is here.",
+          "explanation": "Neither tekil fiil ile tercih edilir."
+        },
+        {
+          "wrong": "I don't like neither of them.",
+          "right": "I don't like either of them.",
+          "explanation": "Çift olumsuzluk yapılmaz."
+        },
+        {
+          "wrong": "Every students has a book.",
+          "right": "Every student has a book.",
+          "explanation": "Every tekil isim alır."
+        },
+        {
+          "wrong": "All of student passed.",
+          "right": "All of the students passed.",
+          "explanation": "All of + belirli çoğul isim."
+        },
+        {
+          "wrong": "Most of people like music.",
+          "right": "Most people like music.",
+          "explanation": "Genel kullanımda of yok."
+        },
+        {
+          "wrong": "He is neither smart or kind.",
+          "right": "He is neither smart nor kind.",
+          "explanation": "Neither … nor."
+        },
+        {
+          "wrong": "Either of them are correct.",
+          "right": "Either of them is correct.",
+          "explanation": "Either tekil fiil."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "A2 Quantifiers",
+          "body": "Much / many / a lot of kullanımını hatırla.",
+          "lessonId": "a2-quantifiers"
+        },
+        {
+          "topic": "Articles",
+          "body": "Quantifier'dan önce the gelirse of eklenir.",
+          "lessonId": "b1-articles-advanced"
+        },
+        {
+          "topic": "Some / any",
+          "body": "Some ve any'nin temelini hatırla.",
+          "lessonId": "a1-countable-some-any"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Both, either, neither iki şey için; all, none üç ve üzeri için.",
+        "Both çoğul, either / neither tekil fiil alır.",
+        "Neither zaten olumsuz; yanında olumsuz fiil kullanma.",
+        "Every ve each tekil isim ve tekil fiil alır.",
+        "Zamirlerle of gerekir: both of them, all of us."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-b1-quantifiers-01",
+        "q-b1-quantifiers-13",
+        "q-b1-quantifiers-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-b1-quantifiers-01",
+      "en": "Both books are interesting.",
+      "tr": "İki kitap da ilginç.",
+      "highlight": "Both books"
+    },
+    {
+      "id": "ex-b1-quantifiers-02",
+      "en": "Both my parents work.",
+      "tr": "Annem de babam da çalışır.",
+      "highlight": "Both my parents"
+    },
+    {
+      "id": "ex-b1-quantifiers-03",
+      "en": "Both of the students passed.",
+      "tr": "İki öğrenci de geçti.",
+      "highlight": "Both of the students"
+    },
+    {
+      "id": "ex-b1-quantifiers-04",
+      "en": "I like both of them.",
+      "tr": "İkisini de severim.",
+      "highlight": "both of them"
+    },
+    {
+      "id": "ex-b1-quantifiers-05",
+      "en": "She is both smart and kind.",
+      "tr": "Hem zeki hem nazik.",
+      "highlight": "both smart and kind"
+    },
+    {
+      "id": "ex-b1-quantifiers-06",
+      "en": "You can take either bus.",
+      "tr": "İki otobüsten birini alabilirsin.",
+      "highlight": "either bus"
+    },
+    {
+      "id": "ex-b1-quantifiers-07",
+      "en": "Either answer is correct.",
+      "tr": "İki cevaptan biri doğru.",
+      "highlight": "Either answer"
+    },
+    {
+      "id": "ex-b1-quantifiers-08",
+      "en": "I don't like either of the films.",
+      "tr": "İki filmden de hoşlanmıyorum.",
+      "highlight": "either of the films"
+    },
+    {
+      "id": "ex-b1-quantifiers-09",
+      "en": "You can have either tea or coffee.",
+      "tr": "Ya çay ya kahve alabilirsin.",
+      "highlight": "either tea or coffee"
+    },
+    {
+      "id": "ex-b1-quantifiers-10",
+      "en": "Neither team won.",
+      "tr": "İki takım da kazanamadı.",
+      "highlight": "Neither team"
+    },
+    {
+      "id": "ex-b1-quantifiers-11",
+      "en": "Neither answer is correct.",
+      "tr": "İki cevap da doğru değil.",
+      "highlight": "Neither answer"
+    },
+    {
+      "id": "ex-b1-quantifiers-12",
+      "en": "Neither of my brothers lives here.",
+      "tr": "Kardeşlerimin hiçbiri burada yaşamıyor.",
+      "highlight": "Neither of my brothers"
+    },
+    {
+      "id": "ex-b1-quantifiers-13",
+      "en": "He speaks neither French nor German.",
+      "tr": "Ne Fransızca ne Almanca konuşuyor.",
+      "highlight": "neither French nor German"
+    },
+    {
+      "id": "ex-b1-quantifiers-14",
+      "en": "All students must wear a uniform.",
+      "tr": "Tüm öğrenciler üniforma giymek zorunda.",
+      "highlight": "All students"
+    },
+    {
+      "id": "ex-b1-quantifiers-15",
+      "en": "All of the guests arrived late.",
+      "tr": "Misafirlerin hepsi geç geldi.",
+      "highlight": "All of the guests"
+    },
+    {
+      "id": "ex-b1-quantifiers-16",
+      "en": "Most people like chocolate.",
+      "tr": "Çoğu insan çikolatayı sever.",
+      "highlight": "Most people"
+    },
+    {
+      "id": "ex-b1-quantifiers-17",
+      "en": "Most of the students passed.",
+      "tr": "Öğrencilerin çoğu geçti.",
+      "highlight": "Most of the students"
+    },
+    {
+      "id": "ex-b1-quantifiers-18",
+      "en": "None of my friends know.",
+      "tr": "Arkadaşlarımın hiçbiri bilmiyor.",
+      "highlight": "None of my friends"
+    },
+    {
+      "id": "ex-b1-quantifiers-19",
+      "en": "None of them came.",
+      "tr": "Hiçbiri gelmedi.",
+      "highlight": "None of them"
+    },
+    {
+      "id": "ex-b1-quantifiers-20",
+      "en": "Every student has a book.",
+      "tr": "Her öğrencinin bir kitabı var.",
+      "highlight": "Every student"
+    },
+    {
+      "id": "ex-b1-quantifiers-21",
+      "en": "Every day is different.",
+      "tr": "Her gün farklıdır.",
+      "highlight": "Every day"
+    },
+    {
+      "id": "ex-b1-quantifiers-22",
+      "en": "Each student has a different task.",
+      "tr": "Her öğrencinin farklı bir görevi var.",
+      "highlight": "Each student"
+    },
+    {
+      "id": "ex-b1-quantifiers-23",
+      "en": "Each of the students has a book.",
+      "tr": "Öğrencilerin her birinin bir kitabı var.",
+      "highlight": "Each of the students"
+    },
+    {
+      "id": "ex-b1-quantifiers-24",
+      "en": "Both of them are teachers.",
+      "tr": "İkisi de öğretmen.",
+      "highlight": "Both of them"
+    },
+    {
+      "id": "ex-b1-quantifiers-25",
+      "en": "Neither of them is here.",
+      "tr": "İkisi de burada değil.",
+      "highlight": "Neither of them"
+    },
+    {
+      "id": "ex-b1-quantifiers-26",
+      "en": "Both of us were tired.",
+      "tr": "İkimiz de yorgunduk.",
+      "highlight": "Both of us"
+    },
+    {
+      "id": "ex-b1-quantifiers-27",
+      "en": "All of you are welcome.",
+      "tr": "Hepiniz hoş geldiniz.",
+      "highlight": "All of you"
+    },
+    {
+      "id": "ex-b1-quantifiers-28",
+      "en": "We all went to the beach.",
+      "tr": "Hepimiz sahile gittik.",
+      "highlight": "We all"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-b1-quantifiers-01",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ my parents are doctors.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Either"
+        },
+        {
+          "id": "b",
+          "text": "Both"
+        },
+        {
+          "id": "c",
+          "text": "Neither"
+        },
+        {
+          "id": "d",
+          "text": "Every"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İki kişi, çoğul: both.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-02",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ of the answers is correct. (hiçbiri)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both"
+        },
+        {
+          "id": "b",
+          "text": "All"
+        },
+        {
+          "id": "c",
+          "text": "Neither"
+        },
+        {
+          "id": "d",
+          "text": "Every"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "İkisi de değil: neither.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-03",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You can pick ___ colour. I like both.",
+      "options": [
+        {
+          "id": "a",
+          "text": "both"
+        },
+        {
+          "id": "b",
+          "text": "neither"
+        },
+        {
+          "id": "c",
+          "text": "all"
+        },
+        {
+          "id": "d",
+          "text": "either"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "İkisinden biri: either.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-04",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ student in the class passed the test.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every"
+        },
+        {
+          "id": "b",
+          "text": "Both"
+        },
+        {
+          "id": "c",
+          "text": "All"
+        },
+        {
+          "id": "d",
+          "text": "Neither"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Every + tekil isim.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-05",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ of the guests arrived on time. (hepsi)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both"
+        },
+        {
+          "id": "b",
+          "text": "All"
+        },
+        {
+          "id": "c",
+          "text": "Neither"
+        },
+        {
+          "id": "d",
+          "text": "Either"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Hepsi: all.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-06",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He speaks ___ French nor German.",
+      "options": [
+        {
+          "id": "a",
+          "text": "either"
+        },
+        {
+          "id": "b",
+          "text": "both"
+        },
+        {
+          "id": "c",
+          "text": "neither"
+        },
+        {
+          "id": "d",
+          "text": "all"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Neither … nor.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-07",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I can't see ___ of them.",
+      "options": [
+        {
+          "id": "a",
+          "text": "neither"
+        },
+        {
+          "id": "b",
+          "text": "both"
+        },
+        {
+          "id": "c",
+          "text": "every"
+        },
+        {
+          "id": "d",
+          "text": "either"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Olumsuzda either.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-08",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ of my friends know the answer. (hiçbiri)",
+      "options": [
+        {
+          "id": "a",
+          "text": "None"
+        },
+        {
+          "id": "b",
+          "text": "Every"
+        },
+        {
+          "id": "c",
+          "text": "Each"
+        },
+        {
+          "id": "d",
+          "text": "Both"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hiçbiri: none of.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-09",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ people enjoy music. (çoğu)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every"
+        },
+        {
+          "id": "b",
+          "text": "Most"
+        },
+        {
+          "id": "c",
+          "text": "Each"
+        },
+        {
+          "id": "d",
+          "text": "Neither"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Çoğu: most.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-10",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Neither of the girls ___ here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Neither: tekil fiil.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-11",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Both my sisters ___ in Berlin.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lives"
+        },
+        {
+          "id": "b",
+          "text": "is living"
+        },
+        {
+          "id": "c",
+          "text": "has lived"
+        },
+        {
+          "id": "d",
+          "text": "live"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Both: çoğul fiil.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-12",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ student has his own locker.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Each"
+        },
+        {
+          "id": "b",
+          "text": "Both"
+        },
+        {
+          "id": "c",
+          "text": "All"
+        },
+        {
+          "id": "d",
+          "text": "Most"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Each + tekil isim.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-13",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I like ___ of them. (ikisini de)",
+      "answers": [
+        "both"
+      ],
+      "explanation": "İkisi de: both of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "all",
+          "explanation": "İki şey için both."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-14",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ team won the match. (ikisi de kazanamadı)",
+      "answers": [
+        "Neither"
+      ],
+      "explanation": "Neither + tekil isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Both",
+          "explanation": "Anlam çelişir."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-15",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You can take ___ bus. They both go there. (either)",
+      "answers": [
+        "either"
+      ],
+      "explanation": "Fark etmez: either.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-16",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is ___ clever and funny. (both)",
+      "answers": [
+        "both"
+      ],
+      "explanation": "both … and.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "either",
+          "explanation": "Both … and."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-17",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ of my classmates is absent. (none)",
+      "answers": [
+        "None"
+      ],
+      "explanation": "None of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Every",
+          "explanation": "None of."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-18",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She wants ___ tea or coffee. (either)",
+      "answers": [
+        "either"
+      ],
+      "explanation": "either … or.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-19",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ of the students passed. (çoğu)",
+      "answers": [
+        "Most"
+      ],
+      "explanation": "Most of.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-20",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Every day ___ different. (is)",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Every + tekil fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Tekil fiil."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-21",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Neither of them ___ here. (is)",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Neither of + tekil fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Tekil fiil tercih edilir."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-22",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ went home. (all)",
+      "answers": [
+        "all"
+      ],
+      "explanation": "We all.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "every",
+          "explanation": "We all."
+        }
+      ],
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-23",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İki kitap da ilginç.",
+      "answer": [
+        "Both",
+        "books",
+        "are",
+        "interesting"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Either",
+        "is"
+      ],
+      "explanation": "both + çoğul",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-24",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiçbiri gelmedi.",
+      "answer": [
+        "None",
+        "of",
+        "them",
+        "came"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "No",
+        "Neither"
+      ],
+      "explanation": "none of",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-25",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Her öğrencinin bir kitabı var.",
+      "answer": [
+        "Every",
+        "student",
+        "has",
+        "a",
+        "book"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "All"
+      ],
+      "explanation": "every + tekil",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-26",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne Fransızca ne Almanca konuşuyor.",
+      "answer": [
+        "He",
+        "speaks",
+        "neither",
+        "French",
+        "nor",
+        "German"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "either",
+        "not"
+      ],
+      "explanation": "neither … nor",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-27",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Neither of them are here.",
+      "errorSpan": "are here",
+      "answers": [
+        "Neither of them is here."
+      ],
+      "explanation": "Neither tekil fiil.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-28",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Both books is interesting.",
+      "errorSpan": "books is",
+      "answers": [
+        "Both books are interesting."
+      ],
+      "explanation": "Both çoğul fiil.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-29",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Every students has a book.",
+      "errorSpan": "Every students",
+      "answers": [
+        "Every student has a book."
+      ],
+      "explanation": "Every + tekil.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-30",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't like neither of them.",
+      "errorSpan": "neither of them",
+      "answers": [
+        "I don't like either of them.",
+        "I like neither of them."
+      ],
+      "explanation": "Çift olumsuzluk olmaz.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-31",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "All of student passed.",
+      "errorSpan": "All of student",
+      "answers": [
+        "All of the students passed.",
+        "All students passed."
+      ],
+      "explanation": "All of the + çoğul.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-32",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Either of the answers are correct.",
+      "errorSpan": "are correct",
+      "answers": [
+        "Either of the answers is correct."
+      ],
+      "explanation": "Either tekil fiil.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-33",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Most of people like music.",
+      "errorSpan": "Most of people",
+      "answers": [
+        "Most people like music.",
+        "Most of the people like music."
+      ],
+      "explanation": "Most of + belirli.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-34",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İkisini de severim.",
+      "hint": "sevmek: like",
+      "answers": [
+        "I like both of them."
+      ],
+      "targetStructure": "both of them",
+      "explanation": "İkisi de.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-35",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiçbiri doğru değil.",
+      "hint": "doğru: correct",
+      "answers": [
+        "None of them are correct.",
+        "None of them is correct.",
+        "None is correct.",
+        "None are correct."
+      ],
+      "targetStructure": "none",
+      "explanation": "Hiçbiri.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-36",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Her öğrenci bir kitap alır.",
+      "hint": "almak: get",
+      "answers": [
+        "Every student gets a book.",
+        "Each student gets a book."
+      ],
+      "targetStructure": "every / each",
+      "explanation": "Tekil isim.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-37",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İki öğrenci de geçti.",
+      "hint": "geçmek: pass",
+      "answers": [
+        "Both students passed.",
+        "Both of the students passed.",
+        "Both the students passed."
+      ],
+      "targetStructure": "both",
+      "explanation": "İkisi de.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-38",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Öğrencilerin çoğu geçti.",
+      "hint": "çoğu: most",
+      "answers": [
+        "Most of the students passed.",
+        "Most students passed."
+      ],
+      "targetStructure": "most",
+      "explanation": "Çoğu.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-39",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İki cevap da doğru değil.",
+      "hint": "doğru: correct",
+      "answers": [
+        "Neither answer is correct.",
+        "Neither of the answers is correct."
+      ],
+      "targetStructure": "neither",
+      "explanation": "İkisi de değil.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-40",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hepimiz yorgunduk.",
+      "hint": "yorgun: tired",
+      "answers": [
+        "We were all tired.",
+        "All of us were tired."
+      ],
+      "targetStructure": "all",
+      "explanation": "Hepimiz.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-b1-quantifiers-41",
+      "lessonId": "b1-quantifiers",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ya çay ya kahve alabilirsin.",
+      "hint": "alabilmek: can have",
+      "answers": [
+        "You can have either tea or coffee."
+      ],
+      "targetStructure": "either … or",
+      "explanation": "Seçim.",
+      "tags": [
+        "b1-quantifiers",
+        "rule"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "negation"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-b1-quantifiers",
+    "title": "Quantifiers: Both, Either, Neither, All: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-b1-quantifiers-exam-01",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ of my brothers are married. (ikisi de)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Either"
+          },
+          {
+            "id": "b",
+            "text": "Neither"
+          },
+          {
+            "id": "c",
+            "text": "Both"
+          },
+          {
+            "id": "d",
+            "text": "Every"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "İkisi de: both.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-02",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ answers are wrong. (ikisi de)",
+        "options": [
+          {
+            "id": "a",
+            "text": "Neither"
+          },
+          {
+            "id": "b",
+            "text": "Every"
+          },
+          {
+            "id": "c",
+            "text": "Each"
+          },
+          {
+            "id": "d",
+            "text": "Both"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Both + çoğul isim.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-03",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I know ___ of them. (hiçbirini)",
+        "options": [
+          {
+            "id": "a",
+            "text": "neither"
+          },
+          {
+            "id": "b",
+            "text": "none"
+          },
+          {
+            "id": "c",
+            "text": "all"
+          },
+          {
+            "id": "d",
+            "text": "every"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Neither of them.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-04",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ child gets a gift.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Both"
+          },
+          {
+            "id": "b",
+            "text": "Each"
+          },
+          {
+            "id": "c",
+            "text": "All"
+          },
+          {
+            "id": "d",
+            "text": "Most"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Each + tekil isim.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-05",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I asked two friends, but ___ of them could help me. (ikisi de yapamadı)",
+        "options": [
+          {
+            "id": "a",
+            "text": "either"
+          },
+          {
+            "id": "b",
+            "text": "every"
+          },
+          {
+            "id": "c",
+            "text": "neither"
+          },
+          {
+            "id": "d",
+            "text": "each"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "İkisi de değil: neither.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-06",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She doesn't like ___ of the films. (either)",
+        "answers": [
+          "either"
+        ],
+        "explanation": "Olumsuzda either.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-07",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ people like sweets. (most)",
+        "answers": [
+          "Most"
+        ],
+        "explanation": "Most + çoğul isim.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-08",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ of the girls was late. (neither)",
+        "answers": [
+          "Neither"
+        ],
+        "explanation": "Neither tekil.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-09",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He can speak ___ English or French. (either)",
+        "answers": [
+          "either"
+        ],
+        "explanation": "either … or.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-10",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "İkimiz de çok yorgunduk.",
+        "answer": [
+          "Both",
+          "of",
+          "us",
+          "were",
+          "very",
+          "tired"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Either",
+          "is"
+        ],
+        "explanation": "both of us",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-11",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hepsi geç geldi.",
+        "answer": [
+          "All",
+          "of",
+          "them",
+          "arrived",
+          "late"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Both",
+          "Every"
+        ],
+        "explanation": "all of them",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-12",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Both of them is here.",
+        "errorSpan": "is here",
+        "answers": [
+          "Both of them are here."
+        ],
+        "explanation": "Both çoğul fiil.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-13",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I didn't see neither of them.",
+        "errorSpan": "neither of them",
+        "answers": [
+          "I didn't see either of them.",
+          "I saw neither of them."
+        ],
+        "explanation": "Çift olumsuzluk.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-14",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Each students has a pen.",
+        "errorSpan": "Each students",
+        "answers": [
+          "Each student has a pen."
+        ],
+        "explanation": "Each + tekil.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-15",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Her gün farklıdır.",
+        "hint": "farklı: different",
+        "answers": [
+          "Every day is different.",
+          "Each day is different."
+        ],
+        "targetStructure": "every / each",
+        "explanation": "Tekil.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      },
+      {
+        "id": "q-b1-quantifiers-exam-16",
+        "lessonId": "b1-quantifiers",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hiçbiri evde değildi.",
+        "hint": "evde: at home",
+        "answers": [
+          "None of them were at home.",
+          "None of them was at home.",
+          "None were at home."
+        ],
+        "targetStructure": "none of",
+        "explanation": "Hiçbiri.",
+        "tags": [
+          "b1-quantifiers",
+          "rule"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "negation"
+        ]
+      }
+    ]
+  }
+}
