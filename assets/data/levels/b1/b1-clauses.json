@@ -1,0 +1,2192 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-clauses",
+  "levelId": "b1",
+  "title": "Adjective & Adverb Clauses",
+  "objectives": [
+    "Ana cümle ile yan cümleciği ayırt etmek",
+    "Adjective (relative) clause ile bir ismi nitelemek",
+    "Zaman, sebep, koşul ve zıtlık adverb clause’larını kurmak",
+    "Yan cümlecik başında virgül kullanımını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Cümleciklerin işlevi: niteleme ve zaman / neden / koşul",
+      "paragraphs": [
+        "Cümlecik (clause), özne ve fiil içeren sözcük grubudur. Ana cümlecik tek başına anlam taşır; yan cümlecik ise ana cümleciğe bağlıdır ve tek başına tam cümle olmaz.",
+        "Yan cümlecikler iki işlev görür: Adjective clause bir ismi niteler (the man who lives next door). Adverb clause ise zaman, sebep, koşul ya da zıtlık bildirir (when I arrived, because it rained, if you hurry, although he tried)."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Ana ve yan cümlecik",
+      "paragraphs": [
+        "Ana cümlecik tek başına tamamdır. Yan cümlecik bir bağlaçla (when, because, who, if) başlar ve tek başına bırakılırsa eksik kalır."
+      ],
+      "formulas": [
+        {
+          "label": "Ana",
+          "pattern": "I stayed at home.",
+          "exampleIds": [
+            "ex-clauses-01"
+          ]
+        },
+        {
+          "label": "Yan",
+          "pattern": "because it was raining",
+          "exampleIds": [
+            "ex-clauses-02"
+          ]
+        },
+        {
+          "label": "Birlikte",
+          "pattern": "I stayed at home because it was raining.",
+          "exampleIds": [
+            "ex-clauses-03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Adjective clause",
+      "paragraphs": [
+        "Adjective clause bir ismi niteler ve who, which, that, whose, where ile başlar. İsmin hemen ardından gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Who",
+          "pattern": "isim + who + fiil",
+          "exampleIds": [
+            "ex-clauses-04",
+            "ex-clauses-05"
+          ]
+        },
+        {
+          "label": "Which",
+          "pattern": "isim + which + fiil",
+          "exampleIds": [
+            "ex-clauses-06"
+          ]
+        },
+        {
+          "label": "Where",
+          "pattern": "yer + where + cümle",
+          "exampleIds": [
+            "ex-clauses-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Zaman clause’ları",
+      "paragraphs": [
+        "When, while, before, after, as soon as, until, as, since gibi bağlaçlarla başlar. Gelecekten söz edilse bile zaman clause’ında will kullanılmaz; Present Simple kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman",
+          "pattern": "when / while / before / after + cümle",
+          "exampleIds": [
+            "ex-clauses-08",
+            "ex-clauses-09",
+            "ex-clauses-10"
+          ]
+        },
+        {
+          "label": "Gelecek",
+          "pattern": "when + Present Simple, will + V1",
+          "exampleIds": [
+            "ex-clauses-11",
+            "ex-clauses-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Neden ve sonuç clause’ları",
+      "paragraphs": [
+        "Because, since, as ile sebep verilir. So that ile amaç, so … that ile sonuç belirtilir."
+      ],
+      "formulas": [
+        {
+          "label": "Sebep",
+          "pattern": "because / since / as + cümle",
+          "exampleIds": [
+            "ex-clauses-13",
+            "ex-clauses-14"
+          ]
+        },
+        {
+          "label": "Amaç",
+          "pattern": "so that + cümle",
+          "exampleIds": [
+            "ex-clauses-15"
+          ]
+        },
+        {
+          "label": "Sonuç",
+          "pattern": "so + sıfat + that",
+          "exampleIds": [
+            "ex-clauses-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Koşul ve zıtlık clause’ları",
+      "paragraphs": [
+        "If ve unless koşul bildirir; although, even though, while zıtlık kurar."
+      ],
+      "formulas": [
+        {
+          "label": "Koşul",
+          "pattern": "if / unless + cümle",
+          "exampleIds": [
+            "ex-clauses-17",
+            "ex-clauses-18"
+          ]
+        },
+        {
+          "label": "Zıtlık",
+          "pattern": "although / even though + cümle",
+          "exampleIds": [
+            "ex-clauses-19",
+            "ex-clauses-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Virgül kuralı",
+      "paragraphs": [
+        "Adverb clause cümlenin başındaysa yan cümlecikten sonra virgül konulur. Sondaysa virgül gerekmez."
+      ],
+      "formulas": [
+        {
+          "label": "Başta",
+          "pattern": "When I arrived, she left.",
+          "exampleIds": [
+            "ex-clauses-21",
+            "ex-clauses-22"
+          ]
+        },
+        {
+          "label": "Sonda",
+          "pattern": "She left when I arrived.",
+          "exampleIds": [
+            "ex-clauses-23",
+            "ex-clauses-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-7",
+      "type": "rule",
+      "title": "Bağlaç ve zamir tekrarı",
+      "paragraphs": [
+        "Yan cümlecikte hem bağlaç hem aynı özne zamiri gereksiz tekrarlanmaz. Cümlecik içinde özne bir kez söylenir."
+      ],
+      "formulas": [
+        {
+          "label": "Doğru",
+          "pattern": "The man who lives next door",
+          "exampleIds": [
+            "ex-clauses-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-clauses-01",
+        "ex-clauses-02",
+        "ex-clauses-03",
+        "ex-clauses-04",
+        "ex-clauses-05",
+        "ex-clauses-06",
+        "ex-clauses-07",
+        "ex-clauses-08",
+        "ex-clauses-09",
+        "ex-clauses-10",
+        "ex-clauses-11",
+        "ex-clauses-12",
+        "ex-clauses-13",
+        "ex-clauses-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-clauses-15",
+        "ex-clauses-16",
+        "ex-clauses-17",
+        "ex-clauses-18",
+        "ex-clauses-19",
+        "ex-clauses-20",
+        "ex-clauses-21",
+        "ex-clauses-22",
+        "ex-clauses-23",
+        "ex-clauses-24",
+        "ex-clauses-25",
+        "ex-clauses-26",
+        "ex-clauses-27",
+        "ex-clauses-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "The man who he lives next door is a doctor.",
+          "right": "The man who lives next door is a doctor.",
+          "explanation": "Özne zamiri tekrarlanmaz."
+        },
+        {
+          "wrong": "When I will arrive, I'll call you.",
+          "right": "When I arrive, I'll call you.",
+          "explanation": "Zaman clause'ında will kullanılmaz."
+        },
+        {
+          "wrong": "If it will rain, we'll stay home.",
+          "right": "If it rains, we'll stay home.",
+          "explanation": "If clause'ında will yok."
+        },
+        {
+          "wrong": "Although he was tired, but he worked.",
+          "right": "Although he was tired, he worked.",
+          "explanation": "Although ile but birlikte kullanılmaz."
+        },
+        {
+          "wrong": "Because it was raining we stayed home.",
+          "right": "Because it was raining, we stayed home.",
+          "explanation": "Başta clause'dan sonra virgül."
+        },
+        {
+          "wrong": "I'll wait while you come back.",
+          "right": "I'll wait until you come back.",
+          "explanation": "…e kadar için until."
+        },
+        {
+          "wrong": "I know a girl which speaks four languages.",
+          "right": "I know a girl who speaks four languages.",
+          "explanation": "İnsan için who."
+        },
+        {
+          "wrong": "She left because of I arrived.",
+          "right": "She left when I arrived.",
+          "explanation": "Because of isim ister."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Defining relative clauses",
+          "body": "Adjective clause'ların ayrıntılarını gör.",
+          "lessonId": "b1-defining-relative"
+        },
+        {
+          "topic": "Non-defining clauses",
+          "body": "Virgüllü ek bilgi cümlecikleri.",
+          "lessonId": "b1-non-defining-relative"
+        },
+        {
+          "topic": "Linking words",
+          "body": "Zıtlık ve sonuç bağlaçları.",
+          "lessonId": "b1-linking-words"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yan cümlecik tek başına tam cümle değildir.",
+        "Adjective clause ismi, adverb clause fiili niteler.",
+        "When / if / until / after clause'larında gelecek için Present Simple.",
+        "Başta adverb clause'dan sonra virgül gerekir.",
+        "Bağlaç ile but / so birlikte kullanma (although … but ✗)."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-clauses-01",
+        "q-clauses-13",
+        "q-clauses-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-clauses-01",
+      "en": "I stayed at home.",
+      "tr": "Evde kaldım.",
+      "highlight": "I stayed at home"
+    },
+    {
+      "id": "ex-clauses-02",
+      "en": "because it was raining",
+      "tr": "çünkü yağmur yağıyordu",
+      "highlight": "because it was raining"
+    },
+    {
+      "id": "ex-clauses-03",
+      "en": "I stayed at home because it was raining.",
+      "tr": "Yağmur yağdığı için evde kaldım.",
+      "highlight": "because it was raining"
+    },
+    {
+      "id": "ex-clauses-04",
+      "en": "The man who lives next door is a doctor.",
+      "tr": "Yan kapıda yaşayan adam doktor.",
+      "highlight": "who lives next door"
+    },
+    {
+      "id": "ex-clauses-05",
+      "en": "I know a girl who speaks four languages.",
+      "tr": "Dört dil konuşan bir kız tanıyorum.",
+      "highlight": "who speaks four languages"
+    },
+    {
+      "id": "ex-clauses-06",
+      "en": "This is the book which changed my life.",
+      "tr": "Hayatımı değiştiren kitap bu.",
+      "highlight": "which changed my life"
+    },
+    {
+      "id": "ex-clauses-07",
+      "en": "That is the school where I studied.",
+      "tr": "Orası okuduğum okul.",
+      "highlight": "where I studied"
+    },
+    {
+      "id": "ex-clauses-08",
+      "en": "When I arrived, she was cooking.",
+      "tr": "Ben geldiğimde yemek yapıyordu.",
+      "highlight": "When I arrived"
+    },
+    {
+      "id": "ex-clauses-09",
+      "en": "She was reading while I was cooking.",
+      "tr": "Ben yemek yaparken o okuyordu.",
+      "highlight": "while I was cooking"
+    },
+    {
+      "id": "ex-clauses-10",
+      "en": "Call me before you leave.",
+      "tr": "Çıkmadan önce beni ara.",
+      "highlight": "before you leave"
+    },
+    {
+      "id": "ex-clauses-11",
+      "en": "I will call you when I arrive.",
+      "tr": "Vardığımda seni arayacağım.",
+      "highlight": "when I arrive"
+    },
+    {
+      "id": "ex-clauses-12",
+      "en": "As soon as she comes, we will start.",
+      "tr": "O gelir gelmez başlayacağız.",
+      "highlight": "As soon as she comes"
+    },
+    {
+      "id": "ex-clauses-13",
+      "en": "I didn't go out because I was tired.",
+      "tr": "Yorgun olduğum için dışarı çıkmadım.",
+      "highlight": "because I was tired"
+    },
+    {
+      "id": "ex-clauses-14",
+      "en": "Since it was cold, we stayed inside.",
+      "tr": "Hava soğuk olduğu için içeride kaldık.",
+      "highlight": "Since it was cold"
+    },
+    {
+      "id": "ex-clauses-15",
+      "en": "I spoke slowly so that she could understand.",
+      "tr": "Anlasın diye yavaş konuştum.",
+      "highlight": "so that she could understand"
+    },
+    {
+      "id": "ex-clauses-16",
+      "en": "It was so cold that we stayed in.",
+      "tr": "O kadar soğuktu ki içeride kaldık.",
+      "highlight": "so cold that"
+    },
+    {
+      "id": "ex-clauses-17",
+      "en": "If it rains, we will stay home.",
+      "tr": "Yağmur yağarsa evde kalırız.",
+      "highlight": "If it rains"
+    },
+    {
+      "id": "ex-clauses-18",
+      "en": "Unless you hurry, you'll miss the bus.",
+      "tr": "Acele etmezsen otobüsü kaçırırsın.",
+      "highlight": "Unless you hurry"
+    },
+    {
+      "id": "ex-clauses-19",
+      "en": "Although he was tired, he kept working.",
+      "tr": "Yorgun olmasına rağmen çalışmaya devam etti.",
+      "highlight": "Although he was tired"
+    },
+    {
+      "id": "ex-clauses-20",
+      "en": "Even though it was late, we stayed.",
+      "tr": "Geç olmasına rağmen kaldık.",
+      "highlight": "Even though it was late"
+    },
+    {
+      "id": "ex-clauses-21",
+      "en": "When I arrived, she left.",
+      "tr": "Ben geldiğimde o ayrıldı.",
+      "highlight": "When I arrived"
+    },
+    {
+      "id": "ex-clauses-22",
+      "en": "If you need help, call me.",
+      "tr": "Yardıma ihtiyacın olursa beni ara.",
+      "highlight": "If you need help"
+    },
+    {
+      "id": "ex-clauses-23",
+      "en": "She left when I arrived.",
+      "tr": "Ben geldiğimde ayrıldı.",
+      "highlight": "when I arrived"
+    },
+    {
+      "id": "ex-clauses-24",
+      "en": "Call me if you need help.",
+      "tr": "Yardıma ihtiyacın olursa beni ara.",
+      "highlight": "if you need help"
+    },
+    {
+      "id": "ex-clauses-25",
+      "en": "The people who work here are friendly.",
+      "tr": "Burada çalışan insanlar cana yakın.",
+      "highlight": "who work here"
+    },
+    {
+      "id": "ex-clauses-26",
+      "en": "She stays at home when it rains.",
+      "tr": "Yağmur yağınca evde kalır.",
+      "highlight": "when it rains"
+    },
+    {
+      "id": "ex-clauses-27",
+      "en": "After she finished school, she moved to London.",
+      "tr": "Okulu bitirdikten sonra Londra'ya taşındı.",
+      "highlight": "After she finished school"
+    },
+    {
+      "id": "ex-clauses-28",
+      "en": "I'll wait until you come back.",
+      "tr": "Sen dönene kadar bekleyeceğim.",
+      "highlight": "until you come back"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-clauses-01",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which part is a main clause? 'I stayed home because it rained.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "because it rained"
+        },
+        {
+          "id": "b",
+          "text": "I stayed home"
+        },
+        {
+          "id": "c",
+          "text": "it rained"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ana cümlecik tek başına tamamdır.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-02",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which part is a subordinate clause? 'She left when I arrived.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She left"
+        },
+        {
+          "id": "b",
+          "text": "She"
+        },
+        {
+          "id": "c",
+          "text": "when I arrived"
+        },
+        {
+          "id": "d",
+          "text": "left when"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yan cümlecik bağlaçla başlar.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-03",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The woman ___ lives upstairs is a nurse.",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "although"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Adjective clause: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-04",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'll call you ___ I get home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zaman clause: when.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-05",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We stayed inside ___ it was cold.",
+      "options": [
+        {
+          "id": "a",
+          "text": "although"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "unless"
+        },
+        {
+          "id": "d",
+          "text": "while"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sebep: because.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-06",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you hurry, you'll miss the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Although"
+        },
+        {
+          "id": "b",
+          "text": "Because"
+        },
+        {
+          "id": "c",
+          "text": "Unless"
+        },
+        {
+          "id": "d",
+          "text": "While"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Koşul: unless.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-07",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He kept going ___ he was tired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "unless"
+        },
+        {
+          "id": "c",
+          "text": "so that"
+        },
+        {
+          "id": "d",
+          "text": "although"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Zıtlık: although.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-08",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'll call you when I ___ home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "will get"
+        },
+        {
+          "id": "c",
+          "text": "am getting"
+        },
+        {
+          "id": "d",
+          "text": "got"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zaman clause'ında will yok.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-09",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She spoke slowly ___ we could understand.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because of"
+        },
+        {
+          "id": "b",
+          "text": "so that"
+        },
+        {
+          "id": "c",
+          "text": "although"
+        },
+        {
+          "id": "d",
+          "text": "unless"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Amaç: so that.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-10",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence needs a comma?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She left when I arrived."
+        },
+        {
+          "id": "b",
+          "text": "I left because I was tired."
+        },
+        {
+          "id": "c",
+          "text": "When I arrived, she left."
+        },
+        {
+          "id": "d",
+          "text": "Call me if you need help."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Başta adverb clause: virgül.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-11",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ I was cooking, she was reading.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because"
+        },
+        {
+          "id": "b",
+          "text": "Unless"
+        },
+        {
+          "id": "c",
+          "text": "Although"
+        },
+        {
+          "id": "d",
+          "text": "While"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Eş zamanlılık: while.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-12",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The book ___ I read was great.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "when"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adjective clause: which.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-13",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I'll wait ___ you come back. (until)",
+      "answers": [
+        "until"
+      ],
+      "explanation": "Zaman clause: until.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "unless",
+          "explanation": "Until: …e kadar."
+        }
+      ],
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-14",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ she finished school, she moved. (after)",
+      "answers": [
+        "After"
+      ],
+      "explanation": "Zaman clause: after.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-15",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She was reading ___ I was cooking. (while)",
+      "answers": [
+        "while"
+      ],
+      "explanation": "While: …iken.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-16",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I stayed home ___ I was ill. (because)",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Sebep: because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "although",
+          "explanation": "Zıtlık."
+        }
+      ],
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-17",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ it rains, we will stay home. (if)",
+      "answers": [
+        "If"
+      ],
+      "explanation": "Koşul: if.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-18",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is a man ___ car is red. (whose)",
+      "answers": [
+        "whose"
+      ],
+      "explanation": "Adjective clause: whose.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-19",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "That is the place ___ we met. (where)",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Adjective clause: where.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-20",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'll call you as soon as I ___ . (arrive)",
+      "answers": [
+        "arrive"
+      ],
+      "explanation": "Zaman clause'ında Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will arrive",
+          "explanation": "Zaman clause'ında will yok."
+        }
+      ],
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-21",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ it was late, we stayed. (although)",
+      "answers": [
+        "Although"
+      ],
+      "explanation": "Zıtlık: although.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-22",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She left ___ I arrived. (when)",
+      "answers": [
+        "when"
+      ],
+      "explanation": "Zaman: when.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-23",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben geldiğimde yemek yapıyordu.",
+      "answer": [
+        "When",
+        "I",
+        "arrived,",
+        "she",
+        "was",
+        "cooking"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Who",
+        "Because"
+      ],
+      "explanation": "başta adverb clause",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-24",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yan kapıda yaşayan adam doktor.",
+      "answer": [
+        "The",
+        "man",
+        "who",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "when",
+        "because"
+      ],
+      "explanation": "adjective clause",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-25",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur yağarsa evde kalırız.",
+      "answer": [
+        "If",
+        "it",
+        "rains,",
+        "we",
+        "will",
+        "stay",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Unless",
+        "when"
+      ],
+      "explanation": "koşul",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-26",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hava soğuk olduğu için içeride kaldık.",
+      "answer": [
+        "We",
+        "stayed",
+        "inside",
+        "because",
+        "it",
+        "was",
+        "cold"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "although",
+        "unless"
+      ],
+      "explanation": "sebep",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-27",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man who he lives next door is a doctor.",
+      "errorSpan": "who he lives",
+      "answers": [
+        "The man who lives next door is a doctor."
+      ],
+      "explanation": "Özne zamiri tekrarlanmaz.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-28",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When I will arrive, I'll call you.",
+      "errorSpan": "will arrive",
+      "answers": [
+        "When I arrive, I'll call you."
+      ],
+      "explanation": "Zaman clause'ında will yok.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-29",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Although he was tired, but he kept working.",
+      "errorSpan": "but he kept",
+      "answers": [
+        "Although he was tired, he kept working."
+      ],
+      "explanation": "Although ile but kullanılmaz.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-30",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it will rain, we will stay home.",
+      "errorSpan": "will rain",
+      "answers": [
+        "If it rains, we will stay home."
+      ],
+      "explanation": "If clause'ında will yok.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-31",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Because it was raining we stayed home.",
+      "errorSpan": "raining we",
+      "answers": [
+        "Because it was raining, we stayed home."
+      ],
+      "explanation": "Başta yan cümlecikten sonra virgül.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-32",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'll wait while you come back.",
+      "errorSpan": "while you",
+      "answers": [
+        "I'll wait until you come back."
+      ],
+      "explanation": "…e kadar: until.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-33",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She left because of I arrived.",
+      "errorSpan": "because of I",
+      "answers": [
+        "She left when I arrived.",
+        "She left because I arrived."
+      ],
+      "explanation": "Because of isim ister; cümle için because / when.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-34",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben geldiğimde yemek yapıyordu.",
+      "hint": "yemek yapmak: cook",
+      "answers": [
+        "When I arrived, she was cooking.",
+        "She was cooking when I arrived."
+      ],
+      "targetStructure": "when",
+      "explanation": "Zaman clause.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-35",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Vardığımda seni arayacağım.",
+      "hint": "varmak: arrive",
+      "answers": [
+        "I will call you when I arrive.",
+        "I'll call you when I arrive.",
+        "When I arrive, I will call you.",
+        "When I arrive, I'll call you."
+      ],
+      "targetStructure": "when + Present Simple",
+      "explanation": "Gelecek zaman clause.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-36",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağarsa evde kalırız.",
+      "hint": "yağmak: rain",
+      "answers": [
+        "If it rains, we will stay home.",
+        "If it rains, we'll stay home.",
+        "We will stay home if it rains.",
+        "We'll stay home if it rains."
+      ],
+      "targetStructure": "if",
+      "explanation": "Koşul.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-37",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgun olmasına rağmen çalışmaya devam etti.",
+      "hint": "devam etmek: keep",
+      "answers": [
+        "Although he was tired, he kept working.",
+        "Although she was tired, she kept working.",
+        "He kept working although he was tired.",
+        "She kept working although she was tired."
+      ],
+      "targetStructure": "although",
+      "explanation": "Zıtlık.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-38",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hayatımı değiştiren kitap bu.",
+      "hint": "değiştirmek: change",
+      "answers": [
+        "This is the book that changed my life.",
+        "This is the book which changed my life."
+      ],
+      "targetStructure": "which / that",
+      "explanation": "Adjective clause.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-39",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anlasın diye yavaş konuştum.",
+      "hint": "anlamak: understand",
+      "answers": [
+        "I spoke slowly so that she could understand.",
+        "I spoke slowly so that he could understand."
+      ],
+      "targetStructure": "so that",
+      "explanation": "Amaç.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-40",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sen dönene kadar bekleyeceğim.",
+      "hint": "beklemek: wait",
+      "answers": [
+        "I will wait until you come back.",
+        "I'll wait until you come back."
+      ],
+      "targetStructure": "until",
+      "explanation": "Zaman clause.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-clauses-41",
+      "lessonId": "b1-clauses",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Okulu bitirdikten sonra Londra'ya taşındı.",
+      "hint": "taşınmak: move",
+      "answers": [
+        "After she finished school, she moved to London.",
+        "After he finished school, he moved to London.",
+        "She moved to London after she finished school.",
+        "He moved to London after he finished school."
+      ],
+      "targetStructure": "after",
+      "explanation": "Zaman clause.",
+      "tags": [
+        "clauses",
+        "rule"
+      ],
+      "errorTags": [
+        "word_order",
+        "time_expression"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-clauses",
+    "title": "Adjective & Adverb Clauses: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-clauses-exam-01",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Which is a subordinate clause? 'He left because he was ill.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "He left"
+          },
+          {
+            "id": "b",
+            "text": "He"
+          },
+          {
+            "id": "c",
+            "text": "because he was ill"
+          },
+          {
+            "id": "d",
+            "text": "left because"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Yan cümlecik.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-02",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The people ___ work here are kind.",
+        "options": [
+          {
+            "id": "a",
+            "text": "when"
+          },
+          {
+            "id": "b",
+            "text": "because"
+          },
+          {
+            "id": "c",
+            "text": "unless"
+          },
+          {
+            "id": "d",
+            "text": "who"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Adjective clause.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-03",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I'll text you ___ I arrive.",
+        "options": [
+          {
+            "id": "a",
+            "text": "when"
+          },
+          {
+            "id": "b",
+            "text": "who"
+          },
+          {
+            "id": "c",
+            "text": "which"
+          },
+          {
+            "id": "d",
+            "text": "whose"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zaman clause: when.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-04",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ it rains tomorrow, we'll cancel the picnic.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Although"
+          },
+          {
+            "id": "b",
+            "text": "If"
+          },
+          {
+            "id": "c",
+            "text": "While"
+          },
+          {
+            "id": "d",
+            "text": "Because"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Koşul: if.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-05",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He passed ___ he didn't study. (zıtlık)",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "unless"
+          },
+          {
+            "id": "c",
+            "text": "although"
+          },
+          {
+            "id": "d",
+            "text": "so that"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Zıtlık: although.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-06",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I will call you after I ___ lunch. (finish)",
+        "answers": [
+          "finish"
+        ],
+        "explanation": "Zaman clause'ında Present Simple.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will finish",
+            "explanation": "Zaman clause'ında will yok."
+          }
+        ],
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-07",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She stayed ___ she was ill. (because)",
+        "answers": [
+          "because"
+        ],
+        "explanation": "Sebep: because.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-08",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "That is the man ___ wallet was stolen. (whose)",
+        "answers": [
+          "whose"
+        ],
+        "explanation": "Adjective clause: whose.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-09",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Wait here ___ I come back. (until)",
+        "answers": [
+          "until"
+        ],
+        "explanation": "Zaman clause: until.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-10",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çıkmadan önce beni ara.",
+        "answer": [
+          "Call",
+          "me",
+          "before",
+          "you",
+          "leave"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "when",
+          "unless"
+        ],
+        "explanation": "before",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-11",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Acele etmezsen kaçırırsın.",
+        "answer": [
+          "Unless",
+          "you",
+          "hurry,",
+          "you",
+          "will",
+          "miss",
+          "it"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "If",
+          "when"
+        ],
+        "explanation": "unless",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-12",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "When I will see him, I'll tell him.",
+        "errorSpan": "will see",
+        "answers": [
+          "When I see him, I'll tell him."
+        ],
+        "explanation": "Zaman clause'ında will yok.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-13",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The girl who she is my friend is here.",
+        "errorSpan": "who she is",
+        "answers": [
+          "The girl who is my friend is here."
+        ],
+        "explanation": "Özne zamiri tekrarlanmaz.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-14",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If you need help call me.",
+        "errorSpan": "help call",
+        "answers": [
+          "If you need help, call me."
+        ],
+        "explanation": "Başta yan cümlecikten sonra virgül.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-15",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yorgun olduğu için erken yattı.",
+        "hint": "yatmak: go to bed",
+        "answers": [
+          "He went to bed early because he was tired.",
+          "She went to bed early because she was tired.",
+          "Because he was tired, he went to bed early.",
+          "Because she was tired, she went to bed early."
+        ],
+        "targetStructure": "because",
+        "explanation": "Sebep.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-clauses-exam-16",
+        "lessonId": "b1-clauses",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Gelince beni ara.",
+        "hint": "aramak: call",
+        "answers": [
+          "Call me when you come.",
+          "Call me when you arrive.",
+          "Call me when you get here."
+        ],
+        "targetStructure": "when",
+        "explanation": "Zaman clause.",
+        "tags": [
+          "clauses",
+          "rule"
+        ],
+        "errorTags": [
+          "word_order",
+          "time_expression"
+        ]
+      }
+    ]
+  }
+}
