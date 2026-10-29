@@ -1,0 +1,2322 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-comparatives-basic",
+  "levelId": "a1",
+  "title": "Comparatives (Basic)",
+  "objectives": [
+    "Kısa sıfatlara -er ekleyerek karşılaştırma yapmak",
+    "Yazım kurallarını uygulamak (nicer, bigger, happier)",
+    "Uzun sıfatlarda more kullanmak",
+    "good → better ve bad → worse düzensiz biçimlerini bilmek",
+    "Than ile karşılaştırma cümleleri kurmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Karşılaştırma sıfatları",
+      "paragraphs": [
+        "İki şeyi ya da kişiyi karşılaştırmak için sıfatın karşılaştırma biçimi (comparative) kullanılır: daha uzun, daha hızlı, daha ilginç. Karşılaştırmada ikinci öğenin önüne than gelir: taller than me.",
+        "Türkçedeki “daha” sözcüğü ve -den / -dan hâl eki İngilizcede iki parçaya ayrılır: sıfatın değişen biçimi ve than."
+      ]
+    },
+    {
+      "id": "short",
+      "type": "rule",
+      "title": "Kısa sıfatlar: -er",
+      "paragraphs": [
+        "Tek heceli sıfatlara -er eklenir. Ardından than gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Kural",
+          "pattern": "sıfat + -er + than   →   tall → taller than",
+          "exampleIds": [
+            "ex-comparatives-basic-01",
+            "ex-comparatives-basic-02",
+            "ex-comparatives-basic-03",
+            "ex-comparatives-basic-04",
+            "ex-comparatives-basic-05",
+            "ex-comparatives-basic-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "Yazım kuralları",
+      "paragraphs": [
+        "Bazı sıfatlarda -er eklerken yazım değişir:"
+      ],
+      "formulas": [
+        {
+          "label": "-e ile biten",
+          "pattern": "nice → nicer,  large → larger",
+          "exampleIds": [
+            "ex-comparatives-basic-07",
+            "ex-comparatives-basic-08"
+          ]
+        },
+        {
+          "label": "Tek ünlü + tek ünsüz",
+          "pattern": "big → bigger,  hot → hotter,  fat → fatter",
+          "exampleIds": [
+            "ex-comparatives-basic-09",
+            "ex-comparatives-basic-10",
+            "ex-comparatives-basic-11"
+          ]
+        },
+        {
+          "label": "-y ile biten",
+          "pattern": "happy → happier,  easy → easier,  heavy → heavier",
+          "exampleIds": [
+            "ex-comparatives-basic-12",
+            "ex-comparatives-basic-13",
+            "ex-comparatives-basic-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "long",
+      "type": "rule",
+      "title": "Uzun sıfatlar: more",
+      "paragraphs": [
+        "İki ya da daha fazla heceli sıfatların çoğunda -er eklenmez; sıfatın önüne more gelir. Ardından than gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Kural",
+          "pattern": "more + sıfat + than   →   more interesting than",
+          "exampleIds": [
+            "ex-comparatives-basic-15",
+            "ex-comparatives-basic-16",
+            "ex-comparatives-basic-17",
+            "ex-comparatives-basic-18",
+            "ex-comparatives-basic-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irregular",
+      "type": "rule",
+      "title": "Düzensiz biçimler",
+      "paragraphs": [
+        "İki sık kullanılan sıfat düzensizdir:"
+      ],
+      "formulas": [
+        {
+          "label": "good",
+          "pattern": "good → better",
+          "exampleIds": [
+            "ex-comparatives-basic-20",
+            "ex-comparatives-basic-22"
+          ]
+        },
+        {
+          "label": "bad",
+          "pattern": "bad → worse",
+          "exampleIds": [
+            "ex-comparatives-basic-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "type": "rule",
+      "title": "Soru ve olumsuz",
+      "paragraphs": [
+        "Karşılaştırmalar soru ve olumsuz cümlelerde de aynı biçimi korur; yalnızca be fiili değişir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Is / Are + özne + karşılaştırma + than …?",
+          "exampleIds": [
+            "ex-comparatives-basic-23",
+            "ex-comparatives-basic-24"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + isn’t / aren’t + karşılaştırma + than",
+          "exampleIds": [
+            "ex-comparatives-basic-25"
+          ]
+        },
+        {
+          "label": "Seçmeli soru",
+          "pattern": "Who is taller, A or B?",
+          "exampleIds": [
+            "ex-comparatives-basic-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: -er",
+      "exampleIds": [
+        "ex-comparatives-basic-01",
+        "ex-comparatives-basic-02",
+        "ex-comparatives-basic-03",
+        "ex-comparatives-basic-04",
+        "ex-comparatives-basic-05",
+        "ex-comparatives-basic-06",
+        "ex-comparatives-basic-27",
+        "ex-comparatives-basic-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: yazım kuralları",
+      "exampleIds": [
+        "ex-comparatives-basic-07",
+        "ex-comparatives-basic-08",
+        "ex-comparatives-basic-09",
+        "ex-comparatives-basic-10",
+        "ex-comparatives-basic-11",
+        "ex-comparatives-basic-12",
+        "ex-comparatives-basic-13",
+        "ex-comparatives-basic-14"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: more, düzensiz, soru",
+      "exampleIds": [
+        "ex-comparatives-basic-15",
+        "ex-comparatives-basic-16",
+        "ex-comparatives-basic-17",
+        "ex-comparatives-basic-18",
+        "ex-comparatives-basic-19",
+        "ex-comparatives-basic-20",
+        "ex-comparatives-basic-21",
+        "ex-comparatives-basic-22",
+        "ex-comparatives-basic-23",
+        "ex-comparatives-basic-24",
+        "ex-comparatives-basic-25",
+        "ex-comparatives-basic-26"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He is more tall than me.",
+          "right": "He is taller than me.",
+          "explanation": "Kısa sıfatta -er."
+        },
+        {
+          "wrong": "This book is interestinger than that one.",
+          "right": "This book is more interesting than that one.",
+          "explanation": "Uzun sıfatta more."
+        },
+        {
+          "wrong": "He is taller that me.",
+          "right": "He is taller than me.",
+          "explanation": "Than kullanılır."
+        },
+        {
+          "wrong": "He is more taller than me.",
+          "right": "He is taller than me.",
+          "explanation": "More ve -er birlikte kullanılmaz."
+        },
+        {
+          "wrong": "This phone is more good than that one.",
+          "right": "This phone is better than that one.",
+          "explanation": "Good → better."
+        },
+        {
+          "wrong": "Today is more bad than yesterday.",
+          "right": "Today is worse than yesterday.",
+          "explanation": "Bad → worse."
+        },
+        {
+          "wrong": "He is biger than me.",
+          "right": "He is bigger than me.",
+          "explanation": "Ünsüz ikizlenir."
+        },
+        {
+          "wrong": "She is happyer than before.",
+          "right": "She is happier than before.",
+          "explanation": "-y → -ier."
+        },
+        {
+          "wrong": "She is taller from me.",
+          "right": "She is taller than me.",
+          "explanation": "Than kullanılır; from değil."
+        },
+        {
+          "wrong": "It is more cheap than that.",
+          "right": "It is cheaper than that.",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Superlative (en … -ı)",
+          "body": "The tallest, the most interesting gibi en üstünlük biçimi A2’de işlenecek.",
+          "lessonId": "a2-comparatives-superlatives"
+        },
+        {
+          "topic": "As … as",
+          "body": "Eşitlik anlatan as tall as yapısı A2’de işlenecek.",
+          "lessonId": "a2-as-as"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Kısa sıfat → -er; uzun sıfat → more.",
+        "-er ve more aynı sıfatta birlikte kullanılmaz.",
+        "Karşılaştırmada than kullanılır; from ya da that değil.",
+        "good → better, bad → worse.",
+        "big → bigger, happy → happier, nice → nicer."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-comparatives-basic-01",
+        "q-comparatives-basic-02",
+        "q-comparatives-basic-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-comparatives-basic-01",
+      "en": "My brother is taller than me.",
+      "tr": "Kardeşim benden uzun.",
+      "highlight": "taller than",
+      "note": "Kısa sıfat + -er + than"
+    },
+    {
+      "id": "ex-comparatives-basic-02",
+      "en": "This car is faster than that car.",
+      "tr": "Bu araba şu arabadan hızlı.",
+      "highlight": "faster than"
+    },
+    {
+      "id": "ex-comparatives-basic-03",
+      "en": "Tom is older than Anna.",
+      "tr": "Tom Anna'dan yaşlı.",
+      "highlight": "older than"
+    },
+    {
+      "id": "ex-comparatives-basic-04",
+      "en": "Today is colder than yesterday.",
+      "tr": "Bugün dünden daha soğuk.",
+      "highlight": "colder than"
+    },
+    {
+      "id": "ex-comparatives-basic-05",
+      "en": "My room is smaller than your room.",
+      "tr": "Odam seninkinden küçük.",
+      "highlight": "smaller than"
+    },
+    {
+      "id": "ex-comparatives-basic-06",
+      "en": "The train is cheaper than the plane.",
+      "tr": "Tren uçaktan ucuz.",
+      "highlight": "cheaper than"
+    },
+    {
+      "id": "ex-comparatives-basic-07",
+      "en": "She is nicer than her sister.",
+      "tr": "Kız kardeşinden daha iyi biri.",
+      "highlight": "nicer than",
+      "note": "-e ile biten: sadece -r"
+    },
+    {
+      "id": "ex-comparatives-basic-08",
+      "en": "This book is larger than that one.",
+      "tr": "Bu kitap şundan daha büyük.",
+      "highlight": "larger than"
+    },
+    {
+      "id": "ex-comparatives-basic-09",
+      "en": "He is bigger than his brother.",
+      "tr": "Kardeşinden daha iri.",
+      "highlight": "bigger than",
+      "note": "Tek heceli, sessiz harf sonu: ikiz harf"
+    },
+    {
+      "id": "ex-comparatives-basic-10",
+      "en": "Today is hotter than yesterday.",
+      "tr": "Bugün dünden daha sıcak.",
+      "highlight": "hotter than"
+    },
+    {
+      "id": "ex-comparatives-basic-11",
+      "en": "I am fatter than before.",
+      "tr": "Eskisinden daha şişmanım.",
+      "highlight": "fatter than"
+    },
+    {
+      "id": "ex-comparatives-basic-12",
+      "en": "She is happier than before.",
+      "tr": "Eskisinden daha mutlu.",
+      "highlight": "happier than",
+      "note": "-y → -ier"
+    },
+    {
+      "id": "ex-comparatives-basic-13",
+      "en": "This exercise is easier than that one.",
+      "tr": "Bu alıştırma şundan daha kolay.",
+      "highlight": "easier than"
+    },
+    {
+      "id": "ex-comparatives-basic-14",
+      "en": "My bag is heavier than yours.",
+      "tr": "Çantam seninkinden daha ağır.",
+      "highlight": "heavier than"
+    },
+    {
+      "id": "ex-comparatives-basic-15",
+      "en": "This book is more interesting than that one.",
+      "tr": "Bu kitap şundan daha ilginç.",
+      "highlight": "more interesting than",
+      "note": "Uzun sıfat: more + sıfat"
+    },
+    {
+      "id": "ex-comparatives-basic-16",
+      "en": "English is more difficult than Spanish.",
+      "tr": "İngilizce İspanyolcadan daha zor.",
+      "highlight": "more difficult than"
+    },
+    {
+      "id": "ex-comparatives-basic-17",
+      "en": "This hotel is more expensive than that hotel.",
+      "tr": "Bu otel şu otelden daha pahalı.",
+      "highlight": "more expensive than"
+    },
+    {
+      "id": "ex-comparatives-basic-18",
+      "en": "The film is more beautiful than the book.",
+      "tr": "Film kitaptan daha güzel.",
+      "highlight": "more beautiful than"
+    },
+    {
+      "id": "ex-comparatives-basic-19",
+      "en": "Today's lesson is more important than yesterday's.",
+      "tr": "Bugünkü ders dünküden daha önemli.",
+      "highlight": "more important than"
+    },
+    {
+      "id": "ex-comparatives-basic-20",
+      "en": "This phone is better than that phone.",
+      "tr": "Bu telefon şu telefondan daha iyi.",
+      "highlight": "better than",
+      "note": "good → better (düzensiz)"
+    },
+    {
+      "id": "ex-comparatives-basic-21",
+      "en": "Today's weather is worse than yesterday's.",
+      "tr": "Bugünkü hava dünkünden daha kötü.",
+      "highlight": "worse than",
+      "note": "bad → worse (düzensiz)"
+    },
+    {
+      "id": "ex-comparatives-basic-22",
+      "en": "My English is better now.",
+      "tr": "İngilizcem artık daha iyi.",
+      "highlight": "better"
+    },
+    {
+      "id": "ex-comparatives-basic-23",
+      "en": "Is your house bigger than mine?",
+      "tr": "Evin benimkinden büyük mü?",
+      "highlight": "bigger than"
+    },
+    {
+      "id": "ex-comparatives-basic-24",
+      "en": "Is she older than him?",
+      "tr": "O ondan yaşlı mı?",
+      "highlight": "older than"
+    },
+    {
+      "id": "ex-comparatives-basic-25",
+      "en": "He is not taller than his father.",
+      "tr": "Babasından uzun değil.",
+      "highlight": "taller than"
+    },
+    {
+      "id": "ex-comparatives-basic-26",
+      "en": "Who is taller, Tom or Ben?",
+      "tr": "Kim daha uzun, Tom mu Ben mi?",
+      "highlight": "taller"
+    },
+    {
+      "id": "ex-comparatives-basic-27",
+      "en": "Cats are quieter than dogs.",
+      "tr": "Kediler köpeklerden daha sessizdir.",
+      "highlight": "quieter than"
+    },
+    {
+      "id": "ex-comparatives-basic-28",
+      "en": "Summer is warmer than spring.",
+      "tr": "Yaz ilkbahardan daha sıcak.",
+      "highlight": "warmer than"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-comparatives-basic-01",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is ___ than me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "tall"
+        },
+        {
+          "id": "b",
+          "text": "taller"
+        },
+        {
+          "id": "c",
+          "text": "more tall"
+        },
+        {
+          "id": "d",
+          "text": "tallest"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kısa sıfat + -er.",
+      "optionExplanations": {
+        "a": "Karşılaştırma biçimi gerekir.",
+        "c": "Kısa sıfatta more kullanılmaz.",
+        "d": "Tallest en üstünlüktür."
+      },
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-02",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This car is ___ than that car. (fast)",
+      "answers": [
+        "faster"
+      ],
+      "explanation": "Fast + -er.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more fast",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-03",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kardeşim benden uzun.",
+      "answer": [
+        "My",
+        "brother",
+        "is",
+        "taller",
+        "than",
+        "me"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "tall",
+        "that"
+      ],
+      "explanation": "sıfat-er + than",
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-04",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is more tall than me.",
+      "errorSpan": "more tall",
+      "answers": [
+        "He is taller than me."
+      ],
+      "explanation": "Kısa sıfatta -er.",
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-05",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kardeşim benden uzun.",
+      "hint": "uzun: tall",
+      "answers": [
+        "My brother is taller than me.",
+        "My brother is taller than I am."
+      ],
+      "targetStructure": "sıfat-er + than",
+      "explanation": "Karşılaştırma.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My brother is more tall than me.",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-06",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Tom is ___ than Anna. (old)",
+      "options": [
+        {
+          "id": "a",
+          "text": "older"
+        },
+        {
+          "id": "b",
+          "text": "more old"
+        },
+        {
+          "id": "c",
+          "text": "oldest"
+        },
+        {
+          "id": "d",
+          "text": "olding"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Old + -er.",
+      "optionExplanations": {
+        "b": "Kısa sıfatta -er.",
+        "c": "En üstünlük.",
+        "d": "Yok."
+      },
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-07",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Today is ___ than yesterday. (cold)",
+      "options": [
+        {
+          "id": "a",
+          "text": "colder"
+        },
+        {
+          "id": "b",
+          "text": "more cold"
+        },
+        {
+          "id": "c",
+          "text": "coldest"
+        },
+        {
+          "id": "d",
+          "text": "coldder"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Cold + -er.",
+      "optionExplanations": {
+        "b": "Kısa sıfatta -er.",
+        "c": "En üstünlük.",
+        "d": "Ünsüz ikizlenmez."
+      },
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-08",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is ___ than her sister. (nice)",
+      "options": [
+        {
+          "id": "a",
+          "text": "nicer"
+        },
+        {
+          "id": "b",
+          "text": "niceer"
+        },
+        {
+          "id": "c",
+          "text": "more nice"
+        },
+        {
+          "id": "d",
+          "text": "nicest"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "-e ile biten: sadece -r.",
+      "optionExplanations": {
+        "b": "-e ile biten sözcüğe sadece -r eklenir.",
+        "c": "Kısa sıfatta -er.",
+        "d": "En üstünlük."
+      },
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-09",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is ___ than his brother. (big)",
+      "options": [
+        {
+          "id": "a",
+          "text": "biger"
+        },
+        {
+          "id": "b",
+          "text": "bigger"
+        },
+        {
+          "id": "c",
+          "text": "more big"
+        },
+        {
+          "id": "d",
+          "text": "bigest"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tek ünlü + tek ünsüz: ikiz harf.",
+      "optionExplanations": {
+        "a": "Ünsüz ikizlenir.",
+        "c": "Kısa sıfatta -er.",
+        "d": "En üstünlük."
+      },
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-10",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is ___ than before. (happy)",
+      "answers": [
+        "happier"
+      ],
+      "explanation": "-y → -ier.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "happyer",
+          "explanation": "-y → -ier."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-11",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This phone is ___ than that phone. (good)",
+      "answers": [
+        "better"
+      ],
+      "explanation": "Good → better.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "gooder",
+          "explanation": "Good düzensizdir: better."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-12",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Today's weather is ___ than yesterday's. (bad)",
+      "answers": [
+        "worse"
+      ],
+      "explanation": "Bad → worse.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "badder",
+          "explanation": "Bad düzensizdir: worse."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-13",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "This book is ___ than that one. (interesting)",
+      "options": [
+        {
+          "id": "a",
+          "text": "more interesting"
+        },
+        {
+          "id": "b",
+          "text": "interestinger"
+        },
+        {
+          "id": "c",
+          "text": "most interesting"
+        },
+        {
+          "id": "d",
+          "text": "interesting"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Uzun sıfat: more.",
+      "optionExplanations": {
+        "b": "Uzun sıfatta -er eklenmez.",
+        "c": "En üstünlük.",
+        "d": "Karşılaştırma biçimi gerekir."
+      },
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-14",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "English is ___ than Spanish. (difficult)",
+      "options": [
+        {
+          "id": "a",
+          "text": "more difficult"
+        },
+        {
+          "id": "b",
+          "text": "difficulter"
+        },
+        {
+          "id": "c",
+          "text": "most difficult"
+        },
+        {
+          "id": "d",
+          "text": "difficult"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Uzun sıfat: more.",
+      "optionExplanations": {
+        "b": "Uzun sıfatta -er eklenmez.",
+        "c": "En üstünlük.",
+        "d": "Karşılaştırma biçimi gerekir."
+      },
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-15",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "This hotel is ___ than that hotel. (expensive)",
+      "options": [
+        {
+          "id": "a",
+          "text": "more expensive"
+        },
+        {
+          "id": "b",
+          "text": "expensiver"
+        },
+        {
+          "id": "c",
+          "text": "most expensive"
+        },
+        {
+          "id": "d",
+          "text": "expensive"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Uzun sıfat: more.",
+      "optionExplanations": {
+        "b": "Uzun sıfatta -er eklenmez.",
+        "c": "En üstünlük.",
+        "d": "Karşılaştırma biçimi gerekir."
+      },
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-16",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "My bag is ___ than yours. (heavy)",
+      "options": [
+        {
+          "id": "a",
+          "text": "heavier"
+        },
+        {
+          "id": "b",
+          "text": "heavyer"
+        },
+        {
+          "id": "c",
+          "text": "more heavy"
+        },
+        {
+          "id": "d",
+          "text": "heaviest"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "-y → -ier.",
+      "optionExplanations": {
+        "b": "-y → -ier.",
+        "c": "Kısa sıfatta -er.",
+        "d": "En üstünlük."
+      },
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-17",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Today is ___ than yesterday. (hot)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hotter"
+        },
+        {
+          "id": "b",
+          "text": "hoter"
+        },
+        {
+          "id": "c",
+          "text": "more hot"
+        },
+        {
+          "id": "d",
+          "text": "hottest"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tek ünlü + tek ünsüz: ikiz harf.",
+      "optionExplanations": {
+        "b": "Ünsüz ikizlenir.",
+        "c": "Kısa sıfatta -er.",
+        "d": "En üstünlük."
+      },
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-18",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is taller ___ me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "than"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "then"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Karşılaştırmada than.",
+      "optionExplanations": {
+        "b": "That bu anlamda kullanılmaz.",
+        "c": "From kullanılmaz.",
+        "d": "Then zaman sözcüğüdür."
+      },
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-19",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This exercise is ___ than that one. (easy)",
+      "answers": [
+        "easier"
+      ],
+      "explanation": "-y → -ier.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more easy",
+          "explanation": "Kısa sıfat: easier."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-20",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My room is ___ than your room. (small)",
+      "answers": [
+        "smaller"
+      ],
+      "explanation": "Small + -er.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more small",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-21",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The train is ___ than the plane. (cheap)",
+      "answers": [
+        "cheaper"
+      ],
+      "explanation": "Cheap + -er.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more cheap",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-22",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film is ___ beautiful than the book.",
+      "answers": [
+        "more"
+      ],
+      "explanation": "Uzun sıfat: more.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "most",
+          "explanation": "Most en üstünlüktür."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-23",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Summer is ___ than spring. (warm)",
+      "answers": [
+        "warmer"
+      ],
+      "explanation": "Warm + -er.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more warm",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-24",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I am ___ than before. (fat)",
+      "answers": [
+        "fatter"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "fater",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-25",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This book is larger ___ that one.",
+      "answers": [
+        "than"
+      ],
+      "explanation": "Karşılaştırmada than.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "that",
+          "explanation": "Than kullanılır."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-26",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Cats are ___ than dogs. (quiet)",
+      "answers": [
+        "quieter"
+      ],
+      "explanation": "Quiet + -er.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more quiet",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-27",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This book is interestinger than that one.",
+      "errorSpan": "interestinger",
+      "answers": [
+        "This book is more interesting than that one."
+      ],
+      "explanation": "Uzun sıfatta more.",
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-28",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is taller that me.",
+      "errorSpan": "that",
+      "answers": [
+        "He is taller than me."
+      ],
+      "explanation": "Than kullanılır.",
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-29",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is more taller than me.",
+      "errorSpan": "more taller",
+      "answers": [
+        "He is taller than me."
+      ],
+      "explanation": "More ve -er birlikte kullanılmaz.",
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-30",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This phone is more good than that one.",
+      "errorSpan": "more good",
+      "answers": [
+        "This phone is better than that one."
+      ],
+      "explanation": "Good → better.",
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-31",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is biger than me.",
+      "errorSpan": "biger",
+      "answers": [
+        "He is bigger than me."
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-32",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu araba şu arabadan hızlı.",
+      "answer": [
+        "This",
+        "car",
+        "is",
+        "faster",
+        "than",
+        "that",
+        "car"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "fast",
+        "more"
+      ],
+      "explanation": "sıfat-er + than",
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-33",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu kitap şundan daha ilginç.",
+      "answer": [
+        "This",
+        "book",
+        "is",
+        "more",
+        "interesting",
+        "than",
+        "that",
+        "one"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "interestinger",
+        "most"
+      ],
+      "explanation": "more + sıfat + than",
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-34",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Eskisinden daha mutlu.",
+      "answer": [
+        "She",
+        "is",
+        "happier",
+        "than",
+        "before"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "happyer",
+        "more"
+      ],
+      "explanation": "-y → -ier",
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-35",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Evin benimkinden büyük mü?",
+      "answer": [
+        "Is",
+        "your",
+        "house",
+        "bigger",
+        "than",
+        "mine"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "biger",
+        "Does"
+      ],
+      "explanation": "Soru",
+      "tags": [
+        "comparatives-basic",
+        "questions"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-36",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu araba şu arabadan hızlı.",
+      "hint": "hızlı: fast",
+      "answers": [
+        "This car is faster than that car."
+      ],
+      "targetStructure": "sıfat-er + than",
+      "explanation": "Karşılaştırma.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This car is more fast than that car.",
+          "explanation": "Kısa sıfatta -er."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-37",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce İspanyolcadan daha zor.",
+      "hint": "zor: difficult",
+      "answers": [
+        "English is more difficult than Spanish.",
+        "English is harder than Spanish."
+      ],
+      "targetStructure": "more + uzun sıfat + than",
+      "explanation": "Karşılaştırma.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "English is difficulter than Spanish.",
+          "explanation": "Uzun sıfatta more."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-38",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu telefon şu telefondan daha iyi.",
+      "hint": "iyi: good",
+      "answers": [
+        "This phone is better than that phone."
+      ],
+      "targetStructure": "better than",
+      "explanation": "Düzensiz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This phone is more good than that phone.",
+          "explanation": "Good → better."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-39",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is more happy than before."
+        },
+        {
+          "id": "b",
+          "text": "She is happier than before."
+        },
+        {
+          "id": "c",
+          "text": "She is happyer than before."
+        },
+        {
+          "id": "d",
+          "text": "She is most happy than before."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "-y → -ier.",
+      "optionExplanations": {
+        "a": "Happy kısa sıfattır.",
+        "c": "-y → -ier.",
+        "d": "Most en üstünlüktür."
+      },
+      "tags": [
+        "comparatives-basic",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-40",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is your house bigger than mine?"
+        },
+        {
+          "id": "b",
+          "text": "Does your house bigger than mine?"
+        },
+        {
+          "id": "c",
+          "text": "Is your house more big than mine?"
+        },
+        {
+          "id": "d",
+          "text": "Is your house biger than mine?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be fiili + sıfat-er + than.",
+      "optionExplanations": {
+        "b": "Does kullanılmaz.",
+        "c": "Kısa sıfatta -er.",
+        "d": "Ünsüz ikizlenir."
+      },
+      "tags": [
+        "comparatives-basic",
+        "questions"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-41",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who is taller, Tom or Ben?"
+        },
+        {
+          "id": "b",
+          "text": "Who is more tall, Tom or Ben?"
+        },
+        {
+          "id": "c",
+          "text": "Who taller is, Tom or Ben?"
+        },
+        {
+          "id": "d",
+          "text": "Who is tallest, Tom or Ben?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Seçmeli soru: Who is taller, A or B?",
+      "optionExplanations": {
+        "b": "Kısa sıfatta -er.",
+        "c": "Be fiili özneden önce.",
+        "d": "İki kişide comparative."
+      },
+      "tags": [
+        "comparatives-basic",
+        "questions"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-42",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Is she older ___ him?",
+      "answers": [
+        "than"
+      ],
+      "explanation": "Karşılaştırmada than.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "from",
+          "explanation": "Than kullanılır."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "questions"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-43",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "My English is ___ now. (good)",
+      "answers": [
+        "better"
+      ],
+      "explanation": "Good → better.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "gooder",
+          "explanation": "Good → better."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-44",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bugünkü hava dünkünden daha kötü.",
+      "hint": "kötü: bad",
+      "answers": [
+        "Today's weather is worse than yesterday's."
+      ],
+      "targetStructure": "worse than",
+      "explanation": "Düzensiz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Today's weather is more bad than yesterday's.",
+          "explanation": "Bad → worse."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comparatives-basic-45",
+      "lessonId": "a1-comparatives-basic",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Babasından uzun değil.",
+      "hint": "baba: father",
+      "answers": [
+        "He is not taller than his father.",
+        "He isn't taller than his father."
+      ],
+      "targetStructure": "not + karşılaştırma + than",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He doesn't taller than his father.",
+          "explanation": "Be fiili gerekir."
+        }
+      ],
+      "tags": [
+        "comparatives-basic",
+        "questions"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-comparatives-basic",
+    "title": "Comparatives: Konu sonu sınavı",
+    "description": "Karşılaştırma sıfatları, yazım kuralları ve than.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-comparatives-basic-exam-01",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She is ___ than me. (tall)",
+        "options": [
+          {
+            "id": "a",
+            "text": "taller"
+          },
+          {
+            "id": "b",
+            "text": "more tall"
+          },
+          {
+            "id": "c",
+            "text": "tallest"
+          },
+          {
+            "id": "d",
+            "text": "tall"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kısa sıfat + -er.",
+        "optionExplanations": {
+          "b": "Kısa sıfatta -er.",
+          "c": "En üstünlük.",
+          "d": "Karşılaştırma gerekir."
+        },
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-02",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "My room is ___ than yours. (big)",
+        "answers": [
+          "bigger"
+        ],
+        "explanation": "Ünsüz ikizlenir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "biger",
+            "explanation": "Ünsüz ikizlenir."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-03",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Tom Anna'dan yaşlı.",
+        "answer": [
+          "Tom",
+          "is",
+          "older",
+          "than",
+          "Anna"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "old",
+          "that"
+        ],
+        "explanation": "sıfat-er + than",
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-04",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is more young than me.",
+        "errorSpan": "more young",
+        "answers": [
+          "She is younger than me."
+        ],
+        "explanation": "Kısa sıfatta -er.",
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-05",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bugün dünden daha soğuk.",
+        "hint": "soğuk: cold",
+        "answers": [
+          "Today is colder than yesterday."
+        ],
+        "targetStructure": "sıfat-er + than",
+        "explanation": "Karşılaştırma.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Today is more cold than yesterday.",
+            "explanation": "Kısa sıfatta -er."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-06",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "This film is ___ than that one. (boring)",
+        "options": [
+          {
+            "id": "a",
+            "text": "more boring"
+          },
+          {
+            "id": "b",
+            "text": "boringer"
+          },
+          {
+            "id": "c",
+            "text": "most boring"
+          },
+          {
+            "id": "d",
+            "text": "boring"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Uzun sıfat: more.",
+        "optionExplanations": {
+          "b": "Uzun sıfatta -er eklenmez.",
+          "c": "En üstünlük.",
+          "d": "Karşılaştırma gerekir."
+        },
+        "tags": [
+          "comparatives-basic",
+          "long"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-07",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He is ___ than his brother. (happy)",
+        "answers": [
+          "happier"
+        ],
+        "explanation": "-y → -ier.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "happyer",
+            "explanation": "-y → -ier."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-08",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu otel şu otelden daha pahalı.",
+        "answer": [
+          "This",
+          "hotel",
+          "is",
+          "more",
+          "expensive",
+          "than",
+          "that",
+          "hotel"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "expensiver",
+          "most"
+        ],
+        "explanation": "more + sıfat + than",
+        "tags": [
+          "comparatives-basic",
+          "long"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-09",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "This exercise is more easy than that one.",
+        "errorSpan": "more easy",
+        "answers": [
+          "This exercise is easier than that one."
+        ],
+        "explanation": "Easy → easier.",
+        "tags": [
+          "comparatives-basic",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-10",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Film kitaptan daha güzel.",
+        "hint": "güzel: beautiful",
+        "answers": [
+          "The film is more beautiful than the book."
+        ],
+        "targetStructure": "more beautiful than",
+        "explanation": "Uzun sıfat.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The film is beautifuler than the book.",
+            "explanation": "Uzun sıfatta more."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "long"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-11",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He is taller than me."
+          },
+          {
+            "id": "b",
+            "text": "He is taller that me."
+          },
+          {
+            "id": "c",
+            "text": "He is taller from me."
+          },
+          {
+            "id": "d",
+            "text": "He is taller then me."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Than.",
+        "optionExplanations": {
+          "b": "Than kullanılır.",
+          "c": "Than kullanılır.",
+          "d": "Then zaman sözcüğüdür."
+        },
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-12",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "This phone is ___ than that one. (good)",
+        "answers": [
+          "better"
+        ],
+        "explanation": "Good → better.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "gooder",
+            "explanation": "Good → better."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-13",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Today is more bad than yesterday.",
+        "errorSpan": "more bad",
+        "answers": [
+          "Today is worse than yesterday."
+        ],
+        "explanation": "Bad → worse.",
+        "tags": [
+          "comparatives-basic",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-14",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Is she older than him?"
+          },
+          {
+            "id": "b",
+            "text": "Does she older than him?"
+          },
+          {
+            "id": "c",
+            "text": "Is she more old than him?"
+          },
+          {
+            "id": "d",
+            "text": "Is she oldest than him?"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Be + sıfat-er + than.",
+        "optionExplanations": {
+          "b": "Does kullanılmaz.",
+          "c": "Kısa sıfatta -er.",
+          "d": "Oldest en üstünlüktür."
+        },
+        "tags": [
+          "comparatives-basic",
+          "questions"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-15",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "My sister is ___ than me. (young)",
+        "answers": [
+          "younger"
+        ],
+        "explanation": "Young + -er.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "more young",
+            "explanation": "Kısa sıfatta -er."
+          }
+        ],
+        "tags": [
+          "comparatives-basic",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comparatives-basic-exam-16",
+        "lessonId": "a1-comparatives-basic",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kim daha uzun, Tom mu Ben mi?",
+        "answer": [
+          "Who",
+          "is",
+          "taller",
+          "Tom",
+          "or",
+          "Ben"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "tall",
+          "more"
+        ],
+        "explanation": "Seçmeli soru",
+        "tags": [
+          "comparatives-basic",
+          "questions"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}

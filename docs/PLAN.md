@@ -190,7 +190,8 @@ edilgen yapı ve dolaylı anlatım). Ayrıntılı listeler (Cambridge English Gr
 5. **İçerik** — kalan 7 örnek ders, karşılaştırmalar, sonra A1→B2 genişletme.
    *Devam ediyor:* A1 Present Simple, A1 Present Continuous, A2 Past Simple, üç karşılaştırma
    (Present Simple vs Continuous, Present Perfect vs Past Simple, First vs Second Conditional) ve
-   karşılaştırma ekranı hazır. **Kalan örnek ders:** B2 Passive Voice ileri kullanım.
+   karşılaştırma ekranı hazır. **A1 tamamlandı** (21 dersin 21'i; Present Simple vs Continuous
+   karşılaştırması dahil). **Sıradaki:** A2 (28 ders; Past Simple hazır). **Kalan örnek ders:** B2 Passive Voice ileri kullanım.
 6. **İstatistikler ve iyileştirme** — istatistik ekranı, erişilebilirlik, küçük ekran.
 7. **Yayına hazırlık** — EAS derlemeleri, ikon, gizlilik metni.
 
