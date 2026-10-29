@@ -1,0 +1,2167 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-be-get-used-to",
+  "levelId": "b1",
+  "title": "Be Used To & Get Used To",
+  "objectives": [
+    "Be used to ile alışkın olunan durumu anlatmak",
+    "Get used to ile alışma sürecini anlatmak",
+    "Used to + V1 ile be used to + V-ing farkını ayırt etmek",
+    "Olumsuz ve soru biçimlerini doğru kurmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Alışkın olmak ve alışmak",
+      "paragraphs": [
+        "Be used to “alışkın olmak”, get used to ise “alışmak” demektir. İkisinden sonra isim ya da -ing gelir; yalın fiil gelmez. Buradaki to bir edattır.",
+        "Used to + yalın fiil (eskiden …-erdim) ile karıştırılmamalıdır: I used to live here (eskiden burada yaşardım) ≠ I am used to living here (burada yaşamaya alışkınım)."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Be used to: alışkın olmak",
+      "paragraphs": [
+        "Bir şeye alışmış durumdasın, artık sana yabancı gelmiyor. Be fiili zamanı taşır; sonra isim ya da -ing gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Şimdi",
+          "pattern": "am / is / are used to + isim / V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-01",
+            "ex-be-get-used-to-02",
+            "ex-be-get-used-to-03",
+            "ex-be-get-used-to-04"
+          ]
+        },
+        {
+          "label": "Geçmiş",
+          "pattern": "was / were used to + isim / V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-05",
+            "ex-be-get-used-to-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Get used to: alışmak",
+      "paragraphs": [
+        "Alışma sürecini ya da bir değişime uyum sağlamayı anlatır. Her zamanda kullanılabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Şimdi",
+          "pattern": "get used to + isim / V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-07",
+            "ex-be-get-used-to-08"
+          ]
+        },
+        {
+          "label": "Geçmiş",
+          "pattern": "got used to + isim / V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-09",
+            "ex-be-get-used-to-10"
+          ]
+        },
+        {
+          "label": "Gelecek / Perfect",
+          "pattern": "will get used to / have got used to",
+          "exampleIds": [
+            "ex-be-get-used-to-11",
+            "ex-be-get-used-to-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Be used to’da be fiilinin olumsuzu ve sorusu kullanılır. Get used to’da yardımcı fiil gerekir."
+      ],
+      "formulas": [
+        {
+          "label": "Be olumsuz",
+          "pattern": "am not / isn’t / wasn’t used to + V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-13",
+            "ex-be-get-used-to-14"
+          ]
+        },
+        {
+          "label": "Be soru",
+          "pattern": "Are you used to + V-ing?",
+          "exampleIds": [
+            "ex-be-get-used-to-15",
+            "ex-be-get-used-to-16"
+          ]
+        },
+        {
+          "label": "Get olumsuz",
+          "pattern": "don’t / didn’t get used to + V-ing",
+          "exampleIds": [
+            "ex-be-get-used-to-17",
+            "ex-be-get-used-to-18"
+          ]
+        },
+        {
+          "label": "Get soru",
+          "pattern": "Did / Do + özne + get used to + V-ing?",
+          "exampleIds": [
+            "ex-be-get-used-to-19",
+            "ex-be-get-used-to-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Used to ile karşılaştırma",
+      "paragraphs": [
+        "Used to + yalın fiil geçmiş alışkanlığı anlatır ve artık geçerli değildir. Be used to + -ing ise şimdi (ya da geçmişte) alışkın olunan durumu anlatır."
+      ],
+      "formulas": [
+        {
+          "label": "Used to",
+          "pattern": "used to + V1 (eskiden)",
+          "exampleIds": [
+            "ex-be-get-used-to-21",
+            "ex-be-get-used-to-22"
+          ]
+        },
+        {
+          "label": "Be used to",
+          "pattern": "am used to + V-ing (alışkınım)",
+          "exampleIds": [
+            "ex-be-get-used-to-23",
+            "ex-be-get-used-to-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "To bir edattır",
+      "paragraphs": [
+        "Be used to ve get used to’daki to bir edattır; bu yüzden fiil kullanılacaksa -ing alır. Nesne olarak zamir de kullanılabilir (I’m used to it)."
+      ],
+      "formulas": [
+        {
+          "label": "Zamir",
+          "pattern": "be used to + it / this / him",
+          "exampleIds": [
+            "ex-be-get-used-to-25",
+            "ex-be-get-used-to-26"
+          ]
+        },
+        {
+          "label": "Fiil",
+          "pattern": "be used to + -ing",
+          "exampleIds": [
+            "ex-be-get-used-to-27",
+            "ex-be-get-used-to-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-be-get-used-to-01",
+        "ex-be-get-used-to-02",
+        "ex-be-get-used-to-03",
+        "ex-be-get-used-to-04",
+        "ex-be-get-used-to-05",
+        "ex-be-get-used-to-06",
+        "ex-be-get-used-to-07",
+        "ex-be-get-used-to-08",
+        "ex-be-get-used-to-09",
+        "ex-be-get-used-to-10",
+        "ex-be-get-used-to-11",
+        "ex-be-get-used-to-12",
+        "ex-be-get-used-to-13",
+        "ex-be-get-used-to-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-be-get-used-to-15",
+        "ex-be-get-used-to-16",
+        "ex-be-get-used-to-17",
+        "ex-be-get-used-to-18",
+        "ex-be-get-used-to-19",
+        "ex-be-get-used-to-20",
+        "ex-be-get-used-to-21",
+        "ex-be-get-used-to-22",
+        "ex-be-get-used-to-23",
+        "ex-be-get-used-to-24",
+        "ex-be-get-used-to-25",
+        "ex-be-get-used-to-26",
+        "ex-be-get-used-to-27",
+        "ex-be-get-used-to-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I'm used to get up early.",
+          "right": "I'm used to getting up early.",
+          "explanation": "To bir edattır; -ing gerekir."
+        },
+        {
+          "wrong": "She is use to the noise.",
+          "right": "She is used to the noise.",
+          "explanation": "Used yazılır."
+        },
+        {
+          "wrong": "I get used to living here. (alışkınım)",
+          "right": "I'm used to living here.",
+          "explanation": "Alışkın olma durumu için be used to."
+        },
+        {
+          "wrong": "He didn't got used to it.",
+          "right": "He didn't get used to it.",
+          "explanation": "Didn’t’ten sonra get."
+        },
+        {
+          "wrong": "I used to living alone.",
+          "right": "I'm used to living alone.",
+          "explanation": "Used to + V-ing hatalıdır; be used to kullan."
+        },
+        {
+          "wrong": "I'm used to live alone.",
+          "right": "I'm used to living alone.",
+          "explanation": "-ing gerekir."
+        },
+        {
+          "wrong": "Did you got used to it?",
+          "right": "Did you get used to it?",
+          "explanation": "Did + get."
+        },
+        {
+          "wrong": "We are used to went there.",
+          "right": "We are used to going there.",
+          "explanation": "-ing gerekir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Used to + V1",
+          "body": "Eskiden yaptığın ama artık yapmadığın şeyleri anlatır.",
+          "lessonId": "b1-used-to"
+        },
+        {
+          "topic": "Gerund ve infinitive",
+          "body": "To edattan sonra -ing gelir.",
+          "lessonId": "b1-verb-patterns"
+        },
+        {
+          "topic": "A2 Gerund",
+          "body": "-ing biçiminin temelini hatırla.",
+          "lessonId": "a2-gerund-infinitive-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Be used to = alışkın olmak; get used to = alışmak.",
+        "Her ikisinden sonra isim ya da -ing gelir, yalın fiil gelmez.",
+        "Used to + V1 = eskiden yapardım (alışkınlık değil).",
+        "Olumsuzda: am not used to / didn’t get used to.",
+        "Soruda: Are you used to…? / Did you get used to…?"
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-be-get-used-to-01",
+        "q-be-get-used-to-13",
+        "q-be-get-used-to-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-be-get-used-to-01",
+      "en": "I'm used to getting up early.",
+      "tr": "Erken kalkmaya alışkınım.",
+      "highlight": "'m used to getting"
+    },
+    {
+      "id": "ex-be-get-used-to-02",
+      "en": "She is used to the noise.",
+      "tr": "Gürültüye alışkın.",
+      "highlight": "is used to the noise"
+    },
+    {
+      "id": "ex-be-get-used-to-03",
+      "en": "We are used to living in a big city.",
+      "tr": "Büyük şehirde yaşamaya alışkınız.",
+      "highlight": "are used to living"
+    },
+    {
+      "id": "ex-be-get-used-to-04",
+      "en": "He is used to working at night.",
+      "tr": "Geceleri çalışmaya alışkın.",
+      "highlight": "is used to working"
+    },
+    {
+      "id": "ex-be-get-used-to-05",
+      "en": "She was used to cold weather.",
+      "tr": "Soğuk havaya alışkındı.",
+      "highlight": "was used to cold weather"
+    },
+    {
+      "id": "ex-be-get-used-to-06",
+      "en": "They were used to waiting.",
+      "tr": "Beklemeye alışkındılar.",
+      "highlight": "were used to waiting"
+    },
+    {
+      "id": "ex-be-get-used-to-07",
+      "en": "You will get used to the food.",
+      "tr": "Yemeğe alışacaksın.",
+      "highlight": "get used to the food"
+    },
+    {
+      "id": "ex-be-get-used-to-08",
+      "en": "I can't get used to this heat.",
+      "tr": "Bu sıcağa alışamıyorum.",
+      "highlight": "get used to this heat"
+    },
+    {
+      "id": "ex-be-get-used-to-09",
+      "en": "He got used to the new job quickly.",
+      "tr": "Yeni işe hızla alıştı.",
+      "highlight": "got used to the new job"
+    },
+    {
+      "id": "ex-be-get-used-to-10",
+      "en": "We got used to driving on the left.",
+      "tr": "Solda araba sürmeye alıştık.",
+      "highlight": "got used to driving"
+    },
+    {
+      "id": "ex-be-get-used-to-11",
+      "en": "I will get used to living alone.",
+      "tr": "Yalnız yaşamaya alışacağım.",
+      "highlight": "get used to living"
+    },
+    {
+      "id": "ex-be-get-used-to-12",
+      "en": "I have got used to the climate.",
+      "tr": "İklime alıştım.",
+      "highlight": "got used to the climate"
+    },
+    {
+      "id": "ex-be-get-used-to-13",
+      "en": "I'm not used to speaking in public.",
+      "tr": "Topluluk önünde konuşmaya alışkın değilim.",
+      "highlight": "not used to speaking"
+    },
+    {
+      "id": "ex-be-get-used-to-14",
+      "en": "She isn't used to the cold.",
+      "tr": "Soğuğa alışkın değil.",
+      "highlight": "isn't used to the cold"
+    },
+    {
+      "id": "ex-be-get-used-to-15",
+      "en": "Are you used to driving on the right?",
+      "tr": "Sağdan sürmeye alışkın mısın?",
+      "highlight": "Are you used to driving"
+    },
+    {
+      "id": "ex-be-get-used-to-16",
+      "en": "Is he used to the new system?",
+      "tr": "Yeni sisteme alışkın mı?",
+      "highlight": "Is he used to the new system"
+    },
+    {
+      "id": "ex-be-get-used-to-17",
+      "en": "I don't get used to waking up early.",
+      "tr": "Erken kalkmaya alışamıyorum.",
+      "highlight": "don't get used to waking"
+    },
+    {
+      "id": "ex-be-get-used-to-18",
+      "en": "She didn't get used to the new school.",
+      "tr": "Yeni okula alışamadı.",
+      "highlight": "didn't get used to"
+    },
+    {
+      "id": "ex-be-get-used-to-19",
+      "en": "Did you get used to the climate?",
+      "tr": "İklime alıştın mı?",
+      "highlight": "Did you get used to"
+    },
+    {
+      "id": "ex-be-get-used-to-20",
+      "en": "How long did it take to get used to your job?",
+      "tr": "İşine alışman ne kadar sürdü?",
+      "highlight": "get used to your job"
+    },
+    {
+      "id": "ex-be-get-used-to-21",
+      "en": "I used to live in a village.",
+      "tr": "Eskiden köyde yaşardım.",
+      "highlight": "used to live"
+    },
+    {
+      "id": "ex-be-get-used-to-22",
+      "en": "She used to play tennis.",
+      "tr": "Eskiden tenis oynardı.",
+      "highlight": "used to play"
+    },
+    {
+      "id": "ex-be-get-used-to-23",
+      "en": "I'm used to living in a village.",
+      "tr": "Köyde yaşamaya alışkınım.",
+      "highlight": "used to living"
+    },
+    {
+      "id": "ex-be-get-used-to-24",
+      "en": "She is used to playing tennis every day.",
+      "tr": "Her gün tenis oynamaya alışkın.",
+      "highlight": "used to playing"
+    },
+    {
+      "id": "ex-be-get-used-to-25",
+      "en": "I'm used to it.",
+      "tr": "Ona alışkınım.",
+      "highlight": "used to it"
+    },
+    {
+      "id": "ex-be-get-used-to-26",
+      "en": "He isn't used to this.",
+      "tr": "Buna alışkın değil.",
+      "highlight": "used to this"
+    },
+    {
+      "id": "ex-be-get-used-to-27",
+      "en": "I'm not used to eating late.",
+      "tr": "Geç yemek yemeye alışkın değilim.",
+      "highlight": "used to eating"
+    },
+    {
+      "id": "ex-be-get-used-to-28",
+      "en": "You'll soon get used to walking everywhere.",
+      "tr": "Her yere yürümeye çabucak alışırsın.",
+      "highlight": "get used to walking"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-be-get-used-to-01",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'm used to ___ up early.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "getting"
+        },
+        {
+          "id": "c",
+          "text": "got"
+        },
+        {
+          "id": "d",
+          "text": "to get"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be used to + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-02",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ used to the cold weather.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does"
+        },
+        {
+          "id": "b",
+          "text": "gets"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "uses"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Be used to: be fiili.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-03",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It took me a month to get used ___ my new school.",
+      "options": [
+        {
+          "id": "a",
+          "text": "with"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "of"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Get used to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-04",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ to the noise quickly. (alıştı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "got used"
+        },
+        {
+          "id": "b",
+          "text": "was use"
+        },
+        {
+          "id": "c",
+          "text": "gets use"
+        },
+        {
+          "id": "d",
+          "text": "got use"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Got used to.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-05",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We aren't used to ___ in such a small flat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "live"
+        },
+        {
+          "id": "b",
+          "text": "living"
+        },
+        {
+          "id": "c",
+          "text": "lived"
+        },
+        {
+          "id": "d",
+          "text": "to live"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be used to + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-06",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ in London, but now I live in Paris. (eskiden)",
+      "options": [
+        {
+          "id": "a",
+          "text": "am used to live"
+        },
+        {
+          "id": "b",
+          "text": "get used to live"
+        },
+        {
+          "id": "c",
+          "text": "used to live"
+        },
+        {
+          "id": "d",
+          "text": "am used to living"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Used to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-07",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence means 'I am accustomed to it'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I used to it."
+        },
+        {
+          "id": "b",
+          "text": "I use to it."
+        },
+        {
+          "id": "c",
+          "text": "I get use to it."
+        },
+        {
+          "id": "d",
+          "text": "I'm used to it."
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Be used to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-08",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You will ___ used to the food soon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "be"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Will get used to.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-09",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Did you ___ used to the new job?",
+      "options": [
+        {
+          "id": "a",
+          "text": "got"
+        },
+        {
+          "id": "b",
+          "text": "get"
+        },
+        {
+          "id": "c",
+          "text": "getting"
+        },
+        {
+          "id": "d",
+          "text": "gets"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Did + get used to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-10",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ used to wearing a suit. (alışkındı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "gets"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Was used to + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-11",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I can't get used to ___ in the dark.",
+      "options": [
+        {
+          "id": "a",
+          "text": "work"
+        },
+        {
+          "id": "b",
+          "text": "worked"
+        },
+        {
+          "id": "c",
+          "text": "to work"
+        },
+        {
+          "id": "d",
+          "text": "working"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Get used to + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-12",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is used to driving."
+        },
+        {
+          "id": "b",
+          "text": "She is used to drive."
+        },
+        {
+          "id": "c",
+          "text": "She is use to driving."
+        },
+        {
+          "id": "d",
+          "text": "She used to driving."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be used to + V-ing.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-13",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I'm used to ___ (walk) to work.",
+      "answers": [
+        "walking"
+      ],
+      "explanation": "Be used to + V-ing.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-14",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She isn't used to ___ (eat) spicy food.",
+      "answers": [
+        "eating"
+      ],
+      "explanation": "Be used to + V-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "eat",
+          "explanation": "To burada edattır; -ing gerekir."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-15",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They got used to ___ (drive) on the left.",
+      "answers": [
+        "driving"
+      ],
+      "explanation": "Get used to + V-ing.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-16",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ used to the noise now. (am)",
+      "answers": [
+        "am",
+        "'m"
+      ],
+      "explanation": "Alışkınım: am used to.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-17",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He will get used to the cold ___ time. (in)",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Zamanla alışacak.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-18",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Are you used ___ the heat?",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Be used to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "Be used to."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-19",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ get used to the new system. (can't)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Alışamıyorum.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-20",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ used to live in a flat. (eskiden)",
+      "answers": [
+        "used"
+      ],
+      "explanation": "Used to + V1.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-21",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ used to getting up early. (alışkın değil)",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "Be used to olumsuz.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-22",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Did you get used ___ the climate?",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Get used to.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-23",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yalnız yaşamaya alışkınım.",
+      "answer": [
+        "I",
+        "am",
+        "used",
+        "to",
+        "living",
+        "alone"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "live",
+        "use"
+      ],
+      "explanation": "be used to + V-ing",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-24",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yeni işe alıştı.",
+      "answer": [
+        "He",
+        "got",
+        "used",
+        "to",
+        "the",
+        "new",
+        "job"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "use",
+        "gets"
+      ],
+      "explanation": "get used to",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-25",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gürültüye alışamıyorum.",
+      "answer": [
+        "I",
+        "can't",
+        "get",
+        "used",
+        "to",
+        "the",
+        "noise"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "using"
+      ],
+      "explanation": "get used to",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-26",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Erken kalkmaya alışkın mısın?",
+      "answer": [
+        "Are",
+        "you",
+        "used",
+        "to",
+        "getting",
+        "up",
+        "early"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "get"
+      ],
+      "explanation": "be used to + V-ing",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-27",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm used to get up early.",
+      "errorSpan": "to get",
+      "answers": [
+        "I'm used to getting up early."
+      ],
+      "explanation": "Be used to + V-ing.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-28",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is use to the noise.",
+      "errorSpan": "is use",
+      "answers": [
+        "She is used to the noise."
+      ],
+      "explanation": "Used yazılır.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-29",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He didn't got used to it.",
+      "errorSpan": "didn't got",
+      "answers": [
+        "He didn't get used to it."
+      ],
+      "explanation": "Didn't + get.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-30",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm used to live alone.",
+      "errorSpan": "used to live",
+      "answers": [
+        "I'm used to living alone."
+      ],
+      "explanation": "To bir edattır; -ing gerekir.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-31",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They got use to the cold.",
+      "errorSpan": "got use",
+      "answers": [
+        "They got used to the cold."
+      ],
+      "explanation": "Got used to.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-32",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you got used to the food?",
+      "errorSpan": "Did you got",
+      "answers": [
+        "Did you get used to the food?"
+      ],
+      "explanation": "Did + get.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-33",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She used to living in a big city. (alışkın)",
+      "errorSpan": "used to living",
+      "answers": [
+        "She is used to living in a big city."
+      ],
+      "explanation": "Alışkınlık: be used to + V-ing.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-34",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sıcak havaya alışkınım.",
+      "hint": "alışkın: used to",
+      "answers": [
+        "I am used to hot weather.",
+        "I'm used to hot weather.",
+        "I am used to the hot weather.",
+        "I'm used to the hot weather."
+      ],
+      "targetStructure": "be used to + isim",
+      "explanation": "Alışkın olmak.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-35",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geç yatmaya alışkın değilim.",
+      "hint": "yatmak: go to bed",
+      "answers": [
+        "I'm not used to going to bed late.",
+        "I am not used to going to bed late."
+      ],
+      "targetStructure": "not used to + V-ing",
+      "explanation": "Alışkın değil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'm not used to go to bed late.",
+          "explanation": "To burada edattır."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-36",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu şehre çabuk alıştı.",
+      "hint": "alışmak: get used to",
+      "answers": [
+        "He got used to this city quickly.",
+        "She got used to this city quickly."
+      ],
+      "targetStructure": "got used to",
+      "explanation": "Alışmak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He got use to this city quickly.",
+          "explanation": "Used yazılır."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-37",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yeni okula alıştın mı?",
+      "hint": "alışmak: get used to",
+      "answers": [
+        "Did you get used to the new school?"
+      ],
+      "targetStructure": "Did you get used to",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you got used to the new school?",
+          "explanation": "Did + get."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-38",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yakında buna alışacaksın.",
+      "hint": "alışmak: get used to",
+      "answers": [
+        "You will get used to it soon.",
+        "You'll get used to it soon.",
+        "You will soon get used to it.",
+        "You'll soon get used to it."
+      ],
+      "targetStructure": "will get used to",
+      "explanation": "Gelecek.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-39",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Solda araba sürmeye alışamadılar.",
+      "hint": "sürmek: drive",
+      "answers": [
+        "They didn't get used to driving on the left.",
+        "They couldn't get used to driving on the left."
+      ],
+      "targetStructure": "didn't get used to",
+      "explanation": "Olumsuz.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-40",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden bu sokakta yaşardık.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "We used to live on this street."
+      ],
+      "targetStructure": "used to + V1",
+      "explanation": "Geçmiş alışkanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We are used to living on this street.",
+          "explanation": "Alışkınlık: şimdiki durum."
+        }
+      ],
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-be-get-used-to-41",
+      "lessonId": "b1-be-get-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çocuklar erken yatmaya alışkın.",
+      "hint": "yatmak: go to bed",
+      "answers": [
+        "The children are used to going to bed early."
+      ],
+      "targetStructure": "be used to + V-ing",
+      "explanation": "Alışkın olmak.",
+      "tags": [
+        "be-get-used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-be-get-used-to",
+    "title": "Be Used To & Get Used To: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-be-get-used-to-exam-01",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She is used to ___ a lot.",
+        "options": [
+          {
+            "id": "a",
+            "text": "travel"
+          },
+          {
+            "id": "b",
+            "text": "travelled"
+          },
+          {
+            "id": "c",
+            "text": "travelling"
+          },
+          {
+            "id": "d",
+            "text": "to travel"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Be used to + V-ing.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-02",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He quickly ___ used to the new rules.",
+        "options": [
+          {
+            "id": "a",
+            "text": "gets"
+          },
+          {
+            "id": "b",
+            "text": "was"
+          },
+          {
+            "id": "c",
+            "text": "is"
+          },
+          {
+            "id": "d",
+            "text": "got"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Alıştı: got used to.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-03",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ smoke, but I stopped. (eskiden)",
+        "options": [
+          {
+            "id": "a",
+            "text": "used to"
+          },
+          {
+            "id": "b",
+            "text": "am used to"
+          },
+          {
+            "id": "c",
+            "text": "get used to"
+          },
+          {
+            "id": "d",
+            "text": "was used to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Used to + V1.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-04",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Choose the correct sentence.",
+        "options": [
+          {
+            "id": "a",
+            "text": "We use to the cold."
+          },
+          {
+            "id": "b",
+            "text": "We are used to the cold."
+          },
+          {
+            "id": "c",
+            "text": "We used the cold."
+          },
+          {
+            "id": "d",
+            "text": "We are use to the cold."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Be used to.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-05",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Are you ___ to the new schedule?",
+        "options": [
+          {
+            "id": "a",
+            "text": "use"
+          },
+          {
+            "id": "b",
+            "text": "using"
+          },
+          {
+            "id": "c",
+            "text": "used"
+          },
+          {
+            "id": "d",
+            "text": "get"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Be used to.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-06",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I can't get used ___ the heat.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "Get used to.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-07",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He isn't used to ___ (cook).",
+        "answers": [
+          "cooking"
+        ],
+        "explanation": "Be used to + V-ing.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-08",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "You will soon ___ used to it. (get)",
+        "answers": [
+          "get"
+        ],
+        "explanation": "Will get used to.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-09",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They ___ used to the traffic. (alışkındı)",
+        "answers": [
+          "were"
+        ],
+        "explanation": "Were used to.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-10",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Erken kalkmaya alışkınız.",
+        "answer": [
+          "We",
+          "are",
+          "used",
+          "to",
+          "getting",
+          "up",
+          "early"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "get",
+          "use"
+        ],
+        "explanation": "be used to + V-ing",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-11",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu soğuğa alışamıyorum.",
+        "answer": [
+          "I",
+          "can't",
+          "get",
+          "used",
+          "to",
+          "this",
+          "cold"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "am",
+          "using"
+        ],
+        "explanation": "get used to",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-12",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He is used to work hard.",
+        "errorSpan": "used to work",
+        "answers": [
+          "He is used to working hard."
+        ],
+        "explanation": "To edattır; -ing gerekir.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-13",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I didn't got used to it.",
+        "errorSpan": "didn't got",
+        "answers": [
+          "I didn't get used to it."
+        ],
+        "explanation": "Didn't + get.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-14",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is use to cooking.",
+        "errorSpan": "is use",
+        "answers": [
+          "She is used to cooking."
+        ],
+        "explanation": "Used yazılır.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-15",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu işe alışkın değilim.",
+        "hint": "alışkın: used to",
+        "answers": [
+          "I'm not used to this job.",
+          "I am not used to this job."
+        ],
+        "targetStructure": "not used to",
+        "explanation": "Olumsuz.",
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-be-get-used-to-exam-16",
+        "lessonId": "b1-be-get-used-to",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kısa sürede iklime alıştılar.",
+        "hint": "alışmak: get used to",
+        "answers": [
+          "They got used to the climate quickly.",
+          "They quickly got used to the climate."
+        ],
+        "targetStructure": "got used to",
+        "explanation": "Alışmak.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "They got use to the climate quickly.",
+            "explanation": "Used yazılır."
+          }
+        ],
+        "tags": [
+          "be-get-used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      }
+    ]
+  }
+}
