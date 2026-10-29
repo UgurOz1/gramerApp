@@ -1,4 +1,4 @@
-import { useRef, type ReactNode } from "react";
+import { useEffect, useRef, type ComponentRef, type ReactNode } from "react";
 import {
   ScrollView,
   StyleSheet,
@@ -17,13 +17,21 @@ type Props = {
   footer?: ReactNode;
   /** İçeriğin sonuna gelindiğinde bir kez çağrılır (ör. dersin okundu sayılması). */
   onReachEnd?: () => void;
+  /** Kaydırma alanının üstünde sabit duran alan (ör. adım göstergesi). */
+  header?: ReactNode;
+  /** Değiştiğinde kaydırma en üste döner (ör. adım değişince). */
+  resetKey?: unknown;
   /** Başlık çubuğu olmayan ekranlarda üst güvenli alan boşluğunu ekler. */
   safeTop?: boolean;
 };
 
 /** Kaydırılabilir standart ekran kabı. */
-export function Screen({ children, footer, onReachEnd, safeTop }: Props) {
+export function Screen({ children, footer, header, resetKey, onReachEnd, safeTop }: Props) {
   const reached = useRef(false);
+  const scrollRef = useRef<ComponentRef<typeof ScrollView>>(null);
+  useEffect(() => {
+    scrollRef.current?.scrollTo({ y: 0, animated: false });
+  }, [resetKey]);
   const insets = useSafeAreaInsets();
   const keyboardHeight = useKeyboardHeight();
 
@@ -38,7 +46,9 @@ export function Screen({ children, footer, onReachEnd, safeTop }: Props) {
 
   return (
     <View style={[styles.root, { paddingBottom: keyboardHeight }]}>
+      {header}
       <ScrollView
+        ref={scrollRef}
         contentContainerStyle={[styles.content, safeTop && { paddingTop: insets.top + spacing.lg }]}
         contentInsetAdjustmentBehavior={safeTop ? "never" : "automatic"}
         keyboardShouldPersistTaps="handled"

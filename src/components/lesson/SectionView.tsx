@@ -43,10 +43,10 @@ export function SectionView({ section, lesson, sessionId, showHint }: Props) {
   const examples = (ids: string[] = []) =>
     ids.map((id) => lesson.examples.find((e) => e.id === id)).filter((e): e is NonNullable<typeof e> => !!e);
 
-  const renderExamples = (ids?: string[]) => {
+  const renderExamples = (ids?: string[], reveal?: boolean) => {
     const list = examples(ids);
     if (list.length === 0) return null;
-    return <View style={styles.exampleList}>{list.map((e) => <ExampleItem key={e.id} example={e} />)}</View>;
+    return <View style={styles.exampleList}>{list.map((e) => <ExampleItem key={e.id} example={e} reveal={reveal} />)}</View>;
   };
 
   switch (section.type) {
@@ -94,7 +94,7 @@ export function SectionView({ section, lesson, sessionId, showHint }: Props) {
         <Card>
           <SectionTitle icon={icons.quiz} label="ÖRNEKLER" title={section.title} color={colors.success} bg={colors.successMuted} />
           {section.paragraphs?.map((p, i) => <AppText key={i} color="textSecondary">{p}</AppText>)}
-          {renderExamples(section.exampleIds)}
+          {renderExamples(section.exampleIds, true)}
         </Card>
       );
 

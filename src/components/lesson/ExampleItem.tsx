@@ -1,4 +1,5 @@
-import { StyleSheet, View } from "react-native";
+import { useState } from "react";
+import { Pressable, StyleSheet, View } from "react-native";
 
 import { AppText } from "@/components/common";
 import type { ExampleSentence } from "@/domain/models";
@@ -6,22 +7,39 @@ import { colors, radius, spacing } from "@/theme";
 
 import { HighlightedText } from "./HighlightedText";
 
-export function ExampleItem({ example }: { example: ExampleSentence }) {
+type Props = {
+  example: ExampleSentence;
+  /** Türkçesi dokununca açılır: önce kendin çevirmeyi dene (aktif hatırlama). */
+  reveal?: boolean;
+};
+
+export function ExampleItem({ example, reveal }: Props) {
+  const [shown, setShown] = useState(!reveal);
+  const Wrapper = reveal && !shown ? Pressable : View;
   return (
-    <View style={styles.item} accessible accessibilityLabel={`${example.en}. Türkçesi: ${example.tr}`}>
+    <Wrapper
+      style={styles.item}
+      accessible
+      accessibilityLabel={shown ? `${example.en}. Türkçesi: ${example.tr}` : `${example.en}. Türkçesini görmek için dokun`}
+      {...(reveal && !shown ? { onPress: () => setShown(true), accessibilityRole: "button" as const } : {})}
+    >
       <View style={styles.flag}>
         <AppText style={styles.flagText}>EN</AppText>
       </View>
       <View style={styles.body}>
         <HighlightedText text={example.en} highlight={example.highlight} />
-        <AppText variant="caption" color="textSecondary" style={styles.tr}>🇹🇷 {example.tr}</AppText>
-        {example.note ? (
+        {shown ? (
+          <AppText variant="caption" color="textSecondary" style={styles.tr}>🇹🇷 {example.tr}</AppText>
+        ) : (
+          <AppText variant="caption" color="accent" style={styles.tr}>👆 Önce kendin çevir, sonra dokunup Türkçesini gör</AppText>
+        )}
+        {shown && example.note ? (
           <View style={styles.note}>
             <AppText variant="caption" color="warning">💡 {example.note}</AppText>
           </View>
         ) : null}
       </View>
-    </View>
+    </Wrapper>
   );
 }
 
