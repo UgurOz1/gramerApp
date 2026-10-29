@@ -1,0 +1,2284 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-prepositions-time",
+  "levelId": "a1",
+  "title": "Prepositions of Time",
+  "objectives": [
+    "at, on, in edatlarını zaman için doğru kullanmak",
+    "Saat, gün, tarih, ay, mevsim, yıl ve gün bölümlerini doğru edatla söylemek",
+    "from … to …, before ve after kullanmak",
+    "At night, at the weekend gibi kalıpları bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Zaman edatları",
+      "paragraphs": [
+        "Zaman edatları bir şeyin ne zaman olduğunu anlatır. En önemli üçü in, on ve at’tir. Hangisini seçeceğin zamanın türüne bağlıdır: saat mi, gün mü, ay ya da yıl mı?",
+        "Kural şu üçgendir: at = küçük zaman (saat), on = orta (gün ve tarih), in = büyük zaman (ay, mevsim, yıl)."
+      ]
+    },
+    {
+      "id": "at",
+      "type": "rule",
+      "title": "At: saatler ve kalıplar",
+      "paragraphs": [
+        "At, saat ve belirli zaman noktalarıyla kullanılır. Birkaç kalıp da at ile gelir: at night, at noon, at midnight, at the weekend (İngiliz İngilizcesi)."
+      ],
+      "formulas": [
+        {
+          "label": "Saat",
+          "pattern": "at 9 o’clock,  at 7:30,  at 8 p.m.",
+          "exampleIds": [
+            "ex-prepositions-time-01",
+            "ex-prepositions-time-02",
+            "ex-prepositions-time-23"
+          ]
+        },
+        {
+          "label": "Kalıplar",
+          "pattern": "at night,  at noon,  at midnight,  at the weekend",
+          "exampleIds": [
+            "ex-prepositions-time-03",
+            "ex-prepositions-time-04",
+            "ex-prepositions-time-05",
+            "ex-prepositions-time-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "on",
+      "type": "rule",
+      "title": "On: günler ve tarihler",
+      "paragraphs": [
+        "On, günler ve tarihlerle kullanılır. Gün ile günün bir bölümü birlikte geldiğinde de on kullanılır: on Monday morning."
+      ],
+      "formulas": [
+        {
+          "label": "Gün",
+          "pattern": "on Monday,  on Saturday,  on Sundays",
+          "exampleIds": [
+            "ex-prepositions-time-07",
+            "ex-prepositions-time-08",
+            "ex-prepositions-time-25"
+          ]
+        },
+        {
+          "label": "Tarih",
+          "pattern": "on 5 May,  on 1 January",
+          "exampleIds": [
+            "ex-prepositions-time-09"
+          ]
+        },
+        {
+          "label": "Gün + bölüm",
+          "pattern": "on Friday evening,  on Monday morning",
+          "exampleIds": [
+            "ex-prepositions-time-10",
+            "ex-prepositions-time-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in",
+      "type": "rule",
+      "title": "In: aylar, mevsimler, yıllar, gün bölümleri",
+      "paragraphs": [
+        "In, daha uzun zaman dilimleriyle kullanılır. Günün bölümleri için in the morning / afternoon / evening denir; ancak night için at night."
+      ],
+      "formulas": [
+        {
+          "label": "Ay ve mevsim",
+          "pattern": "in July,  in winter,  in summer",
+          "exampleIds": [
+            "ex-prepositions-time-13",
+            "ex-prepositions-time-14",
+            "ex-prepositions-time-22",
+            "ex-prepositions-time-24",
+            "ex-prepositions-time-26"
+          ]
+        },
+        {
+          "label": "Yıl",
+          "pattern": "in 1995,  in 2024",
+          "exampleIds": [
+            "ex-prepositions-time-12"
+          ]
+        },
+        {
+          "label": "Gün bölümü",
+          "pattern": "in the morning / afternoon / evening",
+          "exampleIds": [
+            "ex-prepositions-time-15",
+            "ex-prepositions-time-16",
+            "ex-prepositions-time-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "others",
+      "type": "rule",
+      "title": "From … to, before, after",
+      "paragraphs": [
+        "From … to … başlangıç ve bitişi gösterir. Before “önce”, after “sonra” demektir ve ardından isim ya da zaman gelir."
+      ],
+      "formulas": [
+        {
+          "label": "From … to",
+          "pattern": "from 9 to 5,  from Monday to Saturday",
+          "exampleIds": [
+            "ex-prepositions-time-18",
+            "ex-prepositions-time-19"
+          ]
+        },
+        {
+          "label": "Before / after",
+          "pattern": "before breakfast,  after dinner",
+          "exampleIds": [
+            "ex-prepositions-time-20",
+            "ex-prepositions-time-21"
+          ]
+        },
+        {
+          "label": "Zaman sorusu",
+          "pattern": "What time …?   When …?",
+          "exampleIds": [
+            "ex-prepositions-time-27",
+            "ex-prepositions-time-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: at",
+      "exampleIds": [
+        "ex-prepositions-time-01",
+        "ex-prepositions-time-02",
+        "ex-prepositions-time-03",
+        "ex-prepositions-time-04",
+        "ex-prepositions-time-05",
+        "ex-prepositions-time-06",
+        "ex-prepositions-time-23"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: on",
+      "exampleIds": [
+        "ex-prepositions-time-07",
+        "ex-prepositions-time-08",
+        "ex-prepositions-time-09",
+        "ex-prepositions-time-10",
+        "ex-prepositions-time-11",
+        "ex-prepositions-time-25"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: in ve diğerleri",
+      "exampleIds": [
+        "ex-prepositions-time-12",
+        "ex-prepositions-time-13",
+        "ex-prepositions-time-14",
+        "ex-prepositions-time-15",
+        "ex-prepositions-time-16",
+        "ex-prepositions-time-17",
+        "ex-prepositions-time-22",
+        "ex-prepositions-time-24",
+        "ex-prepositions-time-26",
+        "ex-prepositions-time-28",
+        "ex-prepositions-time-18",
+        "ex-prepositions-time-19",
+        "ex-prepositions-time-20",
+        "ex-prepositions-time-21",
+        "ex-prepositions-time-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I get up in 7 o'clock.",
+          "right": "I get up at 7 o'clock.",
+          "explanation": "Saatte at."
+        },
+        {
+          "wrong": "I have English in Monday.",
+          "right": "I have English on Monday.",
+          "explanation": "Günde on."
+        },
+        {
+          "wrong": "My birthday is in 5 May.",
+          "right": "My birthday is on 5 May.",
+          "explanation": "Tarihte on."
+        },
+        {
+          "wrong": "I was born on 1995.",
+          "right": "I was born in 1995.",
+          "explanation": "Yılda in."
+        },
+        {
+          "wrong": "It is hot at July.",
+          "right": "It is hot in July.",
+          "explanation": "Ayda in."
+        },
+        {
+          "wrong": "I drink coffee at the morning.",
+          "right": "I drink coffee in the morning.",
+          "explanation": "Gün bölümünde in."
+        },
+        {
+          "wrong": "I sleep in the night.",
+          "right": "I sleep at night.",
+          "explanation": "Kalıp: at night."
+        },
+        {
+          "wrong": "The party is in Friday evening.",
+          "right": "The party is on Friday evening.",
+          "explanation": "Gün adı varsa on."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Yer edatları",
+          "body": "In, on, at yer için de kullanılır; kuralları farklıdır.",
+          "lessonId": "a1-prepositions-place"
+        },
+        {
+          "topic": "Sıklık zarfları",
+          "body": "Every day, once a week gibi ifadelerde edat kullanılmaz.",
+          "lessonId": "a1-adverbs-frequency"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Saat: at; gün ve tarih: on; ay, mevsim, yıl: in.",
+        "In the morning, in the afternoon, in the evening — ama at night.",
+        "Every, next, last, this ile edat kullanılmaz: every Monday, next week.",
+        "Gün adı ile gün bölümü birlikte gelirse on kullanılır: on Monday morning.",
+        "From … to … başlangıç ve bitişi anlatır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-prepositions-time-01",
+        "q-prepositions-time-02",
+        "q-prepositions-time-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-prepositions-time-01",
+      "en": "The class starts at 9 o'clock.",
+      "tr": "Ders saat dokuzda başlar.",
+      "highlight": "at 9 o'clock",
+      "note": "Saat: at"
+    },
+    {
+      "id": "ex-prepositions-time-02",
+      "en": "I get up at 7:30.",
+      "tr": "Saat 7.30'da kalkarım.",
+      "highlight": "at 7:30"
+    },
+    {
+      "id": "ex-prepositions-time-03",
+      "en": "The shop closes at midnight.",
+      "tr": "Dükkan gece yarısı kapanır.",
+      "highlight": "at midnight"
+    },
+    {
+      "id": "ex-prepositions-time-04",
+      "en": "We have lunch at noon.",
+      "tr": "Öğle vakti yemek yeriz.",
+      "highlight": "at noon"
+    },
+    {
+      "id": "ex-prepositions-time-05",
+      "en": "I sleep at night.",
+      "tr": "Geceleri uyurum.",
+      "highlight": "at night",
+      "note": "Kalıp: at night"
+    },
+    {
+      "id": "ex-prepositions-time-06",
+      "en": "He works at the weekend.",
+      "tr": "Hafta sonu çalışır.",
+      "highlight": "at the weekend",
+      "note": "İngiliz İngilizcesi: at the weekend"
+    },
+    {
+      "id": "ex-prepositions-time-07",
+      "en": "I have English on Monday.",
+      "tr": "Pazartesi günü İngilizce dersim var.",
+      "highlight": "on Monday",
+      "note": "Gün: on"
+    },
+    {
+      "id": "ex-prepositions-time-08",
+      "en": "We go shopping on Saturday.",
+      "tr": "Cumartesi alışverişe gideriz.",
+      "highlight": "on Saturday"
+    },
+    {
+      "id": "ex-prepositions-time-09",
+      "en": "My birthday is on 5 May.",
+      "tr": "Doğum günüm 5 Mayıs'ta.",
+      "highlight": "on 5 May",
+      "note": "Tarih: on"
+    },
+    {
+      "id": "ex-prepositions-time-10",
+      "en": "The party is on Friday evening.",
+      "tr": "Parti cuma akşamı.",
+      "highlight": "on Friday evening",
+      "note": "Gün + gün bölümü: on"
+    },
+    {
+      "id": "ex-prepositions-time-11",
+      "en": "I have a test on Monday morning.",
+      "tr": "Pazartesi sabahı sınavım var.",
+      "highlight": "on Monday morning"
+    },
+    {
+      "id": "ex-prepositions-time-12",
+      "en": "She was born in 1995.",
+      "tr": "1995'te doğdu.",
+      "highlight": "in 1995",
+      "note": "Yıl: in"
+    },
+    {
+      "id": "ex-prepositions-time-13",
+      "en": "It is hot in July.",
+      "tr": "Temmuzda hava sıcak.",
+      "highlight": "in July",
+      "note": "Ay: in"
+    },
+    {
+      "id": "ex-prepositions-time-14",
+      "en": "It snows in winter.",
+      "tr": "Kışın kar yağar.",
+      "highlight": "in winter",
+      "note": "Mevsim: in"
+    },
+    {
+      "id": "ex-prepositions-time-15",
+      "en": "I drink coffee in the morning.",
+      "tr": "Sabahları kahve içerim.",
+      "highlight": "in the morning",
+      "note": "Gün bölümü: in the morning"
+    },
+    {
+      "id": "ex-prepositions-time-16",
+      "en": "She studies in the afternoon.",
+      "tr": "Öğleden sonra ders çalışır.",
+      "highlight": "in the afternoon"
+    },
+    {
+      "id": "ex-prepositions-time-17",
+      "en": "We watch TV in the evening.",
+      "tr": "Akşamları televizyon izleriz.",
+      "highlight": "in the evening"
+    },
+    {
+      "id": "ex-prepositions-time-18",
+      "en": "I work from 9 to 5.",
+      "tr": "9'dan 5'e kadar çalışırım.",
+      "highlight": "from 9 to 5",
+      "note": "from … to …"
+    },
+    {
+      "id": "ex-prepositions-time-19",
+      "en": "The shop is open from Monday to Saturday.",
+      "tr": "Dükkan pazartesiden cumartesiye açık.",
+      "highlight": "from Monday to Saturday"
+    },
+    {
+      "id": "ex-prepositions-time-20",
+      "en": "I brush my teeth before breakfast.",
+      "tr": "Kahvaltıdan önce dişlerimi fırçalarım.",
+      "highlight": "before breakfast",
+      "note": "before: önce"
+    },
+    {
+      "id": "ex-prepositions-time-21",
+      "en": "He watches TV after dinner.",
+      "tr": "Akşam yemeğinden sonra televizyon izler.",
+      "highlight": "after dinner",
+      "note": "after: sonra"
+    },
+    {
+      "id": "ex-prepositions-time-22",
+      "en": "My birthday is in October.",
+      "tr": "Doğum günüm Ekim'de.",
+      "highlight": "in October"
+    },
+    {
+      "id": "ex-prepositions-time-23",
+      "en": "The film starts at 8 p.m.",
+      "tr": "Film akşam sekizde başlar.",
+      "highlight": "at 8 p.m."
+    },
+    {
+      "id": "ex-prepositions-time-24",
+      "en": "We have a holiday in summer.",
+      "tr": "Yazın tatilimiz var.",
+      "highlight": "in summer"
+    },
+    {
+      "id": "ex-prepositions-time-25",
+      "en": "He visits his parents on Sundays.",
+      "tr": "Pazar günleri ebeveynlerini ziyaret eder.",
+      "highlight": "on Sundays"
+    },
+    {
+      "id": "ex-prepositions-time-26",
+      "en": "School starts in September.",
+      "tr": "Okul Eylül'de başlar.",
+      "highlight": "in September"
+    },
+    {
+      "id": "ex-prepositions-time-27",
+      "en": "What time do you get up?",
+      "tr": "Saat kaçta kalkarsın?",
+      "highlight": "What time"
+    },
+    {
+      "id": "ex-prepositions-time-28",
+      "en": "When is your birthday? It's in March.",
+      "tr": "Doğum günün ne zaman? Mart'ta.",
+      "highlight": "in March"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-prepositions-time-01",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I get up ___ 7 o'clock.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Saat: at.",
+      "optionExplanations": {
+        "b": "In ay, yıl için.",
+        "c": "On gün için.",
+        "d": "To yön için."
+      },
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-02",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have English ___ Monday.",
+      "answers": [
+        "on"
+      ],
+      "explanation": "Gün: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "In ay, yıl için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-03",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ders saat dokuzda başlar.",
+      "answer": [
+        "The",
+        "class",
+        "starts",
+        "at",
+        "nine"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "in",
+        "on"
+      ],
+      "explanation": "at + saat",
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-04",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I get up in 7 o'clock.",
+      "errorSpan": "in 7",
+      "answers": [
+        "I get up at 7 o'clock."
+      ],
+      "explanation": "Saatte at.",
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-05",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pazartesi günü İngilizce dersim var.",
+      "hint": "ders: English class",
+      "answers": [
+        "I have English on Monday."
+      ],
+      "targetStructure": "on + gün",
+      "explanation": "Gün: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have English in Monday.",
+          "explanation": "Gün: on."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-06",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It is hot ___ July.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ay: in.",
+      "optionExplanations": {
+        "b": "On gün için.",
+        "c": "At saat için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-07",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She was born ___ 1995.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yıl: in.",
+      "optionExplanations": {
+        "b": "On gün için.",
+        "c": "At saat için.",
+        "d": "From başlangıç."
+      },
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-08",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My birthday is ___ 5 May.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tarih: on.",
+      "optionExplanations": {
+        "b": "In ay, yıl için.",
+        "c": "At saat için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-09",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I drink coffee ___ the morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gün bölümü: in the morning.",
+      "optionExplanations": {
+        "b": "On gün için.",
+        "c": "At saat için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-10",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I sleep ___ night.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Kalıp: at night.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Kalıp at night."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-11",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It snows ___ winter.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Mevsim: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "On gün için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-12",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We go shopping ___ Saturday.",
+      "answers": [
+        "on"
+      ],
+      "explanation": "Gün: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "at",
+          "explanation": "At saat için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-13",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The film starts ___ 8 p.m.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Saat: at.",
+      "optionExplanations": {
+        "b": "In ay, yıl için.",
+        "c": "On gün için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-14",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The party is ___ Friday evening.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gün adı varsa on.",
+      "optionExplanations": {
+        "b": "In kalıba uymaz.",
+        "c": "At kalıba uymaz.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-15",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We watch TV ___ the evening.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gün bölümü: in the evening.",
+      "optionExplanations": {
+        "b": "On gün için.",
+        "c": "At saat için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-16",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I work ___ 9 to 5.",
+      "options": [
+        {
+          "id": "a",
+          "text": "from"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "From … to …",
+      "optionExplanations": {
+        "b": "In kalıba uymaz.",
+        "c": "On kalıba uymaz.",
+        "d": "At kalıba uymaz."
+      },
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-17",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He watches TV ___ dinner. (sonra)",
+      "options": [
+        {
+          "id": "a",
+          "text": "after"
+        },
+        {
+          "id": "b",
+          "text": "before"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "After: sonra.",
+      "optionExplanations": {
+        "b": "Before önce demektir.",
+        "c": "At kalıba uymaz.",
+        "d": "On kalıba uymaz."
+      },
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-18",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I brush my teeth ___ breakfast. (önce)",
+      "options": [
+        {
+          "id": "a",
+          "text": "before"
+        },
+        {
+          "id": "b",
+          "text": "after"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Before: önce.",
+      "optionExplanations": {
+        "b": "After sonra demektir.",
+        "c": "In kalıba uymaz.",
+        "d": "On kalıba uymaz."
+      },
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-19",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We have lunch ___ noon.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Kalıp: at noon.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Kalıp at noon."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-20",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "School starts ___ September.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Ay: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "On gün için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-21",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He visits his parents ___ Sundays.",
+      "answers": [
+        "on"
+      ],
+      "explanation": "Gün: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "In ay, yıl için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-22",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We have a holiday ___ summer.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Mevsim: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "at",
+          "explanation": "At saat için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-23",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The shop is open from Monday ___ Saturday.",
+      "answers": [
+        "to",
+        "until"
+      ],
+      "explanation": "From … to …",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "From ile to / until kullanılır."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-24",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She studies ___ the afternoon.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Gün bölümü: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "at",
+          "explanation": "Gün bölümünde in."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-25",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The shop closes ___ midnight.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Kalıp: at midnight.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Kalıp at midnight."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-26",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have English in Monday.",
+      "errorSpan": "in Monday",
+      "answers": [
+        "I have English on Monday."
+      ],
+      "explanation": "Günde on.",
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-27",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "My birthday is in 5 May.",
+      "errorSpan": "in 5",
+      "answers": [
+        "My birthday is on 5 May."
+      ],
+      "explanation": "Tarihte on.",
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-28",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was born on 1995.",
+      "errorSpan": "on 1995",
+      "answers": [
+        "I was born in 1995."
+      ],
+      "explanation": "Yılda in.",
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-29",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It is hot at July.",
+      "errorSpan": "at July",
+      "answers": [
+        "It is hot in July."
+      ],
+      "explanation": "Ayda in.",
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-30",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I drink coffee at the morning.",
+      "errorSpan": "at the morning",
+      "answers": [
+        "I drink coffee in the morning."
+      ],
+      "explanation": "Gün bölümünde in.",
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-31",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Doğum günüm Ekim'de.",
+      "answer": [
+        "My",
+        "birthday",
+        "is",
+        "in",
+        "October"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "on",
+        "at"
+      ],
+      "explanation": "in + ay",
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-32",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geceleri uyurum.",
+      "answer": [
+        "I",
+        "sleep",
+        "at",
+        "night"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "in",
+        "on"
+      ],
+      "explanation": "at night",
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-33",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Cumartesi alışverişe gideriz.",
+      "answer": [
+        "We",
+        "go",
+        "shopping",
+        "on",
+        "Saturday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "in",
+        "at"
+      ],
+      "explanation": "on + gün",
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-34",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "9'dan 5'e kadar çalışırım.",
+      "answer": [
+        "I",
+        "work",
+        "from",
+        "9",
+        "to",
+        "5"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "at",
+        "until"
+      ],
+      "explanation": "from … to …",
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-35",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "1995'te doğdu.",
+      "hint": "doğmak: be born",
+      "answers": [
+        "She was born in 1995.",
+        "He was born in 1995."
+      ],
+      "targetStructure": "in + yıl",
+      "explanation": "Yıl: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She was born on 1995.",
+          "explanation": "Yıl: in."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-36",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geceleri uyurum.",
+      "hint": "uyumak: sleep",
+      "answers": [
+        "I sleep at night."
+      ],
+      "targetStructure": "at night",
+      "explanation": "Kalıp.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I sleep in the night.",
+          "explanation": "Kalıp: at night."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-37",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sabahları kahve içerim.",
+      "hint": "kahve: coffee",
+      "answers": [
+        "I drink coffee in the morning."
+      ],
+      "targetStructure": "in the morning",
+      "explanation": "Gün bölümü.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I drink coffee at the morning.",
+          "explanation": "In the morning."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-38",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "on Monday morning"
+        },
+        {
+          "id": "b",
+          "text": "in Monday morning"
+        },
+        {
+          "id": "c",
+          "text": "at Monday morning"
+        },
+        {
+          "id": "d",
+          "text": "to Monday morning"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gün adı varsa on.",
+      "optionExplanations": {
+        "b": "Gün adı varsa on.",
+        "c": "Gün adı varsa on.",
+        "d": "To yok."
+      },
+      "tags": [
+        "prepositions-time",
+        "on"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-39",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I work at 9 o'clock on Monday."
+        },
+        {
+          "id": "b",
+          "text": "I work in 9 o'clock in Monday."
+        },
+        {
+          "id": "c",
+          "text": "I work on 9 o'clock at Monday."
+        },
+        {
+          "id": "d",
+          "text": "I work at 9 o'clock in Monday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Saat: at, gün: on.",
+      "optionExplanations": {
+        "b": "Saatte at, günde on.",
+        "c": "Saatte at, günde on.",
+        "d": "Günde on."
+      },
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-40",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I sleep at night."
+        },
+        {
+          "id": "b",
+          "text": "I sleep in night."
+        },
+        {
+          "id": "c",
+          "text": "I sleep on night."
+        },
+        {
+          "id": "d",
+          "text": "I sleep at the night."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kalıp: at night.",
+      "optionExplanations": {
+        "b": "Kalıp at night.",
+        "c": "Kalıp at night.",
+        "d": "Artikel yok."
+      },
+      "tags": [
+        "prepositions-time",
+        "at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-41",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ do you get up?",
+      "answers": [
+        "time"
+      ],
+      "explanation": "What time …?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hour",
+          "explanation": "What time denir."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-42",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "When is your birthday? It's ___ March.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Ay: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "On gün için."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "in"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-43",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Saat kaçta kalkarsın?",
+      "hint": "kalkmak: get up",
+      "answers": [
+        "What time do you get up?"
+      ],
+      "targetStructure": "What time + do …",
+      "explanation": "Zaman sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What hour do you get up?",
+          "explanation": "What time denir."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-prepositions-time-44",
+      "lessonId": "a1-prepositions-time",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Akşam yemeğinden sonra televizyon izler.",
+      "hint": "akşam yemeği: dinner",
+      "answers": [
+        "He watches TV after dinner.",
+        "She watches TV after dinner."
+      ],
+      "targetStructure": "after + isim",
+      "explanation": "After: sonra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He watches TV after the dinner.",
+          "explanation": "After dinner'da artikel yok."
+        }
+      ],
+      "tags": [
+        "prepositions-time",
+        "others"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-prepositions-time",
+    "title": "Prepositions of Time: Konu sonu sınavı",
+    "description": "Zaman edatları in / on / at ve diğerleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-prepositions-time-exam-01",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The class starts ___ 9 o'clock.",
+        "options": [
+          {
+            "id": "a",
+            "text": "at"
+          },
+          {
+            "id": "b",
+            "text": "in"
+          },
+          {
+            "id": "c",
+            "text": "on"
+          },
+          {
+            "id": "d",
+            "text": "to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Saat: at.",
+        "optionExplanations": {
+          "b": "In ay, yıl için.",
+          "c": "On gün için.",
+          "d": "To yön."
+        },
+        "tags": [
+          "prepositions-time",
+          "at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-02",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I have a test ___ Friday.",
+        "answers": [
+          "on"
+        ],
+        "explanation": "Gün: on.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "in",
+            "explanation": "In ay, yıl için."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "on"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-03",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Temmuzda hava sıcak.",
+        "answer": [
+          "It",
+          "is",
+          "hot",
+          "in",
+          "July"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "in + ay",
+        "tags": [
+          "prepositions-time",
+          "in"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-04",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I get up on 7 o'clock.",
+        "errorSpan": "on 7",
+        "answers": [
+          "I get up at 7 o'clock."
+        ],
+        "explanation": "Saatte at.",
+        "tags": [
+          "prepositions-time",
+          "at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-05",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kışın kar yağar.",
+        "hint": "kar yağmak: snow",
+        "answers": [
+          "It snows in winter."
+        ],
+        "targetStructure": "in + mevsim",
+        "explanation": "Mevsim: in.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "It snows on winter.",
+            "explanation": "Mevsim: in."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "in"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-06",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "My birthday is ___ 12 June.",
+        "options": [
+          {
+            "id": "a",
+            "text": "on"
+          },
+          {
+            "id": "b",
+            "text": "in"
+          },
+          {
+            "id": "c",
+            "text": "at"
+          },
+          {
+            "id": "d",
+            "text": "to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Tarih: on.",
+        "optionExplanations": {
+          "b": "In ay için, tarih için on.",
+          "c": "At saat.",
+          "d": "To yön."
+        },
+        "tags": [
+          "prepositions-time",
+          "on"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-07",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He reads ___ the evening.",
+        "answers": [
+          "in"
+        ],
+        "explanation": "Gün bölümü: in.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "at",
+            "explanation": "Gün bölümünde in."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "in"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-08",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Pazartesiden cumartesiye açık.",
+        "answer": [
+          "It",
+          "is",
+          "open",
+          "from",
+          "Monday",
+          "to",
+          "Saturday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "at",
+          "in"
+        ],
+        "explanation": "from … to …",
+        "tags": [
+          "prepositions-time",
+          "others"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-09",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He works in the weekend.",
+        "errorSpan": "in the weekend",
+        "answers": [
+          "He works at the weekend.",
+          "He works on the weekend."
+        ],
+        "explanation": "İngiliz İngilizcesi: at the weekend; Amerikan İngilizcesi: on the weekend.",
+        "tags": [
+          "prepositions-time",
+          "at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-10",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kahvaltıdan önce dişlerimi fırçalarım.",
+        "hint": "diş fırçalamak: brush my teeth",
+        "answers": [
+          "I brush my teeth before breakfast."
+        ],
+        "targetStructure": "before + isim",
+        "explanation": "Before: önce.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I brush my teeth after breakfast.",
+            "explanation": "Anlam tersine döner."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "others"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-11",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "We have lunch ___ noon.",
+        "options": [
+          {
+            "id": "a",
+            "text": "at"
+          },
+          {
+            "id": "b",
+            "text": "in"
+          },
+          {
+            "id": "c",
+            "text": "on"
+          },
+          {
+            "id": "d",
+            "text": "to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kalıp: at noon.",
+        "optionExplanations": {
+          "b": "Kalıp at noon.",
+          "c": "Kalıp at noon.",
+          "d": "To yön."
+        },
+        "tags": [
+          "prepositions-time",
+          "at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-12",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He was born ___ 2001.",
+        "answers": [
+          "in"
+        ],
+        "explanation": "Yıl: in.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "on",
+            "explanation": "Yılda in."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "in"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-13",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The party is in Saturday night.",
+        "errorSpan": "in Saturday",
+        "answers": [
+          "The party is on Saturday night."
+        ],
+        "explanation": "Gün adı varsa on.",
+        "tags": [
+          "prepositions-time",
+          "on"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-14",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "at night"
+          },
+          {
+            "id": "b",
+            "text": "in night"
+          },
+          {
+            "id": "c",
+            "text": "on night"
+          },
+          {
+            "id": "d",
+            "text": "at the night"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kalıp: at night.",
+        "optionExplanations": {
+          "b": "Kalıp at night.",
+          "c": "Kalıp at night.",
+          "d": "Artikel yok."
+        },
+        "tags": [
+          "prepositions-time",
+          "at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-15",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "What ___ does the film start?",
+        "answers": [
+          "time"
+        ],
+        "explanation": "What time …?",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "hour",
+            "explanation": "What time denir."
+          }
+        ],
+        "tags": [
+          "prepositions-time",
+          "others"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-prepositions-time-exam-16",
+        "lessonId": "a1-prepositions-time",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Akşamları televizyon izleriz.",
+        "answer": [
+          "We",
+          "watch",
+          "TV",
+          "in",
+          "the",
+          "evening"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "at",
+          "on"
+        ],
+        "explanation": "in the evening",
+        "tags": [
+          "prepositions-time",
+          "in"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      }
+    ]
+  }
+}
