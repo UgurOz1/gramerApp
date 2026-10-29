@@ -1,0 +1,2338 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-third-conditional-intro",
+  "levelId": "b1",
+  "title": "Third Conditional: Intro",
+  "objectives": [
+    "Geçmişte olmamış durumları If + had + V3, would have + V3 ile anlatmak",
+    "Olumsuz ve soru biçimlerini kurmak",
+    "Could have ve might have kullanmak",
+    "Wish / if only ile pişmanlık anlatmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Third Conditional nedir?",
+      "paragraphs": [
+        "Third Conditional, geçmişte olmamış bir şeyi ve onun hayalî sonucunu anlatır: “Çalışsaydım sınavı geçerdim.” Aslında çalışılmadı ve sınav geçilmedi. Değişmesi artık imkânsız olan geçmişe dair pişmanlık, eleştiri ve varsayım için kullanılır.",
+        "Yapı: If + Past Perfect (had + V3), would have + V3. Türkçedeki “-seydi … -erdi” yapısına karşılık gelir."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "If cümlesi had + V3, ana cümle would have + V3 ile kurulur. If cümlesi başta ise virgül konur, sonda ise konmaz."
+      ],
+      "formulas": [
+        {
+          "label": "If başta",
+          "pattern": "If + had + V3, + would have + V3",
+          "exampleIds": [
+            "ex-third-cond-01",
+            "ex-third-cond-02",
+            "ex-third-cond-03",
+            "ex-third-cond-04",
+            "ex-third-cond-06",
+            "ex-third-cond-07"
+          ]
+        },
+        {
+          "label": "If sonda",
+          "pattern": "would have + V3 + if + had + V3",
+          "exampleIds": [
+            "ex-third-cond-11",
+            "ex-third-cond-12"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "If + hadn’t + V3, … / … wouldn’t have + V3",
+          "exampleIds": [
+            "ex-third-cond-05",
+            "ex-third-cond-08",
+            "ex-third-cond-09",
+            "ex-third-cond-10"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "What would you have done if …?   Would you have … if …?",
+          "exampleIds": [
+            "ex-third-cond-13",
+            "ex-third-cond-14"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I would have.   No, I wouldn’t have.",
+          "exampleIds": [
+            "ex-third-cond-15",
+            "ex-third-cond-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "type": "rule",
+      "title": "Could have ve might have",
+      "paragraphs": [
+        "Ana cümlede would have yerine could have (yapabilirdim) ve might have (belki yapardım) kullanılabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Could / might have",
+          "pattern": "If + had + V3, + could / might have + V3",
+          "exampleIds": [
+            "ex-third-cond-18",
+            "ex-third-cond-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "real",
+      "type": "forms",
+      "title": "Gerçek durum ve hayalî sonuç",
+      "forms": [
+        {
+          "label": "Gerçek geçmiş",
+          "formula": "I didn’t study, so I didn’t pass.",
+          "exampleIds": [
+            "ex-third-cond-21"
+          ],
+          "note": "Olan."
+        },
+        {
+          "label": "Hayalî geçmiş",
+          "formula": "If I had studied, I would have passed.",
+          "exampleIds": [
+            "ex-third-cond-22"
+          ],
+          "note": "Olmayan, ama olsaydı."
+        },
+        {
+          "label": "Dikkat",
+          "formula": "Olumlu if = gerçekte olumsuz; olumsuz if = gerçekte olumlu.",
+          "exampleIds": [
+            "ex-third-cond-08",
+            "ex-third-cond-09"
+          ],
+          "note": "If it hadn’t rained = Gerçekte yağmur yağdı."
+        }
+      ]
+    },
+    {
+      "id": "three",
+      "type": "forms",
+      "title": "Üç koşul cümlesi",
+      "forms": [
+        {
+          "label": "First",
+          "formula": "If I study, I will pass.",
+          "exampleIds": [
+            "ex-third-cond-23"
+          ],
+          "note": "Gerçekçi gelecek."
+        },
+        {
+          "label": "Second",
+          "formula": "If I studied, I would pass.",
+          "exampleIds": [
+            "ex-third-cond-24"
+          ],
+          "note": "Hayalî şimdi / gelecek."
+        },
+        {
+          "label": "Third",
+          "formula": "If I had studied, I would have passed.",
+          "exampleIds": [
+            "ex-third-cond-25"
+          ],
+          "note": "Hayalî geçmiş."
+        }
+      ]
+    },
+    {
+      "id": "wish",
+      "type": "rule",
+      "title": "Wish ve if only",
+      "paragraphs": [
+        "Geçmişe ilişkin pişmanlık için I wish + Past Perfect ya da If only + Past Perfect kullanılır. Bu yapı Third Conditional ile aynı mantığı paylaşır."
+      ],
+      "formulas": [
+        {
+          "label": "Pişmanlık",
+          "pattern": "I wish + özne + had + V3",
+          "exampleIds": [
+            "ex-third-cond-26"
+          ]
+        },
+        {
+          "label": "If only",
+          "pattern": "If only + özne + had + V3!",
+          "exampleIds": [
+            "ex-third-cond-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yapı",
+      "exampleIds": [
+        "ex-third-cond-01",
+        "ex-third-cond-02",
+        "ex-third-cond-03",
+        "ex-third-cond-04",
+        "ex-third-cond-05",
+        "ex-third-cond-06",
+        "ex-third-cond-07",
+        "ex-third-cond-08",
+        "ex-third-cond-09",
+        "ex-third-cond-10",
+        "ex-third-cond-11",
+        "ex-third-cond-12",
+        "ex-third-cond-17",
+        "ex-third-cond-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, modal ve karşılaştırma",
+      "exampleIds": [
+        "ex-third-cond-13",
+        "ex-third-cond-14",
+        "ex-third-cond-15",
+        "ex-third-cond-16",
+        "ex-third-cond-18",
+        "ex-third-cond-19",
+        "ex-third-cond-20",
+        "ex-third-cond-21",
+        "ex-third-cond-22",
+        "ex-third-cond-23",
+        "ex-third-cond-24",
+        "ex-third-cond-25",
+        "ex-third-cond-26",
+        "ex-third-cond-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "If I would have studied, I would have passed.",
+          "right": "If I had studied, I would have passed.",
+          "explanation": "If'ten sonra would olmaz."
+        },
+        {
+          "wrong": "If I studied, I would have passed.",
+          "right": "If I had studied, I would have passed.",
+          "explanation": "If cümlesinde Past Perfect."
+        },
+        {
+          "wrong": "If I had studied, I would pass.",
+          "right": "If I had studied, I would have passed.",
+          "explanation": "Ana cümle would have + V3."
+        },
+        {
+          "wrong": "If I had saw him, I would have said hello.",
+          "right": "If I had seen him, I would have said hello.",
+          "explanation": "V3: seen."
+        },
+        {
+          "wrong": "If I had went, I would have met him.",
+          "right": "If I had gone, I would have met him.",
+          "explanation": "V3: gone."
+        },
+        {
+          "wrong": "If she hadn't been ill, she would have came.",
+          "right": "If she hadn't been ill, she would have come.",
+          "explanation": "Would have + V3: come."
+        },
+        {
+          "wrong": "If I had studied I would have passed.",
+          "right": "If I had studied, I would have passed.",
+          "explanation": "If başta ise virgül."
+        },
+        {
+          "wrong": "I would have passed if I would have studied.",
+          "right": "I would have passed if I had studied.",
+          "explanation": "If'ten sonra would olmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Second Conditional",
+          "body": "Hayalî şimdiki durumlar için If + Past Simple, would.",
+          "lessonId": "b1-second-conditional"
+        },
+        {
+          "topic": "Past Perfect",
+          "body": "If cümlesi Past Perfect (had + V3) kullanır.",
+          "lessonId": "b1-past-perfect"
+        },
+        {
+          "topic": "Wish",
+          "body": "Wish ile dilekler ayrı bir derstir.",
+          "lessonId": "b1-wish-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "If + had + V3, would have + V3.",
+        "If cümlesinde would kullanma.",
+        "Geçmişte olmamış şeyler için; değişmesi imkânsız.",
+        "Could have ve might have de kullanılabilir.",
+        "Düzensiz fiillerin V3 biçimlerine dikkat et."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-third-cond-01",
+        "q-third-cond-02",
+        "q-third-cond-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-third-cond-01",
+      "en": "If I had studied, I would have passed the exam.",
+      "tr": "Çalışsaydım sınavı geçerdim (ama çalışmadım, geçemedim).",
+      "highlight": "If I had studied, I would have passed",
+      "note": "If + Past Perfect, would have + V3"
+    },
+    {
+      "id": "ex-third-cond-02",
+      "en": "If she had left earlier, she would have caught the train.",
+      "tr": "Daha erken çıksaydı trene yetişirdi.",
+      "highlight": "If she had left earlier, she would have caught"
+    },
+    {
+      "id": "ex-third-cond-03",
+      "en": "If we had known, we would have helped.",
+      "tr": "Bilseydik yardım ederdik.",
+      "highlight": "If we had known, we would have helped"
+    },
+    {
+      "id": "ex-third-cond-04",
+      "en": "If they had won, they would have celebrated.",
+      "tr": "Kazansalardı kutlarlardı.",
+      "highlight": "If they had won, they would have celebrated"
+    },
+    {
+      "id": "ex-third-cond-05",
+      "en": "If he had been careful, he wouldn't have had an accident.",
+      "tr": "Dikkatli olsaydı kaza yapmazdı.",
+      "highlight": "If he had been careful, he wouldn't have had",
+      "note": "wouldn't have + V3"
+    },
+    {
+      "id": "ex-third-cond-06",
+      "en": "If I had seen him, I would have said hello.",
+      "tr": "Onu görseydim merhaba derdim.",
+      "highlight": "If I had seen him, I would have said"
+    },
+    {
+      "id": "ex-third-cond-07",
+      "en": "If you had told me, I would have come.",
+      "tr": "Bana söyleseydin gelirdim.",
+      "highlight": "If you had told me, I would have come"
+    },
+    {
+      "id": "ex-third-cond-08",
+      "en": "If it hadn't rained, we would have gone out.",
+      "tr": "Yağmur yağmasaydı dışarı çıkardık.",
+      "highlight": "If it hadn't rained, we would have gone out",
+      "note": "olumsuz if: hadn't + V3"
+    },
+    {
+      "id": "ex-third-cond-09",
+      "en": "If she hadn't been ill, she would have come.",
+      "tr": "Hasta olmasaydı gelirdi.",
+      "highlight": "If she hadn't been ill, she would have come"
+    },
+    {
+      "id": "ex-third-cond-10",
+      "en": "If I hadn't missed the bus, I wouldn't have been late.",
+      "tr": "Otobüsü kaçırmasaydım geç kalmazdım.",
+      "highlight": "If I hadn't missed the bus, I wouldn't have been late"
+    },
+    {
+      "id": "ex-third-cond-11",
+      "en": "I would have passed if I had studied.",
+      "tr": "Çalışsaydım geçerdim.",
+      "highlight": "I would have passed if I had studied",
+      "note": "if sonda: virgül yok"
+    },
+    {
+      "id": "ex-third-cond-12",
+      "en": "She would have caught the train if she had left earlier.",
+      "tr": "Daha erken çıksaydı trene yetişirdi.",
+      "highlight": "She would have caught the train if she had left earlier"
+    },
+    {
+      "id": "ex-third-cond-13",
+      "en": "What would you have done if you had won?",
+      "tr": "Kazansaydın ne yapardın?",
+      "highlight": "What would you have done if you had won?",
+      "note": "soru"
+    },
+    {
+      "id": "ex-third-cond-14",
+      "en": "Would you have helped if you had known?",
+      "tr": "Bilseydin yardım eder miydin?",
+      "highlight": "Would you have helped if you had known?"
+    },
+    {
+      "id": "ex-third-cond-15",
+      "en": "Yes, I would have.",
+      "tr": "Evet, ederdim.",
+      "highlight": "Yes, I would have",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-third-cond-16",
+      "en": "No, I wouldn't have.",
+      "tr": "Hayır, etmezdim.",
+      "highlight": "No, I wouldn't have"
+    },
+    {
+      "id": "ex-third-cond-17",
+      "en": "If I had had more money, I would have bought it.",
+      "tr": "Daha çok param olsaydı onu alırdım.",
+      "highlight": "If I had had more money",
+      "note": "had had: have'in V3'ü"
+    },
+    {
+      "id": "ex-third-cond-18",
+      "en": "If he had known, he could have helped.",
+      "tr": "Bilseydi yardım edebilirdi.",
+      "highlight": "he could have helped",
+      "note": "could have: yapabilirdi"
+    },
+    {
+      "id": "ex-third-cond-19",
+      "en": "If she had called, I might have answered.",
+      "tr": "Arasaydı belki açardım.",
+      "highlight": "I might have answered",
+      "note": "might have: belki yapardım"
+    },
+    {
+      "id": "ex-third-cond-20",
+      "en": "If I had been there, I would have seen it.",
+      "tr": "Orada olsaydım görürdüm.",
+      "highlight": "If I had been there, I would have seen it"
+    },
+    {
+      "id": "ex-third-cond-21",
+      "en": "I didn't study, so I didn't pass.",
+      "tr": "Çalışmadım, bu yüzden geçemedim.",
+      "highlight": "I didn't study, so I didn't pass",
+      "note": "gerçek geçmiş"
+    },
+    {
+      "id": "ex-third-cond-22",
+      "en": "If I had studied, I would have passed.",
+      "tr": "Çalışsaydım geçerdim.",
+      "highlight": "If I had studied, I would have passed",
+      "note": "hayalî geçmiş"
+    },
+    {
+      "id": "ex-third-cond-23",
+      "en": "If I study, I will pass.",
+      "tr": "Çalışırsam geçeceğim.",
+      "highlight": "If I study, I will pass",
+      "note": "First: gerçekçi gelecek"
+    },
+    {
+      "id": "ex-third-cond-24",
+      "en": "If I studied, I would pass.",
+      "tr": "Çalışsam geçerdim.",
+      "highlight": "If I studied, I would pass",
+      "note": "Second: hayalî şimdi"
+    },
+    {
+      "id": "ex-third-cond-25",
+      "en": "If I had studied, I would have passed.",
+      "tr": "Çalışsaydım geçerdim.",
+      "highlight": "If I had studied, I would have passed",
+      "note": "Third: geçmişe pişmanlık"
+    },
+    {
+      "id": "ex-third-cond-26",
+      "en": "I wish I had studied.",
+      "tr": "Keşke çalışsaydım.",
+      "highlight": "I wish I had studied",
+      "note": "pişmanlık"
+    },
+    {
+      "id": "ex-third-cond-27",
+      "en": "If only I had known!",
+      "tr": "Keşke bilseydim!",
+      "highlight": "If only I had known",
+      "note": "If only + Past Perfect"
+    },
+    {
+      "id": "ex-third-cond-28",
+      "en": "If they had arrived earlier, they would have seen the show.",
+      "tr": "Daha erken gelselerdi gösteriyi görürlerdi.",
+      "highlight": "If they had arrived earlier, they would have seen"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-third-cond-01",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If I ___ studied, I would have passed the exam.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "would have"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + had + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş için had.",
+        "c": "If'ten sonra would olmaz.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-02",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I had studied, I ___ have passed.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "would have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Geçmiş hayalî: would have."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-03",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çalışsaydım sınavı geçerdim.",
+      "answer": [
+        "If",
+        "I",
+        "had",
+        "studied",
+        "I",
+        "would",
+        "have",
+        "passed",
+        "the",
+        "exam"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "study"
+      ],
+      "explanation": "If + had + V3, would have + V3",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-third-cond-04",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I studied, I would have passed.",
+      "errorSpan": "studied, I",
+      "answers": [
+        "If I had studied, I would have passed."
+      ],
+      "explanation": "If cümlesi Past Perfect.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-05",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çalışsaydım sınavı geçerdim.",
+      "hint": "geçmek: pass",
+      "answers": [
+        "If I had studied, I would have passed the exam.",
+        "I would have passed the exam if I had studied.",
+        "If I had studied, I would have passed."
+      ],
+      "targetStructure": "If + had + V3",
+      "explanation": "Third Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I studied, I would have passed the exam.",
+          "explanation": "If cümlesi Past Perfect."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-06",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If she had left earlier, she ___ caught the train.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would have"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "will have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "would have + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş için would have.",
+        "c": "Will have farklı.",
+        "d": "Had farklı."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-07",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If we had ___, we would have helped. (know)",
+      "options": [
+        {
+          "id": "a",
+          "text": "known"
+        },
+        {
+          "id": "b",
+          "text": "knew"
+        },
+        {
+          "id": "c",
+          "text": "know"
+        },
+        {
+          "id": "d",
+          "text": "knowing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: known.",
+      "optionExplanations": {
+        "b": "V2'dir.",
+        "c": "Yalın fiil.",
+        "d": "-ing."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-08",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If they had ___, they would have celebrated. (win)",
+      "options": [
+        {
+          "id": "a",
+          "text": "won"
+        },
+        {
+          "id": "b",
+          "text": "win"
+        },
+        {
+          "id": "c",
+          "text": "wins"
+        },
+        {
+          "id": "d",
+          "text": "winning"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: won.",
+      "optionExplanations": {
+        "b": "Yalın fiil.",
+        "c": "Yalın fiil.",
+        "d": "-ing."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-09",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If we had ___, we would have helped. (know)",
+      "answers": [
+        "known"
+      ],
+      "explanation": "V3: known.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "knew",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-10",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I had seen him, I would have ___ hello. (say)",
+      "answers": [
+        "said"
+      ],
+      "explanation": "V3: said.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "say",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-11",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If you had told me, I would have ___. (come)",
+      "answers": [
+        "come"
+      ],
+      "explanation": "V3: come.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "came",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-12",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I had studied, I would have passed."
+        },
+        {
+          "id": "b",
+          "text": "If I would have studied, I would have passed."
+        },
+        {
+          "id": "c",
+          "text": "If I had studied, I would pass."
+        },
+        {
+          "id": "d",
+          "text": "If I studied, I would have passed."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + had + V3, would have + V3.",
+      "optionExplanations": {
+        "b": "If'ten sonra would olmaz.",
+        "c": "Ana cümle would have + V3.",
+        "d": "If cümlesi Past Perfect."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-13",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If it ___ rained, we would have gone out.",
+      "options": [
+        {
+          "id": "a",
+          "text": "hadn't"
+        },
+        {
+          "id": "b",
+          "text": "didn't"
+        },
+        {
+          "id": "c",
+          "text": "wouldn't"
+        },
+        {
+          "id": "d",
+          "text": "haven't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "hadn't + V3.",
+      "optionExplanations": {
+        "b": "Didn't V3 almaz.",
+        "c": "Wouldn't if'ten sonra olmaz.",
+        "d": "Haven't farklı."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-third-cond-14",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If I hadn't missed the bus, I ___ been late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wouldn't have"
+        },
+        {
+          "id": "b",
+          "text": "won't have"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "hadn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wouldn't have + V3.",
+      "optionExplanations": {
+        "b": "Hayalî geçmiş: wouldn't have.",
+        "c": "Didn't V3 almaz.",
+        "d": "If cümlesine ait."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-third-cond-15",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What would you ___ done if you had won?",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "would have + V3.",
+      "optionExplanations": {
+        "b": "Would'dan sonra have.",
+        "c": "Had farklı.",
+        "d": "Be farklı."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-16",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you have helped if you had known?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Would"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Will"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Would + özne + have.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "Will kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-17",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If he had known, he ___ have helped. (yapabilirdi)",
+      "options": [
+        {
+          "id": "a",
+          "text": "could"
+        },
+        {
+          "id": "b",
+          "text": "can"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "must"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "could have + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş: could have.",
+        "c": "Will have olmaz.",
+        "d": "Must have farklı."
+      },
+      "tags": [
+        "third-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-third-cond-18",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If it ___ rained, we would have gone out. (yağmasaydı)",
+      "answers": [
+        "hadn't",
+        "had not"
+      ],
+      "explanation": "hadn't + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't",
+          "explanation": "Past Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-third-cond-19",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If she hadn't been ill, she ___ have come.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "would have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Geçmiş hayalî: would have."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-20",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you have done if you had won?",
+      "answers": [
+        "would"
+      ],
+      "explanation": "What would you have done.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Geçmiş hayalî: would."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-21",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you have helped if you had known?",
+      "answers": [
+        "Would"
+      ],
+      "explanation": "Would + özne + have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did",
+          "explanation": "Would gerekir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-22",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I hadn't missed the bus, I ___ have been late. (wouldn't)",
+      "answers": [
+        "wouldn't"
+      ],
+      "explanation": "wouldn't have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't",
+          "explanation": "Geçmiş hayalî: wouldn't have."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-third-cond-23",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I had ___ more money, I would have bought it. (have)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "had had.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Past Perfect: had had."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-24",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If she had called, I ___ have answered. (belki)",
+      "answers": [
+        "might"
+      ],
+      "explanation": "might have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Olasılık: might."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-third-cond-25",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I would have passed ___ I had studied.",
+      "answers": [
+        "if"
+      ],
+      "explanation": "if.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "when",
+          "explanation": "Hayalî koşul: if."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-26",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I would have studied, I would have passed.",
+      "errorSpan": "would have studied",
+      "answers": [
+        "If I had studied, I would have passed."
+      ],
+      "explanation": "If'ten sonra would olmaz.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-27",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had studied, I would pass.",
+      "errorSpan": "would pass",
+      "answers": [
+        "If I had studied, I would have passed."
+      ],
+      "explanation": "Ana cümle would have + V3.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-28",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had saw him, I would have said hello.",
+      "errorSpan": "had saw",
+      "answers": [
+        "If I had seen him, I would have said hello."
+      ],
+      "explanation": "V3: seen.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-29",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had went, I would have met him.",
+      "errorSpan": "had went",
+      "answers": [
+        "If I had gone, I would have met him."
+      ],
+      "explanation": "V3: gone.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-30",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If she hadn't been ill, she would have came.",
+      "errorSpan": "have came",
+      "answers": [
+        "If she hadn't been ill, she would have come."
+      ],
+      "explanation": "V3: come.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-31",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bilseydik yardım ederdik.",
+      "answer": [
+        "If",
+        "we",
+        "had",
+        "known",
+        "we",
+        "would",
+        "have",
+        "helped"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "knew",
+        "will"
+      ],
+      "explanation": "If + had + V3",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-32",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kazansaydın ne yapardın?",
+      "answer": [
+        "What",
+        "would",
+        "you",
+        "have",
+        "done",
+        "if",
+        "you",
+        "had",
+        "won"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "will",
+        "do"
+      ],
+      "explanation": "What would you have done",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-33",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana söyleseydin gelirdim.",
+      "answer": [
+        "If",
+        "you",
+        "had",
+        "told",
+        "me",
+        "I",
+        "would",
+        "have",
+        "come"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "came",
+        "will"
+      ],
+      "explanation": "If + had + V3",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-34",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Daha erken çıksaydı trene yetişirdi.",
+      "hint": "yetişmek: catch",
+      "answers": [
+        "If she had left earlier, she would have caught the train.",
+        "She would have caught the train if she had left earlier."
+      ],
+      "targetStructure": "If + had + V3",
+      "explanation": "Third Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If she left earlier, she would have caught the train.",
+          "explanation": "If cümlesi Past Perfect."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-35",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağmasaydı dışarı çıkardık.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "If it hadn't rained, we would have gone out.",
+        "We would have gone out if it hadn't rained."
+      ],
+      "targetStructure": "hadn't + V3",
+      "explanation": "Olumsuz if.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If it didn't rain, we would have gone out.",
+          "explanation": "Past Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-third-cond-36",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bilseydi yardım edebilirdi.",
+      "hint": "yardım etmek: help",
+      "answers": [
+        "If he had known, he could have helped.",
+        "If she had known, she could have helped."
+      ],
+      "targetStructure": "could have + V3",
+      "explanation": "Could have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If he had known, he can help.",
+          "explanation": "Geçmiş: could have."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-third-cond-37",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle geçmişteki hayalî durumu anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I had studied, I would have passed."
+        },
+        {
+          "id": "b",
+          "text": "If I studied, I would pass."
+        },
+        {
+          "id": "c",
+          "text": "If I study, I will pass."
+        },
+        {
+          "id": "d",
+          "text": "If you heat ice, it melts."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Third Conditional.",
+      "optionExplanations": {
+        "b": "Second Conditional.",
+        "c": "First Conditional.",
+        "d": "Zero Conditional."
+      },
+      "tags": [
+        "third-cond",
+        "three"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-38",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'I didn't study, so I didn't pass.' ile aynı fikir hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I had studied, I would have passed."
+        },
+        {
+          "id": "b",
+          "text": "If I studied, I would pass."
+        },
+        {
+          "id": "c",
+          "text": "If I study, I will pass."
+        },
+        {
+          "id": "d",
+          "text": "If I had studied, I would pass."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gerçek geçmişin hayalî hâli.",
+      "optionExplanations": {
+        "b": "Second Conditional.",
+        "c": "First Conditional.",
+        "d": "Karışık."
+      },
+      "tags": [
+        "third-cond",
+        "real"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-39",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "If it hadn't rained, we would have gone out. Gerçekte ne oldu?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yağmur yağdı, çıkmadık."
+        },
+        {
+          "id": "b",
+          "text": "Yağmur yağmadı, çıktık."
+        },
+        {
+          "id": "c",
+          "text": "Yağmur yağdı, çıktık."
+        },
+        {
+          "id": "d",
+          "text": "Yağmur yağmadı, çıkmadık."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz if = gerçekte olumlu.",
+      "optionExplanations": {
+        "b": "Tersi.",
+        "c": "Anlam tutmaz.",
+        "d": "Anlam tutmaz."
+      },
+      "tags": [
+        "third-cond",
+        "real"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-40",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I wish I ___ studied. (pişmanlık)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "I wish + had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Geçmiş pişmanlık: had."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "wish"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-41",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If only I ___ known! (keşke)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "If only + had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Geçmiş pişmanlık: had."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "wish"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-42",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke çalışsaydım.",
+      "hint": "çalışmak: study",
+      "answers": [
+        "I wish I had studied.",
+        "If only I had studied."
+      ],
+      "targetStructure": "wish + had + V3",
+      "explanation": "Pişmanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish I studied.",
+          "explanation": "Geçmiş pişmanlık: had."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "wish"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-43",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dikkatli olsaydı kaza yapmazdı.",
+      "hint": "kaza yapmak: have an accident",
+      "answers": [
+        "If he had been careful, he wouldn't have had an accident."
+      ],
+      "targetStructure": "had been … wouldn't have had",
+      "explanation": "Olumsuz sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If he was careful, he wouldn't have an accident.",
+          "explanation": "Third Conditional: Past Perfect."
+        }
+      ],
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-third-cond-44",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had studied I would have passed.",
+      "errorSpan": "studied I",
+      "answers": [
+        "If I had studied, I would have passed."
+      ],
+      "explanation": "If başta ise virgül.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-third-cond-45",
+      "lessonId": "b1-third-conditional-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I would have passed if I would have studied.",
+      "errorSpan": "would have studied",
+      "answers": [
+        "I would have passed if I had studied."
+      ],
+      "explanation": "If'ten sonra would olmaz.",
+      "tags": [
+        "third-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-third-cond",
+    "title": "Third Conditional: Konu sonu sınavı",
+    "description": "If + had + V3, would have + V3.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-third-cond-exam-01",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If he ___ been careful, he wouldn't have had an accident.",
+        "options": [
+          {
+            "id": "a",
+            "text": "had"
+          },
+          {
+            "id": "b",
+            "text": "has"
+          },
+          {
+            "id": "c",
+            "text": "would"
+          },
+          {
+            "id": "d",
+            "text": "was"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "had + V3.",
+        "optionExplanations": {
+          "b": "Geçmiş için had.",
+          "c": "If'ten sonra would olmaz.",
+          "d": "Be fiili kullanılmaz."
+        },
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-02",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "If they had won, they ___ have celebrated.",
+        "answers": [
+          "would"
+        ],
+        "explanation": "would have + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will",
+            "explanation": "Geçmiş: would have."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-03",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Daha erken gelselerdi gösteriyi görürlerdi.",
+        "answer": [
+          "If",
+          "they",
+          "had",
+          "arrived",
+          "earlier",
+          "they",
+          "would",
+          "have",
+          "seen",
+          "the",
+          "show"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "arrive",
+          "will"
+        ],
+        "explanation": "If + had + V3",
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-04",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If she had left earlier, she would catch the train.",
+        "errorSpan": "would catch",
+        "answers": [
+          "If she had left earlier, she would have caught the train."
+        ],
+        "explanation": "Ana cümle would have + V3.",
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-05",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Onu görseydim merhaba derdim.",
+        "hint": "demek: say",
+        "answers": [
+          "If I had seen him, I would have said hello."
+        ],
+        "targetStructure": "If + had + V3",
+        "explanation": "Third Conditional.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If I saw him, I would have said hello.",
+            "explanation": "If cümlesi Past Perfect."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-06",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If I ___ missed the bus, I wouldn't have been late.",
+        "options": [
+          {
+            "id": "a",
+            "text": "hadn't"
+          },
+          {
+            "id": "b",
+            "text": "didn't"
+          },
+          {
+            "id": "c",
+            "text": "wouldn't"
+          },
+          {
+            "id": "d",
+            "text": "haven't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "hadn't + V3.",
+        "optionExplanations": {
+          "b": "Didn't V3 almaz.",
+          "c": "Wouldn't if'ten sonra olmaz.",
+          "d": "Haven't farklı."
+        },
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-07",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If I hadn't been ill, I ___ have come. (gelirdim)",
+        "answers": [
+          "would"
+        ],
+        "explanation": "would have + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will",
+            "explanation": "Geçmiş: would have."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-08",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kazansaydın ne yapardın?",
+        "answer": [
+          "What",
+          "would",
+          "you",
+          "have",
+          "done",
+          "if",
+          "you",
+          "had",
+          "won",
+          "it"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "will",
+          "do"
+        ],
+        "explanation": "What would you have done",
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-09",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If I had went, I would have seen it.",
+        "errorSpan": "had went",
+        "answers": [
+          "If I had gone, I would have seen it."
+        ],
+        "explanation": "V3: gone.",
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-10",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hasta olmasaydı gelirdi.",
+        "hint": "hasta: ill",
+        "answers": [
+          "If she hadn't been ill, she would have come.",
+          "If he hadn't been ill, he would have come."
+        ],
+        "targetStructure": "hadn't been",
+        "explanation": "Olumsuz if.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If she wasn't ill, she would have come.",
+            "explanation": "Past Perfect gerekir."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-11",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "If she had called, I ___ have answered. (belki)",
+        "options": [
+          {
+            "id": "a",
+            "text": "might"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "do"
+          },
+          {
+            "id": "d",
+            "text": "am"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "might have + V3.",
+        "optionExplanations": {
+          "b": "Geçmiş: might have.",
+          "c": "Do olmaz.",
+          "d": "Be fiili."
+        },
+        "tags": [
+          "third-cond",
+          "modals"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-12",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you have come if I had invited you?",
+        "answers": [
+          "Would"
+        ],
+        "explanation": "Would + özne + have.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did",
+            "explanation": "Would gerekir."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-13",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If it had rained, we would stay home.",
+        "errorSpan": "would stay",
+        "answers": [
+          "If it had rained, we would have stayed home."
+        ],
+        "explanation": "Ana cümle would have + V3.",
+        "tags": [
+          "third-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-14",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi Third Conditional'dır?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If it had rained, we would have stayed home."
+          },
+          {
+            "id": "b",
+            "text": "If it rains, we will stay home."
+          },
+          {
+            "id": "c",
+            "text": "If it rained, we would stay home."
+          },
+          {
+            "id": "d",
+            "text": "If it rains, we stay home."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Third Conditional.",
+        "optionExplanations": {
+          "b": "First Conditional.",
+          "c": "Second Conditional.",
+          "d": "Zero Conditional."
+        },
+        "tags": [
+          "third-cond",
+          "three"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-15",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "If only I ___ listened! (keşke)",
+        "answers": [
+          "had"
+        ],
+        "explanation": "If only + had + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "Geçmiş pişmanlık: had."
+          }
+        ],
+        "tags": [
+          "third-cond",
+          "wish"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-third-cond-exam-16",
+        "lessonId": "b1-third-conditional-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Keşke bilseydim.",
+        "answer": [
+          "I",
+          "wish",
+          "I",
+          "had",
+          "known"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "knew",
+          "have"
+        ],
+        "explanation": "wish + had + V3",
+        "tags": [
+          "third-cond",
+          "wish"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      }
+    ]
+  }
+}

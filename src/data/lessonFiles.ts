@@ -42,6 +42,7 @@ import bPastPerf from "@/assets/data/levels/b1/b1-past-perfect.json";
 import bFutCont from "@/assets/data/levels/b1/b1-future-continuous.json";
 import bFutPerf from "@/assets/data/levels/b1/b1-future-perfect-intro.json";
 import bSecondC from "@/assets/data/levels/b1/b1-second-conditional.json";
+import bThirdC from "@/assets/data/levels/b1/b1-third-conditional-intro.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -101,6 +102,7 @@ export const lessonFiles: Record<string, unknown> = {
   "b1-future-continuous": bFutCont,
   "b1-future-perfect-intro": bFutPerf,
   "b1-second-conditional": bSecondC,
+  "b1-third-conditional-intro": bThirdC,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,
