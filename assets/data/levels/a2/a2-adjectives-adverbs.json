@@ -1,0 +1,2301 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-adjectives-adverbs",
+  "levelId": "a2",
+  "title": "Adjectives & Adverbs",
+  "objectives": [
+    "Sıfat ve zarf farkını ayırt etmek",
+    "Zarfı sıfata -ly ekleyerek ve -y → -ily kuralıyla yapmak",
+    "Hard, fast, late, well gibi özel biçimleri bilmek",
+    "Look, seem, taste, smell ile sıfat kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Sıfat ve zarf",
+      "paragraphs": [
+        "Sıfat (adjective) ismi niteler: a quick runner. Zarf (adverb) fiili, sıfatı ya da başka bir zarfı niteler: She runs quickly.",
+        "Türkçede ikisi çoğu zaman aynı sözcüktür (hızlı koşucu, hızlı koşar); İngilizcede biçim değişir: quick → quickly. Bu yüzden sıfatı zarf yerine kullanmak sık görülen bir hatadır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Zarf yapımı: -ly",
+      "paragraphs": [
+        "Çoğu zarf sıfata -ly eklenerek yapılır. -y ile biten sıfatlarda y → i olur (easy → easily). -le ile bitenlerde -e düşer (gentle → gently)."
+      ],
+      "formulas": [
+        {
+          "label": "+ -ly",
+          "pattern": "quick → quickly,  slow → slowly,  careful → carefully",
+          "exampleIds": [
+            "ex-adj-adv-05",
+            "ex-adj-adv-06",
+            "ex-adj-adv-07",
+            "ex-adj-adv-09"
+          ]
+        },
+        {
+          "label": "-y → -ily",
+          "pattern": "easy → easily,  happy → happily,  angry → angrily",
+          "exampleIds": [
+            "ex-adj-adv-08"
+          ]
+        },
+        {
+          "label": "Diğerleri",
+          "pattern": "fluent → fluently,  peaceful → peacefully,  beautiful → beautifully",
+          "exampleIds": [
+            "ex-adj-adv-10",
+            "ex-adj-adv-11",
+            "ex-adj-adv-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "rule",
+      "title": "Sıfat mı zarf mı?",
+      "paragraphs": [
+        "İsmin önünde ya da be fiilinden sonra sıfat, eylemi anlatan fiilden sonra zarf kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Sıfat",
+          "pattern": "a + sıfat + isim   /   be + sıfat",
+          "exampleIds": [
+            "ex-adj-adv-01",
+            "ex-adj-adv-02",
+            "ex-adj-adv-03",
+            "ex-adj-adv-04"
+          ]
+        },
+        {
+          "label": "Zarf",
+          "pattern": "fiil + zarf   →   runs quickly",
+          "exampleIds": [
+            "ex-adj-adv-05",
+            "ex-adj-adv-06",
+            "ex-adj-adv-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irregular",
+      "type": "forms",
+      "title": "Sıfatla aynı biçimli ve düzensiz zarflar",
+      "forms": [
+        {
+          "label": "hard → hard",
+          "formula": "He works hard.  /  a hard worker",
+          "exampleIds": [
+            "ex-adj-adv-12",
+            "ex-adj-adv-13"
+          ],
+          "note": "Hardly: neredeyse hiç (anlam farklı)."
+        },
+        {
+          "label": "fast → fast",
+          "formula": "He drives fast.  /  a fast driver",
+          "exampleIds": [
+            "ex-adj-adv-14",
+            "ex-adj-adv-15"
+          ],
+          "note": "Fastly yoktur."
+        },
+        {
+          "label": "late → late",
+          "formula": "She arrived late.",
+          "exampleIds": [
+            "ex-adj-adv-16"
+          ],
+          "note": "Lately: son zamanlarda (anlam farklı)."
+        },
+        {
+          "label": "good → well",
+          "formula": "She plays well.  /  a good pianist",
+          "exampleIds": [
+            "ex-adj-adv-17",
+            "ex-adj-adv-18"
+          ],
+          "note": "Goodly yoktur; zarf well."
+        }
+      ]
+    },
+    {
+      "id": "linking",
+      "type": "rule",
+      "title": "Look, seem, smell, taste, sound, feel",
+      "paragraphs": [
+        "Look, seem, smell, taste, sound, feel gibi bağlama fiillerinden sonra zarf değil sıfat gelir: The soup smells good. (smells well ✗)"
+      ],
+      "formulas": [
+        {
+          "label": "Bağlama fiili + sıfat",
+          "pattern": "look / seem / taste / smell / sound / feel + sıfat",
+          "exampleIds": [
+            "ex-adj-adv-19",
+            "ex-adj-adv-20",
+            "ex-adj-adv-21",
+            "ex-adj-adv-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modify",
+      "type": "rule",
+      "title": "Zarfla güçlendirme",
+      "paragraphs": [
+        "Very, really, extremely, quite gibi zarflar sıfatın önüne gelir ve derecesini artırır. Bunlar fiille değil sıfatla kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Derece zarfı",
+          "pattern": "very / really / extremely + sıfat",
+          "exampleIds": [
+            "ex-adj-adv-24",
+            "ex-adj-adv-25",
+            "ex-adj-adv-26"
+          ]
+        },
+        {
+          "label": "As … as",
+          "pattern": "as + zarf + as",
+          "exampleIds": [
+            "ex-adj-adv-27"
+          ]
+        },
+        {
+          "label": "Hardly",
+          "pattern": "hardly: neredeyse hiç",
+          "exampleIds": [
+            "ex-adj-adv-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: sıfat ve -ly zarflar",
+      "exampleIds": [
+        "ex-adj-adv-01",
+        "ex-adj-adv-02",
+        "ex-adj-adv-03",
+        "ex-adj-adv-04",
+        "ex-adj-adv-05",
+        "ex-adj-adv-06",
+        "ex-adj-adv-07",
+        "ex-adj-adv-08",
+        "ex-adj-adv-09",
+        "ex-adj-adv-10",
+        "ex-adj-adv-11",
+        "ex-adj-adv-23",
+        "ex-adj-adv-27"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: hard, fast, well, bağlama fiilleri",
+      "exampleIds": [
+        "ex-adj-adv-12",
+        "ex-adj-adv-13",
+        "ex-adj-adv-14",
+        "ex-adj-adv-15",
+        "ex-adj-adv-16",
+        "ex-adj-adv-17",
+        "ex-adj-adv-18",
+        "ex-adj-adv-19",
+        "ex-adj-adv-20",
+        "ex-adj-adv-21",
+        "ex-adj-adv-22",
+        "ex-adj-adv-24",
+        "ex-adj-adv-25",
+        "ex-adj-adv-26",
+        "ex-adj-adv-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She runs quick.",
+          "right": "She runs quickly.",
+          "explanation": "Fiili niteleyen zarf: quickly."
+        },
+        {
+          "wrong": "He drives careful.",
+          "right": "He drives carefully.",
+          "explanation": "Zarf: carefully."
+        },
+        {
+          "wrong": "She is a quickly runner.",
+          "right": "She is a quick runner.",
+          "explanation": "İsmi niteleyen sıfat: quick."
+        },
+        {
+          "wrong": "He plays good football.",
+          "right": "He plays football well. / He is a good player.",
+          "explanation": "Zarf: well; sıfat: good."
+        },
+        {
+          "wrong": "She speaks English good.",
+          "right": "She speaks English well.",
+          "explanation": "Fiili well niteler."
+        },
+        {
+          "wrong": "The soup smells well.",
+          "right": "The soup smells good.",
+          "explanation": "Smell bağlama fiili: sıfat."
+        },
+        {
+          "wrong": "He drives fastly.",
+          "right": "He drives fast.",
+          "explanation": "Fast sıfat ve zarf."
+        },
+        {
+          "wrong": "He works hardly.",
+          "right": "He works hard.",
+          "explanation": "Hardly: neredeyse hiç."
+        },
+        {
+          "wrong": "She looks happily.",
+          "right": "She looks happy.",
+          "explanation": "Look bağlama fiili: sıfat."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Karşılaştırma",
+          "body": "Zarfların da comparative biçimi vardır: faster, more quickly.",
+          "lessonId": "a2-comparatives-superlatives"
+        },
+        {
+          "topic": "As … as",
+          "body": "As + zarf + as yapısı.",
+          "lessonId": "a2-as-as"
+        },
+        {
+          "topic": "Too ve enough",
+          "body": "Sıfat ve zarflarla kullanılırlar.",
+          "lessonId": "a2-too-enough"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "İsim önünde sıfat, fiilden sonra zarf.",
+        "Çoğu zarf: sıfat + -ly; -y → -ily.",
+        "Hard, fast, late hem sıfat hem zarf; hardly ve lately farklı anlamdadır.",
+        "Good sıfat, well zarf.",
+        "Look, seem, taste, smell, sound, feel'den sonra sıfat gelir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-adj-adv-01",
+        "q-adj-adv-02",
+        "q-adj-adv-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-adj-adv-01",
+      "en": "She is a quick runner.",
+      "tr": "Hızlı bir koşucu.",
+      "highlight": "quick",
+      "note": "Sıfat: ismi niteler"
+    },
+    {
+      "id": "ex-adj-adv-02",
+      "en": "He is a careful driver.",
+      "tr": "Dikkatli bir sürücü.",
+      "highlight": "careful"
+    },
+    {
+      "id": "ex-adj-adv-03",
+      "en": "It was a loud noise.",
+      "tr": "Yüksek bir gürültüydü.",
+      "highlight": "loud"
+    },
+    {
+      "id": "ex-adj-adv-04",
+      "en": "This is an easy question.",
+      "tr": "Bu kolay bir soru.",
+      "highlight": "easy"
+    },
+    {
+      "id": "ex-adj-adv-05",
+      "en": "She runs quickly.",
+      "tr": "Hızlı koşar.",
+      "highlight": "quickly",
+      "note": "Zarf: fiili niteler"
+    },
+    {
+      "id": "ex-adj-adv-06",
+      "en": "He drives carefully.",
+      "tr": "Dikkatli araba kullanır.",
+      "highlight": "carefully"
+    },
+    {
+      "id": "ex-adj-adv-07",
+      "en": "He spoke loudly.",
+      "tr": "Yüksek sesle konuştu.",
+      "highlight": "loudly"
+    },
+    {
+      "id": "ex-adj-adv-08",
+      "en": "She answered the question easily.",
+      "tr": "Soruyu kolayca cevapladı.",
+      "highlight": "easily",
+      "note": "-y → -ily"
+    },
+    {
+      "id": "ex-adj-adv-09",
+      "en": "He is a slow walker. He walks slowly.",
+      "tr": "Yavaş yürür.",
+      "highlight": "slowly"
+    },
+    {
+      "id": "ex-adj-adv-10",
+      "en": "She speaks English fluently.",
+      "tr": "İngilizceyi akıcı konuşur.",
+      "highlight": "fluently"
+    },
+    {
+      "id": "ex-adj-adv-11",
+      "en": "The baby is sleeping peacefully.",
+      "tr": "Bebek huzurla uyuyor.",
+      "highlight": "peacefully"
+    },
+    {
+      "id": "ex-adj-adv-12",
+      "en": "He works hard.",
+      "tr": "Çok çalışır.",
+      "highlight": "hard",
+      "note": "hard: hem sıfat hem zarf"
+    },
+    {
+      "id": "ex-adj-adv-13",
+      "en": "She is a hard worker.",
+      "tr": "Çalışkan biri.",
+      "highlight": "hard"
+    },
+    {
+      "id": "ex-adj-adv-14",
+      "en": "He drives fast.",
+      "tr": "Hızlı sürer.",
+      "highlight": "fast",
+      "note": "fast: hem sıfat hem zarf"
+    },
+    {
+      "id": "ex-adj-adv-15",
+      "en": "He is a fast driver.",
+      "tr": "Hızlı bir sürücü.",
+      "highlight": "fast"
+    },
+    {
+      "id": "ex-adj-adv-16",
+      "en": "She arrived late.",
+      "tr": "Geç geldi.",
+      "highlight": "late",
+      "note": "late: sıfat ve zarf"
+    },
+    {
+      "id": "ex-adj-adv-17",
+      "en": "She plays the piano well.",
+      "tr": "Piyanoyu iyi çalar.",
+      "highlight": "well",
+      "note": "good → well"
+    },
+    {
+      "id": "ex-adj-adv-18",
+      "en": "She is a good pianist.",
+      "tr": "İyi bir piyanist.",
+      "highlight": "good"
+    },
+    {
+      "id": "ex-adj-adv-19",
+      "en": "The soup smells good.",
+      "tr": "Çorba güzel kokuyor.",
+      "highlight": "good",
+      "note": "duyu fiili + sıfat"
+    },
+    {
+      "id": "ex-adj-adv-20",
+      "en": "He looks tired.",
+      "tr": "Yorgun görünüyor.",
+      "highlight": "tired",
+      "note": "look + sıfat"
+    },
+    {
+      "id": "ex-adj-adv-21",
+      "en": "She seems happy.",
+      "tr": "Mutlu görünüyor.",
+      "highlight": "happy"
+    },
+    {
+      "id": "ex-adj-adv-22",
+      "en": "The food tastes delicious.",
+      "tr": "Yemek lezzetli.",
+      "highlight": "delicious"
+    },
+    {
+      "id": "ex-adj-adv-23",
+      "en": "She sings beautifully.",
+      "tr": "Güzel şarkı söyler.",
+      "highlight": "beautifully"
+    },
+    {
+      "id": "ex-adj-adv-24",
+      "en": "He is extremely tall.",
+      "tr": "Aşırı uzun.",
+      "highlight": "extremely",
+      "note": "zarf: sıfatı güçlendirir"
+    },
+    {
+      "id": "ex-adj-adv-25",
+      "en": "It is very cold.",
+      "tr": "Çok soğuk.",
+      "highlight": "very"
+    },
+    {
+      "id": "ex-adj-adv-26",
+      "en": "She is really kind.",
+      "tr": "Gerçekten nazik.",
+      "highlight": "really"
+    },
+    {
+      "id": "ex-adj-adv-27",
+      "en": "He ran as quickly as he could.",
+      "tr": "Elinden geldiğince hızlı koştu.",
+      "highlight": "quickly"
+    },
+    {
+      "id": "ex-adj-adv-28",
+      "en": "I can hardly hear you.",
+      "tr": "Seni zar zor duyuyorum.",
+      "highlight": "hardly",
+      "note": "hardly: neredeyse hiç (hard'dan farklı)"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-adj-adv-01",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She runs ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "quickly"
+        },
+        {
+          "id": "b",
+          "text": "quick"
+        },
+        {
+          "id": "c",
+          "text": "more quick"
+        },
+        {
+          "id": "d",
+          "text": "quickness"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fiili niteleyen zarf.",
+      "optionExplanations": {
+        "b": "Quick sıfattır.",
+        "c": "Biçim yanlış.",
+        "d": "Quickness isimdir."
+      },
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-02",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He drives ___. (careful)",
+      "answers": [
+        "carefully"
+      ],
+      "explanation": "Zarf: carefully.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "careful",
+          "explanation": "Sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-03",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hızlı koşar.",
+      "answer": [
+        "She",
+        "runs",
+        "quickly"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "quick",
+        "run"
+      ],
+      "explanation": "fiil + zarf",
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adj-adv-04",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She runs quick.",
+      "errorSpan": "quick",
+      "answers": [
+        "She runs quickly."
+      ],
+      "explanation": "Zarf gerekir.",
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-05",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dikkatli araba kullanır.",
+      "hint": "dikkatli: careful",
+      "answers": [
+        "He drives carefully.",
+        "She drives carefully."
+      ],
+      "targetStructure": "fiil + zarf",
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He drives careful.",
+          "explanation": "Zarf gerekir."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-06",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is a ___ runner.",
+      "options": [
+        {
+          "id": "a",
+          "text": "quick"
+        },
+        {
+          "id": "b",
+          "text": "quickly"
+        },
+        {
+          "id": "c",
+          "text": "quickness"
+        },
+        {
+          "id": "d",
+          "text": "more quickly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İsmi niteleyen sıfat.",
+      "optionExplanations": {
+        "b": "Zarf isimle kullanılmaz.",
+        "c": "İsimdir.",
+        "d": "Zarf."
+      },
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-07",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He spoke ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "loudly"
+        },
+        {
+          "id": "b",
+          "text": "loud"
+        },
+        {
+          "id": "c",
+          "text": "louder"
+        },
+        {
+          "id": "d",
+          "text": "loudness"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fiilden sonra zarf.",
+      "optionExplanations": {
+        "b": "Loud sıfattır.",
+        "c": "Comparative.",
+        "d": "İsimdir."
+      },
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-08",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She answered the question ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "easily"
+        },
+        {
+          "id": "b",
+          "text": "easy"
+        },
+        {
+          "id": "c",
+          "text": "easier"
+        },
+        {
+          "id": "d",
+          "text": "easiest"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "-y → -ily.",
+      "optionExplanations": {
+        "b": "Sıfat.",
+        "c": "Comparative.",
+        "d": "Superlative."
+      },
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-09",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This is an ___ question. (easy)",
+      "answers": [
+        "easy"
+      ],
+      "explanation": "Sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "easily",
+          "explanation": "İsmin önünde sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-10",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She sings ___. (beautiful)",
+      "answers": [
+        "beautifully"
+      ],
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "beautiful",
+          "explanation": "Fiilden sonra zarf."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-11",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He works ___. (hard)",
+      "answers": [
+        "hard"
+      ],
+      "explanation": "Hard: zarf da aynı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hardly",
+          "explanation": "Hardly: neredeyse hiç."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-12",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She plays the piano ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "well"
+        },
+        {
+          "id": "b",
+          "text": "good"
+        },
+        {
+          "id": "c",
+          "text": "goodly"
+        },
+        {
+          "id": "d",
+          "text": "better"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zarf: well.",
+      "optionExplanations": {
+        "b": "Good sıfattır.",
+        "c": "Goodly yoktur.",
+        "d": "Comparative."
+      },
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-13",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She is a ___ pianist.",
+      "options": [
+        {
+          "id": "a",
+          "text": "good"
+        },
+        {
+          "id": "b",
+          "text": "well"
+        },
+        {
+          "id": "c",
+          "text": "goodly"
+        },
+        {
+          "id": "d",
+          "text": "better"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıfat: good.",
+      "optionExplanations": {
+        "b": "Well zarftır.",
+        "c": "Goodly yoktur.",
+        "d": "Comparative."
+      },
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-14",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He drives ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "fast"
+        },
+        {
+          "id": "b",
+          "text": "fastly"
+        },
+        {
+          "id": "c",
+          "text": "fastness"
+        },
+        {
+          "id": "d",
+          "text": "more fastly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Fast: sıfat ve zarf.",
+      "optionExplanations": {
+        "b": "Fastly yoktur.",
+        "c": "İsimdir.",
+        "d": "Biçim yanlış."
+      },
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-15",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The soup smells ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "good"
+        },
+        {
+          "id": "b",
+          "text": "well"
+        },
+        {
+          "id": "c",
+          "text": "goodly"
+        },
+        {
+          "id": "d",
+          "text": "nicely"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bağlama fiili: sıfat.",
+      "optionExplanations": {
+        "b": "Smell'den sonra sıfat gelir.",
+        "c": "Goodly yoktur.",
+        "d": "Smell'den sonra sıfat gelir."
+      },
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-16",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He looks ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "tired"
+        },
+        {
+          "id": "b",
+          "text": "tiredly"
+        },
+        {
+          "id": "c",
+          "text": "tiring"
+        },
+        {
+          "id": "d",
+          "text": "more tiredly"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Look + sıfat.",
+      "optionExplanations": {
+        "b": "Look'tan sonra sıfat.",
+        "c": "Tiring farklı anlamda.",
+        "d": "Biçim yanlış."
+      },
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-17",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I can ___ hear you. (zar zor)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hardly"
+        },
+        {
+          "id": "b",
+          "text": "hard"
+        },
+        {
+          "id": "c",
+          "text": "hardy"
+        },
+        {
+          "id": "d",
+          "text": "harder"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hardly: neredeyse hiç.",
+      "optionExplanations": {
+        "b": "Hard: çok / zor.",
+        "c": "Hardy başka sözcüktür.",
+        "d": "Comparative."
+      },
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-18",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She speaks English ___. (fluent)",
+      "answers": [
+        "fluently"
+      ],
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "fluent",
+          "explanation": "Sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-19",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The baby is sleeping ___. (peaceful)",
+      "answers": [
+        "peacefully"
+      ],
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "peaceful",
+          "explanation": "Sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-20",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is a ___ driver. (fast)",
+      "answers": [
+        "fast"
+      ],
+      "explanation": "Sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "fastly",
+          "explanation": "Fastly yoktur."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-21",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She plays tennis ___. (good)",
+      "answers": [
+        "well"
+      ],
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "good",
+          "explanation": "Zarf: well."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-22",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The food tastes ___. (delicious)",
+      "answers": [
+        "delicious"
+      ],
+      "explanation": "Taste + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "deliciously",
+          "explanation": "Bağlama fiilinden sonra sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-23",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She seems ___. (happy)",
+      "answers": [
+        "happy"
+      ],
+      "explanation": "Seem + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "happily",
+          "explanation": "Bağlama fiilinden sonra sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-24",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She arrived ___. (late)",
+      "answers": [
+        "late"
+      ],
+      "explanation": "Late: zarf da aynı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "lately",
+          "explanation": "Lately: son zamanlarda."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-25",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It is ___ cold. (çok)",
+      "answers": [
+        "very"
+      ],
+      "explanation": "Derece zarfı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "good",
+          "explanation": "Sıfatla very kullanılır."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-26",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He drives careful.",
+      "errorSpan": "careful",
+      "answers": [
+        "He drives carefully."
+      ],
+      "explanation": "Zarf gerekir.",
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-27",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is a quickly runner.",
+      "errorSpan": "quickly",
+      "answers": [
+        "She is a quick runner."
+      ],
+      "explanation": "İsmi sıfat niteler.",
+      "tags": [
+        "adj-adv",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-28",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She speaks English good.",
+      "errorSpan": "good",
+      "answers": [
+        "She speaks English well."
+      ],
+      "explanation": "Zarf: well.",
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-29",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The soup smells well.",
+      "errorSpan": "well",
+      "answers": [
+        "The soup smells good."
+      ],
+      "explanation": "Bağlama fiili.",
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-30",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He drives fastly.",
+      "errorSpan": "fastly",
+      "answers": [
+        "He drives fast."
+      ],
+      "explanation": "Fastly yoktur.",
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-31",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyanoyu iyi çalar.",
+      "answer": [
+        "She",
+        "plays",
+        "the",
+        "piano",
+        "well"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "good",
+        "played"
+      ],
+      "explanation": "fiil + well",
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-32",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun görünüyor.",
+      "answer": [
+        "He",
+        "looks",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "tiredly",
+        "look"
+      ],
+      "explanation": "look + sıfat",
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-33",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Soruyu kolayca cevapladı.",
+      "answer": [
+        "She",
+        "answered",
+        "the",
+        "question",
+        "easily"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "easy",
+        "easier"
+      ],
+      "explanation": "fiil + zarf",
+      "tags": [
+        "adj-adv",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-34",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Piyanoyu iyi çalar.",
+      "hint": "çalmak: play",
+      "answers": [
+        "She plays the piano well.",
+        "He plays the piano well."
+      ],
+      "targetStructure": "well",
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She plays the piano good.",
+          "explanation": "Zarf: well."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-35",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgun görünüyor.",
+      "hint": "yorgun: tired",
+      "answers": [
+        "He looks tired.",
+        "She looks tired."
+      ],
+      "targetStructure": "look + sıfat",
+      "explanation": "Bağlama fiili.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He looks tiredly.",
+          "explanation": "Look'tan sonra sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-36",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çok çalışır.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "He works hard.",
+        "She works hard."
+      ],
+      "targetStructure": "hard",
+      "explanation": "Zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He works hardly.",
+          "explanation": "Hardly: neredeyse hiç."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-37",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is a hard worker."
+        },
+        {
+          "id": "b",
+          "text": "She is a hardly worker."
+        },
+        {
+          "id": "c",
+          "text": "She works hardly."
+        },
+        {
+          "id": "d",
+          "text": "She is a hardness worker."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Hard sıfat.",
+      "optionExplanations": {
+        "b": "Hardly sıfat değildir.",
+        "c": "Hardly başka anlamdadır.",
+        "d": "Yanlış biçim."
+      },
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-38",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is extremely tall."
+        },
+        {
+          "id": "b",
+          "text": "He is extreme tall."
+        },
+        {
+          "id": "c",
+          "text": "He is extremely tally."
+        },
+        {
+          "id": "d",
+          "text": "He extremely is tall."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zarf + sıfat.",
+      "optionExplanations": {
+        "b": "Zarf gerekir.",
+        "c": "Sıfat değişmez.",
+        "d": "Sıra bozuk."
+      },
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adj-adv-39",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He ran as quickly as he could."
+        },
+        {
+          "id": "b",
+          "text": "He ran as quick as he could."
+        },
+        {
+          "id": "c",
+          "text": "He ran as quickly than he could."
+        },
+        {
+          "id": "d",
+          "text": "He ran as more quickly as he could."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "as + zarf + as.",
+      "optionExplanations": {
+        "b": "Zarf gerekir.",
+        "c": "Than değil as.",
+        "d": "Araya more girmez."
+      },
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adj-adv-40",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He ran as ___ as he could. (quick)",
+      "answers": [
+        "quickly"
+      ],
+      "explanation": "as + zarf + as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "quick",
+          "explanation": "Fiili zarf niteler."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-41",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I can ___ hear you. (neredeyse hiç)",
+      "answers": [
+        "hardly"
+      ],
+      "explanation": "Hardly.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hard",
+          "explanation": "Hard: çok / zor."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-42",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Seni zar zor duyuyorum.",
+      "hint": "duymak: hear",
+      "answers": [
+        "I can hardly hear you."
+      ],
+      "targetStructure": "hardly",
+      "explanation": "Hardly.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I can hard hear you.",
+          "explanation": "Hardly gerekir."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "modify"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-43",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çorba güzel kokuyor.",
+      "hint": "çorba: soup",
+      "answers": [
+        "The soup smells good."
+      ],
+      "targetStructure": "smell + sıfat",
+      "explanation": "Bağlama fiili.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The soup smells well.",
+          "explanation": "Smell'den sonra sıfat."
+        }
+      ],
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-44",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He works hardly.",
+      "errorSpan": "hardly",
+      "answers": [
+        "He works hard."
+      ],
+      "explanation": "Hardly: neredeyse hiç.",
+      "tags": [
+        "adj-adv",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-adj-adv-45",
+      "lessonId": "a2-adjectives-adverbs",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She looks happily.",
+      "errorSpan": "happily",
+      "answers": [
+        "She looks happy."
+      ],
+      "explanation": "Look + sıfat.",
+      "tags": [
+        "adj-adv",
+        "linking"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-adj-adv",
+    "title": "Adjectives & Adverbs: Konu sonu sınavı",
+    "description": "Sıfat ve zarf biçimleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-adj-adv-exam-01",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He drives ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "carefully"
+          },
+          {
+            "id": "b",
+            "text": "careful"
+          },
+          {
+            "id": "c",
+            "text": "carefulness"
+          },
+          {
+            "id": "d",
+            "text": "more careful"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zarf.",
+        "optionExplanations": {
+          "b": "Sıfat.",
+          "c": "İsimdir.",
+          "d": "Comparative."
+        },
+        "tags": [
+          "adj-adv",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-02",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "She is a ___ driver. (careful)",
+        "answers": [
+          "careful"
+        ],
+        "explanation": "Sıfat.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "carefully",
+            "explanation": "İsmi sıfat niteler."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-03",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yüksek sesle konuştu.",
+        "answer": [
+          "He",
+          "spoke",
+          "loudly"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "loud",
+          "speaks"
+        ],
+        "explanation": "fiil + zarf",
+        "tags": [
+          "adj-adv",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-04",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She sings beautiful.",
+        "errorSpan": "beautiful",
+        "answers": [
+          "She sings beautifully."
+        ],
+        "explanation": "Zarf gerekir.",
+        "tags": [
+          "adj-adv",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-05",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hızlı sürer.",
+        "hint": "sürmek: drive",
+        "answers": [
+          "He drives fast.",
+          "She drives fast."
+        ],
+        "targetStructure": "fast",
+        "explanation": "Fast: zarf da aynı.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He drives fastly.",
+            "explanation": "Fastly yoktur."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-06",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She plays tennis ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "well"
+          },
+          {
+            "id": "b",
+            "text": "good"
+          },
+          {
+            "id": "c",
+            "text": "goodly"
+          },
+          {
+            "id": "d",
+            "text": "better"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zarf.",
+        "optionExplanations": {
+          "b": "Sıfat.",
+          "c": "Yoktur.",
+          "d": "Comparative."
+        },
+        "tags": [
+          "adj-adv",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-07",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He looks ___. (tired)",
+        "answers": [
+          "tired"
+        ],
+        "explanation": "Look + sıfat.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "tiredly",
+            "explanation": "Look'tan sonra sıfat."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "linking"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-08",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çorba güzel kokuyor.",
+        "answer": [
+          "The",
+          "soup",
+          "smells",
+          "good"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "well",
+          "smell"
+        ],
+        "explanation": "smell + sıfat",
+        "tags": [
+          "adj-adv",
+          "linking"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-09",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He speaks German good.",
+        "errorSpan": "good",
+        "answers": [
+          "He speaks German well."
+        ],
+        "explanation": "Zarf: well.",
+        "tags": [
+          "adj-adv",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-10",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Akıcı İngilizce konuşur.",
+        "hint": "akıcı: fluently",
+        "answers": [
+          "She speaks English fluently.",
+          "He speaks English fluently."
+        ],
+        "targetStructure": "fluently",
+        "explanation": "Zarf.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She speaks English fluent.",
+            "explanation": "Zarf gerekir."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-11",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He works hard."
+          },
+          {
+            "id": "b",
+            "text": "He works hardly."
+          },
+          {
+            "id": "c",
+            "text": "He works hardness."
+          },
+          {
+            "id": "d",
+            "text": "He is working hardly."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Hard zarf.",
+        "optionExplanations": {
+          "b": "Hardly başka anlamda.",
+          "c": "İsimdir.",
+          "d": "Hardly başka anlamda."
+        },
+        "tags": [
+          "adj-adv",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-12",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They left ___ last night. (late)",
+        "answers": [
+          "late"
+        ],
+        "explanation": "Late.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "lately",
+            "explanation": "Lately: son zamanlarda."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-13",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The cake smells well.",
+        "errorSpan": "well",
+        "answers": [
+          "The cake smells good."
+        ],
+        "explanation": "Bağlama fiili.",
+        "tags": [
+          "adj-adv",
+          "linking"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-14",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She is really kind."
+          },
+          {
+            "id": "b",
+            "text": "She is real kind."
+          },
+          {
+            "id": "c",
+            "text": "She is really kindly."
+          },
+          {
+            "id": "d",
+            "text": "She really is kindly."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zarf + sıfat.",
+        "optionExplanations": {
+          "b": "Zarf gerekir.",
+          "c": "Sıfat kalır.",
+          "d": "Sıra bozuk."
+        },
+        "tags": [
+          "adj-adv",
+          "modify"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-15",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He ran as ___ as he could. (fast)",
+        "answers": [
+          "fast"
+        ],
+        "explanation": "Fast zarf.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "fastly",
+            "explanation": "Fastly yoktur."
+          }
+        ],
+        "tags": [
+          "adj-adv",
+          "modify"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-adj-adv-exam-16",
+        "lessonId": "a2-adjectives-adverbs",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Seni zar zor duyuyorum.",
+        "answer": [
+          "I",
+          "can",
+          "hardly",
+          "hear",
+          "you"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "hard",
+          "hears"
+        ],
+        "explanation": "hardly",
+        "tags": [
+          "adj-adv",
+          "modify"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
