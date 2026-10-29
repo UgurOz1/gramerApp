@@ -1,0 +1,2295 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-wish-intro",
+  "levelId": "b1",
+  "title": "Wish & If Only: Intro",
+  "objectives": [
+    "Wish + Past Simple ile şimdiki durumlar hakkında dilek dilemek",
+    "Wish + Past Perfect ile geçmiş pişmanlığı anlatmak",
+    "Wish + would ile başkasından beklentiyi ifade etmek",
+    "Hope ve wish farkını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Wish ve if only",
+      "paragraphs": [
+        "Wish ve if only, gerçek olmayan bir durumdan duyulan hoşnutsuzluğu ya da pişmanlığı ifade eder: “Keşke arabam olsa.” Zamanı değiştiren şey, cümlenin Past Simple ya da Past Perfect kullanmasıdır; yani geçmiş zaman biçimi geçmişi değil, gerçek dışılığı gösterir.",
+        "Üç temel kullanım var: şimdiki durum hakkında dilek (wish + Past Simple), geçmişe ilişkin pişmanlık (wish + Past Perfect) ve başkasından beklenti (wish + would)."
+      ]
+    },
+    {
+      "id": "present",
+      "type": "rule",
+      "title": "Şimdiki durum: wish + Past Simple",
+      "paragraphs": [
+        "Şu anda gerçek olmayan bir durumu istemek için wish + Past Simple kullanılır. Be fiilinde were tercih edilir. Yetenek için could kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Past Simple",
+          "pattern": "I wish + özne + Past Simple",
+          "exampleIds": [
+            "ex-wish-01",
+            "ex-wish-03",
+            "ex-wish-04",
+            "ex-wish-05",
+            "ex-wish-27"
+          ]
+        },
+        {
+          "label": "Were",
+          "pattern": "I wish + özne + were",
+          "exampleIds": [
+            "ex-wish-02",
+            "ex-wish-06",
+            "ex-wish-26"
+          ]
+        },
+        {
+          "label": "Could",
+          "pattern": "I wish + özne + could + fiil",
+          "exampleIds": [
+            "ex-wish-07",
+            "ex-wish-08",
+            "ex-wish-25"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "I wish + özne + didn’t + fiil / weren’t",
+          "exampleIds": [
+            "ex-wish-09",
+            "ex-wish-10",
+            "ex-wish-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "type": "rule",
+      "title": "Geçmiş: wish + Past Perfect",
+      "paragraphs": [
+        "Geçmişte olmuş ya da olmamış bir şeyden pişmanlık duymak için wish + Past Perfect (had + V3) kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Past Perfect",
+          "pattern": "I wish + özne + had + V3",
+          "exampleIds": [
+            "ex-wish-13",
+            "ex-wish-14",
+            "ex-wish-28"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "I wish + özne + hadn’t + V3",
+          "exampleIds": [
+            "ex-wish-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "would",
+      "type": "rule",
+      "title": "Wish + would",
+      "paragraphs": [
+        "Başkasının davranışından rahatsızlığı ya da değişmesini istemeyi anlatmak için wish + would kullanılır. Wish’i söyleyenin kendi davranışı için would kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Would",
+          "pattern": "I wish + başkası + would + fiil",
+          "exampleIds": [
+            "ex-wish-18",
+            "ex-wish-19",
+            "ex-wish-20",
+            "ex-wish-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ifonly",
+      "type": "rule",
+      "title": "If only",
+      "paragraphs": [
+        "If only, wish ile aynı yapıyı kullanır, ancak daha güçlü bir duyguyu anlatır: “Keşke … olsaydı!” Genelde ünlemle biter."
+      ],
+      "formulas": [
+        {
+          "label": "If only",
+          "pattern": "If only + Past Simple / Past Perfect / would",
+          "exampleIds": [
+            "ex-wish-15",
+            "ex-wish-16",
+            "ex-wish-17",
+            "ex-wish-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hope",
+      "type": "forms",
+      "title": "Wish ve hope farkı",
+      "forms": [
+        {
+          "label": "hope",
+          "formula": "I hope + Present / Future",
+          "exampleIds": [
+            "ex-wish-22",
+            "ex-wish-23"
+          ],
+          "note": "Gerçekleşmesi mümkün olan şeyler."
+        },
+        {
+          "label": "wish",
+          "formula": "I wish + Past",
+          "exampleIds": [
+            "ex-wish-01",
+            "ex-wish-24"
+          ],
+          "note": "Gerçek dışı ya da pek olası olmayan."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: şimdiki durum",
+      "exampleIds": [
+        "ex-wish-01",
+        "ex-wish-02",
+        "ex-wish-03",
+        "ex-wish-04",
+        "ex-wish-05",
+        "ex-wish-06",
+        "ex-wish-07",
+        "ex-wish-08",
+        "ex-wish-09",
+        "ex-wish-10",
+        "ex-wish-11",
+        "ex-wish-25",
+        "ex-wish-26",
+        "ex-wish-27"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: geçmiş, would, hope",
+      "exampleIds": [
+        "ex-wish-12",
+        "ex-wish-13",
+        "ex-wish-14",
+        "ex-wish-15",
+        "ex-wish-16",
+        "ex-wish-17",
+        "ex-wish-18",
+        "ex-wish-19",
+        "ex-wish-20",
+        "ex-wish-21",
+        "ex-wish-22",
+        "ex-wish-23",
+        "ex-wish-24",
+        "ex-wish-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I wish I have a car.",
+          "right": "I wish I had a car.",
+          "explanation": "Wish'ten sonra Past Simple."
+        },
+        {
+          "wrong": "I wish I would have a car.",
+          "right": "I wish I had a car.",
+          "explanation": "Kendi durumun için would olmaz."
+        },
+        {
+          "wrong": "I wish I was taller.",
+          "right": "I wish I were taller.",
+          "explanation": "Standart: were."
+        },
+        {
+          "wrong": "I wish I studied more. (geçmiş)",
+          "right": "I wish I had studied more.",
+          "explanation": "Geçmiş pişmanlık: Past Perfect."
+        },
+        {
+          "wrong": "I wish I can swim.",
+          "right": "I wish I could swim.",
+          "explanation": "Wish'ten sonra could."
+        },
+        {
+          "wrong": "I wish he doesn't smoke.",
+          "right": "I wish he didn't smoke.",
+          "explanation": "Past Simple olumsuz."
+        },
+        {
+          "wrong": "I hope I had a car.",
+          "right": "I wish I had a car.",
+          "explanation": "Gerçek dışı: wish."
+        },
+        {
+          "wrong": "I wish I hadn't went there.",
+          "right": "I wish I hadn't gone there.",
+          "explanation": "V3: gone."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Second Conditional",
+          "body": "Wish + Past Simple, Second Conditional'ın If cümlesiyle aynı yapıdır.",
+          "lessonId": "b1-second-conditional"
+        },
+        {
+          "topic": "Third Conditional",
+          "body": "Wish + Past Perfect, geçmiş pişmanlık anlatır.",
+          "lessonId": "b1-third-conditional-intro"
+        },
+        {
+          "topic": "Can ve could",
+          "body": "Could, can'in geçmiş biçimidir.",
+          "lessonId": "a1-can"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Şimdiki dilek: wish + Past Simple; geçmiş pişmanlık: wish + Past Perfect.",
+        "Be fiilinde were: I wish I were taller.",
+        "Wish + would yalnızca başkası ya da şeyler için.",
+        "Hope gerçekleşmesi mümkün şeyler, wish gerçek dışı şeyler içindir.",
+        "If only daha güçlü bir wish'tir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-wish-01",
+        "q-wish-02",
+        "q-wish-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-wish-01",
+      "en": "I wish I had a car.",
+      "tr": "Keşke arabam olsa.",
+      "highlight": "I wish I had",
+      "note": "wish + Past Simple: şimdi"
+    },
+    {
+      "id": "ex-wish-02",
+      "en": "I wish I were taller.",
+      "tr": "Keşke daha uzun olsam.",
+      "highlight": "I wish I were",
+      "note": "were: tüm özneler"
+    },
+    {
+      "id": "ex-wish-03",
+      "en": "She wishes she lived in Paris.",
+      "tr": "Keşke Paris'te yaşasa.",
+      "highlight": "She wishes she lived"
+    },
+    {
+      "id": "ex-wish-04",
+      "en": "I wish I knew the answer.",
+      "tr": "Keşke cevabı bilsem.",
+      "highlight": "I wish I knew"
+    },
+    {
+      "id": "ex-wish-05",
+      "en": "They wish they had more time.",
+      "tr": "Keşke daha çok zamanları olsa.",
+      "highlight": "They wish they had"
+    },
+    {
+      "id": "ex-wish-06",
+      "en": "I wish it were summer.",
+      "tr": "Keşke yaz olsa.",
+      "highlight": "I wish it were"
+    },
+    {
+      "id": "ex-wish-07",
+      "en": "I wish I could swim.",
+      "tr": "Keşke yüzebilsem.",
+      "highlight": "I wish I could swim",
+      "note": "could: yetenek / olasılık"
+    },
+    {
+      "id": "ex-wish-08",
+      "en": "He wishes he could fly.",
+      "tr": "Keşke uçabilse.",
+      "highlight": "He wishes he could fly"
+    },
+    {
+      "id": "ex-wish-09",
+      "en": "I wish you didn't smoke.",
+      "tr": "Keşke sigara içmeseydin / içmesen.",
+      "highlight": "I wish you didn't smoke",
+      "note": "olumsuz: didn't"
+    },
+    {
+      "id": "ex-wish-10",
+      "en": "I wish I didn't have to work.",
+      "tr": "Keşke çalışmak zorunda olmasam.",
+      "highlight": "I wish I didn't have to work"
+    },
+    {
+      "id": "ex-wish-11",
+      "en": "I wish it weren't so cold.",
+      "tr": "Keşke hava bu kadar soğuk olmasa.",
+      "highlight": "I wish it weren't so cold"
+    },
+    {
+      "id": "ex-wish-12",
+      "en": "I wish I hadn't said that.",
+      "tr": "Keşke onu söylemeseydim.",
+      "highlight": "I wish I hadn't said",
+      "note": "Geçmiş pişmanlık: Past Perfect"
+    },
+    {
+      "id": "ex-wish-13",
+      "en": "I wish I had studied more.",
+      "tr": "Keşke daha çok çalışsaydım.",
+      "highlight": "I wish I had studied",
+      "note": "had + V3"
+    },
+    {
+      "id": "ex-wish-14",
+      "en": "She wishes she had listened to him.",
+      "tr": "Keşke onu dinlemiş olsaydı.",
+      "highlight": "She wishes she had listened"
+    },
+    {
+      "id": "ex-wish-15",
+      "en": "If only I had a car!",
+      "tr": "Keşke arabam olsa!",
+      "highlight": "If only I had",
+      "note": "If only: daha güçlü"
+    },
+    {
+      "id": "ex-wish-16",
+      "en": "If only I were taller!",
+      "tr": "Keşke daha uzun olsam!",
+      "highlight": "If only I were"
+    },
+    {
+      "id": "ex-wish-17",
+      "en": "If only I had known!",
+      "tr": "Keşke bilseydim!",
+      "highlight": "If only I had known",
+      "note": "If only + Past Perfect"
+    },
+    {
+      "id": "ex-wish-18",
+      "en": "If only he would listen!",
+      "tr": "Keşke dinlese!",
+      "highlight": "If only he would listen",
+      "note": "would: başkasından beklenti"
+    },
+    {
+      "id": "ex-wish-19",
+      "en": "I wish you would help me.",
+      "tr": "Keşke bana yardım etsen.",
+      "highlight": "I wish you would help",
+      "note": "wish + would: sitem / istek"
+    },
+    {
+      "id": "ex-wish-20",
+      "en": "I wish it would stop raining.",
+      "tr": "Keşke yağmur dinse.",
+      "highlight": "I wish it would stop"
+    },
+    {
+      "id": "ex-wish-21",
+      "en": "I wish he wouldn't talk so loudly.",
+      "tr": "Keşke bu kadar yüksek sesle konuşmasa.",
+      "highlight": "I wish he wouldn't talk",
+      "note": "alışkanlığa sitem"
+    },
+    {
+      "id": "ex-wish-22",
+      "en": "I hope you have a good time.",
+      "tr": "Umarım iyi vakit geçirirsin.",
+      "highlight": "I hope you have",
+      "note": "hope + Present: mümkün durum"
+    },
+    {
+      "id": "ex-wish-23",
+      "en": "I hope it doesn't rain tomorrow.",
+      "tr": "Umarım yarın yağmur yağmaz.",
+      "highlight": "I hope it doesn't rain"
+    },
+    {
+      "id": "ex-wish-24",
+      "en": "I wish it didn't rain tomorrow.",
+      "tr": "Keşke yarın yağmur yağmasa.",
+      "highlight": "I wish it didn't rain",
+      "note": "olması muhtemel olanı istemek"
+    },
+    {
+      "id": "ex-wish-25",
+      "en": "I wish I could help you.",
+      "tr": "Keşke sana yardım edebilsem.",
+      "highlight": "I wish I could help"
+    },
+    {
+      "id": "ex-wish-26",
+      "en": "He wishes he were rich.",
+      "tr": "Keşke zengin olsa.",
+      "highlight": "He wishes he were rich"
+    },
+    {
+      "id": "ex-wish-27",
+      "en": "We wish we lived closer.",
+      "tr": "Keşke daha yakın yaşasak.",
+      "highlight": "We wish we lived"
+    },
+    {
+      "id": "ex-wish-28",
+      "en": "I wish I had never met him.",
+      "tr": "Keşke onunla hiç tanışmasaydım.",
+      "highlight": "I wish I had never met",
+      "note": "never"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-wish-01",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I wish I ___ a car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "would have"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wish + Past Simple.",
+      "optionExplanations": {
+        "b": "Şimdi için Past Simple.",
+        "c": "Kendi durumun için would olmaz.",
+        "d": "Will olmaz."
+      },
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-02",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I wish I ___ taller. (be)",
+      "answers": [
+        "were"
+      ],
+      "explanation": "wish + were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "Wish'ten sonra were."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-03",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Keşke arabam olsa.",
+      "answer": [
+        "I",
+        "wish",
+        "I",
+        "had",
+        "a",
+        "car"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "would"
+      ],
+      "explanation": "wish + Past",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wish-04",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I have a car.",
+      "errorSpan": "have",
+      "answers": [
+        "I wish I had a car."
+      ],
+      "explanation": "Wish'ten sonra Past Simple.",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-05",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke arabam olsa.",
+      "hint": "araba: car",
+      "answers": [
+        "I wish I had a car.",
+        "If only I had a car."
+      ],
+      "targetStructure": "wish + Past",
+      "explanation": "Şimdiki dilek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish I have a car.",
+          "explanation": "Wish'ten sonra Past Simple."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-06",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She wishes she ___ in Paris.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "lives"
+        },
+        {
+          "id": "c",
+          "text": "will live"
+        },
+        {
+          "id": "d",
+          "text": "would live"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wish + Past Simple.",
+      "optionExplanations": {
+        "b": "Şimdi için Past Simple.",
+        "c": "Will olmaz.",
+        "d": "Kendi durumun için would olmaz."
+      },
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-07",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I wish I ___ the answer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "knew"
+        },
+        {
+          "id": "b",
+          "text": "know"
+        },
+        {
+          "id": "c",
+          "text": "will know"
+        },
+        {
+          "id": "d",
+          "text": "have known"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wish + Past Simple.",
+      "optionExplanations": {
+        "b": "Şimdi için Past Simple.",
+        "c": "Will olmaz.",
+        "d": "Geçmiş pişmanlık anlamı verir."
+      },
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-08",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I wish I ___ swim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "could"
+        },
+        {
+          "id": "b",
+          "text": "can"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wish + could.",
+      "optionExplanations": {
+        "b": "Can wish'ten sonra olmaz.",
+        "c": "Will olmaz.",
+        "d": "Do olmaz."
+      },
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-09",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She wishes she ___ in Paris. (live)",
+      "answers": [
+        "lived"
+      ],
+      "explanation": "Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "lives",
+          "explanation": "Wish'ten sonra Past."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-10",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I wish I ___ swim. (can)",
+      "answers": [
+        "could"
+      ],
+      "explanation": "could.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Wish'ten sonra could."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-11",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They wish they ___ more time. (have)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Wish'ten sonra Past."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-12",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I wish I ___ said that. (söylemeseydim)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hadn't"
+        },
+        {
+          "id": "b",
+          "text": "didn't"
+        },
+        {
+          "id": "c",
+          "text": "wouldn't"
+        },
+        {
+          "id": "d",
+          "text": "haven't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş pişmanlık: hadn't + V3.",
+      "optionExplanations": {
+        "b": "Şimdi için didn't.",
+        "c": "Would olmaz.",
+        "d": "Have olmaz."
+      },
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-13",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I wish I ___ studied more. (geçmiş)",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "had + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş: had.",
+        "c": "Would olmaz.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-14",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I wish you ___ smoke.",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "aren't"
+        },
+        {
+          "id": "d",
+          "text": "won't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wish + didn't.",
+      "optionExplanations": {
+        "b": "Wish'ten sonra Past.",
+        "c": "Be fiili değil.",
+        "d": "Will olmaz."
+      },
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-15",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I wish he ___ listen. (dinlese)",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "can"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Başkası için would.",
+      "optionExplanations": {
+        "b": "Will wish'ten sonra olmaz.",
+        "c": "Does olmaz.",
+        "d": "Can olmaz."
+      },
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-16",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I wish it ___ stop raining.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "can"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şeyler için would.",
+      "optionExplanations": {
+        "b": "Will wish'ten sonra olmaz.",
+        "c": "Did olmaz.",
+        "d": "Can olmaz."
+      },
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-17",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If only I ___ known!",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If only + had + V3.",
+      "optionExplanations": {
+        "b": "Geçmiş: had.",
+        "c": "Would olmaz.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "wish",
+        "ifonly"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-18",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish I ___ have to work. (olmasa)",
+      "answers": [
+        "didn't"
+      ],
+      "explanation": "wish + didn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Wish'ten sonra Past."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-19",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish it ___ so cold. (olmasa)",
+      "answers": [
+        "weren't"
+      ],
+      "explanation": "weren't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "Wish'ten sonra were."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-20",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish I ___ studied more. (geçmiş)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Geçmiş: had."
+        }
+      ],
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-21",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She wishes she ___ listened to him. (geçmiş)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Geçmiş: had."
+        }
+      ],
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-22",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish I ___ never met him. (geçmiş)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "had never + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Geçmiş: had."
+        }
+      ],
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-23",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish you ___ help me. (yardım etsen)",
+      "answers": [
+        "would"
+      ],
+      "explanation": "Başkası için would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Wish'ten sonra would."
+        }
+      ],
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-24",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I wish he ___ talk so loudly. (konuşmasa)",
+      "answers": [
+        "wouldn't"
+      ],
+      "explanation": "wouldn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't",
+          "explanation": "Wish'ten sonra wouldn't."
+        }
+      ],
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-25",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ you have a good time. (umarım)",
+      "answers": [
+        "hope"
+      ],
+      "explanation": "Mümkün: hope.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wish",
+          "explanation": "Mümkün durum için hope."
+        }
+      ],
+      "tags": [
+        "wish",
+        "hope"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-26",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I would have a car.",
+      "errorSpan": "would have",
+      "answers": [
+        "I wish I had a car."
+      ],
+      "explanation": "Kendi durumun için would olmaz.",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-27",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I was taller.",
+      "errorSpan": "was",
+      "answers": [
+        "I wish I were taller."
+      ],
+      "explanation": "Standart: were.",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-28",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I studied more. (geçmiş pişmanlık)",
+      "errorSpan": "studied",
+      "answers": [
+        "I wish I had studied more."
+      ],
+      "explanation": "Geçmiş: Past Perfect.",
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-29",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I can swim.",
+      "errorSpan": "can",
+      "answers": [
+        "I wish I could swim."
+      ],
+      "explanation": "Wish'ten sonra could.",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-30",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish he doesn't smoke.",
+      "errorSpan": "doesn't",
+      "answers": [
+        "I wish he didn't smoke."
+      ],
+      "explanation": "Past Simple olumsuz.",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-31",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Keşke daha uzun olsam.",
+      "answer": [
+        "I",
+        "wish",
+        "I",
+        "were",
+        "taller"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "would"
+      ],
+      "explanation": "wish + were",
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-32",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Keşke daha çok çalışsaydım.",
+      "answer": [
+        "I",
+        "wish",
+        "I",
+        "had",
+        "studied",
+        "more"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "study"
+      ],
+      "explanation": "wish + had + V3",
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-33",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Keşke yağmur dinse.",
+      "answer": [
+        "I",
+        "wish",
+        "it",
+        "would",
+        "stop",
+        "raining"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "stops"
+      ],
+      "explanation": "wish + would",
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-34",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke daha uzun olsam.",
+      "hint": "uzun: tall",
+      "answers": [
+        "I wish I were taller.",
+        "I wish I was taller.",
+        "If only I were taller."
+      ],
+      "targetStructure": "wish + were",
+      "explanation": "Şimdiki dilek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish I am taller.",
+          "explanation": "Wish'ten sonra were."
+        }
+      ],
+      "tags": [
+        "wish",
+        "present"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-35",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke daha çok çalışsaydım.",
+      "hint": "çalışmak: study",
+      "answers": [
+        "I wish I had studied more.",
+        "If only I had studied more."
+      ],
+      "targetStructure": "wish + had + V3",
+      "explanation": "Geçmiş pişmanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish I studied more.",
+          "explanation": "Geçmiş: Past Perfect."
+        }
+      ],
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-36",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke bana yardım etsen.",
+      "hint": "yardım etmek: help",
+      "answers": [
+        "I wish you would help me."
+      ],
+      "targetStructure": "wish + would",
+      "explanation": "Başkasından beklenti.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish you will help me.",
+          "explanation": "Wish'ten sonra would."
+        }
+      ],
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-37",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle geçmiş pişmanlığı anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I wish I had studied."
+        },
+        {
+          "id": "b",
+          "text": "I wish I studied."
+        },
+        {
+          "id": "c",
+          "text": "I wish I will study."
+        },
+        {
+          "id": "d",
+          "text": "I hope I study."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past Perfect.",
+      "optionExplanations": {
+        "b": "Şimdiki dilek.",
+        "c": "Will olmaz.",
+        "d": "Hope: mümkün."
+      },
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-38",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I hope you have a good time."
+        },
+        {
+          "id": "b",
+          "text": "I wish you have a good time."
+        },
+        {
+          "id": "c",
+          "text": "I hope you had a good time. (yarın)"
+        },
+        {
+          "id": "d",
+          "text": "I hope you would have a good time."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mümkün: hope + Present.",
+      "optionExplanations": {
+        "b": "Mümkünde wish kullanılmaz.",
+        "c": "Gelecek için Present.",
+        "d": "Would bu yapıda olmaz."
+      },
+      "tags": [
+        "wish",
+        "hope"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-39",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi kendi davranışını için doğru değildir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I wish I would study more."
+        },
+        {
+          "id": "b",
+          "text": "I wish I studied more."
+        },
+        {
+          "id": "c",
+          "text": "I wish I had studied more."
+        },
+        {
+          "id": "d",
+          "text": "I wish I could study more."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kendi durum için would olmaz.",
+      "optionExplanations": {
+        "b": "Doğru kullanım.",
+        "c": "Doğru kullanım.",
+        "d": "Doğru kullanım."
+      },
+      "tags": [
+        "wish",
+        "would"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-40",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If only he ___ listen! (dinlese)",
+      "answers": [
+        "would"
+      ],
+      "explanation": "If only + would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Wish yapısı: would."
+        }
+      ],
+      "tags": [
+        "wish",
+        "ifonly"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-wish-41",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I wish it ___ rain tomorrow. (yağmasa)",
+      "answers": [
+        "didn't"
+      ],
+      "explanation": "wish + didn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't",
+          "explanation": "Wish'ten sonra Past."
+        }
+      ],
+      "tags": [
+        "wish",
+        "hope"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-wish-42",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Keşke onunla hiç tanışmasaydım.",
+      "hint": "tanışmak: meet",
+      "answers": [
+        "I wish I had never met him.",
+        "If only I had never met him.",
+        "I wish I had never met her."
+      ],
+      "targetStructure": "wish + had never + V3",
+      "explanation": "Pişmanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish I never met him.",
+          "explanation": "Geçmiş: Past Perfect."
+        }
+      ],
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-43",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Umarım yarın yağmur yağmaz.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "I hope it doesn't rain tomorrow."
+      ],
+      "targetStructure": "hope + Present",
+      "explanation": "Mümkün.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I wish it doesn't rain tomorrow.",
+          "explanation": "Mümkünde hope."
+        }
+      ],
+      "tags": [
+        "wish",
+        "hope"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-44",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I hope I had a car.",
+      "errorSpan": "hope",
+      "answers": [
+        "I wish I had a car."
+      ],
+      "explanation": "Gerçek dışı: wish.",
+      "tags": [
+        "wish",
+        "hope"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-wish-45",
+      "lessonId": "b1-wish-intro",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I wish I hadn't went there.",
+      "errorSpan": "went",
+      "answers": [
+        "I wish I hadn't gone there."
+      ],
+      "explanation": "V3: gone.",
+      "tags": [
+        "wish",
+        "past"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-wish",
+    "title": "Wish & If Only: Konu sonu sınavı",
+    "description": "Wish, if only ve hope.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-wish-exam-01",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I wish I ___ taller.",
+        "options": [
+          {
+            "id": "a",
+            "text": "were"
+          },
+          {
+            "id": "b",
+            "text": "am"
+          },
+          {
+            "id": "c",
+            "text": "will be"
+          },
+          {
+            "id": "d",
+            "text": "would be"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "wish + were.",
+        "optionExplanations": {
+          "b": "Şimdi için were.",
+          "c": "Will olmaz.",
+          "d": "Kendi durum için would olmaz."
+        },
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-02",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He wishes he ___ fly. (can)",
+        "answers": [
+          "could"
+        ],
+        "explanation": "could.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "can",
+            "explanation": "Wish'ten sonra could."
+          }
+        ],
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-03",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Keşke cevabı bilsem.",
+        "answer": [
+          "I",
+          "wish",
+          "I",
+          "knew",
+          "the",
+          "answer"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "know",
+          "would"
+        ],
+        "explanation": "wish + Past",
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-04",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I wish I have more time.",
+        "errorSpan": "have",
+        "answers": [
+          "I wish I had more time."
+        ],
+        "explanation": "Wish'ten sonra Past Simple.",
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-05",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Keşke zengin olsa.",
+        "hint": "zengin: rich",
+        "answers": [
+          "He wishes he were rich.",
+          "She wishes she were rich.",
+          "He wishes he was rich.",
+          "She wishes she was rich."
+        ],
+        "targetStructure": "wish + were",
+        "explanation": "Şimdiki dilek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He wishes he is rich.",
+            "explanation": "Wish'ten sonra were."
+          }
+        ],
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-06",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I wish I ___ eaten so much. (yemeseydim)",
+        "options": [
+          {
+            "id": "a",
+            "text": "hadn't"
+          },
+          {
+            "id": "b",
+            "text": "didn't"
+          },
+          {
+            "id": "c",
+            "text": "wouldn't"
+          },
+          {
+            "id": "d",
+            "text": "haven't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "hadn't + V3.",
+        "optionExplanations": {
+          "b": "Şimdiki için didn't.",
+          "c": "Would olmaz.",
+          "d": "Have olmaz."
+        },
+        "tags": [
+          "wish",
+          "past"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-wish-exam-07",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I wish I ___ listened to him. (geçmiş)",
+        "answers": [
+          "had"
+        ],
+        "explanation": "had + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "Geçmiş: had."
+          }
+        ],
+        "tags": [
+          "wish",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-08",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Keşke bu kadar yüksek sesle konuşmasa.",
+        "answer": [
+          "I",
+          "wish",
+          "he",
+          "wouldn't",
+          "talk",
+          "so",
+          "loudly"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "won't",
+          "talks"
+        ],
+        "explanation": "wish + wouldn't",
+        "tags": [
+          "wish",
+          "would"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-09",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I wish I would be rich.",
+        "errorSpan": "would be",
+        "answers": [
+          "I wish I were rich."
+        ],
+        "explanation": "Kendi durum için would olmaz.",
+        "tags": [
+          "wish",
+          "would"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-10",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Keşke yüzebilsem.",
+        "hint": "yüzmek: swim",
+        "answers": [
+          "I wish I could swim."
+        ],
+        "targetStructure": "wish + could",
+        "explanation": "Yetenek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I wish I can swim.",
+            "explanation": "Wish'ten sonra could."
+          }
+        ],
+        "tags": [
+          "wish",
+          "present"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-11",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "I wish you ___ help me. (yardım etsen)",
+        "options": [
+          {
+            "id": "a",
+            "text": "would"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "do"
+          },
+          {
+            "id": "d",
+            "text": "can"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Başkası için would.",
+        "optionExplanations": {
+          "b": "Will olmaz.",
+          "c": "Do olmaz.",
+          "d": "Can olmaz."
+        },
+        "tags": [
+          "wish",
+          "would"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-12",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If only I ___ known! (keşke)",
+        "answers": [
+          "had"
+        ],
+        "explanation": "had + V3.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "Geçmiş: had."
+          }
+        ],
+        "tags": [
+          "wish",
+          "ifonly"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-13",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I wish I studied harder last year.",
+        "errorSpan": "studied harder",
+        "answers": [
+          "I wish I had studied harder last year."
+        ],
+        "explanation": "Geçmiş: Past Perfect.",
+        "tags": [
+          "wish",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-14",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi mümkün bir durum için doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I hope you pass the exam."
+          },
+          {
+            "id": "b",
+            "text": "I wish you pass the exam."
+          },
+          {
+            "id": "c",
+            "text": "I hope you passed tomorrow."
+          },
+          {
+            "id": "d",
+            "text": "I wish you will pass the exam."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Mümkün: hope.",
+        "optionExplanations": {
+          "b": "Mümkünde wish olmaz.",
+          "c": "Zaman uyumsuz.",
+          "d": "Wish'ten sonra will olmaz."
+        },
+        "tags": [
+          "wish",
+          "hope"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-wish-exam-15",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I wish it ___ stop raining. (dinse)",
+        "answers": [
+          "would"
+        ],
+        "explanation": "Şeyler için would.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will",
+            "explanation": "Wish'ten sonra would."
+          }
+        ],
+        "tags": [
+          "wish",
+          "would"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-wish-exam-16",
+        "lessonId": "b1-wish-intro",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Umarım sınavı geçersin.",
+        "answer": [
+          "I",
+          "hope",
+          "you",
+          "pass",
+          "the",
+          "exam"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "passed",
+          "wish"
+        ],
+        "explanation": "hope + Present",
+        "tags": [
+          "wish",
+          "hope"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      }
+    ]
+  }
+}
