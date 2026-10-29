@@ -23,6 +23,7 @@ import aEnjay from "@/assets/data/levels/a2/a2-ever-never-just-already-yet.json"
 import aForSince from "@/assets/data/levels/a2/a2-for-since.json";
 import aQuant from "@/assets/data/levels/a2/a2-quantifiers.json";
 import aTooE from "@/assets/data/levels/a2/a2-too-enough.json";
+import aCompSup from "@/assets/data/levels/a2/a2-comparatives-superlatives.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -63,6 +64,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-for-since": aForSince,
   "a2-quantifiers": aQuant,
   "a2-too-enough": aTooE,
+  "a2-comparatives-superlatives": aCompSup,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

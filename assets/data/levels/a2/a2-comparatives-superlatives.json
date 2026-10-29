@@ -1,0 +1,2316 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-comparatives-superlatives",
+  "levelId": "a2",
+  "title": "Comparative & Superlative Adjectives",
+  "objectives": [
+    "Kısa sıfatlarda -er / -est, uzun sıfatlarda more / most kullanmak",
+    "Yazım kurallarını uygulamak (bigger, happier, nicest)",
+    "Düzensiz biçimleri bilmek: good / better / best, bad / worse / worst",
+    "İki şey arasında comparative, üç ve fazlası arasında superlative kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Karşılaştırma ve üstünlük",
+      "paragraphs": [
+        "İki şeyi karşılaştırırken comparative (daha …), üç ya da daha fazla şey arasında en üstün olanı söylerken superlative (en …) kullanılır. A1’de temel comparative biçimini gördün; burada superlative ve uzun sıfatlar da var.",
+        "İki yöntem vardır: kısa sıfatlara -er / -est eklenir, uzun sıfatların önüne more / most gelir. Bazı sıfatlar düzensizdir."
+      ]
+    },
+    {
+      "id": "short",
+      "type": "rule",
+      "title": "Kısa sıfatlar: -er / -est",
+      "paragraphs": [
+        "Tek heceli ve bazı iki heceli sıfatlara comparative için -er (+ than), superlative için the + -est eklenir."
+      ],
+      "formulas": [
+        {
+          "label": "Comparative",
+          "pattern": "sıfat + -er + than   →   taller than",
+          "exampleIds": [
+            "ex-comp-super-01",
+            "ex-comp-super-02",
+            "ex-comp-super-03"
+          ]
+        },
+        {
+          "label": "Superlative",
+          "pattern": "the + sıfat + -est   →   the tallest",
+          "exampleIds": [
+            "ex-comp-super-13",
+            "ex-comp-super-14",
+            "ex-comp-super-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "Yazım kuralları",
+      "paragraphs": [
+        "-e ile biten sıfatlara sadece -r / -st eklenir (nice → nicer → the nicest). Tek ünlü + tek ünsüz ile biten sıfatlarda ünsüz ikizlenir. -y ile bitenlerde y → i olur."
+      ],
+      "formulas": [
+        {
+          "label": "İkizlenen ünsüz",
+          "pattern": "big → bigger → the biggest;  hot → hotter → the hottest",
+          "exampleIds": [
+            "ex-comp-super-04",
+            "ex-comp-super-05",
+            "ex-comp-super-16"
+          ]
+        },
+        {
+          "label": "-y → -ier / -iest",
+          "pattern": "happy → happier → the happiest;  easy → easier → the easiest",
+          "exampleIds": [
+            "ex-comp-super-06",
+            "ex-comp-super-07",
+            "ex-comp-super-17",
+            "ex-comp-super-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "long",
+      "type": "rule",
+      "title": "Uzun sıfatlar: more / most",
+      "paragraphs": [
+        "İki hece ya da daha fazla heceli sıfatların çoğunda comparative için more (+ than), superlative için the most kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Comparative",
+          "pattern": "more + sıfat + than   →   more interesting than",
+          "exampleIds": [
+            "ex-comp-super-08",
+            "ex-comp-super-09",
+            "ex-comp-super-10"
+          ]
+        },
+        {
+          "label": "Superlative",
+          "pattern": "the most + sıfat   →   the most interesting",
+          "exampleIds": [
+            "ex-comp-super-19",
+            "ex-comp-super-20",
+            "ex-comp-super-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "irregular",
+      "type": "forms",
+      "title": "Düzensiz biçimler",
+      "forms": [
+        {
+          "label": "good → better → the best",
+          "formula": "good,  better,  the best",
+          "exampleIds": [
+            "ex-comp-super-11",
+            "ex-comp-super-22"
+          ],
+          "note": "Bu telefon daha iyi / en iyi."
+        },
+        {
+          "label": "bad → worse → the worst",
+          "formula": "bad,  worse,  the worst",
+          "exampleIds": [
+            "ex-comp-super-12",
+            "ex-comp-super-23"
+          ],
+          "note": "Daha kötü / en kötü."
+        },
+        {
+          "label": "far → farther → the farthest",
+          "formula": "far,  farther / further,  the farthest",
+          "exampleIds": [
+            "ex-comp-super-27"
+          ],
+          "note": "Uzak (mesafe)."
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "rule",
+      "title": "Ne zaman hangisi?",
+      "paragraphs": [
+        "İki kişi ya da şey arasında comparative, üç ya da daha fazlası arasında superlative kullanılır. Superlative’den önce hemen her zaman the gelir; sonrasında genellikle in (yer / grup) ya da of (zaman) gelir."
+      ],
+      "formulas": [
+        {
+          "label": "İkili",
+          "pattern": "A is -er than B.   Who is taller, A or B?",
+          "exampleIds": [
+            "ex-comp-super-24",
+            "ex-comp-super-26"
+          ]
+        },
+        {
+          "label": "Üçlü ve üzeri",
+          "pattern": "A is the -est in / of …",
+          "exampleIds": [
+            "ex-comp-super-25",
+            "ex-comp-super-13",
+            "ex-comp-super-16"
+          ]
+        },
+        {
+          "label": "Çok daha",
+          "pattern": "much / far / a lot + comparative",
+          "exampleIds": [
+            "ex-comp-super-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: comparative",
+      "exampleIds": [
+        "ex-comp-super-01",
+        "ex-comp-super-02",
+        "ex-comp-super-03",
+        "ex-comp-super-04",
+        "ex-comp-super-05",
+        "ex-comp-super-06",
+        "ex-comp-super-07",
+        "ex-comp-super-08",
+        "ex-comp-super-09",
+        "ex-comp-super-10",
+        "ex-comp-super-11",
+        "ex-comp-super-12",
+        "ex-comp-super-24",
+        "ex-comp-super-26",
+        "ex-comp-super-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: superlative",
+      "exampleIds": [
+        "ex-comp-super-13",
+        "ex-comp-super-14",
+        "ex-comp-super-15",
+        "ex-comp-super-16",
+        "ex-comp-super-17",
+        "ex-comp-super-18",
+        "ex-comp-super-19",
+        "ex-comp-super-20",
+        "ex-comp-super-21",
+        "ex-comp-super-22",
+        "ex-comp-super-23",
+        "ex-comp-super-25",
+        "ex-comp-super-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He is more tall than me.",
+          "right": "He is taller than me.",
+          "explanation": "Kısa sıfat: -er."
+        },
+        {
+          "wrong": "This book is interestinger.",
+          "right": "This book is more interesting.",
+          "explanation": "Uzun sıfat: more."
+        },
+        {
+          "wrong": "She is the most tall girl.",
+          "right": "She is the tallest girl.",
+          "explanation": "Kısa sıfat: the -est."
+        },
+        {
+          "wrong": "He is tallest in the class.",
+          "right": "He is the tallest in the class.",
+          "explanation": "Superlative'den önce the."
+        },
+        {
+          "wrong": "This is the more expensive hotel.",
+          "right": "This is the most expensive hotel.",
+          "explanation": "Superlative: the most."
+        },
+        {
+          "wrong": "This phone is more good than that one.",
+          "right": "This phone is better than that one.",
+          "explanation": "Good → better."
+        },
+        {
+          "wrong": "It is the most bad film.",
+          "right": "It is the worst film.",
+          "explanation": "Bad → the worst."
+        },
+        {
+          "wrong": "Tom is taller that Ben.",
+          "right": "Tom is taller than Ben.",
+          "explanation": "Than kullanılır."
+        },
+        {
+          "wrong": "She is the tallest of the school.",
+          "right": "She is the tallest in the school.",
+          "explanation": "Yer / grup: in."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Eşitlik",
+          "body": "Eşitlik için as … as kullanılır.",
+          "lessonId": "a2-as-as"
+        },
+        {
+          "topic": "Sıfat ve zarf",
+          "body": "Zarfların da comparative biçimi vardır: faster, more quickly.",
+          "lessonId": "a2-adjectives-adverbs"
+        },
+        {
+          "topic": "A1 karşılaştırma",
+          "body": "Kısa sıfatların temel comparative biçimi.",
+          "lessonId": "a1-comparatives-basic"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Kısa sıfat: -er / the -est; uzun sıfat: more / the most.",
+        "Superlative'den önce the kullan.",
+        "Comparative'den sonra than gelir.",
+        "-er ve more birlikte kullanılmaz.",
+        "Düzensiz: good → better → best; bad → worse → worst."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-comp-super-01",
+        "q-comp-super-02",
+        "q-comp-super-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-comp-super-01",
+      "en": "Tom is taller than Ben.",
+      "tr": "Tom Ben'den daha uzun.",
+      "highlight": "taller than",
+      "note": "kısa sıfat + -er + than"
+    },
+    {
+      "id": "ex-comp-super-02",
+      "en": "This car is faster than that one.",
+      "tr": "Bu araba şundan daha hızlı.",
+      "highlight": "faster than"
+    },
+    {
+      "id": "ex-comp-super-03",
+      "en": "My sister is older than me.",
+      "tr": "Kız kardeşim benden büyük.",
+      "highlight": "older than"
+    },
+    {
+      "id": "ex-comp-super-04",
+      "en": "London is bigger than Paris.",
+      "tr": "Londra Paris'ten daha büyük.",
+      "highlight": "bigger than",
+      "note": "ünsüz ikizlenir"
+    },
+    {
+      "id": "ex-comp-super-05",
+      "en": "Today is hotter than yesterday.",
+      "tr": "Bugün dünden daha sıcak.",
+      "highlight": "hotter than"
+    },
+    {
+      "id": "ex-comp-super-06",
+      "en": "She is happier than before.",
+      "tr": "Eskisinden daha mutlu.",
+      "highlight": "happier than",
+      "note": "-y → -ier"
+    },
+    {
+      "id": "ex-comp-super-07",
+      "en": "This exercise is easier than that one.",
+      "tr": "Bu alıştırma şundan daha kolay.",
+      "highlight": "easier than"
+    },
+    {
+      "id": "ex-comp-super-08",
+      "en": "This book is more interesting than that one.",
+      "tr": "Bu kitap şundan daha ilginç.",
+      "highlight": "more interesting than",
+      "note": "uzun sıfat: more"
+    },
+    {
+      "id": "ex-comp-super-09",
+      "en": "English is more difficult than Spanish.",
+      "tr": "İngilizce İspanyolcadan daha zor.",
+      "highlight": "more difficult than"
+    },
+    {
+      "id": "ex-comp-super-10",
+      "en": "This hotel is more expensive than that hotel.",
+      "tr": "Bu otel şu otelden daha pahalı.",
+      "highlight": "more expensive than"
+    },
+    {
+      "id": "ex-comp-super-11",
+      "en": "This phone is better than that one.",
+      "tr": "Bu telefon şundan daha iyi.",
+      "highlight": "better than",
+      "note": "good → better"
+    },
+    {
+      "id": "ex-comp-super-12",
+      "en": "The weather is worse today.",
+      "tr": "Hava bugün daha kötü.",
+      "highlight": "worse",
+      "note": "bad → worse"
+    },
+    {
+      "id": "ex-comp-super-13",
+      "en": "Ben is the tallest boy in the class.",
+      "tr": "Ben sınıftaki en uzun çocuk.",
+      "highlight": "the tallest",
+      "note": "the + sıfat + -est"
+    },
+    {
+      "id": "ex-comp-super-14",
+      "en": "This is the fastest car in the world.",
+      "tr": "Bu, dünyadaki en hızlı araba.",
+      "highlight": "the fastest"
+    },
+    {
+      "id": "ex-comp-super-15",
+      "en": "She is the youngest in her family.",
+      "tr": "Ailesindeki en küçük.",
+      "highlight": "the youngest"
+    },
+    {
+      "id": "ex-comp-super-16",
+      "en": "Today is the hottest day of the year.",
+      "tr": "Bugün yılın en sıcak günü.",
+      "highlight": "the hottest",
+      "note": "ünsüz ikizlenir"
+    },
+    {
+      "id": "ex-comp-super-17",
+      "en": "He is the happiest man I know.",
+      "tr": "Tanıdığım en mutlu adam.",
+      "highlight": "the happiest",
+      "note": "-y → -iest"
+    },
+    {
+      "id": "ex-comp-super-18",
+      "en": "This is the easiest exercise.",
+      "tr": "Bu en kolay alıştırma.",
+      "highlight": "the easiest"
+    },
+    {
+      "id": "ex-comp-super-19",
+      "en": "She is the most beautiful girl in the school.",
+      "tr": "Okuldaki en güzel kız.",
+      "highlight": "the most beautiful",
+      "note": "the most + uzun sıfat"
+    },
+    {
+      "id": "ex-comp-super-20",
+      "en": "This is the most expensive hotel in town.",
+      "tr": "Bu şehirdeki en pahalı otel.",
+      "highlight": "the most expensive"
+    },
+    {
+      "id": "ex-comp-super-21",
+      "en": "It's the most interesting book I have ever read.",
+      "tr": "Şimdiye kadar okuduğum en ilginç kitap.",
+      "highlight": "the most interesting"
+    },
+    {
+      "id": "ex-comp-super-22",
+      "en": "This is the best restaurant in the city.",
+      "tr": "Bu şehirdeki en iyi restoran.",
+      "highlight": "the best",
+      "note": "good → the best"
+    },
+    {
+      "id": "ex-comp-super-23",
+      "en": "That was the worst film of the year.",
+      "tr": "O yılın en kötü filmiydi.",
+      "highlight": "the worst",
+      "note": "bad → the worst"
+    },
+    {
+      "id": "ex-comp-super-24",
+      "en": "Who is taller, Tom or Ben?",
+      "tr": "Kim daha uzun, Tom mu Ben mi?",
+      "highlight": "taller",
+      "note": "İki kişi: comparative"
+    },
+    {
+      "id": "ex-comp-super-25",
+      "en": "Who is the tallest in your family?",
+      "tr": "Ailende en uzun kim?",
+      "highlight": "the tallest",
+      "note": "Üç ve fazlası: superlative"
+    },
+    {
+      "id": "ex-comp-super-26",
+      "en": "Which is more expensive, this or that?",
+      "tr": "Hangisi daha pahalı, bu mu şu mu?",
+      "highlight": "more expensive"
+    },
+    {
+      "id": "ex-comp-super-27",
+      "en": "Mount Everest is the highest mountain in the world.",
+      "tr": "Everest dünyanın en yüksek dağı.",
+      "highlight": "the highest"
+    },
+    {
+      "id": "ex-comp-super-28",
+      "en": "My brother is much taller than me.",
+      "tr": "Kardeşim benden çok daha uzun.",
+      "highlight": "much taller",
+      "note": "much + comparative"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-comp-super-01",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Ben is the ___ boy in the class.",
+      "options": [
+        {
+          "id": "a",
+          "text": "tallest"
+        },
+        {
+          "id": "b",
+          "text": "taller"
+        },
+        {
+          "id": "c",
+          "text": "most tall"
+        },
+        {
+          "id": "d",
+          "text": "tall"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Superlative: the -est.",
+      "optionExplanations": {
+        "b": "Comparative.",
+        "c": "Kısa sıfatta most kullanılmaz.",
+        "d": "Yalın sıfat."
+      },
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-02",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This is the ___ car in the world. (fast)",
+      "answers": [
+        "fastest"
+      ],
+      "explanation": "the -est.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "faster",
+          "explanation": "Comparative."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-03",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben sınıftaki en uzun çocuk.",
+      "answer": [
+        "Ben",
+        "is",
+        "the",
+        "tallest",
+        "boy",
+        "in",
+        "the",
+        "class"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "taller",
+        "most"
+      ],
+      "explanation": "the + -est",
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-04",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is tallest in the class.",
+      "errorSpan": "tallest",
+      "answers": [
+        "He is the tallest in the class."
+      ],
+      "explanation": "Superlative'den önce the.",
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-05",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu, dünyadaki en hızlı araba.",
+      "hint": "hızlı: fast",
+      "answers": [
+        "This is the fastest car in the world."
+      ],
+      "targetStructure": "the fastest",
+      "explanation": "Superlative.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is fastest car in the world.",
+          "explanation": "The gerekir."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-06",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is the ___ girl in the school. (beautiful)",
+      "options": [
+        {
+          "id": "a",
+          "text": "most beautiful"
+        },
+        {
+          "id": "b",
+          "text": "beautifulest"
+        },
+        {
+          "id": "c",
+          "text": "more beautiful"
+        },
+        {
+          "id": "d",
+          "text": "beautiful"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Uzun sıfat: the most.",
+      "optionExplanations": {
+        "b": "Uzun sıfatta -est kullanılmaz.",
+        "c": "Comparative.",
+        "d": "Yalın sıfat."
+      },
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-07",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This hotel is ___ than that hotel. (expensive)",
+      "options": [
+        {
+          "id": "a",
+          "text": "more expensive"
+        },
+        {
+          "id": "b",
+          "text": "expensiver"
+        },
+        {
+          "id": "c",
+          "text": "most expensive"
+        },
+        {
+          "id": "d",
+          "text": "expensive"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Uzun sıfat: more.",
+      "optionExplanations": {
+        "b": "Uzun sıfatta -er kullanılmaz.",
+        "c": "Superlative.",
+        "d": "Yalın sıfat."
+      },
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-08",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Today is the ___ day of the year. (hot)",
+      "options": [
+        {
+          "id": "a",
+          "text": "hottest"
+        },
+        {
+          "id": "b",
+          "text": "hotest"
+        },
+        {
+          "id": "c",
+          "text": "most hot"
+        },
+        {
+          "id": "d",
+          "text": "hotter"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ünsüz ikizlenir.",
+      "optionExplanations": {
+        "b": "Ünsüz ikizlenir.",
+        "c": "Kısa sıfatta most kullanılmaz.",
+        "d": "Comparative."
+      },
+      "tags": [
+        "comp-super",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-09",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is the ___ man I know. (happy)",
+      "answers": [
+        "happiest"
+      ],
+      "explanation": "-y → -iest.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "happyest",
+          "explanation": "-y → -iest."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-10",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This is the ___ exercise. (easy)",
+      "answers": [
+        "easiest"
+      ],
+      "explanation": "-y → -iest.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "easyest",
+          "explanation": "-y → -iest."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-11",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This phone is ___ than that one. (good)",
+      "answers": [
+        "better"
+      ],
+      "explanation": "good → better.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "gooder",
+          "explanation": "Düzensiz."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-12",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "That was the ___ film of the year. (bad)",
+      "options": [
+        {
+          "id": "a",
+          "text": "worst"
+        },
+        {
+          "id": "b",
+          "text": "baddest"
+        },
+        {
+          "id": "c",
+          "text": "most bad"
+        },
+        {
+          "id": "d",
+          "text": "worse"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "bad → the worst.",
+      "optionExplanations": {
+        "b": "Düzensiz.",
+        "c": "Düzensiz.",
+        "d": "Comparative."
+      },
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-13",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is taller than me."
+        },
+        {
+          "id": "b",
+          "text": "He is more tall than me."
+        },
+        {
+          "id": "c",
+          "text": "He is tallest than me."
+        },
+        {
+          "id": "d",
+          "text": "He is the taller than me."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa sıfat: -er than.",
+      "optionExplanations": {
+        "b": "Kısa sıfatta more kullanılmaz.",
+        "c": "Comparative.",
+        "d": "The comparative ile kullanılmaz."
+      },
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-14",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "This is the most expensive hotel."
+        },
+        {
+          "id": "b",
+          "text": "This is the more expensive hotel."
+        },
+        {
+          "id": "c",
+          "text": "This is the expensivest hotel."
+        },
+        {
+          "id": "d",
+          "text": "This is most expensive hotel."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "the most + uzun sıfat.",
+      "optionExplanations": {
+        "b": "Superlative: the most.",
+        "c": "Uzun sıfatta -est kullanılmaz.",
+        "d": "The gerekir."
+      },
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-15",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Who is ___, Tom or Ben? (İki kişi, tall)",
+      "options": [
+        {
+          "id": "a",
+          "text": "taller"
+        },
+        {
+          "id": "b",
+          "text": "the tallest"
+        },
+        {
+          "id": "c",
+          "text": "more tall"
+        },
+        {
+          "id": "d",
+          "text": "tall"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İki kişi: comparative.",
+      "optionExplanations": {
+        "b": "Üç ve fazlası için superlative.",
+        "c": "Kısa sıfatta more kullanılmaz.",
+        "d": "Yalın sıfat."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-16",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Who is ___ in your family? (Aile, tall)",
+      "options": [
+        {
+          "id": "a",
+          "text": "the tallest"
+        },
+        {
+          "id": "b",
+          "text": "taller"
+        },
+        {
+          "id": "c",
+          "text": "more tall"
+        },
+        {
+          "id": "d",
+          "text": "tallest"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Grup: superlative.",
+      "optionExplanations": {
+        "b": "İki kişi için comparative.",
+        "c": "Kısa sıfatta more kullanılmaz.",
+        "d": "The gerekir."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-17",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Mount Everest is the highest mountain ___ the world.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "of"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer: in.",
+      "optionExplanations": {
+        "b": "Of zaman / grup için.",
+        "c": "At.",
+        "d": "On."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-18",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My sister is ___ than me. (old)",
+      "answers": [
+        "older"
+      ],
+      "explanation": "-er than.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more old",
+          "explanation": "Kısa sıfat: -er."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-19",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is ___ than before. (happy)",
+      "answers": [
+        "happier"
+      ],
+      "explanation": "-y → -ier.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "happyer",
+          "explanation": "-y → -ier."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-20",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This book is ___ interesting than that one.",
+      "answers": [
+        "more"
+      ],
+      "explanation": "Uzun sıfat: more.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "most",
+          "explanation": "Comparative: more."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-21",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It's the ___ interesting book I have ever read.",
+      "answers": [
+        "most"
+      ],
+      "explanation": "Uzun sıfat: the most.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more",
+          "explanation": "Superlative: most."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-22",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "London is ___ than Paris. (big)",
+      "answers": [
+        "bigger"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "biger",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-23",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is the ___ in her family. (young)",
+      "answers": [
+        "youngest"
+      ],
+      "explanation": "the -est.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "younger",
+          "explanation": "Comparative."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-24",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This is the ___ restaurant in the city. (good)",
+      "answers": [
+        "best"
+      ],
+      "explanation": "good → the best.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "goodest",
+          "explanation": "Düzensiz."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-25",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The weather is ___ today. (bad, comparative)",
+      "answers": [
+        "worse"
+      ],
+      "explanation": "bad → worse.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "badder",
+          "explanation": "Düzensiz."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-26",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is more tall than me.",
+      "errorSpan": "more tall",
+      "answers": [
+        "He is taller than me."
+      ],
+      "explanation": "Kısa sıfat: -er.",
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-27",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This book is interestinger.",
+      "errorSpan": "interestinger",
+      "answers": [
+        "This book is more interesting."
+      ],
+      "explanation": "Uzun sıfat: more.",
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-28",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is the most tall girl.",
+      "errorSpan": "most tall",
+      "answers": [
+        "She is the tallest girl."
+      ],
+      "explanation": "Kısa sıfat: the -est.",
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-29",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It is the most bad film.",
+      "errorSpan": "most bad",
+      "answers": [
+        "It is the worst film."
+      ],
+      "explanation": "bad → the worst.",
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-30",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom is taller that Ben.",
+      "errorSpan": "that",
+      "answers": [
+        "Tom is taller than Ben."
+      ],
+      "explanation": "Than.",
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-31",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu kitap şundan daha ilginç.",
+      "answer": [
+        "This",
+        "book",
+        "is",
+        "more",
+        "interesting",
+        "than",
+        "that",
+        "one"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "most",
+        "interestinger"
+      ],
+      "explanation": "more + sıfat + than",
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-32",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şimdiye kadar okuduğum en ilginç kitap.",
+      "answer": [
+        "It's",
+        "the",
+        "most",
+        "interesting",
+        "book",
+        "I",
+        "have",
+        "ever",
+        "read"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "more",
+        "interestingest"
+      ],
+      "explanation": "the most + sıfat",
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-33",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kim daha uzun, Tom mu Ben mi?",
+      "answer": [
+        "Who",
+        "is",
+        "taller",
+        "Tom",
+        "or",
+        "Ben"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "tallest",
+        "more"
+      ],
+      "explanation": "İki kişi: comparative",
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-34",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu araba şundan daha hızlı.",
+      "hint": "hızlı: fast",
+      "answers": [
+        "This car is faster than that one.",
+        "This car is faster than that car."
+      ],
+      "targetStructure": "faster than",
+      "explanation": "Comparative.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This car is more fast than that one.",
+          "explanation": "Kısa sıfat: -er."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "short"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-35",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce İspanyolcadan daha zor.",
+      "hint": "zor: difficult",
+      "answers": [
+        "English is more difficult than Spanish."
+      ],
+      "targetStructure": "more … than",
+      "explanation": "Uzun sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "English is difficulter than Spanish.",
+          "explanation": "Uzun sıfat: more."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-36",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O yılın en kötü filmiydi.",
+      "hint": "kötü: bad",
+      "answers": [
+        "That was the worst film of the year."
+      ],
+      "targetStructure": "the worst",
+      "explanation": "Düzensiz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "That was the most bad film of the year.",
+          "explanation": "Bad → the worst."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "irregular"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-37",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is the tallest in the school."
+        },
+        {
+          "id": "b",
+          "text": "She is the tallest of the school."
+        },
+        {
+          "id": "c",
+          "text": "She is tallest in the school."
+        },
+        {
+          "id": "d",
+          "text": "She is the most tall in the school."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer / grup: in.",
+      "optionExplanations": {
+        "b": "Of zaman / üyeler için.",
+        "c": "The gerekir.",
+        "d": "Kısa sıfatta most kullanılmaz."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-38",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "My brother is much taller than me."
+        },
+        {
+          "id": "b",
+          "text": "My brother is very taller than me."
+        },
+        {
+          "id": "c",
+          "text": "My brother is more much taller than me."
+        },
+        {
+          "id": "d",
+          "text": "My brother is much more tall than me."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "much + comparative.",
+      "optionExplanations": {
+        "b": "Very comparative ile kullanılmaz.",
+        "c": "Sıra bozuk.",
+        "d": "Kısa sıfatta more kullanılmaz."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-39",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle iki şeyi karşılaştırır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Which is more expensive, this or that?"
+        },
+        {
+          "id": "b",
+          "text": "This is the most expensive."
+        },
+        {
+          "id": "c",
+          "text": "This is the best hotel."
+        },
+        {
+          "id": "d",
+          "text": "It is the worst."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İki şey: comparative.",
+      "optionExplanations": {
+        "b": "Superlative.",
+        "c": "Superlative.",
+        "d": "Superlative."
+      },
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-40",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Who is ___ in your family? (tall, aile)",
+      "answers": [
+        "the tallest"
+      ],
+      "explanation": "Grup: the tallest.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "taller",
+          "explanation": "Üç ve fazlası için superlative."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-41",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "This is the ___ interesting book. (en)",
+      "answers": [
+        "most"
+      ],
+      "explanation": "the most.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "more",
+          "explanation": "Superlative: most."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-42",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ailendeki en uzun kim?",
+      "hint": "uzun: tall",
+      "answers": [
+        "Who is the tallest in your family?"
+      ],
+      "targetStructure": "the tallest",
+      "explanation": "Superlative.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Who is taller in your family?",
+          "explanation": "Grup: superlative."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-comp-super-43",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kardeşim benden çok daha uzun.",
+      "hint": "çok daha: much",
+      "answers": [
+        "My brother is much taller than me.",
+        "My brother is much taller than I am."
+      ],
+      "targetStructure": "much + comparative",
+      "explanation": "Çok daha.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My brother is very taller than me.",
+          "explanation": "Very comparative ile kullanılmaz."
+        }
+      ],
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-comp-super-44",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is the tallest of the school.",
+      "errorSpan": "of the school",
+      "answers": [
+        "She is the tallest in the school."
+      ],
+      "explanation": "Yer: in.",
+      "tags": [
+        "comp-super",
+        "use"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-comp-super-45",
+      "lessonId": "a2-comparatives-superlatives",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This is the more expensive hotel.",
+      "errorSpan": "more",
+      "answers": [
+        "This is the most expensive hotel."
+      ],
+      "explanation": "Superlative: the most.",
+      "tags": [
+        "comp-super",
+        "long"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-comp-super",
+    "title": "Comparative & Superlative: Konu sonu sınavı",
+    "description": "Karşılaştırma ve üstünlük biçimleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-comp-super-exam-01",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Tom is ___ than Ben. (tall)",
+        "options": [
+          {
+            "id": "a",
+            "text": "taller"
+          },
+          {
+            "id": "b",
+            "text": "tallest"
+          },
+          {
+            "id": "c",
+            "text": "more tall"
+          },
+          {
+            "id": "d",
+            "text": "the taller"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "-er than.",
+        "optionExplanations": {
+          "b": "Superlative.",
+          "c": "Kısa sıfatta more kullanılmaz.",
+          "d": "The kullanılmaz."
+        },
+        "tags": [
+          "comp-super",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-02",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "She is the ___ in her family. (old)",
+        "answers": [
+          "oldest"
+        ],
+        "explanation": "the -est.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "older",
+            "explanation": "Comparative."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-03",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu şehirdeki en pahalı otel.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "most",
+          "expensive",
+          "hotel",
+          "in",
+          "town"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "more",
+          "expensivest"
+        ],
+        "explanation": "the most + uzun sıfat",
+        "tags": [
+          "comp-super",
+          "long"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-04",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is more happy than before.",
+        "errorSpan": "more happy",
+        "answers": [
+          "She is happier than before."
+        ],
+        "explanation": "-y → -ier.",
+        "tags": [
+          "comp-super",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-05",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu telefon şundan daha iyi.",
+        "hint": "iyi: good",
+        "answers": [
+          "This phone is better than that one.",
+          "This phone is better than that phone."
+        ],
+        "targetStructure": "better than",
+        "explanation": "Düzensiz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "This phone is more good than that one.",
+            "explanation": "Good → better."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-06",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "It's the ___ film of the year. (bad)",
+        "options": [
+          {
+            "id": "a",
+            "text": "worst"
+          },
+          {
+            "id": "b",
+            "text": "baddest"
+          },
+          {
+            "id": "c",
+            "text": "most bad"
+          },
+          {
+            "id": "d",
+            "text": "worse"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "bad → worst.",
+        "optionExplanations": {
+          "b": "Düzensiz.",
+          "c": "Düzensiz.",
+          "d": "Comparative."
+        },
+        "tags": [
+          "comp-super",
+          "irregular"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-07",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "This film is ___ boring than that one.",
+        "answers": [
+          "more"
+        ],
+        "explanation": "more.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "most",
+            "explanation": "Comparative."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "long"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-08",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bugün dünden daha sıcak.",
+        "answer": [
+          "Today",
+          "is",
+          "hotter",
+          "than",
+          "yesterday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "hoter",
+          "more"
+        ],
+        "explanation": "hotter than",
+        "tags": [
+          "comp-super",
+          "spelling"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-09",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He is tallest boy in the class.",
+        "errorSpan": "tallest",
+        "answers": [
+          "He is the tallest boy in the class."
+        ],
+        "explanation": "The gerekir.",
+        "tags": [
+          "comp-super",
+          "use"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-10",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Londra Paris'ten daha büyük.",
+        "hint": "büyük: big",
+        "answers": [
+          "London is bigger than Paris."
+        ],
+        "targetStructure": "bigger than",
+        "explanation": "Ünsüz ikizlenir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "London is more big than Paris.",
+            "explanation": "Kısa sıfat: -er."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-11",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She is the most beautiful girl in the school."
+          },
+          {
+            "id": "b",
+            "text": "She is the beautifulest girl in the school."
+          },
+          {
+            "id": "c",
+            "text": "She is most beautiful girl in the school."
+          },
+          {
+            "id": "d",
+            "text": "She is the more beautiful girl in the school."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "the most.",
+        "optionExplanations": {
+          "b": "Uzun sıfatta -est kullanılmaz.",
+          "c": "The gerekir.",
+          "d": "Superlative: most."
+        },
+        "tags": [
+          "comp-super",
+          "long"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-12",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Mount Everest is the highest mountain ___ the world.",
+        "answers": [
+          "in"
+        ],
+        "explanation": "Yer: in.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "of",
+            "explanation": "Yer için in."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "use"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-13",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He is the most tall boy.",
+        "errorSpan": "most tall",
+        "answers": [
+          "He is the tallest boy."
+        ],
+        "explanation": "Kısa sıfat.",
+        "tags": [
+          "comp-super",
+          "short"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-14",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Üç kişi arasında en uzun olan için hangisi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "the tallest"
+          },
+          {
+            "id": "b",
+            "text": "taller"
+          },
+          {
+            "id": "c",
+            "text": "more tall"
+          },
+          {
+            "id": "d",
+            "text": "tall"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Superlative.",
+        "optionExplanations": {
+          "b": "İki kişi için.",
+          "c": "Kısa sıfatta more kullanılmaz.",
+          "d": "Yalın sıfat."
+        },
+        "tags": [
+          "comp-super",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-15",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "She is ___ than her sister. (happy)",
+        "answers": [
+          "happier"
+        ],
+        "explanation": "-y → -ier.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "happyer",
+            "explanation": "-y → -ier."
+          }
+        ],
+        "tags": [
+          "comp-super",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-comp-super-exam-16",
+        "lessonId": "a2-comparatives-superlatives",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hangisi daha pahalı, bu mu şu mu?",
+        "answer": [
+          "Which",
+          "is",
+          "more",
+          "expensive",
+          "this",
+          "or",
+          "that"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "most",
+          "expensiver"
+        ],
+        "explanation": "Karşılaştırma sorusu",
+        "tags": [
+          "comp-super",
+          "use"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
