@@ -1,0 +1,2311 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-past-perfect",
+  "levelId": "b1",
+  "title": "Past Perfect & Past Simple",
+  "objectives": [
+    "Had + V3 yapısını kurmak (olumlu, olumsuz, soru)",
+    "Geçmişteki iki olaydan önce olanı Past Perfect ile göstermek",
+    "Art arda olaylar için Past Simple kullanmak",
+    "After, before, by the time gibi bağlaçlarla Past Perfect kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Past Perfect nedir?",
+      "paragraphs": [
+        "Past Perfect, geçmişteki iki olaydan önce olanı göstermek için kullanılır. “Ben vardığımda film çoktan başlamıştı”: önce film başladı, sonra ben vardım. Başlayan olay Past Perfect, varma olayı Past Simple ile söylenir.",
+        "Yapı: had + fiilin üçüncü hâli (V3). Tüm öznelerde had kullanılır. Türkçedeki “-mıştı / -miştı” yapısına karşılık gelir."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "Had tüm özneler için aynıdır. Olumsuzu hadn’t, soru biçimi Had + özne + V3’tür."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + had + V3",
+          "exampleIds": [
+            "ex-past-perfect-01",
+            "ex-past-perfect-02",
+            "ex-past-perfect-03",
+            "ex-past-perfect-04",
+            "ex-past-perfect-05"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + hadn’t + V3",
+          "exampleIds": [
+            "ex-past-perfect-07",
+            "ex-past-perfect-08",
+            "ex-past-perfect-09"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Had + özne + V3 …?",
+          "exampleIds": [
+            "ex-past-perfect-10",
+            "ex-past-perfect-11"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I had.   No, she hadn’t.",
+          "exampleIds": [
+            "ex-past-perfect-12",
+            "ex-past-perfect-13"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + had + özne + V3 …?",
+          "exampleIds": [
+            "ex-past-perfect-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "type": "forms",
+      "title": "İki olay: hangisi önce?",
+      "forms": [
+        {
+          "label": "Önce olan → Past Perfect",
+          "formula": "The film had started. (önce)",
+          "exampleIds": [
+            "ex-past-perfect-01",
+            "ex-past-perfect-15",
+            "ex-past-perfect-27"
+          ],
+          "note": "Sonra olan olay Past Simple ile."
+        },
+        {
+          "label": "Sonra olan → Past Simple",
+          "formula": "When I arrived, … (sonra)",
+          "exampleIds": [
+            "ex-past-perfect-01",
+            "ex-past-perfect-15",
+            "ex-past-perfect-27"
+          ],
+          "note": "Zaman ve sıra bu ikiliden anlaşılır."
+        },
+        {
+          "label": "Art arda olaylar → Past Simple",
+          "formula": "When I got home, my parents went to bed.",
+          "exampleIds": [
+            "ex-past-perfect-16"
+          ],
+          "note": "Olaylar sırayla gerçekleştiyse ikisi de Past Simple."
+        }
+      ]
+    },
+    {
+      "id": "signals",
+      "type": "rule",
+      "title": "Past Perfect ile sık gelen ifadeler",
+      "paragraphs": [
+        "After, before, when, by the time, until then, already, just, never, the first time gibi ifadeler Past Perfect’e işaret edebilir. After ve before ile sıra açıksa iki olay Past Simple ile de söylenebilir."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman bağlaçları",
+          "pattern": "after + Past Perfect,  before + Past Simple,  by the time + Past Simple, …Past Perfect",
+          "exampleIds": [
+            "ex-past-perfect-06",
+            "ex-past-perfect-17",
+            "ex-past-perfect-19",
+            "ex-past-perfect-28"
+          ]
+        },
+        {
+          "label": "Zarflar",
+          "pattern": "already,  just,  never,  yet + had + V3",
+          "exampleIds": [
+            "ex-past-perfect-18",
+            "ex-past-perfect-23",
+            "ex-past-perfect-04"
+          ]
+        },
+        {
+          "label": "İlk kez",
+          "pattern": "It was the first time + (that) + had + V3",
+          "exampleIds": [
+            "ex-past-perfect-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "rule",
+      "title": "Ne zaman kullanılır?",
+      "paragraphs": [
+        "Past Perfect, bir olayın başka bir geçmiş olaydan önce olduğunu ve onu etkilediğini ya da açıkladığını gösterir. Neden-sonuç anlatımında ve aktarılan sözlerde de sık kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Neden açıklamak",
+          "pattern": "He was late because he had missed the bus.",
+          "exampleIds": [
+            "ex-past-perfect-05",
+            "ex-past-perfect-22",
+            "ex-past-perfect-08"
+          ]
+        },
+        {
+          "label": "Aktarma",
+          "pattern": "He said he had seen the film.",
+          "exampleIds": [
+            "ex-past-perfect-20",
+            "ex-past-perfect-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu, olumsuz, soru",
+      "exampleIds": [
+        "ex-past-perfect-01",
+        "ex-past-perfect-02",
+        "ex-past-perfect-03",
+        "ex-past-perfect-04",
+        "ex-past-perfect-05",
+        "ex-past-perfect-06",
+        "ex-past-perfect-07",
+        "ex-past-perfect-08",
+        "ex-past-perfect-09",
+        "ex-past-perfect-10",
+        "ex-past-perfect-11",
+        "ex-past-perfect-12",
+        "ex-past-perfect-13",
+        "ex-past-perfect-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: iki olay ve kullanım",
+      "exampleIds": [
+        "ex-past-perfect-15",
+        "ex-past-perfect-16",
+        "ex-past-perfect-17",
+        "ex-past-perfect-18",
+        "ex-past-perfect-19",
+        "ex-past-perfect-20",
+        "ex-past-perfect-21",
+        "ex-past-perfect-22",
+        "ex-past-perfect-23",
+        "ex-past-perfect-24",
+        "ex-past-perfect-25",
+        "ex-past-perfect-26",
+        "ex-past-perfect-27",
+        "ex-past-perfect-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "When I arrived, the film started. (film önce başlamıştı)",
+          "right": "When I arrived, the film had started.",
+          "explanation": "Önce olan olay Past Perfect."
+        },
+        {
+          "wrong": "She has left before I called.",
+          "right": "She had left before I called.",
+          "explanation": "Geçmişteki iki olayda had."
+        },
+        {
+          "wrong": "He had went home.",
+          "right": "He had gone home.",
+          "explanation": "V3: gone."
+        },
+        {
+          "wrong": "I had saw him.",
+          "right": "I had seen him.",
+          "explanation": "V3: seen."
+        },
+        {
+          "wrong": "Had you saw him before?",
+          "right": "Had you seen him before?",
+          "explanation": "Soruda da V3."
+        },
+        {
+          "wrong": "He didn't had eaten.",
+          "right": "He hadn't eaten.",
+          "explanation": "Olumsuz: hadn't."
+        },
+        {
+          "wrong": "After I had finished, I had watched TV.",
+          "right": "After I had finished, I watched TV.",
+          "explanation": "Sonraki olay Past Simple."
+        },
+        {
+          "wrong": "I had been there yesterday.",
+          "right": "I was there yesterday.",
+          "explanation": "Belirli geçmiş zaman: Past Simple."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Past Simple",
+          "body": "Tek geçmiş olay için Past Simple; iki olaydan önce olan için Past Perfect.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Present Perfect",
+          "body": "Have + V3 şimdiyle bağlantılı; had + V3 geçmişteki bir noktadan öncedir.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "Reported Speech",
+          "body": "Aktarımda Past Simple → Past Perfect olur.",
+          "lessonId": "a2-reported-speech-basic"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: had + V3; tüm öznelerde aynıdır.",
+        "Önce olan olay Past Perfect, sonra olan Past Simple.",
+        "Art arda olaylar iki Past Simple ile söylenir.",
+        "Belirli geçmiş zamanla (yesterday, in 2010) tek başına Past Simple kullan.",
+        "Düzensiz fiillerin V3 biçimlerine dikkat et."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-past-perfect-01",
+        "q-past-perfect-02",
+        "q-past-perfect-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-past-perfect-01",
+      "en": "When I arrived, the film had already started.",
+      "tr": "Ben vardığımda film çoktan başlamıştı.",
+      "highlight": "had already started",
+      "note": "had + V3"
+    },
+    {
+      "id": "ex-past-perfect-02",
+      "en": "She had left before I called.",
+      "tr": "Ben aramadan önce gitmişti.",
+      "highlight": "had left"
+    },
+    {
+      "id": "ex-past-perfect-03",
+      "en": "They had finished dinner when we arrived.",
+      "tr": "Biz geldiğimizde yemeği bitirmişlerdi.",
+      "highlight": "had finished"
+    },
+    {
+      "id": "ex-past-perfect-04",
+      "en": "I had never seen snow before I went to Canada.",
+      "tr": "Kanada'ya gitmeden önce hiç kar görmemiştim.",
+      "highlight": "had never seen"
+    },
+    {
+      "id": "ex-past-perfect-05",
+      "en": "He was late because he had missed the bus.",
+      "tr": "Otobüsü kaçırmıştı, bu yüzden geç kaldı.",
+      "highlight": "had missed"
+    },
+    {
+      "id": "ex-past-perfect-06",
+      "en": "After she had eaten, she went to bed.",
+      "tr": "Yemek yedikten sonra yattı.",
+      "highlight": "had eaten",
+      "note": "after + Past Perfect"
+    },
+    {
+      "id": "ex-past-perfect-07",
+      "en": "I didn't know him because I hadn't met him before.",
+      "tr": "Onu tanımıyordum çünkü daha önce tanışmamıştım.",
+      "highlight": "hadn't met",
+      "note": "Olumsuz: hadn't + V3"
+    },
+    {
+      "id": "ex-past-perfect-08",
+      "en": "She hadn't studied, so she failed the exam.",
+      "tr": "Çalışmamıştı, bu yüzden sınavdan kaldı.",
+      "highlight": "hadn't studied"
+    },
+    {
+      "id": "ex-past-perfect-09",
+      "en": "They hadn't eaten, so they were hungry.",
+      "tr": "Yememişlerdi, bu yüzden açtılar.",
+      "highlight": "hadn't eaten"
+    },
+    {
+      "id": "ex-past-perfect-10",
+      "en": "Had you seen him before?",
+      "tr": "Onu daha önce görmüş müydün?",
+      "highlight": "Had you seen",
+      "note": "Soru: Had + özne + V3"
+    },
+    {
+      "id": "ex-past-perfect-11",
+      "en": "Had she finished when you called?",
+      "tr": "Sen aradığında bitirmiş miydi?",
+      "highlight": "Had she finished"
+    },
+    {
+      "id": "ex-past-perfect-12",
+      "en": "Yes, I had.",
+      "tr": "Evet, görmüştüm.",
+      "highlight": "Yes, I had",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-past-perfect-13",
+      "en": "No, she hadn't.",
+      "tr": "Hayır, bitirmemişti.",
+      "highlight": "No, she hadn't"
+    },
+    {
+      "id": "ex-past-perfect-14",
+      "en": "What had he done before he left?",
+      "tr": "Gitmeden önce ne yapmıştı?",
+      "highlight": "What had he done"
+    },
+    {
+      "id": "ex-past-perfect-15",
+      "en": "When I got home, my parents had gone to bed.",
+      "tr": "Eve geldiğimde ailem yatmıştı.",
+      "highlight": "had gone",
+      "note": "İki olay: önce olan Past Perfect"
+    },
+    {
+      "id": "ex-past-perfect-16",
+      "en": "When I got home, my parents went to bed.",
+      "tr": "Eve geldiğimde ailem yattı.",
+      "highlight": "went",
+      "note": "Aynı anda / art arda: Past Simple"
+    },
+    {
+      "id": "ex-past-perfect-17",
+      "en": "She had lived in Paris before she moved to Rome.",
+      "tr": "Roma'ya taşınmadan önce Paris'te yaşamıştı.",
+      "highlight": "had lived"
+    },
+    {
+      "id": "ex-past-perfect-18",
+      "en": "I had already eaten when he called.",
+      "tr": "O aradığında ben zaten yemiştim.",
+      "highlight": "had already eaten"
+    },
+    {
+      "id": "ex-past-perfect-19",
+      "en": "By the time we arrived, the shop had closed.",
+      "tr": "Biz vardığımızda dükkân kapanmıştı.",
+      "highlight": "had closed",
+      "note": "by the time"
+    },
+    {
+      "id": "ex-past-perfect-20",
+      "en": "He told me he had seen the film.",
+      "tr": "Filmi izlediğini söyledi.",
+      "highlight": "had seen",
+      "note": "Reported speech'te Past Perfect"
+    },
+    {
+      "id": "ex-past-perfect-21",
+      "en": "I realised I had forgotten my keys.",
+      "tr": "Anahtarlarımı unuttuğumu fark ettim.",
+      "highlight": "had forgotten"
+    },
+    {
+      "id": "ex-past-perfect-22",
+      "en": "She was tired because she had worked all day.",
+      "tr": "Bütün gün çalıştığı için yorgundu.",
+      "highlight": "had worked"
+    },
+    {
+      "id": "ex-past-perfect-23",
+      "en": "Until then, I had never flown.",
+      "tr": "O zamana kadar hiç uçmamıştım.",
+      "highlight": "had never flown",
+      "note": "until then / before"
+    },
+    {
+      "id": "ex-past-perfect-24",
+      "en": "It was the first time I had eaten sushi.",
+      "tr": "Suşiyi ilk kez yiyordum.",
+      "highlight": "had eaten",
+      "note": "the first time + Past Perfect"
+    },
+    {
+      "id": "ex-past-perfect-25",
+      "en": "I had been there once before.",
+      "tr": "Orada daha önce bir kez bulunmuştum.",
+      "highlight": "had been"
+    },
+    {
+      "id": "ex-past-perfect-26",
+      "en": "After I finished my homework, I watched TV.",
+      "tr": "Ödevimi bitirdikten sonra TV izledim.",
+      "highlight": "finished",
+      "note": "after ile ikisi de Simple olabilir"
+    },
+    {
+      "id": "ex-past-perfect-27",
+      "en": "He had already left when I arrived.",
+      "tr": "Ben vardığımda zaten gitmişti.",
+      "highlight": "had already left"
+    },
+    {
+      "id": "ex-past-perfect-28",
+      "en": "Before he became a doctor, he had worked as a nurse.",
+      "tr": "Doktor olmadan önce hemşire olarak çalışmıştı.",
+      "highlight": "had worked"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-past-perfect-01",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "When I arrived, the film ___ already started.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Önce olan: had + V3.",
+      "optionExplanations": {
+        "b": "Have / has şimdiyle bağlantılı.",
+        "c": "Have şimdiyle bağlantılı.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-02",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ left before I called.",
+      "answers": [
+        "had"
+      ],
+      "explanation": "had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Geçmişteki iki olayda had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-03",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ben vardığımda film çoktan başlamıştı.",
+      "answer": [
+        "When",
+        "I",
+        "arrived",
+        "the",
+        "film",
+        "had",
+        "already",
+        "started"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "start"
+      ],
+      "explanation": "had + V3",
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-perfect-04",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has left before I called.",
+      "errorSpan": "has left",
+      "answers": [
+        "She had left before I called."
+      ],
+      "explanation": "Geçmişteki iki olay: had.",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-05",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben aramadan önce gitmişti.",
+      "hint": "gitmek: leave",
+      "answers": [
+        "She had left before I called.",
+        "He had left before I called."
+      ],
+      "targetStructure": "had + V3",
+      "explanation": "Önce olan olay.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has left before I called.",
+          "explanation": "Geçmişteki iki olayda had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-06",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ finished dinner when we arrived.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "had + V3.",
+      "optionExplanations": {
+        "b": "Have şimdiyle bağlantılı.",
+        "c": "They ile has olmaz.",
+        "d": "Did V3 almaz."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-07",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I had never ___ snow before.",
+      "options": [
+        {
+          "id": "a",
+          "text": "seen"
+        },
+        {
+          "id": "b",
+          "text": "saw"
+        },
+        {
+          "id": "c",
+          "text": "see"
+        },
+        {
+          "id": "d",
+          "text": "seeing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: seen.",
+      "optionExplanations": {
+        "b": "V2'dir.",
+        "c": "Yalın fiil.",
+        "d": "-ing."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-08",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He had ___ home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "gone"
+        },
+        {
+          "id": "b",
+          "text": "went"
+        },
+        {
+          "id": "c",
+          "text": "go"
+        },
+        {
+          "id": "d",
+          "text": "going"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "V3: gone.",
+      "optionExplanations": {
+        "b": "V2'dir.",
+        "c": "Yalın fiil.",
+        "d": "-ing."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-09",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They had ___ dinner when we arrived. (finish)",
+      "answers": [
+        "finished"
+      ],
+      "explanation": "V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "finish",
+          "explanation": "V3 gerekir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-10",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I had never ___ snow before. (see)",
+      "answers": [
+        "seen"
+      ],
+      "explanation": "V3: seen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "saw",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-11",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He was late because he ___ missed the bus.",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Neden: had + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Geçmiş açıklama: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-12",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I didn't know him because I ___ met him before.",
+      "options": [
+        {
+          "id": "a",
+          "text": "hadn't"
+        },
+        {
+          "id": "b",
+          "text": "didn't"
+        },
+        {
+          "id": "c",
+          "text": "haven't"
+        },
+        {
+          "id": "d",
+          "text": "wasn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "hadn't + V3.",
+      "optionExplanations": {
+        "b": "Didn't V3 almaz.",
+        "c": "Have şimdiyle bağlantılı.",
+        "d": "Be fiili."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-13",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you seen him before?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Had"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Were"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Had + özne + V3.",
+      "optionExplanations": {
+        "b": "Did V3 almaz.",
+        "c": "Geçmişteki iki olay: had.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-14",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "After she ___ eaten, she went to bed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "After + Past Perfect.",
+      "optionExplanations": {
+        "b": "Has şimdiyle bağlantılı.",
+        "c": "Have şimdiyle bağlantılı.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-15",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "By the time we arrived, the shop ___ closed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "By the time: önce olan Past Perfect.",
+      "optionExplanations": {
+        "b": "Has şimdiyle bağlantılı.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "Did V3 almaz."
+      },
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-16",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "When I got home, my parents ___ to bed. (önceden yatmışlardı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "had gone"
+        },
+        {
+          "id": "b",
+          "text": "went"
+        },
+        {
+          "id": "c",
+          "text": "have gone"
+        },
+        {
+          "id": "d",
+          "text": "were going"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Önce olan: Past Perfect.",
+      "optionExplanations": {
+        "b": "Past Simple art arda olayı anlatır.",
+        "c": "Present Perfect.",
+        "d": "Past Continuous."
+      },
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-17",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "When I got home, my parents ___ to bed. (ben gelince yattılar)",
+      "options": [
+        {
+          "id": "a",
+          "text": "went"
+        },
+        {
+          "id": "b",
+          "text": "had gone"
+        },
+        {
+          "id": "c",
+          "text": "have gone"
+        },
+        {
+          "id": "d",
+          "text": "go"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Art arda: Past Simple.",
+      "optionExplanations": {
+        "b": "Past Perfect önce olanı anlatır.",
+        "c": "Present Perfect.",
+        "d": "Present Simple."
+      },
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-18",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ studied, so she failed. (çalışmamıştı)",
+      "answers": [
+        "hadn't",
+        "had not"
+      ],
+      "explanation": "hadn't + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't",
+          "explanation": "Önce olan: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-19",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ eaten, so they were hungry. (yememişlerdi)",
+      "answers": [
+        "hadn't",
+        "had not"
+      ],
+      "explanation": "hadn't + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't",
+          "explanation": "Önce olan: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-20",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she finished when you called?",
+      "answers": [
+        "Had"
+      ],
+      "explanation": "Had + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did",
+          "explanation": "Past Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-21",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ he done before he left?",
+      "answers": [
+        "had"
+      ],
+      "explanation": "What had he done.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Past Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-22",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I had ___ eaten when he called. (zaten)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Olumlu cümlede already."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-perfect-23",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He had ___ left when I arrived. (zaten)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Olumlu cümlede already."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-perfect-24",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It was the first time I had ___ sushi. (eat)",
+      "answers": [
+        "eaten"
+      ],
+      "explanation": "V3: eaten.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ate",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-25",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I realised I had ___ my keys. (forget)",
+      "answers": [
+        "forgotten"
+      ],
+      "explanation": "V3: forgotten.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "forgot",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-26",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He had went home.",
+      "errorSpan": "went",
+      "answers": [
+        "He had gone home."
+      ],
+      "explanation": "V3: gone.",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-27",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I had saw him.",
+      "errorSpan": "saw",
+      "answers": [
+        "I had seen him."
+      ],
+      "explanation": "V3: seen.",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-28",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Had you saw him before?",
+      "errorSpan": "saw",
+      "answers": [
+        "Had you seen him before?"
+      ],
+      "explanation": "Soruda da V3.",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-29",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He didn't had eaten.",
+      "errorSpan": "didn't had",
+      "answers": [
+        "He hadn't eaten."
+      ],
+      "explanation": "Olumsuz: hadn't.",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-30",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When I arrived, the film started. (film önce başlamıştı)",
+      "errorSpan": "started",
+      "answers": [
+        "When I arrived, the film had started."
+      ],
+      "explanation": "Önce olan: Past Perfect.",
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-31",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gitmeden önce ne yapmıştı?",
+      "answer": [
+        "What",
+        "had",
+        "he",
+        "done",
+        "before",
+        "he",
+        "left"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "did",
+        "do"
+      ],
+      "explanation": "Wh + had",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-32",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çalışmamıştı, bu yüzden sınavdan kaldı.",
+      "answer": [
+        "She",
+        "hadn't",
+        "studied",
+        "so",
+        "she",
+        "failed",
+        "the",
+        "exam"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "didn't",
+        "study"
+      ],
+      "explanation": "hadn't + V3",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-33",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu daha önce görmüş müydün?",
+      "answer": [
+        "Had",
+        "you",
+        "seen",
+        "him",
+        "before"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Did",
+        "saw"
+      ],
+      "explanation": "Had + özne + V3",
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-perfect-34",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eve geldiğimde ailem yatmıştı.",
+      "hint": "yatmak: go to bed",
+      "answers": [
+        "When I got home, my parents had gone to bed.",
+        "When I got home my parents had gone to bed."
+      ],
+      "targetStructure": "had + V3",
+      "explanation": "Önce olan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When I got home, my parents went to bed.",
+          "explanation": "Önceden olan: Past Perfect."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-35",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Biz vardığımızda dükkân kapanmıştı.",
+      "hint": "kapanmak: close",
+      "answers": [
+        "By the time we arrived, the shop had closed.",
+        "When we arrived, the shop had closed."
+      ],
+      "targetStructure": "had + V3",
+      "explanation": "Önce olan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When we arrived, the shop closed.",
+          "explanation": "Önceden olan: Past Perfect."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-36",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu tanımıyordum çünkü daha önce tanışmamıştım.",
+      "hint": "tanışmak: meet",
+      "answers": [
+        "I didn't know him because I hadn't met him before."
+      ],
+      "targetStructure": "hadn't + V3",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I didn't know him because I didn't meet him before.",
+          "explanation": "Önce olan: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-perfect-37",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle iki olaydan önce olanı gösterir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She had left before I called."
+        },
+        {
+          "id": "b",
+          "text": "She left and I called."
+        },
+        {
+          "id": "c",
+          "text": "She leaves before I call."
+        },
+        {
+          "id": "d",
+          "text": "She is leaving before I call."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Önce olan: Past Perfect.",
+      "optionExplanations": {
+        "b": "Art arda olaylar.",
+        "c": "Present Simple.",
+        "d": "Present Continuous."
+      },
+      "tags": [
+        "past-perfect",
+        "two"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-38",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "After I finished my homework, I watched TV."
+        },
+        {
+          "id": "b",
+          "text": "After I had finished my homework, I had watched TV."
+        },
+        {
+          "id": "c",
+          "text": "After I finish my homework, I watched TV."
+        },
+        {
+          "id": "d",
+          "text": "After I had finish my homework, I watched TV."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıra açıksa iki Past Simple.",
+      "optionExplanations": {
+        "b": "Sonraki olay Past Simple.",
+        "c": "Tense uyumu bozuk.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-39",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I was there yesterday."
+        },
+        {
+          "id": "b",
+          "text": "I had been there yesterday."
+        },
+        {
+          "id": "c",
+          "text": "I have been there yesterday."
+        },
+        {
+          "id": "d",
+          "text": "I am there yesterday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yesterday: Past Simple.",
+      "optionExplanations": {
+        "b": "Belirli zamanla tek başına Past Simple.",
+        "c": "Belirli zamanla Present Perfect olmaz.",
+        "d": "Geçmiş zaman gerekir."
+      },
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-40",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He told me he ___ seen the film. (aktarım)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Aktarımda Past Perfect.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Zaman kayar."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-41",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Until then, I ___ never flown.",
+      "answers": [
+        "had"
+      ],
+      "explanation": "Until then + had.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "Geçmişteki nokta: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-42",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Suşiyi ilk kez yiyordum.",
+      "hint": "ilk kez: first time",
+      "answers": [
+        "It was the first time I had eaten sushi.",
+        "It was the first time that I had eaten sushi."
+      ],
+      "targetStructure": "first time + had + V3",
+      "explanation": "İlk kez.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It was the first time I ate sushi.",
+          "explanation": "Past Perfect bu kalıpta gerekir."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-43",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Anahtarlarımı unuttuğumu fark ettim.",
+      "hint": "fark etmek: realise",
+      "answers": [
+        "I realised I had forgotten my keys.",
+        "I realised that I had forgotten my keys."
+      ],
+      "targetStructure": "realised + had + V3",
+      "explanation": "Önce olan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I realised I forgot my keys.",
+          "explanation": "Önce olan: had."
+        }
+      ],
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-44",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I had been there yesterday.",
+      "errorSpan": "had been",
+      "answers": [
+        "I was there yesterday."
+      ],
+      "explanation": "Yesterday: Past Simple.",
+      "tags": [
+        "past-perfect",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-perfect-45",
+      "lessonId": "b1-past-perfect",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "After I had finished, I had watched TV.",
+      "errorSpan": "had watched",
+      "answers": [
+        "After I had finished, I watched TV.",
+        "After I finished, I watched TV."
+      ],
+      "explanation": "Sonraki olay Past Simple.",
+      "tags": [
+        "past-perfect",
+        "signals"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-past-perfect",
+    "title": "Past Perfect: Konu sonu sınavı",
+    "description": "Past Perfect yapısı ve Past Simple ile fark.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-past-perfect-exam-01",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ already left when I called.",
+        "options": [
+          {
+            "id": "a",
+            "text": "had"
+          },
+          {
+            "id": "b",
+            "text": "has"
+          },
+          {
+            "id": "c",
+            "text": "have"
+          },
+          {
+            "id": "d",
+            "text": "was"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "had + V3.",
+        "optionExplanations": {
+          "b": "Has şimdiyle bağlantılı.",
+          "c": "She ile have olmaz.",
+          "d": "Be fiili kullanılmaz."
+        },
+        "tags": [
+          "past-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-02",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "He had ___ the book. (read)",
+        "answers": [
+          "read"
+        ],
+        "explanation": "V3: read.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "reads",
+            "explanation": "V3 gerekir."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-03",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yemek yedikten sonra yattı.",
+        "answer": [
+          "After",
+          "she",
+          "had",
+          "eaten",
+          "she",
+          "went",
+          "to",
+          "bed"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "eat"
+        ],
+        "explanation": "after + had + V3",
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-04",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He had took my pen.",
+        "errorSpan": "took",
+        "answers": [
+          "He had taken my pen."
+        ],
+        "explanation": "V3: taken.",
+        "tags": [
+          "past-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-05",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Doktor olmadan önce hemşire olarak çalışmıştı.",
+        "hint": "hemşire: nurse",
+        "answers": [
+          "Before he became a doctor, he had worked as a nurse."
+        ],
+        "targetStructure": "had + V3",
+        "explanation": "Önce olan.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Before he became a doctor, he worked as a nurse.",
+            "explanation": "Önce olan: Past Perfect."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-06",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We were late because we ___ missed the train.",
+        "options": [
+          {
+            "id": "a",
+            "text": "had"
+          },
+          {
+            "id": "b",
+            "text": "have"
+          },
+          {
+            "id": "c",
+            "text": "has"
+          },
+          {
+            "id": "d",
+            "text": "did"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Neden: had + V3.",
+        "optionExplanations": {
+          "b": "Have şimdiyle bağlantılı.",
+          "c": "We ile has olmaz.",
+          "d": "Did V3 almaz."
+        },
+        "tags": [
+          "past-perfect",
+          "use"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-07",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He ___ eaten, so he was hungry. (yememişti)",
+        "answers": [
+          "hadn't",
+          "had not"
+        ],
+        "explanation": "hadn't.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "didn't",
+            "explanation": "Önce olan: had."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-08",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "O aradığında ben zaten yemiştim.",
+        "answer": [
+          "I",
+          "had",
+          "already",
+          "eaten",
+          "when",
+          "he",
+          "called"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "ate"
+        ],
+        "explanation": "had + already + V3",
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-09",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Had she finish when you called?",
+        "errorSpan": "finish",
+        "answers": [
+          "Had she finished when you called?"
+        ],
+        "explanation": "V3.",
+        "tags": [
+          "past-perfect",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-10",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Daha önce hiç kar görmemiştim.",
+        "hint": "kar: snow",
+        "answers": [
+          "I had never seen snow before."
+        ],
+        "targetStructure": "had never + V3",
+        "explanation": "Never.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have never seen snow before.",
+            "explanation": "Geçmişteki nokta için had."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-11",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "When we got to the station, the train ___. (daha önce kalkmıştı)",
+        "options": [
+          {
+            "id": "a",
+            "text": "had left"
+          },
+          {
+            "id": "b",
+            "text": "left"
+          },
+          {
+            "id": "c",
+            "text": "has left"
+          },
+          {
+            "id": "d",
+            "text": "was leaving"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Önce olan.",
+        "optionExplanations": {
+          "b": "Art arda olayı anlatır.",
+          "c": "Present Perfect.",
+          "d": "Past Continuous."
+        },
+        "tags": [
+          "past-perfect",
+          "two"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-12",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "By the time he arrived, we ___ finished.",
+        "answers": [
+          "had"
+        ],
+        "explanation": "By the time + had.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "Geçmiş nokta: had."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-13",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She said she has seen the film.",
+        "errorSpan": "has seen",
+        "answers": [
+          "She said she had seen the film."
+        ],
+        "explanation": "Aktarımda Past Perfect.",
+        "tags": [
+          "past-perfect",
+          "use"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-14",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We went to Rome last year."
+          },
+          {
+            "id": "b",
+            "text": "We had gone to Rome last year."
+          },
+          {
+            "id": "c",
+            "text": "We have gone to Rome last year."
+          },
+          {
+            "id": "d",
+            "text": "We go to Rome last year."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Last year: Past Simple.",
+        "optionExplanations": {
+          "b": "Belirli zamanla Past Simple.",
+          "c": "Belirli zamanla Present Perfect olmaz.",
+          "d": "Geçmiş zaman gerekir."
+        },
+        "tags": [
+          "past-perfect",
+          "use"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-15",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "It was the first time she ___ flown.",
+        "answers": [
+          "had"
+        ],
+        "explanation": "First time + had.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "has",
+            "explanation": "Geçmişte: had."
+          }
+        ],
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-past-perfect-exam-16",
+        "lessonId": "b1-past-perfect",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hiç kar görmemişti.",
+        "answer": [
+          "She",
+          "had",
+          "never",
+          "seen",
+          "snow"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "saw"
+        ],
+        "explanation": "had never + V3",
+        "tags": [
+          "past-perfect",
+          "signals"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      }
+    ]
+  }
+}
