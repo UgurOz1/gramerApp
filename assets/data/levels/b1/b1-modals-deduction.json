@@ -1,0 +1,2101 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-modals-deduction",
+  "levelId": "b1",
+  "title": "Modals of Deduction",
+  "objectives": [
+    "Must, might, may, could ve can’t ile şimdiki zaman çıkarımı yapmak",
+    "Kesinlik derecesine göre doğru modali seçmek",
+    "Sürekli yapıda (must be doing) çıkarım yapmak",
+    "Çıkarım ile izin ve yetenek anlamlarını ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Kanıta dayanan çıkarımlar",
+      "paragraphs": [
+        "Elindeki ipuçlarına bakarak bir şey hakkında tahmin yürütürken modal fiiller kullanırız: “Ali evde olmalı” (must), “evde olabilir” (might), “evde olamaz” (can’t). Bu çıkarımın ne kadar kesin olduğunu modal belirler.",
+        "Şimdiki zaman için modal + yalın fiil, şu anda süren bir iş için modal + be + V-ing kullanılır. Geçmiş çıkarımı için B2 seviyesinde modal + have + V3 öğrenilir."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Kesinlik ölçeği",
+      "paragraphs": [
+        "Neredeyse kesin olduğunda must, kesin olmadığında can’t kullanılır. Emin olmadığında might, may ya da could ile olasılık belirtilir."
+      ],
+      "formulas": [
+        {
+          "label": "~%95 evet",
+          "pattern": "must + V1",
+          "exampleIds": [
+            "ex-modals-deduction-01",
+            "ex-modals-deduction-02",
+            "ex-modals-deduction-03"
+          ]
+        },
+        {
+          "label": "~%50 belki",
+          "pattern": "might / may / could + V1",
+          "exampleIds": [
+            "ex-modals-deduction-04",
+            "ex-modals-deduction-05",
+            "ex-modals-deduction-06",
+            "ex-modals-deduction-07"
+          ]
+        },
+        {
+          "label": "~%95 hayır",
+          "pattern": "can’t + V1",
+          "exampleIds": [
+            "ex-modals-deduction-08",
+            "ex-modals-deduction-09",
+            "ex-modals-deduction-10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Must be",
+      "paragraphs": [
+        "Must, kanıta dayanır. “Kesinlikle öyle” demek istersin. Durum fiilleriyle (be, have, know, live) sık kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "must be / must have / must know",
+          "exampleIds": [
+            "ex-modals-deduction-01",
+            "ex-modals-deduction-02",
+            "ex-modals-deduction-11",
+            "ex-modals-deduction-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Might / may / could",
+      "paragraphs": [
+        "Olasılık düşük ya da belirsizse might, may, could kullanılır. Anlam farkı çok azdır."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "might / may / could + V1",
+          "exampleIds": [
+            "ex-modals-deduction-04",
+            "ex-modals-deduction-05",
+            "ex-modals-deduction-06"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "might not / may not + V1",
+          "exampleIds": [
+            "ex-modals-deduction-13",
+            "ex-modals-deduction-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Can’t: imkânsız",
+      "paragraphs": [
+        "Bir şeyin imkânsız ya da çok zayıf olasılıklı olduğunu söylerken can’t kullanılır. Çıkarım anlamında couldn’t da kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "can’t + V1",
+          "exampleIds": [
+            "ex-modals-deduction-08",
+            "ex-modals-deduction-09",
+            "ex-modals-deduction-10"
+          ]
+        },
+        {
+          "label": "Mustn’t değil",
+          "pattern": "must olumsuzu can’t'tir, mustn’t değil",
+          "exampleIds": [
+            "ex-modals-deduction-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Sürekli yapı",
+      "paragraphs": [
+        "Şu anda süren bir iş için modal + be + V-ing kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "must / might / can’t + be + V-ing",
+          "exampleIds": [
+            "ex-modals-deduction-16",
+            "ex-modals-deduction-17",
+            "ex-modals-deduction-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Soru ve karşılaştırma",
+      "paragraphs": [
+        "Çıkarım sorularında can / could kullanılır. Must soru olarak kullanılmaz; yanıt olarak must, can’t, might gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Who can that be?",
+          "exampleIds": [
+            "ex-modals-deduction-19"
+          ]
+        },
+        {
+          "label": "Yanıt",
+          "pattern": "It must be Tom.",
+          "exampleIds": [
+            "ex-modals-deduction-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-modals-deduction-01",
+        "ex-modals-deduction-02",
+        "ex-modals-deduction-03",
+        "ex-modals-deduction-04",
+        "ex-modals-deduction-05",
+        "ex-modals-deduction-06",
+        "ex-modals-deduction-07",
+        "ex-modals-deduction-08",
+        "ex-modals-deduction-09",
+        "ex-modals-deduction-10",
+        "ex-modals-deduction-11",
+        "ex-modals-deduction-12",
+        "ex-modals-deduction-13",
+        "ex-modals-deduction-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-modals-deduction-15",
+        "ex-modals-deduction-16",
+        "ex-modals-deduction-17",
+        "ex-modals-deduction-18",
+        "ex-modals-deduction-19",
+        "ex-modals-deduction-20",
+        "ex-modals-deduction-21",
+        "ex-modals-deduction-22",
+        "ex-modals-deduction-23",
+        "ex-modals-deduction-24",
+        "ex-modals-deduction-25",
+        "ex-modals-deduction-26",
+        "ex-modals-deduction-27",
+        "ex-modals-deduction-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He mustn't be at home. (çıkarım)",
+          "right": "He can't be at home.",
+          "explanation": "Çıkarımda must’ın olumsuzu can’t’tir."
+        },
+        {
+          "wrong": "She must is tired.",
+          "right": "She must be tired.",
+          "explanation": "Must’tan sonra yalın fiil gelir."
+        },
+        {
+          "wrong": "They might to know.",
+          "right": "They might know.",
+          "explanation": "Modal’dan sonra to kullanılmaz."
+        },
+        {
+          "wrong": "He can't being at work.",
+          "right": "He can't be at work.",
+          "explanation": "Can’t be."
+        },
+        {
+          "wrong": "She must working now.",
+          "right": "She must be working now.",
+          "explanation": "Must be + V-ing."
+        },
+        {
+          "wrong": "It might rains.",
+          "right": "It might rain.",
+          "explanation": "Modal + yalın fiil."
+        },
+        {
+          "wrong": "I am sure he can be tired. (eminim)",
+          "right": "I'm sure he must be tired.",
+          "explanation": "Kesinlik için must."
+        },
+        {
+          "wrong": "He must to be rich.",
+          "right": "He must be rich.",
+          "explanation": "Must'tan sonra to yok."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Should have",
+          "body": "Geçmişe dair pişmanlık ve eleştiri ayrı bir yapıdır.",
+          "lessonId": "b1-should-have"
+        },
+        {
+          "topic": "A2 Must / have to",
+          "body": "Zorunluluk anlamını hatırla; çıkarımla karıştırma.",
+          "lessonId": "a2-must-have-to"
+        },
+        {
+          "topic": "A2 Should",
+          "body": "Öneri anlamını hatırla.",
+          "lessonId": "a2-should"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Çıkarım: must (kesin evet), might / may / could (belki), can’t (kesin hayır).",
+        "Olumsuz çıkarım için mustn’t değil can’t kullan.",
+        "Şu anda süren iş için modal + be + V-ing.",
+        "Modal’dan sonra to gelmez, fiil yalın kalır.",
+        "Çıkarım kanıta dayanır; kanıt zayıfsa might / may / could kullan."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-modals-deduction-01",
+        "q-modals-deduction-13",
+        "q-modals-deduction-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-modals-deduction-01",
+      "en": "He must be tired after the long trip.",
+      "tr": "Uzun yolculuktan sonra yorgun olmalı.",
+      "highlight": "must be tired"
+    },
+    {
+      "id": "ex-modals-deduction-02",
+      "en": "She must know the answer.",
+      "tr": "Cevabı biliyor olmalı.",
+      "highlight": "must know"
+    },
+    {
+      "id": "ex-modals-deduction-03",
+      "en": "You must be hungry.",
+      "tr": "Aç olmalısın.",
+      "highlight": "must be hungry"
+    },
+    {
+      "id": "ex-modals-deduction-04",
+      "en": "It might rain later.",
+      "tr": "Belki sonra yağmur yağar.",
+      "highlight": "might rain"
+    },
+    {
+      "id": "ex-modals-deduction-05",
+      "en": "She may be at home.",
+      "tr": "Evde olabilir.",
+      "highlight": "may be at home"
+    },
+    {
+      "id": "ex-modals-deduction-06",
+      "en": "He could be in the garden.",
+      "tr": "Bahçede olabilir.",
+      "highlight": "could be in the garden"
+    },
+    {
+      "id": "ex-modals-deduction-07",
+      "en": "They might know the truth.",
+      "tr": "Gerçeği biliyor olabilirler.",
+      "highlight": "might know"
+    },
+    {
+      "id": "ex-modals-deduction-08",
+      "en": "That can't be true.",
+      "tr": "Bu doğru olamaz.",
+      "highlight": "can't be true"
+    },
+    {
+      "id": "ex-modals-deduction-09",
+      "en": "She can't be his sister; she looks too young.",
+      "tr": "Onun kız kardeşi olamaz; çok genç görünüyor.",
+      "highlight": "can't be his sister"
+    },
+    {
+      "id": "ex-modals-deduction-10",
+      "en": "He can't have much money.",
+      "tr": "Fazla parası olamaz.",
+      "highlight": "can't have"
+    },
+    {
+      "id": "ex-modals-deduction-11",
+      "en": "That must be the postman.",
+      "tr": "Bu postacı olmalı.",
+      "highlight": "must be the postman"
+    },
+    {
+      "id": "ex-modals-deduction-12",
+      "en": "She must live near here.",
+      "tr": "Buraya yakın yaşıyor olmalı.",
+      "highlight": "must live"
+    },
+    {
+      "id": "ex-modals-deduction-13",
+      "en": "He might not come to the party.",
+      "tr": "Partiye gelmeyebilir.",
+      "highlight": "might not come"
+    },
+    {
+      "id": "ex-modals-deduction-14",
+      "en": "She may not be at home.",
+      "tr": "Evde olmayabilir.",
+      "highlight": "may not be"
+    },
+    {
+      "id": "ex-modals-deduction-15",
+      "en": "That can't be right; he never lies.",
+      "tr": "Bu doğru olamaz; asla yalan söylemez.",
+      "highlight": "can't be right"
+    },
+    {
+      "id": "ex-modals-deduction-16",
+      "en": "He must be working late.",
+      "tr": "Geç saate kadar çalışıyor olmalı.",
+      "highlight": "must be working"
+    },
+    {
+      "id": "ex-modals-deduction-17",
+      "en": "They might be sleeping.",
+      "tr": "Uyuyor olabilirler.",
+      "highlight": "might be sleeping"
+    },
+    {
+      "id": "ex-modals-deduction-18",
+      "en": "She can't be studying; the TV is on.",
+      "tr": "Ders çalışıyor olamaz; TV açık.",
+      "highlight": "can't be studying"
+    },
+    {
+      "id": "ex-modals-deduction-19",
+      "en": "Who can that be at the door?",
+      "tr": "Kapıdaki kim olabilir?",
+      "highlight": "Who can that be"
+    },
+    {
+      "id": "ex-modals-deduction-20",
+      "en": "It must be Tom.",
+      "tr": "Tom olmalı.",
+      "highlight": "must be Tom"
+    },
+    {
+      "id": "ex-modals-deduction-21",
+      "en": "The lights are off. They must be asleep.",
+      "tr": "Işıklar kapalı. Uyuyor olmalılar.",
+      "highlight": "must be asleep"
+    },
+    {
+      "id": "ex-modals-deduction-22",
+      "en": "He could be wrong.",
+      "tr": "Yanılıyor olabilir.",
+      "highlight": "could be wrong"
+    },
+    {
+      "id": "ex-modals-deduction-23",
+      "en": "It may be a mistake.",
+      "tr": "Bir hata olabilir.",
+      "highlight": "may be a mistake"
+    },
+    {
+      "id": "ex-modals-deduction-24",
+      "en": "She can't be at work; I saw her at the cafe.",
+      "tr": "İşte olamaz; onu kafede gördüm.",
+      "highlight": "can't be at work"
+    },
+    {
+      "id": "ex-modals-deduction-25",
+      "en": "The phone is ringing. It could be your mum.",
+      "tr": "Telefon çalıyor. Annen olabilir.",
+      "highlight": "could be your mum"
+    },
+    {
+      "id": "ex-modals-deduction-26",
+      "en": "He's got a big car. He must be rich.",
+      "tr": "Büyük bir arabası var. Zengin olmalı.",
+      "highlight": "must be rich"
+    },
+    {
+      "id": "ex-modals-deduction-27",
+      "en": "They don't answer. They might be out.",
+      "tr": "Cevap vermiyorlar. Dışarıda olabilirler.",
+      "highlight": "might be out"
+    },
+    {
+      "id": "ex-modals-deduction-28",
+      "en": "That can't be his house; it's too small.",
+      "tr": "Bu onun evi olamaz; çok küçük.",
+      "highlight": "can't be his house"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-modals-deduction-01",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He has been working all day. He ___ tired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't be"
+        },
+        {
+          "id": "b",
+          "text": "must be"
+        },
+        {
+          "id": "c",
+          "text": "might not be"
+        },
+        {
+          "id": "d",
+          "text": "mustn't be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kanıt güçlü: must.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-02",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ at home; I saw her at the shop a minute ago.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must be"
+        },
+        {
+          "id": "b",
+          "text": "might be"
+        },
+        {
+          "id": "c",
+          "text": "can't be"
+        },
+        {
+          "id": "d",
+          "text": "may be"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kanıt çelişiyor: can't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-03",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'm not sure, but he ___ be in the garden.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "can't"
+        },
+        {
+          "id": "c",
+          "text": "mustn't"
+        },
+        {
+          "id": "d",
+          "text": "might"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Emin değil: might.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-04",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The phone is ringing. It ___ be Tom, I'm not sure.",
+      "options": [
+        {
+          "id": "a",
+          "text": "could"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "can't"
+        },
+        {
+          "id": "d",
+          "text": "has to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olasılık: could.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-05",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She has a beautiful voice. She ___ be a singer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "mustn't"
+        },
+        {
+          "id": "d",
+          "text": "needn't"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Güçlü çıkarım: must.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-06",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "That ___ be true. It's impossible!",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "can't"
+        },
+        {
+          "id": "d",
+          "text": "should"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "İmkânsız: can't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-07",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ be sleeping. The lights are on and I can hear music.",
+      "options": [
+        {
+          "id": "a",
+          "text": "must"
+        },
+        {
+          "id": "b",
+          "text": "might"
+        },
+        {
+          "id": "c",
+          "text": "could"
+        },
+        {
+          "id": "d",
+          "text": "can't"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Çelişki: can't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-08",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The negative of 'must' in deduction is:",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "mustn't"
+        },
+        {
+          "id": "c",
+          "text": "needn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çıkarımda must'ın olumsuzu can't.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-09",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence means 'I'm 50% sure'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She must be at work."
+        },
+        {
+          "id": "b",
+          "text": "She might be at work."
+        },
+        {
+          "id": "c",
+          "text": "She can't be at work."
+        },
+        {
+          "id": "d",
+          "text": "She is at work."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Might: belirsizlik.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-10",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ be home now. Their car is outside.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "might not"
+        },
+        {
+          "id": "c",
+          "text": "must"
+        },
+        {
+          "id": "d",
+          "text": "mustn't"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kanıt: must.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-11",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He's wearing a uniform. He ___ be a police officer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "might not"
+        },
+        {
+          "id": "c",
+          "text": "needn't"
+        },
+        {
+          "id": "d",
+          "text": "must"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Kanıt: must.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-12",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ be studying. She's watching TV.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "may"
+        },
+        {
+          "id": "d",
+          "text": "could"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çelişki: can't be studying.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-13",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ be rich; he lives in a huge house. (must)",
+      "answers": [
+        "must"
+      ],
+      "explanation": "Kanıt: must.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-14",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "That ___ be right; the numbers don't match. (can't)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Olumsuz çıkarım: can't.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-15",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She might ___ at home. (be)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "Might + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Modal'dan sonra yalın fiil."
+        }
+      ],
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-16",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It ___ be a mistake, but I'm not sure. (may)",
+      "answers": [
+        "may",
+        "might",
+        "could"
+      ],
+      "explanation": "Belirsiz olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-17",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They must ___ working late. (be)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "Must be + V-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Modal'dan sonra be."
+        }
+      ],
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-18",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ not come to the party. (might)",
+      "answers": [
+        "might",
+        "may"
+      ],
+      "explanation": "Olumsuz olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-19",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She can't ___ his sister; she is too young. (be)",
+      "answers": [
+        "be"
+      ],
+      "explanation": "Can't be.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Modal'dan sonra be."
+        }
+      ],
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-20",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "That ___ be the postman at the door. (must)",
+      "answers": [
+        "must"
+      ],
+      "explanation": "Kanıt: must.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-21",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Who ___ that be at this time? (can)",
+      "answers": [
+        "can",
+        "could"
+      ],
+      "explanation": "Çıkarım sorusu.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-22",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They might be ___ . (sleep)",
+      "answers": [
+        "sleeping"
+      ],
+      "explanation": "Might be + V-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "sleep",
+          "explanation": "Be'den sonra -ing."
+        }
+      ],
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-23",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun olmalı.",
+      "answer": [
+        "He",
+        "must",
+        "be",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "can't"
+      ],
+      "explanation": "must be",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-24",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu doğru olamaz.",
+      "answer": [
+        "That",
+        "can't",
+        "be",
+        "true"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "mustn't",
+        "is"
+      ],
+      "explanation": "can't be",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-25",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Evde olabilir.",
+      "answer": [
+        "She",
+        "might",
+        "be",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "must"
+      ],
+      "explanation": "might be",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-26",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Geç saate kadar çalışıyor olmalı.",
+      "answer": [
+        "He",
+        "must",
+        "be",
+        "working",
+        "late"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "can't",
+        "work"
+      ],
+      "explanation": "must be + V-ing",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-27",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He mustn't be at home. (evde olamaz)",
+      "errorSpan": "mustn't be",
+      "answers": [
+        "He can't be at home."
+      ],
+      "explanation": "Çıkarımda olumsuz must = can't.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-28",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She must is tired.",
+      "errorSpan": "must is",
+      "answers": [
+        "She must be tired."
+      ],
+      "explanation": "Must + yalın fiil.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-29",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They might to know the answer.",
+      "errorSpan": "might to know",
+      "answers": [
+        "They might know the answer."
+      ],
+      "explanation": "Might'tan sonra to yok.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-30",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He can't being at work.",
+      "errorSpan": "can't being",
+      "answers": [
+        "He can't be at work."
+      ],
+      "explanation": "Can't + be.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-31",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She must working now.",
+      "errorSpan": "must working",
+      "answers": [
+        "She must be working now."
+      ],
+      "explanation": "Must be + V-ing.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-32",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It might rains tomorrow.",
+      "errorSpan": "might rains",
+      "answers": [
+        "It might rain tomorrow."
+      ],
+      "explanation": "Might + yalın fiil.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-33",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You must to be hungry.",
+      "errorSpan": "must to be",
+      "answers": [
+        "You must be hungry."
+      ],
+      "explanation": "Must'tan sonra to yok.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-34",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgun olmalısın.",
+      "hint": "yorgun: tired",
+      "answers": [
+        "You must be tired."
+      ],
+      "targetStructure": "must be",
+      "explanation": "Güçlü çıkarım.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-35",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu onun evi olamaz.",
+      "hint": "ev: house",
+      "answers": [
+        "That can't be his house.",
+        "That can't be her house."
+      ],
+      "targetStructure": "can't be",
+      "explanation": "İmkânsız.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-36",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağabilir.",
+      "hint": "yağmak: rain",
+      "answers": [
+        "It might rain.",
+        "It may rain.",
+        "It could rain."
+      ],
+      "targetStructure": "might / may / could",
+      "explanation": "Olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-37",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu anda uyuyor olabilirler.",
+      "hint": "uyumak: sleep",
+      "answers": [
+        "They might be sleeping now.",
+        "They may be sleeping now.",
+        "They could be sleeping now.",
+        "They might be sleeping."
+      ],
+      "targetStructure": "might be + V-ing",
+      "explanation": "Şimdiki olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-38",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kapıdaki Tom olmalı.",
+      "hint": "kapı: door",
+      "answers": [
+        "It must be Tom at the door.",
+        "That must be Tom at the door.",
+        "It must be Tom."
+      ],
+      "targetStructure": "must be",
+      "explanation": "Çıkarım.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-39",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Cevabı biliyor olamaz.",
+      "hint": "bilmek: know",
+      "answers": [
+        "He can't know the answer.",
+        "She can't know the answer."
+      ],
+      "targetStructure": "can't + V1",
+      "explanation": "İmkânsız.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-40",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Partiye gelmeyebilir.",
+      "hint": "gelmek: come",
+      "answers": [
+        "He might not come to the party.",
+        "She might not come to the party.",
+        "He may not come to the party.",
+        "She may not come to the party."
+      ],
+      "targetStructure": "might not",
+      "explanation": "Olumsuz olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-modals-deduction-41",
+      "lessonId": "b1-modals-deduction",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu bir hata olabilir.",
+      "hint": "hata: mistake",
+      "answers": [
+        "It could be a mistake.",
+        "It may be a mistake.",
+        "It might be a mistake.",
+        "That could be a mistake."
+      ],
+      "targetStructure": "could / may / might be",
+      "explanation": "Olasılık.",
+      "tags": [
+        "modals-deduction",
+        "rule"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-modals-deduction",
+    "title": "Modals of Deduction: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-modals-deduction-exam-01",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The lights are off. They ___ be asleep.",
+        "options": [
+          {
+            "id": "a",
+            "text": "can't"
+          },
+          {
+            "id": "b",
+            "text": "mustn't"
+          },
+          {
+            "id": "c",
+            "text": "must"
+          },
+          {
+            "id": "d",
+            "text": "needn't"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Kanıt: must.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-02",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ be at the office; I just saw him in the street.",
+        "options": [
+          {
+            "id": "a",
+            "text": "must"
+          },
+          {
+            "id": "b",
+            "text": "might"
+          },
+          {
+            "id": "c",
+            "text": "should"
+          },
+          {
+            "id": "d",
+            "text": "can't"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Çelişki: can't.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-03",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I'm not sure. She ___ be late.",
+        "options": [
+          {
+            "id": "a",
+            "text": "might"
+          },
+          {
+            "id": "b",
+            "text": "must"
+          },
+          {
+            "id": "c",
+            "text": "can't"
+          },
+          {
+            "id": "d",
+            "text": "shall"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Belirsiz: might.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-04",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ speak Italian; he's lived in Rome for years.",
+        "options": [
+          {
+            "id": "a",
+            "text": "can't"
+          },
+          {
+            "id": "b",
+            "text": "must"
+          },
+          {
+            "id": "c",
+            "text": "might not"
+          },
+          {
+            "id": "d",
+            "text": "needn't"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Kanıt: must.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-05",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Which sentence is a strong deduction?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She might be a doctor."
+          },
+          {
+            "id": "b",
+            "text": "She could be a doctor."
+          },
+          {
+            "id": "c",
+            "text": "She must be a doctor."
+          },
+          {
+            "id": "d",
+            "text": "She may be a doctor."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Must: güçlü çıkarım.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-06",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "That ___ be the answer; it's wrong. (can't)",
+        "answers": [
+          "can't",
+          "cannot"
+        ],
+        "explanation": "Çıkarım: can't.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-07",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She ___ be working today. (might)",
+        "answers": [
+          "might",
+          "may",
+          "could"
+        ],
+        "explanation": "Olasılık.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-08",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He must ___ very rich. (be)",
+        "answers": [
+          "be"
+        ],
+        "explanation": "Must be.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Modal'dan sonra be."
+          }
+        ],
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-09",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They may ___ the news already. (know)",
+        "answers": [
+          "know"
+        ],
+        "explanation": "May + V1.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "knows",
+            "explanation": "Modal'dan sonra yalın fiil."
+          }
+        ],
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-10",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu doğru olabilir.",
+        "answer": [
+          "That",
+          "could",
+          "be",
+          "true"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "must"
+        ],
+        "explanation": "could be",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-11",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Şu anda ders çalışıyor olmalı.",
+        "answer": [
+          "She",
+          "must",
+          "be",
+          "studying",
+          "now"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "study",
+          "can't"
+        ],
+        "explanation": "must be + V-ing",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-12",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She mustn't be at home. (evde olamaz)",
+        "errorSpan": "mustn't be",
+        "answers": [
+          "She can't be at home."
+        ],
+        "explanation": "Olumsuz çıkarım: can't.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-13",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He might be to late.",
+        "errorSpan": "be to late",
+        "answers": [
+          "He might be late."
+        ],
+        "explanation": "Be late.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-14",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They must knows the answer.",
+        "errorSpan": "must knows",
+        "answers": [
+          "They must know the answer."
+        ],
+        "explanation": "Must + yalın fiil.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-15",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "O zengin olmalı.",
+        "hint": "zengin: rich",
+        "answers": [
+          "He must be rich.",
+          "She must be rich."
+        ],
+        "targetStructure": "must be",
+        "explanation": "Güçlü çıkarım.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-modals-deduction-exam-16",
+        "lessonId": "b1-modals-deduction",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Evde olmayabilir.",
+        "hint": "ev: home",
+        "answers": [
+          "He might not be at home.",
+          "She might not be at home.",
+          "He may not be at home.",
+          "She may not be at home."
+        ],
+        "targetStructure": "might not be",
+        "explanation": "Olumsuz olasılık.",
+        "tags": [
+          "modals-deduction",
+          "rule"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      }
+    ]
+  }
+}
