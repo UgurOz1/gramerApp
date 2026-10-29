@@ -1,0 +1,2306 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-as-as",
+  "levelId": "a2",
+  "title": "As … As",
+  "objectives": [
+    "As … as ile eşitlik anlatmak",
+    "Not as … as ile 'o kadar … değil' anlamını kurmak",
+    "As many / as much ile miktar karşılaştırmak",
+    "The same … as ve different from kalıplarını kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "As … as: eşitlik",
+      "paragraphs": [
+        "Bir şeyin başka bir şeyle aynı derecede olduğunu söylemek için as + sıfat + as kullanılır. Türkçede “-ı kadar” ile karşılanır.",
+        "Olumsuzunda not as … as, “o kadar … değil” anlamı verir ve aslında daha az demektir. Bu yapı, comparative ile aynı fikri ters yönden söylemenin bir yoludur."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "İlk as sıfatın önüne, ikinci as karşılaştırılan şeyin önüne gelir. Sıfat yalın (değişmeden) kalır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "as + sıfat + as   →   as tall as",
+          "exampleIds": [
+            "ex-as-as-01",
+            "ex-as-as-02",
+            "ex-as-as-03",
+            "ex-as-as-04",
+            "ex-as-as-05",
+            "ex-as-as-06"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "not as + sıfat + as   →   not as tall as",
+          "exampleIds": [
+            "ex-as-as-07",
+            "ex-as-as-08",
+            "ex-as-as-09",
+            "ex-as-as-10",
+            "ex-as-as-11"
+          ]
+        },
+        {
+          "label": "Zarf",
+          "pattern": "as + zarf + as   →   as fast as",
+          "exampleIds": [
+            "ex-as-as-12",
+            "ex-as-as-13",
+            "ex-as-as-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pronoun",
+      "type": "rule",
+      "title": "As … as’ten sonra",
+      "paragraphs": [
+        "Ikinci as’ten sonra isim, nesne zamiri (me, him) ya da özne + yardımcı fiil (I am) gelebilir. Üçü de doğrudur."
+      ],
+      "formulas": [
+        {
+          "label": "Özne + yardımcı fiil",
+          "pattern": "as tall as I am",
+          "exampleIds": [
+            "ex-as-as-26"
+          ]
+        },
+        {
+          "label": "Nesne zamiri",
+          "pattern": "as tall as me",
+          "exampleIds": [
+            "ex-as-as-27",
+            "ex-as-as-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "count",
+      "type": "rule",
+      "title": "As many / as much",
+      "paragraphs": [
+        "İsimlerle as many (çoğul sayılabilen) ve as much (sayılamayan) kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "As many … as",
+          "pattern": "as many + çoğul isim + as",
+          "exampleIds": [
+            "ex-as-as-17",
+            "ex-as-as-19"
+          ]
+        },
+        {
+          "label": "As much … as",
+          "pattern": "as much + sayılamayan isim + as",
+          "exampleIds": [
+            "ex-as-as-18",
+            "ex-as-as-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "idioms",
+      "type": "forms",
+      "title": "Sık kalıplar",
+      "forms": [
+        {
+          "label": "as … as you can",
+          "formula": "Run as fast as you can.",
+          "exampleIds": [
+            "ex-as-as-15"
+          ],
+          "note": "Elinden geldiğince."
+        },
+        {
+          "label": "as soon as possible",
+          "formula": "Come as soon as possible.",
+          "exampleIds": [
+            "ex-as-as-16"
+          ],
+          "note": "Mümkün olan en kısa sürede (ASAP)."
+        },
+        {
+          "label": "the same … as",
+          "formula": "He is the same age as me.",
+          "exampleIds": [
+            "ex-as-as-21",
+            "ex-as-as-22",
+            "ex-as-as-23"
+          ],
+          "note": "Aynı … olan."
+        },
+        {
+          "label": "different from",
+          "formula": "His car is different from mine.",
+          "exampleIds": [
+            "ex-as-as-24"
+          ],
+          "note": "-den farklı."
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "rule",
+      "title": "As … as ve comparative",
+      "paragraphs": [
+        "Not as … as ile comparative aynı anlamı verebilir: Tom isn’t as tall as Ben = Ben is taller than Tom."
+      ],
+      "formulas": [
+        {
+          "label": "Aynı fikir",
+          "pattern": "A isn’t as tall as B  =  B is taller than A",
+          "exampleIds": [
+            "ex-as-as-07",
+            "ex-as-as-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu ve olumsuz",
+      "exampleIds": [
+        "ex-as-as-01",
+        "ex-as-as-02",
+        "ex-as-as-03",
+        "ex-as-as-04",
+        "ex-as-as-05",
+        "ex-as-as-06",
+        "ex-as-as-07",
+        "ex-as-as-08",
+        "ex-as-as-09",
+        "ex-as-as-10",
+        "ex-as-as-11",
+        "ex-as-as-25",
+        "ex-as-as-26",
+        "ex-as-as-27",
+        "ex-as-as-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: zarf, miktar, kalıplar",
+      "exampleIds": [
+        "ex-as-as-12",
+        "ex-as-as-13",
+        "ex-as-as-14",
+        "ex-as-as-15",
+        "ex-as-as-16",
+        "ex-as-as-17",
+        "ex-as-as-18",
+        "ex-as-as-19",
+        "ex-as-as-20",
+        "ex-as-as-21",
+        "ex-as-as-22",
+        "ex-as-as-23",
+        "ex-as-as-24"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "Tom is as taller as Ben.",
+          "right": "Tom is as tall as Ben.",
+          "explanation": "As … as arasında yalın sıfat."
+        },
+        {
+          "wrong": "Tom is as tall than Ben.",
+          "right": "Tom is as tall as Ben.",
+          "explanation": "İkinci as gerekir, than değil."
+        },
+        {
+          "wrong": "Tom is tall as Ben.",
+          "right": "Tom is as tall as Ben.",
+          "explanation": "İlk as eksik."
+        },
+        {
+          "wrong": "Tom is more tall as Ben.",
+          "right": "Tom is as tall as Ben. / Tom is taller than Ben.",
+          "explanation": "Eşitlik ve karşılaştırma karışmış."
+        },
+        {
+          "wrong": "I have as many money as you.",
+          "right": "I have as much money as you.",
+          "explanation": "Money sayılamaz: as much."
+        },
+        {
+          "wrong": "I have as much books as you.",
+          "right": "I have as many books as you.",
+          "explanation": "Books sayılabilir: as many."
+        },
+        {
+          "wrong": "He is the same age like me.",
+          "right": "He is the same age as me.",
+          "explanation": "The same … as."
+        },
+        {
+          "wrong": "His car is different than mine.",
+          "right": "His car is different from mine.",
+          "explanation": "Different from."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Comparative",
+          "body": "Comparative’te than, eşitlikte as … as kullanılır.",
+          "lessonId": "a2-comparatives-superlatives"
+        },
+        {
+          "topic": "Sıfat ve zarf",
+          "body": "As … as sıfat ve zarfla kullanılır.",
+          "lessonId": "a2-adjectives-adverbs"
+        },
+        {
+          "topic": "Miktar sözcükleri",
+          "body": "As many / as much, many ve much ile ilgilidir.",
+          "lessonId": "a2-quantifiers"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "As + yalın sıfat + as; araya more / -er girmez.",
+        "Eşitlikte as … as, karşılaştırmada than.",
+        "As many çoğul, as much sayılamayan isimle.",
+        "The same … as; different from.",
+        "Olumsuz: not as … as (so ile de kullanılır)."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-as-as-01",
+        "q-as-as-02",
+        "q-as-as-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-as-as-01",
+      "en": "Tom is as tall as Ben.",
+      "tr": "Tom Ben kadar uzun.",
+      "highlight": "as tall as",
+      "note": "as + sıfat + as: eşitlik"
+    },
+    {
+      "id": "ex-as-as-02",
+      "en": "My car is as fast as yours.",
+      "tr": "Arabam seninki kadar hızlı.",
+      "highlight": "as fast as"
+    },
+    {
+      "id": "ex-as-as-03",
+      "en": "She is as old as my sister.",
+      "tr": "Kız kardeşim kadar yaşlı.",
+      "highlight": "as old as"
+    },
+    {
+      "id": "ex-as-as-04",
+      "en": "This book is as interesting as that one.",
+      "tr": "Bu kitap şu kadar ilginç.",
+      "highlight": "as interesting as"
+    },
+    {
+      "id": "ex-as-as-05",
+      "en": "I'm as hungry as a horse.",
+      "tr": "Çok açım (at kadar).",
+      "highlight": "as hungry as"
+    },
+    {
+      "id": "ex-as-as-06",
+      "en": "He is as happy as a child.",
+      "tr": "Çocuk kadar mutlu.",
+      "highlight": "as happy as"
+    },
+    {
+      "id": "ex-as-as-07",
+      "en": "Tom isn't as tall as Ben.",
+      "tr": "Tom Ben kadar uzun değil.",
+      "highlight": "isn't as tall as",
+      "note": "not as … as: eşit değil, daha az"
+    },
+    {
+      "id": "ex-as-as-08",
+      "en": "My car isn't as fast as yours.",
+      "tr": "Arabam seninki kadar hızlı değil.",
+      "highlight": "isn't as fast as"
+    },
+    {
+      "id": "ex-as-as-09",
+      "en": "She isn't as old as my sister.",
+      "tr": "Kız kardeşim kadar yaşlı değil.",
+      "highlight": "isn't as old as"
+    },
+    {
+      "id": "ex-as-as-10",
+      "en": "This book isn't as interesting as that one.",
+      "tr": "Bu kitap şu kadar ilginç değil.",
+      "highlight": "isn't as interesting as"
+    },
+    {
+      "id": "ex-as-as-11",
+      "en": "The exam wasn't as difficult as I expected.",
+      "tr": "Sınav beklediğim kadar zor değildi.",
+      "highlight": "wasn't as difficult as"
+    },
+    {
+      "id": "ex-as-as-12",
+      "en": "He doesn't run as fast as me.",
+      "tr": "Benim kadar hızlı koşmaz.",
+      "highlight": "as fast as",
+      "note": "Zarfla: as + zarf + as"
+    },
+    {
+      "id": "ex-as-as-13",
+      "en": "She sings as beautifully as a bird.",
+      "tr": "Bir kuş kadar güzel şarkı söyler.",
+      "highlight": "as beautifully as"
+    },
+    {
+      "id": "ex-as-as-14",
+      "en": "I get up as early as my father.",
+      "tr": "Babam kadar erken kalkarım.",
+      "highlight": "as early as"
+    },
+    {
+      "id": "ex-as-as-15",
+      "en": "Run as fast as you can.",
+      "tr": "Elinden geldiğince hızlı koş.",
+      "highlight": "as fast as you can",
+      "note": "as … as you can"
+    },
+    {
+      "id": "ex-as-as-16",
+      "en": "Come as soon as possible.",
+      "tr": "Mümkün olan en kısa sürede gel.",
+      "highlight": "as soon as possible"
+    },
+    {
+      "id": "ex-as-as-17",
+      "en": "I have as many books as you.",
+      "tr": "Senin kadar kitabım var.",
+      "highlight": "as many books as",
+      "note": "as many + çoğul + as"
+    },
+    {
+      "id": "ex-as-as-18",
+      "en": "She has as much money as him.",
+      "tr": "Onun kadar parası var.",
+      "highlight": "as much money as",
+      "note": "as much + sayılamayan + as"
+    },
+    {
+      "id": "ex-as-as-19",
+      "en": "There aren't as many people as yesterday.",
+      "tr": "Dünkü kadar insan yok.",
+      "highlight": "as many people as"
+    },
+    {
+      "id": "ex-as-as-20",
+      "en": "I don't have as much time as you.",
+      "tr": "Senin kadar zamanım yok.",
+      "highlight": "as much time as"
+    },
+    {
+      "id": "ex-as-as-21",
+      "en": "My room is the same size as yours.",
+      "tr": "Odam seninki ile aynı büyüklükte.",
+      "highlight": "the same size as",
+      "note": "the same … as"
+    },
+    {
+      "id": "ex-as-as-22",
+      "en": "He is the same age as me.",
+      "tr": "Benimle aynı yaşta.",
+      "highlight": "the same age as"
+    },
+    {
+      "id": "ex-as-as-23",
+      "en": "They live in the same house as us.",
+      "tr": "Bizimle aynı evde yaşıyorlar.",
+      "highlight": "the same house as"
+    },
+    {
+      "id": "ex-as-as-24",
+      "en": "His car is different from mine.",
+      "tr": "Onun arabası benimkinden farklı.",
+      "highlight": "different from",
+      "note": "different from"
+    },
+    {
+      "id": "ex-as-as-25",
+      "en": "London is bigger than Ankara, but it isn't as old as Ankara.",
+      "tr": "Londra Ankara'dan büyük ama Ankara kadar eski değil.",
+      "highlight": "isn't as old as"
+    },
+    {
+      "id": "ex-as-as-26",
+      "en": "He is as tall as I am.",
+      "tr": "Benim kadar uzun.",
+      "highlight": "as tall as I am",
+      "note": "as … as + özne + be"
+    },
+    {
+      "id": "ex-as-as-27",
+      "en": "She is as tall as me.",
+      "tr": "Benim kadar uzun.",
+      "highlight": "as tall as me",
+      "note": "as … as + nesne"
+    },
+    {
+      "id": "ex-as-as-28",
+      "en": "Tom is not so tall as Ben.",
+      "tr": "Tom Ben kadar uzun değil.",
+      "highlight": "not so tall as",
+      "note": "olumsuzda so de olur"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-as-as-01",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Tom is as tall ___ Ben.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as"
+        },
+        {
+          "id": "b",
+          "text": "than"
+        },
+        {
+          "id": "c",
+          "text": "like"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As … as.",
+      "optionExplanations": {
+        "b": "Than comparative ile.",
+        "c": "Like bu yapıda kullanılmaz.",
+        "d": "That bu yapıda kullanılmaz."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-02",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "My car is as fast ___ yours.",
+      "answers": [
+        "as"
+      ],
+      "explanation": "As … as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "than",
+          "explanation": "Than comparative ile."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-03",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Tom Ben kadar uzun.",
+      "answer": [
+        "Tom",
+        "is",
+        "as",
+        "tall",
+        "as",
+        "Ben"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "than",
+        "taller"
+      ],
+      "explanation": "as + sıfat + as",
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-04",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom is as taller as Ben.",
+      "errorSpan": "as taller",
+      "answers": [
+        "Tom is as tall as Ben."
+      ],
+      "explanation": "Yalın sıfat.",
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-as-as-05",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Tom Ben kadar uzun.",
+      "hint": "uzun: tall",
+      "answers": [
+        "Tom is as tall as Ben."
+      ],
+      "targetStructure": "as … as",
+      "explanation": "Eşitlik.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Tom is as taller as Ben.",
+          "explanation": "Yalın sıfat."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-as-as-06",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is as old ___ my sister.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as"
+        },
+        {
+          "id": "b",
+          "text": "than"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As … as.",
+      "optionExplanations": {
+        "b": "Than comparative ile.",
+        "c": "From bu yapıda kullanılmaz.",
+        "d": "That bu yapıda kullanılmaz."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-07",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This book is as ___ as that one.",
+      "options": [
+        {
+          "id": "a",
+          "text": "interesting"
+        },
+        {
+          "id": "b",
+          "text": "more interesting"
+        },
+        {
+          "id": "c",
+          "text": "most interesting"
+        },
+        {
+          "id": "d",
+          "text": "interestinger"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yalın sıfat.",
+      "optionExplanations": {
+        "b": "Araya more girmez.",
+        "c": "Araya most girmez.",
+        "d": "-er eklenmez."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-as-as-08",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Tom isn't ___ tall as Ben.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as"
+        },
+        {
+          "id": "b",
+          "text": "more"
+        },
+        {
+          "id": "c",
+          "text": "so much"
+        },
+        {
+          "id": "d",
+          "text": "than"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Not as … as.",
+      "optionExplanations": {
+        "b": "More comparative ile.",
+        "c": "So much sıfatla kullanılmaz.",
+        "d": "Than comparative ile."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-as-as-09",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is as old as ___ sister. (benim)",
+      "answers": [
+        "my"
+      ],
+      "explanation": "İyelik sıfatı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "me",
+          "explanation": "Me nesne zamiridir."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-as-as-10",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is as happy ___ a child.",
+      "answers": [
+        "as"
+      ],
+      "explanation": "As … as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "than",
+          "explanation": "Than comparative ile."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-11",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I'm as hungry ___ a horse.",
+      "answers": [
+        "as"
+      ],
+      "explanation": "As … as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "like",
+          "explanation": "As … as kalıbı."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-12",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tom is as tall as Ben."
+        },
+        {
+          "id": "b",
+          "text": "Tom is as tall than Ben."
+        },
+        {
+          "id": "c",
+          "text": "Tom is tall as Ben."
+        },
+        {
+          "id": "d",
+          "text": "Tom is as taller as Ben."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As … as.",
+      "optionExplanations": {
+        "b": "Than gerekmez.",
+        "c": "İlk as eksik.",
+        "d": "Yalın sıfat."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-13",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have as many books as you."
+        },
+        {
+          "id": "b",
+          "text": "I have as much books as you."
+        },
+        {
+          "id": "c",
+          "text": "I have as many book as you."
+        },
+        {
+          "id": "d",
+          "text": "I have as books many as you."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As many + çoğul.",
+      "optionExplanations": {
+        "b": "Books sayılabilir.",
+        "c": "Çoğul gerekir.",
+        "d": "Sıra bozuk."
+      },
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-14",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has as much money as him."
+        },
+        {
+          "id": "b",
+          "text": "She has as many money as him."
+        },
+        {
+          "id": "c",
+          "text": "She has as much moneys as him."
+        },
+        {
+          "id": "d",
+          "text": "She has as money much as him."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As much + sayılamayan.",
+      "optionExplanations": {
+        "b": "Money sayılamaz.",
+        "c": "Money çoğul olmaz.",
+        "d": "Sıra bozuk."
+      },
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-15",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is the same age ___ me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as"
+        },
+        {
+          "id": "b",
+          "text": "than"
+        },
+        {
+          "id": "c",
+          "text": "like"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The same … as.",
+      "optionExplanations": {
+        "b": "Than comparative ile.",
+        "c": "Like bu yapıda kullanılmaz.",
+        "d": "From different ile."
+      },
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-16",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "His car is different ___ mine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "from"
+        },
+        {
+          "id": "b",
+          "text": "as"
+        },
+        {
+          "id": "c",
+          "text": "than"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Different from.",
+      "optionExplanations": {
+        "b": "As eşitlik.",
+        "c": "Than comparative.",
+        "d": "To bu yapıda kullanılmaz."
+      },
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-as-as-17",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Run as fast as you ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As … as you can.",
+      "optionExplanations": {
+        "b": "Be fiili kullanılmaz.",
+        "c": "Do kullanılmaz.",
+        "d": "Will kullanılmaz."
+      },
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-as-as-18",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have as ___ books as you. (many / much)",
+      "answers": [
+        "many"
+      ],
+      "explanation": "Books sayılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "much",
+          "explanation": "Books sayılabilir."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-19",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She has as ___ money as him. (many / much)",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Money sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Money sayılamaz."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-20",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There aren't as ___ people as yesterday.",
+      "answers": [
+        "many"
+      ],
+      "explanation": "People sayılabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "much",
+          "explanation": "People sayılabilir."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-21",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I don't have as ___ time as you.",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Time sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Time sayılamaz."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-22",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is the ___ age as me.",
+      "answers": [
+        "same"
+      ],
+      "explanation": "The same … as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "equal",
+          "explanation": "The same kalıbı."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-23",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Come as soon as ___.",
+      "answers": [
+        "possible"
+      ],
+      "explanation": "As soon as possible.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "As soon as possible kalıbı."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-24",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She sings as ___ as a bird. (beautiful, zarf)",
+      "answers": [
+        "beautifully"
+      ],
+      "explanation": "Zarf: beautifully.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "beautiful",
+          "explanation": "Fiille zarf gerekir."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-as-as-25",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I get up as ___ as my father. (early)",
+      "answers": [
+        "early"
+      ],
+      "explanation": "Yalın zarf.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "earlier",
+          "explanation": "Yalın biçim."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-as-as-26",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom is as tall than Ben.",
+      "errorSpan": "than",
+      "answers": [
+        "Tom is as tall as Ben."
+      ],
+      "explanation": "İkinci as.",
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-27",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom is tall as Ben.",
+      "errorSpan": "tall as",
+      "answers": [
+        "Tom is as tall as Ben."
+      ],
+      "explanation": "İlk as eksik.",
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-28",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have as many money as you.",
+      "errorSpan": "many",
+      "answers": [
+        "I have as much money as you."
+      ],
+      "explanation": "Money sayılamaz.",
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-29",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is the same age like me.",
+      "errorSpan": "like",
+      "answers": [
+        "He is the same age as me."
+      ],
+      "explanation": "The same … as.",
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-30",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "His car is different than mine.",
+      "errorSpan": "than",
+      "answers": [
+        "His car is different from mine."
+      ],
+      "explanation": "Different from.",
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-as-as-31",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Arabam seninki kadar hızlı değil.",
+      "answer": [
+        "My",
+        "car",
+        "isn't",
+        "as",
+        "fast",
+        "as",
+        "yours"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "than",
+        "faster"
+      ],
+      "explanation": "not as … as",
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-as-as-32",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Senin kadar kitabım var.",
+      "answer": [
+        "I",
+        "have",
+        "as",
+        "many",
+        "books",
+        "as",
+        "you"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "much",
+        "than"
+      ],
+      "explanation": "as many … as",
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-33",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Mümkün olan en kısa sürede gel.",
+      "answer": [
+        "Come",
+        "as",
+        "soon",
+        "as",
+        "possible"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "than",
+        "can"
+      ],
+      "explanation": "as soon as possible",
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-34",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Arabam seninki kadar hızlı değil.",
+      "hint": "hızlı: fast",
+      "answers": [
+        "My car isn't as fast as yours.",
+        "My car is not as fast as yours."
+      ],
+      "targetStructure": "not as … as",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "My car isn't as faster as yours.",
+          "explanation": "Yalın sıfat."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-as-as-35",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Senin kadar kitabım var.",
+      "hint": "kitap: book",
+      "answers": [
+        "I have as many books as you.",
+        "I've got as many books as you."
+      ],
+      "targetStructure": "as many … as",
+      "explanation": "Sayılabilen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have as much books as you.",
+          "explanation": "Books sayılabilir: as many."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-as-as-36",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Benimle aynı yaşta.",
+      "hint": "yaş: age",
+      "answers": [
+        "He is the same age as me.",
+        "She is the same age as me."
+      ],
+      "targetStructure": "the same … as",
+      "explanation": "Aynı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is the same age like me.",
+          "explanation": "The same … as."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-37",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Tom isn't as tall as Ben. Bu cümle neye eşittir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ben is taller than Tom."
+        },
+        {
+          "id": "b",
+          "text": "Tom is taller than Ben."
+        },
+        {
+          "id": "c",
+          "text": "Tom is as tall as Ben."
+        },
+        {
+          "id": "d",
+          "text": "Ben is shorter than Tom."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Not as … as = comparative.",
+      "optionExplanations": {
+        "b": "Ters anlam.",
+        "c": "Eşitlik anlamı farklı.",
+        "d": "Ters anlam."
+      },
+      "tags": [
+        "as-as",
+        "vs"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-38",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is as tall as I am."
+        },
+        {
+          "id": "b",
+          "text": "He is as tall as I is."
+        },
+        {
+          "id": "c",
+          "text": "He is as tall like me."
+        },
+        {
+          "id": "d",
+          "text": "He is as tall than me."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As … as + özne + be.",
+      "optionExplanations": {
+        "b": "I ile am kullanılır.",
+        "c": "Like bu yapıda kullanılmaz.",
+        "d": "Than gerekmez."
+      },
+      "tags": [
+        "as-as",
+        "pronoun"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-as-as-39",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She isn't as old as my sister."
+        },
+        {
+          "id": "b",
+          "text": "She isn't so old than my sister."
+        },
+        {
+          "id": "c",
+          "text": "She isn't as older as my sister."
+        },
+        {
+          "id": "d",
+          "text": "She not as old as my sister."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Not as … as.",
+      "optionExplanations": {
+        "b": "Than gerekmez.",
+        "c": "Yalın sıfat.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-as-as-40",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The exam wasn't as difficult ___ I expected.",
+      "answers": [
+        "as"
+      ],
+      "explanation": "As … as.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "than",
+          "explanation": "Than comparative ile."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-41",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He is as tall as I ___.",
+      "answers": [
+        "am"
+      ],
+      "explanation": "As … as + özne + be.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "I ile am."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "pronoun"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-as-as-42",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sınav beklediğim kadar zor değildi.",
+      "hint": "sınav: exam",
+      "answers": [
+        "The exam wasn't as difficult as I expected.",
+        "The exam was not as difficult as I expected."
+      ],
+      "targetStructure": "not as … as",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The exam wasn't as more difficult as I expected.",
+          "explanation": "Yalın sıfat."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-as-as-43",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Elinden geldiğince hızlı koş.",
+      "hint": "koşmak: run",
+      "answers": [
+        "Run as fast as you can."
+      ],
+      "targetStructure": "as … as you can",
+      "explanation": "Kalıp.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Run as fast than you can.",
+          "explanation": "Ikinci as."
+        }
+      ],
+      "tags": [
+        "as-as",
+        "idioms"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-44",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tom is more tall as Ben.",
+      "errorSpan": "more tall as",
+      "answers": [
+        "Tom is as tall as Ben.",
+        "Tom is taller than Ben."
+      ],
+      "explanation": "Eşitlik ve comparative karışmış.",
+      "tags": [
+        "as-as",
+        "vs"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-as-as-45",
+      "lessonId": "a2-as-as",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have as much books as you.",
+      "errorSpan": "as much",
+      "answers": [
+        "I have as many books as you."
+      ],
+      "explanation": "Books sayılabilir.",
+      "tags": [
+        "as-as",
+        "count"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-as-as",
+    "title": "As … As: Konu sonu sınavı",
+    "description": "Eşitlik ve eşitsizlik karşılaştırması.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-as-as-exam-01",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "My car is as fast ___ yours.",
+        "options": [
+          {
+            "id": "a",
+            "text": "as"
+          },
+          {
+            "id": "b",
+            "text": "than"
+          },
+          {
+            "id": "c",
+            "text": "like"
+          },
+          {
+            "id": "d",
+            "text": "that"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "As … as.",
+        "optionExplanations": {
+          "b": "Than comparative ile.",
+          "c": "Like kullanılmaz.",
+          "d": "That kullanılmaz."
+        },
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-02",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "Tom is as ___ as Ben. (tall)",
+        "answers": [
+          "tall"
+        ],
+        "explanation": "Yalın sıfat.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "taller",
+            "explanation": "Yalın sıfat."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-03",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu kitap şu kadar ilginç.",
+        "answer": [
+          "This",
+          "book",
+          "is",
+          "as",
+          "interesting",
+          "as",
+          "that",
+          "one"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "than",
+          "more"
+        ],
+        "explanation": "as … as",
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-04",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is as older as my sister.",
+        "errorSpan": "as older",
+        "answers": [
+          "She is as old as my sister."
+        ],
+        "explanation": "Yalın sıfat.",
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-05",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Çocuk kadar mutlu.",
+        "hint": "mutlu: happy",
+        "answers": [
+          "He is as happy as a child.",
+          "She is as happy as a child."
+        ],
+        "targetStructure": "as … as",
+        "explanation": "Eşitlik.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He is as happier as a child.",
+            "explanation": "Yalın sıfat."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-06",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He isn't ___ tall as Ben.",
+        "options": [
+          {
+            "id": "a",
+            "text": "as"
+          },
+          {
+            "id": "b",
+            "text": "more"
+          },
+          {
+            "id": "c",
+            "text": "so much"
+          },
+          {
+            "id": "d",
+            "text": "than"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Not as … as.",
+        "optionExplanations": {
+          "b": "More comparative ile.",
+          "c": "So much sıfatla kullanılmaz.",
+          "d": "Than comparative ile."
+        },
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-07",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I have as ___ books as you.",
+        "answers": [
+          "many"
+        ],
+        "explanation": "Books sayılabilir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "much",
+            "explanation": "Books sayılabilir."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "count"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-08",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Benimle aynı yaşta.",
+        "answer": [
+          "He",
+          "is",
+          "the",
+          "same",
+          "age",
+          "as",
+          "me"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "like",
+          "than"
+        ],
+        "explanation": "the same … as",
+        "tags": [
+          "as-as",
+          "idioms"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-09",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Anna is tall as Eva.",
+        "errorSpan": "tall as",
+        "answers": [
+          "Anna is as tall as Eva."
+        ],
+        "explanation": "İlk as eksik.",
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-10",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Senin kadar zamanım yok.",
+        "hint": "zaman: time",
+        "answers": [
+          "I don't have as much time as you."
+        ],
+        "targetStructure": "as much … as",
+        "explanation": "Sayılamayan.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I don't have as many time as you.",
+            "explanation": "Time sayılamaz."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "count"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-11",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We have as much time as them."
+          },
+          {
+            "id": "b",
+            "text": "We have as many time as them."
+          },
+          {
+            "id": "c",
+            "text": "We have as much times as them."
+          },
+          {
+            "id": "d",
+            "text": "We have as time much as them."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "As much + sayılamayan.",
+        "optionExplanations": {
+          "b": "Money sayılamaz.",
+          "c": "Çoğul olmaz.",
+          "d": "Sıra bozuk."
+        },
+        "tags": [
+          "as-as",
+          "count"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-12",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "His car is different ___ mine.",
+        "answers": [
+          "from"
+        ],
+        "explanation": "Different from.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "than",
+            "explanation": "Different from."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "idioms"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-13",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Tom is as tall than me.",
+        "errorSpan": "than",
+        "answers": [
+          "Tom is as tall as me."
+        ],
+        "explanation": "İkinci as.",
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-14",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Come as soon as possible."
+          },
+          {
+            "id": "b",
+            "text": "Come as soon than possible."
+          },
+          {
+            "id": "c",
+            "text": "Come as sooner as possible."
+          },
+          {
+            "id": "d",
+            "text": "Come as soon as can."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "As soon as possible.",
+        "optionExplanations": {
+          "b": "İkinci as.",
+          "c": "Yalın zarf.",
+          "d": "Possible kalıbı."
+        },
+        "tags": [
+          "as-as",
+          "idioms"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-15",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "The exam wasn't as difficult as I ___.",
+        "answers": [
+          "expected"
+        ],
+        "explanation": "As … as + özne + fiil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "expect",
+            "explanation": "Geçmiş zaman gerekir."
+          }
+        ],
+        "tags": [
+          "as-as",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-as-as-exam-16",
+        "lessonId": "a2-as-as",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Benim kadar uzun.",
+        "answer": [
+          "He",
+          "is",
+          "as",
+          "tall",
+          "as",
+          "I",
+          "am"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "me",
+          "than"
+        ],
+        "explanation": "as … as + özne + be",
+        "tags": [
+          "as-as",
+          "pronoun"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      }
+    ]
+  }
+}
