@@ -1,0 +1,2306 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-so-because",
+  "levelId": "a2",
+  "title": "So & Because",
+  "objectives": [
+    "Because ile neden, so ile sonuç bildirmek",
+    "Because ve so'yu aynı cümlede birlikte kullanmamak",
+    "Because + cümle ile because of + isim farkını bilmek",
+    "So … that yapısı ile 'o kadar … ki' demek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Because ve so",
+      "paragraphs": [
+        "Because neden, so sonuç bildirir. İkisi de aynı ilişkiyi anlatır ama yön tersidir: önce sonuç sonra neden (because), ya da önce neden sonra sonuç (so).",
+        "Türkçede “-diği için” (because) ve “bu yüzden” (so) olarak ayrılır. İngilizcede de karıştırmamak gerekir: because’tan sonra neden, so’dan sonra sonuç gelir."
+      ]
+    },
+    {
+      "id": "because",
+      "type": "rule",
+      "title": "Because: neden",
+      "paragraphs": [
+        "Because, bir şeyin nedenini söyler. Neden cümlesi ana cümleden sonra ya da önce gelebilir. Başta ise ortasına virgül konur."
+      ],
+      "formulas": [
+        {
+          "label": "Sonuç + because + neden",
+          "pattern": "sonuç + because + neden",
+          "exampleIds": [
+            "ex-so-because-01",
+            "ex-so-because-02",
+            "ex-so-because-03",
+            "ex-so-because-04"
+          ]
+        },
+        {
+          "label": "Because + neden, sonuç",
+          "pattern": "Because + neden, + sonuç",
+          "exampleIds": [
+            "ex-so-because-06"
+          ]
+        },
+        {
+          "label": "Why sorusuna cevap",
+          "pattern": "Why …? — Because …",
+          "exampleIds": [
+            "ex-so-because-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so",
+      "type": "rule",
+      "title": "So: sonuç",
+      "paragraphs": [
+        "So, bir nedenin sonucunu anlatır. Önce neden, sonra sonuç gelir. So’dan önce virgül konur."
+      ],
+      "formulas": [
+        {
+          "label": "Neden , so sonuç",
+          "pattern": "neden + , + so + sonuç",
+          "exampleIds": [
+            "ex-so-because-07",
+            "ex-so-because-08",
+            "ex-so-because-09",
+            "ex-so-because-10",
+            "ex-so-because-11",
+            "ex-so-because-12"
+          ]
+        },
+        {
+          "label": "Olumsuz sonuç",
+          "pattern": "neden + , + so + olumsuz sonuç",
+          "exampleIds": [
+            "ex-so-because-14",
+            "ex-so-because-15",
+            "ex-so-because-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pairs",
+      "type": "forms",
+      "title": "Aynı fikir, iki yol",
+      "forms": [
+        {
+          "label": "Because",
+          "formula": "I stayed at home because I was ill.",
+          "exampleIds": [
+            "ex-so-because-01",
+            "ex-so-because-20",
+            "ex-so-because-22"
+          ],
+          "note": "Sonuç + because + neden."
+        },
+        {
+          "label": "So",
+          "formula": "I was ill, so I stayed at home.",
+          "exampleIds": [
+            "ex-so-because-07",
+            "ex-so-because-21",
+            "ex-so-because-23"
+          ],
+          "note": "Neden + so + sonuç."
+        },
+        {
+          "label": "Yön farkı",
+          "formula": "because → NEDEN geliyor;   so → SONUÇ geliyor",
+          "exampleIds": [
+            "ex-so-because-16",
+            "ex-so-because-17",
+            "ex-so-because-18",
+            "ex-so-because-19"
+          ],
+          "note": "Aynı olay iki biçimde anlatılabilir."
+        }
+      ]
+    },
+    {
+      "id": "becauseof",
+      "type": "rule",
+      "title": "Because of",
+      "paragraphs": [
+        "Because’tan sonra cümle (özne + fiil) gelir. Because of’tan sonra ise isim ya da isim grubu gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Because + cümle",
+          "pattern": "because + özne + fiil",
+          "exampleIds": [
+            "ex-so-because-03",
+            "ex-so-because-22"
+          ]
+        },
+        {
+          "label": "Because of + isim",
+          "pattern": "because of + isim",
+          "exampleIds": [
+            "ex-so-because-24",
+            "ex-so-because-25",
+            "ex-so-because-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sothat",
+      "type": "rule",
+      "title": "So … that",
+      "paragraphs": [
+        "So + sıfat + that, “o kadar … ki” anlamıdır. Bir niteliğin sonucunu anlatır."
+      ],
+      "formulas": [
+        {
+          "label": "So … that",
+          "pattern": "so + sıfat + that + sonuç",
+          "exampleIds": [
+            "ex-so-because-27",
+            "ex-so-because-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: because",
+      "exampleIds": [
+        "ex-so-because-01",
+        "ex-so-because-02",
+        "ex-so-because-03",
+        "ex-so-because-04",
+        "ex-so-because-05",
+        "ex-so-because-06",
+        "ex-so-because-16",
+        "ex-so-because-18",
+        "ex-so-because-20",
+        "ex-so-because-22",
+        "ex-so-because-24",
+        "ex-so-because-25",
+        "ex-so-because-26"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: so",
+      "exampleIds": [
+        "ex-so-because-07",
+        "ex-so-because-08",
+        "ex-so-because-09",
+        "ex-so-because-10",
+        "ex-so-because-11",
+        "ex-so-because-12",
+        "ex-so-because-13",
+        "ex-so-because-14",
+        "ex-so-because-15",
+        "ex-so-because-17",
+        "ex-so-because-19",
+        "ex-so-because-21",
+        "ex-so-because-23",
+        "ex-so-because-27",
+        "ex-so-because-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I stayed at home so I was ill.",
+          "right": "I stayed at home because I was ill.",
+          "explanation": "Neden için because."
+        },
+        {
+          "wrong": "I was ill, because I stayed at home.",
+          "right": "I was ill, so I stayed at home.",
+          "explanation": "Sonuç için so."
+        },
+        {
+          "wrong": "Because I was ill, so I stayed at home.",
+          "right": "Because I was ill, I stayed at home.",
+          "explanation": "Because ve so aynı cümlede birlikte kullanılmaz."
+        },
+        {
+          "wrong": "I was late because the traffic.",
+          "right": "I was late because of the traffic.",
+          "explanation": "İsimden önce because of."
+        },
+        {
+          "wrong": "I was late because of the bus was late.",
+          "right": "I was late because the bus was late.",
+          "explanation": "Cümleden önce because."
+        },
+        {
+          "wrong": "I was ill so, I stayed at home.",
+          "right": "I was ill, so I stayed at home.",
+          "explanation": "Virgül so'dan önce."
+        },
+        {
+          "wrong": "Why are you late? So I missed the bus.",
+          "right": "Why are you late? Because I missed the bus.",
+          "explanation": "Why'a Because ile cevap."
+        },
+        {
+          "wrong": "She was so tired than she fell asleep.",
+          "right": "She was so tired that she fell asleep.",
+          "explanation": "So … that."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Bağlaçlar",
+          "body": "And, but, or, because, so A1'de temel olarak işlendi.",
+          "lessonId": "a1-conjunctions"
+        },
+        {
+          "topic": "Zıtlık",
+          "body": "Although ve but zıtlık anlatır; because ve so neden-sonuçtur.",
+          "lessonId": "a1-conjunctions"
+        },
+        {
+          "topic": "Gerund ve infinitive",
+          "body": "Amaç anlatan to + fiil de neden bildirir.",
+          "lessonId": "a2-gerund-infinitive-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Because nedeni, so sonucu bildirir.",
+        "Because ve so aynı cümlede birlikte kullanılmaz.",
+        "Because + cümle; because of + isim.",
+        "So'dan önce virgül; because başta ise ana cümleden önce virgül.",
+        "So … that: o kadar … ki."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-so-because-01",
+        "q-so-because-02",
+        "q-so-because-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-so-because-01",
+      "en": "I stayed at home because I was ill.",
+      "tr": "Hasta olduğum için evde kaldım.",
+      "highlight": "because I was ill",
+      "note": "because + neden"
+    },
+    {
+      "id": "ex-so-because-02",
+      "en": "She is happy because she passed the exam.",
+      "tr": "Sınavı geçtiği için mutlu.",
+      "highlight": "because she passed the exam"
+    },
+    {
+      "id": "ex-so-because-03",
+      "en": "We didn't go out because it was raining.",
+      "tr": "Yağmur yağdığı için dışarı çıkmadık.",
+      "highlight": "because it was raining"
+    },
+    {
+      "id": "ex-so-because-04",
+      "en": "He is learning English because he wants a better job.",
+      "tr": "Daha iyi bir iş istediği için İngilizce öğreniyor.",
+      "highlight": "because he wants a better job"
+    },
+    {
+      "id": "ex-so-because-05",
+      "en": "Why are you late? Because I missed the bus.",
+      "tr": "Neden geç kaldın? Çünkü otobüsü kaçırdım.",
+      "highlight": "Because I missed the bus",
+      "note": "Why sorusunun cevabı"
+    },
+    {
+      "id": "ex-so-because-06",
+      "en": "Because it was raining, we stayed at home.",
+      "tr": "Yağmur yağdığı için evde kaldık.",
+      "highlight": "Because it was raining",
+      "note": "Because başta: virgül"
+    },
+    {
+      "id": "ex-so-because-07",
+      "en": "I was ill, so I stayed at home.",
+      "tr": "Hastaydım, bu yüzden evde kaldım.",
+      "highlight": "so I stayed at home",
+      "note": "so + sonuç"
+    },
+    {
+      "id": "ex-so-because-08",
+      "en": "It was raining, so we didn't go out.",
+      "tr": "Yağmur yağıyordu, bu yüzden dışarı çıkmadık.",
+      "highlight": "so we didn't go out"
+    },
+    {
+      "id": "ex-so-because-09",
+      "en": "She passed the exam, so she is happy.",
+      "tr": "Sınavı geçti, bu yüzden mutlu.",
+      "highlight": "so she is happy"
+    },
+    {
+      "id": "ex-so-because-10",
+      "en": "I'm tired, so I'm going to bed.",
+      "tr": "Yorgunum, bu yüzden yatıyorum.",
+      "highlight": "so I'm going to bed"
+    },
+    {
+      "id": "ex-so-because-11",
+      "en": "He missed the bus, so he was late.",
+      "tr": "Otobüsü kaçırdı, bu yüzden geç kaldı.",
+      "highlight": "so he was late"
+    },
+    {
+      "id": "ex-so-because-12",
+      "en": "I was hungry, so I made a sandwich.",
+      "tr": "Acıktım, bu yüzden sandviç yaptım.",
+      "highlight": "so I made a sandwich"
+    },
+    {
+      "id": "ex-so-because-13",
+      "en": "It was cold, so I wore a coat.",
+      "tr": "Hava soğuktu, bu yüzden mont giydim.",
+      "highlight": "so I wore a coat"
+    },
+    {
+      "id": "ex-so-because-14",
+      "en": "She wasn't well, so she didn't come.",
+      "tr": "İyi değildi, bu yüzden gelmedi.",
+      "highlight": "so she didn't come"
+    },
+    {
+      "id": "ex-so-because-15",
+      "en": "I didn't have any money, so I couldn't buy it.",
+      "tr": "Param yoktu, bu yüzden alamadım.",
+      "highlight": "so I couldn't buy it"
+    },
+    {
+      "id": "ex-so-because-16",
+      "en": "He studied hard because he wanted to pass.",
+      "tr": "Geçmek istediği için sıkı çalıştı.",
+      "highlight": "because he wanted to pass"
+    },
+    {
+      "id": "ex-so-because-17",
+      "en": "He wanted to pass, so he studied hard.",
+      "tr": "Geçmek istiyordu, bu yüzden sıkı çalıştı.",
+      "highlight": "so he studied hard"
+    },
+    {
+      "id": "ex-so-because-18",
+      "en": "I like him because he is kind.",
+      "tr": "Nazik olduğu için onu seviyorum.",
+      "highlight": "because he is kind"
+    },
+    {
+      "id": "ex-so-because-19",
+      "en": "He is kind, so I like him.",
+      "tr": "Nazik, bu yüzden onu seviyorum.",
+      "highlight": "so I like him"
+    },
+    {
+      "id": "ex-so-because-20",
+      "en": "I went to bed early because I was tired.",
+      "tr": "Yorgun olduğum için erken yattım.",
+      "highlight": "because I was tired"
+    },
+    {
+      "id": "ex-so-because-21",
+      "en": "I was tired, so I went to bed early.",
+      "tr": "Yorgundum, bu yüzden erken yattım.",
+      "highlight": "so I went to bed early"
+    },
+    {
+      "id": "ex-so-because-22",
+      "en": "She can't come because she is busy.",
+      "tr": "Meşgul olduğu için gelemez.",
+      "highlight": "because she is busy"
+    },
+    {
+      "id": "ex-so-because-23",
+      "en": "She is busy, so she can't come.",
+      "tr": "Meşgul, bu yüzden gelemez.",
+      "highlight": "so she can't come"
+    },
+    {
+      "id": "ex-so-because-24",
+      "en": "I'm late because of the traffic.",
+      "tr": "Trafik yüzünden geç kaldım.",
+      "highlight": "because of the traffic",
+      "note": "because of + isim"
+    },
+    {
+      "id": "ex-so-because-25",
+      "en": "We cancelled the picnic because of the rain.",
+      "tr": "Yağmur yüzünden pikniği iptal ettik.",
+      "highlight": "because of the rain"
+    },
+    {
+      "id": "ex-so-because-26",
+      "en": "He didn't come because of his illness.",
+      "tr": "Hastalığı yüzünden gelmedi.",
+      "highlight": "because of his illness"
+    },
+    {
+      "id": "ex-so-because-27",
+      "en": "She was so tired that she fell asleep.",
+      "tr": "O kadar yorgundu ki uyuyakaldı.",
+      "highlight": "so tired that",
+      "note": "so + sıfat + that"
+    },
+    {
+      "id": "ex-so-because-28",
+      "en": "The film was so good that I saw it twice.",
+      "tr": "Film o kadar iyiydi ki iki kez izledim.",
+      "highlight": "so good that"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-so-because-01",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I stayed at home ___ I was ill.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-02",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I was ill, ___ I stayed at home. (sonuç)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-03",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hasta olduğum için evde kaldım.",
+      "answer": [
+        "I",
+        "stayed",
+        "at",
+        "home",
+        "because",
+        "I",
+        "was",
+        "ill"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "so",
+        "stay"
+      ],
+      "explanation": "because + neden",
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-04",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I stayed at home so I was ill.",
+      "errorSpan": "so I was ill",
+      "answers": [
+        "I stayed at home because I was ill."
+      ],
+      "explanation": "Neden için because.",
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-05",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hasta olduğum için evde kaldım.",
+      "hint": "hasta: ill, evde kalmak: stay at home",
+      "answers": [
+        "I stayed at home because I was ill.",
+        "Because I was ill, I stayed at home."
+      ],
+      "targetStructure": "because",
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I stayed at home so I was ill.",
+          "explanation": "Neden için because."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-06",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It was raining, ___ we didn't go out.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: so.",
+      "optionExplanations": {
+        "b": "Because neden içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-07",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is happy ___ she passed the exam.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-08",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'm tired, ___ I'm going to bed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "and then"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: so.",
+      "optionExplanations": {
+        "b": "Because neden içindir.",
+        "c": "And then sıra bildirir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-09",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We didn't go out ___ it was raining. (neden)",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden: because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-10",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He missed the bus, ___ he was late.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-11",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Why are you late? ___ I missed the bus.",
+      "answers": [
+        "Because"
+      ],
+      "explanation": "Why'a because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "So",
+          "explanation": "Why'a because ile cevap."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-12",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I was ill, so I stayed at home."
+        },
+        {
+          "id": "b",
+          "text": "I was ill, because I stayed at home."
+        },
+        {
+          "id": "c",
+          "text": "I was ill so, I stayed at home."
+        },
+        {
+          "id": "d",
+          "text": "I was ill, so because I stayed at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden , so sonuç.",
+      "optionExplanations": {
+        "b": "Because neden içindir.",
+        "c": "Virgül so'dan önce.",
+        "d": "İkisi birlikte kullanılmaz."
+      },
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-13",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because I was ill, I stayed at home."
+        },
+        {
+          "id": "b",
+          "text": "Because I was ill, so I stayed at home."
+        },
+        {
+          "id": "c",
+          "text": "I was ill because, I stayed at home."
+        },
+        {
+          "id": "d",
+          "text": "Because was ill, I stayed at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Because + neden, sonuç.",
+      "optionExplanations": {
+        "b": "Because ve so birlikte olmaz.",
+        "c": "Because'tan sonra neden gelir.",
+        "d": "Özne eksik."
+      },
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-14",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I was late ___ the traffic.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because of"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "so that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Because of + isim.",
+      "optionExplanations": {
+        "b": "Because + cümle gerekir.",
+        "c": "So sonuç içindir.",
+        "d": "So that başka anlamdadır."
+      },
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-15",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I was late ___ the bus was late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "because of"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "so that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Because + cümle.",
+      "optionExplanations": {
+        "b": "Because of + isim.",
+        "c": "So sonuç içindir.",
+        "d": "So that başka anlamdadır."
+      },
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-16",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She was ___ tired that she fell asleep.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "such"
+        },
+        {
+          "id": "c",
+          "text": "very"
+        },
+        {
+          "id": "d",
+          "text": "too"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "So + sıfat + that.",
+      "optionExplanations": {
+        "b": "Such isimle kullanılır.",
+        "c": "Very that ile kullanılmaz.",
+        "d": "Too farklı yapıdır."
+      },
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-17",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We cancelled the picnic ___ the rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because of"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "if"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Because of + isim.",
+      "optionExplanations": {
+        "b": "Because + cümle gerekir.",
+        "c": "So sonuç içindir.",
+        "d": "If koşul bildirir."
+      },
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-18",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It was cold, ___ I wore a coat.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-19",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I like him ___ he is kind.",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-20",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is kind, ___ I like him.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-21",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm late because ___ the traffic.",
+      "answers": [
+        "of"
+      ],
+      "explanation": "Because of.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "from",
+          "explanation": "Because of kalıbı."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-22",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She can't come ___ she is busy.",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-23",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is busy, ___ she can't come.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-24",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film was so good ___ I saw it twice.",
+      "answers": [
+        "that"
+      ],
+      "explanation": "So … that.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "than",
+          "explanation": "That gerekir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-25",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I didn't have any money, ___ I couldn't buy it.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-26",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was ill, because I stayed at home.",
+      "errorSpan": "because I stayed",
+      "answers": [
+        "I was ill, so I stayed at home.",
+        "I stayed at home because I was ill."
+      ],
+      "explanation": "Yön tersine.",
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-27",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Because I was ill, so I stayed at home.",
+      "errorSpan": "so I stayed",
+      "answers": [
+        "Because I was ill, I stayed at home.",
+        "I was ill, so I stayed at home."
+      ],
+      "explanation": "İkisi birlikte olmaz.",
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-28",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was late because the traffic.",
+      "errorSpan": "because the traffic",
+      "answers": [
+        "I was late because of the traffic."
+      ],
+      "explanation": "İsimden önce because of.",
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-29",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was late because of the bus was late.",
+      "errorSpan": "because of the bus",
+      "answers": [
+        "I was late because the bus was late."
+      ],
+      "explanation": "Cümleden önce because.",
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-30",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She was so tired than she fell asleep.",
+      "errorSpan": "than",
+      "answers": [
+        "She was so tired that she fell asleep."
+      ],
+      "explanation": "So … that.",
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-31",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur yağıyordu, bu yüzden dışarı çıkmadık.",
+      "answer": [
+        "It",
+        "was",
+        "raining",
+        "so",
+        "we",
+        "didn't",
+        "go",
+        "out"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "because",
+        "were"
+      ],
+      "explanation": "neden, so sonuç",
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-32",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Meşgul olduğu için gelemez.",
+      "answer": [
+        "She",
+        "can't",
+        "come",
+        "because",
+        "she",
+        "is",
+        "busy"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "so",
+        "does"
+      ],
+      "explanation": "because + neden",
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-33",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur yüzünden pikniği iptal ettik.",
+      "answer": [
+        "We",
+        "cancelled",
+        "the",
+        "picnic",
+        "because",
+        "of",
+        "the",
+        "rain"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "so",
+        "cancel"
+      ],
+      "explanation": "because of + isim",
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-34",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağıyordu, bu yüzden dışarı çıkmadık.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "It was raining, so we didn't go out.",
+        "It was raining so we didn't go out."
+      ],
+      "targetStructure": "neden, so sonuç",
+      "explanation": "So.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It was raining, because we didn't go out.",
+          "explanation": "Sonuç için so."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-35",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Trafik yüzünden geç kaldım.",
+      "hint": "trafik: traffic",
+      "answers": [
+        "I'm late because of the traffic.",
+        "I was late because of the traffic."
+      ],
+      "targetStructure": "because of",
+      "explanation": "Because of + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'm late because the traffic.",
+          "explanation": "İsimden önce because of."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-36",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Nazik olduğu için onu seviyorum.",
+      "hint": "nazik: kind",
+      "answers": [
+        "I like him because he is kind.",
+        "I like her because she is kind."
+      ],
+      "targetStructure": "because",
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I like him so he is kind.",
+          "explanation": "Neden için because."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-37",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'He is kind, so I like him.' ile aynı anlam hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I like him because he is kind."
+        },
+        {
+          "id": "b",
+          "text": "He is kind because I like him."
+        },
+        {
+          "id": "c",
+          "text": "I like him so he is kind."
+        },
+        {
+          "id": "d",
+          "text": "He is kind but I like him."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Aynı fikir: because ile.",
+      "optionExplanations": {
+        "b": "Neden-sonuç yönü ters.",
+        "c": "Yön ters.",
+        "d": "Zıtlık anlamı verir."
+      },
+      "tags": [
+        "so-because",
+        "pairs"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-38",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She was so tired that she fell asleep."
+        },
+        {
+          "id": "b",
+          "text": "She was so tired because she fell asleep."
+        },
+        {
+          "id": "c",
+          "text": "She was such tired that she fell asleep."
+        },
+        {
+          "id": "d",
+          "text": "She was so tired so she fell asleep."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "So … that.",
+      "optionExplanations": {
+        "b": "Because yön ters.",
+        "c": "Such isimle.",
+        "d": "So … so olmaz."
+      },
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-39",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I didn't go because it was raining."
+        },
+        {
+          "id": "b",
+          "text": "I didn't go because of it was raining."
+        },
+        {
+          "id": "c",
+          "text": "I didn't go so it was raining."
+        },
+        {
+          "id": "d",
+          "text": "I didn't go because rain."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Because + cümle.",
+      "optionExplanations": {
+        "b": "Because of + isim.",
+        "c": "So sonuç içindir.",
+        "d": "Cümle eksik."
+      },
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-40",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I didn't go ___ the rain. (yüzünden)",
+      "answers": [
+        "because of"
+      ],
+      "explanation": "Because of + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because + cümle gerekir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "becauseof"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-41",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The film was ___ good that I saw it twice.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "So … that.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "very",
+          "explanation": "That ile so."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-42",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O kadar yorgundu ki uyuyakaldı.",
+      "hint": "uyuyakalmak: fall asleep",
+      "answers": [
+        "She was so tired that she fell asleep.",
+        "He was so tired that he fell asleep."
+      ],
+      "targetStructure": "so … that",
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She was so tired than she fell asleep.",
+          "explanation": "That gerekir."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "sothat"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-43",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geçmek istediği için sıkı çalıştı.",
+      "hint": "geçmek: pass",
+      "answers": [
+        "He studied hard because he wanted to pass.",
+        "She studied hard because she wanted to pass."
+      ],
+      "targetStructure": "because",
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He studied hard so he wanted to pass.",
+          "explanation": "Neden için because."
+        }
+      ],
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-44",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Why are you late? So I missed the bus.",
+      "errorSpan": "So I missed",
+      "answers": [
+        "Why are you late? Because I missed the bus."
+      ],
+      "explanation": "Why'a because.",
+      "tags": [
+        "so-because",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-so-because-45",
+      "lessonId": "a2-so-because",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was ill so, I stayed at home.",
+      "errorSpan": "so,",
+      "answers": [
+        "I was ill, so I stayed at home."
+      ],
+      "explanation": "Virgül so'dan önce.",
+      "tags": [
+        "so-because",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-so-because",
+    "title": "So & Because: Konu sonu sınavı",
+    "description": "Neden ve sonuç bağlaçları.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-so-because-exam-01",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She stayed at home ___ she was tired.",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "so"
+          },
+          {
+            "id": "c",
+            "text": "but"
+          },
+          {
+            "id": "d",
+            "text": "or"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Neden.",
+        "optionExplanations": {
+          "b": "Sonuç.",
+          "c": "Zıtlık.",
+          "d": "Seçenek."
+        },
+        "tags": [
+          "so-because",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-02",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "It was hot, ___ I opened the window.",
+        "answers": [
+          "so"
+        ],
+        "explanation": "Sonuç.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "because",
+            "explanation": "Because neden içindir."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-03",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Acıktım, bu yüzden sandviç yaptım.",
+        "answer": [
+          "I",
+          "was",
+          "hungry",
+          "so",
+          "I",
+          "made",
+          "a",
+          "sandwich"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "because",
+          "make"
+        ],
+        "explanation": "neden, so sonuç",
+        "tags": [
+          "so-because",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-04",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She was tired, because she went to bed early.",
+        "errorSpan": "because she went",
+        "answers": [
+          "She was tired, so she went to bed early.",
+          "She went to bed early because she was tired."
+        ],
+        "explanation": "Yön tersine.",
+        "tags": [
+          "so-because",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-05",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Sınavı geçti, bu yüzden mutlu.",
+        "hint": "geçmek: pass",
+        "answers": [
+          "She passed the exam, so she is happy.",
+          "He passed the exam, so he is happy."
+        ],
+        "targetStructure": "so",
+        "explanation": "Sonuç.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She passed the exam, because she is happy.",
+            "explanation": "Sonuç için so."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-06",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We went out ___ the sun was shining.",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "so"
+          },
+          {
+            "id": "c",
+            "text": "but"
+          },
+          {
+            "id": "d",
+            "text": "or"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Neden.",
+        "optionExplanations": {
+          "b": "Sonuç.",
+          "c": "Zıtlık.",
+          "d": "Seçenek."
+        },
+        "tags": [
+          "so-because",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-07",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I'm late ___ of the traffic.",
+        "answers": [
+          "because"
+        ],
+        "explanation": "Because of.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "so",
+            "explanation": "Because of."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "becauseof"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-08",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yağmur yüzünden geç kaldık.",
+        "answer": [
+          "We",
+          "were",
+          "late",
+          "because",
+          "of",
+          "the",
+          "rain"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "so",
+          "was"
+        ],
+        "explanation": "because of + isim",
+        "tags": [
+          "so-because",
+          "becauseof"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-09",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He was late because the bad weather.",
+        "errorSpan": "because the bad",
+        "answers": [
+          "He was late because of the bad weather."
+        ],
+        "explanation": "İsimden önce because of.",
+        "tags": [
+          "so-because",
+          "becauseof"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-10",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Neden geç kaldın? Çünkü otobüsü kaçırdım.",
+        "hint": "kaçırmak: miss",
+        "answers": [
+          "Why are you late? Because I missed the bus."
+        ],
+        "targetStructure": "Why … Because …",
+        "explanation": "Neden-cevap.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Why are you late? So I missed the bus.",
+            "explanation": "Why'a because."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-11",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Because it was cold, I wore a coat."
+          },
+          {
+            "id": "b",
+            "text": "Because it was cold, so I wore a coat."
+          },
+          {
+            "id": "c",
+            "text": "I wore a coat because, it was cold."
+          },
+          {
+            "id": "d",
+            "text": "Because was cold, I wore a coat."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Because + neden, sonuç.",
+        "optionExplanations": {
+          "b": "Because ve so birlikte olmaz.",
+          "c": "Because'tan sonra neden.",
+          "d": "Özne eksik."
+        },
+        "tags": [
+          "so-because",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-12",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The weather was so bad ___ we stayed home.",
+        "answers": [
+          "that"
+        ],
+        "explanation": "So … that.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "than",
+            "explanation": "That gerekir."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "sothat"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-13",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I was busy so, I didn't call.",
+        "errorSpan": "so,",
+        "answers": [
+          "I was busy, so I didn't call."
+        ],
+        "explanation": "Virgül so'dan önce.",
+        "tags": [
+          "so-because",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-14",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "'I'm tired because I worked hard.' ile aynı anlam hangisi?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I worked hard, so I'm tired."
+          },
+          {
+            "id": "b",
+            "text": "I'm tired, so I worked hard."
+          },
+          {
+            "id": "c",
+            "text": "I worked hard because I'm tired."
+          },
+          {
+            "id": "d",
+            "text": "I'm tired but I worked hard."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Neden-sonuç ters sırada.",
+        "optionExplanations": {
+          "b": "Yön ters.",
+          "c": "Yön ters.",
+          "d": "Zıtlık anlamı verir."
+        },
+        "tags": [
+          "so-because",
+          "pairs"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-15",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He was ___ tired that he couldn't walk.",
+        "answers": [
+          "so"
+        ],
+        "explanation": "So … that.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "very",
+            "explanation": "That ile so."
+          }
+        ],
+        "tags": [
+          "so-because",
+          "sothat"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-so-because-exam-16",
+        "lessonId": "a2-so-because",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Geç kaldığım için özür dilerim.",
+        "answer": [
+          "I'm",
+          "sorry",
+          "because",
+          "I",
+          "am",
+          "late"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "so",
+          "was"
+        ],
+        "explanation": "because + neden",
+        "tags": [
+          "so-because",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
