@@ -10,6 +10,7 @@ import aCan from "@/assets/data/levels/a1/a1-can.json";
 import aImp from "@/assets/data/levels/a1/a1-imperatives.json";
 import aPPlace from "@/assets/data/levels/a1/a1-prepositions-place.json";
 import aPTime from "@/assets/data/levels/a1/a1-prepositions-time.json";
+import aObjP from "@/assets/data/levels/a1/a1-object-pronouns.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -37,6 +38,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a1-imperatives": aImp,
   "a1-prepositions-place": aPPlace,
   "a1-prepositions-time": aPTime,
+  "a1-object-pronouns": aObjP,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

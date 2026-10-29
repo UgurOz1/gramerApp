@@ -1,0 +1,2313 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-object-pronouns",
+  "levelId": "a1",
+  "title": "Object Pronouns",
+  "objectives": [
+    "me, you, him, her, it, us, them zamirlerini tanımak",
+    "Nesne zamirini fiilden ve edattan sonra kullanmak",
+    "Özne ve nesne zamirlerini ayırt etmek",
+    "Give, show, teach gibi fiillerle iki nesneli cümleler kurmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Nesne zamirleri",
+      "paragraphs": [
+        "Özne zamirleri (I, you, he…) fiilden önce, cümlenin öznesi olarak gelir. Nesne zamirleri (me, you, him…) ise fiilden ya da edattan sonra gelir ve eylemden etkilenen kişiyi ya da şeyi gösterir.",
+        "Türkçede bu işi -i / -e hâl ekleri yapar: beni, sana, onu. İngilizcede ise zamirin kendisi değişir: I → me, he → him."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "forms",
+      "title": "Özne ve nesne zamirleri",
+      "forms": [
+        {
+          "label": "I → me",
+          "formula": "I know her.  /  She knows me.",
+          "exampleIds": [
+            "ex-object-pronouns-01",
+            "ex-object-pronouns-08",
+            "ex-object-pronouns-09"
+          ]
+        },
+        {
+          "label": "you → you",
+          "formula": "değişmez",
+          "exampleIds": [
+            "ex-object-pronouns-02",
+            "ex-object-pronouns-15",
+            "ex-object-pronouns-27"
+          ]
+        },
+        {
+          "label": "he → him",
+          "formula": "erkek",
+          "exampleIds": [
+            "ex-object-pronouns-03",
+            "ex-object-pronouns-11",
+            "ex-object-pronouns-18"
+          ]
+        },
+        {
+          "label": "she → her",
+          "formula": "kadın",
+          "exampleIds": [
+            "ex-object-pronouns-04",
+            "ex-object-pronouns-14",
+            "ex-object-pronouns-19"
+          ]
+        },
+        {
+          "label": "it → it",
+          "formula": "değişmez",
+          "exampleIds": [
+            "ex-object-pronouns-05",
+            "ex-object-pronouns-20",
+            "ex-object-pronouns-25"
+          ]
+        },
+        {
+          "label": "we → us",
+          "formula": "biz",
+          "exampleIds": [
+            "ex-object-pronouns-06",
+            "ex-object-pronouns-12",
+            "ex-object-pronouns-26"
+          ]
+        },
+        {
+          "label": "they → them",
+          "formula": "onlar",
+          "exampleIds": [
+            "ex-object-pronouns-07",
+            "ex-object-pronouns-13",
+            "ex-object-pronouns-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after-verb",
+      "type": "rule",
+      "title": "Fiilden sonra",
+      "paragraphs": [
+        "Nesne zamiri fiilden hemen sonra gelir: She knows me. Özne zamirini nesne yerine kullanmak sık görülen bir hatadır: She knows I ✗."
+      ],
+      "formulas": [
+        {
+          "label": "Fiil + nesne",
+          "pattern": "özne + fiil + nesne zamiri   →   I see them.",
+          "exampleIds": [
+            "ex-object-pronouns-01",
+            "ex-object-pronouns-05",
+            "ex-object-pronouns-07",
+            "ex-object-pronouns-23"
+          ]
+        },
+        {
+          "label": "Emir",
+          "pattern": "Fiil + nesne zamiri   →   Call me.   Open it.",
+          "exampleIds": [
+            "ex-object-pronouns-09",
+            "ex-object-pronouns-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "after-prep",
+      "type": "rule",
+      "title": "Edattan sonra",
+      "paragraphs": [
+        "Edattan sonra her zaman nesne zamiri gelir: to me, with her, for us, at him."
+      ],
+      "formulas": [
+        {
+          "label": "Edat + nesne",
+          "pattern": "to / at / for / with + me / him / her / us / them",
+          "exampleIds": [
+            "ex-object-pronouns-10",
+            "ex-object-pronouns-11",
+            "ex-object-pronouns-12",
+            "ex-object-pronouns-13",
+            "ex-object-pronouns-14",
+            "ex-object-pronouns-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "two-objects",
+      "type": "rule",
+      "title": "Give, show, teach: iki nesne",
+      "paragraphs": [
+        "Give, show, teach gibi fiillerin iki nesnesi olabilir: önce kişi (zamir), sonra şey. Bu yapıda me, you, him gibi zamirler kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Kişi + şey",
+          "pattern": "fiil + kişi (me / us …) + şey   →   He gives me a book.",
+          "exampleIds": [
+            "ex-object-pronouns-16",
+            "ex-object-pronouns-17",
+            "ex-object-pronouns-26"
+          ]
+        },
+        {
+          "label": "Şey + to + kişi",
+          "pattern": "fiil + it + to + kişi   →   Give it to me.",
+          "exampleIds": [
+            "ex-object-pronouns-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: fiilden sonra",
+      "exampleIds": [
+        "ex-object-pronouns-01",
+        "ex-object-pronouns-02",
+        "ex-object-pronouns-03",
+        "ex-object-pronouns-04",
+        "ex-object-pronouns-05",
+        "ex-object-pronouns-06",
+        "ex-object-pronouns-07",
+        "ex-object-pronouns-08",
+        "ex-object-pronouns-09",
+        "ex-object-pronouns-22",
+        "ex-object-pronouns-23",
+        "ex-object-pronouns-25",
+        "ex-object-pronouns-27",
+        "ex-object-pronouns-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: edattan sonra ve iki nesne",
+      "exampleIds": [
+        "ex-object-pronouns-10",
+        "ex-object-pronouns-11",
+        "ex-object-pronouns-12",
+        "ex-object-pronouns-13",
+        "ex-object-pronouns-14",
+        "ex-object-pronouns-15",
+        "ex-object-pronouns-16",
+        "ex-object-pronouns-17",
+        "ex-object-pronouns-24",
+        "ex-object-pronouns-26"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: önceki cümleye atıf",
+      "exampleIds": [
+        "ex-object-pronouns-18",
+        "ex-object-pronouns-19",
+        "ex-object-pronouns-20",
+        "ex-object-pronouns-21"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She knows I.",
+          "right": "She knows me.",
+          "explanation": "Fiilden sonra nesne zamiri."
+        },
+        {
+          "wrong": "Help I, please.",
+          "right": "Help me, please.",
+          "explanation": "Nesne zamiri: me."
+        },
+        {
+          "wrong": "I like he.",
+          "right": "I like him.",
+          "explanation": "Nesne zamiri: him."
+        },
+        {
+          "wrong": "Listen to I.",
+          "right": "Listen to me.",
+          "explanation": "Edattan sonra nesne zamiri."
+        },
+        {
+          "wrong": "She talks to they.",
+          "right": "She talks to them.",
+          "explanation": "Edattan sonra nesne zamiri."
+        },
+        {
+          "wrong": "He helps we.",
+          "right": "He helps us.",
+          "explanation": "Nesne zamiri: us."
+        },
+        {
+          "wrong": "I know she.",
+          "right": "I know her.",
+          "explanation": "Nesne zamiri: her."
+        },
+        {
+          "wrong": "Me and Tom play tennis.",
+          "right": "Tom and I play tennis.",
+          "explanation": "Özne olarak I; me nesne içindir."
+        },
+        {
+          "wrong": "I see they.",
+          "right": "I see them.",
+          "explanation": "Nesne zamiri: them."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Özne zamirleri",
+          "body": "I, you, he, she, it, we, they özne olarak fiilden önce gelir.",
+          "lessonId": "a1-pronouns-sentence"
+        },
+        {
+          "topic": "İyelik sıfatları",
+          "body": "My, your, his, her… isimden önce gelir. Her hem nesne zamiri (I know her) hem iyelik sıfatıdır (her book).",
+          "lessonId": "a1-possessives"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "I → me, he → him, she → her, we → us, they → them. You ve it değişmez.",
+        "Her hem nesne zamiri hem iyelik sıfatıdır: I know her. / her book.",
+        "Edattan sonra her zaman nesne zamiri: with me, for them.",
+        "Özne zamirini nesne yerine kullanma: She knows I ✗.",
+        "It, eşyalar ve hayvanlar için; him / her ise kişi içindir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-object-pronouns-01",
+        "q-object-pronouns-02",
+        "q-object-pronouns-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-object-pronouns-01",
+      "en": "She knows me.",
+      "tr": "Beni tanır.",
+      "highlight": "me",
+      "note": "I → me"
+    },
+    {
+      "id": "ex-object-pronouns-02",
+      "en": "I love you.",
+      "tr": "Seni seviyorum.",
+      "highlight": "you",
+      "note": "you → you"
+    },
+    {
+      "id": "ex-object-pronouns-03",
+      "en": "I know him.",
+      "tr": "Onu (erkek) tanıyorum.",
+      "highlight": "him",
+      "note": "he → him"
+    },
+    {
+      "id": "ex-object-pronouns-04",
+      "en": "I know her.",
+      "tr": "Onu (kadın) tanıyorum.",
+      "highlight": "her",
+      "note": "she → her"
+    },
+    {
+      "id": "ex-object-pronouns-05",
+      "en": "I like it.",
+      "tr": "Onu (nesne) seviyorum.",
+      "highlight": "it",
+      "note": "it → it"
+    },
+    {
+      "id": "ex-object-pronouns-06",
+      "en": "He helps us.",
+      "tr": "Bize yardım eder.",
+      "highlight": "us",
+      "note": "we → us"
+    },
+    {
+      "id": "ex-object-pronouns-07",
+      "en": "I see them.",
+      "tr": "Onları görüyorum.",
+      "highlight": "them",
+      "note": "they → them"
+    },
+    {
+      "id": "ex-object-pronouns-08",
+      "en": "Can you help me?",
+      "tr": "Bana yardım edebilir misin?",
+      "highlight": "help me"
+    },
+    {
+      "id": "ex-object-pronouns-09",
+      "en": "Please call me.",
+      "tr": "Lütfen beni ara.",
+      "highlight": "call me"
+    },
+    {
+      "id": "ex-object-pronouns-10",
+      "en": "Listen to me.",
+      "tr": "Beni dinle.",
+      "highlight": "to me",
+      "note": "Edattan sonra nesne zamiri"
+    },
+    {
+      "id": "ex-object-pronouns-11",
+      "en": "Look at him.",
+      "tr": "Ona bak.",
+      "highlight": "at him"
+    },
+    {
+      "id": "ex-object-pronouns-12",
+      "en": "Wait for us.",
+      "tr": "Bizi bekle.",
+      "highlight": "for us"
+    },
+    {
+      "id": "ex-object-pronouns-13",
+      "en": "She talks to them.",
+      "tr": "Onlarla konuşur.",
+      "highlight": "to them"
+    },
+    {
+      "id": "ex-object-pronouns-14",
+      "en": "I live with her.",
+      "tr": "Onunla yaşıyorum.",
+      "highlight": "with her"
+    },
+    {
+      "id": "ex-object-pronouns-15",
+      "en": "This is a gift for you.",
+      "tr": "Bu senin için bir hediye.",
+      "highlight": "for you"
+    },
+    {
+      "id": "ex-object-pronouns-16",
+      "en": "He gives me a book.",
+      "tr": "Bana bir kitap verir.",
+      "highlight": "gives me a book"
+    },
+    {
+      "id": "ex-object-pronouns-17",
+      "en": "She shows us the photos.",
+      "tr": "Bize fotoğrafları gösterir.",
+      "highlight": "shows us"
+    },
+    {
+      "id": "ex-object-pronouns-18",
+      "en": "Tom is my friend. I like him.",
+      "tr": "Tom arkadaşım. Onu seviyorum.",
+      "highlight": "him"
+    },
+    {
+      "id": "ex-object-pronouns-19",
+      "en": "Anna is nice. I like her.",
+      "tr": "Anna iyi biri. Onu seviyorum.",
+      "highlight": "her"
+    },
+    {
+      "id": "ex-object-pronouns-20",
+      "en": "I have a dog. I love it.",
+      "tr": "Bir köpeğim var. Onu seviyorum.",
+      "highlight": "it"
+    },
+    {
+      "id": "ex-object-pronouns-21",
+      "en": "My parents are kind. I help them.",
+      "tr": "Ailem nazik. Onlara yardım ederim.",
+      "highlight": "them"
+    },
+    {
+      "id": "ex-object-pronouns-22",
+      "en": "He doesn't like me.",
+      "tr": "Beni sevmiyor.",
+      "highlight": "like me"
+    },
+    {
+      "id": "ex-object-pronouns-23",
+      "en": "Do you know them?",
+      "tr": "Onları tanıyor musun?",
+      "highlight": "know them"
+    },
+    {
+      "id": "ex-object-pronouns-24",
+      "en": "Give it to me.",
+      "tr": "Onu bana ver.",
+      "highlight": "to me"
+    },
+    {
+      "id": "ex-object-pronouns-25",
+      "en": "Open it.",
+      "tr": "Onu aç.",
+      "highlight": "Open it"
+    },
+    {
+      "id": "ex-object-pronouns-26",
+      "en": "The teacher teaches us English.",
+      "tr": "Öğretmen bize İngilizce öğretir.",
+      "highlight": "teaches us"
+    },
+    {
+      "id": "ex-object-pronouns-27",
+      "en": "We see you every day.",
+      "tr": "Seni her gün görüyoruz.",
+      "highlight": "see you"
+    },
+    {
+      "id": "ex-object-pronouns-28",
+      "en": "They invite us to the party.",
+      "tr": "Bizi partiye davet ederler.",
+      "highlight": "invite us"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-object-pronouns-01",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She knows ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I"
+        },
+        {
+          "id": "b",
+          "text": "me"
+        },
+        {
+          "id": "c",
+          "text": "my"
+        },
+        {
+          "id": "d",
+          "text": "mine"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Fiilden sonra nesne zamiri: me.",
+      "optionExplanations": {
+        "a": "I özne zamiridir.",
+        "c": "My iyelik sıfatıdır.",
+        "d": "Mine iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-02",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I love ___. (seni)",
+      "answers": [
+        "you"
+      ],
+      "explanation": "Nesne zamiri: you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "your",
+          "explanation": "Your iyelik sıfatıdır."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-03",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Beni tanır.",
+      "answer": [
+        "She",
+        "knows",
+        "me"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "I",
+        "my"
+      ],
+      "explanation": "fiil + nesne zamiri",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-04",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She knows I.",
+      "errorSpan": "I",
+      "answers": [
+        "She knows me."
+      ],
+      "explanation": "Fiilden sonra nesne zamiri.",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-05",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beni tanır.",
+      "hint": "tanımak: know",
+      "answers": [
+        "She knows me.",
+        "He knows me."
+      ],
+      "targetStructure": "fiil + me",
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She knows I.",
+          "explanation": "Nesne zamiri: me."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-06",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I know ___. (Tom)",
+      "options": [
+        {
+          "id": "a",
+          "text": "he"
+        },
+        {
+          "id": "b",
+          "text": "him"
+        },
+        {
+          "id": "c",
+          "text": "his"
+        },
+        {
+          "id": "d",
+          "text": "her"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Erkek nesne: him.",
+      "optionExplanations": {
+        "a": "He özne zamiridir.",
+        "c": "His iyelik sıfatıdır.",
+        "d": "Her kadın içindir."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-07",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I know ___. (Anna)",
+      "options": [
+        {
+          "id": "a",
+          "text": "she"
+        },
+        {
+          "id": "b",
+          "text": "her"
+        },
+        {
+          "id": "c",
+          "text": "hers"
+        },
+        {
+          "id": "d",
+          "text": "him"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Kadın nesne: her.",
+      "optionExplanations": {
+        "a": "She özne zamiridir.",
+        "c": "Hers iyelik zamiridir.",
+        "d": "Him erkek içindir."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-08",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He helps ___. (biz)",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "us"
+        },
+        {
+          "id": "c",
+          "text": "our"
+        },
+        {
+          "id": "d",
+          "text": "ours"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Nesne zamiri: us.",
+      "optionExplanations": {
+        "a": "We özne zamiridir.",
+        "c": "Our iyelik sıfatıdır.",
+        "d": "Ours iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-09",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I see ___. (onlar)",
+      "options": [
+        {
+          "id": "a",
+          "text": "they"
+        },
+        {
+          "id": "b",
+          "text": "them"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "theirs"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Nesne zamiri: them.",
+      "optionExplanations": {
+        "a": "They özne zamiridir.",
+        "c": "Their iyelik sıfatıdır.",
+        "d": "Theirs iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-10",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I like ___. (onu, nesne)",
+      "answers": [
+        "it"
+      ],
+      "explanation": "Nesne zamiri: it.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "its",
+          "explanation": "Its iyelik sıfatıdır."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-11",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Please call ___. (beni)",
+      "answers": [
+        "me"
+      ],
+      "explanation": "Nesne zamiri: me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I",
+          "explanation": "I özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-12",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Can you help ___? (bana)",
+      "answers": [
+        "me"
+      ],
+      "explanation": "Nesne zamiri: me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I",
+          "explanation": "I özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-13",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Listen to ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "I"
+        },
+        {
+          "id": "b",
+          "text": "me"
+        },
+        {
+          "id": "c",
+          "text": "my"
+        },
+        {
+          "id": "d",
+          "text": "mine"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "optionExplanations": {
+        "a": "I özne zamiridir.",
+        "c": "My isimle kullanılır.",
+        "d": "Mine iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-14",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She talks to ___. (onlar)",
+      "options": [
+        {
+          "id": "a",
+          "text": "they"
+        },
+        {
+          "id": "b",
+          "text": "them"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "theirs"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "optionExplanations": {
+        "a": "They özne zamiridir.",
+        "c": "Their isimle kullanılır.",
+        "d": "Theirs iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-15",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Wait for ___. (bizi)",
+      "options": [
+        {
+          "id": "a",
+          "text": "we"
+        },
+        {
+          "id": "b",
+          "text": "us"
+        },
+        {
+          "id": "c",
+          "text": "our"
+        },
+        {
+          "id": "d",
+          "text": "ours"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "optionExplanations": {
+        "a": "We özne zamiridir.",
+        "c": "Our isimle kullanılır.",
+        "d": "Ours iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-16",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Look at ___. (ona, Tom)",
+      "options": [
+        {
+          "id": "a",
+          "text": "he"
+        },
+        {
+          "id": "b",
+          "text": "him"
+        },
+        {
+          "id": "c",
+          "text": "his"
+        },
+        {
+          "id": "d",
+          "text": "her"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "optionExplanations": {
+        "a": "He özne zamiridir.",
+        "c": "His iyelik sıfatıdır.",
+        "d": "Her kadın içindir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-17",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I live with ___. (onunla, Anna)",
+      "options": [
+        {
+          "id": "a",
+          "text": "she"
+        },
+        {
+          "id": "b",
+          "text": "her"
+        },
+        {
+          "id": "c",
+          "text": "hers"
+        },
+        {
+          "id": "d",
+          "text": "him"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "optionExplanations": {
+        "a": "She özne zamiridir.",
+        "c": "Hers iyelik zamiridir.",
+        "d": "Him erkek içindir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-18",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "This is a gift for ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "you"
+        },
+        {
+          "id": "b",
+          "text": "your"
+        },
+        {
+          "id": "c",
+          "text": "yours"
+        },
+        {
+          "id": "d",
+          "text": "he"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edattan sonra nesne zamiri: you.",
+      "optionExplanations": {
+        "b": "Your isimle kullanılır.",
+        "c": "Yours iyelik zamiridir.",
+        "d": "He özne zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-19",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He gives ___ a book. (bana)",
+      "answers": [
+        "me"
+      ],
+      "explanation": "Kişi: me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I",
+          "explanation": "I özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "two-objects"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-20",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She shows ___ the photos. (bize)",
+      "answers": [
+        "us"
+      ],
+      "explanation": "Kişi: us.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "we",
+          "explanation": "We özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "two-objects"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-21",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The teacher teaches ___ English. (bize)",
+      "answers": [
+        "us"
+      ],
+      "explanation": "Kişi: us.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "we",
+          "explanation": "We özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "two-objects"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-22",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Give it to ___. (bana)",
+      "answers": [
+        "me"
+      ],
+      "explanation": "Edattan sonra me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I",
+          "explanation": "I özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "two-objects"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-23",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Do you know ___? (onları)",
+      "answers": [
+        "them"
+      ],
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "they",
+          "explanation": "They özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-24",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We see ___ every day. (seni)",
+      "answers": [
+        "you"
+      ],
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "your",
+          "explanation": "Your iyelik sıfatıdır."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-25",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He doesn't like ___. (beni)",
+      "answers": [
+        "me"
+      ],
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I",
+          "explanation": "I özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-26",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Tom is my friend. I like ___.",
+      "answers": [
+        "him"
+      ],
+      "explanation": "Tom erkek: him.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "he",
+          "explanation": "He özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-27",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Help I, please.",
+      "errorSpan": "I",
+      "answers": [
+        "Help me, please."
+      ],
+      "explanation": "Nesne zamiri: me.",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-28",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I like he.",
+      "errorSpan": "he",
+      "answers": [
+        "I like him."
+      ],
+      "explanation": "Nesne zamiri: him.",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-29",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Listen to I.",
+      "errorSpan": "to I",
+      "answers": [
+        "Listen to me."
+      ],
+      "explanation": "Edattan sonra me.",
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-30",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She talks to they.",
+      "errorSpan": "to they",
+      "answers": [
+        "She talks to them."
+      ],
+      "explanation": "Edattan sonra them.",
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-31",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He helps we.",
+      "errorSpan": "we",
+      "answers": [
+        "He helps us."
+      ],
+      "explanation": "Nesne zamiri: us.",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-32",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu seviyorum. (Tom)",
+      "answer": [
+        "I",
+        "like",
+        "him"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "he",
+        "his"
+      ],
+      "explanation": "fiil + him",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-33",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onlarla konuşur.",
+      "answer": [
+        "She",
+        "talks",
+        "to",
+        "them"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "they",
+        "their"
+      ],
+      "explanation": "to + them",
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-34",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bize yardım eder.",
+      "answer": [
+        "He",
+        "helps",
+        "us"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "we",
+        "our"
+      ],
+      "explanation": "fiil + us",
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-35",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu senin için bir hediye.",
+      "answer": [
+        "This",
+        "is",
+        "a",
+        "gift",
+        "for",
+        "you"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "your",
+        "he"
+      ],
+      "explanation": "for + you",
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-36",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu (Tom) seviyorum.",
+      "hint": "seviyorum: like",
+      "answers": [
+        "I like him."
+      ],
+      "targetStructure": "like + him",
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I like he.",
+          "explanation": "Nesne zamiri: him."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-37",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beni dinle.",
+      "hint": "dinlemek: listen to",
+      "answers": [
+        "Listen to me."
+      ],
+      "targetStructure": "to + me",
+      "explanation": "Edattan sonra me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Listen me.",
+          "explanation": "To gerekir."
+        },
+        {
+          "answer": "Listen to I.",
+          "explanation": "Nesne zamiri: me."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-38",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bize yardım eder.",
+      "hint": "yardım etmek: help",
+      "answers": [
+        "He helps us.",
+        "She helps us."
+      ],
+      "targetStructure": "help + us",
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He helps we.",
+          "explanation": "Nesne zamiri: us."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-39",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Me and Tom play tennis."
+        },
+        {
+          "id": "b",
+          "text": "Tom and I play tennis."
+        },
+        {
+          "id": "c",
+          "text": "Tom and me play tennis."
+        },
+        {
+          "id": "d",
+          "text": "I and Tom play tennis."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Özne olarak I; sıra: Tom and I.",
+      "optionExplanations": {
+        "a": "Özne olarak I.",
+        "c": "Özne olarak I.",
+        "d": "Kibarlık gereği kişi önce."
+      },
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-40",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I have a dog. I love ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "it"
+        },
+        {
+          "id": "b",
+          "text": "its"
+        },
+        {
+          "id": "c",
+          "text": "he"
+        },
+        {
+          "id": "d",
+          "text": "they"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne zamiri: it.",
+      "optionExplanations": {
+        "b": "Its iyelik sıfatıdır.",
+        "c": "He kişi için.",
+        "d": "They çoğul."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-41",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "My parents are kind. I help ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "them"
+        },
+        {
+          "id": "b",
+          "text": "they"
+        },
+        {
+          "id": "c",
+          "text": "their"
+        },
+        {
+          "id": "d",
+          "text": "theirs"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne zamiri: them.",
+      "optionExplanations": {
+        "b": "They özne zamiridir.",
+        "c": "Their iyelik sıfatıdır.",
+        "d": "Theirs iyelik zamiridir."
+      },
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-42",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Anna is nice. I like ___.",
+      "answers": [
+        "her"
+      ],
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "she",
+          "explanation": "She özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-43",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "They invite ___ to the party. (bizi)",
+      "answers": [
+        "us"
+      ],
+      "explanation": "Nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "we",
+          "explanation": "We özne zamiridir."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-verb"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-44",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu senin için bir hediye.",
+      "hint": "hediye: gift",
+      "answers": [
+        "This is a gift for you."
+      ],
+      "targetStructure": "for + you",
+      "explanation": "Edattan sonra nesne zamiri.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This is a gift for your.",
+          "explanation": "Your isimle kullanılır."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "after-prep"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-object-pronouns-45",
+      "lessonId": "a1-object-pronouns",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Öğretmen bize İngilizce öğretir.",
+      "hint": "öğretmek: teach",
+      "answers": [
+        "The teacher teaches us English."
+      ],
+      "targetStructure": "teach + us + şey",
+      "explanation": "İki nesne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The teacher teaches we English.",
+          "explanation": "Nesne zamiri: us."
+        }
+      ],
+      "tags": [
+        "object-pronouns",
+        "two-objects"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-object-pronouns",
+    "title": "Object Pronouns: Konu sonu sınavı",
+    "description": "Nesne zamirleri ve kullanım yerleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-object-pronouns-exam-01",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He helps ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "me"
+          },
+          {
+            "id": "b",
+            "text": "I"
+          },
+          {
+            "id": "c",
+            "text": "my"
+          },
+          {
+            "id": "d",
+            "text": "mine"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Nesne zamiri: me.",
+        "optionExplanations": {
+          "b": "I özne zamiridir.",
+          "c": "My isimle kullanılır.",
+          "d": "Mine iyelik zamiridir."
+        },
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-02",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I see ___. (onları)",
+        "answers": [
+          "them"
+        ],
+        "explanation": "Nesne zamiri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "they",
+            "explanation": "They özne zamiridir."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-03",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Seni seviyorum.",
+        "answer": [
+          "I",
+          "love",
+          "you"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "your",
+          "me"
+        ],
+        "explanation": "fiil + you",
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-04",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I know she.",
+        "errorSpan": "she",
+        "answers": [
+          "I know her."
+        ],
+        "explanation": "Nesne zamiri: her.",
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-05",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Onları görüyorum.",
+        "hint": "görmek: see",
+        "answers": [
+          "I see them."
+        ],
+        "targetStructure": "see + them",
+        "explanation": "Nesne zamiri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I see they.",
+            "explanation": "Nesne zamiri: them."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-06",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Wait for ___. (bizi)",
+        "options": [
+          {
+            "id": "a",
+            "text": "us"
+          },
+          {
+            "id": "b",
+            "text": "we"
+          },
+          {
+            "id": "c",
+            "text": "our"
+          },
+          {
+            "id": "d",
+            "text": "ours"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Edattan sonra nesne zamiri.",
+        "optionExplanations": {
+          "b": "We özne zamiridir.",
+          "c": "Our isimle kullanılır.",
+          "d": "Ours iyelik zamiridir."
+        },
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-07",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I live with ___. (onunla, Anna)",
+        "answers": [
+          "her"
+        ],
+        "explanation": "Edattan sonra her.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "she",
+            "explanation": "She özne zamiridir."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-08",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bana bir kitap verir.",
+        "answer": [
+          "He",
+          "gives",
+          "me",
+          "a",
+          "book"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "I",
+          "my"
+        ],
+        "explanation": "give + kişi + şey",
+        "tags": [
+          "object-pronouns",
+          "two-objects"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-09",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She talks to he.",
+        "errorSpan": "to he",
+        "answers": [
+          "She talks to him."
+        ],
+        "explanation": "Edattan sonra him.",
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-10",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bana yardım edebilir misin?",
+        "hint": "yardım etmek: help",
+        "answers": [
+          "Can you help me?"
+        ],
+        "targetStructure": "help + me",
+        "explanation": "Nesne zamiri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Can you help I?",
+            "explanation": "Nesne zamiri: me."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-11",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Look at ___. (ona, Tom)",
+        "options": [
+          {
+            "id": "a",
+            "text": "him"
+          },
+          {
+            "id": "b",
+            "text": "he"
+          },
+          {
+            "id": "c",
+            "text": "his"
+          },
+          {
+            "id": "d",
+            "text": "her"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Edattan sonra him.",
+        "optionExplanations": {
+          "b": "He özne zamiridir.",
+          "c": "His iyelik sıfatıdır.",
+          "d": "Her kadın içindir."
+        },
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-12",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Give it to ___. (ona, Anna)",
+        "answers": [
+          "her"
+        ],
+        "explanation": "Edattan sonra her.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "she",
+            "explanation": "She özne zamiridir."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "two-objects"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-13",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Listen me.",
+        "errorSpan": "Listen me",
+        "answers": [
+          "Listen to me."
+        ],
+        "explanation": "To eksik.",
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-14",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tom and I play tennis."
+          },
+          {
+            "id": "b",
+            "text": "Tom and me play tennis."
+          },
+          {
+            "id": "c",
+            "text": "Me and Tom play tennis."
+          },
+          {
+            "id": "d",
+            "text": "Him and I play tennis."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Özne olarak I.",
+        "optionExplanations": {
+          "b": "Özne olarak I.",
+          "c": "Özne olarak I.",
+          "d": "Özne olarak He."
+        },
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-15",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He doesn't like ___. (bizi)",
+        "answers": [
+          "us"
+        ],
+        "explanation": "Nesne zamiri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "we",
+            "explanation": "We özne zamiridir."
+          }
+        ],
+        "tags": [
+          "object-pronouns",
+          "after-verb"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-object-pronouns-exam-16",
+        "lessonId": "a1-object-pronouns",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onunla yaşıyorum. (Anna)",
+        "answer": [
+          "I",
+          "live",
+          "with",
+          "her"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "she",
+          "hers"
+        ],
+        "explanation": "with + her",
+        "tags": [
+          "object-pronouns",
+          "after-prep"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      }
+    ]
+  }
+}
