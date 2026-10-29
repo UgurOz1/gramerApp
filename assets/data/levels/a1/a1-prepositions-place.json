@@ -1,0 +1,2323 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-prepositions-place",
+  "levelId": "a1",
+  "title": "Prepositions of Place",
+  "objectives": [
+    "in, on, at edatlarını yer için doğru kullanmak",
+    "under, next to, between, behind, in front of, opposite, above edatlarını bilmek",
+    "at home / school / work kalıplarını hatırlamak",
+    "Yer sorusuna edatla cevap vermek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Yer edatları",
+      "paragraphs": [
+        "Yer edatları bir şeyin nerede olduğunu anlatır. Türkçede bu iş hâl eklerine (-de, -in üstünde, -in altında) düşer; İngilizcede ise cümleye ayrı bir sözcük eklenir: in, on, at, under, next to…",
+        "Edatın ardından genellikle the + isim gelir: on the table, in the bag. Yer sorusu Where is …? ile sorulur ve yer edatı ile cevaplanır."
+      ]
+    },
+    {
+      "id": "basic",
+      "type": "forms",
+      "title": "Temel yer edatları",
+      "forms": [
+        {
+          "label": "in",
+          "formula": "içinde",
+          "exampleIds": [
+            "ex-prepositions-place-03",
+            "ex-prepositions-place-21",
+            "ex-prepositions-place-23",
+            "ex-prepositions-place-27"
+          ],
+          "note": "Kutu, oda, bahçe gibi kapalı ya da çevrili yerler"
+        },
+        {
+          "label": "on",
+          "formula": "üstünde (temas)",
+          "exampleIds": [
+            "ex-prepositions-place-01",
+            "ex-prepositions-place-10",
+            "ex-prepositions-place-22"
+          ],
+          "note": "Yüzeyle temas halinde"
+        },
+        {
+          "label": "under",
+          "formula": "altında",
+          "exampleIds": [
+            "ex-prepositions-place-02",
+            "ex-prepositions-place-24"
+          ]
+        },
+        {
+          "label": "next to",
+          "formula": "yanında",
+          "exampleIds": [
+            "ex-prepositions-place-04",
+            "ex-prepositions-place-25"
+          ]
+        },
+        {
+          "label": "between",
+          "formula": "arasında",
+          "exampleIds": [
+            "ex-prepositions-place-05"
+          ],
+          "note": "İki şeyin arasında: between … and …"
+        },
+        {
+          "label": "behind",
+          "formula": "arkasında",
+          "exampleIds": [
+            "ex-prepositions-place-06"
+          ]
+        },
+        {
+          "label": "in front of",
+          "formula": "önünde",
+          "exampleIds": [
+            "ex-prepositions-place-07",
+            "ex-prepositions-place-28"
+          ]
+        },
+        {
+          "label": "opposite",
+          "formula": "karşısında",
+          "exampleIds": [
+            "ex-prepositions-place-08"
+          ]
+        },
+        {
+          "label": "above",
+          "formula": "yukarısında (temas yok)",
+          "exampleIds": [
+            "ex-prepositions-place-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in-on-at",
+      "type": "rule",
+      "title": "In, on, at",
+      "paragraphs": [
+        "En çok karıştırılan üç edat in, on ve at’tir. Genel mantık: in = içinde, on = yüzeyde, at = belirli bir nokta."
+      ],
+      "formulas": [
+        {
+          "label": "in",
+          "pattern": "in a room / garden / box,  in a city / country,  in London / Turkey",
+          "exampleIds": [
+            "ex-prepositions-place-03",
+            "ex-prepositions-place-11",
+            "ex-prepositions-place-12",
+            "ex-prepositions-place-23"
+          ]
+        },
+        {
+          "label": "on",
+          "pattern": "on the table / wall / floor,  on a street,  on the 2nd floor",
+          "exampleIds": [
+            "ex-prepositions-place-01",
+            "ex-prepositions-place-10",
+            "ex-prepositions-place-19",
+            "ex-prepositions-place-20"
+          ]
+        },
+        {
+          "label": "at",
+          "pattern": "at home / school / work,  at the door / bus stop / station",
+          "exampleIds": [
+            "ex-prepositions-place-13",
+            "ex-prepositions-place-14",
+            "ex-prepositions-place-15",
+            "ex-prepositions-place-16",
+            "ex-prepositions-place-17",
+            "ex-prepositions-place-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fixed",
+      "type": "rule",
+      "title": "Kalıp ifadeler",
+      "paragraphs": [
+        "Bazı yer ifadeleri kalıptır; mantıkla değil ezberle öğrenilir. At home, at school, at work kalıplarında artikel kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "at + artikelsiz",
+          "pattern": "at home,  at school,  at work",
+          "exampleIds": [
+            "ex-prepositions-place-13",
+            "ex-prepositions-place-14",
+            "ex-prepositions-place-15"
+          ]
+        },
+        {
+          "label": "in",
+          "pattern": "in bed,  in hospital,  in the kitchen",
+          "exampleIds": [
+            "ex-prepositions-place-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: temel yer edatları",
+      "exampleIds": [
+        "ex-prepositions-place-01",
+        "ex-prepositions-place-02",
+        "ex-prepositions-place-03",
+        "ex-prepositions-place-04",
+        "ex-prepositions-place-05",
+        "ex-prepositions-place-06",
+        "ex-prepositions-place-07",
+        "ex-prepositions-place-08",
+        "ex-prepositions-place-09",
+        "ex-prepositions-place-21",
+        "ex-prepositions-place-22",
+        "ex-prepositions-place-24",
+        "ex-prepositions-place-25",
+        "ex-prepositions-place-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: in, on, at",
+      "exampleIds": [
+        "ex-prepositions-place-10",
+        "ex-prepositions-place-11",
+        "ex-prepositions-place-12",
+        "ex-prepositions-place-13",
+        "ex-prepositions-place-14",
+        "ex-prepositions-place-15",
+        "ex-prepositions-place-16",
+        "ex-prepositions-place-17",
+        "ex-prepositions-place-18",
+        "ex-prepositions-place-19",
+        "ex-prepositions-place-20",
+        "ex-prepositions-place-23",
+        "ex-prepositions-place-26",
+        "ex-prepositions-place-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "The book is in the table.",
+          "right": "The book is on the table.",
+          "explanation": "Masanın yüzeyinde: on."
+        },
+        {
+          "wrong": "She lives at London.",
+          "right": "She lives in London.",
+          "explanation": "Şehir ve ülkede in."
+        },
+        {
+          "wrong": "I am in home.",
+          "right": "I am at home.",
+          "explanation": "Kalıp: at home."
+        },
+        {
+          "wrong": "I am at the home.",
+          "right": "I am at home.",
+          "explanation": "At home’da artikel yok."
+        },
+        {
+          "wrong": "He lives in Park Street.",
+          "right": "He lives on Park Street.",
+          "explanation": "Cadde: on."
+        },
+        {
+          "wrong": "The keys are on the bag.",
+          "right": "The keys are in the bag.",
+          "explanation": "Çantanın içinde: in."
+        },
+        {
+          "wrong": "The school is next the park.",
+          "right": "The school is next to the park.",
+          "explanation": "Next to: to eksik."
+        },
+        {
+          "wrong": "The shop is front of the hotel.",
+          "right": "The shop is in front of the hotel.",
+          "explanation": "In front of: in eksik."
+        },
+        {
+          "wrong": "The bank is between the shop.",
+          "right": "The bank is between the shop and the cafe.",
+          "explanation": "Between iki şeyle kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "There is / are",
+          "body": "Yer edatları there is / are cümlelerinde sık kullanılır: There is a book on the table.",
+          "lessonId": "a1-there-is-are"
+        },
+        {
+          "topic": "Zaman edatları",
+          "body": "In, on, at zaman için de kullanılır ama farklı kurallarla.",
+          "lessonId": "a1-prepositions-time"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "In içinde, on yüzeyde, at belirli bir noktada.",
+        "Şehir ve ülke için in; cadde için on; bina ya da nokta için at.",
+        "At home / school / work kalıplarında artikel yok.",
+        "Next to, in front of gibi kalıplarda tüm sözcükleri yaz.",
+        "Between iki şeyin arasını anlatır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-prepositions-place-01",
+        "q-prepositions-place-02",
+        "q-prepositions-place-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-prepositions-place-01",
+      "en": "The book is on the table.",
+      "tr": "Kitap masanın üstünde.",
+      "highlight": "on the table",
+      "note": "on: bir yüzeyin üstünde (temas)"
+    },
+    {
+      "id": "ex-prepositions-place-02",
+      "en": "The cat is under the chair.",
+      "tr": "Kedi sandalyenin altında.",
+      "highlight": "under the chair"
+    },
+    {
+      "id": "ex-prepositions-place-03",
+      "en": "The keys are in the bag.",
+      "tr": "Anahtarlar çantanın içinde.",
+      "highlight": "in the bag",
+      "note": "in: bir şeyin içinde"
+    },
+    {
+      "id": "ex-prepositions-place-04",
+      "en": "The school is next to the park.",
+      "tr": "Okul parkın yanında.",
+      "highlight": "next to the park"
+    },
+    {
+      "id": "ex-prepositions-place-05",
+      "en": "The bank is between the shop and the cafe.",
+      "tr": "Banka dükkan ile kafenin arasında.",
+      "highlight": "between the shop and the cafe"
+    },
+    {
+      "id": "ex-prepositions-place-06",
+      "en": "The car is behind the house.",
+      "tr": "Araba evin arkasında.",
+      "highlight": "behind the house"
+    },
+    {
+      "id": "ex-prepositions-place-07",
+      "en": "The boy is in front of the school.",
+      "tr": "Çocuk okulun önünde.",
+      "highlight": "in front of the school"
+    },
+    {
+      "id": "ex-prepositions-place-08",
+      "en": "The bank is opposite the post office.",
+      "tr": "Banka postanenin karşısında.",
+      "highlight": "opposite the post office"
+    },
+    {
+      "id": "ex-prepositions-place-09",
+      "en": "The lamp is above the bed.",
+      "tr": "Lamba yatağın üstünde (yukarısında).",
+      "highlight": "above the bed",
+      "note": "above: temas yok, yukarıda"
+    },
+    {
+      "id": "ex-prepositions-place-10",
+      "en": "There is a picture on the wall.",
+      "tr": "Duvarda bir resim var.",
+      "highlight": "on the wall",
+      "note": "Duvara asılı: on"
+    },
+    {
+      "id": "ex-prepositions-place-11",
+      "en": "She lives in London.",
+      "tr": "Londra'da yaşıyor.",
+      "highlight": "in London",
+      "note": "Şehir ve ülke: in"
+    },
+    {
+      "id": "ex-prepositions-place-12",
+      "en": "He lives in Turkey.",
+      "tr": "Türkiye'de yaşıyor.",
+      "highlight": "in Turkey"
+    },
+    {
+      "id": "ex-prepositions-place-13",
+      "en": "I am at home.",
+      "tr": "Evdeyim.",
+      "highlight": "at home",
+      "note": "at home: evde"
+    },
+    {
+      "id": "ex-prepositions-place-14",
+      "en": "She is at school.",
+      "tr": "Okuldadır.",
+      "highlight": "at school"
+    },
+    {
+      "id": "ex-prepositions-place-15",
+      "en": "They are at work.",
+      "tr": "İştedirler.",
+      "highlight": "at work"
+    },
+    {
+      "id": "ex-prepositions-place-16",
+      "en": "He is at the bus stop.",
+      "tr": "Otobüs durağındadır.",
+      "highlight": "at the bus stop",
+      "note": "at: belirli bir nokta"
+    },
+    {
+      "id": "ex-prepositions-place-17",
+      "en": "Meet me at the station.",
+      "tr": "Benimle istasyonda buluş.",
+      "highlight": "at the station"
+    },
+    {
+      "id": "ex-prepositions-place-18",
+      "en": "She is at the door.",
+      "tr": "Kapıdadır.",
+      "highlight": "at the door"
+    },
+    {
+      "id": "ex-prepositions-place-19",
+      "en": "He lives on Park Street.",
+      "tr": "Park Caddesi'nde yaşıyor.",
+      "highlight": "on Park Street",
+      "note": "Cadde: on"
+    },
+    {
+      "id": "ex-prepositions-place-20",
+      "en": "My flat is on the second floor.",
+      "tr": "Dairem ikinci katta.",
+      "highlight": "on the second floor",
+      "note": "Kat: on"
+    },
+    {
+      "id": "ex-prepositions-place-21",
+      "en": "The pen is in the box.",
+      "tr": "Kalem kutunun içinde.",
+      "highlight": "in the box"
+    },
+    {
+      "id": "ex-prepositions-place-22",
+      "en": "The cat is on the sofa.",
+      "tr": "Kedi kanepede.",
+      "highlight": "on the sofa"
+    },
+    {
+      "id": "ex-prepositions-place-23",
+      "en": "The children are in the garden.",
+      "tr": "Çocuklar bahçede.",
+      "highlight": "in the garden"
+    },
+    {
+      "id": "ex-prepositions-place-24",
+      "en": "The dog is under the table.",
+      "tr": "Köpek masanın altında.",
+      "highlight": "under the table"
+    },
+    {
+      "id": "ex-prepositions-place-25",
+      "en": "The pharmacy is next to the bank.",
+      "tr": "Eczane bankanın yanında.",
+      "highlight": "next to the bank"
+    },
+    {
+      "id": "ex-prepositions-place-26",
+      "en": "Where is my phone? It's in my pocket.",
+      "tr": "Telefonum nerede? Cebimde.",
+      "highlight": "in my pocket"
+    },
+    {
+      "id": "ex-prepositions-place-27",
+      "en": "He is in the kitchen.",
+      "tr": "Mutfaktadır.",
+      "highlight": "in the kitchen"
+    },
+    {
+      "id": "ex-prepositions-place-28",
+      "en": "The shop is in front of the hotel.",
+      "tr": "Dükkan otelin önündedir.",
+      "highlight": "in front of the hotel"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-prepositions-place-01",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The book is ___ the table.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Yüzeyin üstünde: on.",
+      "optionExplanations": {
+        "a": "In içinde demektir.",
+        "c": "At nokta için.",
+        "d": "To yön için."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-02",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The cat is ___ the chair. (altında)",
+      "answers": [
+        "under"
+      ],
+      "explanation": "Under: altında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "On üstünde demektir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-03",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Anahtarlar çantanın içinde.",
+      "answer": [
+        "The",
+        "keys",
+        "are",
+        "in",
+        "the",
+        "bag"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "on",
+        "is"
+      ],
+      "explanation": "in the bag",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-04",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The book is in the table.",
+      "errorSpan": "in",
+      "answers": [
+        "The book is on the table."
+      ],
+      "explanation": "Masanın yüzeyinde: on.",
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-05",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kitap masanın üstünde.",
+      "hint": "masa: table",
+      "answers": [
+        "The book is on the table."
+      ],
+      "targetStructure": "on the table",
+      "explanation": "Yüzey: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The book is in the table.",
+          "explanation": "On gerekir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-06",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The keys are ___ the bag.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çantanın içinde: in.",
+      "optionExplanations": {
+        "b": "On yüzey için.",
+        "c": "At nokta için.",
+        "d": "Under altında demektir."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-07",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The school is ___ the park. (yanında)",
+      "options": [
+        {
+          "id": "a",
+          "text": "next to"
+        },
+        {
+          "id": "b",
+          "text": "between"
+        },
+        {
+          "id": "c",
+          "text": "behind"
+        },
+        {
+          "id": "d",
+          "text": "above"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Next to: yanında.",
+      "optionExplanations": {
+        "b": "Between arasında.",
+        "c": "Behind arkasında.",
+        "d": "Above yukarısında."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-08",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The dog is ___ the table. (altında)",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "under"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Under: altında.",
+      "optionExplanations": {
+        "a": "On üstünde.",
+        "c": "In içinde.",
+        "d": "At nokta."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-09",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The car is ___ the house. (arkasında)",
+      "answers": [
+        "behind"
+      ],
+      "explanation": "Behind: arkasında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in front of",
+          "explanation": "In front of önünde demektir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-10",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The boy is in ___ of the school. (önünde)",
+      "answers": [
+        "front"
+      ],
+      "explanation": "In front of: önünde.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "back",
+          "explanation": "Back arka demektir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-11",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She lives ___ London.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Şehirde in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "at",
+          "explanation": "At nokta içindir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-12",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I am ___ home.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Kalıp: at home.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Kalıp at home."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-13",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He lives ___ Turkey.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ülkede in.",
+      "optionExplanations": {
+        "b": "On yüzey için.",
+        "c": "At nokta için.",
+        "d": "To yön için."
+      },
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-14",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She is ___ school.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kalıp: at school.",
+      "optionExplanations": {
+        "b": "In kalıba uymaz.",
+        "c": "On kalıba uymaz.",
+        "d": "To kalıba uymaz."
+      },
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-15",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "My flat is ___ the second floor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kat: on.",
+      "optionExplanations": {
+        "b": "In kalıba uymaz.",
+        "c": "At kalıba uymaz.",
+        "d": "Under altında."
+      },
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-16",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He lives ___ Park Street.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Cadde: on.",
+      "optionExplanations": {
+        "b": "In kalıba uymaz.",
+        "c": "At kalıba uymaz.",
+        "d": "Under altında."
+      },
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-17",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is ___ the bus stop.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Belirli nokta: at.",
+      "optionExplanations": {
+        "b": "In içinde.",
+        "c": "On yüzey.",
+        "d": "Under altında."
+      },
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-18",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The bank is ___ the shop and the cafe.",
+      "options": [
+        {
+          "id": "a",
+          "text": "between"
+        },
+        {
+          "id": "b",
+          "text": "behind"
+        },
+        {
+          "id": "c",
+          "text": "above"
+        },
+        {
+          "id": "d",
+          "text": "under"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İki şeyin arası: between.",
+      "optionExplanations": {
+        "b": "Behind arkasında.",
+        "c": "Above yukarısında.",
+        "d": "Under altında."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-19",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The bank is ___ the post office. (karşısında)",
+      "options": [
+        {
+          "id": "a",
+          "text": "opposite"
+        },
+        {
+          "id": "b",
+          "text": "behind"
+        },
+        {
+          "id": "c",
+          "text": "above"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opposite: karşısında.",
+      "optionExplanations": {
+        "b": "Behind arkasında.",
+        "c": "Above yukarısında.",
+        "d": "In içinde."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-20",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There is a picture ___ the wall.",
+      "answers": [
+        "on"
+      ],
+      "explanation": "Duvarda: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "In içinde demektir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-21",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They are ___ work.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Kalıp: at work.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Kalıp at work."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-22",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The children are ___ the garden.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Bahçede: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "On yüzey için."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-23",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The pharmacy is next ___ the bank.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Next to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "of",
+          "explanation": "Next to kalıbı."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-24",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The bank is between the shop ___ the cafe.",
+      "answers": [
+        "and"
+      ],
+      "explanation": "Between … and …",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "or",
+          "explanation": "Between … and … kalıbı."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-25",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The lamp is ___ the bed. (yukarısında)",
+      "answers": [
+        "above"
+      ],
+      "explanation": "Above: yukarısında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "under",
+          "explanation": "Under altında demektir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-26",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is ___ the kitchen.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Mutfakta: in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "at",
+          "explanation": "Oda için in."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-27",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She lives at London.",
+      "errorSpan": "at",
+      "answers": [
+        "She lives in London."
+      ],
+      "explanation": "Şehirde in.",
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-28",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am in home.",
+      "errorSpan": "in home",
+      "answers": [
+        "I am at home."
+      ],
+      "explanation": "Kalıp: at home.",
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-29",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He lives in Park Street.",
+      "errorSpan": "in Park Street",
+      "answers": [
+        "He lives on Park Street."
+      ],
+      "explanation": "Cadde: on.",
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-30",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The school is next the park.",
+      "errorSpan": "next the",
+      "answers": [
+        "The school is next to the park."
+      ],
+      "explanation": "Next to.",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-31",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The shop is front of the hotel.",
+      "errorSpan": "front of",
+      "answers": [
+        "The shop is in front of the hotel."
+      ],
+      "explanation": "In front of.",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-32",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kedi sandalyenin altında.",
+      "answer": [
+        "The",
+        "cat",
+        "is",
+        "under",
+        "the",
+        "chair"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "on",
+        "in"
+      ],
+      "explanation": "under",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-33",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Okul parkın yanında.",
+      "answer": [
+        "The",
+        "school",
+        "is",
+        "next",
+        "to",
+        "the",
+        "park"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "in",
+        "at"
+      ],
+      "explanation": "next to",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-34",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çocuk okulun önünde.",
+      "answer": [
+        "The",
+        "boy",
+        "is",
+        "in",
+        "front",
+        "of",
+        "the",
+        "school"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "on",
+        "at"
+      ],
+      "explanation": "in front of",
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-35",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Evdeyim.",
+      "answer": [
+        "I",
+        "am",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "in",
+        "on"
+      ],
+      "explanation": "at home",
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-36",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Londra'da yaşıyor.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "She lives in London.",
+        "He lives in London."
+      ],
+      "targetStructure": "in + şehir",
+      "explanation": "Şehirde in.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She lives at London.",
+          "explanation": "Şehirde in."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-37",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Evdeyim.",
+      "hint": "ev: home",
+      "answers": [
+        "I am at home.",
+        "I'm at home."
+      ],
+      "targetStructure": "at home",
+      "explanation": "Kalıp.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am in home.",
+          "explanation": "At home kalıbı."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-38",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kedi kanepede.",
+      "hint": "kanepe: sofa",
+      "answers": [
+        "The cat is on the sofa."
+      ],
+      "targetStructure": "on the sofa",
+      "explanation": "Yüzey: on.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The cat is in the sofa.",
+          "explanation": "On gerekir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-39",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I am at the home."
+        },
+        {
+          "id": "b",
+          "text": "I am at home."
+        },
+        {
+          "id": "c",
+          "text": "I am in home."
+        },
+        {
+          "id": "d",
+          "text": "I am on home."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "At home kalıbı; artikel yok.",
+      "optionExplanations": {
+        "a": "Artikel yok.",
+        "c": "In kalıba uymaz.",
+        "d": "On kalıba uymaz."
+      },
+      "tags": [
+        "prepositions-place",
+        "fixed"
+      ],
+      "errorTags": [
+        "preposition_usage",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-40",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meet me in the bus stop."
+        },
+        {
+          "id": "b",
+          "text": "Meet me at the bus stop."
+        },
+        {
+          "id": "c",
+          "text": "Meet me on the bus stop."
+        },
+        {
+          "id": "d",
+          "text": "Meet me to the bus stop."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Belirli nokta: at.",
+      "optionExplanations": {
+        "a": "In içinde demektir.",
+        "c": "On yüzey için.",
+        "d": "To yön için."
+      },
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-41",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The keys are on the bag."
+        },
+        {
+          "id": "b",
+          "text": "The keys are in the bag."
+        },
+        {
+          "id": "c",
+          "text": "The keys are at the bag."
+        },
+        {
+          "id": "d",
+          "text": "The keys are next the bag."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Çantanın içinde: in.",
+      "optionExplanations": {
+        "a": "On yüzey için.",
+        "c": "At nokta için.",
+        "d": "To eksik."
+      },
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-42",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Meet me ___ the bus stop.",
+      "answers": [
+        "at"
+      ],
+      "explanation": "Belirli nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "in",
+          "explanation": "Durak bir nokta olduğu için at."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-43",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Where is my phone? It's ___ my pocket.",
+      "answers": [
+        "in"
+      ],
+      "explanation": "Cebin içinde.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "on",
+          "explanation": "In içinde."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "in-on-at"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-44",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Banka postanenin karşısında.",
+      "hint": "karşısında: opposite",
+      "answers": [
+        "The bank is opposite the post office."
+      ],
+      "targetStructure": "opposite",
+      "explanation": "Opposite: karşısında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The bank is opposite of the post office.",
+          "explanation": "Opposite'ten sonra of yok."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-prepositions-place-45",
+      "lessonId": "a1-prepositions-place",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Banka dükkan ile kafenin arasında.",
+      "hint": "arasında: between",
+      "answers": [
+        "The bank is between the shop and the cafe."
+      ],
+      "targetStructure": "between … and …",
+      "explanation": "Between … and …",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The bank is between the shop.",
+          "explanation": "İkinci öğe de gerekir."
+        }
+      ],
+      "tags": [
+        "prepositions-place",
+        "basic"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-prepositions-place",
+    "title": "Prepositions of Place: Konu sonu sınavı",
+    "description": "Yer edatları, in / on / at ve kalıplar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-prepositions-place-exam-01",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The cat is ___ the sofa.",
+        "options": [
+          {
+            "id": "a",
+            "text": "on"
+          },
+          {
+            "id": "b",
+            "text": "in"
+          },
+          {
+            "id": "c",
+            "text": "at"
+          },
+          {
+            "id": "d",
+            "text": "to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yüzeyde: on.",
+        "optionExplanations": {
+          "b": "In içinde.",
+          "c": "At nokta.",
+          "d": "To yön."
+        },
+        "tags": [
+          "prepositions-place",
+          "in-on-at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-02",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "The dog is ___ the table. (altında)",
+        "answers": [
+          "under"
+        ],
+        "explanation": "Under: altında.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "on",
+            "explanation": "On üstünde."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-03",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kalem kutunun içinde.",
+        "answer": [
+          "The",
+          "pen",
+          "is",
+          "in",
+          "the",
+          "box"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "in",
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-04",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is in school.",
+        "errorSpan": "in school",
+        "answers": [
+          "She is at school."
+        ],
+        "explanation": "Kalıp: at school.",
+        "tags": [
+          "prepositions-place",
+          "fixed"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-05",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Kitap çantanın içinde.",
+        "hint": "çanta: bag",
+        "answers": [
+          "The book is in the bag."
+        ],
+        "targetStructure": "in the bag",
+        "explanation": "İçinde: in.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The book is on the bag.",
+            "explanation": "İçinde: in."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-06",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He lives ___ Turkey.",
+        "options": [
+          {
+            "id": "a",
+            "text": "in"
+          },
+          {
+            "id": "b",
+            "text": "on"
+          },
+          {
+            "id": "c",
+            "text": "at"
+          },
+          {
+            "id": "d",
+            "text": "under"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ülke: in.",
+        "optionExplanations": {
+          "b": "On yüzey.",
+          "c": "At nokta.",
+          "d": "Under altında."
+        },
+        "tags": [
+          "prepositions-place",
+          "in-on-at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-07",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He is ___ the door.",
+        "answers": [
+          "at"
+        ],
+        "explanation": "Belirli nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "in",
+            "explanation": "At daha uygun."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "in-on-at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-08",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Banka postanenin karşısında.",
+        "answer": [
+          "The",
+          "bank",
+          "is",
+          "opposite",
+          "the",
+          "post",
+          "office"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "of",
+          "in"
+        ],
+        "explanation": "opposite",
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-09",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He lives in Main Street.",
+        "errorSpan": "in Main Street",
+        "answers": [
+          "He lives on Main Street."
+        ],
+        "explanation": "Cadde: on.",
+        "tags": [
+          "prepositions-place",
+          "in-on-at"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-10",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Eczane bankanın yanında.",
+        "hint": "eczane: pharmacy",
+        "answers": [
+          "The pharmacy is next to the bank."
+        ],
+        "targetStructure": "next to",
+        "explanation": "Next to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The pharmacy is next the bank.",
+            "explanation": "To eksik."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-11",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "The lamp is ___ the bed. (yukarısında)",
+        "options": [
+          {
+            "id": "a",
+            "text": "above"
+          },
+          {
+            "id": "b",
+            "text": "under"
+          },
+          {
+            "id": "c",
+            "text": "behind"
+          },
+          {
+            "id": "d",
+            "text": "between"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Above.",
+        "optionExplanations": {
+          "b": "Under altında.",
+          "c": "Behind arkasında.",
+          "d": "Between arasında."
+        },
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-12",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "My father is ___ work now.",
+        "answers": [
+          "at"
+        ],
+        "explanation": "Kalıp.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "in",
+            "explanation": "Kalıp at work."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "fixed"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-13",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The shop is in front the hotel.",
+        "errorSpan": "front the",
+        "answers": [
+          "The shop is in front of the hotel."
+        ],
+        "explanation": "In front of.",
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-14",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She is at home."
+          },
+          {
+            "id": "b",
+            "text": "She is in home."
+          },
+          {
+            "id": "c",
+            "text": "She is at the home."
+          },
+          {
+            "id": "d",
+            "text": "She is on home."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "At home kalıbı.",
+        "optionExplanations": {
+          "b": "Kalıp değil.",
+          "c": "Artikel yok.",
+          "d": "Kalıp değil."
+        },
+        "tags": [
+          "prepositions-place",
+          "fixed"
+        ],
+        "errorTags": [
+          "preposition_usage",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-15",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "The park is between the school ___ the library.",
+        "answers": [
+          "and"
+        ],
+        "explanation": "Between … and …",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "or",
+            "explanation": "And kullanılır."
+          }
+        ],
+        "tags": [
+          "prepositions-place",
+          "basic"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      },
+      {
+        "id": "q-prepositions-place-exam-16",
+        "lessonId": "a1-prepositions-place",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Okuldayız.",
+        "answer": [
+          "We",
+          "are",
+          "at",
+          "school"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "in",
+          "on"
+        ],
+        "explanation": "at school",
+        "tags": [
+          "prepositions-place",
+          "fixed"
+        ],
+        "errorTags": [
+          "preposition_usage"
+        ]
+      }
+    ]
+  }
+}
