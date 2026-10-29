@@ -1,0 +1,2285 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-should",
+  "levelId": "a2",
+  "title": "Should & Shouldn't",
+  "objectives": [
+    "Should ile tavsiye ve görüş bildirmek",
+    "Olumlu, olumsuz (shouldn't) ve soru biçimlerini kurmak",
+    "I think / I don't think + should kalıbını kullanmak",
+    "Should ile must arasındaki farkı bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Should: tavsiye ve görüş",
+      "paragraphs": [
+        "Should, bir tavsiye vermek ya da görüş bildirmek için kullanılır: “-meli / -malı”. Must kadar güçlü değildir; yapılması iyi olacak, doğru olan şeyi anlatır.",
+        "Should bir modal fiildir: tüm öznelerde aynıdır, -s almaz, ardından yalın fiil gelir. Soru ve olumsuzda do / does gerekmez."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Olumlu, olumsuz, soru",
+      "paragraphs": [
+        "Olumsuzu shouldn’t (should not). Soruda should özneden önce gelir. Kısa cevap Yes, … should. / No, … shouldn’t. biçimindedir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + should + yalın fiil",
+          "exampleIds": [
+            "ex-should-01",
+            "ex-should-02",
+            "ex-should-03",
+            "ex-should-04",
+            "ex-should-05",
+            "ex-should-06"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + shouldn’t + yalın fiil",
+          "exampleIds": [
+            "ex-should-07",
+            "ex-should-08",
+            "ex-should-09",
+            "ex-should-10"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Should + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-should-11",
+            "ex-should-12",
+            "ex-should-13"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, you should.   No, you shouldn’t.",
+          "exampleIds": [
+            "ex-should-14",
+            "ex-should-15"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + should + özne + fiil …?",
+          "exampleIds": [
+            "ex-should-16",
+            "ex-should-17",
+            "ex-should-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Tavsiye",
+          "formula": "You should see a doctor.",
+          "exampleIds": [
+            "ex-should-01",
+            "ex-should-22",
+            "ex-should-23",
+            "ex-should-26"
+          ],
+          "note": "Bir durum için iyi olan yapılmalı."
+        },
+        {
+          "label": "Görüş",
+          "formula": "I think you should rest.",
+          "exampleIds": [
+            "ex-should-19",
+            "ex-should-20",
+            "ex-should-24"
+          ],
+          "note": "I think / I don’t think ile."
+        },
+        {
+          "label": "Soru ile tavsiye isteme",
+          "formula": "What should I do?",
+          "exampleIds": [
+            "ex-should-16",
+            "ex-should-11"
+          ],
+          "note": "Karar vermeye yardım."
+        },
+        {
+          "label": "If I were you",
+          "formula": "If I were you, I would …",
+          "exampleIds": [
+            "ex-should-21"
+          ],
+          "note": "Tavsiye verme kalıbı."
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "forms",
+      "title": "Should ve must",
+      "forms": [
+        {
+          "label": "must",
+          "formula": "Zorunluluk, kural, yasa",
+          "exampleIds": [
+            "ex-should-27"
+          ],
+          "note": "Yapılmazsa sonuç var."
+        },
+        {
+          "label": "should",
+          "formula": "Tavsiye, iyi olur",
+          "exampleIds": [
+            "ex-should-28"
+          ],
+          "note": "Yapman iyi olur ama zorunlu değil."
+        }
+      ]
+    },
+    {
+      "id": "think",
+      "type": "rule",
+      "title": "I think / I don’t think",
+      "paragraphs": [
+        "Görüş bildirirken I think + should kullanılır. Olumsuz görüşte shouldn’t yerine I don’t think + should tercih edilir: I don’t think you should go. (I think you shouldn’t go: nadir.)"
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu görüş",
+          "pattern": "I think + özne + should + fiil",
+          "exampleIds": [
+            "ex-should-19"
+          ]
+        },
+        {
+          "label": "Olumsuz görüş",
+          "pattern": "I don’t think + özne + should + fiil",
+          "exampleIds": [
+            "ex-should-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu ve olumsuz",
+      "exampleIds": [
+        "ex-should-01",
+        "ex-should-02",
+        "ex-should-03",
+        "ex-should-04",
+        "ex-should-05",
+        "ex-should-06",
+        "ex-should-07",
+        "ex-should-08",
+        "ex-should-09",
+        "ex-should-10",
+        "ex-should-22",
+        "ex-should-23",
+        "ex-should-24",
+        "ex-should-25",
+        "ex-should-26"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, görüş, should ve must",
+      "exampleIds": [
+        "ex-should-11",
+        "ex-should-12",
+        "ex-should-13",
+        "ex-should-14",
+        "ex-should-15",
+        "ex-should-16",
+        "ex-should-17",
+        "ex-should-18",
+        "ex-should-19",
+        "ex-should-20",
+        "ex-should-21",
+        "ex-should-27",
+        "ex-should-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He shoulds go.",
+          "right": "He should go.",
+          "explanation": "Should -s almaz."
+        },
+        {
+          "wrong": "You should to go.",
+          "right": "You should go.",
+          "explanation": "Should'dan sonra to yok."
+        },
+        {
+          "wrong": "She should goes.",
+          "right": "She should go.",
+          "explanation": "Should'dan sonra yalın fiil."
+        },
+        {
+          "wrong": "Do I should call him?",
+          "right": "Should I call him?",
+          "explanation": "Should ile do kullanılmaz."
+        },
+        {
+          "wrong": "You don't should go.",
+          "right": "You shouldn't go.",
+          "explanation": "Olumsuz: shouldn't."
+        },
+        {
+          "wrong": "Should he goes?",
+          "right": "Should he go?",
+          "explanation": "Yalın fiil."
+        },
+        {
+          "wrong": "I think you shouldn't to go.",
+          "right": "I don't think you should go.",
+          "explanation": "To yok; olumsuz görüş: I don't think."
+        },
+        {
+          "wrong": "You should must wear a seat belt.",
+          "right": "You must wear a seat belt.",
+          "explanation": "İki modal birlikte kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Must ve have to",
+          "body": "Zorunluluk için must / have to; tavsiye için should.",
+          "lessonId": "a2-must-have-to"
+        },
+        {
+          "topic": "Can ve modal fiiller",
+          "body": "Should da can gibi modaldır: -s, to ve do yok.",
+          "lessonId": "a1-can"
+        },
+        {
+          "topic": "Will",
+          "body": "Will gelecek içindir; should tavsiye için.",
+          "lessonId": "a2-will"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Should + yalın fiil; -s, to, do yok.",
+        "Olumsuz: shouldn't; soru: Should + özne + fiil.",
+        "Should tavsiye, must zorunluluktur.",
+        "I think you should; I don't think you should.",
+        "If I were you, I would … tavsiye kalıbıdır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-should-01",
+        "q-should-02",
+        "q-should-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-should-01",
+      "en": "You should see a doctor.",
+      "tr": "Bir doktora görünmelisin.",
+      "highlight": "should see",
+      "note": "should + yalın fiil: tavsiye"
+    },
+    {
+      "id": "ex-should-02",
+      "en": "She should study more.",
+      "tr": "Daha çok çalışmalı.",
+      "highlight": "should study"
+    },
+    {
+      "id": "ex-should-03",
+      "en": "We should leave now.",
+      "tr": "Şimdi çıkmalıyız.",
+      "highlight": "should leave"
+    },
+    {
+      "id": "ex-should-04",
+      "en": "You should drink more water.",
+      "tr": "Daha çok su içmelisin.",
+      "highlight": "should drink"
+    },
+    {
+      "id": "ex-should-05",
+      "en": "He should go to bed early.",
+      "tr": "Erken yatmalı.",
+      "highlight": "should go"
+    },
+    {
+      "id": "ex-should-06",
+      "en": "They should be more careful.",
+      "tr": "Daha dikkatli olmalılar.",
+      "highlight": "should be"
+    },
+    {
+      "id": "ex-should-07",
+      "en": "You shouldn't smoke.",
+      "tr": "Sigara içmemelisin.",
+      "highlight": "shouldn't smoke",
+      "note": "shouldn't = should not"
+    },
+    {
+      "id": "ex-should-08",
+      "en": "He shouldn't eat so much sugar.",
+      "tr": "O kadar çok şeker yememeli.",
+      "highlight": "shouldn't eat"
+    },
+    {
+      "id": "ex-should-09",
+      "en": "We shouldn't be late.",
+      "tr": "Geç kalmamalıyız.",
+      "highlight": "shouldn't be"
+    },
+    {
+      "id": "ex-should-10",
+      "en": "You shouldn't worry.",
+      "tr": "Endişelenmemelisin.",
+      "highlight": "shouldn't worry"
+    },
+    {
+      "id": "ex-should-11",
+      "en": "Should I call him?",
+      "tr": "Onu aramalı mıyım?",
+      "highlight": "Should I call",
+      "note": "Soru: Should + özne + yalın fiil"
+    },
+    {
+      "id": "ex-should-12",
+      "en": "Should we wait?",
+      "tr": "Beklemeli miyiz?",
+      "highlight": "Should we wait"
+    },
+    {
+      "id": "ex-should-13",
+      "en": "Should she tell him?",
+      "tr": "Ona söylemeli mi?",
+      "highlight": "Should she tell"
+    },
+    {
+      "id": "ex-should-14",
+      "en": "Yes, you should.",
+      "tr": "Evet, aramalısın.",
+      "highlight": "Yes, you should",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-should-15",
+      "en": "No, you shouldn't.",
+      "tr": "Hayır, aramamalısın.",
+      "highlight": "No, you shouldn't"
+    },
+    {
+      "id": "ex-should-16",
+      "en": "What should I do?",
+      "tr": "Ne yapmalıyım?",
+      "highlight": "What should I do"
+    },
+    {
+      "id": "ex-should-17",
+      "en": "Where should we go?",
+      "tr": "Nereye gitmeliyiz?",
+      "highlight": "Where should we go"
+    },
+    {
+      "id": "ex-should-18",
+      "en": "When should I call you?",
+      "tr": "Seni ne zaman aramalıyım?",
+      "highlight": "When should I call"
+    },
+    {
+      "id": "ex-should-19",
+      "en": "I think you should rest.",
+      "tr": "Bence dinlenmelisin.",
+      "highlight": "I think you should",
+      "note": "I think / I don't think"
+    },
+    {
+      "id": "ex-should-20",
+      "en": "I don't think you should go.",
+      "tr": "Bence gitmemelisin.",
+      "highlight": "I don't think you should",
+      "note": "olumsuz görüş"
+    },
+    {
+      "id": "ex-should-21",
+      "en": "If I were you, I would see a doctor.",
+      "tr": "Yerinde olsam doktora giderdim.",
+      "highlight": "If I were you"
+    },
+    {
+      "id": "ex-should-22",
+      "en": "You should try this cake. It's delicious.",
+      "tr": "Bu keki denemelisin. Çok lezzetli.",
+      "highlight": "should try"
+    },
+    {
+      "id": "ex-should-23",
+      "en": "You should take an umbrella. It's raining.",
+      "tr": "Şemsiye almalısın. Yağmur yağıyor.",
+      "highlight": "should take"
+    },
+    {
+      "id": "ex-should-24",
+      "en": "Students should do their homework.",
+      "tr": "Öğrenciler ödevini yapmalı.",
+      "highlight": "should do"
+    },
+    {
+      "id": "ex-should-25",
+      "en": "You should have breakfast.",
+      "tr": "Kahvaltı yapmalısın.",
+      "highlight": "should have",
+      "note": "have breakfast"
+    },
+    {
+      "id": "ex-should-26",
+      "en": "He is ill. He should stay at home.",
+      "tr": "Hasta. Evde kalmalı.",
+      "highlight": "should stay"
+    },
+    {
+      "id": "ex-should-27",
+      "en": "You must wear a seat belt. (yasa)",
+      "tr": "Emniyet kemeri takmalısın. (zorunlu)",
+      "highlight": "must wear",
+      "note": "must: zorunluluk; should: tavsiye"
+    },
+    {
+      "id": "ex-should-28",
+      "en": "You should wear a seat belt. (tavsiye)",
+      "tr": "Emniyet kemeri takmalısın. (iyi olur)",
+      "highlight": "should wear"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-should-01",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ see a doctor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should"
+        },
+        {
+          "id": "b",
+          "text": "shoulds"
+        },
+        {
+          "id": "c",
+          "text": "should to"
+        },
+        {
+          "id": "d",
+          "text": "do should"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should + yalın fiil.",
+      "optionExplanations": {
+        "b": "Should -s almaz.",
+        "c": "Should'dan sonra to yok.",
+        "d": "Do should olmaz."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-02",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ study more. (çalışmalı)",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Should.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "shoulds",
+          "explanation": "Should -s almaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-03",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir doktora görünmelisin.",
+      "answer": [
+        "You",
+        "should",
+        "see",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "shoulds",
+        "to"
+      ],
+      "explanation": "should + fiil",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-should-04",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He shoulds go.",
+      "errorSpan": "shoulds",
+      "answers": [
+        "He should go."
+      ],
+      "explanation": "Should -s almaz.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-05",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir doktora görünmelisin.",
+      "hint": "görünmek: see",
+      "answers": [
+        "You should see a doctor."
+      ],
+      "targetStructure": "should + fiil",
+      "explanation": "Tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You should to see a doctor.",
+          "explanation": "To yok."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-06",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ smoke. (içmemelisin)",
+      "options": [
+        {
+          "id": "a",
+          "text": "shouldn't"
+        },
+        {
+          "id": "b",
+          "text": "don't should"
+        },
+        {
+          "id": "c",
+          "text": "not should"
+        },
+        {
+          "id": "d",
+          "text": "should not to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Shouldn't.",
+      "optionExplanations": {
+        "b": "Don't should olmaz.",
+        "c": "Not should olmaz.",
+        "d": "To yok."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-07",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ I call him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Should"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Must"
+        },
+        {
+          "id": "d",
+          "text": "Am"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should + özne.",
+      "optionExplanations": {
+        "b": "Do should olmaz.",
+        "c": "Must bu anlamı vermez.",
+        "d": "Be fiili."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-08",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ leave now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should"
+        },
+        {
+          "id": "b",
+          "text": "shoulds"
+        },
+        {
+          "id": "c",
+          "text": "should to"
+        },
+        {
+          "id": "d",
+          "text": "are should"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should.",
+      "optionExplanations": {
+        "b": "-s yok.",
+        "c": "To yok.",
+        "d": "Biçim yok."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-09",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "You ___ drink more water.",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Should.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "shoulds",
+          "explanation": "Should -s almaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-10",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "You ___ worry. (endişelenmemelisin)",
+      "answers": [
+        "shouldn't",
+        "should not"
+      ],
+      "explanation": "Shouldn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't should",
+          "explanation": "Don't should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-11",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ we wait?",
+      "answers": [
+        "Should"
+      ],
+      "explanation": "Should + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Do should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-12",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She should go to bed early."
+        },
+        {
+          "id": "b",
+          "text": "She should goes to bed early."
+        },
+        {
+          "id": "c",
+          "text": "She should to go to bed early."
+        },
+        {
+          "id": "d",
+          "text": "She shoulds go to bed early."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should + yalın fiil.",
+      "optionExplanations": {
+        "b": "Yalın fiil.",
+        "c": "To yok.",
+        "d": "-s yok."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-should-13",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You shouldn't eat so much sugar."
+        },
+        {
+          "id": "b",
+          "text": "You don't should eat so much sugar."
+        },
+        {
+          "id": "c",
+          "text": "You should not to eat so much sugar."
+        },
+        {
+          "id": "d",
+          "text": "You shouldn't to eat so much sugar."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Shouldn't + yalın fiil.",
+      "optionExplanations": {
+        "b": "Don't should olmaz.",
+        "c": "To yok.",
+        "d": "To yok."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-14",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Should I call him?"
+        },
+        {
+          "id": "b",
+          "text": "Do I should call him?"
+        },
+        {
+          "id": "c",
+          "text": "I should call him?"
+        },
+        {
+          "id": "d",
+          "text": "Should I to call him?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should + özne.",
+      "optionExplanations": {
+        "b": "Do should olmaz.",
+        "c": "Soru yapısı eksik.",
+        "d": "To yok."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-15",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I think you ___ rest.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't"
+        },
+        {
+          "id": "c",
+          "text": "must to"
+        },
+        {
+          "id": "d",
+          "text": "can to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I think + should.",
+      "optionExplanations": {
+        "b": "Anlam bozulur.",
+        "c": "To yok.",
+        "d": "To yok."
+      },
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-16",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I don't think you ___ go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "should"
+        },
+        {
+          "id": "b",
+          "text": "shouldn't"
+        },
+        {
+          "id": "c",
+          "text": "to"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I don't think + should.",
+      "optionExplanations": {
+        "b": "Çift olumsuz.",
+        "c": "Modal gerekir.",
+        "d": "Yapı bozuk."
+      },
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-17",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ I do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "should"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "shall to"
+        },
+        {
+          "id": "d",
+          "text": "am"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "What should I do?",
+      "optionExplanations": {
+        "b": "Do should olmaz.",
+        "c": "Shall to olmaz.",
+        "d": "Be fiili."
+      },
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-18",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ eat so much sugar. (yememeli)",
+      "answers": [
+        "shouldn't",
+        "should not"
+      ],
+      "explanation": "Shouldn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Should kullanılır."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-19",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ be late. (geç kalmamalıyız)",
+      "answers": [
+        "shouldn't",
+        "should not"
+      ],
+      "explanation": "Shouldn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Should kullanılır."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-20",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she tell him?",
+      "answers": [
+        "Should"
+      ],
+      "explanation": "Should + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does",
+          "explanation": "Does should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-21",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ we go?",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Wh + should.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Do should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-22",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ I call you?",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Wh + should.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Do should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-23",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ think you should go. (düşünmüyorum)",
+      "answers": [
+        "don't"
+      ],
+      "explanation": "I don't think.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "not",
+          "explanation": "I don't think."
+        }
+      ],
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-24",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I ___ you, I would see a doctor.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "If I were you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "If I were you kalıbı."
+        }
+      ],
+      "tags": [
+        "should",
+        "use"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-should-25",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You ___ try this cake. It's delicious.",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "must",
+          "explanation": "Tavsiye için should."
+        }
+      ],
+      "tags": [
+        "should",
+        "use"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-26",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You should to go.",
+      "errorSpan": "should to",
+      "answers": [
+        "You should go."
+      ],
+      "explanation": "To yok.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-should-27",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She should goes.",
+      "errorSpan": "goes",
+      "answers": [
+        "She should go."
+      ],
+      "explanation": "Yalın fiil.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-should-28",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do I should call him?",
+      "errorSpan": "Do I should",
+      "answers": [
+        "Should I call him?"
+      ],
+      "explanation": "Should ile do yok.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-should-29",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You don't should go.",
+      "errorSpan": "don't should",
+      "answers": [
+        "You shouldn't go.",
+        "You should not go."
+      ],
+      "explanation": "Shouldn't.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-30",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Should he goes?",
+      "errorSpan": "goes",
+      "answers": [
+        "Should he go?"
+      ],
+      "explanation": "Yalın fiil.",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-should-31",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sigara içmemelisin.",
+      "answer": [
+        "You",
+        "shouldn't",
+        "smoke"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "smokes"
+      ],
+      "explanation": "shouldn't + fiil",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-32",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne yapmalıyım?",
+      "answer": [
+        "What",
+        "should",
+        "I",
+        "do"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "shall"
+      ],
+      "explanation": "Wh + should + özne",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-33",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Beklemeli miyiz?",
+      "answer": [
+        "Should",
+        "we",
+        "wait"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "waits"
+      ],
+      "explanation": "Should + özne",
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-34",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sigara içmemelisin.",
+      "hint": "sigara içmek: smoke",
+      "answers": [
+        "You shouldn't smoke."
+      ],
+      "targetStructure": "shouldn't",
+      "explanation": "Olumsuz tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "You don't should smoke.",
+          "explanation": "Shouldn't kullanılır."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-35",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne yapmalıyım?",
+      "hint": "yapmak: do",
+      "answers": [
+        "What should I do?"
+      ],
+      "targetStructure": "What should I",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What do I should do?",
+          "explanation": "Do should olmaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-should-36",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bence dinlenmelisin.",
+      "hint": "dinlenmek: rest",
+      "answers": [
+        "I think you should rest."
+      ],
+      "targetStructure": "I think you should",
+      "explanation": "Görüş.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I think you should to rest.",
+          "explanation": "To yok."
+        }
+      ],
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-37",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi tavsiyedir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You should wear a seat belt."
+        },
+        {
+          "id": "b",
+          "text": "You must wear a seat belt. (yasa)"
+        },
+        {
+          "id": "c",
+          "text": "You can wear a seat belt."
+        },
+        {
+          "id": "d",
+          "text": "You will wear a seat belt."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Should: tavsiye.",
+      "optionExplanations": {
+        "b": "Must: zorunluluk.",
+        "c": "Can: izin.",
+        "d": "Will: gelecek."
+      },
+      "tags": [
+        "should",
+        "vs"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-38",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi zorunluluktur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "You must wear a seat belt."
+        },
+        {
+          "id": "b",
+          "text": "You should wear a seat belt."
+        },
+        {
+          "id": "c",
+          "text": "You could wear a seat belt."
+        },
+        {
+          "id": "d",
+          "text": "You might wear a seat belt."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Must: zorunluluk.",
+      "optionExplanations": {
+        "b": "Should: tavsiye.",
+        "c": "Could: olasılık.",
+        "d": "Might: olasılık."
+      },
+      "tags": [
+        "should",
+        "vs"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-39",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't think you should go."
+        },
+        {
+          "id": "b",
+          "text": "I think you shouldn't to go."
+        },
+        {
+          "id": "c",
+          "text": "I don't think you shouldn't go."
+        },
+        {
+          "id": "d",
+          "text": "I think you don't should go."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I don't think + should.",
+      "optionExplanations": {
+        "b": "To yok.",
+        "c": "Çift olumsuz.",
+        "d": "Don't should olmaz."
+      },
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-40",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If I ___ you, I would stay at home.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "If I were you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "If I were you kalıbı."
+        }
+      ],
+      "tags": [
+        "should",
+        "use"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-should-41",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He is ill. He ___ stay at home.",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "shoulds",
+          "explanation": "Should -s almaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "use"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-42",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Daha çok çalışmalı.",
+      "hint": "çalışmak: study",
+      "answers": [
+        "She should study more.",
+        "He should study more."
+      ],
+      "targetStructure": "should + fiil",
+      "explanation": "Tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She shoulds study more.",
+          "explanation": "Should -s almaz."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-should-43",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O kadar çok şeker yememeli.",
+      "hint": "şeker: sugar",
+      "answers": [
+        "He shouldn't eat so much sugar.",
+        "She shouldn't eat so much sugar."
+      ],
+      "targetStructure": "shouldn't",
+      "explanation": "Olumsuz tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He doesn't should eat so much sugar.",
+          "explanation": "Shouldn't kullanılır."
+        }
+      ],
+      "tags": [
+        "should",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-44",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I think you shouldn't to go.",
+      "errorSpan": "shouldn't to go",
+      "answers": [
+        "I don't think you should go."
+      ],
+      "explanation": "To yok; I don't think.",
+      "tags": [
+        "should",
+        "think"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-should-45",
+      "lessonId": "a2-should",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You should must wear a seat belt.",
+      "errorSpan": "should must",
+      "answers": [
+        "You must wear a seat belt.",
+        "You should wear a seat belt."
+      ],
+      "explanation": "İki modal birlikte olmaz.",
+      "tags": [
+        "should",
+        "vs"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-should",
+    "title": "Should: Konu sonu sınavı",
+    "description": "Should ile tavsiye ve görüş.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-should-exam-01",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ study more.",
+        "options": [
+          {
+            "id": "a",
+            "text": "should"
+          },
+          {
+            "id": "b",
+            "text": "shoulds"
+          },
+          {
+            "id": "c",
+            "text": "should to"
+          },
+          {
+            "id": "d",
+            "text": "do should"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Should.",
+        "optionExplanations": {
+          "b": "-s yok.",
+          "c": "To yok.",
+          "d": "Do should olmaz."
+        },
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-02",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "You ___ see a doctor. (görünmelisin)",
+        "answers": [
+          "should"
+        ],
+        "explanation": "Should.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "shoulds",
+            "explanation": "Should -s almaz."
+          }
+        ],
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-03",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Şimdi çıkmalıyız.",
+        "answer": [
+          "We",
+          "should",
+          "leave",
+          "now"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "shoulds",
+          "to"
+        ],
+        "explanation": "should + fiil",
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-04",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He should goes.",
+        "errorSpan": "goes",
+        "answers": [
+          "He should go."
+        ],
+        "explanation": "Yalın fiil.",
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-should-exam-05",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Daha çok su içmelisin.",
+        "hint": "su: water",
+        "answers": [
+          "You should drink more water."
+        ],
+        "targetStructure": "should + fiil",
+        "explanation": "Tavsiye.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "You should to drink more water.",
+            "explanation": "To yok."
+          }
+        ],
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-06",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "You ___ worry. (endişelenmemelisin)",
+        "options": [
+          {
+            "id": "a",
+            "text": "shouldn't"
+          },
+          {
+            "id": "b",
+            "text": "don't should"
+          },
+          {
+            "id": "c",
+            "text": "not should"
+          },
+          {
+            "id": "d",
+            "text": "should not to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Shouldn't.",
+        "optionExplanations": {
+          "b": "Olmaz.",
+          "c": "Olmaz.",
+          "d": "To yok."
+        },
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-should-exam-07",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ I call him?",
+        "answers": [
+          "Should"
+        ],
+        "explanation": "Should + özne.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do",
+            "explanation": "Do should olmaz."
+          }
+        ],
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-should-exam-08",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nereye gitmeliyiz?",
+        "answer": [
+          "Where",
+          "should",
+          "we",
+          "go"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "shall"
+        ],
+        "explanation": "Wh + should",
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-should-exam-09",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Do we should go?",
+        "errorSpan": "Do we should",
+        "answers": [
+          "Should we go?"
+        ],
+        "explanation": "Do should olmaz.",
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-should-exam-10",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Beklemeli miyiz?",
+        "hint": "beklemek: wait",
+        "answers": [
+          "Should we wait?"
+        ],
+        "targetStructure": "Should + özne",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do we should wait?",
+            "explanation": "Do should olmaz."
+          }
+        ],
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-should-exam-11",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "I don't think she ___ buy it.",
+        "options": [
+          {
+            "id": "a",
+            "text": "should"
+          },
+          {
+            "id": "b",
+            "text": "shouldn't"
+          },
+          {
+            "id": "c",
+            "text": "to"
+          },
+          {
+            "id": "d",
+            "text": "have"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "I don't think + should.",
+        "optionExplanations": {
+          "b": "Çift olumsuz.",
+          "c": "Modal gerekir.",
+          "d": "Yapı bozuk."
+        },
+        "tags": [
+          "should",
+          "think"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-should-exam-12",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If I ___ you, I would stay.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "If I were you.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "am",
+            "explanation": "Were kalıbı."
+          }
+        ],
+        "tags": [
+          "should",
+          "use"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-should-exam-13",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "You don't should smoke.",
+        "errorSpan": "don't should",
+        "answers": [
+          "You shouldn't smoke.",
+          "You should not smoke."
+        ],
+        "explanation": "Shouldn't.",
+        "tags": [
+          "should",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-should-exam-14",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi tavsiyedir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "You should try this cake."
+          },
+          {
+            "id": "b",
+            "text": "You must try this cake."
+          },
+          {
+            "id": "c",
+            "text": "You will try this cake."
+          },
+          {
+            "id": "d",
+            "text": "You can't try this cake."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Should: tavsiye.",
+        "optionExplanations": {
+          "b": "Must: zorunluluk.",
+          "c": "Will: gelecek.",
+          "d": "Can't: yasak."
+        },
+        "tags": [
+          "should",
+          "vs"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-15",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "She is tired. She ___ rest.",
+        "answers": [
+          "should"
+        ],
+        "explanation": "Tavsiye.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "shoulds",
+            "explanation": "-s yok."
+          }
+        ],
+        "tags": [
+          "should",
+          "use"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-should-exam-16",
+        "lessonId": "a2-should",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bence dinlenmelisin.",
+        "answer": [
+          "I",
+          "think",
+          "you",
+          "should",
+          "rest"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "shoulds",
+          "to"
+        ],
+        "explanation": "I think + should",
+        "tags": [
+          "should",
+          "think"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      }
+    ]
+  }
+}
