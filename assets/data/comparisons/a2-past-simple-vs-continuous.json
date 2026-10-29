@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-past-simple-vs-continuous",
+  "levelId": "a2",
+  "title": "Past Simple vs Past Continuous",
+  "objectives": [
+    "Biten (Past Simple) ve süren (Past Continuous) eylemi ayırt etmek",
+    "Kesilen uzun eylem ile kesen kısa olayı doğru zamanla anlatmak",
+    "When ve while'ı doğru yerde kullanmak",
+    "Aynı anda süren eylemleri Past Continuous ile bağlamak"
+  ],
+  "intro": [
+    "Türkçede ikisi de “-di'li geçmiş” gibi görünse de İngilizcede fark önemlidir. Past Simple bir olayı bütün olarak, başı ve sonu olan bir şey gibi anlatır: Kitabı okudum. Past Continuous ise eylemin o sırada sürdüğünü gösterir: Kitap okuyordum.",
+    "En sık kullanım şudur: uzun, süren eylem Past Continuous ile; onu kesen kısa olay Past Simple ile söylenir. I was reading (süren) when the phone rang (kesen).",
+    "When genellikle kesen olayı, while ise süren eylemi bağlar. While'dan sonra çoğunlukla Past Continuous gelir."
+  ],
+  "lessonIds": [
+    "a2-past-simple",
+    "a2-past-continuous"
+  ],
+  "structures": [
+    {
+      "name": "Past Simple",
+      "meaning": "Geçmişte başlayıp biten, bütün olarak düşünülen eylem. Kısa olaylar, ardışık olaylar ve eylemin tamamlandığı durumlar için.",
+      "usage": [
+        "Bitmiş tek olay (He broke his leg.)",
+        "Ardışık olaylar (She opened the door and went out.)",
+        "Bir eylemi kesen kısa olay (…when the phone rang.)",
+        "Bitmiş dönem (I lived in Izmir in 2018.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + fiil (V2)",
+          "example": "She cooked dinner."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + didn’t + yalın fiil",
+          "example": "She didn’t cook dinner."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + yalın fiil …?",
+          "example": "Did she cook dinner?"
+        }
+      ],
+      "signals": [
+        "yesterday",
+        "last week",
+        "in 2018",
+        "when (kesen olay)",
+        "then",
+        "after that",
+        "ago"
+      ]
+    },
+    {
+      "name": "Past Continuous",
+      "meaning": "Geçmişte belirli bir anda sürmekte olan eylem; arka plan ve süreç. Başlangıcı ve bitişi önemli değildir.",
+      "usage": [
+        "O anda süren eylem (At 9 p.m. I was watching TV.)",
+        "Kesilen uzun eylem (I was reading when the phone rang.)",
+        "Aynı anda süren iki eylem (She was cooking while he was cleaning.)",
+        "Arka plan anlatımı (It was raining and the wind was blowing.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "Özne + was / were + fiil-ing",
+          "example": "She was cooking dinner."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "Özne + wasn’t / weren’t + fiil-ing",
+          "example": "She wasn’t cooking dinner."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Was / Were + özne + fiil-ing …?",
+          "example": "Was she cooking dinner?"
+        }
+      ],
+      "signals": [
+        "while",
+        "at 9 p.m. yesterday",
+        "all day",
+        "at that moment",
+        "when (süren eylem)",
+        "this time last year"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-01",
+        "en": "I watched TV last night.",
+        "tr": "Dün gece televizyon izledim.",
+        "highlight": "watched"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-02",
+        "en": "I was watching TV at 9 p.m. last night.",
+        "tr": "Dün gece dokuzda televizyon izliyordum.",
+        "highlight": "was watching"
+      },
+      "note": "Biten eylemin kendisi ile belirli anda süren eylem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-03",
+        "en": "She cooked dinner.",
+        "tr": "Akşam yemeğini pişirdi. (Yemek bitti.)",
+        "highlight": "cooked"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-04",
+        "en": "She was cooking dinner.",
+        "tr": "Akşam yemeği pişiriyordu. (Süreç, bitti mi belli değil.)",
+        "highlight": "was cooking"
+      },
+      "note": "Yemeği tamamladı ile yemek yapma süreci."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-05",
+        "en": "I was reading when the phone rang.",
+        "tr": "Telefon çaldığında kitap okuyordum.",
+        "highlight": "was reading"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-06",
+        "en": "I read the book and then I slept.",
+        "tr": "Kitabı okudum, sonra uyudum.",
+        "highlight": "read"
+      },
+      "note": "Kesilen uzun eylem ile ardışık kısa eylemler."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-07",
+        "en": "When I arrived, they left.",
+        "tr": "Ben gelince çıktılar. (Önce ben geldim, sonra onlar çıktı.)",
+        "highlight": "arrived"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-08",
+        "en": "When I arrived, they were leaving.",
+        "tr": "Ben geldiğimde çıkıyorlardı. (Onlar zaten çıkma sürecindeydi.)",
+        "highlight": "were leaving"
+      },
+      "note": "İkisi de art arda olmuş ile ben gelince onlar çıkıyordu."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-09",
+        "en": "It rained yesterday.",
+        "tr": "Dün yağmur yağdı.",
+        "highlight": "rained"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-10",
+        "en": "It was raining when I left home.",
+        "tr": "Evden çıktığımda yağmur yağıyordu.",
+        "highlight": "was raining"
+      },
+      "note": "Olay bilgisi ile o anki arka plan."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-11",
+        "en": "He broke his leg while he was skiing.",
+        "tr": "Kayak yaparken bacağını kırdı.",
+        "highlight": "broke"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-12",
+        "en": "He was skiing all afternoon.",
+        "tr": "Bütün öğleden sonra kayak yapıyordu.",
+        "highlight": "was skiing"
+      },
+      "note": "Kısa kesen olay ile uzun süren eylem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-13",
+        "en": "I lived in Izmir in 2018.",
+        "tr": "2018’de İzmir’de yaşadım.",
+        "highlight": "lived"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-14",
+        "en": "I was living in Izmir when I met her.",
+        "tr": "Onunla tanıştığımda İzmir’de yaşıyordum.",
+        "highlight": "was living"
+      },
+      "note": "Bitmiş dönem bilgisi ile o sırada süren durum."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-15",
+        "en": "We played football and went home.",
+        "tr": "Futbol oynadık ve eve gittik.",
+        "highlight": "played"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-16",
+        "en": "We were playing football when it started to rain.",
+        "tr": "Futbol oynarken yağmur başladı.",
+        "highlight": "were playing"
+      },
+      "note": "Ardışık olaylar ile kesilen eylem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-17",
+        "en": "She called me at six.",
+        "tr": "Altıda beni aradı. (Arama bir kez gerçekleşti.)",
+        "highlight": "called"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-18",
+        "en": "She was calling me at six.",
+        "tr": "Altıda beni arıyordu. (Arama o sırada sürüyordu.)",
+        "highlight": "was calling"
+      },
+      "note": "Anlık olay ile o saatte süren eylem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-19",
+        "en": "I met my wife while I was studying abroad.",
+        "tr": "Yurt dışında okurken eşimle tanıştım.",
+        "highlight": "met"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-20",
+        "en": "I was studying abroad for two years.",
+        "tr": "İki yıl boyunca yurt dışında okuyordum.",
+        "highlight": "was studying"
+      },
+      "note": "Kısa olay ile sürmekte olan dönem."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-21",
+        "en": "He fell asleep during the film.",
+        "tr": "Film sırasında uykuya daldı.",
+        "highlight": "fell"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-22",
+        "en": "He was sleeping during the film.",
+        "tr": "Film sırasında uyuyordu.",
+        "highlight": "was sleeping"
+      },
+      "note": "Uykuya dalma anı ile uyuma süreci."
+    },
+    {
+      "left": {
+        "id": "ex-ps-vs-pastc-23",
+        "en": "While she was cooking, he cleaned the house.",
+        "tr": "O yemek yaparken evi temizledi. (Temizlik bitti.)",
+        "highlight": "cleaned"
+      },
+      "right": {
+        "id": "ex-ps-vs-pastc-24",
+        "en": "While she was cooking, he was cleaning the house.",
+        "tr": "O yemek yaparken o da evi temizliyordu. (İkisi aynı anda sürüyordu.)",
+        "highlight": "was cleaning"
+      },
+      "note": "Biri kısa/bitmiş, diğeri süren ile iki eylem aynı anda sürüyor."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Bütün olay mı, süreç mi?",
+      "body": "Past Simple eylemi tamamlanmış bir bütün olarak verir (I read the book: kitap bitti). Past Continuous eylemin o sırada sürdüğünü gösterir; bitip bitmediği belirsizdir (I was reading the book)."
+    },
+    {
+      "heading": "Arka plan ve olay",
+      "body": "Hikâye anlatırken Past Continuous sahneyi kurar (It was raining, people were hurrying), Past Simple ise olayları ilerletir (Suddenly a car stopped)."
+    },
+    {
+      "heading": "Kesen olay",
+      "body": "Süren eylem Past Continuous, onu bölen kısa olay Past Simple ile anlatılır: I was walking when I saw an accident."
+    },
+    {
+      "heading": "Art arda olaylar",
+      "body": "Art arda gerçekleşen olaylar hep Past Simple ile gelir: She opened the door, looked around and went in."
+    },
+    {
+      "heading": "Aynı anda süren eylemler",
+      "body": "İki eylem aynı anda sürüyorsa ikisi de Past Continuous olabilir: She was cooking while he was cleaning."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Eylem belirli bir anda sürüyor muydu (at 9 p.m., at that time)?",
+      "answer": "Evet → Past Continuous."
+    },
+    {
+      "question": "Eylemi bitmiş, tek bir olay olarak mı söylüyorsun?",
+      "answer": "Evet → Past Simple."
+    },
+    {
+      "question": "Bir eylem sürerken başka bir olay mı araya girdi?",
+      "answer": "Evet → süren eylem Past Continuous, kesen olay Past Simple."
+    },
+    {
+      "question": "Olaylar art arda mı gerçekleşti?",
+      "answer": "Evet → hepsi Past Simple."
+    },
+    {
+      "question": "While ile mi bağlıyorsun?",
+      "answer": "While'dan sonra süren eylem gelir → genellikle Past Continuous."
+    },
+    {
+      "question": "Fiil durum fiili mi (know, like, want, have = sahip olmak)?",
+      "answer": "Evet → genellikle Past Simple; -ing almaz."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "I watched TV when she called.",
+      "right": "I was watching TV when she called.",
+      "explanation": "Telefon çaldığında TV izleme sürüyordu; Past Continuous gerekir."
+    },
+    {
+      "wrong": "While I read, the phone rang.",
+      "right": "While I was reading, the phone rang.",
+      "explanation": "While ile süren eylem Past Continuous olur."
+    },
+    {
+      "wrong": "He was breaking his leg while skiing.",
+      "right": "He broke his leg while he was skiing.",
+      "explanation": "Kırılma kısa olay, kayak süren eylem."
+    },
+    {
+      "wrong": "She was opening the door and was going in.",
+      "right": "She opened the door and went in.",
+      "explanation": "Art arda olaylar Past Simple ile gelir."
+    },
+    {
+      "wrong": "I was knowing the answer.",
+      "right": "I knew the answer.",
+      "explanation": "Know gibi durum fiilleri -ing almaz."
+    },
+    {
+      "wrong": "What did you do at 8 o'clock when I called?",
+      "right": "What were you doing at 8 o'clock when I called?",
+      "explanation": "O anda süren eylem sorulduğunda Past Continuous kullanılır."
+    },
+    {
+      "wrong": "When I was arriving, they left.",
+      "right": "When I arrived, they left.",
+      "explanation": "Gelmek kısa bir olaydır; Past Simple."
+    },
+    {
+      "wrong": "It was rain when I left.",
+      "right": "It was raining when I left.",
+      "explanation": "Past Continuous'ta -ing gerekir."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-ps-vs-pastc-01",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ TV at 9 p.m. last night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "watched"
+        },
+        {
+          "id": "b",
+          "text": "was watching"
+        },
+        {
+          "id": "c",
+          "text": "watch"
+        },
+        {
+          "id": "d",
+          "text": "am watching"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Belirli bir anda (9 p.m.) süren eylem Past Continuous ile anlatılır: I was watching TV.",
+      "optionExplanations": {
+        "a": "Past Simple eylemin bitişini ve bütünlüğünü anlatır; belirli bir anda sürmekte olan eylem için Past Continuous gerekir.",
+        "c": "Watch, Present Simple'dır.",
+        "d": "Am watching, şimdiki zamandır."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "moment"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-02",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ the door and went out.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was opening"
+        },
+        {
+          "id": "b",
+          "text": "opened"
+        },
+        {
+          "id": "c",
+          "text": "opens"
+        },
+        {
+          "id": "d",
+          "text": "is opening"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ardışık, bitmiş olaylar Past Simple ile anlatılır: She opened the door and went out.",
+      "optionExplanations": {
+        "a": "Ardışık olaylar için Past Simple gerekir.",
+        "c": "Opens, Present Simple'dır.",
+        "d": "Is opening, şimdiki zamandır."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "sequence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-03",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ (read) when the phone rang.",
+      "answers": [
+        "was reading"
+      ],
+      "explanation": "Telefon çalarken kitap okuma eylemi sürüyordu; Past Continuous gerekir: was reading.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "read",
+          "explanation": "Telefon çalarken okuma sürüyordu; Past Simple okumanın bitişini anlatırdı."
+        },
+        {
+          "answer": "am reading",
+          "explanation": "Geçmiş zaman gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-04",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "While I ___ (walk), it started to rain.",
+      "answers": [
+        "was walking"
+      ],
+      "explanation": "While ile süren eylem Past Continuous olur: was walking.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "walked",
+          "explanation": "While ile süren eylem Past Continuous olur."
+        },
+        {
+          "answer": "walk",
+          "explanation": "Geçmiş zaman ve -ing gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "while"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-05",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur başladığında yürüyordum.",
+      "answer": [
+        "I",
+        "was",
+        "walking",
+        "when",
+        "it",
+        "started",
+        "to",
+        "rain"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "walked",
+        "were"
+      ],
+      "explanation": "Süren eylem Past Continuous, kesen olay Past Simple.",
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-06",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I watched TV when she called.",
+      "errorSpan": "watched",
+      "answers": [
+        "I was watching TV when she called."
+      ],
+      "explanation": "Aramadan önce başlamış ve süren eylem Past Continuous ister: I was watching TV when she called.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I watch TV when she called.",
+          "explanation": "Geçmiş zaman gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-07",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Telefon çaldığında kitap okuyordum.",
+      "hint": "okumak: read, telefon çalmak: the phone rang",
+      "answers": [
+        "I was reading when the phone rang.",
+        "When the phone rang, I was reading."
+      ],
+      "targetStructure": "Süren eylem + kesen olay",
+      "explanation": "Okuma sürerken telefon çaldı: Past Continuous + Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I read when the phone rang.",
+          "explanation": "Süren eylem için Past Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-08",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He ___ his leg while he ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "broke / was skiing"
+        },
+        {
+          "id": "b",
+          "text": "was breaking / skied"
+        },
+        {
+          "id": "c",
+          "text": "broke / skied"
+        },
+        {
+          "id": "d",
+          "text": "was breaking / was skiing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kesen kısa olay Past Simple (broke), süren eylem Past Continuous (was skiing): He broke his leg while he was skiing.",
+      "optionExplanations": {
+        "b": "Kısa olay Past Simple, süren eylem Past Continuous olmalı; roller ters.",
+        "c": "İkisi de Past Simple olursa süren arka plan kaybolur.",
+        "d": "Kırılma kısa bir olaydır; Past Simple gerekir."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-09",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "It ___ when I left home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rained"
+        },
+        {
+          "id": "b",
+          "text": "was raining"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "has rained"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Evden çıkarken yağmur sürüyordu; arka plan için Past Continuous kullanılır.",
+      "optionExplanations": {
+        "a": "Past Simple yağmurun başlama/bitme bilgisini verirdi; burada çıkış anında süren durum anlatılıyor.",
+        "c": "Rains, Present Simple'dır.",
+        "d": "Has rained, Present Perfect'tir."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "background"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-10",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She was cooking dinner while he ___ (clean) the house. (iki eylem aynı anda sürüyordu)",
+      "answers": [
+        "was cleaning"
+      ],
+      "explanation": "Aynı anda süren iki eylemde ikisi de Past Continuous olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "cleaned",
+          "explanation": "İki eylem aynı anda sürüyordu; ikisi de Past Continuous."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "while"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-11",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ (play) football when it started to rain.",
+      "answers": [
+        "were playing"
+      ],
+      "explanation": "Süren eylem: were playing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "played",
+          "explanation": "Süren eylem için Past Continuous gerekir."
+        },
+        {
+          "answer": "was playing",
+          "explanation": "We ile were."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-12",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ (fall) asleep during the film.",
+      "answers": [
+        "fell"
+      ],
+      "explanation": "Uykuya dalma kısa bir olaydır; Past Simple: fell.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was falling",
+          "explanation": "Uykuya dalma anı kısa bir olay; Past Simple gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "sequence"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-13",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "When I arrived, they ___. (Ben gelmeden önce de çıkıyorlardı.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "left"
+        },
+        {
+          "id": "b",
+          "text": "were leaving"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "had left"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Ben gelince zaten çıkma sürecindeydiler; Past Continuous: were leaving.",
+      "optionExplanations": {
+        "a": "Left, ben geldikten sonra çıktıklarını anlatırdı.",
+        "c": "Leave, Present Simple'dır.",
+        "d": "Had left, bu seviyede işlenmeyen farklı bir zamandır."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "moment"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-14",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "When I arrived, they ___. (Ben gelince çıktılar.)",
+      "options": [
+        {
+          "id": "a",
+          "text": "left"
+        },
+        {
+          "id": "b",
+          "text": "were leaving"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "are leaving"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Önce ben geldim, sonra onlar çıktı: art arda iki olay; Past Simple.",
+      "optionExplanations": {
+        "b": "Were leaving, ben gelmeden önce de çıktıklarını anlatırdı.",
+        "c": "Leave, Present Simple'dır.",
+        "d": "Are leaving, şimdiki zamandır."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "sequence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-15",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I ___ my wife while I ___ abroad.",
+      "options": [
+        {
+          "id": "a",
+          "text": "met / was studying"
+        },
+        {
+          "id": "b",
+          "text": "was meeting / studied"
+        },
+        {
+          "id": "c",
+          "text": "met / studied"
+        },
+        {
+          "id": "d",
+          "text": "was meeting / was studying"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tanışma kısa bir olaydır (Past Simple), okuma süren dönemdir (Past Continuous).",
+      "optionExplanations": {
+        "b": "Roller ters.",
+        "c": "Süren dönem arka plan olarak Past Continuous ister.",
+        "d": "Tanışma kısa olaydır; Past Simple gerekir."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-16",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "While I was walking, it started to rain."
+        },
+        {
+          "id": "b",
+          "text": "While I walked, it was starting to rain."
+        },
+        {
+          "id": "c",
+          "text": "While I was walking, it was starting to rain."
+        },
+        {
+          "id": "d",
+          "text": "While I walk, it started to rain."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süren eylem (while + Past Continuous) ve kesen kısa olay (Past Simple).",
+      "optionExplanations": {
+        "b": "Roller ters.",
+        "c": "Başlamak kısa bir olaydır; Past Simple daha doğaldır.",
+        "d": "Geçmiş zaman gerekir."
+      },
+      "tags": [
+        "ps-vs-pastc",
+        "while"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-17",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I ___ (not / listen) when he explained the rule.",
+      "hint": "O sırada dinlemiyordum.",
+      "answers": [
+        "wasn't listening",
+        "was not listening"
+      ],
+      "explanation": "Dinleme sürmediği için olumsuz Past Continuous: wasn't listening.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "didn't listen",
+          "explanation": "Bu da mümkün bir anlam verir ama burada ‘o sırada dinlemiyordum’ süreci isteniyor."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-18",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ you doing at 8 o'clock last night?",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Belirli anda süren eylem sorusu: What were you doing?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "did",
+          "explanation": "Belirli anda süren eylem için Past Continuous gerekir: What were you doing?"
+        },
+        {
+          "answer": "was",
+          "explanation": "You ile were."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "moment"
+      ],
+      "errorTags": [
+        "question_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-19",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She ___ (wait) for the bus when she saw an accident.",
+      "answers": [
+        "was waiting"
+      ],
+      "explanation": "Süren eylem: was waiting.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "waited",
+          "explanation": "Süren eylem için Past Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-20",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was seeing a film last night, and then I went home.",
+      "errorSpan": "was seeing",
+      "answers": [
+        "I saw a film last night, and then I went home."
+      ],
+      "explanation": "Ardışık, bitmiş olaylar Past Simple ister.",
+      "tags": [
+        "ps-vs-pastc",
+        "sequence"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-21",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "While I read, the phone rang.",
+      "errorSpan": "read",
+      "answers": [
+        "While I was reading, the phone rang."
+      ],
+      "explanation": "While ile süren eylem Past Continuous olur.",
+      "tags": [
+        "ps-vs-pastc",
+        "while"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-22",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He was breaking his leg while he skied.",
+      "errorSpan": "was breaking",
+      "answers": [
+        "He broke his leg while he was skiing."
+      ],
+      "explanation": "Kırılma kısa olay (Past Simple), kayak süren eylem (Past Continuous).",
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-23",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "At 9 p.m. yesterday, I watched TV.",
+      "errorSpan": "watched",
+      "answers": [
+        "At 9 p.m. yesterday, I was watching TV."
+      ],
+      "explanation": "Belirli anda süren eylem Past Continuous ister.",
+      "tags": [
+        "ps-vs-pastc",
+        "moment"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-24",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Telefon çalarken ne yapıyordun?",
+      "answer": [
+        "What",
+        "were",
+        "you",
+        "doing",
+        "when",
+        "the",
+        "phone",
+        "rang"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "did",
+        "was"
+      ],
+      "explanation": "Süren eylem sorusu.",
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "question_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-25",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "O yemek yaparken ben temizlik yapıyordum.",
+      "answer": [
+        "I",
+        "was",
+        "cleaning",
+        "while",
+        "she",
+        "was",
+        "cooking"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "cleaned",
+        "cooked"
+      ],
+      "explanation": "Aynı anda süren iki eylem.",
+      "tags": [
+        "ps-vs-pastc",
+        "while"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-26",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eve geldiğimde yağmur yağıyordu.",
+      "hint": "yağmur yağmak: rain",
+      "answers": [
+        "It was raining when I got home.",
+        "It was raining when I came home.",
+        "When I got home, it was raining.",
+        "When I came home, it was raining."
+      ],
+      "targetStructure": "Arka plan + kesen olay",
+      "explanation": "Yağmur süren arka plandır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It rained when I got home.",
+          "explanation": "Süren arka plan için Past Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "background"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-27",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Uyurken telefon çaldı.",
+      "hint": "uyumak: sleep",
+      "answers": [
+        "The phone rang while I was sleeping.",
+        "While I was sleeping, the phone rang."
+      ],
+      "targetStructure": "Kesen olay + süren eylem",
+      "explanation": "Uyuma süren eylemdir; telefon çalma kesen olay.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The phone rang while I slept.",
+          "explanation": "Süren eylem için Past Continuous gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "interrupted"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ps-vs-pastc-28",
+      "lessonId": "a2-past-simple-vs-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün bütün gün çalıştım.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "I worked all day yesterday.",
+        "I was working all day yesterday."
+      ],
+      "targetStructure": "bitmiş dönem / süreç",
+      "explanation": "Bu cümle ikisiyle de doğru yazılabilir; Past Simple bütünü, Past Continuous süreci vurgular.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I work all day yesterday.",
+          "explanation": "Geçmiş zaman gerekir."
+        }
+      ],
+      "tags": [
+        "ps-vs-pastc",
+        "moment"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ]
+}

@@ -165,4 +165,5 @@ function describeComparison(comparisonId: string, minimums: { pairs: number; qui
 
 describeComparison("a1-present-simple-vs-continuous", { pairs: 10, quiz: 24 });
 describeComparison("a2-present-perfect-vs-past-simple", { pairs: 10, quiz: 24 });
+describeComparison("a2-past-simple-vs-continuous", { pairs: 10, quiz: 24 });
 describeComparison("b1-first-vs-second-conditional", { pairs: 10, quiz: 24 });
