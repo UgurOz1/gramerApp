@@ -1,0 +1,2315 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-conjunctions",
+  "levelId": "a1",
+  "title": "Conjunctions: and, but, or, because, so",
+  "objectives": [
+    "And ile benzer şeyleri bağlamak",
+    "But ile zıt fikirleri bağlamak",
+    "Or ile seçenek sunmak",
+    "Because ile neden, so ile sonuç bildirmek",
+    "Because ve so'yu karıştırmamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Bağlaçlar",
+      "paragraphs": [
+        "Bağlaçlar, sözcükleri ya da cümleleri birbirine bağlar. Bu derste dört temel bağlaç var: and (ve), but (ama), or (ya da) ve because / so (neden–sonuç).",
+        "Bağlaçlar konuşmayı ve yazıyı akıcı yapar: iki kısa cümle yerine tek bir uzun cümle kurarsın."
+      ]
+    },
+    {
+      "id": "and",
+      "type": "rule",
+      "title": "And: ekleme",
+      "paragraphs": [
+        "And benzer şeyleri ya da eylemleri ekler. Üç ya da daha fazla öğede, son öğeden önce and kullanılır; diğerleri virgülle ayrılır."
+      ],
+      "formulas": [
+        {
+          "label": "İki öğe",
+          "pattern": "A and B   →   tea and coffee",
+          "exampleIds": [
+            "ex-conjunctions-01",
+            "ex-conjunctions-02",
+            "ex-conjunctions-23"
+          ]
+        },
+        {
+          "label": "Üç ve fazlası",
+          "pattern": "A, B and C   →   eat, drink and dance",
+          "exampleIds": [
+            "ex-conjunctions-04"
+          ]
+        },
+        {
+          "label": "Eylemler",
+          "pattern": "fiil and fiil",
+          "exampleIds": [
+            "ex-conjunctions-03",
+            "ex-conjunctions-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "but",
+      "type": "rule",
+      "title": "But: zıtlık",
+      "paragraphs": [
+        "But iki zıt fikri bağlar. Cümleleri bağladığında but’tan önce virgül kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Zıtlık",
+          "pattern": "olumlu , but olumsuz   /   kötü , but iyi",
+          "exampleIds": [
+            "ex-conjunctions-05",
+            "ex-conjunctions-06",
+            "ex-conjunctions-07",
+            "ex-conjunctions-08",
+            "ex-conjunctions-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "or",
+      "type": "rule",
+      "title": "Or: seçenek",
+      "paragraphs": [
+        "Or, iki ya da daha fazla seçenek arasında seçim sunar. Sorularda sıklıkla kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Seçenek",
+          "pattern": "A or B   →   tea or coffee",
+          "exampleIds": [
+            "ex-conjunctions-09",
+            "ex-conjunctions-10",
+            "ex-conjunctions-11",
+            "ex-conjunctions-12",
+            "ex-conjunctions-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "because",
+      "type": "rule",
+      "title": "Because: neden",
+      "paragraphs": [
+        "Because, bir şeyin nedenini söyler. Cümlenin sonunda gelen neden cümlesini bağlar. Why sorusunun cevabı because ile başlar."
+      ],
+      "formulas": [
+        {
+          "label": "Neden",
+          "pattern": "sonuç + because + neden",
+          "exampleIds": [
+            "ex-conjunctions-13",
+            "ex-conjunctions-14",
+            "ex-conjunctions-15",
+            "ex-conjunctions-17",
+            "ex-conjunctions-26"
+          ]
+        },
+        {
+          "label": "Cevap",
+          "pattern": "Why …? — Because …",
+          "exampleIds": [
+            "ex-conjunctions-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so",
+      "type": "rule",
+      "title": "So: sonuç",
+      "paragraphs": [
+        "So, bir nedenin sonucunu söyler. Önce neden, sonra sonuç gelir. Because tersi bir sıra ile çalışır: neden bildirir."
+      ],
+      "formulas": [
+        {
+          "label": "Sonuç",
+          "pattern": "neden , so sonuç",
+          "exampleIds": [
+            "ex-conjunctions-18",
+            "ex-conjunctions-19",
+            "ex-conjunctions-20",
+            "ex-conjunctions-21",
+            "ex-conjunctions-22",
+            "ex-conjunctions-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "type": "forms",
+      "title": "Because ve so farkı",
+      "forms": [
+        {
+          "label": "Because",
+          "formula": "sonuç because neden",
+          "exampleIds": [
+            "ex-conjunctions-13",
+            "ex-conjunctions-15"
+          ],
+          "note": "I stay at home because it is raining."
+        },
+        {
+          "label": "So",
+          "formula": "neden, so sonuç",
+          "exampleIds": [
+            "ex-conjunctions-18",
+            "ex-conjunctions-19"
+          ],
+          "note": "It is raining, so I stay at home."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: and, but, or",
+      "exampleIds": [
+        "ex-conjunctions-01",
+        "ex-conjunctions-02",
+        "ex-conjunctions-03",
+        "ex-conjunctions-04",
+        "ex-conjunctions-05",
+        "ex-conjunctions-06",
+        "ex-conjunctions-07",
+        "ex-conjunctions-08",
+        "ex-conjunctions-09",
+        "ex-conjunctions-10",
+        "ex-conjunctions-11",
+        "ex-conjunctions-12",
+        "ex-conjunctions-23",
+        "ex-conjunctions-24",
+        "ex-conjunctions-25",
+        "ex-conjunctions-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: because ve so",
+      "exampleIds": [
+        "ex-conjunctions-13",
+        "ex-conjunctions-14",
+        "ex-conjunctions-15",
+        "ex-conjunctions-16",
+        "ex-conjunctions-17",
+        "ex-conjunctions-18",
+        "ex-conjunctions-19",
+        "ex-conjunctions-20",
+        "ex-conjunctions-21",
+        "ex-conjunctions-22",
+        "ex-conjunctions-26",
+        "ex-conjunctions-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I like tea but coffee.",
+          "right": "I like tea and coffee.",
+          "explanation": "Zıtlık yoksa and."
+        },
+        {
+          "wrong": "I like tea and I don't like coffee.",
+          "right": "I like tea, but I don't like coffee.",
+          "explanation": "Zıtlıkta but."
+        },
+        {
+          "wrong": "Do you want tea and coffee?",
+          "right": "Do you want tea or coffee?",
+          "explanation": "Seçenek için or."
+        },
+        {
+          "wrong": "I stay at home so it is raining.",
+          "right": "I stay at home because it is raining.",
+          "explanation": "Neden için because."
+        },
+        {
+          "wrong": "It is raining because I stay at home.",
+          "right": "It is raining, so I stay at home.",
+          "explanation": "Önce neden, sonra sonuç: so."
+        },
+        {
+          "wrong": "Because I am tired.",
+          "right": "I stay home because I am tired.",
+          "explanation": "Because tek başına cümle olmaz; ana cümleyle kullanılır (cevap hariç)."
+        },
+        {
+          "wrong": "I am tired, because I go to bed early.",
+          "right": "I am tired, so I go to bed early.",
+          "explanation": "Sonuç için so."
+        },
+        {
+          "wrong": "He is rich, and he isn't happy.",
+          "right": "He is rich, but he isn't happy.",
+          "explanation": "Zıtlık: but."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "So ve because",
+          "body": "A2’de neden–sonuç bağlaçları daha ayrıntılı işlenecek.",
+          "lessonId": "a2-so-because"
+        },
+        {
+          "topic": "Present Simple",
+          "body": "Bağlaçla bağlanan her cümlede özne ve fiil uyumunu koru.",
+          "lessonId": "a1-present-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "And ekler, but zıt fikri bağlar, or seçenek sunar.",
+        "Because nedeni, so sonucu bildirir.",
+        "Because ve so aynı cümlede birlikte kullanılmaz.",
+        "İki cümleyi but ya da so ile bağlarken öncesine virgül koy.",
+        "Why sorusuna Because ile cevap verilir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-conjunctions-01",
+        "q-conjunctions-02",
+        "q-conjunctions-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-conjunctions-01",
+      "en": "I like tea and coffee.",
+      "tr": "Çay ve kahve severim.",
+      "highlight": "and",
+      "note": "and: ve (ekleme)"
+    },
+    {
+      "id": "ex-conjunctions-02",
+      "en": "She plays tennis and football.",
+      "tr": "Tenis ve futbol oynar.",
+      "highlight": "and"
+    },
+    {
+      "id": "ex-conjunctions-03",
+      "en": "He opens the door and comes in.",
+      "tr": "Kapıyı açar ve içeri girer.",
+      "highlight": "and"
+    },
+    {
+      "id": "ex-conjunctions-04",
+      "en": "We eat, drink and dance.",
+      "tr": "Yer, içer ve dans ederiz.",
+      "highlight": "eat, drink and dance",
+      "note": "Üçlü sıralamada son öğeden önce and"
+    },
+    {
+      "id": "ex-conjunctions-05",
+      "en": "I like tea, but I don't like coffee.",
+      "tr": "Çayı severim ama kahveyi sevmem.",
+      "highlight": "but",
+      "note": "but: ama (zıtlık)"
+    },
+    {
+      "id": "ex-conjunctions-06",
+      "en": "She is young, but she is very smart.",
+      "tr": "Genç ama çok zeki.",
+      "highlight": "but"
+    },
+    {
+      "id": "ex-conjunctions-07",
+      "en": "He is rich, but he isn't happy.",
+      "tr": "Zengin ama mutlu değil.",
+      "highlight": "but"
+    },
+    {
+      "id": "ex-conjunctions-08",
+      "en": "It is sunny, but it is cold.",
+      "tr": "Güneşli ama soğuk.",
+      "highlight": "but"
+    },
+    {
+      "id": "ex-conjunctions-09",
+      "en": "Do you want tea or coffee?",
+      "tr": "Çay mı kahve mi istersin?",
+      "highlight": "or",
+      "note": "or: ya da / mi"
+    },
+    {
+      "id": "ex-conjunctions-10",
+      "en": "Is she a doctor or a teacher?",
+      "tr": "Doktor mu öğretmen mi?",
+      "highlight": "or"
+    },
+    {
+      "id": "ex-conjunctions-11",
+      "en": "We can go by bus or by train.",
+      "tr": "Otobüsle ya da trenle gidebiliriz.",
+      "highlight": "or"
+    },
+    {
+      "id": "ex-conjunctions-12",
+      "en": "Do you want to eat now or later?",
+      "tr": "Şimdi mi sonra mı yemek istersin?",
+      "highlight": "or"
+    },
+    {
+      "id": "ex-conjunctions-13",
+      "en": "I stay at home because it is raining.",
+      "tr": "Yağmur yağdığı için evde kalırım.",
+      "highlight": "because",
+      "note": "because: çünkü (neden)"
+    },
+    {
+      "id": "ex-conjunctions-14",
+      "en": "She is happy because it is her birthday.",
+      "tr": "Doğum günü olduğu için mutlu.",
+      "highlight": "because"
+    },
+    {
+      "id": "ex-conjunctions-15",
+      "en": "I don't go out because I am tired.",
+      "tr": "Yorgun olduğum için dışarı çıkmam.",
+      "highlight": "because"
+    },
+    {
+      "id": "ex-conjunctions-16",
+      "en": "Why are you late? Because I missed the bus.",
+      "tr": "Neden geç kaldın? Çünkü otobüsü kaçırdım.",
+      "highlight": "Because",
+      "note": "Why sorusuna cevap: Because"
+    },
+    {
+      "id": "ex-conjunctions-17",
+      "en": "He is hungry because he doesn't eat breakfast.",
+      "tr": "Kahvaltı yapmadığı için aç.",
+      "highlight": "because"
+    },
+    {
+      "id": "ex-conjunctions-18",
+      "en": "I am tired, so I go to bed early.",
+      "tr": "Yorgunum, bu yüzden erken yatarım.",
+      "highlight": "so",
+      "note": "so: bu yüzden (sonuç)"
+    },
+    {
+      "id": "ex-conjunctions-19",
+      "en": "It is cold, so I wear a coat.",
+      "tr": "Hava soğuk, bu yüzden mont giyerim.",
+      "highlight": "so"
+    },
+    {
+      "id": "ex-conjunctions-20",
+      "en": "She is ill, so she stays at home.",
+      "tr": "Hasta, bu yüzden evde kalır.",
+      "highlight": "so"
+    },
+    {
+      "id": "ex-conjunctions-21",
+      "en": "I like English, so I study every day.",
+      "tr": "İngilizceyi severim, bu yüzden her gün çalışırım.",
+      "highlight": "so"
+    },
+    {
+      "id": "ex-conjunctions-22",
+      "en": "We are hungry, so we eat lunch.",
+      "tr": "Açız, bu yüzden öğle yemeği yeriz.",
+      "highlight": "so"
+    },
+    {
+      "id": "ex-conjunctions-23",
+      "en": "I have a cat and a dog.",
+      "tr": "Bir kedim ve bir köpeğim var.",
+      "highlight": "and"
+    },
+    {
+      "id": "ex-conjunctions-24",
+      "en": "The film is long, but it is good.",
+      "tr": "Film uzun ama iyi.",
+      "highlight": "but"
+    },
+    {
+      "id": "ex-conjunctions-25",
+      "en": "You can sit here or there.",
+      "tr": "Buraya ya da oraya oturabilirsin.",
+      "highlight": "or"
+    },
+    {
+      "id": "ex-conjunctions-26",
+      "en": "He studies hard because he wants a good job.",
+      "tr": "İyi bir iş istediği için sıkı çalışır.",
+      "highlight": "because"
+    },
+    {
+      "id": "ex-conjunctions-27",
+      "en": "I'm cold, so I close the window.",
+      "tr": "Üşüyorum, bu yüzden pencereyi kapatırım.",
+      "highlight": "so"
+    },
+    {
+      "id": "ex-conjunctions-28",
+      "en": "She likes music and she sings every day.",
+      "tr": "Müziği sever ve her gün şarkı söyler.",
+      "highlight": "and"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-conjunctions-01",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I like tea ___ coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "and"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ekleme: and.",
+      "optionExplanations": {
+        "b": "But zıtlık içindir.",
+        "c": "So sonuç içindir.",
+        "d": "Because neden içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-02",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I like tea ___ I don't like coffee. (ama)",
+      "answers": [
+        "but"
+      ],
+      "explanation": "Zıtlık: but.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "and",
+          "explanation": "And zıtlık bildirmez."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-03",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çay ve kahve severim.",
+      "answer": [
+        "I",
+        "like",
+        "tea",
+        "and",
+        "coffee"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "but",
+        "or"
+      ],
+      "explanation": "and",
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-04",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I like tea but coffee.",
+      "errorSpan": "but",
+      "answers": [
+        "I like tea and coffee."
+      ],
+      "explanation": "Zıtlık yoksa and.",
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-05",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çay ve kahve severim.",
+      "hint": "sevmek: like",
+      "answers": [
+        "I like tea and coffee."
+      ],
+      "targetStructure": "and",
+      "explanation": "Ekleme.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I like tea but coffee.",
+          "explanation": "Zıtlık yok."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-06",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Do you want tea ___ coffee?",
+      "options": [
+        {
+          "id": "a",
+          "text": "or"
+        },
+        {
+          "id": "b",
+          "text": "and"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Seçenek: or.",
+      "optionExplanations": {
+        "b": "And ekleme içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "So sonuç içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-07",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is young, ___ she is very smart.",
+      "options": [
+        {
+          "id": "a",
+          "text": "but"
+        },
+        {
+          "id": "b",
+          "text": "and"
+        },
+        {
+          "id": "c",
+          "text": "or"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zıtlık: but.",
+      "optionExplanations": {
+        "b": "And zıtlık bildirmez.",
+        "c": "Or seçenek içindir.",
+        "d": "So sonuç içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-08",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I stay at home ___ it is raining.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-09",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I am tired, ___ I go to bed early.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: so.",
+      "optionExplanations": {
+        "b": "Because neden içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-10",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Is she a doctor ___ a teacher? (mi)",
+      "answers": [
+        "or"
+      ],
+      "explanation": "Seçenek: or.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "and",
+          "explanation": "And ekleme içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-11",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is happy ___ it is her birthday. (çünkü)",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden: because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-12",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It is cold, ___ I wear a coat. (bu yüzden)",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-13",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She plays tennis ___ football.",
+      "options": [
+        {
+          "id": "a",
+          "text": "and"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "so"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ekleme: and.",
+      "optionExplanations": {
+        "b": "But zıtlık içindir.",
+        "c": "So sonuç içindir.",
+        "d": "Because neden içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-14",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is rich, ___ he isn't happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "but"
+        },
+        {
+          "id": "b",
+          "text": "and"
+        },
+        {
+          "id": "c",
+          "text": "or"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zıtlık: but.",
+      "optionExplanations": {
+        "b": "And zıtlık bildirmez.",
+        "c": "Or seçenek içindir.",
+        "d": "So sonuç içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-15",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We can go by bus ___ by train.",
+      "options": [
+        {
+          "id": "a",
+          "text": "or"
+        },
+        {
+          "id": "b",
+          "text": "and"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "because"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Seçenek: or.",
+      "optionExplanations": {
+        "b": "Seçenek sunulur.",
+        "c": "But zıtlık içindir.",
+        "d": "Because neden içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-16",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Why are you late? ___ I missed the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because"
+        },
+        {
+          "id": "b",
+          "text": "So"
+        },
+        {
+          "id": "c",
+          "text": "But"
+        },
+        {
+          "id": "d",
+          "text": "Or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Why cevabı: Because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-17",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She is ill, ___ she stays at home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "so"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: so.",
+      "optionExplanations": {
+        "b": "Because neden içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-18",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I don't go out ___ I am tired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because"
+        },
+        {
+          "id": "b",
+          "text": "so"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "or"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "But zıtlık içindir.",
+        "d": "Or seçenek içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-19",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film is long, ___ it is good.",
+      "answers": [
+        "but"
+      ],
+      "explanation": "Zıtlık: but.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "Sonuç değil zıtlık."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-20",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We eat, drink ___ dance.",
+      "answers": [
+        "and"
+      ],
+      "explanation": "Son öğeden önce and.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "or",
+          "explanation": "Ekleme için and."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "and"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-21",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He studies hard ___ he wants a good job.",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden: because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-22",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We are hungry, ___ we eat lunch.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-23",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Do you want to eat now ___ later?",
+      "answers": [
+        "or"
+      ],
+      "explanation": "Seçenek: or.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "and",
+          "explanation": "Seçenek sunulur."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-24",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I like English, ___ I study every day.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-25",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It is sunny, ___ it is cold.",
+      "answers": [
+        "but"
+      ],
+      "explanation": "Zıtlık: but.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "Sonuç değil zıtlık."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-26",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I like tea and I don't like coffee.",
+      "errorSpan": "and",
+      "answers": [
+        "I like tea, but I don't like coffee.",
+        "I like tea but I don't like coffee."
+      ],
+      "explanation": "Zıtlıkta but.",
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-27",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you want tea and coffee?",
+      "errorSpan": "and",
+      "answers": [
+        "Do you want tea or coffee?"
+      ],
+      "explanation": "Seçenek için or.",
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-28",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I stay at home so it is raining.",
+      "errorSpan": "so",
+      "answers": [
+        "I stay at home because it is raining."
+      ],
+      "explanation": "Neden için because.",
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-29",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am tired, because I go to bed early.",
+      "errorSpan": "because",
+      "answers": [
+        "I am tired, so I go to bed early.",
+        "I am tired so I go to bed early."
+      ],
+      "explanation": "Sonuç için so.",
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-30",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is rich, and he isn't happy.",
+      "errorSpan": "and",
+      "answers": [
+        "He is rich, but he isn't happy.",
+        "He is rich but he isn't happy."
+      ],
+      "explanation": "Zıtlık: but.",
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-31",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çayı severim ama kahveyi sevmem.",
+      "answer": [
+        "I",
+        "like",
+        "tea",
+        "but",
+        "I",
+        "don't",
+        "like",
+        "coffee"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "and",
+        "so"
+      ],
+      "explanation": "but",
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-32",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur yağdığı için evde kalırım.",
+      "answer": [
+        "I",
+        "stay",
+        "at",
+        "home",
+        "because",
+        "it",
+        "is",
+        "raining"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "so",
+        "but"
+      ],
+      "explanation": "because",
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-33",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hava soğuk, bu yüzden mont giyerim.",
+      "answer": [
+        "It",
+        "is",
+        "cold",
+        "so",
+        "I",
+        "wear",
+        "a",
+        "coat"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "because",
+        "but"
+      ],
+      "explanation": "so",
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-34",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çay mı kahve mi istersin?",
+      "answer": [
+        "Do",
+        "you",
+        "want",
+        "tea",
+        "or",
+        "coffee"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "and",
+        "but"
+      ],
+      "explanation": "or",
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-35",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çay mı kahve mi istersin?",
+      "hint": "istemek: want",
+      "answers": [
+        "Do you want tea or coffee?"
+      ],
+      "targetStructure": "or",
+      "explanation": "Seçenek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you want tea and coffee?",
+          "explanation": "Seçenek için or."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-36",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Genç ama çok zeki.",
+      "hint": "zeki: smart",
+      "answers": [
+        "She is young but she is very smart.",
+        "She is young, but she is very smart.",
+        "He is young but he is very smart.",
+        "He is young, but he is very smart."
+      ],
+      "targetStructure": "but",
+      "explanation": "Zıtlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is young and she is very smart.",
+          "explanation": "Zıtlık için but."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "but"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-37",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgunum, bu yüzden erken yatarım.",
+      "hint": "yatmak: go to bed",
+      "answers": [
+        "I am tired, so I go to bed early.",
+        "I am tired so I go to bed early.",
+        "I'm tired, so I go to bed early.",
+        "I'm tired so I go to bed early."
+      ],
+      "targetStructure": "so",
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am tired because I go to bed early.",
+          "explanation": "Sonuç için so."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-38",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is raining, so I stay at home."
+        },
+        {
+          "id": "b",
+          "text": "It is raining, because I stay at home."
+        },
+        {
+          "id": "c",
+          "text": "I stay at home, so it is raining."
+        },
+        {
+          "id": "d",
+          "text": "It is raining so because I stay at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden, so sonuç.",
+      "optionExplanations": {
+        "b": "Sıra yanlış.",
+        "c": "Neden ve sonuç ters.",
+        "d": "Aynı anda kullanılmaz."
+      },
+      "tags": [
+        "conjunctions",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-39",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I stay at home because it is raining."
+        },
+        {
+          "id": "b",
+          "text": "I stay at home so it is raining."
+        },
+        {
+          "id": "c",
+          "text": "I stay at home but it is raining."
+        },
+        {
+          "id": "d",
+          "text": "I stay at home or it is raining."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: because.",
+      "optionExplanations": {
+        "b": "So sonuç içindir.",
+        "c": "Anlam bozulur.",
+        "d": "Anlam bozulur."
+      },
+      "tags": [
+        "conjunctions",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-40",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is she a doctor or a teacher?"
+        },
+        {
+          "id": "b",
+          "text": "Is she a doctor and a teacher?"
+        },
+        {
+          "id": "c",
+          "text": "Is she a doctor but a teacher?"
+        },
+        {
+          "id": "d",
+          "text": "Is she a doctor so a teacher?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Seçenek: or.",
+      "optionExplanations": {
+        "b": "Seçenek sorulur.",
+        "c": "But zıtlık içindir.",
+        "d": "So sonuç içindir."
+      },
+      "tags": [
+        "conjunctions",
+        "or"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-41",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "It is raining, ___ I stay at home.",
+      "answers": [
+        "so"
+      ],
+      "explanation": "Neden–sonuç: so.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "because",
+          "explanation": "Because neden içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-42",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I stay at home ___ it is raining.",
+      "answers": [
+        "because"
+      ],
+      "explanation": "Neden: because.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "so",
+          "explanation": "So sonuç içindir."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-43",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doğum günü olduğu için mutlu.",
+      "hint": "doğum günü: birthday",
+      "answers": [
+        "She is happy because it is her birthday.",
+        "He is happy because it is his birthday."
+      ],
+      "targetStructure": "because",
+      "explanation": "Neden.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is happy so it is her birthday.",
+          "explanation": "Neden için because."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "because"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-conjunctions-44",
+      "lessonId": "a1-conjunctions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hasta, bu yüzden evde kalır.",
+      "hint": "hasta: ill",
+      "answers": [
+        "She is ill, so she stays at home.",
+        "She is ill so she stays at home.",
+        "He is ill, so he stays at home.",
+        "He is ill so he stays at home."
+      ],
+      "targetStructure": "so",
+      "explanation": "Sonuç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She is ill because she stays at home.",
+          "explanation": "Sonuç için so."
+        }
+      ],
+      "tags": [
+        "conjunctions",
+        "so"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-conjunctions",
+    "title": "Conjunctions: Konu sonu sınavı",
+    "description": "And, but, or, because ve so.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-conjunctions-exam-01",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She likes music ___ she sings every day.",
+        "options": [
+          {
+            "id": "a",
+            "text": "and"
+          },
+          {
+            "id": "b",
+            "text": "but"
+          },
+          {
+            "id": "c",
+            "text": "or"
+          },
+          {
+            "id": "d",
+            "text": "because"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ekleme: and.",
+        "optionExplanations": {
+          "b": "But zıtlık içindir.",
+          "c": "Or seçenek içindir.",
+          "d": "Because neden içindir."
+        },
+        "tags": [
+          "conjunctions",
+          "and"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-02",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "She plays tennis ___ football.",
+        "answers": [
+          "and"
+        ],
+        "explanation": "Ekleme.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "but",
+            "explanation": "Zıtlık yok."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "and"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-03",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bir kedim ve bir köpeğim var.",
+        "answer": [
+          "I",
+          "have",
+          "a",
+          "cat",
+          "and",
+          "a",
+          "dog"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "but",
+          "or"
+        ],
+        "explanation": "and",
+        "tags": [
+          "conjunctions",
+          "and"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-04",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Do you want milk and juice?",
+        "errorSpan": "and",
+        "answers": [
+          "Do you want milk or juice?"
+        ],
+        "explanation": "Seçenek: or.",
+        "tags": [
+          "conjunctions",
+          "or"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-05",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Doktor mu öğretmen mi?",
+        "hint": "doktor: doctor, öğretmen: teacher",
+        "answers": [
+          "Is she a doctor or a teacher?",
+          "Is he a doctor or a teacher?"
+        ],
+        "targetStructure": "or",
+        "explanation": "Seçenek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Is she a doctor and a teacher?",
+            "explanation": "Seçenek için or."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "or"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-06",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He is tired, ___ he does not go to bed.",
+        "options": [
+          {
+            "id": "a",
+            "text": "but"
+          },
+          {
+            "id": "b",
+            "text": "and"
+          },
+          {
+            "id": "c",
+            "text": "or"
+          },
+          {
+            "id": "d",
+            "text": "so"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zıtlık: but.",
+        "optionExplanations": {
+          "b": "And zıtlık bildirmez.",
+          "c": "Or seçenek içindir.",
+          "d": "So sonuç içindir."
+        },
+        "tags": [
+          "conjunctions",
+          "but"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-07",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I don't go out ___ I am tired.",
+        "answers": [
+          "because"
+        ],
+        "explanation": "Neden.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "so",
+            "explanation": "So sonuç içindir."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-08",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yorgunum, bu yüzden erken yatarım.",
+        "answer": [
+          "I",
+          "am",
+          "tired",
+          "so",
+          "I",
+          "go",
+          "to",
+          "bed",
+          "early"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "because",
+          "but"
+        ],
+        "explanation": "so",
+        "tags": [
+          "conjunctions",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-09",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We stay inside so it is cold.",
+        "errorSpan": "so",
+        "answers": [
+          "We stay inside because it is cold."
+        ],
+        "explanation": "Neden için because.",
+        "tags": [
+          "conjunctions",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-10",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Neden geç kaldın? Çünkü otobüsü kaçırdım.",
+        "hint": "kaçırmak: miss",
+        "answers": [
+          "Why are you late? Because I missed the bus."
+        ],
+        "targetStructure": "Why … Because …",
+        "explanation": "Neden–cevap.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Why are you late? So I missed the bus.",
+            "explanation": "Cevap because ile başlar."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-11",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "It is cold, ___ I wear a coat.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so"
+          },
+          {
+            "id": "b",
+            "text": "because"
+          },
+          {
+            "id": "c",
+            "text": "but"
+          },
+          {
+            "id": "d",
+            "text": "or"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sonuç: so.",
+        "optionExplanations": {
+          "b": "Because neden içindir.",
+          "c": "But zıtlık içindir.",
+          "d": "Or seçenek içindir."
+        },
+        "tags": [
+          "conjunctions",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-12",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "You can sit here ___ there.",
+        "answers": [
+          "or"
+        ],
+        "explanation": "Seçenek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "and",
+            "explanation": "Seçenek sunulur."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "or"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-13",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "It is raining because I stay at home.",
+        "errorSpan": "because",
+        "answers": [
+          "It is raining, so I stay at home.",
+          "It is raining so I stay at home."
+        ],
+        "explanation": "Önce neden, sonra sonuç: so.",
+        "tags": [
+          "conjunctions",
+          "compare"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-14",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I like English, so I study every day."
+          },
+          {
+            "id": "b",
+            "text": "I like English, because I study every day."
+          },
+          {
+            "id": "c",
+            "text": "I like English, but I study every day."
+          },
+          {
+            "id": "d",
+            "text": "I like English, or I study every day."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sonuç: so.",
+        "optionExplanations": {
+          "b": "Neden ters.",
+          "c": "Zıtlık yok.",
+          "d": "Seçenek yok."
+        },
+        "tags": [
+          "conjunctions",
+          "so"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-15",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "She goes to bed early ___ she is very tired.",
+        "answers": [
+          "because"
+        ],
+        "explanation": "Neden.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "so",
+            "explanation": "So sonuç içindir."
+          }
+        ],
+        "tags": [
+          "conjunctions",
+          "because"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-conjunctions-exam-16",
+        "lessonId": "a1-conjunctions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Film uzun ama iyi.",
+        "answer": [
+          "The",
+          "film",
+          "is",
+          "long",
+          "but",
+          "it",
+          "is",
+          "good"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "and",
+          "so"
+        ],
+        "explanation": "but",
+        "tags": [
+          "conjunctions",
+          "but"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
