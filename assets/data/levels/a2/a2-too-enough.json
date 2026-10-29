@@ -1,0 +1,2313 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-too-enough",
+  "levelId": "a2",
+  "title": "Too & Enough",
+  "objectives": [
+    "Too ile fazlalığı, enough ile yeterliliği anlatmak",
+    "Too many / too much ve enough'ı isimlerle doğru kullanmak",
+    "Sıfat + enough ve enough + isim sırasını bilmek",
+    "Too / enough + to + fiil yapısını kurmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Too ve enough",
+      "paragraphs": [
+        "Too, “gereğinden fazla, istenenden çok” demektir ve genellikle olumsuz bir anlam taşır. Enough ise “yeterli” demektir ve gereksinimi karşılar. Türkçede ikisi de “çok” ve “yeterince” ile karşılanır, bu yüzden karıştırılır.",
+        "Kısaca: too + sıfat = fazla (sorun var); sıfat + enough = yeterli (sorun yok). Enough sıfattan sonra, isimden önce gelir."
+      ]
+    },
+    {
+      "id": "too",
+      "type": "rule",
+      "title": "Too: fazlalık",
+      "paragraphs": [
+        "Too, sıfatın ve zarfın önüne gelir. Fazlalığın sonucunu anlatmak için to + yalın fiil, kime göre olduğunu söylemek için for + kişi eklenir."
+      ],
+      "formulas": [
+        {
+          "label": "Too + sıfat",
+          "pattern": "too + sıfat   →   too hot",
+          "exampleIds": [
+            "ex-too-enough-01",
+            "ex-too-enough-02",
+            "ex-too-enough-05",
+            "ex-too-enough-07"
+          ]
+        },
+        {
+          "label": "Too + sıfat + to + fiil",
+          "pattern": "too + sıfat + to + yalın fiil",
+          "exampleIds": [
+            "ex-too-enough-03",
+            "ex-too-enough-04",
+            "ex-too-enough-06",
+            "ex-too-enough-28"
+          ]
+        },
+        {
+          "label": "Too + sıfat + for + kişi",
+          "pattern": "too + sıfat + for + kişi",
+          "exampleIds": [
+            "ex-too-enough-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toomany",
+      "type": "rule",
+      "title": "Too many / too much",
+      "paragraphs": [
+        "İsimlerle too many (çoğul sayılabilen) ve too much (sayılamayan) kullanılır. Fiillerden sonra de too much gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Too many",
+          "pattern": "too many + çoğul isim",
+          "exampleIds": [
+            "ex-too-enough-09",
+            "ex-too-enough-12"
+          ]
+        },
+        {
+          "label": "Too much",
+          "pattern": "too much + sayılamayan isim",
+          "exampleIds": [
+            "ex-too-enough-10",
+            "ex-too-enough-11"
+          ]
+        },
+        {
+          "label": "Fiil + too much",
+          "pattern": "fiil + too much",
+          "exampleIds": [
+            "ex-too-enough-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enough",
+      "type": "rule",
+      "title": "Enough: yeterlilik",
+      "paragraphs": [
+        "Enough sıfattan ve zarftan sonra gelir, isimden önce gelir. Ardından to + yalın fiil ya da for + kişi eklenebilir."
+      ],
+      "formulas": [
+        {
+          "label": "Sıfat + enough",
+          "pattern": "sıfat + enough   →   warm enough",
+          "exampleIds": [
+            "ex-too-enough-14",
+            "ex-too-enough-15",
+            "ex-too-enough-17"
+          ]
+        },
+        {
+          "label": "Sıfat + enough + to + fiil",
+          "pattern": "sıfat + enough + to + yalın fiil",
+          "exampleIds": [
+            "ex-too-enough-14",
+            "ex-too-enough-15",
+            "ex-too-enough-26"
+          ]
+        },
+        {
+          "label": "Sıfat + enough + for",
+          "pattern": "sıfat + enough + for + kişi",
+          "exampleIds": [
+            "ex-too-enough-16"
+          ]
+        },
+        {
+          "label": "Enough + isim",
+          "pattern": "enough + isim   →   enough money",
+          "exampleIds": [
+            "ex-too-enough-18",
+            "ex-too-enough-19",
+            "ex-too-enough-20",
+            "ex-too-enough-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neg",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Enough olumsuz ve soru cümlelerinde de aynı yerdedir. Not + sıfat + enough, “yeterince … değil” demektir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "not + sıfat + enough   /   not enough + isim",
+          "exampleIds": [
+            "ex-too-enough-22",
+            "ex-too-enough-23",
+            "ex-too-enough-21"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Is / Are + özne + sıfat + enough?   Is there enough + isim?",
+          "exampleIds": [
+            "ex-too-enough-27",
+            "ex-too-enough-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "type": "forms",
+      "title": "Too ve not enough: aynı sonuca farklı yol",
+      "forms": [
+        {
+          "label": "too + sıfat",
+          "formula": "It's too expensive.",
+          "exampleIds": [
+            "ex-too-enough-24"
+          ],
+          "note": "Fiyat gereğinden fazla."
+        },
+        {
+          "label": "not enough + isim",
+          "formula": "I don't have enough money.",
+          "exampleIds": [
+            "ex-too-enough-25"
+          ],
+          "note": "Para yetmiyor."
+        },
+        {
+          "label": "not + sıfat + enough",
+          "formula": "He isn't strong enough.",
+          "exampleIds": [
+            "ex-too-enough-26"
+          ],
+          "note": "Güç yetmiyor."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: too",
+      "exampleIds": [
+        "ex-too-enough-01",
+        "ex-too-enough-02",
+        "ex-too-enough-03",
+        "ex-too-enough-04",
+        "ex-too-enough-05",
+        "ex-too-enough-06",
+        "ex-too-enough-07",
+        "ex-too-enough-08",
+        "ex-too-enough-09",
+        "ex-too-enough-10",
+        "ex-too-enough-11",
+        "ex-too-enough-12",
+        "ex-too-enough-13",
+        "ex-too-enough-24",
+        "ex-too-enough-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: enough",
+      "exampleIds": [
+        "ex-too-enough-14",
+        "ex-too-enough-15",
+        "ex-too-enough-16",
+        "ex-too-enough-17",
+        "ex-too-enough-18",
+        "ex-too-enough-19",
+        "ex-too-enough-20",
+        "ex-too-enough-21",
+        "ex-too-enough-22",
+        "ex-too-enough-23",
+        "ex-too-enough-25",
+        "ex-too-enough-26",
+        "ex-too-enough-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "It is enough hot.",
+          "right": "It is hot enough.",
+          "explanation": "Enough sıfattan sonra gelir."
+        },
+        {
+          "wrong": "I have money enough.",
+          "right": "I have enough money.",
+          "explanation": "Enough isimden önce gelir."
+        },
+        {
+          "wrong": "He is too young for drive.",
+          "right": "He is too young to drive.",
+          "explanation": "To + yalın fiil gerekir."
+        },
+        {
+          "wrong": "There are too much people.",
+          "right": "There are too many people.",
+          "explanation": "People sayılabilir: too many."
+        },
+        {
+          "wrong": "I have too many work.",
+          "right": "I have too much work.",
+          "explanation": "Work sayılamaz: too much."
+        },
+        {
+          "wrong": "The soup is too much salty.",
+          "right": "The soup is too salty.",
+          "explanation": "Sıfatın önünde too, much değil."
+        },
+        {
+          "wrong": "She is enough old to drive.",
+          "right": "She is old enough to drive.",
+          "explanation": "Enough sıfattan sonra."
+        },
+        {
+          "wrong": "I'm very tired to go out.",
+          "right": "I'm too tired to go out.",
+          "explanation": "Fazlalık ve sonuç için too + to."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Very ve too",
+          "body": "Very yalnızca derece artırır (very hot = çok sıcak); too sorun yaratan fazlalıktır.",
+          "lessonId": "a2-adjectives-adverbs"
+        },
+        {
+          "topic": "Miktar sözcükleri",
+          "body": "Too many / too much ile many, much bağlantılıdır.",
+          "lessonId": "a2-quantifiers"
+        },
+        {
+          "topic": "Karşılaştırma",
+          "body": "Enough ve as … as de yeterlilik anlatır.",
+          "lessonId": "a2-as-as"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Too + sıfat; sıfat + enough; enough + isim.",
+        "Too many sayılabilen, too much sayılamayan isimle.",
+        "Too ve enough'tan sonra to + yalın fiil gelebilir.",
+        "Very ile too aynı değildir: very hot = çok sıcak; too hot = sorun olacak kadar.",
+        "Enough isimden önce, sıfattan sonra gelir."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-too-enough-01",
+        "q-too-enough-02",
+        "q-too-enough-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-too-enough-01",
+      "en": "It is too hot today.",
+      "tr": "Bugün hava çok sıcak (fazla).",
+      "highlight": "too hot",
+      "note": "too + sıfat: fazla, istenmeyen"
+    },
+    {
+      "id": "ex-too-enough-02",
+      "en": "This bag is too heavy.",
+      "tr": "Bu çanta çok ağır (taşınamaz).",
+      "highlight": "too heavy"
+    },
+    {
+      "id": "ex-too-enough-03",
+      "en": "He is too young to drive.",
+      "tr": "Araba kullanmak için çok genç.",
+      "highlight": "too young to drive",
+      "note": "too + sıfat + to + fiil"
+    },
+    {
+      "id": "ex-too-enough-04",
+      "en": "She is too tired to study.",
+      "tr": "Ders çalışmak için çok yorgun.",
+      "highlight": "too tired to study"
+    },
+    {
+      "id": "ex-too-enough-05",
+      "en": "The soup is too salty.",
+      "tr": "Çorba çok tuzlu.",
+      "highlight": "too salty"
+    },
+    {
+      "id": "ex-too-enough-06",
+      "en": "It's too late to call him.",
+      "tr": "Onu aramak için çok geç.",
+      "highlight": "too late to call"
+    },
+    {
+      "id": "ex-too-enough-07",
+      "en": "The film was too long.",
+      "tr": "Film çok uzundu.",
+      "highlight": "too long"
+    },
+    {
+      "id": "ex-too-enough-08",
+      "en": "This coffee is too cold for me.",
+      "tr": "Bu kahve benim için çok soğuk.",
+      "highlight": "too cold for me",
+      "note": "for + kişi"
+    },
+    {
+      "id": "ex-too-enough-09",
+      "en": "There are too many people here.",
+      "tr": "Burada çok fazla insan var.",
+      "highlight": "too many",
+      "note": "too many + çoğul"
+    },
+    {
+      "id": "ex-too-enough-10",
+      "en": "There is too much noise.",
+      "tr": "Çok fazla gürültü var.",
+      "highlight": "too much",
+      "note": "too much + sayılamayan"
+    },
+    {
+      "id": "ex-too-enough-11",
+      "en": "I have too much work.",
+      "tr": "Çok fazla işim var.",
+      "highlight": "too much"
+    },
+    {
+      "id": "ex-too-enough-12",
+      "en": "You eat too many sweets.",
+      "tr": "Çok fazla tatlı yiyorsun.",
+      "highlight": "too many"
+    },
+    {
+      "id": "ex-too-enough-13",
+      "en": "She talks too much.",
+      "tr": "Çok fazla konuşuyor.",
+      "highlight": "too much",
+      "note": "fiil + too much"
+    },
+    {
+      "id": "ex-too-enough-14",
+      "en": "It is hot enough to swim.",
+      "tr": "Yüzmek için yeterince sıcak.",
+      "highlight": "hot enough to swim",
+      "note": "sıfat + enough + to + fiil"
+    },
+    {
+      "id": "ex-too-enough-15",
+      "en": "He is old enough to drive.",
+      "tr": "Araba kullanmak için yeterince büyük.",
+      "highlight": "old enough to drive"
+    },
+    {
+      "id": "ex-too-enough-16",
+      "en": "The room is big enough for us.",
+      "tr": "Oda bizim için yeterince büyük.",
+      "highlight": "big enough for us"
+    },
+    {
+      "id": "ex-too-enough-17",
+      "en": "She is tall enough to reach it.",
+      "tr": "Ona uzanacak kadar uzun.",
+      "highlight": "tall enough"
+    },
+    {
+      "id": "ex-too-enough-18",
+      "en": "I have enough money.",
+      "tr": "Yeterli param var.",
+      "highlight": "enough money",
+      "note": "enough + isim"
+    },
+    {
+      "id": "ex-too-enough-19",
+      "en": "We have enough time.",
+      "tr": "Yeterli zamanımız var.",
+      "highlight": "enough time"
+    },
+    {
+      "id": "ex-too-enough-20",
+      "en": "Is there enough food?",
+      "tr": "Yeterli yemek var mı?",
+      "highlight": "enough food"
+    },
+    {
+      "id": "ex-too-enough-21",
+      "en": "There aren't enough chairs.",
+      "tr": "Yeterli sandalye yok.",
+      "highlight": "enough chairs"
+    },
+    {
+      "id": "ex-too-enough-22",
+      "en": "She isn't old enough to drive.",
+      "tr": "Araba kullanacak kadar büyük değil.",
+      "highlight": "old enough",
+      "note": "Olumsuz: not + sıfat + enough"
+    },
+    {
+      "id": "ex-too-enough-23",
+      "en": "The water isn't warm enough.",
+      "tr": "Su yeterince sıcak değil.",
+      "highlight": "warm enough"
+    },
+    {
+      "id": "ex-too-enough-24",
+      "en": "I can't buy it. It's too expensive.",
+      "tr": "Onu alamam. Çok pahalı.",
+      "highlight": "too expensive"
+    },
+    {
+      "id": "ex-too-enough-25",
+      "en": "I can't buy it. I don't have enough money.",
+      "tr": "Onu alamam. Yeterli param yok.",
+      "highlight": "enough money"
+    },
+    {
+      "id": "ex-too-enough-26",
+      "en": "He isn't strong enough to lift it.",
+      "tr": "Onu kaldıracak kadar güçlü değil.",
+      "highlight": "strong enough"
+    },
+    {
+      "id": "ex-too-enough-27",
+      "en": "Is the room warm enough?",
+      "tr": "Oda yeterince sıcak mı?",
+      "highlight": "warm enough"
+    },
+    {
+      "id": "ex-too-enough-28",
+      "en": "I'm too tired to go out.",
+      "tr": "Dışarı çıkmak için çok yorgunum.",
+      "highlight": "too tired"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-too-enough-01",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It is ___ hot today. (gereğinden fazla)",
+      "options": [
+        {
+          "id": "a",
+          "text": "too"
+        },
+        {
+          "id": "b",
+          "text": "enough"
+        },
+        {
+          "id": "c",
+          "text": "very much"
+        },
+        {
+          "id": "d",
+          "text": "so many"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Too + sıfat.",
+      "optionExplanations": {
+        "b": "Enough sıfattan sonra gelir.",
+        "c": "Very much sıfatla kullanılmaz.",
+        "d": "Many isimle."
+      },
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-02",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "This bag is ___ heavy. (fazla)",
+      "answers": [
+        "too"
+      ],
+      "explanation": "Too + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "enough",
+          "explanation": "Enough sıfattan sonra gelir."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-03",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu çanta çok ağır.",
+      "answer": [
+        "This",
+        "bag",
+        "is",
+        "too",
+        "heavy"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "enough",
+        "many"
+      ],
+      "explanation": "too + sıfat",
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-04",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It is enough hot.",
+      "errorSpan": "enough hot",
+      "answers": [
+        "It is hot enough."
+      ],
+      "explanation": "Enough sıfattan sonra gelir.",
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-05",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu çanta çok ağır.",
+      "hint": "ağır: heavy",
+      "answers": [
+        "This bag is too heavy."
+      ],
+      "targetStructure": "too + sıfat",
+      "explanation": "Fazlalık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "This bag is enough heavy.",
+          "explanation": "Too + sıfat."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-06",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The room is big ___ for us.",
+      "options": [
+        {
+          "id": "a",
+          "text": "enough"
+        },
+        {
+          "id": "b",
+          "text": "too"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıfat + enough.",
+      "optionExplanations": {
+        "b": "Too sıfattan önce gelir.",
+        "c": "Many isimle.",
+        "d": "Much isimle."
+      },
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-07",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ money. (yeterli)",
+      "options": [
+        {
+          "id": "a",
+          "text": "enough"
+        },
+        {
+          "id": "b",
+          "text": "too"
+        },
+        {
+          "id": "c",
+          "text": "very"
+        },
+        {
+          "id": "d",
+          "text": "a lot"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Enough + isim.",
+      "optionExplanations": {
+        "b": "Too sıfatın önüne gelir.",
+        "c": "Very sıfatla.",
+        "d": "A lot of kalıbı gerekir."
+      },
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-08",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There are too ___ people here.",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "enough"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "People sayılabilir.",
+      "optionExplanations": {
+        "b": "Much sayılamayanla.",
+        "c": "Enough too'dan sonra gelmez.",
+        "d": "A little sayılamayanla."
+      },
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-09",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There is too ___ noise. (fazla)",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Noise sayılamaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Many sayılabilenle."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-10",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We have ___ time. (yeterli)",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Enough + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too isimle too many / too much."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-11",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It is hot ___ to swim. (yeterince)",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Sıfat + enough.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too sıfatın önüne gelir."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-12",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He is ___ young to drive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "too"
+        },
+        {
+          "id": "b",
+          "text": "enough"
+        },
+        {
+          "id": "c",
+          "text": "very much"
+        },
+        {
+          "id": "d",
+          "text": "so many"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Too + sıfat + to.",
+      "optionExplanations": {
+        "b": "Enough sıfattan sonra.",
+        "c": "Very much sıfatla kullanılmaz.",
+        "d": "Many isimle."
+      },
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-13",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She is old ___ to drive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "enough"
+        },
+        {
+          "id": "b",
+          "text": "too"
+        },
+        {
+          "id": "c",
+          "text": "very"
+        },
+        {
+          "id": "d",
+          "text": "many"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıfat + enough + to.",
+      "optionExplanations": {
+        "b": "Too sıfattan önce gelir.",
+        "c": "Very bu yapıda kullanılmaz.",
+        "d": "Many isimle."
+      },
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-14",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have enough money."
+        },
+        {
+          "id": "b",
+          "text": "I have money enough."
+        },
+        {
+          "id": "c",
+          "text": "I have too enough money."
+        },
+        {
+          "id": "d",
+          "text": "I have enough of money."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Enough + isim.",
+      "optionExplanations": {
+        "b": "Enough isimden önce.",
+        "c": "Too enough olmaz.",
+        "d": "Of gerekmez."
+      },
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-15",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It's hot enough."
+        },
+        {
+          "id": "b",
+          "text": "It's enough hot."
+        },
+        {
+          "id": "c",
+          "text": "It's too enough hot."
+        },
+        {
+          "id": "d",
+          "text": "It's hot too."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıfat + enough.",
+      "optionExplanations": {
+        "b": "Enough sıfattan sonra.",
+        "c": "Too enough olmaz.",
+        "d": "Too sıfattan önce gelir."
+      },
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-16",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have too much work."
+        },
+        {
+          "id": "b",
+          "text": "I have too many work."
+        },
+        {
+          "id": "c",
+          "text": "I have too work."
+        },
+        {
+          "id": "d",
+          "text": "I have much too work."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Work sayılamaz.",
+      "optionExplanations": {
+        "b": "Work sayılamaz.",
+        "c": "Too tek başına isim önüne gelmez.",
+        "d": "Sıra bozuk."
+      },
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-17",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "You eat ___ sweets.",
+      "options": [
+        {
+          "id": "a",
+          "text": "too many"
+        },
+        {
+          "id": "b",
+          "text": "too much"
+        },
+        {
+          "id": "c",
+          "text": "enough"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sweets sayılabilir.",
+      "optionExplanations": {
+        "b": "Too much sayılamayanla.",
+        "c": "Enough kullanılırsa anlam değişir.",
+        "d": "A little sayılamayanla."
+      },
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-18",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is too young ___ drive.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Too + sıfat + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For + kişi; fiilden önce to."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-19",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is tall ___ to reach it.",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Sıfat + enough.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too sıfatın önünde."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-20",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There aren't ___ chairs. (yeterli)",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Enough + isim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too isimle too many."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-21",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She talks too ___. (fazla)",
+      "answers": [
+        "much"
+      ],
+      "explanation": "Fiil + too much.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Many isimle."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-22",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The soup is ___ salty. (fazla)",
+      "answers": [
+        "too"
+      ],
+      "explanation": "Too + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "enough",
+          "explanation": "Enough sıfattan sonra."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-23",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The water isn't warm ___.",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Sıfat + enough.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too sıfattan önce."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-24",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Is the room warm ___?",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Sıfat + enough.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too sıfattan önce."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-25",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It's too late ___ call him.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Too + sıfat + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-26",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have money enough.",
+      "errorSpan": "money enough",
+      "answers": [
+        "I have enough money."
+      ],
+      "explanation": "Enough isimden önce.",
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-27",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is too young for drive.",
+      "errorSpan": "for drive",
+      "answers": [
+        "He is too young to drive."
+      ],
+      "explanation": "To + yalın fiil.",
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-28",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There are too much people.",
+      "errorSpan": "too much",
+      "answers": [
+        "There are too many people."
+      ],
+      "explanation": "People sayılabilir.",
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-29",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have too many work.",
+      "errorSpan": "too many",
+      "answers": [
+        "I have too much work."
+      ],
+      "explanation": "Work sayılamaz.",
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-30",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is enough old to drive.",
+      "errorSpan": "enough old",
+      "answers": [
+        "She is old enough to drive."
+      ],
+      "explanation": "Enough sıfattan sonra.",
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-31",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Araba kullanmak için çok genç.",
+      "answer": [
+        "He",
+        "is",
+        "too",
+        "young",
+        "to",
+        "drive"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "enough",
+        "for"
+      ],
+      "explanation": "too + sıfat + to",
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-32",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yeterli param var.",
+      "answer": [
+        "I",
+        "have",
+        "enough",
+        "money"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "too",
+        "many"
+      ],
+      "explanation": "enough + isim",
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-33",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Oda yeterince sıcak mı?",
+      "answer": [
+        "Is",
+        "the",
+        "room",
+        "warm",
+        "enough"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "too",
+        "Does"
+      ],
+      "explanation": "sıfat + enough",
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-34",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Araba kullanmak için çok genç.",
+      "hint": "genç: young",
+      "answers": [
+        "He is too young to drive.",
+        "She is too young to drive."
+      ],
+      "targetStructure": "too + sıfat + to",
+      "explanation": "Fazlalık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He is too young for drive.",
+          "explanation": "To + yalın fiil."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-35",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yeterli zamanımız var.",
+      "hint": "zaman: time",
+      "answers": [
+        "We have enough time."
+      ],
+      "targetStructure": "enough + isim",
+      "explanation": "Yeterlilik.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have time enough.",
+          "explanation": "Enough isimden önce."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "enough"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-36",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Burada çok fazla insan var.",
+      "hint": "insan: people",
+      "answers": [
+        "There are too many people here."
+      ],
+      "targetStructure": "too many",
+      "explanation": "Fazlalık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There are too much people here.",
+          "explanation": "People sayılabilir."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "toomany"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-too-enough-37",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Onu alamam. ___ pahalı.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Çok: too"
+        },
+        {
+          "id": "b",
+          "text": "Yeterince: enough"
+        },
+        {
+          "id": "c",
+          "text": "Biraz: a little"
+        },
+        {
+          "id": "d",
+          "text": "Fazla: many"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Too expensive.",
+      "optionExplanations": {
+        "b": "Enough olumlu yeterliliktir.",
+        "c": "A little biraz demektir.",
+        "d": "Many isimle."
+      },
+      "tags": [
+        "too-enough",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-38",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I can't buy it. I don't have ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "enough money"
+        },
+        {
+          "id": "b",
+          "text": "money enough"
+        },
+        {
+          "id": "c",
+          "text": "too much money"
+        },
+        {
+          "id": "d",
+          "text": "too money"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Enough + isim.",
+      "optionExplanations": {
+        "b": "Enough isimden önce.",
+        "c": "Too much çok fazla demektir; anlam bozulur.",
+        "d": "Too tek başına isimle kullanılmaz."
+      },
+      "tags": [
+        "too-enough",
+        "compare"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-39",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümlede yeterlilik yoktur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He isn't strong enough to lift it."
+        },
+        {
+          "id": "b",
+          "text": "He is strong enough to lift it."
+        },
+        {
+          "id": "c",
+          "text": "He is too strong to lift it."
+        },
+        {
+          "id": "d",
+          "text": "He is very strong to lift it."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Not + sıfat + enough.",
+      "optionExplanations": {
+        "b": "Yeterli güce sahip.",
+        "c": "Too strong: fazla; anlam bozulur.",
+        "d": "Very + to yapısı kurulmaz."
+      },
+      "tags": [
+        "too-enough",
+        "neg"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-too-enough-40",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'm ___ tired to go out. (çok)",
+      "answers": [
+        "too"
+      ],
+      "explanation": "Too + sıfat + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "very",
+          "explanation": "Very + to yapısı kurulmaz."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-41",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He isn't strong ___ to lift it.",
+      "answers": [
+        "enough"
+      ],
+      "explanation": "Sıfat + enough.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "too",
+          "explanation": "Too sıfattan önce."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "neg"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-42",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dışarı çıkmak için çok yorgunum.",
+      "hint": "dışarı çıkmak: go out",
+      "answers": [
+        "I'm too tired to go out.",
+        "I am too tired to go out."
+      ],
+      "targetStructure": "too + sıfat + to",
+      "explanation": "Fazlalık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'm very tired to go out.",
+          "explanation": "Too + sıfat + to."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-43",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu kaldıracak kadar güçlü değil.",
+      "hint": "kaldırmak: lift",
+      "answers": [
+        "He isn't strong enough to lift it.",
+        "He is not strong enough to lift it.",
+        "She isn't strong enough to lift it.",
+        "She is not strong enough to lift it."
+      ],
+      "targetStructure": "not + sıfat + enough + to",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He isn't enough strong to lift it.",
+          "explanation": "Enough sıfattan sonra."
+        }
+      ],
+      "tags": [
+        "too-enough",
+        "neg"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-44",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The soup is too much salty.",
+      "errorSpan": "too much salty",
+      "answers": [
+        "The soup is too salty."
+      ],
+      "explanation": "Sıfatın önünde too.",
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-too-enough-45",
+      "lessonId": "a2-too-enough",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm very tired to go out.",
+      "errorSpan": "very tired",
+      "answers": [
+        "I'm too tired to go out.",
+        "I am too tired to go out."
+      ],
+      "explanation": "Too + sıfat + to.",
+      "tags": [
+        "too-enough",
+        "too"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-too-enough",
+    "title": "Too & Enough: Konu sonu sınavı",
+    "description": "Too, enough ve miktar bildiren yapılar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-too-enough-exam-01",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The film was ___ long. (fazla)",
+        "options": [
+          {
+            "id": "a",
+            "text": "too"
+          },
+          {
+            "id": "b",
+            "text": "enough"
+          },
+          {
+            "id": "c",
+            "text": "many"
+          },
+          {
+            "id": "d",
+            "text": "much"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Too + sıfat.",
+        "optionExplanations": {
+          "b": "Enough sıfattan sonra.",
+          "c": "Many isimle.",
+          "d": "Much isimle."
+        },
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-02",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I have ___ money. (yeterli)",
+        "answers": [
+          "enough"
+        ],
+        "explanation": "Enough + isim.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "too",
+            "explanation": "Too sıfatın önüne gelir."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-03",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çorba çok tuzlu.",
+        "answer": [
+          "The",
+          "soup",
+          "is",
+          "too",
+          "salty"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "enough",
+          "much"
+        ],
+        "explanation": "too + sıfat",
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-04",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is enough tall.",
+        "errorSpan": "enough tall",
+        "answers": [
+          "She is tall enough."
+        ],
+        "explanation": "Enough sıfattan sonra.",
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-05",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yeterli yemek var mı?",
+        "hint": "yemek: food",
+        "answers": [
+          "Is there enough food?"
+        ],
+        "targetStructure": "enough + isim",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Is there food enough?",
+            "explanation": "Enough isimden önce."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-06",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "There are ___ many people here.",
+        "options": [
+          {
+            "id": "a",
+            "text": "too"
+          },
+          {
+            "id": "b",
+            "text": "enough"
+          },
+          {
+            "id": "c",
+            "text": "very much"
+          },
+          {
+            "id": "d",
+            "text": "a little"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Too many.",
+        "optionExplanations": {
+          "b": "Enough too many'den önce gelmez.",
+          "c": "Very much isimle kullanılmaz.",
+          "d": "A little sayılamayanla."
+        },
+        "tags": [
+          "too-enough",
+          "toomany"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-07",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She is too tired ___ study.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "Too + sıfat + to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "To gerekir."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-08",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yeterli sandalye yok.",
+        "answer": [
+          "There",
+          "aren't",
+          "enough",
+          "chairs"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "too",
+          "isn't"
+        ],
+        "explanation": "not enough + isim",
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-09",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have too many homework.",
+        "errorSpan": "too many",
+        "answers": [
+          "I have too much homework."
+        ],
+        "explanation": "Homework sayılamaz.",
+        "tags": [
+          "too-enough",
+          "toomany"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-10",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Oda bizim için yeterince büyük.",
+        "hint": "büyük: big",
+        "answers": [
+          "The room is big enough for us."
+        ],
+        "targetStructure": "sıfat + enough + for",
+        "explanation": "Yeterlilik.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "The room is enough big for us.",
+            "explanation": "Enough sıfattan sonra."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-11",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She is old enough to drive."
+          },
+          {
+            "id": "b",
+            "text": "She is enough old to drive."
+          },
+          {
+            "id": "c",
+            "text": "She is too old enough to drive."
+          },
+          {
+            "id": "d",
+            "text": "She is old too to drive."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sıfat + enough.",
+        "optionExplanations": {
+          "b": "Enough sıfattan sonra.",
+          "c": "Too enough olmaz.",
+          "d": "Sıra bozuk."
+        },
+        "tags": [
+          "too-enough",
+          "enough"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-12",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "There is too ___ noise.",
+        "answers": [
+          "much"
+        ],
+        "explanation": "Noise sayılamaz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "Many sayılabilenle."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "toomany"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-13",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He is too young for drive a car.",
+        "errorSpan": "for drive",
+        "answers": [
+          "He is too young to drive a car."
+        ],
+        "explanation": "To + yalın fiil.",
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-14",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It's too late to call him."
+          },
+          {
+            "id": "b",
+            "text": "It's too late for call him."
+          },
+          {
+            "id": "c",
+            "text": "It's enough late to call him."
+          },
+          {
+            "id": "d",
+            "text": "It's late too to call him."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Too + sıfat + to.",
+        "optionExplanations": {
+          "b": "To gerekir.",
+          "c": "Enough burada anlamı bozar.",
+          "d": "Sıra bozuk."
+        },
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-15",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "The water isn't warm ___. (yeterince)",
+        "answers": [
+          "enough"
+        ],
+        "explanation": "Sıfat + enough.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "too",
+            "explanation": "Too sıfattan önce."
+          }
+        ],
+        "tags": [
+          "too-enough",
+          "neg"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-too-enough-exam-16",
+        "lessonId": "a2-too-enough",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Dışarı çıkmak için çok yorgunum.",
+        "answer": [
+          "I'm",
+          "too",
+          "tired",
+          "to",
+          "go",
+          "out"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "enough",
+          "for"
+        ],
+        "explanation": "too + sıfat + to",
+        "tags": [
+          "too-enough",
+          "too"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
