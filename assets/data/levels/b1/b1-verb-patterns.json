@@ -1,0 +1,2077 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-verb-patterns",
+  "levelId": "b1",
+  "title": "Gerund, Infinitive & Verb Patterns",
+  "objectives": [
+    "Fiilden sonra gelen -ing ve to + fiil kalıplarını ayırt etmek",
+    "Fiil + nesne + to yapısını kurmak",
+    "Anlamı değişen fiilleri (remember, stop, try) doğru kullanmak",
+    "Let / make + nesne + yalın fiil yapısını kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Fiilden sonra -ing mi, to mu?",
+      "paragraphs": [
+        "İngilizcede bir fiilden sonra gelen ikinci fiil bazen -ing (gerund), bazen to + yalın fiil (infinitive) biçimindedir. Hangisinin geleceğini ilk fiil belirler; bu yüzden kalıpları fiille birlikte öğrenmek gerekir.",
+        "Bu derste en sık kullanılan grupları ve anlamı değiştiren fiilleri öğreneceksin."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Fiil + -ing",
+      "paragraphs": [
+        "Enjoy, finish, avoid, mind, suggest, keep, give up, practise, consider gibi fiillerden sonra -ing gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "enjoy / finish / avoid / mind / suggest / keep + V-ing",
+          "exampleIds": [
+            "ex-verb-patterns-01",
+            "ex-verb-patterns-02",
+            "ex-verb-patterns-03",
+            "ex-verb-patterns-04",
+            "ex-verb-patterns-05",
+            "ex-verb-patterns-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Fiil + to + yalın fiil",
+      "paragraphs": [
+        "Decide, hope, plan, agree, refuse, promise, manage, afford, learn, need, offer gibi fiillerden sonra to + yalın fiil gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "decide / hope / refuse / afford / manage + to + V1",
+          "exampleIds": [
+            "ex-verb-patterns-07",
+            "ex-verb-patterns-08",
+            "ex-verb-patterns-09",
+            "ex-verb-patterns-10",
+            "ex-verb-patterns-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Fiil + nesne + to",
+      "paragraphs": [
+        "Tell, ask, advise, allow, invite, remind, expect, want, would like fiilleri bir kişiyi nesne olarak alır ve sonra to + yalın fiil gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "tell / advise / allow + kişi + to + V1",
+          "exampleIds": [
+            "ex-verb-patterns-12",
+            "ex-verb-patterns-13",
+            "ex-verb-patterns-14"
+          ]
+        },
+        {
+          "label": "Would like",
+          "pattern": "would like + kişi + to + V1",
+          "exampleIds": [
+            "ex-verb-patterns-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "İkisini de alan fiiller",
+      "paragraphs": [
+        "Like, love, hate, prefer, start, begin, continue fiilleri hem -ing hem to ile kullanılabilir; anlam büyük ölçüde aynı kalır."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "like / start / begin + V-ing  ya da  to + V1",
+          "exampleIds": [
+            "ex-verb-patterns-16",
+            "ex-verb-patterns-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Anlamı değişen fiiller",
+      "paragraphs": [
+        "Remember, stop, try ve regret fiillerinde -ing geçmişte olanı, to ise yapılacak ya da amaçlanan işi anlatır."
+      ],
+      "formulas": [
+        {
+          "label": "Remember",
+          "pattern": "remember + V-ing (hatırlıyorum) / to + V1 (unutma)",
+          "exampleIds": [
+            "ex-verb-patterns-18",
+            "ex-verb-patterns-19"
+          ]
+        },
+        {
+          "label": "Stop",
+          "pattern": "stop + V-ing (bıraktı) / to + V1 (için durdu)",
+          "exampleIds": [
+            "ex-verb-patterns-20",
+            "ex-verb-patterns-21"
+          ]
+        },
+        {
+          "label": "Try",
+          "pattern": "try + to + V1 (çabalamak) / V-ing (denemek)",
+          "exampleIds": [
+            "ex-verb-patterns-22",
+            "ex-verb-patterns-23"
+          ]
+        },
+        {
+          "label": "Regret",
+          "pattern": "regret + V-ing (pişmanlık)",
+          "exampleIds": [
+            "ex-verb-patterns-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Make, let ve edatlardan sonra",
+      "paragraphs": [
+        "Make ve let’ten sonra nesne + to’suz yalın fiil gelir. Edattan sonra fiil her zaman -ing alır."
+      ],
+      "formulas": [
+        {
+          "label": "Make / let",
+          "pattern": "make / let + kişi + V1",
+          "exampleIds": [
+            "ex-verb-patterns-25",
+            "ex-verb-patterns-26"
+          ]
+        },
+        {
+          "label": "Edat + -ing",
+          "pattern": "good at / before / interested in + V-ing",
+          "exampleIds": [
+            "ex-verb-patterns-27",
+            "ex-verb-patterns-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-verb-patterns-01",
+        "ex-verb-patterns-02",
+        "ex-verb-patterns-03",
+        "ex-verb-patterns-04",
+        "ex-verb-patterns-05",
+        "ex-verb-patterns-06",
+        "ex-verb-patterns-07",
+        "ex-verb-patterns-08",
+        "ex-verb-patterns-09",
+        "ex-verb-patterns-10",
+        "ex-verb-patterns-11",
+        "ex-verb-patterns-12",
+        "ex-verb-patterns-13",
+        "ex-verb-patterns-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-verb-patterns-15",
+        "ex-verb-patterns-16",
+        "ex-verb-patterns-17",
+        "ex-verb-patterns-18",
+        "ex-verb-patterns-19",
+        "ex-verb-patterns-20",
+        "ex-verb-patterns-21",
+        "ex-verb-patterns-22",
+        "ex-verb-patterns-23",
+        "ex-verb-patterns-24",
+        "ex-verb-patterns-25",
+        "ex-verb-patterns-26",
+        "ex-verb-patterns-27",
+        "ex-verb-patterns-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She enjoys to read.",
+          "right": "She enjoys reading.",
+          "explanation": "Enjoy’dan sonra -ing gelir."
+        },
+        {
+          "wrong": "He decided buying a car.",
+          "right": "He decided to buy a car.",
+          "explanation": "Decide’dan sonra to + V1 gelir."
+        },
+        {
+          "wrong": "She told me going home.",
+          "right": "She told me to go home.",
+          "explanation": "Tell + kişi + to + V1."
+        },
+        {
+          "wrong": "He made me to wait.",
+          "right": "He made me wait.",
+          "explanation": "Make + kişi + yalın fiil."
+        },
+        {
+          "wrong": "I look forward to see you.",
+          "right": "I look forward to seeing you.",
+          "explanation": "Look forward to’daki to edattır."
+        },
+        {
+          "wrong": "She suggested to leave.",
+          "right": "She suggested leaving.",
+          "explanation": "Suggest + V-ing."
+        },
+        {
+          "wrong": "I stopped to smoke. (bıraktım)",
+          "right": "I stopped smoking.",
+          "explanation": "Bırakmak için stop + V-ing."
+        },
+        {
+          "wrong": "She is good at to swim.",
+          "right": "She is good at swimming.",
+          "explanation": "Edattan sonra -ing gelir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "A2 Gerund & Infinitive",
+          "body": "Gerund ve infinitive’in temelini A2’de gördün.",
+          "lessonId": "a2-gerund-infinitive-intro"
+        },
+        {
+          "topic": "Reported speech",
+          "body": "Emir aktarımında told me to + V1 yapısı kullanılır.",
+          "lessonId": "b1-reported-speech"
+        },
+        {
+          "topic": "Causative",
+          "body": "Have someone do something ayrı bir yapıdır.",
+          "lessonId": "b1-causative-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Fiilden sonra -ing mi to mu geleceğini ilk fiil belirler.",
+        "Edattan sonra fiil her zaman -ing alır (look forward to seeing).",
+        "Make ve let’ten sonra to kullanılmaz.",
+        "Remember, stop, try ve regret anlam değiştirir.",
+        "Tell / advise / allow + kişi + to + V1."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-verb-patterns-01",
+        "q-verb-patterns-13",
+        "q-verb-patterns-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-verb-patterns-01",
+      "en": "She enjoys reading novels.",
+      "tr": "Roman okumaktan hoşlanır.",
+      "highlight": "enjoys reading"
+    },
+    {
+      "id": "ex-verb-patterns-02",
+      "en": "I finished doing my homework.",
+      "tr": "Ödevimi yapmayı bitirdim.",
+      "highlight": "finished doing"
+    },
+    {
+      "id": "ex-verb-patterns-03",
+      "en": "They avoided talking about the problem.",
+      "tr": "Sorun hakkında konuşmaktan kaçındılar.",
+      "highlight": "avoided talking"
+    },
+    {
+      "id": "ex-verb-patterns-04",
+      "en": "Would you mind opening the window?",
+      "tr": "Pencereyi açmanın sakıncası var mı?",
+      "highlight": "mind opening"
+    },
+    {
+      "id": "ex-verb-patterns-05",
+      "en": "He suggested going to the cinema.",
+      "tr": "Sinemaya gitmeyi önerdi.",
+      "highlight": "suggested going"
+    },
+    {
+      "id": "ex-verb-patterns-06",
+      "en": "She keeps asking the same question.",
+      "tr": "Aynı soruyu sormaya devam ediyor.",
+      "highlight": "keeps asking"
+    },
+    {
+      "id": "ex-verb-patterns-07",
+      "en": "I decided to study abroad.",
+      "tr": "Yurt dışında okumaya karar verdim.",
+      "highlight": "decided to study"
+    },
+    {
+      "id": "ex-verb-patterns-08",
+      "en": "We hope to see you soon.",
+      "tr": "Seni yakında görmeyi umuyoruz.",
+      "highlight": "hope to see"
+    },
+    {
+      "id": "ex-verb-patterns-09",
+      "en": "He refused to help us.",
+      "tr": "Bize yardım etmeyi reddetti.",
+      "highlight": "refused to help"
+    },
+    {
+      "id": "ex-verb-patterns-10",
+      "en": "She can't afford to buy a new car.",
+      "tr": "Yeni araba almaya gücü yetmiyor.",
+      "highlight": "afford to buy"
+    },
+    {
+      "id": "ex-verb-patterns-11",
+      "en": "I managed to finish the report.",
+      "tr": "Raporu bitirmeyi başardım.",
+      "highlight": "managed to finish"
+    },
+    {
+      "id": "ex-verb-patterns-12",
+      "en": "My boss told me to call the client.",
+      "tr": "Patronum müşteriyi aramamı söyledi.",
+      "highlight": "told me to call"
+    },
+    {
+      "id": "ex-verb-patterns-13",
+      "en": "She advised me to see a doctor.",
+      "tr": "Bana doktora görünmemi tavsiye etti.",
+      "highlight": "advised me to see"
+    },
+    {
+      "id": "ex-verb-patterns-14",
+      "en": "They allowed us to leave early.",
+      "tr": "Erken ayrılmamıza izin verdiler.",
+      "highlight": "allowed us to leave"
+    },
+    {
+      "id": "ex-verb-patterns-15",
+      "en": "I'd like you to come with me.",
+      "tr": "Benimle gelmeni isterim.",
+      "highlight": "like you to come"
+    },
+    {
+      "id": "ex-verb-patterns-16",
+      "en": "I like swimming in the sea.",
+      "tr": "Denizde yüzmeyi severim.",
+      "highlight": "like swimming"
+    },
+    {
+      "id": "ex-verb-patterns-17",
+      "en": "It started raining.",
+      "tr": "Yağmur yağmaya başladı.",
+      "highlight": "started raining"
+    },
+    {
+      "id": "ex-verb-patterns-18",
+      "en": "I remember locking the door.",
+      "tr": "Kapıyı kilitlediğimi hatırlıyorum.",
+      "highlight": "remember locking"
+    },
+    {
+      "id": "ex-verb-patterns-19",
+      "en": "Remember to lock the door.",
+      "tr": "Kapıyı kilitlemeyi unutma.",
+      "highlight": "Remember to lock"
+    },
+    {
+      "id": "ex-verb-patterns-20",
+      "en": "He stopped smoking last year.",
+      "tr": "Geçen yıl sigarayı bıraktı.",
+      "highlight": "stopped smoking"
+    },
+    {
+      "id": "ex-verb-patterns-21",
+      "en": "He stopped to smoke a cigarette.",
+      "tr": "Bir sigara içmek için durdu.",
+      "highlight": "stopped to smoke"
+    },
+    {
+      "id": "ex-verb-patterns-22",
+      "en": "I tried to open the window, but it was stuck.",
+      "tr": "Pencereyi açmaya çalıştım ama sıkışmıştı.",
+      "highlight": "tried to open"
+    },
+    {
+      "id": "ex-verb-patterns-23",
+      "en": "I tried adding more salt, but it still tasted bad.",
+      "tr": "Biraz daha tuz eklemeyi denedim ama yine de kötüydü.",
+      "highlight": "tried adding"
+    },
+    {
+      "id": "ex-verb-patterns-24",
+      "en": "I regret telling him the secret.",
+      "tr": "Ona sırrı söylediğime pişmanım.",
+      "highlight": "regret telling"
+    },
+    {
+      "id": "ex-verb-patterns-25",
+      "en": "The teacher made us repeat the sentence.",
+      "tr": "Öğretmen bize cümleyi tekrar ettirdi.",
+      "highlight": "made us repeat"
+    },
+    {
+      "id": "ex-verb-patterns-26",
+      "en": "My parents let me stay out late.",
+      "tr": "Ailem geç saate kadar dışarıda kalmama izin verir.",
+      "highlight": "let me stay"
+    },
+    {
+      "id": "ex-verb-patterns-27",
+      "en": "She is good at solving problems.",
+      "tr": "Sorun çözmede iyidir.",
+      "highlight": "good at solving"
+    },
+    {
+      "id": "ex-verb-patterns-28",
+      "en": "Before leaving, he locked the door.",
+      "tr": "Ayrılmadan önce kapıyı kilitledi.",
+      "highlight": "Before leaving"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-verb-patterns-01",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She enjoys ___ to music.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to listen"
+        },
+        {
+          "id": "b",
+          "text": "listening"
+        },
+        {
+          "id": "c",
+          "text": "listen"
+        },
+        {
+          "id": "d",
+          "text": "listened"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Enjoy + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-02",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We decided ___ a new house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "buying"
+        },
+        {
+          "id": "b",
+          "text": "buy"
+        },
+        {
+          "id": "c",
+          "text": "to buy"
+        },
+        {
+          "id": "d",
+          "text": "bought"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Decide + to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-03",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He suggested ___ a taxi.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to take"
+        },
+        {
+          "id": "b",
+          "text": "take"
+        },
+        {
+          "id": "c",
+          "text": "took"
+        },
+        {
+          "id": "d",
+          "text": "taking"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Suggest + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-04",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They refused ___ the money.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to accept"
+        },
+        {
+          "id": "b",
+          "text": "accepting"
+        },
+        {
+          "id": "c",
+          "text": "accept"
+        },
+        {
+          "id": "d",
+          "text": "accepted"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Refuse + to + V1.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-05",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'd like you ___ me tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "call"
+        },
+        {
+          "id": "b",
+          "text": "to call"
+        },
+        {
+          "id": "c",
+          "text": "calling"
+        },
+        {
+          "id": "d",
+          "text": "called"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Would like + kişi + to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-06",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "My teacher advised me ___ more.",
+      "options": [
+        {
+          "id": "a",
+          "text": "read"
+        },
+        {
+          "id": "b",
+          "text": "reading"
+        },
+        {
+          "id": "c",
+          "text": "to read"
+        },
+        {
+          "id": "d",
+          "text": "reads"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Advise + kişi + to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-07",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The boss made us ___ late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to work"
+        },
+        {
+          "id": "b",
+          "text": "working"
+        },
+        {
+          "id": "c",
+          "text": "worked"
+        },
+        {
+          "id": "d",
+          "text": "work"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Make + kişi + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-08",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is interested in ___ photography.",
+      "options": [
+        {
+          "id": "a",
+          "text": "learning"
+        },
+        {
+          "id": "b",
+          "text": "to learn"
+        },
+        {
+          "id": "c",
+          "text": "learn"
+        },
+        {
+          "id": "d",
+          "text": "learned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edattan sonra -ing.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-09",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Remember ___ milk on your way home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "buying"
+        },
+        {
+          "id": "b",
+          "text": "to buy"
+        },
+        {
+          "id": "c",
+          "text": "buy"
+        },
+        {
+          "id": "d",
+          "text": "bought"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Yapılacak iş: remember to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-10",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He stopped ___ because it was bad for his health. (bıraktı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "to smoke"
+        },
+        {
+          "id": "b",
+          "text": "smoke"
+        },
+        {
+          "id": "c",
+          "text": "smoking"
+        },
+        {
+          "id": "d",
+          "text": "smoked"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Alışkanlığı bırakmak: stop + V-ing.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-11",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I can't afford ___ out every night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "going"
+        },
+        {
+          "id": "b",
+          "text": "go"
+        },
+        {
+          "id": "c",
+          "text": "went"
+        },
+        {
+          "id": "d",
+          "text": "to go"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Afford + to + V1.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-12",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Would you mind ___ the music down?",
+      "options": [
+        {
+          "id": "a",
+          "text": "turning"
+        },
+        {
+          "id": "b",
+          "text": "to turn"
+        },
+        {
+          "id": "c",
+          "text": "turn"
+        },
+        {
+          "id": "d",
+          "text": "turned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mind + V-ing.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-13",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He avoids ___ (drive) in the city.",
+      "answers": [
+        "driving"
+      ],
+      "explanation": "Avoid + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-14",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I hope ___ (pass) the exam.",
+      "answers": [
+        "to pass"
+      ],
+      "explanation": "Hope + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-15",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She allowed me ___ (use) her phone.",
+      "answers": [
+        "to use"
+      ],
+      "explanation": "Allow + kişi + to + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "use",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-16",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My mother lets me ___ (watch) TV.",
+      "answers": [
+        "watch"
+      ],
+      "explanation": "Let + kişi + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to watch",
+          "explanation": "Let'ten sonra to yok."
+        }
+      ],
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-17",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We finished ___ (paint) the room.",
+      "answers": [
+        "painting"
+      ],
+      "explanation": "Finish + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-18",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He promised ___ (call) me.",
+      "answers": [
+        "to call"
+      ],
+      "explanation": "Promise + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-19",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Thank you for ___ (help) me.",
+      "answers": [
+        "helping"
+      ],
+      "explanation": "Edattan sonra -ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-20",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I managed ___ (open) the door.",
+      "answers": [
+        "to open"
+      ],
+      "explanation": "Manage + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-21",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She keeps ___ (forget) her keys.",
+      "answers": [
+        "forgetting"
+      ],
+      "explanation": "Keep + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-22",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm good at ___ (cook).",
+      "answers": [
+        "cooking"
+      ],
+      "explanation": "Good at + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-23",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Roman okumaktan hoşlanırım.",
+      "answer": [
+        "I",
+        "enjoy",
+        "reading",
+        "novels"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "to read",
+        "reads"
+      ],
+      "explanation": "enjoy + V-ing",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-24",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana yardım etmeyi reddetti.",
+      "answer": [
+        "He",
+        "refused",
+        "to",
+        "help",
+        "me"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "helping",
+        "helps"
+      ],
+      "explanation": "refuse + to + V1",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-25",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Doktor bana dinlenmemi söyledi.",
+      "answer": [
+        "The",
+        "doctor",
+        "told",
+        "me",
+        "to",
+        "rest"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "resting",
+        "say"
+      ],
+      "explanation": "tell + kişi + to + V1",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-26",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Annem geç kalmama izin verdi.",
+      "answer": [
+        "My",
+        "mother",
+        "let",
+        "me",
+        "stay",
+        "up",
+        "late"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "to stay",
+        "stayed"
+      ],
+      "explanation": "let + kişi + V1",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-27",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She enjoys to dance.",
+      "errorSpan": "to dance",
+      "answers": [
+        "She enjoys dancing."
+      ],
+      "explanation": "Enjoy + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-28",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He decided buying a house.",
+      "errorSpan": "buying",
+      "answers": [
+        "He decided to buy a house."
+      ],
+      "explanation": "Decide + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-29",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They made me to wait.",
+      "errorSpan": "to wait",
+      "answers": [
+        "They made me wait."
+      ],
+      "explanation": "Make + kişi + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-30",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm looking forward to see you.",
+      "errorSpan": "to see",
+      "answers": [
+        "I'm looking forward to seeing you."
+      ],
+      "explanation": "To burada edattır; -ing gelir.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-31",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She suggested to go home.",
+      "errorSpan": "to go",
+      "answers": [
+        "She suggested going home."
+      ],
+      "explanation": "Suggest + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-32",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He told me going home.",
+      "errorSpan": "going",
+      "answers": [
+        "He told me to go home."
+      ],
+      "explanation": "Tell + kişi + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-33",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I stopped to smoke last year. (bıraktım)",
+      "errorSpan": "to smoke",
+      "answers": [
+        "I stopped smoking last year."
+      ],
+      "explanation": "Bırakmak: stop + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-34",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yüzmeyi severim.",
+      "hint": "yüzmek: swim",
+      "answers": [
+        "I like swimming.",
+        "I like to swim.",
+        "I love swimming.",
+        "I love to swim."
+      ],
+      "targetStructure": "like + V-ing / to V1",
+      "explanation": "Her iki kalıp da olur.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-35",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pencereyi açmaya çalıştım.",
+      "hint": "çalışmak: try",
+      "answers": [
+        "I tried to open the window."
+      ],
+      "targetStructure": "try + to + V1",
+      "explanation": "Çabalamak.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I tried opening the window.",
+          "explanation": "Çabalamak değil, denemek anlamı verir."
+        }
+      ],
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-36",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kapıyı kilitlemeyi unutma.",
+      "hint": "unutmak: forget",
+      "answers": [
+        "Remember to lock the door.",
+        "Don't forget to lock the door."
+      ],
+      "targetStructure": "remember to + V1",
+      "explanation": "Yapılacak iş.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-37",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kitap okumaktan zevk alırım.",
+      "hint": "zevk almak: enjoy",
+      "answers": [
+        "I enjoy reading books.",
+        "I enjoy reading."
+      ],
+      "targetStructure": "enjoy + V-ing",
+      "explanation": "Enjoy + V-ing.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-38",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana erken gelmemi söyledi.",
+      "hint": "söylemek: tell",
+      "answers": [
+        "He told me to come early.",
+        "She told me to come early."
+      ],
+      "targetStructure": "told me to",
+      "explanation": "Tell + kişi + to + V1.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-39",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çocuklar yüzmeyi öğreniyor.",
+      "hint": "öğrenmek: learn",
+      "answers": [
+        "The children are learning to swim."
+      ],
+      "targetStructure": "learn to",
+      "explanation": "Learn + to + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The children are learning swimming.",
+          "explanation": "Learn'ten sonra to + V1."
+        }
+      ],
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-40",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gitmemize izin verdiler.",
+      "hint": "izin vermek: allow",
+      "answers": [
+        "They allowed us to go.",
+        "They let us go."
+      ],
+      "targetStructure": "allow + kişi + to",
+      "explanation": "Allow / let.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-verb-patterns-41",
+      "lessonId": "b1-verb-patterns",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir şey içmek için durdu.",
+      "hint": "durmak: stop",
+      "answers": [
+        "He stopped to drink something.",
+        "She stopped to drink something."
+      ],
+      "targetStructure": "stop to + V1",
+      "explanation": "Amaç belirtir.",
+      "tags": [
+        "verb-patterns",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-verb-patterns",
+    "title": "Gerund, Infinitive & Verb Patterns: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-verb-patterns-exam-01",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I want ___ English fluently.",
+        "options": [
+          {
+            "id": "a",
+            "text": "speaking"
+          },
+          {
+            "id": "b",
+            "text": "speak"
+          },
+          {
+            "id": "c",
+            "text": "to speak"
+          },
+          {
+            "id": "d",
+            "text": "spoke"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Want + to + V1.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-02",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She avoided ___ the question.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to answer"
+          },
+          {
+            "id": "b",
+            "text": "answer"
+          },
+          {
+            "id": "c",
+            "text": "answered"
+          },
+          {
+            "id": "d",
+            "text": "answering"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Avoid + V-ing.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-03",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He asked me ___ the door.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to close"
+          },
+          {
+            "id": "b",
+            "text": "close"
+          },
+          {
+            "id": "c",
+            "text": "closing"
+          },
+          {
+            "id": "d",
+            "text": "closed"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Ask + kişi + to + V1.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-04",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I remember ___ him at the party last year.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to meet"
+          },
+          {
+            "id": "b",
+            "text": "meeting"
+          },
+          {
+            "id": "c",
+            "text": "meet"
+          },
+          {
+            "id": "d",
+            "text": "met"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Geçmişi hatırlamak: remember + V-ing.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-05",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The film made me ___ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "to cry"
+          },
+          {
+            "id": "b",
+            "text": "crying"
+          },
+          {
+            "id": "c",
+            "text": "cry"
+          },
+          {
+            "id": "d",
+            "text": "cried"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Make + kişi + V1.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-06",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We are planning ___ (visit) Rome.",
+        "answers": [
+          "to visit"
+        ],
+        "explanation": "Plan + to + V1.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-07",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He gave up ___ (smoke).",
+        "answers": [
+          "smoking"
+        ],
+        "explanation": "Give up + V-ing.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-08",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She is afraid of ___ (fly).",
+        "answers": [
+          "flying"
+        ],
+        "explanation": "Edattan sonra -ing.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-09",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They invited me ___ (join) them.",
+        "answers": [
+          "to join"
+        ],
+        "explanation": "Invite + kişi + to + V1.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-10",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çalışmaya devam etti.",
+        "answer": [
+          "He",
+          "kept",
+          "working",
+          "all",
+          "night"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "to work",
+          "works"
+        ],
+        "explanation": "keep + V-ing",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-11",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yarın gelmeyi umuyorum.",
+        "answer": [
+          "I",
+          "hope",
+          "to",
+          "come",
+          "tomorrow"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "coming",
+          "came"
+        ],
+        "explanation": "hope + to + V1",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-12",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I enjoy to cook.",
+        "errorSpan": "to cook",
+        "answers": [
+          "I enjoy cooking."
+        ],
+        "explanation": "Enjoy + V-ing.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-13",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She agreed helping us.",
+        "errorSpan": "helping",
+        "answers": [
+          "She agreed to help us."
+        ],
+        "explanation": "Agree + to + V1.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-14",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He let me to go.",
+        "errorSpan": "to go",
+        "answers": [
+          "He let me go."
+        ],
+        "explanation": "Let + kişi + V1.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-15",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ödevimi bitirdim.",
+        "hint": "bitirmek: finish",
+        "answers": [
+          "I finished my homework.",
+          "I finished doing my homework."
+        ],
+        "targetStructure": "finish + V-ing",
+        "explanation": "Finish + isim / V-ing.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-verb-patterns-exam-16",
+        "lessonId": "b1-verb-patterns",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu işe başvurmaya karar verdi.",
+        "hint": "karar vermek: decide",
+        "answers": [
+          "He decided to apply for this job.",
+          "She decided to apply for this job."
+        ],
+        "targetStructure": "decide + to",
+        "explanation": "Decide + to + V1.",
+        "tags": [
+          "verb-patterns",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      }
+    ]
+  }
+}
