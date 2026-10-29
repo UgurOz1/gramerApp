@@ -1,0 +1,2173 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-used-to",
+  "levelId": "b1",
+  "title": "Used To",
+  "objectives": [
+    "Used to ile geçmişte bırakılmış alışkanlıkları ve durumları anlatmak",
+    "Olumsuz ve soru biçimini (didn’t use to, did … use to) kurmak",
+    "Used to ile would arasındaki farkı ayırt etmek",
+    "Used to ile Past Simple’ı karşılaştırmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Geçmişteki alışkanlık ve durumlar",
+      "paragraphs": [
+        "Used to, geçmişte düzenli olarak yaptığın ya da geçmişte doğru olan ama artık geçerli olmayan şeyleri anlatır. Türkçede “eskiden … -erdim / -dım” kalıbına karşılık gelir.",
+        "Used to’nun şimdiki zaman biçimi yoktur. Şimdiki alışkanlıklar için Present Simple kullanılır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Olumlu: used to + yalın fiil",
+      "paragraphs": [
+        "Used to, geçmişteki alışkanlıkları ve durumları anlatır. Tüm özneler için aynıdır ve ardından yalın fiil gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Alışkanlık",
+          "pattern": "özne + used to + V1",
+          "exampleIds": [
+            "ex-used-to-01",
+            "ex-used-to-03",
+            "ex-used-to-04",
+            "ex-used-to-15"
+          ]
+        },
+        {
+          "label": "Durum",
+          "pattern": "used to be / have / live / know",
+          "exampleIds": [
+            "ex-used-to-02",
+            "ex-used-to-05",
+            "ex-used-to-06",
+            "ex-used-to-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Olumsuzda didn’t use to, soruda did + özne + use to kullanılır. Did geldiği için used değil use yazılır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + didn’t use to + V1",
+          "exampleIds": [
+            "ex-used-to-08",
+            "ex-used-to-09",
+            "ex-used-to-10"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + use to + V1?",
+          "exampleIds": [
+            "ex-used-to-11",
+            "ex-used-to-12"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh- + did + özne + use to + V1?",
+          "exampleIds": [
+            "ex-used-to-13",
+            "ex-used-to-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Used to ile would",
+      "paragraphs": [
+        "Would da geçmişteki tekrarlayan olayları anlatabilir, ama yalnızca eylemlerde. Durumları (be, have, know, like) anlatırken would değil used to kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Would",
+          "pattern": "would + V1 (tekrarlayan eylem)",
+          "exampleIds": [
+            "ex-used-to-19",
+            "ex-used-to-20",
+            "ex-used-to-21"
+          ]
+        },
+        {
+          "label": "Yalnızca used to",
+          "pattern": "durum fiilleri: be, have, know, live",
+          "exampleIds": [
+            "ex-used-to-22",
+            "ex-used-to-23",
+            "ex-used-to-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Geçmiş ile şimdiyi karşılaştırma",
+      "paragraphs": [
+        "Used to, şu anda artık böyle olmadığını ima eder. Bu yüzden genellikle bugünle karşılaştırılır."
+      ],
+      "formulas": [
+        {
+          "label": "Karşılaştırma",
+          "pattern": "I used to … but now I …",
+          "exampleIds": [
+            "ex-used-to-15",
+            "ex-used-to-17",
+            "ex-used-to-18"
+          ]
+        },
+        {
+          "label": "Şimdi",
+          "pattern": "Şimdiki alışkanlık: Present Simple (usually, often)",
+          "exampleIds": [
+            "ex-used-to-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-used-to-01",
+        "ex-used-to-02",
+        "ex-used-to-03",
+        "ex-used-to-04",
+        "ex-used-to-05",
+        "ex-used-to-06",
+        "ex-used-to-07",
+        "ex-used-to-08",
+        "ex-used-to-09",
+        "ex-used-to-10",
+        "ex-used-to-11",
+        "ex-used-to-12",
+        "ex-used-to-13",
+        "ex-used-to-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-used-to-15",
+        "ex-used-to-16",
+        "ex-used-to-17",
+        "ex-used-to-18",
+        "ex-used-to-19",
+        "ex-used-to-20",
+        "ex-used-to-21",
+        "ex-used-to-22",
+        "ex-used-to-23",
+        "ex-used-to-24",
+        "ex-used-to-25",
+        "ex-used-to-26",
+        "ex-used-to-27",
+        "ex-used-to-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I use to play football.",
+          "right": "I used to play football.",
+          "explanation": "Olumlu cümlede used to yazılır."
+        },
+        {
+          "wrong": "Did you used to live here?",
+          "right": "Did you use to live here?",
+          "explanation": "Did’den sonra use yazılır."
+        },
+        {
+          "wrong": "She didn’t used to like tea.",
+          "right": "She didn’t use to like tea.",
+          "explanation": "Didn’t’ten sonra use yazılır."
+        },
+        {
+          "wrong": "I used to going there.",
+          "right": "I used to go there.",
+          "explanation": "Used to’dan sonra yalın fiil gelir."
+        },
+        {
+          "wrong": "I would have a dog when I was young.",
+          "right": "I used to have a dog when I was young.",
+          "explanation": "Durum fiilinde would kullanılmaz."
+        },
+        {
+          "wrong": "I am used to play football.",
+          "right": "I used to play football.",
+          "explanation": "Be used to başka bir yapıdır."
+        },
+        {
+          "wrong": "She uses to walk.",
+          "right": "She used to walk.",
+          "explanation": "Used to'nun şimdiki biçimi yoktur."
+        },
+        {
+          "wrong": "He used to went there.",
+          "right": "He used to go there.",
+          "explanation": "Used to + yalın fiil."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Be used to",
+          "body": "Be used to + -ing alışkın olmak demektir, used to + V1'den farklıdır.",
+          "lessonId": "b1-be-get-used-to"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Used to bugünle karşıtlık içerir; Past Simple içermez.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Would",
+          "body": "Would yalnızca tekrarlayan eylemlerde used to yerine kullanılır.",
+          "lessonId": "b1-second-conditional"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Olumlu: used to, olumsuz ve soruda: use to.",
+        "Used to’dan sonra yalın fiil gelir.",
+        "Used to şimdiki zamanda kullanılmaz.",
+        "Durum fiillerinde (be, have, know) would değil used to kullan.",
+        "Be used to farklı bir yapıdır: alışkın olmak."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-used-to-01",
+        "q-used-to-13",
+        "q-used-to-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-used-to-01",
+      "en": "I used to play football when I was a child.",
+      "tr": "Çocukken futbol oynardım.",
+      "highlight": "used to play"
+    },
+    {
+      "id": "ex-used-to-02",
+      "en": "She used to live in London.",
+      "tr": "Eskiden Londra'da yaşardı.",
+      "highlight": "used to live"
+    },
+    {
+      "id": "ex-used-to-03",
+      "en": "We used to go to the beach every summer.",
+      "tr": "Her yaz sahile giderdik.",
+      "highlight": "used to go"
+    },
+    {
+      "id": "ex-used-to-04",
+      "en": "He used to smoke, but he quit.",
+      "tr": "Eskiden sigara içerdi ama bıraktı.",
+      "highlight": "used to smoke"
+    },
+    {
+      "id": "ex-used-to-05",
+      "en": "There used to be a cinema here.",
+      "tr": "Burada eskiden bir sinema vardı.",
+      "highlight": "used to be"
+    },
+    {
+      "id": "ex-used-to-06",
+      "en": "I used to be shy.",
+      "tr": "Eskiden utangaçtım.",
+      "highlight": "used to be"
+    },
+    {
+      "id": "ex-used-to-07",
+      "en": "They used to have a big house.",
+      "tr": "Eskiden büyük bir evleri vardı.",
+      "highlight": "used to have"
+    },
+    {
+      "id": "ex-used-to-08",
+      "en": "She didn't use to like coffee.",
+      "tr": "Eskiden kahveyi sevmezdi.",
+      "highlight": "didn't use to like"
+    },
+    {
+      "id": "ex-used-to-09",
+      "en": "I didn't use to wake up early.",
+      "tr": "Eskiden erken kalkmazdım.",
+      "highlight": "didn't use to wake"
+    },
+    {
+      "id": "ex-used-to-10",
+      "en": "He didn't use to have a car.",
+      "tr": "Eskiden arabası yoktu.",
+      "highlight": "didn't use to have"
+    },
+    {
+      "id": "ex-used-to-11",
+      "en": "Did you use to play the piano?",
+      "tr": "Eskiden piyano çalar mıydın?",
+      "highlight": "Did you use to play"
+    },
+    {
+      "id": "ex-used-to-12",
+      "en": "Did she use to work here?",
+      "tr": "Eskiden burada çalışır mıydı?",
+      "highlight": "Did she use to work"
+    },
+    {
+      "id": "ex-used-to-13",
+      "en": "Where did they use to live?",
+      "tr": "Eskiden nerede yaşarlardı?",
+      "highlight": "did they use to live"
+    },
+    {
+      "id": "ex-used-to-14",
+      "en": "What did you use to do after school?",
+      "tr": "Okuldan sonra eskiden ne yapardın?",
+      "highlight": "did you use to do"
+    },
+    {
+      "id": "ex-used-to-15",
+      "en": "I used to walk to school, but now I take the bus.",
+      "tr": "Eskiden okula yürürdüm ama şimdi otobüse biniyorum.",
+      "highlight": "used to walk"
+    },
+    {
+      "id": "ex-used-to-16",
+      "en": "My father used to work at night.",
+      "tr": "Babam eskiden geceleri çalışırdı.",
+      "highlight": "used to work"
+    },
+    {
+      "id": "ex-used-to-17",
+      "en": "People used to write letters; now they send emails.",
+      "tr": "İnsanlar eskiden mektup yazardı; şimdi e-posta gönderiyorlar.",
+      "highlight": "used to write"
+    },
+    {
+      "id": "ex-used-to-18",
+      "en": "We used to be neighbours.",
+      "tr": "Eskiden komşuyduk.",
+      "highlight": "used to be"
+    },
+    {
+      "id": "ex-used-to-19",
+      "en": "I would visit my grandmother every weekend.",
+      "tr": "Her hafta sonu büyükannemi ziyaret ederdim.",
+      "highlight": "would visit"
+    },
+    {
+      "id": "ex-used-to-20",
+      "en": "When we were young, we would play outside all day.",
+      "tr": "Küçükken bütün gün dışarıda oynardık.",
+      "highlight": "would play"
+    },
+    {
+      "id": "ex-used-to-21",
+      "en": "She would often tell us stories.",
+      "tr": "Sık sık bize hikâye anlatırdı.",
+      "highlight": "would often tell"
+    },
+    {
+      "id": "ex-used-to-22",
+      "en": "I used to have long hair.",
+      "tr": "Eskiden uzun saçlarım vardı.",
+      "highlight": "used to have"
+    },
+    {
+      "id": "ex-used-to-23",
+      "en": "He used to know her well.",
+      "tr": "Onu eskiden iyi tanırdı.",
+      "highlight": "used to know"
+    },
+    {
+      "id": "ex-used-to-24",
+      "en": "I usually walk to work.",
+      "tr": "Genellikle işe yürürüm.",
+      "highlight": "usually walk"
+    },
+    {
+      "id": "ex-used-to-25",
+      "en": "She never used to eat fish.",
+      "tr": "Eskiden hiç balık yemezdi.",
+      "highlight": "never used to eat"
+    },
+    {
+      "id": "ex-used-to-26",
+      "en": "Life used to be much slower.",
+      "tr": "Hayat eskiden çok daha yavaştı.",
+      "highlight": "used to be"
+    },
+    {
+      "id": "ex-used-to-27",
+      "en": "We didn't use to have a computer.",
+      "tr": "Eskiden bilgisayarımız yoktu.",
+      "highlight": "didn't use to have"
+    },
+    {
+      "id": "ex-used-to-28",
+      "en": "Did they use to get along?",
+      "tr": "Eskiden anlaşırlar mıydı?",
+      "highlight": "Did they use to get"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-used-to-01",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ in a small village when I was a child.",
+      "options": [
+        {
+          "id": "a",
+          "text": "use to live"
+        },
+        {
+          "id": "b",
+          "text": "used to live"
+        },
+        {
+          "id": "c",
+          "text": "am used to live"
+        },
+        {
+          "id": "d",
+          "text": "would live"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Durum: used to live.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-02",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ like spicy food.",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't used to"
+        },
+        {
+          "id": "b",
+          "text": "doesn't use to"
+        },
+        {
+          "id": "c",
+          "text": "didn't use to"
+        },
+        {
+          "id": "d",
+          "text": "not used to"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Didn't + use to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-03",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you use to play chess?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Were"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Soru: Did + özne + use to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-04",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He used to ___ a lot of coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "drink"
+        },
+        {
+          "id": "b",
+          "text": "drinks"
+        },
+        {
+          "id": "c",
+          "text": "drinking"
+        },
+        {
+          "id": "d",
+          "text": "drank"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Used to + V1.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-05",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There ___ a bakery on this street.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would be"
+        },
+        {
+          "id": "b",
+          "text": "used to be"
+        },
+        {
+          "id": "c",
+          "text": "use to be"
+        },
+        {
+          "id": "d",
+          "text": "is used to be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Durum: used to be.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-06",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ every Sunday at my grandmother's house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would be"
+        },
+        {
+          "id": "b",
+          "text": "would have"
+        },
+        {
+          "id": "c",
+          "text": "would eat"
+        },
+        {
+          "id": "d",
+          "text": "would know"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Tekrarlayan eylem: would + eylem.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-07",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I didn't used to like fish."
+        },
+        {
+          "id": "b",
+          "text": "I not used to like fish."
+        },
+        {
+          "id": "c",
+          "text": "I don't used to like fish."
+        },
+        {
+          "id": "d",
+          "text": "I didn't use to like fish."
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Did geldiğinde use yazılır.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-08",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which sentence describes a past state?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I used to have a dog."
+        },
+        {
+          "id": "b",
+          "text": "I would have a dog."
+        },
+        {
+          "id": "c",
+          "text": "I use to have a dog."
+        },
+        {
+          "id": "d",
+          "text": "I am used to have a dog."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Durum fiilinde would olmaz.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-09",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ shy, but now she is confident.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would be"
+        },
+        {
+          "id": "b",
+          "text": "used to be"
+        },
+        {
+          "id": "c",
+          "text": "is used to be"
+        },
+        {
+          "id": "d",
+          "text": "uses to be"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Eskiden → used to be.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-10",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Where ___ they ___ live?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did / used to"
+        },
+        {
+          "id": "b",
+          "text": "do / use to"
+        },
+        {
+          "id": "c",
+          "text": "did / use to"
+        },
+        {
+          "id": "d",
+          "text": "were / used to"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Did + use to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-11",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ a car, so he walked everywhere.",
+      "options": [
+        {
+          "id": "a",
+          "text": "not used to have"
+        },
+        {
+          "id": "b",
+          "text": "doesn't use to have"
+        },
+        {
+          "id": "c",
+          "text": "wasn't use to have"
+        },
+        {
+          "id": "d",
+          "text": "didn't use to have"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Olumsuz geçmiş: didn't use to.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-12",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ in the morning, but now I go to bed late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "used to get up early"
+        },
+        {
+          "id": "b",
+          "text": "use to get up early"
+        },
+        {
+          "id": "c",
+          "text": "am used to get up early"
+        },
+        {
+          "id": "d",
+          "text": "would be up early"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmiş alışkanlık.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-13",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ to go fishing every summer.",
+      "answers": [
+        "used"
+      ],
+      "explanation": "Used to + V1.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-14",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Did you ___ to smoke?",
+      "answers": [
+        "use"
+      ],
+      "explanation": "Did'den sonra use.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Did geldiğinde used değil use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-15",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She didn't ___ to like football.",
+      "answers": [
+        "use"
+      ],
+      "explanation": "Didn't use to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Didn't'ten sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-16",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When I was a child, I ___ to be afraid of dogs.",
+      "answers": [
+        "used"
+      ],
+      "explanation": "Eskiden: used to be.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-17",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He used to ___ in a bank. (work)",
+      "answers": [
+        "work"
+      ],
+      "explanation": "Used to + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "working",
+          "explanation": "V1 gerekir."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-18",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where did you ___ to live? (use)",
+      "answers": [
+        "use"
+      ],
+      "explanation": "Did + use to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Did geldiğinde use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-19",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My grandfather ___ often tell us stories. (would)",
+      "answers": [
+        "would"
+      ],
+      "explanation": "Tekrarlayan eylem: would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Would burada gerekir."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-20",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They didn't ___ to have a TV.",
+      "answers": [
+        "use"
+      ],
+      "explanation": "Didn't use to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Didn't'ten sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-21",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ to cycle to school, but now I go by bus.",
+      "answers": [
+        "used"
+      ],
+      "explanation": "Used to + V1.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-22",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Did she ___ to work here? (use)",
+      "answers": [
+        "use"
+      ],
+      "explanation": "Did + özne + use to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "used",
+          "explanation": "Did geldiğinde use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-23",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Eskiden futbol oynardım.",
+      "answer": [
+        "I",
+        "used",
+        "to",
+        "play",
+        "football"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "use",
+        "playing"
+      ],
+      "explanation": "used to + V1",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-24",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Eskiden burada çalışır mıydın?",
+      "answer": [
+        "Did",
+        "you",
+        "use",
+        "to",
+        "work",
+        "here"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "used",
+        "do"
+      ],
+      "explanation": "Did + özne + use to",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-25",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kahveyi sevmezdi.",
+      "answer": [
+        "She",
+        "didn't",
+        "use",
+        "to",
+        "like",
+        "coffee"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "used",
+        "likes"
+      ],
+      "explanation": "didn't use to + V1",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-26",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Büyükannemi her hafta sonu ziyaret ederdim.",
+      "answer": [
+        "I",
+        "would",
+        "visit",
+        "my",
+        "grandmother",
+        "every",
+        "weekend"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "used",
+        "visiting"
+      ],
+      "explanation": "would + V1",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-27",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I use to live in Paris.",
+      "errorSpan": "use to live",
+      "answers": [
+        "I used to live in Paris."
+      ],
+      "explanation": "Olumlu cümlede used to.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-28",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you used to play tennis?",
+      "errorSpan": "used to play",
+      "answers": [
+        "Did you use to play tennis?"
+      ],
+      "explanation": "Did'den sonra use to.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-29",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She didn't used to eat meat.",
+      "errorSpan": "didn't used to",
+      "answers": [
+        "She didn't use to eat meat."
+      ],
+      "explanation": "Didn't'ten sonra use to.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-30",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He used to going to the gym.",
+      "errorSpan": "used to going",
+      "answers": [
+        "He used to go to the gym."
+      ],
+      "explanation": "Used to + V1.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-31",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I would have a bike when I was ten.",
+      "errorSpan": "would have",
+      "answers": [
+        "I used to have a bike when I was ten."
+      ],
+      "explanation": "Durum fiilinde would olmaz.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-32",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "We used to being friends.",
+      "errorSpan": "to being",
+      "answers": [
+        "We used to be friends."
+      ],
+      "explanation": "Used to + V1.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-33",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They are used to live in a big house.",
+      "errorSpan": "are used to live",
+      "answers": [
+        "They used to live in a big house."
+      ],
+      "explanation": "Geçmiş alışkanlık için used to.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-34",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden çok kitap okurdum.",
+      "hint": "okumak: read",
+      "answers": [
+        "I used to read a lot of books.",
+        "I used to read a lot."
+      ],
+      "targetStructure": "used to + V1",
+      "explanation": "Geçmiş alışkanlık.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-35",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden burada bir park vardı.",
+      "hint": "var olmak: be",
+      "answers": [
+        "There used to be a park here."
+      ],
+      "targetStructure": "used to be",
+      "explanation": "Durum.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There would be a park here.",
+          "explanation": "Durumda would olmaz."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-36",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden sigara içmezdi.",
+      "hint": "içmek: smoke",
+      "answers": [
+        "He didn't use to smoke.",
+        "She didn't use to smoke."
+      ],
+      "targetStructure": "didn't use to",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He didn't used to smoke.",
+          "explanation": "Didn't'ten sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-37",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden onunla yaşar mıydın?",
+      "hint": "yaşamak: live",
+      "answers": [
+        "Did you use to live with him?",
+        "Did you use to live with her?"
+      ],
+      "targetStructure": "Did you use to",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you used to live with him?",
+          "explanation": "Did'den sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-38",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çocukken denize giderdik.",
+      "hint": "gitmek: go",
+      "answers": [
+        "We used to go to the sea when we were children.",
+        "When we were children, we used to go to the sea.",
+        "We would go to the sea when we were children.",
+        "When we were children, we would go to the sea."
+      ],
+      "targetStructure": "used to / would",
+      "explanation": "Tekrarlayan eylem.",
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-39",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden çok utangaçtım.",
+      "hint": "utangaç: shy",
+      "answers": [
+        "I used to be very shy."
+      ],
+      "targetStructure": "used to be",
+      "explanation": "Durum.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I would be very shy.",
+          "explanation": "Durumda would olmaz."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-40",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden nerede çalışırdın?",
+      "hint": "çalışmak: work",
+      "answers": [
+        "Where did you use to work?"
+      ],
+      "targetStructure": "did you use to",
+      "explanation": "Wh- soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where did you used to work?",
+          "explanation": "Did'den sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-used-to-41",
+      "lessonId": "b1-used-to",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eskiden telefonumuz yoktu.",
+      "hint": "olmak: have",
+      "answers": [
+        "We didn't use to have a phone.",
+        "We didn't use to have a telephone."
+      ],
+      "targetStructure": "didn't use to have",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We didn't used to have a phone.",
+          "explanation": "Didn't'ten sonra use."
+        }
+      ],
+      "tags": [
+        "used-to",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-used-to",
+    "title": "Used To: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-used-to-exam-01",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ a beard, but he shaved it.",
+        "options": [
+          {
+            "id": "a",
+            "text": "use to have"
+          },
+          {
+            "id": "b",
+            "text": "would have"
+          },
+          {
+            "id": "c",
+            "text": "used to have"
+          },
+          {
+            "id": "d",
+            "text": "is used to have"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Durum: used to have.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-02",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ she use to live here?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Does"
+          },
+          {
+            "id": "b",
+            "text": "Was"
+          },
+          {
+            "id": "c",
+            "text": "Is"
+          },
+          {
+            "id": "d",
+            "text": "Did"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Did + özne + use to.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-03",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ like jazz, but now I love it.",
+        "options": [
+          {
+            "id": "a",
+            "text": "didn't use to"
+          },
+          {
+            "id": "b",
+            "text": "don't use to"
+          },
+          {
+            "id": "c",
+            "text": "didn't used to"
+          },
+          {
+            "id": "d",
+            "text": "not used to"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumsuz geçmiş.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-04",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Every summer we ___ camping.",
+        "options": [
+          {
+            "id": "a",
+            "text": "would be"
+          },
+          {
+            "id": "b",
+            "text": "would go"
+          },
+          {
+            "id": "c",
+            "text": "would know"
+          },
+          {
+            "id": "d",
+            "text": "would have"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Tekrarlayan eylem.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-05",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Which sentence is wrong?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Did you use to smoke?"
+          },
+          {
+            "id": "b",
+            "text": "I used to smoke."
+          },
+          {
+            "id": "c",
+            "text": "Did you used to smoke?"
+          },
+          {
+            "id": "d",
+            "text": "I didn't use to smoke."
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Did'den sonra use gerekir.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-06",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She used ___ cry a lot. (to)",
+        "answers": [
+          "to"
+        ],
+        "explanation": "Used to + V1.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-07",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Did they ___ to live in Rome? (use)",
+        "answers": [
+          "use"
+        ],
+        "explanation": "Did + use to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "used",
+            "explanation": "Did'den sonra use."
+          }
+        ],
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-08",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He ___ to be my teacher. (used)",
+        "answers": [
+          "used"
+        ],
+        "explanation": "Used to be.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-09",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We didn't ___ to have a garden. (use)",
+        "answers": [
+          "use"
+        ],
+        "explanation": "Didn't use to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "used",
+            "explanation": "Didn't'ten sonra use."
+          }
+        ],
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-10",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Eskiden gece çalışırdı.",
+        "answer": [
+          "He",
+          "used",
+          "to",
+          "work",
+          "at",
+          "night"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "use",
+          "works"
+        ],
+        "explanation": "used to + V1",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-11",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Eskiden nerede yaşardın?",
+        "answer": [
+          "Where",
+          "did",
+          "you",
+          "use",
+          "to",
+          "live"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "used",
+          "do"
+        ],
+        "explanation": "did you use to",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-12",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I didn't used to wake up late.",
+        "errorSpan": "didn't used",
+        "answers": [
+          "I didn't use to wake up late."
+        ],
+        "explanation": "Didn't use to.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-13",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They would be friends when they were children.",
+        "errorSpan": "would be",
+        "answers": [
+          "They used to be friends when they were children."
+        ],
+        "explanation": "Durumda used to.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-14",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She use to play the violin.",
+        "errorSpan": "use to play",
+        "answers": [
+          "She used to play the violin."
+        ],
+        "explanation": "Used to.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-15",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Eskiden şehirde yaşardım.",
+        "hint": "yaşamak: live",
+        "answers": [
+          "I used to live in the city."
+        ],
+        "targetStructure": "used to live",
+        "explanation": "Geçmiş durum.",
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-used-to-exam-16",
+        "lessonId": "b1-used-to",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Eskiden çok sigara içer miydi?",
+        "hint": "içmek: smoke",
+        "answers": [
+          "Did he use to smoke a lot?",
+          "Did she use to smoke a lot?"
+        ],
+        "targetStructure": "Did he use to",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did he used to smoke a lot?",
+            "explanation": "Did'den sonra use."
+          }
+        ],
+        "tags": [
+          "used-to",
+          "rule"
+        ],
+        "errorTags": [
+          "verb_form",
+          "tense_confusion"
+        ]
+      }
+    ]
+  }
+}
