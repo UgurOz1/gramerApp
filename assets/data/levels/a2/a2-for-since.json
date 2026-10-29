@@ -1,0 +1,2330 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-for-since",
+  "levelId": "a2",
+  "title": "For & Since",
+  "objectives": [
+    "For ile süre, since ile başlangıç noktası anlatmak",
+    "How long ile süre sorusu sormak",
+    "Present Perfect ile hâlâ süren durumları anlatmak",
+    "Bitmiş süre için Past Simple kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "For ve since",
+      "paragraphs": [
+        "For ve since, Present Perfect ile hâlâ süren bir durumun ne kadar sürdüğünü ya da ne zamandan beri sürdüğünü anlatır. İkisi de Türkçede “-dir” (on yıldır, 2015’ten beri) ifadelerine karşılık gelir.",
+        "Fark şudur: for sürenin uzunluğunu (ten years, two hours), since ise başlangıç noktasını (2015, Monday) söyler."
+      ]
+    },
+    {
+      "id": "for",
+      "type": "rule",
+      "title": "For: süre",
+      "paragraphs": [
+        "For, bir zaman uzunluğundan önce gelir: for five minutes, for two weeks, for a long time."
+      ],
+      "formulas": [
+        {
+          "label": "Yapı",
+          "pattern": "have / has + V3 + for + süre",
+          "exampleIds": [
+            "ex-for-since-01",
+            "ex-for-since-02",
+            "ex-for-since-03",
+            "ex-for-since-04",
+            "ex-for-since-05",
+            "ex-for-since-06"
+          ]
+        },
+        {
+          "label": "Süre ifadeleri",
+          "pattern": "for ten minutes,  for two hours,  for three days,  for a week,  for a month,  for years,  for a long time",
+          "exampleIds": [
+            "ex-for-since-22",
+            "ex-for-since-24",
+            "ex-for-since-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "type": "rule",
+      "title": "Since: başlangıç noktası",
+      "paragraphs": [
+        "Since, bir başlangıç noktasından önce gelir: since 2015, since Monday, since 8 o’clock, since I was a child."
+      ],
+      "formulas": [
+        {
+          "label": "Yapı",
+          "pattern": "have / has + V3 + since + başlangıç noktası",
+          "exampleIds": [
+            "ex-for-since-07",
+            "ex-for-since-08",
+            "ex-for-since-09",
+            "ex-for-since-10",
+            "ex-for-since-11",
+            "ex-for-since-12",
+            "ex-for-since-13"
+          ]
+        },
+        {
+          "label": "Since + cümle",
+          "pattern": "since + özne + Past Simple",
+          "exampleIds": [
+            "ex-for-since-14",
+            "ex-for-since-25"
+          ]
+        },
+        {
+          "label": "Nokta ifadeleri",
+          "pattern": "since 2015,  since Monday,  since January,  since 8 o’clock,  since yesterday,  since breakfast",
+          "exampleIds": [
+            "ex-for-since-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "howlong",
+      "type": "rule",
+      "title": "How long ile soru",
+      "paragraphs": [
+        "Sürenin ne kadar olduğunu sormak için How long + have / has + özne + V3 kullanılır. Cevap for ya da since ile verilir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "How long + have / has + özne + V3 …?",
+          "exampleIds": [
+            "ex-for-since-15",
+            "ex-for-since-16",
+            "ex-for-since-17",
+            "ex-for-since-18"
+          ]
+        },
+        {
+          "label": "Cevap",
+          "pattern": "For + süre.   /   Since + nokta.",
+          "exampleIds": [
+            "ex-for-since-01",
+            "ex-for-since-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz cümlede",
+      "paragraphs": [
+        "Olumsuz cümlelerde de aynı kural geçerlidir: sürenin uzunluğu için for, başlangıç için since."
+      ],
+      "formulas": [
+        {
+          "label": "For",
+          "pattern": "haven’t / hasn’t + V3 + for + süre",
+          "exampleIds": [
+            "ex-for-since-19"
+          ]
+        },
+        {
+          "label": "Since",
+          "pattern": "haven’t / hasn’t + V3 + since + nokta",
+          "exampleIds": [
+            "ex-for-since-20",
+            "ex-for-since-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "forms",
+      "title": "For ve since: ayrım",
+      "forms": [
+        {
+          "label": "for",
+          "formula": "for + SÜRE",
+          "exampleIds": [
+            "ex-for-since-01",
+            "ex-for-since-05",
+            "ex-for-since-24"
+          ],
+          "note": "ten years, two hours, a week, a long time"
+        },
+        {
+          "label": "since",
+          "formula": "since + BAŞLANGIÇ",
+          "exampleIds": [
+            "ex-for-since-07",
+            "ex-for-since-11",
+            "ex-for-since-23"
+          ],
+          "note": "2015, Monday, January, 8 o’clock, yesterday"
+        },
+        {
+          "label": "Aynı anlam, iki yol",
+          "formula": "for 10 years = since 2015",
+          "exampleIds": [
+            "ex-for-since-01",
+            "ex-for-since-07"
+          ],
+          "note": "Şu an 2025 ise ikisi aynı süreyi anlatır."
+        }
+      ]
+    },
+    {
+      "id": "past",
+      "type": "rule",
+      "title": "Bitmiş süre: Past Simple",
+      "paragraphs": [
+        "Süre bitmişse Past Simple kullanılır: I lived in Izmir for five years (artık yaşamıyorum). Hâlâ sürüyorsa Present Perfect: I have lived in Izmir for five years (hâlâ yaşıyorum)."
+      ],
+      "formulas": [
+        {
+          "label": "Bitmiş",
+          "pattern": "Past Simple + for + süre",
+          "exampleIds": [
+            "ex-for-since-26"
+          ]
+        },
+        {
+          "label": "Süren",
+          "pattern": "Present Perfect + for + süre",
+          "exampleIds": [
+            "ex-for-since-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: for",
+      "exampleIds": [
+        "ex-for-since-01",
+        "ex-for-since-02",
+        "ex-for-since-03",
+        "ex-for-since-04",
+        "ex-for-since-05",
+        "ex-for-since-06",
+        "ex-for-since-19",
+        "ex-for-since-22",
+        "ex-for-since-24",
+        "ex-for-since-27",
+        "ex-for-since-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: since ve how long",
+      "exampleIds": [
+        "ex-for-since-07",
+        "ex-for-since-08",
+        "ex-for-since-09",
+        "ex-for-since-10",
+        "ex-for-since-11",
+        "ex-for-since-12",
+        "ex-for-since-13",
+        "ex-for-since-14",
+        "ex-for-since-15",
+        "ex-for-since-16",
+        "ex-for-since-17",
+        "ex-for-since-18",
+        "ex-for-since-20",
+        "ex-for-since-21",
+        "ex-for-since-23",
+        "ex-for-since-25",
+        "ex-for-since-26"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I have lived here since ten years.",
+          "right": "I have lived here for ten years.",
+          "explanation": "Süre: for."
+        },
+        {
+          "wrong": "I have lived here for 2015.",
+          "right": "I have lived here since 2015.",
+          "explanation": "Başlangıç noktası: since."
+        },
+        {
+          "wrong": "I live here for ten years.",
+          "right": "I have lived here for ten years.",
+          "explanation": "Süren durum Present Perfect ister."
+        },
+        {
+          "wrong": "I lived here since 2015.",
+          "right": "I have lived here since 2015.",
+          "explanation": "Since ile Present Perfect."
+        },
+        {
+          "wrong": "I am here since 8 o'clock.",
+          "right": "I have been here since 8 o'clock.",
+          "explanation": "Since ile Present Perfect."
+        },
+        {
+          "wrong": "How long do you live here?",
+          "right": "How long have you lived here?",
+          "explanation": "Süre sorusu Present Perfect ister."
+        },
+        {
+          "wrong": "She works here since January.",
+          "right": "She has worked here since January.",
+          "explanation": "Since ile Present Perfect."
+        },
+        {
+          "wrong": "I haven't seen him since two weeks.",
+          "right": "I haven't seen him for two weeks.",
+          "explanation": "Süre: for."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Perfect",
+          "body": "For ve since Present Perfect ile kullanılır.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Bitmiş süre için Past Simple kullanılır.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Present Perfect ve Past Simple",
+          "body": "Karşılaştırma dersinde ayrıntılı işlenir.",
+          "lessonId": "a2-present-perfect-vs-past-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "For + süre uzunluğu; since + başlangıç noktası.",
+        "Bu cümlelerde Present Perfect kullanılır, Present Simple değil.",
+        "How long sorusu da Present Perfect ile kurulur.",
+        "Süre bitmişse Past Simple: I lived there for five years.",
+        "Since'ten sonra Past Simple cümlesi de gelebilir: since I was a child."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-for-since-01",
+        "q-for-since-02",
+        "q-for-since-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-for-since-01",
+      "en": "I have lived here for ten years.",
+      "tr": "On yıldır burada yaşıyorum.",
+      "highlight": "for ten years",
+      "note": "for + süre"
+    },
+    {
+      "id": "ex-for-since-02",
+      "en": "She has worked here for three months.",
+      "tr": "Üç aydır burada çalışıyor.",
+      "highlight": "for three months"
+    },
+    {
+      "id": "ex-for-since-03",
+      "en": "We have known each other for a long time.",
+      "tr": "Uzun zamandır birbirimizi tanıyoruz.",
+      "highlight": "for a long time"
+    },
+    {
+      "id": "ex-for-since-04",
+      "en": "They have been married for five years.",
+      "tr": "Beş yıldır evliler.",
+      "highlight": "for five years"
+    },
+    {
+      "id": "ex-for-since-05",
+      "en": "He has studied English for two hours.",
+      "tr": "İki saattir İngilizce çalışıyor.",
+      "highlight": "for two hours"
+    },
+    {
+      "id": "ex-for-since-06",
+      "en": "I have had this phone for a week.",
+      "tr": "Bu telefon bir haftadır bende.",
+      "highlight": "for a week"
+    },
+    {
+      "id": "ex-for-since-07",
+      "en": "I have lived here since 2015.",
+      "tr": "2015'ten beri burada yaşıyorum.",
+      "highlight": "since 2015",
+      "note": "since + başlangıç noktası"
+    },
+    {
+      "id": "ex-for-since-08",
+      "en": "She has worked here since January.",
+      "tr": "Ocak'tan beri burada çalışıyor.",
+      "highlight": "since January"
+    },
+    {
+      "id": "ex-for-since-09",
+      "en": "We have known each other since school.",
+      "tr": "Okuldan beri birbirimizi tanıyoruz.",
+      "highlight": "since school"
+    },
+    {
+      "id": "ex-for-since-10",
+      "en": "They have been married since 2018.",
+      "tr": "2018'den beri evliler.",
+      "highlight": "since 2018"
+    },
+    {
+      "id": "ex-for-since-11",
+      "en": "He has been ill since Monday.",
+      "tr": "Pazartesi'den beri hasta.",
+      "highlight": "since Monday"
+    },
+    {
+      "id": "ex-for-since-12",
+      "en": "I have been here since 8 o'clock.",
+      "tr": "Sekizden beri buradayım.",
+      "highlight": "since 8 o'clock"
+    },
+    {
+      "id": "ex-for-since-13",
+      "en": "It has been raining since morning.",
+      "tr": "Sabahtan beri yağmur yağıyor.",
+      "highlight": "since morning"
+    },
+    {
+      "id": "ex-for-since-14",
+      "en": "She has been my friend since we were children.",
+      "tr": "Çocukluğumuzdan beri arkadaşım.",
+      "highlight": "since we were children",
+      "note": "since + cümle"
+    },
+    {
+      "id": "ex-for-since-15",
+      "en": "How long have you lived here?",
+      "tr": "Ne zamandır burada yaşıyorsun?",
+      "highlight": "How long",
+      "note": "Süre sorusu: How long"
+    },
+    {
+      "id": "ex-for-since-16",
+      "en": "How long has she worked here?",
+      "tr": "Ne zamandır burada çalışıyor?",
+      "highlight": "How long"
+    },
+    {
+      "id": "ex-for-since-17",
+      "en": "How long have they been married?",
+      "tr": "Ne zamandır evliler?",
+      "highlight": "How long"
+    },
+    {
+      "id": "ex-for-since-18",
+      "en": "How long have you known him?",
+      "tr": "Onu ne zamandır tanıyorsun?",
+      "highlight": "How long"
+    },
+    {
+      "id": "ex-for-since-19",
+      "en": "I haven't seen him for two weeks.",
+      "tr": "İki haftadır onu görmedim.",
+      "highlight": "for two weeks",
+      "note": "Olumsuzda for"
+    },
+    {
+      "id": "ex-for-since-20",
+      "en": "She hasn't called me since Monday.",
+      "tr": "Pazartesi'den beri beni aramadı.",
+      "highlight": "since Monday",
+      "note": "Olumsuzda since"
+    },
+    {
+      "id": "ex-for-since-21",
+      "en": "We haven't eaten since breakfast.",
+      "tr": "Kahvaltıdan beri bir şey yemedik.",
+      "highlight": "since breakfast"
+    },
+    {
+      "id": "ex-for-since-22",
+      "en": "I've known her for years.",
+      "tr": "Onu yıllardır tanıyorum.",
+      "highlight": "for years"
+    },
+    {
+      "id": "ex-for-since-23",
+      "en": "I've known her since 2010.",
+      "tr": "Onu 2010'dan beri tanıyorum.",
+      "highlight": "since 2010"
+    },
+    {
+      "id": "ex-for-since-24",
+      "en": "He has lived in Ankara for 20 years.",
+      "tr": "Yirmi yıldır Ankara'da yaşıyor.",
+      "highlight": "for 20 years"
+    },
+    {
+      "id": "ex-for-since-25",
+      "en": "He has lived in Ankara since he was born.",
+      "tr": "Doğduğundan beri Ankara'da yaşıyor.",
+      "highlight": "since he was born"
+    },
+    {
+      "id": "ex-for-since-26",
+      "en": "I lived in Izmir for five years.",
+      "tr": "Beş yıl İzmir'de yaşadım. (Artık yaşamıyorum.)",
+      "highlight": "lived",
+      "note": "Past Simple: bitmiş dönem"
+    },
+    {
+      "id": "ex-for-since-27",
+      "en": "She has been studying for two hours.",
+      "tr": "İki saattir çalışıyor.",
+      "highlight": "for two hours"
+    },
+    {
+      "id": "ex-for-since-28",
+      "en": "We have been friends for a long time.",
+      "tr": "Uzun zamandır arkadaşız.",
+      "highlight": "for a long time"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-for-since-01",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have lived here ___ ten years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süre: for.",
+      "optionExplanations": {
+        "b": "Since başlangıç noktası ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "In bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-02",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has worked here ___ January.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Başlangıç noktası: since.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-03",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "On yıldır burada yaşıyorum.",
+      "answer": [
+        "I",
+        "have",
+        "lived",
+        "here",
+        "for",
+        "ten",
+        "years"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "since",
+        "live"
+      ],
+      "explanation": "have + V3 + for",
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-for-since-04",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have lived here since ten years.",
+      "errorSpan": "since ten years",
+      "answers": [
+        "I have lived here for ten years."
+      ],
+      "explanation": "Süre: for.",
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-05",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "2015'ten beri burada yaşıyorum.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "I have lived here since 2015."
+      ],
+      "targetStructure": "since + nokta",
+      "explanation": "Başlangıç noktası.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have lived here for 2015.",
+          "explanation": "Başlangıç noktası: since."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-06",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She has been ill ___ Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Başlangıç: since.",
+      "optionExplanations": {
+        "b": "For süre ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "In bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-07",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We have known each other ___ a long time.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süre: for.",
+      "optionExplanations": {
+        "b": "Since nokta ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "At bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-08",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He has studied ___ two hours.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süre: for.",
+      "optionExplanations": {
+        "b": "Since nokta ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "At bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-09",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They have been married ___ five years.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-10",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They have been married ___ 2018.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-11",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have had this phone ___ a week.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-12",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How long ___ you lived here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "did"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "How long + have.",
+      "optionExplanations": {
+        "b": "Present Simple süre sorusu için uygun değil.",
+        "c": "Did geçmiş bitmiş süre için.",
+        "d": "Be fiili kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-13",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How long ___ she worked here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has.",
+      "optionExplanations": {
+        "b": "She ile has.",
+        "c": "Does kullanılmaz.",
+        "d": "Is kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-14",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have lived here since 2015."
+        },
+        {
+          "id": "b",
+          "text": "I live here since 2015."
+        },
+        {
+          "id": "c",
+          "text": "I lived here since 2015."
+        },
+        {
+          "id": "d",
+          "text": "I am living here since 2015."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Since ile Present Perfect.",
+      "optionExplanations": {
+        "b": "Present Simple ile since kullanılmaz.",
+        "c": "Past Simple ile since kullanılmaz.",
+        "d": "Present Continuous ile since kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-15",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I haven't seen him for two weeks."
+        },
+        {
+          "id": "b",
+          "text": "I haven't seen him since two weeks."
+        },
+        {
+          "id": "c",
+          "text": "I didn't see him since two weeks."
+        },
+        {
+          "id": "d",
+          "text": "I don't see him for two weeks."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süre: for.",
+      "optionExplanations": {
+        "b": "Süre için for.",
+        "c": "Past Simple ile since kullanılmaz.",
+        "d": "Present Simple süreyi anlatmaz."
+      },
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-16",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She hasn't called me ___ Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nokta: since.",
+      "optionExplanations": {
+        "b": "For süre ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "In bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-17",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We haven't eaten ___ breakfast.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nokta: since.",
+      "optionExplanations": {
+        "b": "For süre ile.",
+        "c": "From bu anlamda kullanılmaz.",
+        "d": "At bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-18",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "How long ___ they been married?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "They ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "They ile have."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-19",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "How long ___ you known him?",
+      "answers": [
+        "have"
+      ],
+      "explanation": "You ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Present Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-20",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It has been raining ___ morning.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-21",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He has been ill ___ three days.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-22",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I haven't seen him ___ two weeks.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-23",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She hasn't called me ___ Monday.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-24",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I've known her ___ years.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-25",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I've known her ___ 2010.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-26",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have lived here for 2015.",
+      "errorSpan": "for 2015",
+      "answers": [
+        "I have lived here since 2015."
+      ],
+      "explanation": "Nokta: since.",
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-27",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I live here for ten years.",
+      "errorSpan": "live",
+      "answers": [
+        "I have lived here for ten years."
+      ],
+      "explanation": "Present Perfect gerekir.",
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-28",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I lived here since 2015.",
+      "errorSpan": "lived",
+      "answers": [
+        "I have lived here since 2015."
+      ],
+      "explanation": "Since ile Present Perfect.",
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-29",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "How long do you live here?",
+      "errorSpan": "do you live",
+      "answers": [
+        "How long have you lived here?"
+      ],
+      "explanation": "Present Perfect gerekir.",
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-30",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She works here since January.",
+      "errorSpan": "works",
+      "answers": [
+        "She has worked here since January."
+      ],
+      "explanation": "Since ile Present Perfect.",
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-31",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne zamandır burada yaşıyorsun?",
+      "answer": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "lived",
+        "here"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "did"
+      ],
+      "explanation": "How long + have",
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-32",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Pazartesi'den beri hasta.",
+      "answer": [
+        "He",
+        "has",
+        "been",
+        "ill",
+        "since",
+        "Monday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "for",
+        "have"
+      ],
+      "explanation": "has been + since",
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-33",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İki haftadır onu görmedim.",
+      "answer": [
+        "I",
+        "haven't",
+        "seen",
+        "him",
+        "for",
+        "two",
+        "weeks"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "since",
+        "hasn't"
+      ],
+      "explanation": "haven't + for",
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-34",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne zamandır burada çalışıyor?",
+      "hint": "çalışmak: work",
+      "answers": [
+        "How long has she worked here?",
+        "How long has he worked here?"
+      ],
+      "targetStructure": "How long has",
+      "explanation": "Süre sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How long does she work here?",
+          "explanation": "Present Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "howlong"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-for-since-35",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Üç aydır burada çalışıyor.",
+      "hint": "ay: month",
+      "answers": [
+        "She has worked here for three months.",
+        "He has worked here for three months."
+      ],
+      "targetStructure": "for + süre",
+      "explanation": "Süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She works here for three months.",
+          "explanation": "Present Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "for"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-36",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kahvaltıdan beri bir şey yemedik.",
+      "hint": "kahvaltı: breakfast",
+      "answers": [
+        "We haven't eaten since breakfast."
+      ],
+      "targetStructure": "since + nokta",
+      "explanation": "Nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We haven't eaten for breakfast.",
+          "explanation": "Nokta: since."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-37",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Şu an 2025. 'Since 2015' hangi süre ile aynıdır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "for ten years"
+        },
+        {
+          "id": "b",
+          "text": "for two years"
+        },
+        {
+          "id": "c",
+          "text": "for 2015"
+        },
+        {
+          "id": "d",
+          "text": "since ten years"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "2015'ten 2025'e on yıl.",
+      "optionExplanations": {
+        "b": "İki yıl değil on yıl.",
+        "c": "Süre rakamla verilmez.",
+        "d": "Since ile süre kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "vs"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-38",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has been my friend since we were children."
+        },
+        {
+          "id": "b",
+          "text": "She has been my friend for we were children."
+        },
+        {
+          "id": "c",
+          "text": "She is my friend since we were children."
+        },
+        {
+          "id": "d",
+          "text": "She was my friend since we were children."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Since + cümle.",
+      "optionExplanations": {
+        "b": "For + cümle kullanılmaz.",
+        "c": "Present Simple ile since kullanılmaz.",
+        "d": "Past Simple ile since kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-39",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinde artık yaşamıyor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I lived in Izmir for five years."
+        },
+        {
+          "id": "b",
+          "text": "I have lived in Izmir for five years."
+        },
+        {
+          "id": "c",
+          "text": "I have been living in Izmir for five years."
+        },
+        {
+          "id": "d",
+          "text": "I live in Izmir for five years."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past Simple: bitmiş süre.",
+      "optionExplanations": {
+        "b": "Present Perfect: hâlâ sürüyor.",
+        "c": "Süren durum.",
+        "d": "Present Simple ile for kullanılmaz."
+      },
+      "tags": [
+        "for-since",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-40",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She has been my friend ___ we were children.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Since + cümle.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For + cümle kullanılmaz."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-41",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He has lived in Ankara ___ he was born.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Since + cümle.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For + cümle kullanılmaz."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-42",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doğduğundan beri Ankara'da yaşıyor.",
+      "hint": "doğmak: be born",
+      "answers": [
+        "He has lived in Ankara since he was born.",
+        "She has lived in Ankara since she was born."
+      ],
+      "targetStructure": "since + cümle",
+      "explanation": "Since + Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He has lived in Ankara for he was born.",
+          "explanation": "For + cümle kullanılmaz."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-43",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beş yıl İzmir'de yaşadım.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "I lived in Izmir for five years."
+      ],
+      "targetStructure": "Past Simple + for",
+      "explanation": "Bitmiş süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have lived in Izmir for five years.",
+          "explanation": "Artık yaşamıyorsan Past Simple."
+        }
+      ],
+      "tags": [
+        "for-since",
+        "past"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-for-since-44",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I haven't seen him since two weeks.",
+      "errorSpan": "since two weeks",
+      "answers": [
+        "I haven't seen him for two weeks."
+      ],
+      "explanation": "Süre: for.",
+      "tags": [
+        "for-since",
+        "negative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-for-since-45",
+      "lessonId": "a2-for-since",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am here since 8 o'clock.",
+      "errorSpan": "am here",
+      "answers": [
+        "I have been here since 8 o'clock."
+      ],
+      "explanation": "Since ile Present Perfect.",
+      "tags": [
+        "for-since",
+        "since"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-for-since",
+    "title": "For & Since: Konu sonu sınavı",
+    "description": "For, since, how long ve Present Perfect.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-for-since-exam-01",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She has lived here ___ five years.",
+        "options": [
+          {
+            "id": "a",
+            "text": "for"
+          },
+          {
+            "id": "b",
+            "text": "since"
+          },
+          {
+            "id": "c",
+            "text": "from"
+          },
+          {
+            "id": "d",
+            "text": "in"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Süre.",
+        "optionExplanations": {
+          "b": "Since nokta ile.",
+          "c": "From.",
+          "d": "In."
+        },
+        "tags": [
+          "for-since",
+          "for"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-02",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I have known him ___ 2010.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "Nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "For süre ile."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-03",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Üç aydır burada çalışıyor.",
+        "answer": [
+          "She",
+          "has",
+          "worked",
+          "here",
+          "for",
+          "three",
+          "months"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "since",
+          "work"
+        ],
+        "explanation": "has + V3 + for",
+        "tags": [
+          "for-since",
+          "for"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-04",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They have been married since five years.",
+        "errorSpan": "since five years",
+        "answers": [
+          "They have been married for five years."
+        ],
+        "explanation": "Süre: for.",
+        "tags": [
+          "for-since",
+          "for"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-05",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ocak'tan beri burada çalışıyor.",
+        "hint": "çalışmak: work",
+        "answers": [
+          "She has worked here since January.",
+          "He has worked here since January."
+        ],
+        "targetStructure": "since + nokta",
+        "explanation": "Nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She has worked here for January.",
+            "explanation": "Nokta: since."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-06",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "How long ___ he lived here?",
+        "options": [
+          {
+            "id": "a",
+            "text": "has"
+          },
+          {
+            "id": "b",
+            "text": "have"
+          },
+          {
+            "id": "c",
+            "text": "does"
+          },
+          {
+            "id": "d",
+            "text": "is"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "He ile has.",
+        "optionExplanations": {
+          "b": "He ile has.",
+          "c": "Does Present Perfect kurmaz.",
+          "d": "Be fiili kullanılmaz."
+        },
+        "tags": [
+          "for-since",
+          "howlong"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-07",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He has been ill ___ Monday.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "Nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "For süre ile."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-08",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onu ne zamandır tanıyorsun?",
+        "answer": [
+          "How",
+          "long",
+          "have",
+          "you",
+          "known",
+          "him"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "knew"
+        ],
+        "explanation": "How long + have",
+        "tags": [
+          "for-since",
+          "howlong"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-09",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He works here since March.",
+        "errorSpan": "works",
+        "answers": [
+          "He has worked here since March."
+        ],
+        "explanation": "Since ile Present Perfect.",
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-10",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İki haftadır onu görmedim.",
+        "hint": "görmek: see",
+        "answers": [
+          "I haven't seen him for two weeks.",
+          "I haven't seen her for two weeks."
+        ],
+        "targetStructure": "haven't + for",
+        "explanation": "Süre.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I haven't seen him since two weeks.",
+            "explanation": "Süre: for."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "negative"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-11",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I have lived here for ten years."
+          },
+          {
+            "id": "b",
+            "text": "I live here for ten years."
+          },
+          {
+            "id": "c",
+            "text": "I lived here since ten years."
+          },
+          {
+            "id": "d",
+            "text": "I am living here for ten years."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Present Perfect + for.",
+        "optionExplanations": {
+          "b": "Present Simple süreyi anlatmaz.",
+          "c": "Since süre ile kullanılmaz.",
+          "d": "Süren durum Present Perfect."
+        },
+        "tags": [
+          "for-since",
+          "for"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-12",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We haven't eaten ___ breakfast.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "Nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "For süre ile."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "negative"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-13",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We lived here since 2019.",
+        "errorSpan": "lived",
+        "answers": [
+          "We have lived here since 2019."
+        ],
+        "explanation": "Since ile Present Perfect.",
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-14",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisinde artık çalışmıyor?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He worked there for ten years."
+          },
+          {
+            "id": "b",
+            "text": "He has worked there for ten years."
+          },
+          {
+            "id": "c",
+            "text": "He has been working there for ten years."
+          },
+          {
+            "id": "d",
+            "text": "He works there for ten years."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Past Simple.",
+        "optionExplanations": {
+          "b": "Hâlâ sürüyor.",
+          "c": "Hâlâ sürüyor.",
+          "d": "Present Simple."
+        },
+        "tags": [
+          "for-since",
+          "past"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-15",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He has been a doctor ___ he graduated.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "Since + cümle.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "For + cümle kullanılmaz."
+          }
+        ],
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-for-since-exam-16",
+        "lessonId": "a2-for-since",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Sabahtan beri yağmur yağıyor.",
+        "answer": [
+          "It",
+          "has",
+          "been",
+          "raining",
+          "since",
+          "morning"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "for",
+          "have"
+        ],
+        "explanation": "has been + since",
+        "tags": [
+          "for-since",
+          "since"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      }
+    ]
+  }
+}

@@ -106,6 +106,7 @@ describeLesson("a2-going-to", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-present-continuous-future", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-present-perfect", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-ever-never-just-already-yet", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("a2-for-since", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });
