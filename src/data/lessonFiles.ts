@@ -37,6 +37,7 @@ import aQTags from "@/assets/data/levels/a2/a2-question-tags-intro.json";
 import aSoBec from "@/assets/data/levels/a2/a2-so-because.json";
 import aPassive from "@/assets/data/levels/a2/a2-passive-basic.json";
 import aReported from "@/assets/data/levels/a2/a2-reported-speech-basic.json";
+import bPPC from "@/assets/data/levels/b1/b1-present-perfect-continuous.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -91,6 +92,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-so-because": aSoBec,
   "a2-passive-basic": aPassive,
   "a2-reported-speech-basic": aReported,
+  "b1-present-perfect-continuous": bPPC,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

@@ -1,0 +1,2291 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-present-perfect-continuous",
+  "levelId": "b1",
+  "title": "Present Perfect Continuous",
+  "objectives": [
+    "Have / has + been + -ing yapısını kurmak",
+    "Süreç ve süre vurgusunu Present Perfect Continuous ile anlatmak",
+    "Present Perfect Simple ve Continuous farkını ayırt etmek",
+    "Durum fiillerinin Continuous almadığını bilmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Perfect Continuous nedir?",
+      "paragraphs": [
+        "Present Perfect Continuous, geçmişte başlayıp hâlâ süren ya da yeni bitmiş olan ve şimdiyle bağlantısı olan eylemin sürecini vurgular. “Bir saattir bekliyorum”, “Gözleri kırmızı, ağlıyormuş.”",
+        "Yapı: have / has + been + fiil-ing. Present Perfect (have + V3) eylemin sonucuna ve tamamlanmasına odaklanır; Continuous ise sürece, süreye ve süreklilikte vurgu yapar."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "I / you / we / they için have been, he / she / it için has been kullanılır. Ardından fiil-ing gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + have / has + been + fiil-ing",
+          "exampleIds": [
+            "ex-ppc-01",
+            "ex-ppc-02",
+            "ex-ppc-03",
+            "ex-ppc-04",
+            "ex-ppc-05"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + haven’t / hasn’t + been + fiil-ing",
+          "exampleIds": [
+            "ex-ppc-11",
+            "ex-ppc-12",
+            "ex-ppc-13"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + been + fiil-ing …?",
+          "exampleIds": [
+            "ex-ppc-14",
+            "ex-ppc-15"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "How long / What / Where + have / has + özne + been + -ing?",
+          "exampleIds": [
+            "ex-ppc-16",
+            "ex-ppc-17",
+            "ex-ppc-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Hâlâ süren eylem",
+          "formula": "I have been waiting for an hour.",
+          "exampleIds": [
+            "ex-ppc-01",
+            "ex-ppc-02",
+            "ex-ppc-03",
+            "ex-ppc-28"
+          ],
+          "note": "For / since ile süre; eylem şu an sürüyor."
+        },
+        {
+          "label": "Yeni bitmiş, kanıtı görünen eylem",
+          "formula": "Her eyes are red. She has been crying.",
+          "exampleIds": [
+            "ex-ppc-08",
+            "ex-ppc-09",
+            "ex-ppc-10"
+          ],
+          "note": "Sonuç şimdi görünüyor."
+        },
+        {
+          "label": "Yakın zamandaki tekrar eden eylem",
+          "formula": "I haven’t been sleeping well.",
+          "exampleIds": [
+            "ex-ppc-06",
+            "ex-ppc-11",
+            "ex-ppc-12",
+            "ex-ppc-13"
+          ],
+          "note": "Son zamanlarda."
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "forms",
+      "title": "Continuous ve Simple farkı",
+      "forms": [
+        {
+          "label": "Süreç / süre → Continuous",
+          "formula": "I have been reading this book for a week.",
+          "exampleIds": [
+            "ex-ppc-19",
+            "ex-ppc-23",
+            "ex-ppc-21"
+          ],
+          "note": "Eylem sürüyor ya da süreç vurgulu."
+        },
+        {
+          "label": "Sonuç / sayı → Simple",
+          "formula": "I have read this book three times.",
+          "exampleIds": [
+            "ex-ppc-20",
+            "ex-ppc-24",
+            "ex-ppc-22"
+          ],
+          "note": "Tamamlanmış ya da sayılabilir."
+        },
+        {
+          "label": "How long / how many",
+          "formula": "How long have you been waiting? / How many cups have you drunk?",
+          "exampleIds": [
+            "ex-ppc-16",
+            "ex-ppc-27"
+          ],
+          "note": "Süre: Continuous; sayı: Simple."
+        }
+      ]
+    },
+    {
+      "id": "stative",
+      "type": "rule",
+      "title": "Durum fiilleri",
+      "paragraphs": [
+        "Know, like, love, want, need, believe, understand gibi durum fiilleri Continuous biçimde kullanılmaz. Bunlar için Present Perfect Simple kullanılır: I have known him for years. (I have been knowing ✗)"
+      ],
+      "formulas": [
+        {
+          "label": "Durum fiili",
+          "pattern": "have known,  have liked,  have wanted,  have been (be)",
+          "exampleIds": [
+            "ex-ppc-25",
+            "ex-ppc-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yapı ve kullanım",
+      "exampleIds": [
+        "ex-ppc-01",
+        "ex-ppc-02",
+        "ex-ppc-03",
+        "ex-ppc-04",
+        "ex-ppc-05",
+        "ex-ppc-06",
+        "ex-ppc-07",
+        "ex-ppc-08",
+        "ex-ppc-09",
+        "ex-ppc-10",
+        "ex-ppc-11",
+        "ex-ppc-12",
+        "ex-ppc-13",
+        "ex-ppc-14",
+        "ex-ppc-15",
+        "ex-ppc-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru ve Simple ile fark",
+      "exampleIds": [
+        "ex-ppc-16",
+        "ex-ppc-17",
+        "ex-ppc-18",
+        "ex-ppc-19",
+        "ex-ppc-20",
+        "ex-ppc-21",
+        "ex-ppc-22",
+        "ex-ppc-23",
+        "ex-ppc-24",
+        "ex-ppc-25",
+        "ex-ppc-26",
+        "ex-ppc-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I have been wait for an hour.",
+          "right": "I have been waiting for an hour.",
+          "explanation": "Been'den sonra -ing."
+        },
+        {
+          "wrong": "She have been working here.",
+          "right": "She has been working here.",
+          "explanation": "She ile has."
+        },
+        {
+          "wrong": "I am waiting for an hour.",
+          "right": "I have been waiting for an hour.",
+          "explanation": "For ile süren eylem: Present Perfect Continuous."
+        },
+        {
+          "wrong": "I have been knowing him for years.",
+          "right": "I have known him for years.",
+          "explanation": "Durum fiili Continuous almaz."
+        },
+        {
+          "wrong": "I have been reading three books.",
+          "right": "I have read three books.",
+          "explanation": "Sayı verilince Simple."
+        },
+        {
+          "wrong": "Have you been wait long?",
+          "right": "Have you been waiting long?",
+          "explanation": "Soruda da -ing."
+        },
+        {
+          "wrong": "It has been rain since Monday.",
+          "right": "It has been raining since Monday.",
+          "explanation": "-ing gerekir."
+        },
+        {
+          "wrong": "She has been cry.",
+          "right": "She has been crying.",
+          "explanation": "-ing gerekir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Perfect",
+          "body": "Have + V3 sonuç ve tamamlanmayı vurgular.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "For ve since",
+          "body": "Süre ve başlangıç noktası burada da geçerlidir.",
+          "lessonId": "a2-for-since"
+        },
+        {
+          "topic": "Present Continuous",
+          "body": "Şu an süren eylem: am / is / are + -ing.",
+          "lessonId": "a1-present-continuous"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: have / has + been + -ing.",
+        "Süre ve süreç vurgusu için Continuous; sonuç ve sayı için Simple.",
+        "Durum fiilleri (know, like, want) Continuous almaz.",
+        "How long → Continuous; how many / how much → Simple.",
+        "Kanıtı şimdi görünen yeni bitmiş eylemler için de kullanılır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-ppc-01",
+        "q-ppc-02",
+        "q-ppc-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-ppc-01",
+      "en": "I have been waiting for an hour.",
+      "tr": "Bir saattir bekliyorum.",
+      "highlight": "have been waiting",
+      "note": "have / has been + -ing"
+    },
+    {
+      "id": "ex-ppc-02",
+      "en": "She has been working here since 2020.",
+      "tr": "2020'den beri burada çalışıyor.",
+      "highlight": "has been working"
+    },
+    {
+      "id": "ex-ppc-03",
+      "en": "They have been living in Izmir for ten years.",
+      "tr": "On yıldır İzmir'de yaşıyorlar.",
+      "highlight": "have been living"
+    },
+    {
+      "id": "ex-ppc-04",
+      "en": "It has been raining all day.",
+      "tr": "Bütün gün yağmur yağıyor.",
+      "highlight": "has been raining"
+    },
+    {
+      "id": "ex-ppc-05",
+      "en": "We have been studying English for two years.",
+      "tr": "İki yıldır İngilizce çalışıyoruz.",
+      "highlight": "have been studying"
+    },
+    {
+      "id": "ex-ppc-06",
+      "en": "He has been learning to drive.",
+      "tr": "Araba kullanmayı öğreniyor.",
+      "highlight": "has been learning"
+    },
+    {
+      "id": "ex-ppc-07",
+      "en": "You look tired. Have you been working hard?",
+      "tr": "Yorgun görünüyorsun. Çok mu çalıştın?",
+      "highlight": "Have you been working",
+      "note": "sonuç gözle görülür"
+    },
+    {
+      "id": "ex-ppc-08",
+      "en": "Her eyes are red. She has been crying.",
+      "tr": "Gözleri kırmızı. Ağlıyormuş.",
+      "highlight": "has been crying"
+    },
+    {
+      "id": "ex-ppc-09",
+      "en": "The grass is wet. It has been raining.",
+      "tr": "Çimen ıslak. Yağmur yağmış.",
+      "highlight": "has been raining"
+    },
+    {
+      "id": "ex-ppc-10",
+      "en": "I'm out of breath because I have been running.",
+      "tr": "Koştuğum için nefes nefeseyim.",
+      "highlight": "have been running"
+    },
+    {
+      "id": "ex-ppc-11",
+      "en": "I haven't been sleeping well.",
+      "tr": "İyi uyumuyorum.",
+      "highlight": "haven't been sleeping",
+      "note": "Olumsuz: haven't / hasn't been + -ing"
+    },
+    {
+      "id": "ex-ppc-12",
+      "en": "She hasn't been feeling well.",
+      "tr": "Kendini iyi hissetmiyor.",
+      "highlight": "hasn't been feeling"
+    },
+    {
+      "id": "ex-ppc-13",
+      "en": "They haven't been working lately.",
+      "tr": "Son zamanlarda çalışmıyorlar.",
+      "highlight": "haven't been working"
+    },
+    {
+      "id": "ex-ppc-14",
+      "en": "Have you been waiting long?",
+      "tr": "Uzun süredir mi bekliyorsun?",
+      "highlight": "Have you been waiting",
+      "note": "Soru: Have / Has + özne + been + -ing"
+    },
+    {
+      "id": "ex-ppc-15",
+      "en": "Has he been studying?",
+      "tr": "Çalışıyor muydu?",
+      "highlight": "Has he been studying"
+    },
+    {
+      "id": "ex-ppc-16",
+      "en": "How long have you been learning English?",
+      "tr": "Ne zamandır İngilizce öğreniyorsun?",
+      "highlight": "How long have you been learning"
+    },
+    {
+      "id": "ex-ppc-17",
+      "en": "What have you been doing?",
+      "tr": "Ne yapıyordun? (son zamanlarda)",
+      "highlight": "What have you been doing"
+    },
+    {
+      "id": "ex-ppc-18",
+      "en": "Where have you been going?",
+      "tr": "Nereye gidiyordun?",
+      "highlight": "Where have you been going"
+    },
+    {
+      "id": "ex-ppc-19",
+      "en": "I have been reading this book for a week.",
+      "tr": "Bir haftadır bu kitabı okuyorum.",
+      "highlight": "have been reading",
+      "note": "süreç: Continuous"
+    },
+    {
+      "id": "ex-ppc-20",
+      "en": "I have read this book three times.",
+      "tr": "Bu kitabı üç kez okudum.",
+      "highlight": "have read",
+      "note": "sayı / sonuç: Simple"
+    },
+    {
+      "id": "ex-ppc-21",
+      "en": "She has been painting the room.",
+      "tr": "Odayı boyuyor (boyamaya devam ediyor).",
+      "highlight": "has been painting"
+    },
+    {
+      "id": "ex-ppc-22",
+      "en": "She has painted the room.",
+      "tr": "Odayı boyadı (iş bitti).",
+      "highlight": "has painted",
+      "note": "tamamlanmış sonuç"
+    },
+    {
+      "id": "ex-ppc-23",
+      "en": "I have been writing emails all morning.",
+      "tr": "Bütün sabah e-posta yazıyorum.",
+      "highlight": "have been writing"
+    },
+    {
+      "id": "ex-ppc-24",
+      "en": "I have written ten emails.",
+      "tr": "On e-posta yazdım.",
+      "highlight": "have written"
+    },
+    {
+      "id": "ex-ppc-25",
+      "en": "I know him. (durum fiili)",
+      "tr": "Onu tanıyorum.",
+      "highlight": "know",
+      "note": "know: Continuous almaz"
+    },
+    {
+      "id": "ex-ppc-26",
+      "en": "I have known him for years.",
+      "tr": "Onu yıllardır tanıyorum.",
+      "highlight": "have known",
+      "note": "durum fiili: Simple"
+    },
+    {
+      "id": "ex-ppc-27",
+      "en": "How long have you been waiting? / How many cups have you drunk?",
+      "tr": "Ne kadar bekledin? / Kaç fincan içtin?",
+      "highlight": "How many cups have you drunk",
+      "note": "süre: Continuous; sayı: Simple"
+    },
+    {
+      "id": "ex-ppc-28",
+      "en": "It has been snowing since Monday.",
+      "tr": "Pazartesi'den beri kar yağıyor.",
+      "highlight": "has been snowing"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-ppc-01",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ waiting for an hour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "have been + -ing.",
+      "optionExplanations": {
+        "b": "For ile Present Continuous kullanılmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "Been eksik."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-02",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has ___ working here since 2020.",
+      "answers": [
+        "been"
+      ],
+      "explanation": "has been + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "be",
+          "explanation": "Been gerekir."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-03",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir saattir bekliyorum.",
+      "answer": [
+        "I",
+        "have",
+        "been",
+        "waiting",
+        "for",
+        "an",
+        "hour"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "wait"
+      ],
+      "explanation": "have been + -ing",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ppc-04",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am waiting for an hour.",
+      "errorSpan": "am waiting",
+      "answers": [
+        "I have been waiting for an hour."
+      ],
+      "explanation": "Süre için Present Perfect Continuous.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-05",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir saattir bekliyorum.",
+      "hint": "beklemek: wait",
+      "answers": [
+        "I have been waiting for an hour.",
+        "I've been waiting for an hour."
+      ],
+      "targetStructure": "have been + -ing",
+      "explanation": "Süren eylem.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I am waiting for an hour.",
+          "explanation": "For ile Present Perfect Continuous."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-06",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ working here since 2020.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been"
+        },
+        {
+          "id": "b",
+          "text": "have been"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile has been.",
+      "optionExplanations": {
+        "b": "She ile has.",
+        "c": "Since ile Present Continuous kullanılmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ppc-07",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They have been ___ in Izmir for ten years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "living"
+        },
+        {
+          "id": "b",
+          "text": "live"
+        },
+        {
+          "id": "c",
+          "text": "lived"
+        },
+        {
+          "id": "d",
+          "text": "lives"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Been + -ing.",
+      "optionExplanations": {
+        "b": "-ing gerekir.",
+        "c": "-ing gerekir.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-08",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It has been ___ all day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "raining"
+        },
+        {
+          "id": "b",
+          "text": "rain"
+        },
+        {
+          "id": "c",
+          "text": "rained"
+        },
+        {
+          "id": "d",
+          "text": "rains"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Been + -ing.",
+      "optionExplanations": {
+        "b": "-ing gerekir.",
+        "c": "-ing gerekir.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-09",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We have been ___ English for two years. (study)",
+      "answers": [
+        "studying"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "study",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-10",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ been learning to drive.",
+      "answers": [
+        "has"
+      ],
+      "explanation": "He ile has.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "have",
+          "explanation": "He ile has."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ppc-11",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ been living here for years.",
+      "answers": [
+        "have"
+      ],
+      "explanation": "They ile have.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "They ile have."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ppc-12",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Her eyes are red. She ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has been crying"
+        },
+        {
+          "id": "b",
+          "text": "cried"
+        },
+        {
+          "id": "c",
+          "text": "is crying"
+        },
+        {
+          "id": "d",
+          "text": "cries"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şimdiki kanıt: Continuous.",
+      "optionExplanations": {
+        "b": "Past Simple kanıtı bağlamaz.",
+        "c": "Şimdiki zaman.",
+        "d": "Present Simple alışkanlık."
+      },
+      "tags": [
+        "ppc",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-13",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ sleeping well. (uyumuyorum, son zamanlarda)",
+      "options": [
+        {
+          "id": "a",
+          "text": "haven't been"
+        },
+        {
+          "id": "b",
+          "text": "don't be"
+        },
+        {
+          "id": "c",
+          "text": "wasn't"
+        },
+        {
+          "id": "d",
+          "text": "haven't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "haven't been + -ing.",
+      "optionExplanations": {
+        "b": "Biçim yanlış.",
+        "c": "Geçmiş zaman.",
+        "d": "Been eksik."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ppc-14",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you been waiting long?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have"
+        },
+        {
+          "id": "b",
+          "text": "Did"
+        },
+        {
+          "id": "c",
+          "text": "Are"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Have + özne + been.",
+      "optionExplanations": {
+        "b": "Did Present Perfect kurmaz.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-15",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How long ___ you been learning English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "did"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "How long + have.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "Be fiili kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-16",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ this book three times. (üç kez okudum)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have read"
+        },
+        {
+          "id": "b",
+          "text": "have been reading"
+        },
+        {
+          "id": "c",
+          "text": "am reading"
+        },
+        {
+          "id": "d",
+          "text": "read"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sayı: Simple.",
+      "optionExplanations": {
+        "b": "Sayı verilince Simple.",
+        "c": "Şimdiki zaman.",
+        "d": "Past Simple başka bağlam."
+      },
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-17",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ this book for a week. (bir haftadır okuyorum)",
+      "options": [
+        {
+          "id": "a",
+          "text": "have been reading"
+        },
+        {
+          "id": "b",
+          "text": "have read"
+        },
+        {
+          "id": "c",
+          "text": "am reading"
+        },
+        {
+          "id": "d",
+          "text": "read"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süre: Continuous.",
+      "optionExplanations": {
+        "b": "Simple tamamlanmayı vurgular.",
+        "c": "Süre için Present Perfect.",
+        "d": "Past Simple."
+      },
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-18",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ been feeling well. (hissetmiyor)",
+      "answers": [
+        "hasn't",
+        "has not"
+      ],
+      "explanation": "She ile hasn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "haven't",
+          "explanation": "She ile hasn't."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ppc-19",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ been working lately. (çalışmıyorlar)",
+      "answers": [
+        "haven't",
+        "have not"
+      ],
+      "explanation": "They ile haven't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hasn't",
+          "explanation": "They ile haven't."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ppc-20",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he been studying?",
+      "answers": [
+        "Has"
+      ],
+      "explanation": "He ile has.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Have",
+          "explanation": "He ile has."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-21",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What have you been ___? (do)",
+      "answers": [
+        "doing"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-22",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "How ___ have you been waiting?",
+      "answers": [
+        "long"
+      ],
+      "explanation": "How long.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "Süre: how long."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-23",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have been ___ emails all morning. (write)",
+      "answers": [
+        "writing"
+      ],
+      "explanation": "-ing: write → writing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "writeing",
+          "explanation": "-e düşer."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-24",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have known him ___ years.",
+      "answers": [
+        "for"
+      ],
+      "explanation": "For + süre.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "since",
+          "explanation": "Since nokta ile."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "stative"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ppc-25",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It has been snowing ___ Monday.",
+      "answers": [
+        "since"
+      ],
+      "explanation": "Since + nokta.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For süre ile."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ppc-26",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have been wait for an hour.",
+      "errorSpan": "wait",
+      "answers": [
+        "I have been waiting for an hour."
+      ],
+      "explanation": "Been + -ing.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-27",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She have been working here.",
+      "errorSpan": "have been",
+      "answers": [
+        "She has been working here."
+      ],
+      "explanation": "She ile has.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-ppc-28",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have been knowing him for years.",
+      "errorSpan": "been knowing",
+      "answers": [
+        "I have known him for years."
+      ],
+      "explanation": "Durum fiili.",
+      "tags": [
+        "ppc",
+        "stative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-29",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have you been wait long?",
+      "errorSpan": "wait",
+      "answers": [
+        "Have you been waiting long?"
+      ],
+      "explanation": "-ing.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-30",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It has been rain since Monday.",
+      "errorSpan": "rain",
+      "answers": [
+        "It has been raining since Monday."
+      ],
+      "explanation": "-ing.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-31",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne zamandır İngilizce öğreniyorsun?",
+      "answer": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "learning",
+        "English"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "did",
+        "learn"
+      ],
+      "explanation": "How long + have + been + -ing",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-32",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kendini iyi hissetmiyor.",
+      "answer": [
+        "She",
+        "hasn't",
+        "been",
+        "feeling",
+        "well"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "haven't",
+        "feel"
+      ],
+      "explanation": "hasn't been + -ing",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ppc-33",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bütün gün yağmur yağıyor.",
+      "answer": [
+        "It",
+        "has",
+        "been",
+        "raining",
+        "all",
+        "day"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "rain"
+      ],
+      "explanation": "has been + -ing",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-34",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne zamandır İngilizce öğreniyorsun?",
+      "hint": "öğrenmek: learn",
+      "answers": [
+        "How long have you been learning English?"
+      ],
+      "targetStructure": "How long + been + -ing",
+      "explanation": "Süre sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How long do you learn English?",
+          "explanation": "Süre için Present Perfect Continuous."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-35",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "On yıldır İzmir'de yaşıyorlar.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "They have been living in Izmir for ten years.",
+        "They've been living in Izmir for ten years.",
+        "They have lived in Izmir for ten years."
+      ],
+      "targetStructure": "have been + -ing",
+      "explanation": "Süren durum.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They are living in Izmir for ten years.",
+          "explanation": "For ile Present Perfect."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-36",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Son zamanlarda çalışmıyorlar.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "They haven't been working lately."
+      ],
+      "targetStructure": "haven't been + -ing",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They don't been working lately.",
+          "explanation": "Biçim yanlış."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ppc-37",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinde Continuous kullanılamaz?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have known him for years."
+        },
+        {
+          "id": "b",
+          "text": "I have been waiting for an hour."
+        },
+        {
+          "id": "c",
+          "text": "I have been working all day."
+        },
+        {
+          "id": "d",
+          "text": "I have been learning English."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Know durum fiilidir.",
+      "optionExplanations": {
+        "b": "Eylem fiili.",
+        "c": "Eylem fiili.",
+        "d": "Eylem fiili."
+      },
+      "tags": [
+        "ppc",
+        "stative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-38",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "How many emails have you written?"
+        },
+        {
+          "id": "b",
+          "text": "How many emails have you been writing?"
+        },
+        {
+          "id": "c",
+          "text": "How long have you written emails?"
+        },
+        {
+          "id": "d",
+          "text": "How long you have been writing?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "How many → Simple.",
+      "optionExplanations": {
+        "b": "Sayı için Simple.",
+        "c": "Süre için Continuous.",
+        "d": "Soru yapısı bozuk."
+      },
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ppc-39",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi tamamlanmış sonucu vurgular?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has painted the room."
+        },
+        {
+          "id": "b",
+          "text": "She has been painting the room."
+        },
+        {
+          "id": "c",
+          "text": "She is painting the room."
+        },
+        {
+          "id": "d",
+          "text": "She was painting the room."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Simple: tamamlanmış.",
+      "optionExplanations": {
+        "b": "Continuous: süreç.",
+        "c": "Şimdiki zaman.",
+        "d": "Geçmiş sürekli."
+      },
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-40",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'm out of breath because I have been ___. (run)",
+      "answers": [
+        "running"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "runing",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-41",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How many cups have you ___? (drink)",
+      "answers": [
+        "drunk"
+      ],
+      "explanation": "V3: drunk.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "drank",
+          "explanation": "V2'dir."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-42",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gözleri kırmızı. Ağlıyormuş.",
+      "hint": "ağlamak: cry",
+      "answers": [
+        "Her eyes are red. She has been crying."
+      ],
+      "targetStructure": "has been + -ing",
+      "explanation": "Kanıtlı çıkarım.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Her eyes are red. She cried.",
+          "explanation": "Şimdiki kanıt için Continuous."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-43",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu yıllardır tanıyorum.",
+      "hint": "tanımak: know",
+      "answers": [
+        "I have known him for years."
+      ],
+      "targetStructure": "have known",
+      "explanation": "Durum fiili.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have been knowing him for years.",
+          "explanation": "Durum fiili Continuous almaz."
+        }
+      ],
+      "tags": [
+        "ppc",
+        "stative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ppc-44",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have been reading three books.",
+      "errorSpan": "been reading",
+      "answers": [
+        "I have read three books."
+      ],
+      "explanation": "Sayı: Simple.",
+      "tags": [
+        "ppc",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ppc-45",
+      "lessonId": "b1-present-perfect-continuous",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has been cry.",
+      "errorSpan": "cry",
+      "answers": [
+        "She has been crying."
+      ],
+      "explanation": "-ing.",
+      "tags": [
+        "ppc",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-ppc",
+    "title": "Present Perfect Continuous: Konu sonu sınavı",
+    "description": "Have been + -ing ve Simple ile fark.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-ppc-exam-01",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ working here since 2018.",
+        "options": [
+          {
+            "id": "a",
+            "text": "has been"
+          },
+          {
+            "id": "b",
+            "text": "have been"
+          },
+          {
+            "id": "c",
+            "text": "is"
+          },
+          {
+            "id": "d",
+            "text": "was"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "He ile has been.",
+        "optionExplanations": {
+          "b": "He ile has.",
+          "c": "Since ile Present Continuous olmaz.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-02",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "We have been ___ for the bus. (wait)",
+        "answers": [
+          "waiting"
+        ],
+        "explanation": "-ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "wait",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-03",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "On yıldır burada yaşıyorlar.",
+        "answer": [
+          "They",
+          "have",
+          "been",
+          "living",
+          "here",
+          "for",
+          "ten",
+          "years"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "live"
+        ],
+        "explanation": "have been + -ing",
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-04",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They has been living here.",
+        "errorSpan": "has been",
+        "answers": [
+          "They have been living here."
+        ],
+        "explanation": "They ile have.",
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-05",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Pazartesi'den beri kar yağıyor.",
+        "hint": "kar yağmak: snow",
+        "answers": [
+          "It has been snowing since Monday."
+        ],
+        "targetStructure": "has been + -ing",
+        "explanation": "Süren eylem.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "It snows since Monday.",
+            "explanation": "Since ile Present Perfect Continuous."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-06",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "You look tired. ___ you been working hard?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Have"
+          },
+          {
+            "id": "b",
+            "text": "Did"
+          },
+          {
+            "id": "c",
+            "text": "Are"
+          },
+          {
+            "id": "d",
+            "text": "Do"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Have + özne + been.",
+        "optionExplanations": {
+          "b": "Did Present Perfect kurmaz.",
+          "c": "Be kullanılmaz.",
+          "d": "Do kullanılmaz."
+        },
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-07",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He ___ been studying for hours. (çalışıyor)",
+        "answers": [
+          "has"
+        ],
+        "explanation": "He ile has.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "He ile has."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-08",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ne yapıyordun?",
+        "answer": [
+          "What",
+          "have",
+          "you",
+          "been",
+          "doing"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "did",
+          "do"
+        ],
+        "explanation": "What have you been doing",
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-09",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Have you been wait for me?",
+        "errorSpan": "wait",
+        "answers": [
+          "Have you been waiting for me?"
+        ],
+        "explanation": "-ing.",
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-10",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İyi uyumuyorum.",
+        "hint": "uyumak: sleep",
+        "answers": [
+          "I haven't been sleeping well.",
+          "I have not been sleeping well."
+        ],
+        "targetStructure": "haven't been + -ing",
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I don't been sleeping well.",
+            "explanation": "Biçim yanlış."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-11",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "I ___ ten emails this morning. (yazdım)",
+        "options": [
+          {
+            "id": "a",
+            "text": "have written"
+          },
+          {
+            "id": "b",
+            "text": "have been writing"
+          },
+          {
+            "id": "c",
+            "text": "am writing"
+          },
+          {
+            "id": "d",
+            "text": "write"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sayı: Simple.",
+        "optionExplanations": {
+          "b": "Sayı verilince Simple.",
+          "c": "Şimdiki zaman.",
+          "d": "Present Simple."
+        },
+        "tags": [
+          "ppc",
+          "vs"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-12",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I have known him ___ 2010.",
+        "answers": [
+          "since"
+        ],
+        "explanation": "Since + nokta.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "For süre ile."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "stative"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-13",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have been wanting a new phone for months.",
+        "errorSpan": "been wanting",
+        "answers": [
+          "I have wanted a new phone for months."
+        ],
+        "explanation": "Durum fiili Continuous almaz.",
+        "tags": [
+          "ppc",
+          "stative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-14",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi süreci vurgular?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She has been painting the room."
+          },
+          {
+            "id": "b",
+            "text": "She has painted the room."
+          },
+          {
+            "id": "c",
+            "text": "She painted the room."
+          },
+          {
+            "id": "d",
+            "text": "She paints the room."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Continuous: süreç.",
+        "optionExplanations": {
+          "b": "Simple: tamamlanmış.",
+          "c": "Past Simple.",
+          "d": "Present Simple."
+        },
+        "tags": [
+          "ppc",
+          "vs"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-15",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "How ___ have you been learning French?",
+        "answers": [
+          "long"
+        ],
+        "explanation": "How long.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "Süre: how long."
+          }
+        ],
+        "tags": [
+          "ppc",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-ppc-exam-16",
+        "lessonId": "b1-present-perfect-continuous",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kaç e-posta yazdın?",
+        "answer": [
+          "How",
+          "many",
+          "emails",
+          "have",
+          "you",
+          "written"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "been",
+          "wrote"
+        ],
+        "explanation": "How many → Simple",
+        "tags": [
+          "ppc",
+          "vs"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
