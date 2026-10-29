@@ -1,0 +1,1339 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-say-tell",
+  "levelId": "b1",
+  "title": "Say vs Tell",
+  "objectives": [
+    "Say ve tell’den sonra kişi nesnesinin gelip gelmediğini ayırt etmek",
+    "Say to + kişi ve tell + kişi yapılarını doğru kurmak",
+    "Tell ile kalıplaşmış ifadeleri (tell the truth, tell a lie, tell a story) kullanmak",
+    "Say ile kalıplaşmış ifadeleri (say hello, say goodbye, say sorry) kullanmak"
+  ],
+  "intro": [
+    "Say ve tell, Türkçede ikisi de “söylemek” diye karşılanır; ama İngilizcede kullanımları farklıdır. Asıl fark: tell’den sonra kime söylendiği (kişi) mutlaka gelir; say’den sonra söylenen söz gelir, kişi isteğe bağlıdır ve to ile eklenir.",
+    "Ek olarak bazı kalıplar sabittir: tell the truth, tell a lie, tell a story, tell the time; say hello, say goodbye, say sorry, say a prayer."
+  ],
+  "lessonIds": [
+    "a2-reported-speech-basic",
+    "b1-reported-speech"
+  ],
+  "structures": [
+    {
+      "name": "Say",
+      "meaning": "Söylenen sözü vurgular. Kişi gerekiyorsa say to + kişi ile eklenir. Doğrudan ve dolaylı anlatımda kullanılır.",
+      "usage": [
+        "Söz alıntılama (She said, “I’m tired.”)",
+        "Dolaylı anlatım (She said she was tired.)",
+        "Kalıplar (say hello, say sorry, say goodbye)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + said + (that) + cümle",
+          "example": "He said that he was busy."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + didn’t say + (that) + cümle",
+          "example": "She didn’t say anything."
+        },
+        {
+          "label": "Soru",
+          "pattern": "What did + özne + say?",
+          "example": "What did he say?"
+        }
+      ],
+      "signals": [
+        "say that",
+        "say to + kişi",
+        "say hello",
+        "say sorry"
+      ]
+    },
+    {
+      "name": "Tell",
+      "meaning": "Kime söylendiğini vurgular. Tell’den sonra daima kişi gelir; ardından söylenen şey ya da to + fiil gelir.",
+      "usage": [
+        "Bilgi aktarma (She told me the news.)",
+        "Emir aktarma (He told me to wait.)",
+        "Kalıplar (tell the truth, tell a lie, tell a story, tell the time)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + told + kişi + (that) + cümle",
+          "example": "He told me that he was busy."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + didn’t tell + kişi + şey",
+          "example": "She didn’t tell me the secret."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + tell + kişi + şey?",
+          "example": "Did he tell you the news?"
+        }
+      ],
+      "signals": [
+        "tell + kişi",
+        "tell the truth",
+        "tell a story",
+        "tell someone to"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-say-vs-tell-01",
+        "en": "He said that he was tired.",
+        "tr": "Yorgun olduğunu söyledi.",
+        "highlight": "said that he was tired"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-02",
+        "en": "He told me that he was tired.",
+        "tr": "Bana yorgun olduğunu söyledi.",
+        "highlight": "told me that he was tired"
+      },
+      "note": "Kişi yok ve kişi var."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-03",
+        "en": "She said to me, “I'm sorry.”",
+        "tr": "Bana “Üzgünüm” dedi.",
+        "highlight": "said to me"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-04",
+        "en": "She told me she was sorry.",
+        "tr": "Bana üzgün olduğunu söyledi.",
+        "highlight": "told me"
+      },
+      "note": "Say to + kişi ve tell + kişi."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-05",
+        "en": "Please say hello to your mother.",
+        "tr": "Annene selam söyle.",
+        "highlight": "say hello"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-06",
+        "en": "Please tell your mother I said hello.",
+        "tr": "Annene benden selam söyle.",
+        "highlight": "tell your mother"
+      },
+      "note": "Kalıp ve kişi."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-07",
+        "en": "He said, “Close the door.”",
+        "tr": "“Kapıyı kapat” dedi.",
+        "highlight": "said"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-08",
+        "en": "He told me to close the door.",
+        "tr": "Bana kapıyı kapatmamı söyledi.",
+        "highlight": "told me to close"
+      },
+      "note": "Alıntı ve emir aktarma."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-09",
+        "en": "She said the answer was wrong.",
+        "tr": "Cevabın yanlış olduğunu söyledi.",
+        "highlight": "said the answer"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-10",
+        "en": "She told us the answer was wrong.",
+        "tr": "Bize cevabın yanlış olduğunu söyledi.",
+        "highlight": "told us the answer"
+      },
+      "note": "Kişi yok ve kişi var."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-11",
+        "en": "Tell me the truth.",
+        "tr": "Bana gerçeği söyle.",
+        "highlight": "Tell me the truth"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-12",
+        "en": "Say something true.",
+        "tr": "Doğru bir şey söyle.",
+        "highlight": "Say something true"
+      },
+      "note": "Tell + kişi + truth, say + söz."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-13",
+        "en": "He told a lie to his teacher.",
+        "tr": "Öğretmenine yalan söyledi.",
+        "highlight": "told a lie"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-14",
+        "en": "He said goodbye to his teacher.",
+        "tr": "Öğretmenine veda etti.",
+        "highlight": "said goodbye"
+      },
+      "note": "Tell a lie ve say goodbye kalıpları."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-15",
+        "en": "She told a story to the children.",
+        "tr": "Çocuklara bir hikâye anlattı.",
+        "highlight": "told a story"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-16",
+        "en": "She said goodbye to the children.",
+        "tr": "Çocuklara veda etti.",
+        "highlight": "said goodbye"
+      },
+      "note": "Tell a story ve say goodbye."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-17",
+        "en": "Can you tell me the time?",
+        "tr": "Saati söyler misin?",
+        "highlight": "tell me the time"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-18",
+        "en": "What did she say?",
+        "tr": "Ne dedi?",
+        "highlight": "did she say"
+      },
+      "note": "Tell the time ve söylenen söz sorusu."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-19",
+        "en": "He said nothing.",
+        "tr": "Hiçbir şey söylemedi.",
+        "highlight": "said nothing"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-20",
+        "en": "He told nobody.",
+        "tr": "Kimseye söylemedi.",
+        "highlight": "told nobody"
+      },
+      "note": "Say + söz ve tell + kişi."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-21",
+        "en": "They said they would come.",
+        "tr": "Geleceklerini söylediler.",
+        "highlight": "said they would come"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-22",
+        "en": "They told her they would come.",
+        "tr": "Ona geleceklerini söylediler.",
+        "highlight": "told her"
+      },
+      "note": "Say that ve tell + kişi."
+    },
+    {
+      "left": {
+        "id": "ex-say-vs-tell-23",
+        "en": "Don't say anything.",
+        "tr": "Hiçbir şey söyleme.",
+        "highlight": "say anything"
+      },
+      "right": {
+        "id": "ex-say-vs-tell-24",
+        "en": "Don't tell anyone.",
+        "tr": "Kimseye söyleme.",
+        "highlight": "tell anyone"
+      },
+      "note": "Söylenen şey ve kime söylendiği."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Kişi nesnesi",
+      "body": "Tell’den sonra kime söylendiği daima gelir: He told me. Say’de kişi gerekiyorsa to ile eklenir: He said to me. Say me yanlıştır."
+    },
+    {
+      "heading": "Söylenen şey",
+      "body": "Say, sözün kendisine odaklanır (She said, “I’m tired.”). Tell, bilgiyi aktaran ve bilgiyi alan kişiyi öne çıkarır (She told me she was tired)."
+    },
+    {
+      "heading": "Emir ve rica aktarma",
+      "body": "Emir aktarırken tell + kişi + to + V1 kullanılır: He told me to wait. Say ile emir aktarmak için say to + kişi + (that) kalıbı genellikle tercih edilmez."
+    },
+    {
+      "heading": "Sabit kalıplar (tell)",
+      "body": "Tell the truth, tell a lie, tell a story, tell a joke, tell the time, tell the difference, tell the way gibi kalıplarda tell kullanılır."
+    },
+    {
+      "heading": "Sabit kalıplar (say)",
+      "body": "Say hello, say goodbye, say sorry, say thanks, say a prayer, say something, say a few words gibi kalıplarda say kullanılır."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Kime söylendiği cümlede var mı (me, him, us, Tom)?",
+      "answer": "Evet → tell (told me)."
+    },
+    {
+      "question": "Kişi yok, sadece söylenen söz mü var?",
+      "answer": "Evet → say (She said she was tired)."
+    },
+    {
+      "question": "Emir ya da rica mı aktarıyorsun?",
+      "answer": "Evet → tell + kişi + to + V1."
+    },
+    {
+      "question": "Kalıp: truth, lie, story, joke, time?",
+      "answer": "Evet → tell."
+    },
+    {
+      "question": "Kalıp: hello, goodbye, sorry, thanks?",
+      "answer": "Evet → say."
+    },
+    {
+      "question": "Say’den sonra kişi mi yazmak istiyorsun?",
+      "answer": "Evet → say to + kişi (said to me)."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "He said me that he was tired.",
+      "right": "He told me that he was tired.",
+      "explanation": "Say’den sonra doğrudan kişi gelmez."
+    },
+    {
+      "wrong": "He told that he was tired.",
+      "right": "He said that he was tired.",
+      "explanation": "Tell’den sonra kişi gerekir."
+    },
+    {
+      "wrong": "She told to me the truth.",
+      "right": "She told me the truth.",
+      "explanation": "Tell’de to kullanılmaz."
+    },
+    {
+      "wrong": "He said a lie.",
+      "right": "He told a lie.",
+      "explanation": "Sabit kalıp: tell a lie."
+    },
+    {
+      "wrong": "Tell hello to your mother.",
+      "right": "Say hello to your mother.",
+      "explanation": "Sabit kalıp: say hello."
+    },
+    {
+      "wrong": "He told me to not go.",
+      "right": "He told me not to go.",
+      "explanation": "Olumsuz emir: not to + V1."
+    },
+    {
+      "wrong": "She said to leave.",
+      "right": "She told us to leave.",
+      "explanation": "Emir aktarımı: tell + kişi + to."
+    },
+    {
+      "wrong": "Can you say me the time?",
+      "right": "Can you tell me the time?",
+      "explanation": "Say + kişi yanlıştır; tell the time."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-say-vs-tell-01",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ me that he was tired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "said"
+        },
+        {
+          "id": "b",
+          "text": "told"
+        },
+        {
+          "id": "c",
+          "text": "spoke"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tell + kişi.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-02",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ that she was ill.",
+      "options": [
+        {
+          "id": "a",
+          "text": "told"
+        },
+        {
+          "id": "b",
+          "text": "spoke"
+        },
+        {
+          "id": "c",
+          "text": "said"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kişi yok: said.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-03",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Please ___ hello to your mother.",
+      "options": [
+        {
+          "id": "a",
+          "text": "tell"
+        },
+        {
+          "id": "b",
+          "text": "speak"
+        },
+        {
+          "id": "c",
+          "text": "talk"
+        },
+        {
+          "id": "d",
+          "text": "say"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sabit kalıp: say hello.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-04",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ a lie to his teacher.",
+      "options": [
+        {
+          "id": "a",
+          "text": "told"
+        },
+        {
+          "id": "b",
+          "text": "said"
+        },
+        {
+          "id": "c",
+          "text": "spoke"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sabit kalıp: tell a lie.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-05",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The teacher ___ us to open our books.",
+      "options": [
+        {
+          "id": "a",
+          "text": "said"
+        },
+        {
+          "id": "b",
+          "text": "told"
+        },
+        {
+          "id": "c",
+          "text": "spoke"
+        },
+        {
+          "id": "d",
+          "text": "asked to"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Emir: told us to.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-06",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Can you ___ me the time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "say"
+        },
+        {
+          "id": "b",
+          "text": "speak"
+        },
+        {
+          "id": "c",
+          "text": "tell"
+        },
+        {
+          "id": "d",
+          "text": "talk"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Tell the time.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-07",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ nothing about the plan.",
+      "options": [
+        {
+          "id": "a",
+          "text": "told"
+        },
+        {
+          "id": "b",
+          "text": "spoke"
+        },
+        {
+          "id": "c",
+          "text": "talked"
+        },
+        {
+          "id": "d",
+          "text": "said"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Say + söz.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-08",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ to me, “I'm sorry.”",
+      "options": [
+        {
+          "id": "a",
+          "text": "said"
+        },
+        {
+          "id": "b",
+          "text": "told"
+        },
+        {
+          "id": "c",
+          "text": "spoke"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Say to + kişi.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-09",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "They ___ us a funny story.",
+      "options": [
+        {
+          "id": "a",
+          "text": "said"
+        },
+        {
+          "id": "b",
+          "text": "told"
+        },
+        {
+          "id": "c",
+          "text": "spoke"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Tell a story.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-10",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He ___ goodbye and left.",
+      "options": [
+        {
+          "id": "a",
+          "text": "told"
+        },
+        {
+          "id": "b",
+          "text": "spoke"
+        },
+        {
+          "id": "c",
+          "text": "said"
+        },
+        {
+          "id": "d",
+          "text": "talked"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Say goodbye.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-11",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ me not to worry.",
+      "options": [
+        {
+          "id": "a",
+          "text": "said"
+        },
+        {
+          "id": "b",
+          "text": "spoke"
+        },
+        {
+          "id": "c",
+          "text": "talked"
+        },
+        {
+          "id": "d",
+          "text": "told"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Told me not to.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-12",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What did he ___ ?",
+      "options": [
+        {
+          "id": "a",
+          "text": "say"
+        },
+        {
+          "id": "b",
+          "text": "tell"
+        },
+        {
+          "id": "c",
+          "text": "speak"
+        },
+        {
+          "id": "d",
+          "text": "talk"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Söylenen söz sorusu.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-13",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ me the truth. (tell)",
+      "answers": [
+        "told"
+      ],
+      "explanation": "Tell + kişi + truth.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "said",
+          "explanation": "Say + kişi yok."
+        }
+      ],
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-14",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ that she was busy. (say)",
+      "answers": [
+        "said"
+      ],
+      "explanation": "Kişi yok: said.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "told",
+          "explanation": "Tell'den sonra kişi gerekir."
+        }
+      ],
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-15",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Don't ___ anyone about this. (tell)",
+      "answers": [
+        "tell"
+      ],
+      "explanation": "Tell + kişi.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-16",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ nothing. (say)",
+      "answers": [
+        "said"
+      ],
+      "explanation": "Say + söz.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-17",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Please ___ sorry to her. (say)",
+      "answers": [
+        "say"
+      ],
+      "explanation": "Say sorry.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-18",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My mother ___ me to clean my room. (tell)",
+      "answers": [
+        "told"
+      ],
+      "explanation": "Told me to.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-19",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She didn't ___ me her name. (tell)",
+      "answers": [
+        "tell"
+      ],
+      "explanation": "Didn't tell + kişi.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-20",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Can you ___ me the way? (tell)",
+      "answers": [
+        "tell"
+      ],
+      "explanation": "Tell the way.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-21",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana yorgun olduğunu söyledi.",
+      "answer": [
+        "He",
+        "told",
+        "me",
+        "that",
+        "he",
+        "was",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "said",
+        "to"
+      ],
+      "explanation": "tell + kişi",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-22",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun olduğunu söyledi.",
+      "answer": [
+        "He",
+        "said",
+        "that",
+        "he",
+        "was",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "told",
+        "me"
+      ],
+      "explanation": "say + that",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-23",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana kapıyı kapatmamı söyledi.",
+      "answer": [
+        "He",
+        "told",
+        "me",
+        "to",
+        "close",
+        "the",
+        "door"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "said",
+        "closing"
+      ],
+      "explanation": "tell + kişi + to",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-24",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çocuklara bir hikâye anlattı.",
+      "answer": [
+        "She",
+        "told",
+        "the",
+        "children",
+        "a",
+        "story"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "said",
+        "to"
+      ],
+      "explanation": "tell a story",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-25",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He said me that he was tired.",
+      "errorSpan": "said me",
+      "answers": [
+        "He told me that he was tired.",
+        "He said that he was tired."
+      ],
+      "explanation": "Say + kişi yanlıştır.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-26",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She told that she was ill.",
+      "errorSpan": "told that",
+      "answers": [
+        "She said that she was ill.",
+        "She told me that she was ill."
+      ],
+      "explanation": "Tell + kişi gerekir.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-27",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He told to me the truth.",
+      "errorSpan": "told to me",
+      "answers": [
+        "He told me the truth."
+      ],
+      "explanation": "Tell'de to yok.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-28",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She said a lie.",
+      "errorSpan": "said a lie",
+      "answers": [
+        "She told a lie."
+      ],
+      "explanation": "Sabit kalıp: tell a lie.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-29",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Tell hello to your mother.",
+      "errorSpan": "Tell hello",
+      "answers": [
+        "Say hello to your mother."
+      ],
+      "explanation": "Sabit kalıp: say hello.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-30",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana gerçeği söyle.",
+      "hint": "söylemek: tell",
+      "answers": [
+        "Tell me the truth."
+      ],
+      "targetStructure": "tell + kişi",
+      "explanation": "Kişi nesnesi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Say me the truth.",
+          "explanation": "Say + kişi yok."
+        }
+      ],
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-31",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Annene selam söyle.",
+      "hint": "söylemek: say",
+      "answers": [
+        "Say hello to your mother.",
+        "Say hi to your mother."
+      ],
+      "targetStructure": "say hello",
+      "explanation": "Sabit kalıp.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-say-vs-tell-32",
+      "lessonId": "b1-say-tell",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne dedi?",
+      "hint": "söylemek: say",
+      "answers": [
+        "What did he say?",
+        "What did she say?"
+      ],
+      "targetStructure": "say",
+      "explanation": "Söylenen söz.",
+      "tags": [
+        "say-vs-tell",
+        "rule"
+      ],
+      "errorTags": [
+        "verb_form",
+        "pronoun_usage"
+      ]
+    }
+  ]
+}

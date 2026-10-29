@@ -5,6 +5,7 @@ import a2PpVsPs from "@/assets/data/comparisons/a2-present-perfect-vs-past-simpl
 import a1PsVsPc from "@/assets/data/comparisons/a1-present-simple-vs-continuous.json";
 import b1PpAdv from "@/assets/data/comparisons/b1-present-perfect-vs-past-advanced.json";
 import b1FutForms from "@/assets/data/comparisons/b1-future-forms-review.json";
+import b1SayTell from "@/assets/data/comparisons/b1-say-tell.json";
 
 /**
  * Karşılaştırma içerik dosyalarının kaydı (assets/data/comparisons/<id>.json).
@@ -16,6 +17,7 @@ export const comparisonFiles: Record<string, unknown> = {
   "a2-past-simple-vs-continuous": a2PsVsPc,
   "a2-will-vs-going-to": a2WillVsGt,
   "b1-first-vs-second-conditional": b1Cond,
+  "b1-say-tell": b1SayTell,
   "b1-future-forms-review": b1FutForms,
   "b1-present-perfect-vs-past-advanced": b1PpAdv,
 };
