@@ -1,0 +1,2124 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-defining-relative",
+  "levelId": "b1",
+  "title": "Defining Relative Clauses",
+  "objectives": [
+    "Who, which, that, whose ve where ile defining relative clause kurmak",
+    "Nesne konumundaki ilgi zamirini atlamak",
+    "İnsan, nesne, sahiplik ve yer için doğru ilgi zamirini seçmek",
+    "Gereksiz zamir tekrarını önlemek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Kimi ya da neyi kastettiğini belirtmek",
+      "paragraphs": [
+        "Defining relative clause, bir ismin hangisi olduğunu belirleyen cümlecik parçasıdır. Çıkarırsan cümlenin anlamı eksik kalır: The man who lives next door is a doctor. Hangi adamdan söz edildiği ilgi cümleciğiyle anlaşılır.",
+        "Türkçede bu işi “-en / -an” ekleri ya da “ki” yapar. İngilizcede ise who, which, that, whose, where gibi ilgi zamirleri kullanılır ve virgül konulmaz."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Who, which, that",
+      "paragraphs": [
+        "İnsanlar için who, nesneler için which kullanılır. That ise her ikisi için de kullanılabilir. Bu zamirler özne görevindeyse atlanamaz."
+      ],
+      "formulas": [
+        {
+          "label": "İnsan",
+          "pattern": "isim + who / that + fiil",
+          "exampleIds": [
+            "ex-defining-relative-01",
+            "ex-defining-relative-02",
+            "ex-defining-relative-03"
+          ]
+        },
+        {
+          "label": "Nesne / hayvan",
+          "pattern": "isim + which / that + fiil",
+          "exampleIds": [
+            "ex-defining-relative-04",
+            "ex-defining-relative-05",
+            "ex-defining-relative-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Nesne konumunda zamiri atma",
+      "paragraphs": [
+        "İlgi zamiri cümleciğin nesnesiyse atılabilir. Cümleciğin kendi öznesi varsa zamir kolayca düşer."
+      ],
+      "formulas": [
+        {
+          "label": "Zamirli",
+          "pattern": "The book which I read was great.",
+          "exampleIds": [
+            "ex-defining-relative-07",
+            "ex-defining-relative-08"
+          ]
+        },
+        {
+          "label": "Zamirsiz",
+          "pattern": "The book I read was great.",
+          "exampleIds": [
+            "ex-defining-relative-09",
+            "ex-defining-relative-10"
+          ]
+        },
+        {
+          "label": "Özne konumu",
+          "pattern": "who / which atılamaz",
+          "exampleIds": [
+            "ex-defining-relative-01",
+            "ex-defining-relative-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Whose: sahiplik",
+      "paragraphs": [
+        "Whose, ait olma anlamı verir ve isimden önce gelir. Insan ya da nesne için kullanılabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "isim + whose + isim + fiil",
+          "exampleIds": [
+            "ex-defining-relative-11",
+            "ex-defining-relative-12",
+            "ex-defining-relative-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Where, when, why",
+      "paragraphs": [
+        "Where yer, when zaman, why neden belirtir. Nesne konumunda when ve why de atılabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Yer",
+          "pattern": "the place / city + where + özne + fiil",
+          "exampleIds": [
+            "ex-defining-relative-14",
+            "ex-defining-relative-15",
+            "ex-defining-relative-16"
+          ]
+        },
+        {
+          "label": "Zaman",
+          "pattern": "the day / time + when",
+          "exampleIds": [
+            "ex-defining-relative-17",
+            "ex-defining-relative-18"
+          ]
+        },
+        {
+          "label": "Neden",
+          "pattern": "the reason + why",
+          "exampleIds": [
+            "ex-defining-relative-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Yaygın hatalar",
+      "paragraphs": [
+        "İlgi cümleciğinde zamiri tekrar etmek (the man who he lives) en sık yapılan hatadır. Zamir cümlede hem bağlayıcı hem özne görevi yapar."
+      ],
+      "formulas": [
+        {
+          "label": "Doğru",
+          "pattern": "the man who lives next door",
+          "exampleIds": [
+            "ex-defining-relative-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-defining-relative-01",
+        "ex-defining-relative-02",
+        "ex-defining-relative-03",
+        "ex-defining-relative-04",
+        "ex-defining-relative-05",
+        "ex-defining-relative-06",
+        "ex-defining-relative-07",
+        "ex-defining-relative-08",
+        "ex-defining-relative-09",
+        "ex-defining-relative-10",
+        "ex-defining-relative-11",
+        "ex-defining-relative-12",
+        "ex-defining-relative-13",
+        "ex-defining-relative-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-defining-relative-15",
+        "ex-defining-relative-16",
+        "ex-defining-relative-17",
+        "ex-defining-relative-18",
+        "ex-defining-relative-19",
+        "ex-defining-relative-20",
+        "ex-defining-relative-21",
+        "ex-defining-relative-22",
+        "ex-defining-relative-23",
+        "ex-defining-relative-24",
+        "ex-defining-relative-25",
+        "ex-defining-relative-26",
+        "ex-defining-relative-27",
+        "ex-defining-relative-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "The man who he lives here is a doctor.",
+          "right": "The man who lives here is a doctor.",
+          "explanation": "Zamir ve özne birlikte tekrar edilmez."
+        },
+        {
+          "wrong": "The book which I read it was great.",
+          "right": "The book which I read was great.",
+          "explanation": "Nesne tekrarlanmaz."
+        },
+        {
+          "wrong": "The girl which won is my cousin.",
+          "right": "The girl who won is my cousin.",
+          "explanation": "İnsan için who ya da that."
+        },
+        {
+          "wrong": "That is the boy who bike was stolen.",
+          "right": "That is the boy whose bike was stolen.",
+          "explanation": "Sahiplik için whose."
+        },
+        {
+          "wrong": "This is the place which I was born.",
+          "right": "This is the place where I was born.",
+          "explanation": "Yer için where."
+        },
+        {
+          "wrong": "The car what I bought is old.",
+          "right": "The car which I bought is old.",
+          "explanation": "What ilgi zamiri değildir."
+        },
+        {
+          "wrong": "The people who works here are friendly.",
+          "right": "The people who work here are friendly.",
+          "explanation": "Fiil, ismin sayısına uyar."
+        },
+        {
+          "wrong": "I know a woman which son is a pilot.",
+          "right": "I know a woman whose son is a pilot.",
+          "explanation": "Sahiplik: whose."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Non-defining clauses",
+          "body": "Virgüllü ek bilgi cümlecikleri ayrı kurallara sahiptir.",
+          "lessonId": "b1-non-defining-relative"
+        },
+        {
+          "topic": "A2 Relative clauses",
+          "body": "Temeli A2'de gördün.",
+          "lessonId": "a2-relative-clauses-intro"
+        },
+        {
+          "topic": "Cümleciklere genel bakış",
+          "body": "Cümlecik türlerini birlikte görmek için bu derse bak.",
+          "lessonId": "b1-clauses"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Özne konumundaki who / which atılamaz.",
+        "Nesne konumundaki who / which / that atılabilir.",
+        "Zamiri ve özneyi aynı cümlede tekrarlama.",
+        "Whose her zaman bir isimle birlikte gelir.",
+        "Defining clause virgülle ayrılmaz."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-defining-relative-01",
+        "q-defining-relative-13",
+        "q-defining-relative-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-defining-relative-01",
+      "en": "The man who lives next door is a doctor.",
+      "tr": "Yan kapıda yaşayan adam doktor.",
+      "highlight": "who lives"
+    },
+    {
+      "id": "ex-defining-relative-02",
+      "en": "The girl that won the race is my cousin.",
+      "tr": "Yarışı kazanan kız kuzenim.",
+      "highlight": "that won"
+    },
+    {
+      "id": "ex-defining-relative-03",
+      "en": "The people who work here are friendly.",
+      "tr": "Burada çalışan insanlar cana yakın.",
+      "highlight": "who work"
+    },
+    {
+      "id": "ex-defining-relative-04",
+      "en": "The car which broke down is mine.",
+      "tr": "Bozulan araba benim.",
+      "highlight": "which broke"
+    },
+    {
+      "id": "ex-defining-relative-05",
+      "en": "The dog that barks all night belongs to Tom.",
+      "tr": "Bütün gece havlayan köpek Tom'un.",
+      "highlight": "that barks"
+    },
+    {
+      "id": "ex-defining-relative-06",
+      "en": "I like films which make me laugh.",
+      "tr": "Beni güldüren filmleri severim.",
+      "highlight": "which make"
+    },
+    {
+      "id": "ex-defining-relative-07",
+      "en": "The book which I read was great.",
+      "tr": "Okuduğum kitap harikaydı.",
+      "highlight": "which I read"
+    },
+    {
+      "id": "ex-defining-relative-08",
+      "en": "The man that I met is a teacher.",
+      "tr": "Tanıştığım adam öğretmen.",
+      "highlight": "that I met"
+    },
+    {
+      "id": "ex-defining-relative-09",
+      "en": "The book I read was great.",
+      "tr": "Okuduğum kitap harikaydı.",
+      "highlight": "book I read"
+    },
+    {
+      "id": "ex-defining-relative-10",
+      "en": "The woman you saw is my aunt.",
+      "tr": "Gördüğün kadın benim teyzem.",
+      "highlight": "woman you saw"
+    },
+    {
+      "id": "ex-defining-relative-11",
+      "en": "The boy whose bike was stolen is upset.",
+      "tr": "Bisikleti çalınan çocuk üzgün.",
+      "highlight": "whose bike"
+    },
+    {
+      "id": "ex-defining-relative-12",
+      "en": "I know a woman whose son is a pilot.",
+      "tr": "Oğlu pilot olan bir kadın tanıyorum.",
+      "highlight": "whose son"
+    },
+    {
+      "id": "ex-defining-relative-13",
+      "en": "She lives in a house whose roof is red.",
+      "tr": "Çatısı kırmızı olan bir evde yaşıyor.",
+      "highlight": "whose roof"
+    },
+    {
+      "id": "ex-defining-relative-14",
+      "en": "That is the café where we first met.",
+      "tr": "Orası ilk tanıştığımız kafe.",
+      "highlight": "where we first met"
+    },
+    {
+      "id": "ex-defining-relative-15",
+      "en": "The city where I was born is small.",
+      "tr": "Doğduğum şehir küçük.",
+      "highlight": "where I was born"
+    },
+    {
+      "id": "ex-defining-relative-16",
+      "en": "Do you know a shop where I can buy stamps?",
+      "tr": "Pul alabileceğim bir dükkân biliyor musun?",
+      "highlight": "where I can buy"
+    },
+    {
+      "id": "ex-defining-relative-17",
+      "en": "I remember the day when we met.",
+      "tr": "Tanıştığımız günü hatırlıyorum.",
+      "highlight": "when we met"
+    },
+    {
+      "id": "ex-defining-relative-18",
+      "en": "Summer is the time when I relax.",
+      "tr": "Yaz, dinlendiğim zamandır.",
+      "highlight": "when I relax"
+    },
+    {
+      "id": "ex-defining-relative-19",
+      "en": "That is the reason why I left.",
+      "tr": "Ayrılmamın nedeni bu.",
+      "highlight": "why I left"
+    },
+    {
+      "id": "ex-defining-relative-20",
+      "en": "The teacher who taught me English retired.",
+      "tr": "Bana İngilizce öğreten öğretmen emekli oldu.",
+      "highlight": "who taught"
+    },
+    {
+      "id": "ex-defining-relative-21",
+      "en": "The phone that I bought is very fast.",
+      "tr": "Aldığım telefon çok hızlı.",
+      "highlight": "that I bought"
+    },
+    {
+      "id": "ex-defining-relative-22",
+      "en": "The restaurant we went to was crowded.",
+      "tr": "Gittiğimiz restoran kalabalıktı.",
+      "highlight": "we went to"
+    },
+    {
+      "id": "ex-defining-relative-23",
+      "en": "The man to whom I spoke was kind.",
+      "tr": "Konuştuğum adam nazikti.",
+      "highlight": "to whom I spoke"
+    },
+    {
+      "id": "ex-defining-relative-24",
+      "en": "Everything that she said was true.",
+      "tr": "Söylediği her şey doğruydu.",
+      "highlight": "that she said"
+    },
+    {
+      "id": "ex-defining-relative-25",
+      "en": "The only person who knows is Anna.",
+      "tr": "Bilen tek kişi Anna.",
+      "highlight": "who knows"
+    },
+    {
+      "id": "ex-defining-relative-26",
+      "en": "A pilot is someone who flies planes.",
+      "tr": "Pilot, uçak uçuran kişidir.",
+      "highlight": "who flies"
+    },
+    {
+      "id": "ex-defining-relative-27",
+      "en": "A dictionary is a book which explains words.",
+      "tr": "Sözlük, sözcükleri açıklayan bir kitaptır.",
+      "highlight": "which explains"
+    },
+    {
+      "id": "ex-defining-relative-28",
+      "en": "The people I work with are great.",
+      "tr": "Birlikte çalıştığım insanlar harika.",
+      "highlight": "I work with"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-defining-relative-01",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The woman ___ lives next door is a nurse.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İnsan: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-02",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The car ___ I bought is red.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Nesne: which.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-03",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "That is the boy ___ father is a pilot.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sahiplik: whose.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-04",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This is the café ___ we met.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer: where.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-05",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The people ___ work here are friendly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "what"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "İnsan: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-06",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Which relative pronoun can be dropped?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The man who lives next door"
+        },
+        {
+          "id": "b",
+          "text": "The woman who called me"
+        },
+        {
+          "id": "c",
+          "text": "The film (which) I saw"
+        },
+        {
+          "id": "d",
+          "text": "The dog that barks"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Nesne konumunda zamir atılabilir.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-07",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I saw the man ___ stole my bag.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "İnsan özne: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-08",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "A hospital is a place ___ sick people are treated.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yer: where.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-09",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The girl ___ I met yesterday is a singer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "what"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "That nesne konumunda.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-10",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "A dentist is someone ___ looks after your teeth.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kişi: who.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-11",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The book ___ cover is blue is mine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "that"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sahiplik: whose.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-12",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The reason ___ I left was simple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "why"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Neden: why.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-13",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The man ___ called me is my boss. (who)",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "İnsan için who / that.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-14",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The phone ___ I lost was expensive. (which)",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Nesne için which / that.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-15",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is a woman ___ children are all doctors. (whose)",
+      "answers": [
+        "whose"
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-16",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This is the school ___ I studied. (where)",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-17",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Summer is the time ___ we go on holiday. (when)",
+      "answers": [
+        "when"
+      ],
+      "explanation": "Zaman: when.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-18",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film ___ we watched was long. (which)",
+      "answers": [
+        "which",
+        "that"
+      ],
+      "explanation": "Nesne: which / that.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-19",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "A baker is a person ___ makes bread. (who)",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi: who.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-20",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He has a friend ___ lives in Canada. (who)",
+      "answers": [
+        "who",
+        "that"
+      ],
+      "explanation": "Kişi: who / that.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-21",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The town ___ I grew up is near the sea. (where)",
+      "answers": [
+        "where"
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-22",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is the girl ___ bag was stolen. (whose)",
+      "answers": [
+        "whose"
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-23",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yan kapıda yaşayan adam doktor.",
+      "answer": [
+        "The",
+        "man",
+        "who",
+        "lives",
+        "next",
+        "door",
+        "is",
+        "a",
+        "doctor"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "which",
+        "whose"
+      ],
+      "explanation": "who + fiil",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-24",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Okuduğum kitap harikaydı.",
+      "answer": [
+        "The",
+        "book",
+        "I",
+        "read",
+        "was",
+        "great"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "where"
+      ],
+      "explanation": "zamir atılabilir",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-25",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çatısı kırmızı olan bir evde yaşıyor.",
+      "answer": [
+        "She",
+        "lives",
+        "in",
+        "a",
+        "house",
+        "whose",
+        "roof",
+        "is",
+        "red"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "who",
+        "which"
+      ],
+      "explanation": "whose + isim",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-26",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Orası ilk tanıştığımız kafe.",
+      "answer": [
+        "That",
+        "is",
+        "the",
+        "café",
+        "where",
+        "we",
+        "first",
+        "met"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "which",
+        "who"
+      ],
+      "explanation": "where + özne + fiil",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-27",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The man who he lives next door is a doctor.",
+      "errorSpan": "who he lives",
+      "answers": [
+        "The man who lives next door is a doctor."
+      ],
+      "explanation": "Zamir tekrarlanmaz.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-28",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The book which I read it was great.",
+      "errorSpan": "read it",
+      "answers": [
+        "The book which I read was great.",
+        "The book I read was great."
+      ],
+      "explanation": "Nesne tekrarlanmaz.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-29",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The girl which won the race is my cousin.",
+      "errorSpan": "The girl which",
+      "answers": [
+        "The girl who won the race is my cousin.",
+        "The girl that won the race is my cousin."
+      ],
+      "explanation": "İnsan için who / that.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-30",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "That is the boy who bike was stolen.",
+      "errorSpan": "who bike",
+      "answers": [
+        "That is the boy whose bike was stolen."
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-31",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "This is the place which I was born.",
+      "errorSpan": "which I was born",
+      "answers": [
+        "This is the place where I was born."
+      ],
+      "explanation": "Yer: where.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-32",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The people who works here are friendly.",
+      "errorSpan": "who works",
+      "answers": [
+        "The people who work here are friendly."
+      ],
+      "explanation": "Çoğul fiil: work.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-33",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I know a woman which son is a pilot.",
+      "errorSpan": "which son",
+      "answers": [
+        "I know a woman whose son is a pilot."
+      ],
+      "explanation": "Sahiplik: whose.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-34",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yan kapıda yaşayan adam doktor.",
+      "hint": "yaşamak: live",
+      "answers": [
+        "The man who lives next door is a doctor.",
+        "The man that lives next door is a doctor."
+      ],
+      "targetStructure": "who / that + fiil",
+      "explanation": "İlgi cümleciği.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-35",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gördüğüm film çok uzundu.",
+      "hint": "görmek: see",
+      "answers": [
+        "The film I saw was very long.",
+        "The film which I saw was very long.",
+        "The film that I saw was very long."
+      ],
+      "targetStructure": "nesne zamiri",
+      "explanation": "Zamir atılabilir.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-36",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Annesi doktor olan bir arkadaşım var.",
+      "hint": "arkadaş: friend",
+      "answers": [
+        "I have a friend whose mother is a doctor."
+      ],
+      "targetStructure": "whose",
+      "explanation": "Sahiplik.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have a friend who mother is a doctor.",
+          "explanation": "Sahiplik: whose."
+        }
+      ],
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-37",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doğduğum şehir küçük.",
+      "hint": "doğmak: be born",
+      "answers": [
+        "The city where I was born is small.",
+        "The city in which I was born is small."
+      ],
+      "targetStructure": "where",
+      "explanation": "Yer.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-38",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bilen tek kişi Anna.",
+      "hint": "bilmek: know",
+      "answers": [
+        "The only person who knows is Anna.",
+        "The only person that knows is Anna."
+      ],
+      "targetStructure": "who / that",
+      "explanation": "İnsan.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-39",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beni güldüren filmleri severim.",
+      "hint": "güldürmek: make laugh",
+      "answers": [
+        "I like films that make me laugh.",
+        "I like films which make me laugh."
+      ],
+      "targetStructure": "which / that",
+      "explanation": "Nesne.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-40",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ayrılmamın nedeni bu.",
+      "hint": "neden: reason",
+      "answers": [
+        "That is the reason why I left.",
+        "This is the reason why I left."
+      ],
+      "targetStructure": "why",
+      "explanation": "Neden.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-defining-relative-41",
+      "lessonId": "b1-defining-relative",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kitabını kaybeden öğrenci ağlıyor.",
+      "hint": "kaybetmek: lose",
+      "answers": [
+        "The student who lost his book is crying.",
+        "The student who lost her book is crying.",
+        "The student that lost his book is crying.",
+        "The student that lost her book is crying."
+      ],
+      "targetStructure": "who",
+      "explanation": "İnsan.",
+      "tags": [
+        "defining-relative",
+        "rule"
+      ],
+      "errorTags": [
+        "pronoun_usage",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-defining-relative",
+    "title": "Defining Relative Clauses: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-defining-relative-exam-01",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "The teacher ___ taught me English retired.",
+        "options": [
+          {
+            "id": "a",
+            "text": "which"
+          },
+          {
+            "id": "b",
+            "text": "whose"
+          },
+          {
+            "id": "c",
+            "text": "who"
+          },
+          {
+            "id": "d",
+            "text": "where"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "İnsan: who.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-02",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I lost the umbrella ___ you gave me.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "whose"
+          },
+          {
+            "id": "c",
+            "text": "where"
+          },
+          {
+            "id": "d",
+            "text": "which"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Nesne: which.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-03",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She has a son ___ plays football.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "whose"
+          },
+          {
+            "id": "c",
+            "text": "where"
+          },
+          {
+            "id": "d",
+            "text": "which"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "İnsan: who.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-04",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Where is the house ___ we stayed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "where"
+          },
+          {
+            "id": "c",
+            "text": "whose"
+          },
+          {
+            "id": "d",
+            "text": "that"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Yer: where.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-05",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "A man ___ car broke down asked for help.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "which"
+          },
+          {
+            "id": "c",
+            "text": "whose"
+          },
+          {
+            "id": "d",
+            "text": "that"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Sahiplik: whose.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-06",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "That is the woman ___ sister is a singer. (whose)",
+        "answers": [
+          "whose"
+        ],
+        "explanation": "Sahiplik: whose.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-07",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The bag ___ I bought was cheap. (which)",
+        "answers": [
+          "which",
+          "that"
+        ],
+        "explanation": "Nesne: which / that.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-08",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He is the man ___ stole my wallet. (who)",
+        "answers": [
+          "who",
+          "that"
+        ],
+        "explanation": "İnsan: who / that.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-09",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I know a restaurant ___ the food is great. (where)",
+        "answers": [
+          "where"
+        ],
+        "explanation": "Yer: where.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-10",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Beni güldüren filmleri severim.",
+        "answer": [
+          "I",
+          "like",
+          "films",
+          "which",
+          "make",
+          "me",
+          "laugh"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "who",
+          "whose"
+        ],
+        "explanation": "which + fiil",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-11",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bisikleti çalınan çocuk üzgün.",
+        "answer": [
+          "The",
+          "boy",
+          "whose",
+          "bike",
+          "was",
+          "stolen",
+          "is",
+          "upset"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "who",
+          "which"
+        ],
+        "explanation": "whose",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-12",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The man who he called me is my uncle.",
+        "errorSpan": "who he called",
+        "answers": [
+          "The man who called me is my uncle."
+        ],
+        "explanation": "Zamir tekrarlanmaz.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-13",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The car what I bought is old.",
+        "errorSpan": "car what",
+        "answers": [
+          "The car which I bought is old.",
+          "The car that I bought is old.",
+          "The car I bought is old."
+        ],
+        "explanation": "What ilgi zamiri değildir.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-14",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is the girl which lives next door.",
+        "errorSpan": "girl which",
+        "answers": [
+          "She is the girl who lives next door.",
+          "She is the girl that lives next door."
+        ],
+        "explanation": "İnsan: who.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-15",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bana yardım eden kadın çok nazikti.",
+        "hint": "yardım etmek: help",
+        "answers": [
+          "The woman who helped me was very kind.",
+          "The woman that helped me was very kind."
+        ],
+        "targetStructure": "who",
+        "explanation": "İnsan.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-defining-relative-exam-16",
+        "lessonId": "b1-defining-relative",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yaşadığımız sokak sessiz.",
+        "hint": "yaşamak: live",
+        "answers": [
+          "The street where we live is quiet.",
+          "The street we live on is quiet.",
+          "The street that we live on is quiet."
+        ],
+        "targetStructure": "where",
+        "explanation": "Yer.",
+        "tags": [
+          "defining-relative",
+          "rule"
+        ],
+        "errorTags": [
+          "pronoun_usage",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
