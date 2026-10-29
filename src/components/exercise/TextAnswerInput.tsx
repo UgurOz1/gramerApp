@@ -11,6 +11,8 @@ type Props = {
   /** "none": boşluk doldurmada ilk harfi otomatik büyütme. */
   autoCapitalize?: "none" | "sentences";
   locked: boolean;
+  /** Kontrol sonrası çerçeve rengi. */
+  status?: "correct" | "wrong";
   /** Kullanıcı yazdıkça çağrılır. */
   onChangeText: (text: string) => void;
   onSubmit?: () => void;
@@ -23,10 +25,12 @@ export function TextAnswerInput({
   multiline,
   autoCapitalize = "none",
   locked,
+  status,
   onChangeText,
   onSubmit,
 }: Props) {
   const [text, setText] = useState(initialValue);
+  const [focused, setFocused] = useState(false);
   return (
     <TextInput
       value={text}
@@ -34,6 +38,8 @@ export function TextAnswerInput({
         setText(t);
         onChangeText(t);
       }}
+      onFocus={() => setFocused(true)}
+      onBlur={() => setFocused(false)}
       editable={!locked}
       placeholder={placeholder}
       placeholderTextColor={colors.textMuted}
@@ -45,23 +51,34 @@ export function TextAnswerInput({
       returnKeyType={multiline ? "default" : "done"}
       onSubmitEditing={multiline ? undefined : onSubmit}
       blurOnSubmit={!multiline}
-      style={[styles.input, multiline && styles.multiline, locked && styles.locked]}
+      style={[
+        styles.input,
+        multiline && styles.multiline,
+        focused && !locked && styles.focused,
+        status === "correct" && styles.correct,
+        status === "wrong" && styles.wrong,
+      ]}
     />
   );
 }
 
 const styles = StyleSheet.create({
   input: {
-    ...typography.body,
-    minHeight: 52,
+    ...typography.subheading,
+    fontWeight: "600",
+    minHeight: 60,
     color: colors.text,
-    backgroundColor: colors.surfaceAlt,
-    borderRadius: radius.md,
-    borderWidth: 1.5,
-    borderColor: colors.border,
-    paddingHorizontal: spacing.md,
-    paddingVertical: spacing.sm,
+    backgroundColor: colors.surface,
+    borderRadius: radius.lg,
+    borderWidth: 2,
+    borderColor: colors.borderStrong,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.md,
+    outlineWidth: 0,
+    outlineColor: "transparent",
   },
-  multiline: { minHeight: 96, textAlignVertical: "top" },
-  locked: { opacity: 0.7 },
+  multiline: { minHeight: 112, textAlignVertical: "top" },
+  focused: { borderColor: colors.accent, boxShadow: "0px 0px 0px 4px rgba(142,131,255,0.18)" },
+  correct: { borderColor: colors.success, backgroundColor: colors.successMuted },
+  wrong: { borderColor: colors.danger, backgroundColor: colors.dangerMuted },
 });

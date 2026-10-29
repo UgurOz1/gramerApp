@@ -3,7 +3,7 @@ import { router } from "expo-router";
 import { lessonHref } from "@/features/curriculum/routes";
 import { StyleSheet, View } from "react-native";
 
-import { AppText, Badge, Button, Card, Screen, SectionHeader } from "@/components/common";
+import { AppText, Badge, Button, Card, PageHero, Screen, SectionHeader, icons } from "@/components/common";
 import { masteryBandLabels } from "@/constants/labels";
 import { getAvailableLessonIds, getLessonContent } from "@/data/contentRepository";
 import { getLessonStatus, lessonStatusLabels } from "@/domain/progress/lessonStatus";
@@ -11,7 +11,7 @@ import { getLessonSummary, isLessonAvailable } from "@/features/curriculum/catal
 import { useMastery } from "@/features/progress/useMastery";
 import { progressService } from "@/services/progress/progressService";
 import { useUserState } from "@/services/progress/userStore";
-import { spacing } from "@/theme";
+import { colors, spacing } from "@/theme";
 import { formatDate } from "@/utils/date";
 
 export default function ReviewScreen() {
@@ -25,13 +25,17 @@ export default function ReviewScreen() {
 
   return (
     <Screen>
-      <AppText color="textSecondary">
-        Tekrar etmek istediğin konuları buraya ekle. Liste yalnızca senin seçtiklerinden oluşur ve yanlışlar listesinden ayrıdır.
-      </AppText>
+      <PageHero
+        emoji="🔖"
+        title="Tekrar listem"
+        subtitle="Tekrar etmek istediğin konular. Liste yalnızca senin seçtiklerinden oluşur ve yanlışlar listesinden ayrıdır."
+        color={colors.warning}
+      />
 
-      <SectionHeader title="Tekrar listem" subtitle={reviewList.length ? `${reviewList.length} konu` : undefined} />
+      <SectionHeader title="Listendeki konular" subtitle={reviewList.length ? `${reviewList.length} konu` : undefined} />
       {reviewList.length === 0 ? (
         <Card>
+          <AppText style={{ fontSize: 36, lineHeight: 44 }}>📭</AppText>
           <AppText variant="subheading">Listen boş</AppText>
           <AppText color="textSecondary">Aşağıdan bir konu ekleyebilir ya da ders ekranındaki “Tekrar listeme ekle” butonunu kullanabilirsin.</AppText>
         </Card>
@@ -42,7 +46,7 @@ export default function ReviewScreen() {
             const m = mastery[item.lessonId];
             const status = getLessonStatus(lessonProgress[item.lessonId], m);
             return (
-              <Card key={item.lessonId}>
+              <Card key={item.lessonId} accentColor={colors.warning}>
                 <AppText variant="subheading">{summary?.title ?? item.lessonId}</AppText>
                 <View style={styles.badges}>
                   <Badge label={lessonStatusLabels[status]} tone="accent" />
@@ -51,7 +55,7 @@ export default function ReviewScreen() {
                 </View>
                 <View style={styles.row}>
                   <View style={styles.flex}>
-                    <Button title="Dersi aç" onPress={() => router.push(lessonHref(item.lessonId))} disabled={!isLessonAvailable(item.lessonId)} />
+                    <Button title="Dersi aç" icon={icons.book} onPress={() => router.push(lessonHref(item.lessonId))} disabled={!isLessonAvailable(item.lessonId)} />
                   </View>
                   <View style={styles.flex}>
                     <Button title="Listeden çıkar" variant="secondary" onPress={() => progressService.removeFromReviewList(item.lessonId)} />
@@ -63,6 +67,7 @@ export default function ReviewScreen() {
           {listedAvailable.length > 0 ? (
             <Button
               title="Bu konulardan karışık test oluştur"
+              icon={icons.shuffle}
               variant="secondary"
               onPress={() => router.push({ pathname: "/mixed", params: { scope: "review" } })}
             />
@@ -78,7 +83,7 @@ export default function ReviewScreen() {
           {candidates.map((id) => (
             <View key={id} style={styles.addRow}>
               <AppText variant="bodyStrong" style={styles.flex}>{getLessonSummary(id)?.title ?? id}</AppText>
-              <Button title="Ekle" variant="secondary" onPress={() => progressService.addToReviewList(id)} />
+              <Button title="Ekle" icon={icons.bookmarkAdd} variant="secondary" onPress={() => progressService.addToReviewList(id)} />
             </View>
           ))}
         </Card>
@@ -95,10 +100,14 @@ export default function ReviewScreen() {
               <View key={r.resultId} style={styles.addRow}>
                 <View style={styles.flex}>
                   <AppText variant="bodyStrong">{lesson ? lesson.exam.title : "Karışık test"}</AppText>
-                  <AppText variant="caption" color="textSecondary">{formatDate(r.finishedAt)} · %{r.percent} ({r.correct}/{r.total})</AppText>
+                  <View style={styles.badges}>
+                    <Badge label={`%${r.percent}`} tone={r.percent >= 70 ? "success" : "warning"} />
+                    <AppText variant="caption" color="textSecondary">{formatDate(r.finishedAt)} · {r.correct}/{r.total}</AppText>
+                  </View>
                 </View>
                 <Button
                   title="Yeniden çöz"
+                  icon={icons.replay}
                   variant="secondary"
                   onPress={() => (lesson ? router.push({ pathname: "/exam/[lessonId]", params: { lessonId: lesson.id } }) : router.push("/mixed"))}
                 />

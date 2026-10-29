@@ -1,16 +1,17 @@
 import { useRef, useState } from "react";
 import { StyleSheet, View } from "react-native";
 
-import { AppText, Button, Card, ProgressBar, Screen } from "@/components/common";
+import { AppText, Badge, Button, Card, PageHero, Screen, icons } from "@/components/common";
 import { questionTypeLabels } from "@/constants/labels";
 import type { AnswerMode, ExamResult, Question } from "@/domain/models";
 import { isResponseComplete, type AnswerResponse } from "@/domain/question-engine/evaluate";
 import type { ExamResponses } from "@/domain/scoring/examScoring";
 import { progressService } from "@/services/progress/progressService";
 import { useUserState } from "@/services/progress/userStore";
-import { spacing } from "@/theme";
+import { colors, radius, spacing } from "@/theme";
 
 import { QuestionCard } from "./QuestionCard";
+import { RunProgress } from "./RunProgress";
 
 type Props = {
   examId: string;
@@ -48,6 +49,8 @@ export function ExamRunner(props: Props) {
         footer={
           <Button
             title="Sınava başla"
+            icon={icons.play}
+            size="lg"
             disabled={questions.length === 0}
             onPress={() => {
               startedAt.current = Date.now();
@@ -56,28 +59,33 @@ export function ExamRunner(props: Props) {
           />
         }
       >
-        <AppText variant="title" accessibilityRole="header">{props.title}</AppText>
+        <PageHero emoji="📝" title={props.title} subtitle={props.description} gradient="linear-gradient(150deg, #3B2F9E 0%, #141829 80%)">
+          <View style={styles.facts}>
+            <Fact value={String(questions.length)} label="soru" />
+            <Fact value={`%${props.passPercent}`} label="başarı sınırı" />
+            <Fact value="∞" label="süre" />
+          </View>
+        </PageHero>
+        {props.scopeLines.length > 0 ? (
+          <Card>
+            <AppText variant="label" color="accent">KAPSAM</AppText>
+            {props.scopeLines.map((line) => <AppText key={line} color="textSecondary">{line}</AppText>)}
+          </Card>
+        ) : null}
         <Card>
-          <AppText variant="subheading">Sınav hakkında</AppText>
-          <AppText>{props.description}</AppText>
-          <AppText>Soru sayısı: {questions.length}</AppText>
-          {props.scopeLines.map((line) => <AppText key={line}>{line}</AppText>)}
-          <AppText>Başarı sınırı: %{props.passPercent}</AppText>
+          <AppText variant="label" color="accent">SORU TÜRLERİ</AppText>
+          <View style={styles.types}>
+            {Object.entries(typeCounts).map(([type, count]) => (
+              <Badge key={type} label={`${questionTypeLabels[type as keyof typeof questionTypeLabels]} · ${count}`} tone="accent" />
+            ))}
+          </View>
         </Card>
         <Card>
-          <AppText variant="subheading">Soru türleri</AppText>
-          {Object.entries(typeCounts).map(([type, count]) => (
-            <AppText key={type} color="textSecondary">
-              {questionTypeLabels[type as keyof typeof questionTypeLabels]}: {count}
-            </AppText>
-          ))}
-        </Card>
-        <Card>
-          <AppText variant="subheading">Nasıl işler?</AppText>
-          <AppText color="textSecondary">• Doğru cevaplar sınav bitene kadar gösterilmez.</AppText>
-          <AppText color="textSecondary">• Süre sınırı yoktur.</AppText>
-          <AppText color="textSecondary">• Emin olmadığın soruyu atlayabilirsin; atlanan soru yanlış sayılmaz ama puan getirmez.</AppText>
-          <AppText color="textSecondary">• Bir soruyu geçtikten sonra geri dönemezsin.</AppText>
+          <AppText variant="label" color="accent">NASIL İŞLER?</AppText>
+          <Rule emoji="🙈" text="Doğru cevaplar sınav bitene kadar gösterilmez." />
+          <Rule emoji="⏳" text="Süre sınırı yok, acele etme." />
+          <Rule emoji="⏭️" text="Emin olmadığın soruyu atlayabilirsin; atlanan soru yanlış sayılmaz ama puan getirmez." />
+          <Rule emoji="➡️" text="Bir soruyu geçtikten sonra geri dönemezsin." />
         </Card>
       </Screen>
     );
@@ -113,15 +121,15 @@ export function ExamRunner(props: Props) {
         <View style={styles.row}>
           <View style={styles.third}><Button title="Atla" variant="secondary" onPress={() => next(null)} /></View>
           <View style={styles.twoThirds}>
-            <Button title={isLast ? "Sınavı bitir" : "Sonraki soru"} disabled={!isResponseComplete(response)} onPress={() => next(response)} />
+            <Button title={isLast ? "Sınavı bitir" : "Sonraki soru"} icon={isLast ? icons.trophy : icons.arrowRight} disabled={!isResponseComplete(response)} onPress={() => next(response)} />
           </View>
         </View>
       }
     >
-      <View style={styles.progress}>
-        <AppText variant="caption" color="textSecondary">Soru {index + 1} / {questions.length}</AppText>
-        <ProgressBar value={index / questions.length} accessibilityLabel={`Soru ${index + 1} / ${questions.length}`} />
+      <View style={styles.examTag}>
+        <AppText variant="caption" color="warning">📝 Sınav modu · cevaplar sonda gösterilir</AppText>
       </View>
+      <RunProgress current={index + 1} total={questions.length} value={index / questions.length} />
       <QuestionCard
         key={question.id}
         question={question}
@@ -135,8 +143,32 @@ export function ExamRunner(props: Props) {
   );
 }
 
+function Fact({ value, label }: { value: string; label: string }) {
+  return (
+    <View style={styles.fact}>
+      <AppText variant="heading">{value}</AppText>
+      <AppText variant="caption" color="textSecondary">{label}</AppText>
+    </View>
+  );
+}
+
+function Rule({ emoji, text }: { emoji: string; text: string }) {
+  return (
+    <View style={styles.rule}>
+      <AppText style={styles.ruleEmoji}>{emoji}</AppText>
+      <AppText color="textSecondary" style={styles.flex}>{text}</AppText>
+    </View>
+  );
+}
+
 const styles = StyleSheet.create({
-  progress: { gap: spacing.xs },
+  flex: { flex: 1 },
+  facts: { flexDirection: "row", gap: spacing.sm, marginTop: spacing.sm },
+  fact: { flex: 1, alignItems: "center", paddingVertical: spacing.md, borderRadius: radius.md, backgroundColor: "rgba(10,12,22,0.45)" },
+  types: { flexDirection: "row", flexWrap: "wrap", gap: spacing.xs },
+  rule: { flexDirection: "row", gap: spacing.md, alignItems: "flex-start" },
+  ruleEmoji: { fontSize: 18, lineHeight: 24 },
+  examTag: { alignSelf: "flex-start", paddingHorizontal: spacing.sm + 2, paddingVertical: 4, borderRadius: radius.pill, backgroundColor: colors.warningMuted },
   row: { flexDirection: "row", gap: spacing.sm },
   third: { flex: 1 },
   twoThirds: { flex: 2 },

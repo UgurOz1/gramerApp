@@ -4,7 +4,7 @@ import { lessonHref } from "@/features/curriculum/routes";
 import { useState } from "react";
 import { StyleSheet, View } from "react-native";
 
-import { AppText, Badge, Button, Card, Icon } from "@/components/common";
+import { AppText, Badge, Button, Card, Icon, icons } from "@/components/common";
 import { questionTypeLabels } from "@/constants/labels";
 import { describeCorrectAnswer } from "@/domain/question-engine/evaluate";
 import type { Question } from "@/domain/models";
@@ -39,7 +39,7 @@ export function MistakeCard({ item, onRetry, onDismiss }: Props) {
   const correct = describeCorrectAnswer(question);
 
   return (
-    <Card>
+    <Card accentColor={record.resolved ? colors.success : colors.danger}>
       <View style={styles.head}>
         <Icon
           name={record.resolved ? { ios: "checkmark.circle.fill", android: "check_circle", web: "check_circle" } : { ios: "xmark.circle.fill", android: "cancel", web: "cancel" }}
@@ -53,8 +53,16 @@ export function MistakeCard({ item, onRetry, onDismiss }: Props) {
       </View>
 
       <AppText variant="subheading">{questionText(question)}</AppText>
-      <AppText color="textSecondary">Önceki cevabın: {record.lastWrongAnswer || "—"}</AppText>
-      <AppText>Doğru cevap: <AppText variant="bodyStrong" color="success">{correct.correctAnswer}</AppText></AppText>
+      <View style={styles.answers}>
+        <View style={[styles.answer, { backgroundColor: colors.dangerMuted }]}>
+          <AppText variant="label" color="danger">SENİN CEVABIN</AppText>
+          <AppText color="danger" style={styles.strike}>{record.lastWrongAnswer || "—"}</AppText>
+        </View>
+        <View style={[styles.answer, { backgroundColor: colors.successMuted }]}>
+          <AppText variant="label" color="success">DOĞRU CEVAP</AppText>
+          <AppText variant="bodyStrong" color="success">{correct.correctAnswer}</AppText>
+        </View>
+      </View>
 
       <View style={styles.meta}>
         {lesson ? <Badge label={lesson.title} tone="accent" /> : null}
@@ -73,7 +81,7 @@ export function MistakeCard({ item, onRetry, onDismiss }: Props) {
       ) : null}
 
       <View style={styles.actions}>
-        <View style={styles.action}><Button title="Tekrar çöz" onPress={onRetry} /></View>
+        <View style={styles.action}><Button title="Tekrar çöz" icon={icons.replay} onPress={onRetry} /></View>
         <View style={styles.action}><Button title={open ? "Açıklamayı gizle" : "Açıklamayı gör"} variant="secondary" onPress={() => setOpen((o) => !o)} /></View>
       </View>
       <View style={styles.actions}>
@@ -93,5 +101,8 @@ const styles = StyleSheet.create({
   meta: { flexDirection: "row", flexWrap: "wrap", gap: spacing.xs },
   explain: { gap: spacing.xs, padding: spacing.md, borderRadius: 12, backgroundColor: colors.surfaceAlt },
   actions: { flexDirection: "row", gap: spacing.sm },
+  answers: { gap: spacing.xs },
+  answer: { gap: 2, padding: spacing.md, borderRadius: 12 },
+  strike: { textDecorationLine: "line-through" },
   action: { flex: 1 },
 });

@@ -1,7 +1,7 @@
 import type { TextStyle } from "react-native";
 
 import { AppText } from "@/components/common";
-import type { TypographyVariant } from "@/theme";
+import { colors, type TypographyVariant } from "@/theme";
 
 type Props = {
   text: string;
@@ -19,10 +19,12 @@ export function HighlightedText({ text, highlight, variant = "bodyStrong", style
   return (
     <AppText variant={variant} style={style}>
       {text.slice(0, at)}
-      <AppText variant={variant} color="accent" style={styles.highlight}>{highlight}</AppText>
+      <AppText variant={variant} style={styles.highlight}>{highlight}</AppText>
       {text.slice(at + highlight.length)}
     </AppText>
   );
 }
 
-const styles = { highlight: { textDecorationLine: "underline" } } as const;
+const styles = {
+  highlight: { color: colors.accent, backgroundColor: colors.accentMuted, borderRadius: 4, fontWeight: "800" },
+} as const;

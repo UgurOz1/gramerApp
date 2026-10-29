@@ -10,7 +10,9 @@ export default function TabLayout() {
         headerStyle: { backgroundColor: colors.background },
         headerTintColor: colors.text,
         headerShadowVisible: false,
-        tabBarStyle: { backgroundColor: colors.surface, borderTopColor: colors.border },
+        headerTitleStyle: { fontWeight: "800", fontSize: 18 },
+        tabBarStyle: { backgroundColor: colors.surface, borderTopColor: colors.border, borderTopWidth: 1 },
+        tabBarLabelStyle: { fontSize: 11, fontWeight: "700" },
         tabBarActiveTintColor: colors.accent,
         tabBarInactiveTintColor: colors.textMuted,
       }}
@@ -19,7 +21,7 @@ export default function TabLayout() {
         name="index"
         options={{
           title: "Ana Sayfa",
-          headerTitle: "GrammarPath",
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Icon name={{ ios: "house.fill", android: "home", web: "home" }} color={color} size={size} />
           ),

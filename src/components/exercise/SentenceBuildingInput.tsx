@@ -1,19 +1,20 @@
 import { useMemo, useState } from "react";
 import { Pressable, StyleSheet, View } from "react-native";
 
-import { AppText, Button } from "@/components/common";
+import { AppText, Button, icons } from "@/components/common";
 import type { SentenceBuildingQuestion } from "@/domain/models";
 import { shuffleDifferent } from "@/domain/question-engine/shuffle";
-import { colors, minTouchSize, radius, spacing } from "@/theme";
+import { colors, gradients, minTouchSize, radius, spacing } from "@/theme";
 
 type Props = {
   question: SentenceBuildingQuestion;
   locked: boolean;
+  status?: "correct" | "wrong";
   /** Seçilen parçalar değiştikçe çağrılır; hiç parça yoksa boş dizi. */
   onChange: (tokens: string[]) => void;
 };
 
-export function SentenceBuildingInput({ question, locked, onChange }: Props) {
+export function SentenceBuildingInput({ question, locked, status, onChange }: Props) {
   // Parçalar sabit bir sırayla karıştırılır; aynı kelime birden fazla kez olabilir, bu yüzden indeksle izlenir.
   const pieces = useMemo(
     () => shuffleDifferent([...question.answer, ...(question.distractors ?? [])], question.id),
@@ -28,9 +29,12 @@ export function SentenceBuildingInput({ question, locked, onChange }: Props) {
 
   return (
     <View style={styles.wrap}>
-      <View style={styles.answerArea} accessibilityLabel="Kurduğun cümle">
+      <View
+        style={[styles.answerArea, status === "correct" && styles.areaCorrect, status === "wrong" && styles.areaWrong]}
+        accessibilityLabel="Kurduğun cümle"
+      >
         {selected.length === 0 ? (
-          <AppText color="textMuted">Aşağıdaki parçalara dokunarak cümleyi kur.</AppText>
+          <AppText color="textMuted" style={styles.placeholder}>👇 Aşağıdaki parçalara dokunarak cümleyi kur.</AppText>
         ) : (
           <View style={styles.chips}>
             {selected.map((pieceIndex, position) => (
@@ -40,17 +44,17 @@ export function SentenceBuildingInput({ question, locked, onChange }: Props) {
                 onPress={() => update(selected.filter((_, p) => p !== position))}
                 accessibilityRole="button"
                 accessibilityLabel={`${pieces[pieceIndex]}. Kaldırmak için dokun`}
-                style={[styles.chip, styles.chipSelected]}
+                style={({ pressed }) => [styles.chip, styles.chipSelected, pressed && styles.chipPressed]}
               >
-                <AppText variant="bodyStrong" color="onAccent">{pieces[pieceIndex]}</AppText>
+                <AppText variant="bodyStrong" style={styles.chipSelectedText}>{pieces[pieceIndex]}</AppText>
               </Pressable>
             ))}
-            <AppText variant="bodyStrong" style={styles.punctuation}>{question.endPunctuation}</AppText>
+            <AppText variant="heading" style={styles.punctuation}>{question.endPunctuation}</AppText>
           </View>
         )}
       </View>
 
-      <View style={styles.chips} accessibilityLabel="Kelime parçaları">
+      <View style={[styles.chips, styles.bank]} accessibilityLabel="Kelime parçaları">
         {pieces.map((piece, i) => {
           const used = selected.includes(i);
           return (
@@ -61,9 +65,9 @@ export function SentenceBuildingInput({ question, locked, onChange }: Props) {
               accessibilityRole="button"
               accessibilityState={{ disabled: locked || used }}
               accessibilityLabel={used ? `${piece}, kullanıldı` : `${piece}. Eklemek için dokun`}
-              style={[styles.chip, used && styles.chipUsed]}
+              style={({ pressed }) => [styles.chip, used && styles.chipUsed, pressed && !used && styles.chipPressed]}
             >
-              <AppText variant="bodyStrong" color={used ? "textMuted" : "text"}>{piece}</AppText>
+              <AppText variant="bodyStrong" color={used ? "textMuted" : "text"} style={used && styles.usedText}>{piece}</AppText>
             </Pressable>
           );
         })}
@@ -72,7 +76,7 @@ export function SentenceBuildingInput({ question, locked, onChange }: Props) {
       {!locked ? (
         <View style={styles.actions}>
           <View style={styles.action}>
-            <Button title="Geri al" variant="secondary" disabled={selected.length === 0} onPress={() => update(selected.slice(0, -1))} />
+            <Button title="Geri al" icon={icons.undo} variant="secondary" disabled={selected.length === 0} onPress={() => update(selected.slice(0, -1))} />
           </View>
           <View style={styles.action}>
             <Button title="Temizle" variant="ghost" disabled={selected.length === 0} onPress={() => update([])} />
@@ -86,28 +90,36 @@ export function SentenceBuildingInput({ question, locked, onChange }: Props) {
 const styles = StyleSheet.create({
   wrap: { gap: spacing.md },
   answerArea: {
-    minHeight: 76,
+    minHeight: 92,
     padding: spacing.md,
-    borderRadius: radius.md,
-    backgroundColor: colors.surfaceAlt,
-    borderWidth: 1.5,
-    borderColor: colors.border,
+    borderRadius: radius.lg,
+    backgroundColor: colors.surface,
+    borderWidth: 2,
+    borderColor: colors.borderStrong,
     borderStyle: "dashed",
     justifyContent: "center",
   },
+  areaCorrect: { borderColor: colors.success, borderStyle: "solid", backgroundColor: colors.successMuted },
+  areaWrong: { borderColor: colors.danger, borderStyle: "solid", backgroundColor: colors.dangerMuted },
+  placeholder: { textAlign: "center" },
+  bank: { justifyContent: "center", paddingVertical: spacing.sm },
   chips: { flexDirection: "row", flexWrap: "wrap", gap: spacing.sm, alignItems: "center" },
   chip: {
-    minHeight: minTouchSize - 4,
-    paddingHorizontal: spacing.md,
+    minHeight: minTouchSize - 2,
+    paddingHorizontal: spacing.lg,
     justifyContent: "center",
     borderRadius: radius.md,
     backgroundColor: colors.surfaceAlt,
-    borderWidth: 1,
-    borderColor: colors.border,
+    borderWidth: 2,
+    borderColor: colors.borderStrong,
+    boxShadow: "0px 3px 0px rgba(0,0,0,0.4)",
   },
-  chipSelected: { backgroundColor: colors.accent, borderColor: colors.accent },
-  chipUsed: { opacity: 0.35 },
-  punctuation: { paddingHorizontal: spacing.xs },
+  chipSelected: { backgroundColor: colors.accentStrong, backgroundImage: gradients.primary, borderColor: "#8E83FF", boxShadow: "0px 3px 0px #3F35A8" },
+  chipSelectedText: { color: "#FFFFFF" },
+  chipPressed: { transform: [{ translateY: 2 }], boxShadow: "0px 1px 0px rgba(0,0,0,0.4)" },
+  chipUsed: { backgroundColor: colors.background, borderColor: colors.border, boxShadow: "none", borderStyle: "dashed" },
+  usedText: { opacity: 0.25 },
+  punctuation: { paddingHorizontal: 2 },
   actions: { flexDirection: "row", gap: spacing.sm },
   action: { flex: 1 },
 });

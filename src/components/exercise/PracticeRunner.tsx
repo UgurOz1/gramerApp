@@ -1,14 +1,16 @@
 import { useState, type ReactNode } from "react";
 import { StyleSheet, View } from "react-native";
 
-import { AppText, Button, Card, ProgressBar, Screen } from "@/components/common";
+import { AppText, Button, Card, Screen, icons } from "@/components/common";
 import type { AnswerMode, Question } from "@/domain/models";
 import { isResponseComplete, type AnswerResponse, type Evaluation } from "@/domain/question-engine/evaluate";
 import { progressService } from "@/services/progress/progressService";
 import { useUserState } from "@/services/progress/userStore";
-import { colors, spacing } from "@/theme";
+import { spacing } from "@/theme";
 
 import { QuestionCard } from "./QuestionCard";
+import { RoundSummary } from "./RoundSummary";
+import { RunProgress } from "./RunProgress";
 
 type Outcome = "correct" | "wrong" | "skipped";
 
@@ -36,6 +38,7 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
   const [outcomes, setOutcomes] = useState<Record<string, Outcome>>({});
   const [finished, setFinished] = useState(false);
   const [note, setNote] = useState<{ title: string; text: string } | null>(null);
+  const [combo, setCombo] = useState(0);
 
   const total = questions.length;
   const question = queue[index];
@@ -58,6 +61,7 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
     const result = progressService.submitAnswer(question, response, { sessionId, mode });
     setEvaluation(result);
     setOutcomes((o) => ({ ...o, [question.id]: result.isCorrect ? "correct" : "wrong" }));
+    setCombo((c) => (result.isCorrect ? c + 1 : 0));
   };
 
   const skip = () => {
@@ -74,6 +78,7 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
     setRound((r) => r + 1);
     setResponse(null);
     setEvaluation(null);
+    setCombo(0);
     setFinished(false);
   };
 
@@ -91,30 +96,17 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
       const o = outcomes[q.id];
       if (o) counts[o]++;
     }
-    const answered = counts.correct + counts.wrong;
     return (
       <Screen footer={summaryActions}>
-        <AppText variant="title" accessibilityRole="header">Tur bitti</AppText>
-        <Card>
-          <AppText variant="subheading">Sonuç</AppText>
-          <AppText>Doğru: {counts.correct}</AppText>
-          <AppText>Yanlış: {counts.wrong}</AppText>
-          <AppText>Atlanan: {counts.skipped}</AppText>
-          {answered > 0 ? (
-            <>
-              <ProgressBar value={counts.correct / answered} color={colors.success} accessibilityLabel="Doğruluk oranı" />
-              <AppText variant="caption" color="textSecondary">Cevapladığın soruların %{Math.round((counts.correct / answered) * 100)}’i doğru.</AppText>
-            </>
-          ) : null}
-        </Card>
+        <RoundSummary correct={counts.correct} wrong={counts.wrong} skipped={counts.skipped} />
         {note ? (
           <Card>
             <AppText variant="subheading">{note.title}</AppText>
             <AppText color="textSecondary">{note.text}</AppText>
           </Card>
         ) : null}
-        {counts.skipped > 0 ? <Button title={`Atlanan ${counts.skipped} soruyu çöz`} variant="secondary" onPress={() => restartWith("skipped")} /> : null}
-        {counts.wrong > 0 ? <Button title={`Yanlış yaptığım ${counts.wrong} soruyu tekrar çöz`} variant="secondary" onPress={() => restartWith("wrong")} /> : null}
+        {counts.wrong > 0 ? <Button title={`Yanlış yaptığım ${counts.wrong} soruyu tekrar çöz`} icon={icons.replay} variant="secondary" onPress={() => restartWith("wrong")} /> : null}
+        {counts.skipped > 0 ? <Button title={`Atlanan ${counts.skipped} soruyu çöz`} icon={icons.skip} variant="secondary" onPress={() => restartWith("skipped")} /> : null}
       </Screen>
     );
   }
@@ -124,19 +116,22 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
     <Screen
       footer={
         evaluation ? (
-          <Button title={isLast ? "Bitir" : "Sonraki soru"} onPress={() => advance(outcomes)} />
+          <Button
+            title={isLast ? "Turu bitir" : "Devam"}
+            icon={isLast ? icons.trophy : icons.arrowRight}
+            size="lg"
+            variant={evaluation.isCorrect ? "success" : "primary"}
+            onPress={() => advance(outcomes)}
+          />
         ) : (
           <View style={styles.row}>
             <View style={styles.third}><Button title="Atla" variant="secondary" onPress={skip} /></View>
-            <View style={styles.twoThirds}><Button title="Cevabı kontrol et" disabled={!isResponseComplete(response)} onPress={check} /></View>
+            <View style={styles.twoThirds}><Button title="Kontrol et" icon={icons.check} disabled={!isResponseComplete(response)} onPress={check} /></View>
           </View>
         )
       }
     >
-      <View style={styles.progress}>
-        <AppText variant="caption" color="textSecondary">Soru {index + 1} / {queue.length}</AppText>
-        <ProgressBar value={(index + (evaluation ? 1 : 0)) / queue.length} accessibilityLabel={`Soru ${index + 1} / ${queue.length}`} />
-      </View>
+      <RunProgress current={index + 1} total={queue.length} value={(index + (evaluation ? 1 : 0)) / queue.length} combo={combo} />
       <QuestionCard
         key={`${round}-${question.id}`}
         question={question}
@@ -151,7 +146,6 @@ export function PracticeRunner({ questions, mode, onFinish, summaryActions }: Pr
 }
 
 const styles = StyleSheet.create({
-  progress: { gap: spacing.xs },
   row: { flexDirection: "row", gap: spacing.sm },
   third: { flex: 1 },
   twoThirds: { flex: 2 },

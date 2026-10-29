@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { StyleSheet, View } from "react-native";
 
-import { Button } from "@/components/common";
+import { Button, icons } from "@/components/common";
 import { QuestionCard } from "@/components/exercise";
 import { isResponseComplete, type AnswerResponse, type Evaluation } from "@/domain/question-engine/evaluate";
 import type { Question } from "@/domain/models";
@@ -23,7 +23,7 @@ export function InlineCheck({ question, sessionId, showHint }: Props) {
   return (
     <View style={styles.wrap}>
       <QuestionCard question={question} response={response} onChange={setResponse} evaluation={evaluation} showHint={showHint} onSubmit={check} />
-      {!evaluation ? <Button title="Cevabı kontrol et" disabled={!isResponseComplete(response)} onPress={check} /> : null}
+      {!evaluation ? <Button title="Cevabı kontrol et" icon={icons.check} disabled={!isResponseComplete(response)} onPress={check} /> : null}
     </View>
   );
 }

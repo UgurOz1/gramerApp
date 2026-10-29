@@ -1,6 +1,6 @@
 import { Pressable, StyleSheet } from "react-native";
 
-import { colors, minTouchSize, radius, spacing } from "@/theme";
+import { colors, gradients, minTouchSize, radius, spacing } from "@/theme";
 import { AppText } from "./AppText";
 import { Icon } from "./Icon";
 
@@ -22,8 +22,8 @@ export function Chip({ label, selected, onPress, disabled }: Props) {
       accessibilityLabel={selected ? `${label}, seçili` : label}
       style={({ pressed }) => [styles.chip, selected && styles.selected, disabled && styles.disabled, pressed && styles.pressed]}
     >
-      {selected ? <Icon name={{ ios: "checkmark", android: "check", web: "check" }} color={colors.accent} size={16} /> : null}
-      <AppText variant="bodyStrong" color={selected ? "accent" : "textSecondary"}>{label}</AppText>
+      {selected ? <Icon name={{ ios: "checkmark", android: "check", web: "check" }} color="#FFFFFF" size={16} /> : null}
+      <AppText variant="bodyStrong" style={{ color: selected ? "#FFFFFF" : colors.textSecondary }}>{label}</AppText>
     </Pressable>
   );
 }
@@ -36,11 +36,11 @@ const styles = StyleSheet.create({
     gap: spacing.xs,
     paddingHorizontal: spacing.md,
     borderRadius: radius.pill,
-    backgroundColor: colors.surfaceAlt,
+    backgroundColor: colors.surface,
     borderWidth: 1.5,
-    borderColor: "transparent",
+    borderColor: colors.borderStrong,
   },
-  selected: { backgroundColor: colors.accentMuted, borderColor: colors.accent },
+  selected: { backgroundColor: colors.accentStrong, backgroundImage: gradients.primary, borderColor: colors.accent, boxShadow: "0px 6px 16px rgba(109,93,252,0.35)" },
   disabled: { opacity: 0.4 },
   pressed: { opacity: 0.85 },
 });

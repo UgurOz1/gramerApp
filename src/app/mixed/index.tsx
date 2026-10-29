@@ -2,7 +2,7 @@ import { router, useLocalSearchParams } from "expo-router";
 import { useMemo, useState } from "react";
 import { StyleSheet, View } from "react-native";
 
-import { AppText, Button, Card, Chip, Screen, SectionHeader } from "@/components/common";
+import { AppText, Button, Card, Chip, PageHero, Screen, SectionHeader, icons } from "@/components/common";
 import { questionTypeLabels } from "@/constants/labels";
 import { getAllQuestionsForLesson, getAvailableLessonIds, getCurriculum } from "@/data/contentRepository";
 import { countAvailableQuestions } from "@/domain/mixed/buildMixedTest";
@@ -10,7 +10,7 @@ import { QUESTION_TYPES, type LevelId, type QuestionType } from "@/domain/models
 import { getLessonSummary } from "@/features/curriculum/catalog";
 import { resolveScopeLessons, type MixedScope } from "@/features/mixed/scope";
 import { useUserState } from "@/services/progress/userStore";
-import { spacing } from "@/theme";
+import { colors, spacing } from "@/theme";
 
 type ScopeKind = MixedScope["kind"];
 
@@ -89,13 +89,16 @@ export default function MixedSetupScreen() {
           {emptyReason ? <AppText color="warning">{emptyReason}</AppText> : (
             <AppText color="textSecondary">{scopeLessons.length} konudan {actual} soru · sınav gibi çözülür</AppText>
           )}
-          <Button title="Testi başlat" disabled={!!emptyReason} onPress={start} />
+          <Button title="Testi başlat" icon={icons.play} size="lg" disabled={!!emptyReason} onPress={start} />
         </>
       }
     >
-      <AppText color="textSecondary">
-        Birden fazla konudan karışık sorular çöz. Hangi kuralın gerektiğini soru metninden kendin çıkarırsın; doğru cevaplar test bitince gösterilir.
-      </AppText>
+      <PageHero
+        emoji="🎲"
+        title="Karışık test"
+        subtitle="Birden fazla konudan karışık sorular. Hangi kuralın gerektiğini sen çıkarırsın; doğru cevaplar test bitince gösterilir."
+        color={colors.info}
+      />
 
       <SectionHeader title="Kapsam" />
       <View style={styles.chips}>
