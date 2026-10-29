@@ -214,3 +214,4 @@ describeComparison("a2-present-perfect-vs-past-simple", { pairs: 10, quiz: 24 })
 describeComparison("a2-past-simple-vs-continuous", { pairs: 10, quiz: 24 });
 describeComparison("a2-will-vs-going-to", { pairs: 10, quiz: 24 });
 describeComparison("b1-first-vs-second-conditional", { pairs: 10, quiz: 24 });
+describeComparison("b1-present-perfect-vs-past-advanced", { pairs: 10, quiz: 24 });

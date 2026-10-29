@@ -1,0 +1,1345 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-present-perfect-vs-past-advanced",
+  "levelId": "b1",
+  "title": "Present Perfect vs Past Simple: Advanced",
+  "objectives": [
+    "Yeni haberler ile geçmiş zaman ayrıntısı arasındaki farkı ayırt etmek",
+    "Bitmemiş zaman ifadeleriyle (today, this week) Present Perfect kullanmak",
+    "Bitmiş zaman ifadeleriyle (yesterday, last year, in 2010) Past Simple kullanmak",
+    "Deneyim sorusundan (Have you ever…?) ayrıntı sorusuna (When did you…?) geçmek"
+  ],
+  "intro": [
+    "A2’de Present Perfect ve Past Simple’ın temel farkını gördün. B1’de farkı bağlam üzerinden ayırt etmek gerekir: Present Perfect geçmişteki bir olayın şimdiyle bağını, Past Simple ise bitmiş ve zamanı belli geçmişi anlatır.",
+    "Kısaca: zaman ifadesi bitmişse (yesterday, last week, in 2010, ago) Past Simple; zaman ifadesi bitmemişse (today, this week, so far, already, just) ya da zaman belirtilmemişse Present Perfect."
+  ],
+  "lessonIds": [
+    "a2-present-perfect",
+    "a2-past-simple"
+  ],
+  "structures": [
+    {
+      "name": "Present Perfect",
+      "meaning": "Geçmişte başlayıp şimdiyle bağı olan olaylar: yeni haberler, deneyimler, sonuçları şimdi görülen olaylar ve bitmemiş zaman dilimleri.",
+      "usage": [
+        "Yeni haber (The president has resigned.)",
+        "Deneyim (I have visited Rome twice.)",
+        "Şimdiye etkisi olan olay (I have lost my keys.)",
+        "Bitmemiş zaman (I have seen three films this week.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + have / has + V3",
+          "example": "I have finished my work."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + haven’t / hasn’t + V3",
+          "example": "She hasn’t called yet."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + V3?",
+          "example": "Have you ever been to Japan?"
+        }
+      ],
+      "signals": [
+        "just",
+        "already",
+        "yet",
+        "ever / never",
+        "so far",
+        "this week / today",
+        "for / since"
+      ]
+    },
+    {
+      "name": "Past Simple",
+      "meaning": "Geçmişte bitmiş ve zamanı belli olan olaylar. Zaman ifadesi bitmiş bir zaman dilimini gösterir.",
+      "usage": [
+        "Zamanı belirtilmiş geçmiş olay (I saw him yesterday.)",
+        "Ayrıntı sorusu (When did you arrive?)",
+        "Geçmiş olay serisi (He got up, had breakfast and left.)",
+        "Artık geçerli olmayan durum (She lived in Rome for ten years.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + V2",
+          "example": "I visited Rome in 2019."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + didn’t + V1",
+          "example": "He didn’t come yesterday."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Did + özne + V1?",
+          "example": "Did you see the film last night?"
+        }
+      ],
+      "signals": [
+        "yesterday",
+        "last week / year",
+        "ago",
+        "in 2010",
+        "when",
+        "this morning (bitti)"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-01",
+        "en": "I've lost my keys.",
+        "tr": "Anahtarlarımı kaybettim. (Şu an yok.)",
+        "highlight": "I've lost"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-02",
+        "en": "I lost my keys yesterday.",
+        "tr": "Dün anahtarlarımı kaybettim.",
+        "highlight": "lost my keys yesterday"
+      },
+      "note": "Şimdiye etkisi ile bitmiş geçmiş."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-03",
+        "en": "I've seen three films this week.",
+        "tr": "Bu hafta üç film izledim. (Hafta sürüyor.)",
+        "highlight": "I've seen"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-04",
+        "en": "I saw three films last week.",
+        "tr": "Geçen hafta üç film izledim.",
+        "highlight": "saw three films last week"
+      },
+      "note": "Bitmemiş ve bitmiş zaman dilimi."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-05",
+        "en": "Have you ever been to Rome?",
+        "tr": "Hiç Roma'da bulundun mu?",
+        "highlight": "Have you ever been"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-06",
+        "en": "Did you go to Rome last summer?",
+        "tr": "Geçen yaz Roma'ya gittin mi?",
+        "highlight": "Did you go"
+      },
+      "note": "Deneyim sorusu ile ayrıntı sorusu."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-07",
+        "en": "She has lived here for ten years.",
+        "tr": "On yıldır burada yaşıyor. (Hâlâ yaşıyor.)",
+        "highlight": "has lived here"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-08",
+        "en": "She lived here for ten years, then moved.",
+        "tr": "On yıl burada yaşadı, sonra taşındı.",
+        "highlight": "lived here for ten years"
+      },
+      "note": "Hâlâ süren ve bitmiş durum."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-09",
+        "en": "I haven't eaten today.",
+        "tr": "Bugün yemek yemedim. (Gün sürüyor.)",
+        "highlight": "haven't eaten"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-10",
+        "en": "I didn't eat yesterday.",
+        "tr": "Dün yemek yemedim.",
+        "highlight": "didn't eat"
+      },
+      "note": "Bitmemiş gün ve bitmiş gün."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-11",
+        "en": "The government has announced new rules.",
+        "tr": "Hükümet yeni kuralları açıkladı. (Haber.)",
+        "highlight": "has announced"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-12",
+        "en": "The government announced new rules on Monday.",
+        "tr": "Hükümet yeni kuralları pazartesi açıkladı.",
+        "highlight": "announced new rules on Monday"
+      },
+      "note": "Haber ve zamanı belli olay."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-13",
+        "en": "He has just left.",
+        "tr": "Az önce çıktı.",
+        "highlight": "has just left"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-14",
+        "en": "He left five minutes ago.",
+        "tr": "Beş dakika önce çıktı.",
+        "highlight": "left five minutes ago"
+      },
+      "note": "Just ile ago."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-15",
+        "en": "How long have you worked here?",
+        "tr": "Ne zamandır burada çalışıyorsun?",
+        "highlight": "How long have you worked"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-16",
+        "en": "When did you start working here?",
+        "tr": "Burada çalışmaya ne zaman başladın?",
+        "highlight": "When did you start"
+      },
+      "note": "Süre sorusu ve zaman sorusu."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-17",
+        "en": "It's the first time I've flown.",
+        "tr": "İlk kez uçuyorum. (Şimdiye kadar ilk.)",
+        "highlight": "I've flown"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-18",
+        "en": "I flew for the first time in 2019.",
+        "tr": "İlk kez 2019'da uçtum.",
+        "highlight": "flew for the first time in 2019"
+      },
+      "note": "İlk deneyim ve zamanı belli."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-19",
+        "en": "They have broken the window.",
+        "tr": "Camı kırdılar. (Cam şimdi kırık.)",
+        "highlight": "have broken"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-20",
+        "en": "They broke the window while playing football.",
+        "tr": "Futbol oynarken camı kırdılar.",
+        "highlight": "broke the window while"
+      },
+      "note": "Sonuç ve olay anlatımı."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-21",
+        "en": "I've read that book twice.",
+        "tr": "O kitabı iki kez okudum.",
+        "highlight": "I've read"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-22",
+        "en": "I read that book last year.",
+        "tr": "O kitabı geçen yıl okudum.",
+        "highlight": "read that book last year"
+      },
+      "note": "Deneyim ve zamanı belli okuma."
+    },
+    {
+      "left": {
+        "id": "ex-pp-vs-ps-adv-23",
+        "en": "Prices have risen a lot this year.",
+        "tr": "Fiyatlar bu yıl çok arttı.",
+        "highlight": "have risen"
+      },
+      "right": {
+        "id": "ex-pp-vs-ps-adv-24",
+        "en": "Prices rose sharply in 2022.",
+        "tr": "Fiyatlar 2022'de keskin biçimde arttı.",
+        "highlight": "rose sharply in 2022"
+      },
+      "note": "Bitmemiş yıl ve bitmiş yıl."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Zaman ifadesi bitti mi?",
+      "body": "Bitmiş zaman ifadeleriyle (yesterday, last week, in 2010, two days ago) Past Simple kullanılır. Bitmemiş ifadelerle (today, this week, this year) Present Perfect kullanılır."
+    },
+    {
+      "heading": "Haber ve ayrıntı",
+      "body": "Yeni haberi Present Perfect ile veririz (The president has resigned). Ayrıntıya geçince Past Simple’a döneriz (He resigned at 5 o’clock)."
+    },
+    {
+      "heading": "Deneyim sorusu",
+      "body": "Have you ever…? zamansız bir deneyimi sorar. Cevap alınca ayrıntı sorusu Past Simple ile sorulur: When did you go there?"
+    },
+    {
+      "heading": "Süre: hâlâ mı sürüyor?",
+      "body": "Hâlâ süren durumlarda Present Perfect + for / since: I have lived here for ten years. Bitmiş dönem için Past Simple: I lived there for ten years."
+    },
+    {
+      "heading": "Şimdiye etki",
+      "body": "Sonucu şu an görülen olaylar Present Perfect ile anlatılır (I’ve lost my keys, hâlâ bulamıyorum). Geçmiş olaylar zinciri Past Simple ile anlatılır."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Zaman ifadesi bitmiş mi (yesterday, ago, last year, in 2010)?",
+      "answer": "Evet → Past Simple."
+    },
+    {
+      "question": "Zaman ifadesi bitmemiş mi (today, this week, so far)?",
+      "answer": "Evet → Present Perfect."
+    },
+    {
+      "question": "When ile ayrıntı mı soruyorsun?",
+      "answer": "Evet → Past Simple (When did you…?)."
+    },
+    {
+      "question": "Yeni bir haber mi veriyorsun?",
+      "answer": "Evet → Present Perfect, sonra ayrıntıda Past Simple."
+    },
+    {
+      "question": "Durum hâlâ sürüyor mu (for / since)?",
+      "answer": "Evet → Present Perfect."
+    },
+    {
+      "question": "Zaman belirtmeden bir deneyimden mi söz ediyorsun?",
+      "answer": "Evet → Present Perfect (ever, never)."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "I have seen him yesterday.",
+      "right": "I saw him yesterday.",
+      "explanation": "Yesterday bitmiş zaman; Past Simple."
+    },
+    {
+      "wrong": "Did you ever see this film?",
+      "right": "Have you ever seen this film?",
+      "explanation": "Hayat deneyimi: Present Perfect + ever."
+    },
+    {
+      "wrong": "When have you arrived?",
+      "right": "When did you arrive?",
+      "explanation": "When ile Past Simple."
+    },
+    {
+      "wrong": "I live here since 2015.",
+      "right": "I have lived here since 2015.",
+      "explanation": "Since ile Present Perfect."
+    },
+    {
+      "wrong": "She has gone to Rome last year.",
+      "right": "She went to Rome last year.",
+      "explanation": "Last year bitmiş zaman."
+    },
+    {
+      "wrong": "I haven't finished yesterday.",
+      "right": "I didn't finish yesterday.",
+      "explanation": "Yesterday: Past Simple."
+    },
+    {
+      "wrong": "He has lived in Paris two years ago.",
+      "right": "He lived in Paris two years ago.",
+      "explanation": "Ago: Past Simple."
+    },
+    {
+      "wrong": "I didn't eat today yet.",
+      "right": "I haven't eaten today.",
+      "explanation": "Bitmemiş gün: Present Perfect."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-pp-vs-ps-adv-01",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ my keys. I can't get into the house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lost"
+        },
+        {
+          "id": "b",
+          "text": "have lost"
+        },
+        {
+          "id": "c",
+          "text": "was losing"
+        },
+        {
+          "id": "d",
+          "text": "had lost"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Şimdiye etki: Present Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-02",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ him yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have seen"
+        },
+        {
+          "id": "b",
+          "text": "have been seeing"
+        },
+        {
+          "id": "c",
+          "text": "saw"
+        },
+        {
+          "id": "d",
+          "text": "had seen"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yesterday: Past Simple.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-03",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ you ever been to Japan?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did"
+        },
+        {
+          "id": "b",
+          "text": "Do"
+        },
+        {
+          "id": "c",
+          "text": "Were"
+        },
+        {
+          "id": "d",
+          "text": "Have"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Deneyim: Have you ever.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-04",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "When ___ you move here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When + Past Simple.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-05",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ in Paris since 2015.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "has lived"
+        },
+        {
+          "id": "c",
+          "text": "lives"
+        },
+        {
+          "id": "d",
+          "text": "was living"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Since: Present Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-06",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ three emails this morning. (sabah hâlâ sürüyor)",
+      "options": [
+        {
+          "id": "a",
+          "text": "sent"
+        },
+        {
+          "id": "b",
+          "text": "were sending"
+        },
+        {
+          "id": "c",
+          "text": "have sent"
+        },
+        {
+          "id": "d",
+          "text": "had sent"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Bitmemiş zaman.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-07",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ the contract on Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have signed"
+        },
+        {
+          "id": "b",
+          "text": "have been signing"
+        },
+        {
+          "id": "c",
+          "text": "sign"
+        },
+        {
+          "id": "d",
+          "text": "signed"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "On Monday: Past Simple.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-08",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ my homework yet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "haven't finished"
+        },
+        {
+          "id": "b",
+          "text": "didn't finish"
+        },
+        {
+          "id": "c",
+          "text": "don't finish"
+        },
+        {
+          "id": "d",
+          "text": "wasn't finishing"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yet: Present Perfect.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-09",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He ___ here for ten years, then he moved.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has lived"
+        },
+        {
+          "id": "b",
+          "text": "lived"
+        },
+        {
+          "id": "c",
+          "text": "lives"
+        },
+        {
+          "id": "d",
+          "text": "is living"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bitmiş dönem: Past Simple.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-10",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The president ___ . It's on the news now.",
+      "options": [
+        {
+          "id": "a",
+          "text": "resigned"
+        },
+        {
+          "id": "b",
+          "text": "was resigning"
+        },
+        {
+          "id": "c",
+          "text": "has resigned"
+        },
+        {
+          "id": "d",
+          "text": "resigns"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yeni haber: Present Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-11",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How long ___ you ___ here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did / work"
+        },
+        {
+          "id": "b",
+          "text": "do / work"
+        },
+        {
+          "id": "c",
+          "text": "are / working"
+        },
+        {
+          "id": "d",
+          "text": "have / worked"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Süre: How long + Present Perfect.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-12",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "It's the first time I ___ a horse.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have ridden"
+        },
+        {
+          "id": "b",
+          "text": "rode"
+        },
+        {
+          "id": "c",
+          "text": "ride"
+        },
+        {
+          "id": "d",
+          "text": "was riding"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It's the first time + Present Perfect.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-13",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ to London last year. (go)",
+      "answers": [
+        "went"
+      ],
+      "explanation": "Last year: Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has gone",
+          "explanation": "Last year bitmiş zaman."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-14",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have never ___ sushi. (eat)",
+      "answers": [
+        "eaten"
+      ],
+      "explanation": "Never: Present Perfect; V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ate",
+          "explanation": "Have never + V3."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-15",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ at the party two hours ago. (arrive)",
+      "answers": [
+        "arrived"
+      ],
+      "explanation": "Ago: Past Simple.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-16",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Prices ___ a lot this year. (rise)",
+      "answers": [
+        "have risen"
+      ],
+      "explanation": "This year: Present Perfect.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "rose",
+          "explanation": "This year bitmemiş zaman."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-17",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ his leg last week. (break)",
+      "answers": [
+        "broke"
+      ],
+      "explanation": "Last week: Past Simple.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-18",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ finished yet. (haven't)",
+      "answers": [
+        "haven't",
+        "have not"
+      ],
+      "explanation": "Yet: Present Perfect.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-19",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "When ___ you start working here? (did)",
+      "answers": [
+        "did"
+      ],
+      "explanation": "When + did.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-20",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She ___ here for ten years. (still lives)",
+      "answers": [
+        "has lived"
+      ],
+      "explanation": "Hâlâ yaşıyor: Present Perfect.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-21",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Anahtarlarımı kaybettim.",
+      "answer": [
+        "I",
+        "have",
+        "lost",
+        "my",
+        "keys"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "had",
+        "losing"
+      ],
+      "explanation": "şimdiye etki",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-22",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün onu gördüm.",
+      "answer": [
+        "I",
+        "saw",
+        "him",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "seen"
+      ],
+      "explanation": "bitmiş zaman",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-23",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç Japonya'ya gittin mi?",
+      "answer": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "Japan"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Did",
+        "went"
+      ],
+      "explanation": "deneyim",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-24",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne zaman taşındın?",
+      "answer": [
+        "When",
+        "did",
+        "you",
+        "move"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "have",
+        "moved"
+      ],
+      "explanation": "When + did",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-25",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have seen him yesterday.",
+      "errorSpan": "have seen",
+      "answers": [
+        "I saw him yesterday."
+      ],
+      "explanation": "Yesterday: Past Simple.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-26",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When have you arrived?",
+      "errorSpan": "have you arrived",
+      "answers": [
+        "When did you arrive?"
+      ],
+      "explanation": "When + Past Simple.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-27",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I live here since 2015.",
+      "errorSpan": "live here",
+      "answers": [
+        "I have lived here since 2015."
+      ],
+      "explanation": "Since: Present Perfect.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-28",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you ever see this film?",
+      "errorSpan": "Did you ever see",
+      "answers": [
+        "Have you ever seen this film?"
+      ],
+      "explanation": "Deneyim: Have you ever seen.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-29",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has gone to Rome last year.",
+      "errorSpan": "has gone",
+      "answers": [
+        "She went to Rome last year."
+      ],
+      "explanation": "Last year: Past Simple.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-30",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu hafta üç film izledim.",
+      "hint": "izlemek: watch",
+      "answers": [
+        "I have watched three films this week.",
+        "I've watched three films this week.",
+        "I have seen three films this week.",
+        "I've seen three films this week."
+      ],
+      "targetStructure": "Present Perfect",
+      "explanation": "Bitmemiş zaman.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-31",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geçen yıl Roma'ya gittim.",
+      "hint": "gitmek: go",
+      "answers": [
+        "I went to Rome last year."
+      ],
+      "targetStructure": "Past Simple",
+      "explanation": "Bitmiş zaman.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have been to Rome last year.",
+          "explanation": "Last year bitmiş zaman."
+        }
+      ],
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-pp-vs-ps-adv-32",
+      "lessonId": "b1-present-perfect-vs-past-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne zamandır burada yaşıyorsun?",
+      "hint": "yaşamak: live",
+      "answers": [
+        "How long have you lived here?"
+      ],
+      "targetStructure": "Present Perfect",
+      "explanation": "Süre.",
+      "tags": [
+        "pp-vs-ps-adv",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    }
+  ]
+}
