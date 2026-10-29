@@ -1,0 +1,1418 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-future-forms-review",
+  "levelId": "b1",
+  "title": "Future Forms Compared",
+  "objectives": [
+    "Will, be going to, Present Continuous ve Present Simple’ı gelecek anlamında ayırt etmek",
+    "Anlık karar, plan, kesin düzenleme ve tarifeli olayları doğru yapıyla anlatmak",
+    "Kanıta dayalı tahmin ile görüşe dayalı tahmini ayırt etmek",
+    "Future Continuous ve Future Perfect’in anlamlarını bu dörtlüyle karşılaştırmak"
+  ],
+  "intro": [
+    "İngilizcede gelecek tek bir yapıyla anlatılmaz. Her yapı, kararın ne zaman verildiğini, olayın ne kadar kesin olduğunu ve konuşanın bakış açısını yansıtır.",
+    "Kısaca: anlık karar, söz ve görüş için will; önceden verilmiş plan ve kanıta dayalı tahmin için be going to; kesinleşmiş düzenlemeler için Present Continuous; tarifeler ve programlar için Present Simple kullanılır."
+  ],
+  "lessonIds": [
+    "a2-will",
+    "a2-going-to",
+    "a2-present-continuous-future",
+    "b1-future-continuous",
+    "b1-future-perfect-intro"
+  ],
+  "structures": [
+    {
+      "name": "Will",
+      "meaning": "Konuşma anında verilen karar, söz, teklif ve kişisel görüşe dayalı tahmin.",
+      "usage": [
+        "Anlık karar (I’ll have the soup.)",
+        "Söz ve teklif (I’ll help you.)",
+        "Görüş (I think it will rain.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + will + V1",
+          "example": "I’ll call you later."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + won’t + V1",
+          "example": "I won’t tell anyone."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Will + özne + V1?",
+          "example": "Will you help me?"
+        }
+      ],
+      "signals": [
+        "I think",
+        "probably",
+        "I promise",
+        "I’m sure"
+      ]
+    },
+    {
+      "name": "Be going to",
+      "meaning": "Önceden verilmiş plan ve niyet; şu anda elimizde kanıt olan tahmin.",
+      "usage": [
+        "Plan ve niyet (I’m going to learn French.)",
+        "Kanıta dayalı tahmin (Look at the clouds! It’s going to rain.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + am / is / are + going to + V1",
+          "example": "I’m going to visit Tom."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + am / is / are + not + going to + V1",
+          "example": "She isn’t going to come."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + going to + V1?",
+          "example": "Are you going to leave?"
+        }
+      ],
+      "signals": [
+        "Look!",
+        "I’ve decided",
+        "plan",
+        "intend"
+      ]
+    },
+    {
+      "name": "Present Continuous",
+      "meaning": "Kesinleşmiş düzenleme: zaman ve kişi belli, hazırlık yapılmış randevular.",
+      "usage": [
+        "Randevu ve rezervasyon (I’m meeting Tom at six.)",
+        "Uçuş, bilet, toplantı düzenlemeleri (We’re flying to Rome on Friday.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + am / is / are + V-ing",
+          "example": "I’m meeting him at six."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + am / is / are + not + V-ing",
+          "example": "We aren’t leaving today."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + V-ing?",
+          "example": "Are you coming tonight?"
+        }
+      ],
+      "signals": [
+        "tonight",
+        "tomorrow",
+        "next week",
+        "at six o’clock"
+      ]
+    },
+    {
+      "name": "Present Simple",
+      "meaning": "Tarifeler, programlar ve takvim olayları: otobüs, tren, film, ders saatleri.",
+      "usage": [
+        "Tarife (The train leaves at 9.)",
+        "Program (The film starts at eight.)"
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + V1 / V1-s",
+          "example": "The bus leaves at nine."
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + don’t / doesn’t + V1",
+          "example": "The shop doesn’t open on Sundays."
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do / Does + özne + V1?",
+          "example": "What time does the film start?"
+        }
+      ],
+      "signals": [
+        "timetable",
+        "schedule",
+        "begins",
+        "leaves"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "left": {
+        "id": "ex-future-forms-01",
+        "en": "The phone is ringing. I'll answer it.",
+        "tr": "Telefon çalıyor. Ben açarım.",
+        "highlight": "I'll answer"
+      },
+      "right": {
+        "id": "ex-future-forms-02",
+        "en": "I'm going to answer the phone after the meeting.",
+        "tr": "Toplantıdan sonra telefona bakacağım.",
+        "highlight": "I'm going to answer"
+      },
+      "note": "Anlık karar ve önceden verilmiş plan."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-03",
+        "en": "I think it will rain tomorrow.",
+        "tr": "Bence yarın yağmur yağacak.",
+        "highlight": "will rain"
+      },
+      "right": {
+        "id": "ex-future-forms-04",
+        "en": "Look at those clouds! It's going to rain.",
+        "tr": "Şu bulutlara bak! Yağmur yağacak.",
+        "highlight": "going to rain"
+      },
+      "note": "Görüş ve kanıt."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-05",
+        "en": "I'm going to see the dentist some day.",
+        "tr": "Bir gün dişçiye gideceğim. (Niyet.)",
+        "highlight": "going to see"
+      },
+      "right": {
+        "id": "ex-future-forms-06",
+        "en": "I'm seeing the dentist at three tomorrow.",
+        "tr": "Yarın üçte dişçiye gidiyorum. (Randevu.)",
+        "highlight": "seeing the dentist at three"
+      },
+      "note": "Niyet ve kesinleşmiş randevu."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-07",
+        "en": "We're flying to Rome on Friday.",
+        "tr": "Cuma günü Roma'ya uçuyoruz.",
+        "highlight": "flying to Rome"
+      },
+      "right": {
+        "id": "ex-future-forms-08",
+        "en": "Our flight leaves at 6 a.m.",
+        "tr": "Uçağımız sabah 6'da kalkıyor.",
+        "highlight": "leaves at 6 a.m."
+      },
+      "note": "Düzenleme ve tarife."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-09",
+        "en": "I'll help you with the bags.",
+        "tr": "Çantalarla sana yardım ederim.",
+        "highlight": "I'll help"
+      },
+      "right": {
+        "id": "ex-future-forms-10",
+        "en": "I'm going to help my sister move this weekend.",
+        "tr": "Bu hafta sonu kız kardeşimin taşınmasına yardım edeceğim.",
+        "highlight": "I'm going to help"
+      },
+      "note": "Teklif ve plan."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-11",
+        "en": "The film starts at eight.",
+        "tr": "Film sekizde başlıyor.",
+        "highlight": "starts at eight"
+      },
+      "right": {
+        "id": "ex-future-forms-12",
+        "en": "I'm going to watch the film tonight.",
+        "tr": "Bu akşam filmi izleyeceğim.",
+        "highlight": "I'm going to watch"
+      },
+      "note": "Program ve niyet."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-13",
+        "en": "I promise I'll call you.",
+        "tr": "Söz veriyorum, seni arayacağım.",
+        "highlight": "I'll call"
+      },
+      "right": {
+        "id": "ex-future-forms-14",
+        "en": "I'm calling the doctor at ten.",
+        "tr": "Saat onda doktoru arıyorum.",
+        "highlight": "I'm calling the doctor"
+      },
+      "note": "Söz ve düzenleme."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-15",
+        "en": "Don't worry. I won't be late.",
+        "tr": "Merak etme. Geç kalmayacağım.",
+        "highlight": "won't be late"
+      },
+      "right": {
+        "id": "ex-future-forms-16",
+        "en": "I'm not going to be late. I've left early.",
+        "tr": "Geç kalmayacağım. Erken çıktım.",
+        "highlight": "I'm not going to be late"
+      },
+      "note": "Söz ve hazırlık yapılmış plan."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-17",
+        "en": "This time tomorrow I'll be lying on the beach.",
+        "tr": "Yarın bu saatte plajda uzanıyor olacağım.",
+        "highlight": "I'll be lying"
+      },
+      "right": {
+        "id": "ex-future-forms-18",
+        "en": "Tomorrow I'm going to lie on the beach.",
+        "tr": "Yarın plajda uzanacağım.",
+        "highlight": "I'm going to lie"
+      },
+      "note": "Future Continuous ve plan."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-19",
+        "en": "By 2030 I'll have finished my degree.",
+        "tr": "2030'a kadar derecemi bitirmiş olacağım.",
+        "highlight": "I'll have finished"
+      },
+      "right": {
+        "id": "ex-future-forms-20",
+        "en": "I'm going to finish my degree by 2030.",
+        "tr": "2030'a kadar derecemi bitirmeyi planlıyorum.",
+        "highlight": "I'm going to finish"
+      },
+      "note": "Future Perfect ve niyet."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-21",
+        "en": "The train leaves at 9.",
+        "tr": "Tren dokuzda kalkıyor.",
+        "highlight": "leaves at 9"
+      },
+      "right": {
+        "id": "ex-future-forms-22",
+        "en": "I'm taking the 9 o'clock train.",
+        "tr": "Dokuz treniyle gidiyorum.",
+        "highlight": "I'm taking"
+      },
+      "note": "Tarife ve kişisel düzenleme."
+    },
+    {
+      "left": {
+        "id": "ex-future-forms-23",
+        "en": "She'll probably pass the exam.",
+        "tr": "Muhtemelen sınavı geçer.",
+        "highlight": "She'll probably pass"
+      },
+      "right": {
+        "id": "ex-future-forms-24",
+        "en": "She's going to take the exam next week.",
+        "tr": "Gelecek hafta sınava girecek.",
+        "highlight": "She's going to take"
+      },
+      "note": "Tahmin ve plan."
+    }
+  ],
+  "meaningDifference": [
+    {
+      "heading": "Karar ne zaman verildi?",
+      "body": "Karar konuşma anında doğuyorsa will (I’ll have the soup). Karar önceden verilmişse be going to (I’m going to order the soup)."
+    },
+    {
+      "heading": "Kanıt var mı?",
+      "body": "Şu anda gördüğün bir kanıt varsa be going to (It’s going to rain). Sadece görüşse will (I think it will rain)."
+    },
+    {
+      "heading": "Düzenleme yapıldı mı?",
+      "body": "Zaman, yer ve kişi belirliyse ve hazırlık yapıldıysa Present Continuous (I’m meeting Tom at six). Bu yapı be going to’dan daha kesindir."
+    },
+    {
+      "heading": "Tarife ve program",
+      "body": "Zaman çizelgeleri ve resmî programlar için Present Simple kullanılır (The train leaves at nine). Kişisel planlar için kullanılmaz."
+    },
+    {
+      "heading": "Süreç ve tamamlanma",
+      "body": "Gelecekteki bir anda süren eylem için Future Continuous (This time tomorrow I’ll be flying). Belirli bir zamana kadar tamamlanmış eylem için Future Perfect (By Friday I’ll have finished)."
+    }
+  ],
+  "decisionGuide": [
+    {
+      "question": "Karar tam şu anda mı verildi?",
+      "answer": "Evet → will."
+    },
+    {
+      "question": "Söz veriyor ya da yardım mı teklif ediyorsun?",
+      "answer": "Evet → will."
+    },
+    {
+      "question": "Önceden verilmiş bir plan mı var?",
+      "answer": "Evet → be going to."
+    },
+    {
+      "question": "Şu anda gözünle gördüğün bir kanıt var mı?",
+      "answer": "Evet → be going to."
+    },
+    {
+      "question": "Randevu ya da bilet gibi kesinleşmiş bir düzenleme mi var?",
+      "answer": "Evet → Present Continuous."
+    },
+    {
+      "question": "Resmî tarife, program ya da takvim mi?",
+      "answer": "Evet → Present Simple."
+    },
+    {
+      "question": "Gelecekteki bir anda süren iş ya da o ana kadar biten iş mi?",
+      "answer": "Evet → Future Continuous / Future Perfect."
+    }
+  ],
+  "confusions": [
+    {
+      "wrong": "The phone is ringing. I’m going to answer it.",
+      "right": "The phone is ringing. I’ll answer it.",
+      "explanation": "Karar şimdi verildi: will."
+    },
+    {
+      "wrong": "Look at the clouds! It will rain.",
+      "right": "Look at the clouds! It’s going to rain.",
+      "explanation": "Şu anki kanıt: going to."
+    },
+    {
+      "wrong": "The train is leaving at nine tomorrow.",
+      "right": "The train leaves at nine tomorrow.",
+      "explanation": "Tarife: Present Simple."
+    },
+    {
+      "wrong": "I meet Tom at six tonight.",
+      "right": "I’m meeting Tom at six tonight.",
+      "explanation": "Kişisel düzenleme: Present Continuous."
+    },
+    {
+      "wrong": "I promise I’m going to help.",
+      "right": "I promise I’ll help.",
+      "explanation": "Söz: will."
+    },
+    {
+      "wrong": "When I will arrive, I’ll call you.",
+      "right": "When I arrive, I’ll call you.",
+      "explanation": "Zaman cümleciğinde will yok."
+    },
+    {
+      "wrong": "I’ll to see him tomorrow.",
+      "right": "I’ll see him tomorrow.",
+      "explanation": "Will + yalın fiil."
+    },
+    {
+      "wrong": "By Friday I’ll finish. (süreç vurgusu)",
+      "right": "By Friday I’ll have finished.",
+      "explanation": "O zamana kadar tamamlanan iş: Future Perfect."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-future-forms-01",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The phone is ringing. I ___ it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am going to answer"
+        },
+        {
+          "id": "b",
+          "text": "will answer"
+        },
+        {
+          "id": "c",
+          "text": "answer"
+        },
+        {
+          "id": "d",
+          "text": "am answering"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Anlık karar: will.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-02",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Look at those clouds! It ___ rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "rains"
+        },
+        {
+          "id": "c",
+          "text": "is going to"
+        },
+        {
+          "id": "d",
+          "text": "is raining"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Kanıt: be going to.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-03",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ Tom at six tonight. We've arranged it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will meet"
+        },
+        {
+          "id": "b",
+          "text": "meet"
+        },
+        {
+          "id": "c",
+          "text": "am going meet"
+        },
+        {
+          "id": "d",
+          "text": "am meeting"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Düzenleme: Present Continuous.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-04",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "The train ___ at 9:30 tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "leaves"
+        },
+        {
+          "id": "b",
+          "text": "is going to leave"
+        },
+        {
+          "id": "c",
+          "text": "will be leaving"
+        },
+        {
+          "id": "d",
+          "text": "is leaving"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tarife: Present Simple.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-05",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I've decided. I ___ study medicine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "am going to"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "am studying"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Önceden karar: be going to.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-06",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I promise I ___ you tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am going to call"
+        },
+        {
+          "id": "b",
+          "text": "am calling"
+        },
+        {
+          "id": "c",
+          "text": "will call"
+        },
+        {
+          "id": "d",
+          "text": "call"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Söz: will.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-07",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "This time tomorrow I ___ on the beach.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will lie"
+        },
+        {
+          "id": "b",
+          "text": "am lying"
+        },
+        {
+          "id": "c",
+          "text": "lie"
+        },
+        {
+          "id": "d",
+          "text": "will be lying"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Future Continuous.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-08",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "By Friday I ___ the report.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will have finished"
+        },
+        {
+          "id": "b",
+          "text": "will finish"
+        },
+        {
+          "id": "c",
+          "text": "am finishing"
+        },
+        {
+          "id": "d",
+          "text": "finish"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Future Perfect.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-09",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I think she ___ the exam.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is passing"
+        },
+        {
+          "id": "b",
+          "text": "will pass"
+        },
+        {
+          "id": "c",
+          "text": "passes"
+        },
+        {
+          "id": "d",
+          "text": "is going pass"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Görüş: will.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-10",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What time ___ the film start?",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "does"
+        },
+        {
+          "id": "d",
+          "text": "is going to"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Program: Present Simple.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-11",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We ___ to Rome next Friday. We have the tickets.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will fly"
+        },
+        {
+          "id": "b",
+          "text": "fly"
+        },
+        {
+          "id": "c",
+          "text": "are going fly"
+        },
+        {
+          "id": "d",
+          "text": "are flying"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Düzenleme.",
+      "optionExplanations": {
+        "a": "Bu seçenek bağlama uymuyor.",
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-12",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Don't worry. I ___ late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "won't be"
+        },
+        {
+          "id": "b",
+          "text": "am not being"
+        },
+        {
+          "id": "c",
+          "text": "don't be"
+        },
+        {
+          "id": "d",
+          "text": "am not going be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Söz: won't.",
+      "optionExplanations": {
+        "b": "Bu seçenek bağlama uymuyor.",
+        "c": "Bu seçenek bağlama uymuyor.",
+        "d": "Bu seçenek bağlama uymuyor."
+      },
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-13",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Look out! The car ___ crash. (going to)",
+      "answers": [
+        "is going to"
+      ],
+      "explanation": "Kanıt: be going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Şu anki kanıt: going to."
+        }
+      ],
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-14",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm tired. I think I ___ go to bed early. (will)",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Anlık karar / görüş: will.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-15",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ meeting her boss at ten. (is)",
+      "answers": [
+        "is",
+        "'s"
+      ],
+      "explanation": "Düzenleme: Present Continuous.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-16",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The shop ___ at eight every morning. (opens)",
+      "answers": [
+        "opens"
+      ],
+      "explanation": "Tarife: Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is opening",
+          "explanation": "Tarife: Present Simple."
+        }
+      ],
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-17",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When I ___ home, I'll call you. (get)",
+      "answers": [
+        "get"
+      ],
+      "explanation": "Zaman cümleciğinde Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will get",
+          "explanation": "Zaman cümleciğinde will yok."
+        }
+      ],
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-18",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "This time next week I ___ be flying. (will)",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Future Continuous.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-19",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Next year we ___ going to buy a house. (are)",
+      "answers": [
+        "are",
+        "'re"
+      ],
+      "explanation": "Plan: be going to.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-20",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "By 2030 she ___ have graduated. (will)",
+      "answers": [
+        "will",
+        "'ll"
+      ],
+      "explanation": "Future Perfect.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-21",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Telefon çalıyor. Ben açarım.",
+      "answer": [
+        "The",
+        "phone",
+        "is",
+        "ringing,",
+        "I",
+        "will",
+        "answer",
+        "it"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am going to",
+        "shall"
+      ],
+      "explanation": "will: anlık karar",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-22",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın üçte dişçiye gidiyorum.",
+      "answer": [
+        "I",
+        "am",
+        "seeing",
+        "the",
+        "dentist",
+        "at",
+        "three",
+        "tomorrow"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will see",
+        "see"
+      ],
+      "explanation": "Present Continuous",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-23",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Tren dokuzda kalkıyor.",
+      "answer": [
+        "The",
+        "train",
+        "leaves",
+        "at",
+        "nine"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "leaving"
+      ],
+      "explanation": "Present Simple: tarife",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-24",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Cuma'ya kadar raporu bitirmiş olacağım.",
+      "answer": [
+        "I",
+        "will",
+        "have",
+        "finished",
+        "the",
+        "report",
+        "by",
+        "Friday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "am",
+        "finishing"
+      ],
+      "explanation": "Future Perfect",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-25",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The phone is ringing. I'm going to answer it.",
+      "errorSpan": "I'm going to answer",
+      "answers": [
+        "The phone is ringing. I'll answer it.",
+        "The phone is ringing. I will answer it."
+      ],
+      "explanation": "Anlık karar: will.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-26",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Look at the clouds! It will rain.",
+      "errorSpan": "will rain",
+      "answers": [
+        "Look at the clouds! It's going to rain.",
+        "Look at the clouds! It is going to rain."
+      ],
+      "explanation": "Kanıt: be going to.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-27",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The train is leaving at nine tomorrow.",
+      "errorSpan": "is leaving",
+      "answers": [
+        "The train leaves at nine tomorrow."
+      ],
+      "explanation": "Tarife: Present Simple.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-28",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When I will arrive, I'll call you.",
+      "errorSpan": "will arrive",
+      "answers": [
+        "When I arrive, I'll call you."
+      ],
+      "explanation": "Zaman cümleciğinde will yok.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-29",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I promise I'm going to help you.",
+      "errorSpan": "I'm going to help",
+      "answers": [
+        "I promise I'll help you.",
+        "I promise I will help you."
+      ],
+      "explanation": "Söz: will.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-30",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın saat altıda Tom'la buluşuyorum.",
+      "hint": "buluşmak: meet",
+      "answers": [
+        "I'm meeting Tom at six tomorrow.",
+        "I am meeting Tom at six tomorrow.",
+        "Tomorrow I'm meeting Tom at six."
+      ],
+      "targetStructure": "Present Continuous",
+      "explanation": "Düzenleme.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-31",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bence yarın yağmur yağacak.",
+      "hint": "yağmak: rain",
+      "answers": [
+        "I think it will rain tomorrow.",
+        "I think it'll rain tomorrow."
+      ],
+      "targetStructure": "will",
+      "explanation": "Görüş.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-future-forms-32",
+      "lessonId": "b1-future-forms-review",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Önümüzdeki yıl bir ev alacağız. Karar verdik.",
+      "hint": "karar vermek: decide",
+      "answers": [
+        "We are going to buy a house next year. We've decided.",
+        "We're going to buy a house next year. We've decided."
+      ],
+      "targetStructure": "be going to",
+      "explanation": "Plan.",
+      "tags": [
+        "future-forms",
+        "rule"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "time_expression"
+      ]
+    }
+  ]
+}
