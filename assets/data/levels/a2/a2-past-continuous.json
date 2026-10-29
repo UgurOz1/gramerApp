@@ -1,0 +1,2247 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-past-continuous",
+  "levelId": "a2",
+  "title": "Past Continuous",
+  "objectives": [
+    "Geçmişte belirli bir anda süren eylemleri anlatmak",
+    "Was / were + fiil-ing yapısını kurmak (olumlu, olumsuz, soru)",
+    "When ve while ile iki eylemi ilişkilendirmek",
+    "-ing yazım kurallarını uygulamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Past Continuous nedir?",
+      "paragraphs": [
+        "Past Continuous, geçmişte belirli bir anda sürmekte olan bir eylemi anlatır: “Saat sekizde televizyon izliyordum”. Türkçedeki -iyordu / -ıyordu ekine karşılık gelir.",
+        "Past Simple eylemin kendisine odaklanır (I watched TV); Past Continuous ise eylemin o sırada devam ettiğini vurgular. Ayrıca bir eylem sürerken başka bir eylemin araya girdiğini anlatmak için sık kullanılır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Olumlu cümle",
+      "paragraphs": [
+        "Was / were + fiil-ing kullanılır. I / he / she / it için was, you / we / they için were gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Was",
+          "pattern": "I / he / she / it + was + fiil-ing",
+          "exampleIds": [
+            "ex-past-continuous-01",
+            "ex-past-continuous-02",
+            "ex-past-continuous-03",
+            "ex-past-continuous-04"
+          ]
+        },
+        {
+          "label": "Were",
+          "pattern": "you / we / they + were + fiil-ing",
+          "exampleIds": [
+            "ex-past-continuous-05",
+            "ex-past-continuous-06",
+            "ex-past-continuous-07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz ve soru",
+      "paragraphs": [
+        "Olumsuz için wasn’t / weren’t + fiil-ing kullanılır. Soruda was / were özneden önce gelir. Do / did kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + wasn’t / weren’t + fiil-ing",
+          "exampleIds": [
+            "ex-past-continuous-08",
+            "ex-past-continuous-09",
+            "ex-past-continuous-10",
+            "ex-past-continuous-11"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Was / Were + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-past-continuous-12",
+            "ex-past-continuous-13",
+            "ex-past-continuous-14"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I was.   No, they weren’t.",
+          "exampleIds": [
+            "ex-past-continuous-15",
+            "ex-past-continuous-16"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + was / were + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-past-continuous-17",
+            "ex-past-continuous-18",
+            "ex-past-continuous-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spelling",
+      "type": "rule",
+      "title": "-ing yazım kuralları",
+      "paragraphs": [
+        "Present Continuous’taki -ing yazım kuralları geçerlidir:"
+      ],
+      "formulas": [
+        {
+          "label": "-e ile biten",
+          "pattern": "make → making,  write → writing",
+          "exampleIds": [
+            "ex-past-continuous-25",
+            "ex-past-continuous-27"
+          ]
+        },
+        {
+          "label": "Tek ünlü + tek ünsüz",
+          "pattern": "run → running,  sit → sitting",
+          "exampleIds": [
+            "ex-past-continuous-26",
+            "ex-past-continuous-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Geçmişte belirli bir anda",
+          "formula": "At 7 p.m. yesterday, I was cooking.",
+          "exampleIds": [
+            "ex-past-continuous-01",
+            "ex-past-continuous-20",
+            "ex-past-continuous-21"
+          ],
+          "note": "O anda eylem sürüyordu."
+        },
+        {
+          "label": "Uzun eylem + kesen eylem",
+          "formula": "I was reading when she called.",
+          "exampleIds": [
+            "ex-past-continuous-22",
+            "ex-past-continuous-23"
+          ],
+          "note": "Uzun eylem Past Continuous, kısa eylem Past Simple."
+        },
+        {
+          "label": "Aynı anda iki eylem",
+          "formula": "She was sleeping while he was cooking.",
+          "exampleIds": [
+            "ex-past-continuous-24"
+          ],
+          "note": "While ile iki sürekli eylem."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu, olumsuz, soru",
+      "exampleIds": [
+        "ex-past-continuous-01",
+        "ex-past-continuous-02",
+        "ex-past-continuous-03",
+        "ex-past-continuous-04",
+        "ex-past-continuous-05",
+        "ex-past-continuous-06",
+        "ex-past-continuous-07",
+        "ex-past-continuous-08",
+        "ex-past-continuous-09",
+        "ex-past-continuous-10",
+        "ex-past-continuous-11",
+        "ex-past-continuous-12",
+        "ex-past-continuous-13",
+        "ex-past-continuous-14",
+        "ex-past-continuous-15",
+        "ex-past-continuous-16",
+        "ex-past-continuous-17",
+        "ex-past-continuous-18",
+        "ex-past-continuous-19"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: kullanım ve yazım",
+      "exampleIds": [
+        "ex-past-continuous-20",
+        "ex-past-continuous-21",
+        "ex-past-continuous-22",
+        "ex-past-continuous-23",
+        "ex-past-continuous-24",
+        "ex-past-continuous-25",
+        "ex-past-continuous-26",
+        "ex-past-continuous-27",
+        "ex-past-continuous-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I was watch TV.",
+          "right": "I was watching TV.",
+          "explanation": "Was’tan sonra -ing gerekir."
+        },
+        {
+          "wrong": "She were cooking.",
+          "right": "She was cooking.",
+          "explanation": "She ile was."
+        },
+        {
+          "wrong": "They was playing.",
+          "right": "They were playing.",
+          "explanation": "They ile were."
+        },
+        {
+          "wrong": "Did you sleeping?",
+          "right": "Were you sleeping?",
+          "explanation": "Past Continuous’ta did kullanılmaz."
+        },
+        {
+          "wrong": "I didn’t sleeping.",
+          "right": "I wasn’t sleeping.",
+          "explanation": "Olumsuz: wasn’t / weren’t + -ing."
+        },
+        {
+          "wrong": "He was runing.",
+          "right": "He was running.",
+          "explanation": "Ünsüz ikizlenir."
+        },
+        {
+          "wrong": "She was makeing a cake.",
+          "right": "She was making a cake.",
+          "explanation": "-e düşer."
+        },
+        {
+          "wrong": "I was knowing the answer.",
+          "right": "I knew the answer.",
+          "explanation": "Know gibi durum fiilleri sürekli zamanla kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Past Simple ile fark",
+          "body": "Past Simple biten bir eylemi, Past Continuous o sırada süren eylemi anlatır.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "Present Continuous",
+          "body": "Yapı aynı, yardımcı fiil zamanı farklı: am / is / are → was / were.",
+          "lessonId": "a1-present-continuous"
+        },
+        {
+          "topic": "Past Simple vs Past Continuous",
+          "body": "Kesintiye uğrayan eylemler karşılaştırma dersinde ayrıntılı işlenir.",
+          "lessonId": "a2-past-simple-vs-continuous"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: was / were + fiil-ing.",
+        "Do / did bu zamanda kullanılmaz.",
+        "Know, like, want gibi durum fiilleri genelde -ing almaz.",
+        "While ile Past Continuous, when ile genelde Past Simple (kesen eylem) kullanılır.",
+        "-ing yazımı: make → making, run → running."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-past-continuous-01",
+        "q-past-continuous-02",
+        "q-past-continuous-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-past-continuous-01",
+      "en": "I was watching TV at 8 o'clock.",
+      "tr": "Saat sekizde televizyon izliyordum.",
+      "highlight": "was watching",
+      "note": "was + fiil-ing"
+    },
+    {
+      "id": "ex-past-continuous-02",
+      "en": "She was cooking dinner.",
+      "tr": "Akşam yemeği pişiriyordu.",
+      "highlight": "was cooking"
+    },
+    {
+      "id": "ex-past-continuous-03",
+      "en": "He was sleeping at 10 p.m.",
+      "tr": "Gece onda uyuyordu.",
+      "highlight": "was sleeping"
+    },
+    {
+      "id": "ex-past-continuous-04",
+      "en": "It was raining all day.",
+      "tr": "Bütün gün yağmur yağıyordu.",
+      "highlight": "was raining"
+    },
+    {
+      "id": "ex-past-continuous-05",
+      "en": "We were playing football.",
+      "tr": "Futbol oynuyorduk.",
+      "highlight": "were playing",
+      "note": "we / you / they + were"
+    },
+    {
+      "id": "ex-past-continuous-06",
+      "en": "They were studying in the library.",
+      "tr": "Kütüphanede ders çalışıyorlardı.",
+      "highlight": "were studying"
+    },
+    {
+      "id": "ex-past-continuous-07",
+      "en": "You were talking loudly.",
+      "tr": "Yüksek sesle konuşuyordun.",
+      "highlight": "were talking"
+    },
+    {
+      "id": "ex-past-continuous-08",
+      "en": "I wasn't sleeping.",
+      "tr": "Uyumuyordum.",
+      "highlight": "wasn't sleeping",
+      "note": "Olumsuz: wasn't / weren't + -ing"
+    },
+    {
+      "id": "ex-past-continuous-09",
+      "en": "He wasn't listening.",
+      "tr": "Dinlemiyordu.",
+      "highlight": "wasn't listening"
+    },
+    {
+      "id": "ex-past-continuous-10",
+      "en": "We weren't working.",
+      "tr": "Çalışmıyorduk.",
+      "highlight": "weren't working"
+    },
+    {
+      "id": "ex-past-continuous-11",
+      "en": "They weren't watching the film.",
+      "tr": "Filmi izlemiyorlardı.",
+      "highlight": "weren't watching"
+    },
+    {
+      "id": "ex-past-continuous-12",
+      "en": "Was he working at 9 o'clock?",
+      "tr": "Saat dokuzda çalışıyor muydu?",
+      "highlight": "Was he working",
+      "note": "Soru: Was / Were + özne + -ing"
+    },
+    {
+      "id": "ex-past-continuous-13",
+      "en": "Were you sleeping?",
+      "tr": "Uyuyor muydun?",
+      "highlight": "Were you sleeping"
+    },
+    {
+      "id": "ex-past-continuous-14",
+      "en": "Was it raining?",
+      "tr": "Yağmur yağıyor muydu?",
+      "highlight": "Was it raining"
+    },
+    {
+      "id": "ex-past-continuous-15",
+      "en": "Yes, I was.",
+      "tr": "Evet, öyleydi.",
+      "highlight": "Yes, I was",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-past-continuous-16",
+      "en": "No, they weren't.",
+      "tr": "Hayır, değillerdi.",
+      "highlight": "No, they weren't"
+    },
+    {
+      "id": "ex-past-continuous-17",
+      "en": "What were you doing?",
+      "tr": "Ne yapıyordun?",
+      "highlight": "What were you doing"
+    },
+    {
+      "id": "ex-past-continuous-18",
+      "en": "Where was she going?",
+      "tr": "Nereye gidiyordu?",
+      "highlight": "Where was she going"
+    },
+    {
+      "id": "ex-past-continuous-19",
+      "en": "Why were they running?",
+      "tr": "Neden koşuyorlardı?",
+      "highlight": "Why were they running"
+    },
+    {
+      "id": "ex-past-continuous-20",
+      "en": "At 7 p.m. yesterday, I was cooking.",
+      "tr": "Dün akşam yedide yemek yapıyordum.",
+      "highlight": "was cooking",
+      "note": "Belirli an: at 7 p.m."
+    },
+    {
+      "id": "ex-past-continuous-21",
+      "en": "This time last year, we were living in Izmir.",
+      "tr": "Geçen yıl bu zamanlarda İzmir'de yaşıyorduk.",
+      "highlight": "were living"
+    },
+    {
+      "id": "ex-past-continuous-22",
+      "en": "I was reading when she called.",
+      "tr": "O aradığında kitap okuyordum.",
+      "highlight": "was reading",
+      "note": "when ile kesilme"
+    },
+    {
+      "id": "ex-past-continuous-23",
+      "en": "While I was walking, it started to rain.",
+      "tr": "Yürürken yağmur başladı.",
+      "highlight": "was walking",
+      "note": "while + Past Continuous"
+    },
+    {
+      "id": "ex-past-continuous-24",
+      "en": "She was sleeping while he was cooking.",
+      "tr": "O yemek yaparken o uyuyordu.",
+      "highlight": "was sleeping",
+      "note": "Aynı anda iki eylem"
+    },
+    {
+      "id": "ex-past-continuous-25",
+      "en": "He was making a cake.",
+      "tr": "Kek yapıyordu.",
+      "highlight": "was making"
+    },
+    {
+      "id": "ex-past-continuous-26",
+      "en": "They were running in the park.",
+      "tr": "Parkta koşuyorlardı.",
+      "highlight": "were running",
+      "note": "run → running"
+    },
+    {
+      "id": "ex-past-continuous-27",
+      "en": "I was writing an email.",
+      "tr": "E-posta yazıyordum.",
+      "highlight": "was writing",
+      "note": "write → writing"
+    },
+    {
+      "id": "ex-past-continuous-28",
+      "en": "We were sitting in the garden.",
+      "tr": "Bahçede oturuyorduk.",
+      "highlight": "were sitting",
+      "note": "sit → sitting"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-past-continuous-01",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ TV at 8 o'clock.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was watching"
+        },
+        {
+          "id": "b",
+          "text": "watched"
+        },
+        {
+          "id": "c",
+          "text": "am watching"
+        },
+        {
+          "id": "d",
+          "text": "were watching"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Geçmişte belirli anda sürmekte olan eylem: was + -ing.",
+      "optionExplanations": {
+        "b": "Past Simple biten eylemdir.",
+        "c": "Present Continuous şimdiki zamandır.",
+        "d": "I ile was."
+      },
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-02",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ cooking dinner. (yapıyordu)",
+      "answers": [
+        "was"
+      ],
+      "explanation": "She ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "She tekildir."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-03",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Futbol oynuyorduk.",
+      "answer": [
+        "We",
+        "were",
+        "playing",
+        "football"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "was",
+        "play"
+      ],
+      "explanation": "were + -ing",
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-continuous-04",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was watch TV.",
+      "errorSpan": "watch",
+      "answers": [
+        "I was watching TV."
+      ],
+      "explanation": "Was'tan sonra -ing gerekir.",
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-05",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Saat sekizde televizyon izliyordum.",
+      "hint": "izlemek: watch",
+      "answers": [
+        "I was watching TV at 8 o'clock.",
+        "I was watching TV at eight."
+      ],
+      "targetStructure": "was + -ing",
+      "explanation": "Belirli an.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I watched TV at 8 o'clock.",
+          "explanation": "Süren eylem: was watching."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-continuous-06",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ in the library.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were studying"
+        },
+        {
+          "id": "b",
+          "text": "was studying"
+        },
+        {
+          "id": "c",
+          "text": "studied"
+        },
+        {
+          "id": "d",
+          "text": "are studying"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They ile were + -ing.",
+      "optionExplanations": {
+        "b": "They ile was kullanılmaz.",
+        "c": "Past Simple.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-07",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ at 10 p.m.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was sleeping"
+        },
+        {
+          "id": "b",
+          "text": "were sleeping"
+        },
+        {
+          "id": "c",
+          "text": "slept"
+        },
+        {
+          "id": "d",
+          "text": "sleeps"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He ile was + -ing.",
+      "optionExplanations": {
+        "b": "He ile were kullanılmaz.",
+        "c": "Past Simple.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-08",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "It ___ all day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was raining"
+        },
+        {
+          "id": "b",
+          "text": "were raining"
+        },
+        {
+          "id": "c",
+          "text": "rained"
+        },
+        {
+          "id": "d",
+          "text": "rains"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It ile was + -ing.",
+      "optionExplanations": {
+        "b": "It ile were kullanılmaz.",
+        "c": "Past Simple.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-09",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ playing football.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "We ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "We ile were."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-10",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "You ___ talking loudly.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "You ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "You ile were."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-11",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He was ___ at 10 p.m. (sleep)",
+      "answers": [
+        "sleeping"
+      ],
+      "explanation": "Was + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "sleep",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-12",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ sleeping. (uyumuyordum)",
+      "options": [
+        {
+          "id": "a",
+          "text": "wasn't"
+        },
+        {
+          "id": "b",
+          "text": "weren't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "not"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile wasn't.",
+      "optionExplanations": {
+        "b": "I ile weren't kullanılmaz.",
+        "c": "Didn't kullanılmaz.",
+        "d": "Not tek başına olmaz."
+      },
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-13",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We ___ working. (çalışmıyorduk)",
+      "options": [
+        {
+          "id": "a",
+          "text": "weren't"
+        },
+        {
+          "id": "b",
+          "text": "wasn't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "aren't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We ile weren't.",
+      "optionExplanations": {
+        "b": "We ile wasn't kullanılmaz.",
+        "c": "Didn't kullanılmaz.",
+        "d": "Aren't şimdiki zamandır."
+      },
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-14",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were you sleeping?"
+        },
+        {
+          "id": "b",
+          "text": "Did you sleeping?"
+        },
+        {
+          "id": "c",
+          "text": "Was you sleeping?"
+        },
+        {
+          "id": "d",
+          "text": "Were you sleep?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Were + özne + -ing.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "You ile were.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-continuous-15",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Was it raining?"
+        },
+        {
+          "id": "b",
+          "text": "Did it raining?"
+        },
+        {
+          "id": "c",
+          "text": "Were it raining?"
+        },
+        {
+          "id": "d",
+          "text": "Was it rain?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Was + it + -ing.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "It ile was.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-16",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ listening. (dinlemiyordu)",
+      "answers": [
+        "wasn't",
+        "was not"
+      ],
+      "explanation": "He ile wasn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "weren't",
+          "explanation": "He ile wasn't."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-17",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ watching the film. (izlemiyorlardı)",
+      "answers": [
+        "weren't",
+        "were not"
+      ],
+      "explanation": "They ile weren't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wasn't",
+          "explanation": "They ile weren't."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-18",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he working at 9 o'clock?",
+      "answers": [
+        "Was"
+      ],
+      "explanation": "He ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Were",
+          "explanation": "He ile was."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-19",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you doing?",
+      "answers": [
+        "were"
+      ],
+      "explanation": "You ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "You ile were."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-20",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ she going?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "She ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "She ile was."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-21",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Why ___ they running?",
+      "answers": [
+        "were"
+      ],
+      "explanation": "They ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "They ile were."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-22",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He was ___ a cake. (make)",
+      "answers": [
+        "making"
+      ],
+      "explanation": "-e düşer: making.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "makeing",
+          "explanation": "-e düşer."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-23",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They were ___ in the park. (run)",
+      "answers": [
+        "running"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "runing",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-24",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We were ___ in the garden. (sit)",
+      "answers": [
+        "sitting"
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "siting",
+          "explanation": "Ünsüz ikizlenir."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-25",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I was ___ an email. (write)",
+      "answers": [
+        "writing"
+      ],
+      "explanation": "-e düşer: writing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "writeing",
+          "explanation": "-e düşer."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-26",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She were cooking.",
+      "errorSpan": "were",
+      "answers": [
+        "She was cooking."
+      ],
+      "explanation": "She ile was.",
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-27",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They was playing.",
+      "errorSpan": "was",
+      "answers": [
+        "They were playing."
+      ],
+      "explanation": "They ile were.",
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-28",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you sleeping?",
+      "errorSpan": "Did you",
+      "answers": [
+        "Were you sleeping?"
+      ],
+      "explanation": "Did yok.",
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-continuous-29",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I didn't sleeping.",
+      "errorSpan": "didn't",
+      "answers": [
+        "I wasn't sleeping.",
+        "I was not sleeping."
+      ],
+      "explanation": "Wasn't + -ing.",
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-30",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He was runing.",
+      "errorSpan": "runing",
+      "answers": [
+        "He was running."
+      ],
+      "explanation": "Ünsüz ikizlenir.",
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-31",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dinlemiyordu.",
+      "answer": [
+        "He",
+        "wasn't",
+        "listening"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "weren't",
+        "listen"
+      ],
+      "explanation": "wasn't + -ing",
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-32",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne yapıyordun?",
+      "answer": [
+        "What",
+        "were",
+        "you",
+        "doing"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "was",
+        "did"
+      ],
+      "explanation": "Wh + were + özne + -ing",
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-33",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Uyuyor muydun?",
+      "answer": [
+        "Were",
+        "you",
+        "sleeping"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Did",
+        "Was"
+      ],
+      "explanation": "Were + özne + -ing",
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-34",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kütüphanede ders çalışıyorlardı.",
+      "hint": "ders çalışmak: study",
+      "answers": [
+        "They were studying in the library."
+      ],
+      "targetStructure": "were + -ing",
+      "explanation": "Süren eylem.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They was studying in the library.",
+          "explanation": "They ile were."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-continuous-35",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Uyumuyordum.",
+      "hint": "uyumak: sleep",
+      "answers": [
+        "I wasn't sleeping.",
+        "I was not sleeping."
+      ],
+      "targetStructure": "wasn't + -ing",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I didn't sleeping.",
+          "explanation": "Didn't kullanılmaz."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-continuous-36",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne yapıyordun?",
+      "hint": "yapmak: do",
+      "answers": [
+        "What were you doing?"
+      ],
+      "targetStructure": "What were you doing",
+      "explanation": "Wh soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What did you doing?",
+          "explanation": "Did kullanılmaz."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "negative"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-37",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I was reading ___ she called.",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "while"
+        },
+        {
+          "id": "c",
+          "text": "because"
+        },
+        {
+          "id": "d",
+          "text": "so"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kesen eylem: when.",
+      "optionExplanations": {
+        "b": "While Past Continuous ile gelir.",
+        "c": "Neden değil.",
+        "d": "Sonuç değil."
+      },
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-continuous-38",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "___ I was walking, it started to rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "While"
+        },
+        {
+          "id": "b",
+          "text": "Because"
+        },
+        {
+          "id": "c",
+          "text": "So"
+        },
+        {
+          "id": "d",
+          "text": "But"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Süren eylem: while.",
+      "optionExplanations": {
+        "b": "Neden bildirir; burada anlam uymaz.",
+        "c": "Sonuç bildirir; burada anlam uymaz.",
+        "d": "Zıtlık bildirir; burada anlam uymaz."
+      },
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-continuous-39",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I was knowing the answer."
+        },
+        {
+          "id": "b",
+          "text": "I knew the answer."
+        },
+        {
+          "id": "c",
+          "text": "I was know the answer."
+        },
+        {
+          "id": "d",
+          "text": "I knowing the answer."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Know durum fiilidir; Past Simple.",
+      "optionExplanations": {
+        "a": "Durum fiili -ing almaz.",
+        "c": "-ing gerekir.",
+        "d": "Was eksik."
+      },
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-continuous-40",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She was sleeping ___ he was cooking.",
+      "answers": [
+        "while"
+      ],
+      "explanation": "Aynı anda iki eylem: while.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "when",
+          "explanation": "İki sürekli eylem için while."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-continuous-41",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "At 7 p.m. yesterday, I ___ cooking.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Belirli an: was + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "I ile was."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-continuous-42",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yürürken yağmur başladı.",
+      "hint": "yürümek: walk, başlamak: start",
+      "answers": [
+        "While I was walking, it started to rain.",
+        "While I was walking it started to rain."
+      ],
+      "targetStructure": "while + was walking",
+      "explanation": "Süren + kesen.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "While I walked, it started to rain.",
+          "explanation": "Süren eylem: was walking."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-continuous-43",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O aradığında kitap okuyordum.",
+      "hint": "aramak: call",
+      "answers": [
+        "I was reading when she called."
+      ],
+      "targetStructure": "was reading when …",
+      "explanation": "Kesilme.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I read when she called.",
+          "explanation": "Süren eylem: was reading."
+        }
+      ],
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-continuous-44",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She was makeing a cake.",
+      "errorSpan": "makeing",
+      "answers": [
+        "She was making a cake."
+      ],
+      "explanation": "-e düşer.",
+      "tags": [
+        "past-continuous",
+        "spelling"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-past-continuous-45",
+      "lessonId": "a2-past-continuous",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I was knowing the answer.",
+      "errorSpan": "was knowing",
+      "answers": [
+        "I knew the answer."
+      ],
+      "explanation": "Durum fiili.",
+      "tags": [
+        "past-continuous",
+        "use"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-past-continuous",
+    "title": "Past Continuous: Konu sonu sınavı",
+    "description": "Past Continuous yapısı, kullanımı ve yazım kuralları.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-past-continuous-exam-01",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ dinner at 7 p.m.",
+        "options": [
+          {
+            "id": "a",
+            "text": "was cooking"
+          },
+          {
+            "id": "b",
+            "text": "were cooking"
+          },
+          {
+            "id": "c",
+            "text": "cooked"
+          },
+          {
+            "id": "d",
+            "text": "cooks"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "She ile was + -ing.",
+        "optionExplanations": {
+          "b": "She ile were.",
+          "c": "Past Simple.",
+          "d": "Şimdiki zaman."
+        },
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-02",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They ___ playing in the garden.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "They ile were.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "was",
+            "explanation": "They ile were."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-03",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kek yapıyordu.",
+        "answer": [
+          "He",
+          "was",
+          "making",
+          "a",
+          "cake"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "were",
+          "make"
+        ],
+        "explanation": "was + -ing",
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-04",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We was playing football.",
+        "errorSpan": "was",
+        "answers": [
+          "We were playing football."
+        ],
+        "explanation": "We ile were.",
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-05",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bütün gün yağmur yağıyordu.",
+        "hint": "yağmur yağmak: rain",
+        "answers": [
+          "It was raining all day."
+        ],
+        "targetStructure": "was raining",
+        "explanation": "Süren eylem.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "It were raining all day.",
+            "explanation": "It ile was."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-06",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ sleeping. (uyumuyordum)",
+        "options": [
+          {
+            "id": "a",
+            "text": "wasn't"
+          },
+          {
+            "id": "b",
+            "text": "weren't"
+          },
+          {
+            "id": "c",
+            "text": "didn't"
+          },
+          {
+            "id": "d",
+            "text": "don't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "I ile wasn't.",
+        "optionExplanations": {
+          "b": "I ile weren't.",
+          "c": "Didn't kullanılmaz.",
+          "d": "Don't şimdiki zamandır."
+        },
+        "tags": [
+          "past-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-07",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you listening? (dinliyor muydun)",
+        "answers": [
+          "Were"
+        ],
+        "explanation": "You ile were.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Was",
+            "explanation": "You ile were."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-08",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Neden koşuyorlardı?",
+        "answer": [
+          "Why",
+          "were",
+          "they",
+          "running"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "was",
+          "did"
+        ],
+        "explanation": "Wh + were + özne + -ing",
+        "tags": [
+          "past-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-09",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Did he working?",
+        "errorSpan": "Did he working",
+        "answers": [
+          "Was he working?"
+        ],
+        "explanation": "Did yok.",
+        "tags": [
+          "past-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-10",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Filmi izlemiyorlardı.",
+        "hint": "film: film",
+        "answers": [
+          "They weren't watching the film.",
+          "They were not watching the film."
+        ],
+        "targetStructure": "weren't + -ing",
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "They didn't watching the film.",
+            "explanation": "Didn't kullanılmaz."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-11",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "I was reading ___ she called.",
+        "options": [
+          {
+            "id": "a",
+            "text": "when"
+          },
+          {
+            "id": "b",
+            "text": "while"
+          },
+          {
+            "id": "c",
+            "text": "so"
+          },
+          {
+            "id": "d",
+            "text": "because"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Kesen eylem: when.",
+        "optionExplanations": {
+          "b": "Süren eylem için while.",
+          "c": "Sonuç değil.",
+          "d": "Neden değil."
+        },
+        "tags": [
+          "past-continuous",
+          "use"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-12",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "The boys were ___ fast. (swim)",
+        "answers": [
+          "swimming"
+        ],
+        "explanation": "Ünsüz ikizlenir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "swiming",
+            "explanation": "Ünsüz ikizlenir."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-13",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I was writeing an email.",
+        "errorSpan": "writeing",
+        "answers": [
+          "I was writing an email."
+        ],
+        "explanation": "-e düşer.",
+        "tags": [
+          "past-continuous",
+          "spelling"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-14",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I knew the answer."
+          },
+          {
+            "id": "b",
+            "text": "I was knowing the answer."
+          },
+          {
+            "id": "c",
+            "text": "I was know the answer."
+          },
+          {
+            "id": "d",
+            "text": "I knowing the answer."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Durum fiili.",
+        "optionExplanations": {
+          "b": "Durum fiili -ing almaz.",
+          "c": "-ing gerekir.",
+          "d": "Was eksik."
+        },
+        "tags": [
+          "past-continuous",
+          "use"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-15",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "At 8 p.m. yesterday, we ___ watching TV.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "We ile were.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "was",
+            "explanation": "We ile were."
+          }
+        ],
+        "tags": [
+          "past-continuous",
+          "use"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-continuous-exam-16",
+        "lessonId": "a2-past-continuous",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bahçede oturuyorduk.",
+        "answer": [
+          "We",
+          "were",
+          "sitting",
+          "in",
+          "the",
+          "garden"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "was",
+          "sit"
+        ],
+        "explanation": "were + -ing",
+        "tags": [
+          "past-continuous",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      }
+    ]
+  }
+}

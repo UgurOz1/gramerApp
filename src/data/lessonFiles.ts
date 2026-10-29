@@ -14,6 +14,7 @@ import aObjP from "@/assets/data/levels/a1/a1-object-pronouns.json";
 import aConj from "@/assets/data/levels/a1/a1-conjunctions.json";
 import aComp from "@/assets/data/levels/a1/a1-comparatives-basic.json";
 import aPastBe from "@/assets/data/levels/a2/a2-past-be.json";
+import aPastCont from "@/assets/data/levels/a2/a2-past-continuous.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -45,6 +46,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a1-conjunctions": aConj,
   "a1-comparatives-basic": aComp,
   "a2-past-be": aPastBe,
+  "a2-past-continuous": aPastCont,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,
