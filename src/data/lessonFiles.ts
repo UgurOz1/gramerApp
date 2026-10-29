@@ -2,6 +2,8 @@ import aArticles from "@/assets/data/levels/a1/a1-articles.json";
 import aPlurals from "@/assets/data/levels/a1/a1-plurals.json";
 import aDemonstratives from "@/assets/data/levels/a1/a1-demonstratives.json";
 import aPossessives from "@/assets/data/levels/a1/a1-possessives.json";
+import aThereIs from "@/assets/data/levels/a1/a1-there-is-are.json";
+import aSomeAny from "@/assets/data/levels/a1/a1-countable-some-any.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -21,6 +23,8 @@ export const lessonFiles: Record<string, unknown> = {
   "a1-plurals": aPlurals,
   "a1-demonstratives": aDemonstratives,
   "a1-possessives": aPossessives,
+  "a1-there-is-are": aThereIs,
+  "a1-countable-some-any": aSomeAny,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

@@ -1,0 +1,2616 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-there-is-are",
+  "levelId": "a1",
+  "title": "There Is / There Are",
+  "objectives": [
+    "Bir yerde bir şeyin bulunduğunu there is / there are ile söylemek",
+    "Tekil, çoğul ve sayılamayan isimlere göre is ya da are seçmek",
+    "Olumsuz cümle ve soru kurmak; do / does kullanmamak",
+    "Kısa cevap vermek (Yes, there is.)",
+    "How many ve What ile soru sormak",
+    "Türkçedeki “var / yok”u there is ile have got arasında ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "There is ve there are",
+      "paragraphs": [
+        "There is / there are, bir yerde bir şeyin bulunduğunu söylemek için kullanılır: “Masanın üstünde bir kitap var”, “Odada iki yatak var”. Türkçede bunu “var / yok” ile söyleriz.",
+        "Dikkat: Türkçedeki “var” iki farklı İngilizce yapıya karşılık gelir. Birisinin sahip olduğu bir şeyi söylüyorsan (Arabası var) have got kullanırsın. Bir yerde bir şeyin bulunduğunu söylüyorsan (Odada bir masa var) there is / there are kullanırsın.",
+        "Yapı olarak to be fiiline dayanır: tekil ve sayılamayan isimlerle there is, çoğul isimlerle there are gelir. Olumsuz ve soru yaparken do / does kullanılmaz."
+      ]
+    },
+    {
+      "id": "rule",
+      "type": "rule",
+      "title": "Temel kural: there is, there are",
+      "paragraphs": [
+        "Fiilin biçimi, ardından gelen isme göre seçilir:"
+      ],
+      "formulas": [
+        {
+          "label": "Tekil isim",
+          "pattern": "There is + a / an + tekil isim",
+          "exampleIds": [
+            "ex-there-is-01",
+            "ex-there-is-02",
+            "ex-there-is-03"
+          ]
+        },
+        {
+          "label": "Sayılamayan isim",
+          "pattern": "There is + some + sayılamayan isim",
+          "exampleIds": [
+            "ex-there-is-06",
+            "ex-there-is-07"
+          ]
+        },
+        {
+          "label": "Çoğul isim",
+          "pattern": "There are + sayı / many / some + çoğul isim",
+          "exampleIds": [
+            "ex-there-is-04",
+            "ex-there-is-05",
+            "ex-there-is-09",
+            "ex-there-is-10"
+          ]
+        },
+        {
+          "label": "Kısa biçim",
+          "pattern": "there is → there’s   (there are kısaltılmaz)",
+          "exampleIds": [
+            "ex-there-is-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Olumlu, olumsuz ve soru cümleleri",
+      "paragraphs": [
+        "Olumsuz için is / are’ın yanına not eklenir; soruda is / are there’den önce gelir. Olumsuz ve soru cümlelerinde, çoğul ve sayılamayan isimlerle çoğunlukla some yerine any kullanılır (some ve any ayrı bir derstir)."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu",
+          "formula": "There is / There are + isim + yer",
+          "exampleIds": [
+            "ex-there-is-01",
+            "ex-there-is-04",
+            "ex-there-is-06",
+            "ex-there-is-11"
+          ],
+          "note": "Yer bilgisi cümlenin sonunda ya da başında olabilir: There is a book on the table. / On the table there is a book."
+        },
+        {
+          "label": "Olumsuz",
+          "formula": "There isn’t / There aren’t + (any) + isim",
+          "exampleIds": [
+            "ex-there-is-12",
+            "ex-there-is-13",
+            "ex-there-is-14",
+            "ex-there-is-15"
+          ],
+          "note": "is not → isn’t, are not → aren’t. “There isn’t no …” gibi çift olumsuz kurulmaz."
+        },
+        {
+          "label": "Soru",
+          "formula": "Is / Are + there + (any) + isim …?",
+          "exampleIds": [
+            "ex-there-is-16",
+            "ex-there-is-17",
+            "ex-there-is-18",
+            "ex-there-is-19"
+          ],
+          "note": "Soruda do / does kullanılmaz: Do there is ✗ → Is there ✓."
+        },
+        {
+          "label": "Kısa cevap",
+          "formula": "Yes, there is / are.  |  No, there isn’t / aren’t.",
+          "exampleIds": [
+            "ex-there-is-20",
+            "ex-there-is-21",
+            "ex-there-is-22",
+            "ex-there-is-23"
+          ],
+          "note": "Kısa cevapta there tekrarlanır: Yes, it is ✗ → Yes, there is ✓."
+        },
+        {
+          "label": "Kaç tane? / Ne var?",
+          "formula": "How many + çoğul isim + are there …?  |  What is there …?",
+          "exampleIds": [
+            "ex-there-is-24",
+            "ex-there-is-25",
+            "ex-there-is-26"
+          ],
+          "note": "Cevap: There are twenty. / There is a book."
+        }
+      ]
+    },
+    {
+      "id": "examples-positive",
+      "type": "examples",
+      "title": "Örnekler: olumlu cümleler",
+      "paragraphs": [
+        "Her cümlede isme bak: tekil mi, çoğul mu, sayılamaz mı?"
+      ],
+      "exampleIds": [
+        "ex-there-is-01",
+        "ex-there-is-02",
+        "ex-there-is-03",
+        "ex-there-is-04",
+        "ex-there-is-05",
+        "ex-there-is-06",
+        "ex-there-is-07",
+        "ex-there-is-08",
+        "ex-there-is-09",
+        "ex-there-is-10",
+        "ex-there-is-11",
+        "ex-there-is-30"
+      ]
+    },
+    {
+      "id": "examples-neg-q",
+      "type": "examples",
+      "title": "Örnekler: olumsuz cümleler, sorular ve kısa cevaplar",
+      "exampleIds": [
+        "ex-there-is-12",
+        "ex-there-is-13",
+        "ex-there-is-14",
+        "ex-there-is-15",
+        "ex-there-is-16",
+        "ex-there-is-17",
+        "ex-there-is-18",
+        "ex-there-is-19",
+        "ex-there-is-20",
+        "ex-there-is-21",
+        "ex-there-is-22",
+        "ex-there-is-23",
+        "ex-there-is-24",
+        "ex-there-is-25",
+        "ex-there-is-26"
+      ]
+    },
+    {
+      "id": "usage",
+      "type": "usage",
+      "title": "Ne zaman there is / are kullanılır?",
+      "paragraphs": [
+        "Şu durumlarda kullanırsın:"
+      ],
+      "items": [
+        {
+          "heading": "Bir yerde bir şeyin bulunduğunu söylerken",
+          "body": "Odada, masada, şehirde bir şey olduğunu bildirirsin.",
+          "exampleIds": [
+            "ex-there-is-01",
+            "ex-there-is-05",
+            "ex-there-is-09"
+          ]
+        },
+        {
+          "heading": "Bir şeyden ilk kez söz ederken",
+          "body": "Yeni bir şeyi tanıtırken a / an ya da sayı ile there is / are kullanılır. Ondan sonra söz ederken the ve normal cümle kurulur.",
+          "exampleIds": [
+            "ex-there-is-27"
+          ]
+        },
+        {
+          "heading": "Yeri, sayıyı ya da var olup olmadığını sorarken",
+          "body": "Is there …? Are there …? How many …?",
+          "exampleIds": [
+            "ex-there-is-16",
+            "ex-there-is-18",
+            "ex-there-is-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "specific",
+      "type": "rule",
+      "title": "Belli bir şey için there is kullanılmaz",
+      "paragraphs": [
+        "Hangi şeyden söz ettiğin zaten belliyse (the book, my phone, this bag) there is kullanılmaz; normal cümle kurulur. Türkçedeki sıra bunu ayırt etmene yardım eder:"
+      ],
+      "formulas": [
+        {
+          "label": "Yeni, belirsiz şey: “… var”",
+          "pattern": "Masanın üstünde bir kitap var.  →  There is a book on the table.",
+          "exampleIds": [
+            "ex-there-is-01"
+          ]
+        },
+        {
+          "label": "Belli şey: “… … da / de”",
+          "pattern": "Kitap masanın üstünde.  →  The book is on the table.",
+          "exampleIds": [
+            "ex-there-is-28"
+          ]
+        },
+        {
+          "label": "Sahiplik: “… var” (kimin?)",
+          "pattern": "Onun arabası var.  →  She has got a car.",
+          "exampleIds": [
+            "ex-there-is-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "There have a book on the table.",
+          "right": "There is a book on the table.",
+          "explanation": "Türkçedeki “var” bu cümlede have değil there is ile söylenir."
+        },
+        {
+          "wrong": "There is two books on the table.",
+          "right": "There are two books on the table.",
+          "explanation": "Çoğul isimle there are kullanılır."
+        },
+        {
+          "wrong": "There are a cat in the garden.",
+          "right": "There is a cat in the garden.",
+          "explanation": "Tekil isimle there is kullanılır."
+        },
+        {
+          "wrong": "Is there two beds in the room?",
+          "right": "Are there two beds in the room?",
+          "explanation": "Çoğul isimle soruda are kullanılır."
+        },
+        {
+          "wrong": "There isn’t a any chair.",
+          "right": "There isn’t a chair.  /  There aren’t any chairs.",
+          "explanation": "A ve any aynı isimde kullanılmaz."
+        },
+        {
+          "wrong": "There is the book on the table.",
+          "right": "The book is on the table.  /  There is a book on the table.",
+          "explanation": "Belli bir şey için there is kullanılmaz."
+        },
+        {
+          "wrong": "Is there a bank near here? Yes, it is.",
+          "right": "Is there a bank near here? Yes, there is.",
+          "explanation": "Kısa cevapta there tekrarlanır; it kullanılmaz."
+        },
+        {
+          "wrong": "There aren’t a bank near here.",
+          "right": "There isn’t a bank near here.",
+          "explanation": "Tekil isimle olumsuzda isn’t kullanılır."
+        },
+        {
+          "wrong": "It is a book on the table.",
+          "right": "There is a book on the table.",
+          "explanation": "Bir yerde bir şeyin bulunduğunu söylerken özne there’dir; it kullanılmaz."
+        },
+        {
+          "wrong": "Do there are shops here?",
+          "right": "Are there shops here?",
+          "explanation": "There is / are yapısında do / does kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "There is / are ve have got",
+          "body": "Bir yerde bir şey var demek için there is / are, birinin sahip olduğunu söylemek için have got kullanılır.",
+          "lessonId": "a1-have-got"
+        },
+        {
+          "topic": "There is / are ve To be",
+          "body": "There is / are, to be fiilinin kalıbıdır; tekil için is, çoğul için are gelir.",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "There is / are ve some / any",
+          "body": "Olumlu cümlede some, olumsuz ve soru cümlelerinde any kullanılır.",
+          "lessonId": "a1-countable-some-any"
+        },
+        {
+          "topic": "There is / are ve yer edatları",
+          "body": "In, on, under, next to gibi edatlarla yeri söylersin.",
+          "lessonId": "a1-prepositions-place"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Fiil, ardından gelen isme göre seçilir: There is a book, there are two books.",
+        "Sayılamayan isimlerle there is kullanılır: There is some water.",
+        "Soruda ve olumsuzda do / does kullanılmaz: Is there …? There isn’t …",
+        "Kısa cevapta there tekrarlanır: Yes, there is.",
+        "Belli bir şeyi anlatırken there is değil, normal cümle kullan: The book is on the table."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-there-is-01",
+        "q-there-is-02",
+        "q-there-is-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-there-is-01",
+      "en": "There is a book on the table.",
+      "tr": "Masanın üstünde bir kitap var.",
+      "highlight": "There is",
+      "note": "Tekil: there is"
+    },
+    {
+      "id": "ex-there-is-02",
+      "en": "There is a cat in the garden.",
+      "tr": "Bahçede bir kedi var.",
+      "highlight": "There is"
+    },
+    {
+      "id": "ex-there-is-03",
+      "en": "There is an apple in the bag.",
+      "tr": "Çantada bir elma var.",
+      "highlight": "There is"
+    },
+    {
+      "id": "ex-there-is-04",
+      "en": "There are two books on the table.",
+      "tr": "Masanın üstünde iki kitap var.",
+      "highlight": "There are",
+      "note": "Çoğul: there are"
+    },
+    {
+      "id": "ex-there-is-05",
+      "en": "There are three students in the classroom.",
+      "tr": "Sınıfta üç öğrenci var.",
+      "highlight": "There are"
+    },
+    {
+      "id": "ex-there-is-06",
+      "en": "There is some water in the bottle.",
+      "tr": "Şişede biraz su var.",
+      "highlight": "There is",
+      "note": "Sayılamayan isim: there is"
+    },
+    {
+      "id": "ex-there-is-07",
+      "en": "There is some milk in the fridge.",
+      "tr": "Buzdolabında biraz süt var.",
+      "highlight": "There is"
+    },
+    {
+      "id": "ex-there-is-08",
+      "en": "There's a park near my house.",
+      "tr": "Evimin yakınında bir park var.",
+      "highlight": "There's",
+      "note": "There is → there’s"
+    },
+    {
+      "id": "ex-there-is-09",
+      "en": "There are many shops in the city.",
+      "tr": "Şehirde birçok dükkân var.",
+      "highlight": "There are"
+    },
+    {
+      "id": "ex-there-is-10",
+      "en": "There are seven days in a week.",
+      "tr": "Bir haftada yedi gün var.",
+      "highlight": "There are"
+    },
+    {
+      "id": "ex-there-is-11",
+      "en": "There is a supermarket next to the bank.",
+      "tr": "Bankanın yanında bir süpermarket var.",
+      "highlight": "There is"
+    },
+    {
+      "id": "ex-there-is-12",
+      "en": "There isn't a bank near here.",
+      "tr": "Buraya yakın banka yok.",
+      "highlight": "isn't",
+      "note": "is not → isn’t"
+    },
+    {
+      "id": "ex-there-is-13",
+      "en": "There isn't any milk.",
+      "tr": "Hiç süt yok.",
+      "highlight": "isn't any",
+      "note": "Olumsuzda some yerine any"
+    },
+    {
+      "id": "ex-there-is-14",
+      "en": "There aren't any chairs.",
+      "tr": "Hiç sandalye yok.",
+      "highlight": "aren't any",
+      "note": "are not → aren’t"
+    },
+    {
+      "id": "ex-there-is-15",
+      "en": "There aren't many people here.",
+      "tr": "Burada çok insan yok.",
+      "highlight": "aren't many"
+    },
+    {
+      "id": "ex-there-is-16",
+      "en": "Is there a bank near here?",
+      "tr": "Buraya yakın bir banka var mı?",
+      "highlight": "Is there",
+      "note": "Soruda is / are there’den önce gelir."
+    },
+    {
+      "id": "ex-there-is-17",
+      "en": "Is there any milk?",
+      "tr": "Hiç süt var mı?",
+      "highlight": "Is there"
+    },
+    {
+      "id": "ex-there-is-18",
+      "en": "Are there any shops here?",
+      "tr": "Burada dükkân var mı?",
+      "highlight": "Are there"
+    },
+    {
+      "id": "ex-there-is-19",
+      "en": "Are there two beds in the room?",
+      "tr": "Odada iki yatak var mı?",
+      "highlight": "Are there"
+    },
+    {
+      "id": "ex-there-is-20",
+      "en": "Yes, there is.",
+      "tr": "Evet, var.",
+      "highlight": "there is",
+      "note": "Kısa cevapta there tekrarlanır."
+    },
+    {
+      "id": "ex-there-is-21",
+      "en": "No, there isn't.",
+      "tr": "Hayır, yok.",
+      "highlight": "there isn't"
+    },
+    {
+      "id": "ex-there-is-22",
+      "en": "Yes, there are.",
+      "tr": "Evet, var.",
+      "highlight": "there are"
+    },
+    {
+      "id": "ex-there-is-23",
+      "en": "No, there aren't.",
+      "tr": "Hayır, yok.",
+      "highlight": "there aren't"
+    },
+    {
+      "id": "ex-there-is-24",
+      "en": "How many students are there in the class?",
+      "tr": "Sınıfta kaç öğrenci var?",
+      "highlight": "How many"
+    },
+    {
+      "id": "ex-there-is-25",
+      "en": "There are twenty.",
+      "tr": "Yirmi tane var.",
+      "highlight": "There are"
+    },
+    {
+      "id": "ex-there-is-26",
+      "en": "What is there in the box?",
+      "tr": "Kutuda ne var?",
+      "highlight": "What is there"
+    },
+    {
+      "id": "ex-there-is-27",
+      "en": "There is a table in the room. The table is big.",
+      "tr": "Odada bir masa var. Masa büyük.",
+      "highlight": "The table",
+      "note": "İlk söz edişte a; sonra the"
+    },
+    {
+      "id": "ex-there-is-28",
+      "en": "The book is on the table.",
+      "tr": "Kitap masanın üstünde.",
+      "highlight": "The book",
+      "note": "Belli bir şey: there is değil, normal cümle"
+    },
+    {
+      "id": "ex-there-is-29",
+      "en": "She has got a car.",
+      "tr": "Arabası var.",
+      "highlight": "has got",
+      "note": "Sahiplik → have got"
+    },
+    {
+      "id": "ex-there-is-30",
+      "en": "There is a supermarket opposite the school.",
+      "tr": "Okulun karşısında bir süpermarket var.",
+      "highlight": "There is"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-there-is-01",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There ___ a book on the table.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Book tekil bir isimdir; there is kullanılır.",
+      "optionExplanations": {
+        "b": "Are çoğul isimlerle kullanılır.",
+        "c": "Have, there ile kullanılmaz; “var” için there is gerekir.",
+        "d": "Has, there ile kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-02",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There ___ a cat in the garden.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Cat tekil bir isimdir; there is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Are çoğul isimlerle kullanılır."
+        },
+        {
+          "answer": "have",
+          "explanation": "There ile have kullanılmaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-03",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Masanın üstünde bir kitap var.",
+      "answer": [
+        "There",
+        "is",
+        "a",
+        "book",
+        "on",
+        "the",
+        "table"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are",
+        "has"
+      ],
+      "explanation": "Bir yerde bir şey olduğunu there is ile söylersin: There is a book on the table.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-04",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There have a book on the table.",
+      "errorSpan": "have",
+      "answers": [
+        "There is a book on the table.",
+        "On the table there is a book."
+      ],
+      "explanation": "Türkçedeki “var” burada there is ile söylenir; have kullanılmaz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There has a book on the table.",
+          "explanation": "Has, there ile kullanılmaz; there is gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-there-is-05",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Masanın üstünde bir kitap var.",
+      "hint": "masa: table, kitap: book",
+      "answers": [
+        "There is a book on the table."
+      ],
+      "targetStructure": "There is + tekil isim",
+      "explanation": "Bir yerde bir şey olduğunu there is ile söylersin.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have a book on the table.",
+          "explanation": "Bu “benim masamın üstünde kitabım var” gibi anlaşılır; bir yerde bir şey olduğunu söylemek için there is gerekir."
+        },
+        {
+          "answer": "There are a book on the table.",
+          "explanation": "Tekil isimle there is kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-there-is-06",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There ___ two books on the table.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Books çoğul bir isimdir; there are kullanılır.",
+      "optionExplanations": {
+        "a": "Is tekil isimlerle kullanılır.",
+        "c": "Have, there ile kullanılmaz.",
+        "d": "Has, there ile kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-07",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There ___ two cats in the garden.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Cats çoğul bir isimdir; there are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Is tekil isimlerle kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-08",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bahçede iki kedi var.",
+      "answer": [
+        "There",
+        "are",
+        "two",
+        "cats",
+        "in",
+        "the",
+        "garden"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "cat"
+      ],
+      "explanation": "Çoğul isimle there are kullanılır.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-09",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There is two books on the table.",
+      "errorSpan": "is two books",
+      "answers": [
+        "There are two books on the table."
+      ],
+      "explanation": "Çoğul isimle there are kullanılır.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-10",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bahçede iki kedi var.",
+      "hint": "kedi: cat (çoğul kullan), bahçe: garden",
+      "answers": [
+        "There are two cats in the garden."
+      ],
+      "targetStructure": "There are + çoğul isim",
+      "explanation": "İki kedi çoğul olduğu için there are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There is two cats in the garden.",
+          "explanation": "Çoğul isimle there are kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-there-is-11",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There ___ some water in the bottle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Water sayılamayan bir isimdir; there is kullanılır.",
+      "optionExplanations": {
+        "b": "Are çoğul isimlerle kullanılır; water sayılamaz.",
+        "c": "Have, there ile kullanılmaz.",
+        "d": "Has, there ile kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-12",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There ___ some milk in the fridge.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Milk sayılamayan bir isimdir; there is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Are çoğul isimlerle kullanılır; milk sayılamaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-13",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There ___ three students in the room.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Students çoğuldur; there are kullanılır.",
+      "optionExplanations": {
+        "a": "Is tekil isimlerle kullanılır.",
+        "c": "Have, there ile kullanılmaz.",
+        "d": "Has, there ile kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-14",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There ___ three students in the classroom.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Students çoğuldur; there are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Is tekil isimlerle kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-15",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Evimin yakınında bir park var.",
+      "answer": [
+        "There",
+        "is",
+        "a",
+        "park",
+        "near",
+        "my",
+        "house"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "are",
+        "has"
+      ],
+      "explanation": "Tekil isimle there is kullanılır.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-16",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Buraya yakın banka yok.",
+      "answer": [
+        "There",
+        "isn't",
+        "a",
+        "bank",
+        "near",
+        "here"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "aren't",
+        "hasn't"
+      ],
+      "explanation": "Tekil isimle olumsuz: there isn’t.",
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-17",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There ___ a bank near here.",
+      "hint": "Cümleyi olumsuz yap: Buraya yakın banka yok.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "Tekil isimle olumsuz: there isn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "aren't",
+          "explanation": "Aren’t çoğul isimlerle kullanılır."
+        },
+        {
+          "answer": "hasn't",
+          "explanation": "There ile hasn’t kullanılmaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-18",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There ___ any chairs.",
+      "hint": "Cümleyi olumsuz yap: Hiç sandalye yok.",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Çoğul isimle olumsuz: there aren’t any.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "Chairs çoğuldur; aren’t gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-19",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ there a park near your house?",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "Soruda is there’den önce gelir ve park tekildir: Is there a park …?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Are",
+          "explanation": "Park tekildir; are değil is gerekir."
+        },
+        {
+          "answer": "Do",
+          "explanation": "There is / are yapısında do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-20",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ there two beds in the room?",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "Beds çoğuldur; soruda are there’den önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is",
+          "explanation": "Beds çoğuldur; is değil are gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-21",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Buraya yakın bir banka var mı?",
+      "answer": [
+        "Is",
+        "there",
+        "a",
+        "bank",
+        "near",
+        "here"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Are",
+        "Has"
+      ],
+      "explanation": "Soruda is there’den önce gelir: Is there a bank near here?",
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-22",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There have a cat in the garden."
+        },
+        {
+          "id": "b",
+          "text": "There is a cat in the garden."
+        },
+        {
+          "id": "c",
+          "text": "It is a cat in the garden."
+        },
+        {
+          "id": "d",
+          "text": "Is a cat in the garden."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Bir yerde bir şey var demek için there is kullanılır.",
+      "optionExplanations": {
+        "a": "There ile have kullanılmaz.",
+        "c": "It is, bir şeyi tanıtır; “bahçede bir kedi var” için there is gerekir.",
+        "d": "Özne (there) eksik."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-there-is-23",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is two books."
+        },
+        {
+          "id": "b",
+          "text": "There are two books."
+        },
+        {
+          "id": "c",
+          "text": "There are a book."
+        },
+        {
+          "id": "d",
+          "text": "There is books."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Çoğul isimle there are kullanılır.",
+      "optionExplanations": {
+        "a": "İki kitap çoğuldur; is değil are gerekir.",
+        "c": "A book tekildir; are ile kullanılmaz.",
+        "d": "Books çoğuldur; is kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-24",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ there a bank near here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is"
+        },
+        {
+          "id": "b",
+          "text": "Are"
+        },
+        {
+          "id": "c",
+          "text": "Have"
+        },
+        {
+          "id": "d",
+          "text": "Do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bank tekildir; soruda is there’den önce gelir.",
+      "optionExplanations": {
+        "b": "Are çoğul isimlerle kullanılır.",
+        "c": "Have, there ile kullanılmaz.",
+        "d": "Do ile there is kurulmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-25",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "There ___ a park near my house.",
+      "hint": "Yakında park yok.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "aren't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "hasn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tekil isimle olumsuz: there isn’t.",
+      "optionExplanations": {
+        "b": "Aren’t çoğul isimlerle kullanılır.",
+        "c": "Doesn’t, there is yapısında kullanılmaz.",
+        "d": "Hasn’t, there ile kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-there-is-26",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Masanın üstünde bir kitap var.” cümlesinin İngilizcesi hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is a book on the table."
+        },
+        {
+          "id": "b",
+          "text": "The book is on the table."
+        },
+        {
+          "id": "c",
+          "text": "I have a book on the table."
+        },
+        {
+          "id": "d",
+          "text": "It has a book on the table."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Bir yerde yeni bir şeyin bulunduğunu söylemek için there is kullanılır.",
+      "optionExplanations": {
+        "b": "Bu “kitap masanın üstünde” demek olur; belli bir kitap kastedilir.",
+        "c": "Bu, sahiplik anlamı taşır.",
+        "d": "It has bu anlamda kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-there-is-27",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şişede biraz su var.",
+      "hint": "şişe: bottle, biraz: some, su: water",
+      "answers": [
+        "There is some water in the bottle."
+      ],
+      "targetStructure": "There is + sayılamayan isim",
+      "explanation": "Water sayılamayan bir isimdir; there is kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There are some water in the bottle.",
+          "explanation": "Water sayılamaz; there is gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-28",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Buraya yakın banka yok.",
+      "hint": "buraya yakın: near here, banka: bank",
+      "answers": [
+        "There isn't a bank near here.",
+        "There is not a bank near here."
+      ],
+      "targetStructure": "Olumsuz: there isn’t",
+      "explanation": "Tekil isimle olumsuz: there isn’t.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There aren't a bank near here.",
+          "explanation": "Tekil isimle aren’t kullanılmaz; isn’t gerekir."
+        },
+        {
+          "answer": "I haven't got a bank near here.",
+          "explanation": "Bu sahiplik anlamı taşır; “yok” için there isn’t gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-there-is-29",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Buraya yakın bir banka var mı?",
+      "hint": "banka: bank",
+      "answers": [
+        "Is there a bank near here?"
+      ],
+      "targetStructure": "Soru: Is there …?",
+      "explanation": "Soruda is there’den önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Has a bank near here?",
+          "explanation": "Özne (there) eksik; Is there gerekir."
+        },
+        {
+          "answer": "Do there a bank near here?",
+          "explanation": "Do, there is yapısında kullanılmaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-30",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Odada iki yatak var.",
+      "hint": "oda: room, yatak: bed",
+      "answers": [
+        "There are two beds in the room."
+      ],
+      "targetStructure": "There are + çoğul isim",
+      "explanation": "İki yatak çoğul olduğu için there are kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There is two beds in the room.",
+          "explanation": "Çoğul isimle there are kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-31",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There are a cat in the garden.",
+      "errorSpan": "are",
+      "answers": [
+        "There is a cat in the garden."
+      ],
+      "explanation": "A cat tekildir; there is kullanılır.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-32",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Is there two beds in the room?",
+      "errorSpan": "Is",
+      "answers": [
+        "Are there two beds in the room?"
+      ],
+      "explanation": "Beds çoğuldur; soruda are there’den önce gelir.",
+      "tags": [
+        "there-is-are",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-33",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "On the table have a book.",
+      "errorSpan": "have",
+      "answers": [
+        "There is a book on the table.",
+        "On the table there is a book."
+      ],
+      "explanation": "Bir yerde bir şey var demek için there is kullanılır; have kullanılmaz.",
+      "tags": [
+        "there-is-are",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-34",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Is there a bank near here?” sorusuna olumlu kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, there is."
+        },
+        {
+          "id": "b",
+          "text": "Yes, it is."
+        },
+        {
+          "id": "c",
+          "text": "Yes, there has."
+        },
+        {
+          "id": "d",
+          "text": "Yes, there are."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta there tekrarlanır: Yes, there is.",
+      "optionExplanations": {
+        "b": "It kullanılmaz; there tekrarlanır.",
+        "c": "Has, there ile kullanılmaz.",
+        "d": "Are çoğul içindir; bank tekildir."
+      },
+      "tags": [
+        "there-is-are",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-there-is-35",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Are there any shops here?” sorusuna olumsuz kısa cevap hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, there aren't."
+        },
+        {
+          "id": "b",
+          "text": "No, there isn't."
+        },
+        {
+          "id": "c",
+          "text": "No, they aren't."
+        },
+        {
+          "id": "d",
+          "text": "No, there not."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru are there ile kurulduğu için kısa cevap there aren’t olur.",
+      "optionExplanations": {
+        "b": "Shops çoğuldur; isn’t kullanılmaz.",
+        "c": "Kısa cevapta there tekrarlanır; they kullanılmaz.",
+        "d": "Not tek başına yetmez; aren’t gerekir."
+      },
+      "tags": [
+        "there-is-are",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-there-is-36",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Kitap masanın üstünde.” (belli bir kitap) cümlesinin İngilizcesi hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is a book on the table."
+        },
+        {
+          "id": "b",
+          "text": "The book is on the table."
+        },
+        {
+          "id": "c",
+          "text": "There are the book on the table."
+        },
+        {
+          "id": "d",
+          "text": "A book is the table."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Belli bir şeyden söz ediliyorsa there is kullanılmaz; normal cümle kurulur: The book is on the table.",
+      "optionExplanations": {
+        "a": "Bu “masanın üstünde (yeni) bir kitap var” demek olur.",
+        "c": "Belli bir şeyle there are kullanılmaz.",
+        "d": "Yer bilgisi (on the table) eksik."
+      },
+      "tags": [
+        "there-is-are",
+        "specific"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-37",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "How many students ___ there in the class?",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Students çoğuldur; How many … are there kalıbı kullanılır.",
+      "optionExplanations": {
+        "a": "Is tekil isimle kullanılır.",
+        "c": "Have, there ile kullanılmaz.",
+        "d": "Do, there is yapısında kullanılmaz."
+      },
+      "tags": [
+        "there-is-are",
+        "question",
+        "how-many"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-38",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Is there any milk? No, there ___.",
+      "answers": [
+        "isn't",
+        "is not"
+      ],
+      "explanation": "Soru is there ile kurulduğu için olumsuz kısa cevap there isn’t olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "aren't",
+          "explanation": "Milk sayılamaz; isn’t gerekir."
+        },
+        {
+          "answer": "not",
+          "explanation": "Not tek başına yetmez."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "short-answer"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-there-is-39",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Are there any shops? Yes, there ___.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Soru are there ile kurulduğu için kısa cevap there are olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Shops çoğuldur; is değil are gerekir."
+        },
+        {
+          "answer": "they",
+          "explanation": "Kısa cevapta there tekrarlanır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "short-answer"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-40",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How many people ___ there at the party?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "People çoğuldur; How many … are there kalıbı kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "People çoğuldur; is değil are gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question",
+        "how-many"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-41",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ there in the box?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "What is there …? kalıbında is kullanılır; cevap tek ya da çok olabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "What … there kalıbı genellikle is ile kurulur: What is there in the box?"
+        },
+        {
+          "answer": "do",
+          "explanation": "There is yapısında do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-there-is-42",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç sandalye yok.",
+      "answer": [
+        "There",
+        "aren't",
+        "any",
+        "chairs"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "isn't",
+        "some"
+      ],
+      "explanation": "Çoğul isimle olumsuz: there aren’t any.",
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-43",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sınıfta kaç öğrenci var?",
+      "answer": [
+        "How",
+        "many",
+        "students",
+        "are",
+        "there",
+        "in",
+        "the",
+        "class"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "is",
+        "much"
+      ],
+      "explanation": "How many + çoğul isim + are there?",
+      "tags": [
+        "there-is-are",
+        "question",
+        "how-many"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-44",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kutuda ne var?",
+      "answer": [
+        "What",
+        "is",
+        "there",
+        "in",
+        "the",
+        "box"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "are",
+        "has"
+      ],
+      "explanation": "What is there …? kalıbı.",
+      "tags": [
+        "there-is-are",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-45",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There is the book on the table.",
+      "errorSpan": "the book",
+      "answers": [
+        "The book is on the table.",
+        "There is a book on the table."
+      ],
+      "explanation": "Belli bir şeyle there is kullanılmaz. Belli kitap için The book is on the table, yeni bir kitap için There is a book on the table denir.",
+      "tags": [
+        "there-is-are",
+        "specific"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-there-is-46",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Is there a bank near here? Yes, it is.",
+      "errorSpan": "it is",
+      "answers": [
+        "Is there a bank near here? Yes, there is.",
+        "Is there a bank near here? Yes there is.",
+        "Yes, there is.",
+        "Yes there is."
+      ],
+      "explanation": "Kısa cevapta there tekrarlanır.",
+      "tags": [
+        "there-is-are",
+        "short-answer"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-there-is-47",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There aren't a bank near here.",
+      "errorSpan": "aren't",
+      "answers": [
+        "There isn't a bank near here.",
+        "There is not a bank near here."
+      ],
+      "explanation": "Tekil isimle olumsuzda isn’t kullanılır.",
+      "tags": [
+        "there-is-are",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-48",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç süt yok.",
+      "hint": "süt: milk. “any” kullan.",
+      "answers": [
+        "There isn't any milk.",
+        "There is not any milk."
+      ],
+      "targetStructure": "Olumsuz: there isn’t any",
+      "explanation": "Sayılamayan isimle olumsuz: there isn’t any.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There aren't any milk.",
+          "explanation": "Milk sayılamaz; isn’t gerekir."
+        },
+        {
+          "answer": "There isn't some milk.",
+          "explanation": "Olumsuzda some değil any kullanılır."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "negative",
+        "uncountable"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-there-is-49",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sınıfta kaç öğrenci var?",
+      "hint": "kaç: how many, öğrenci: student",
+      "answers": [
+        "How many students are there in the class?",
+        "How many students are there in the classroom?"
+      ],
+      "targetStructure": "How many … are there?",
+      "explanation": "How many + çoğul isim + are there kalıbı kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How many students there are in the class?",
+          "explanation": "Soruda are there’den önce gelmelidir."
+        },
+        {
+          "answer": "How many students have in the class?",
+          "explanation": "“Var” için there are gerekir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question",
+        "how-many"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-there-is-50",
+      "lessonId": "a1-there-is-are",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kutuda ne var?",
+      "hint": "kutu: box",
+      "answers": [
+        "What is there in the box?",
+        "What's there in the box?"
+      ],
+      "targetStructure": "What is there …?",
+      "explanation": "“Ne var?” sorusu What is there …? ile sorulur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What has in the box?",
+          "explanation": "Özne (there) eksik; What is there gerekir."
+        },
+        {
+          "answer": "What there is in the box?",
+          "explanation": "Soruda is there’den önce gelmelidir."
+        }
+      ],
+      "tags": [
+        "there-is-are",
+        "question",
+        "wh-question"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-there-is",
+    "title": "There Is / There Are: Konu sonu sınavı",
+    "description": "Olumlu, olumsuz, soru, kısa cevap ve there is / have got farkı konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-there-is-exam-01",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "There ___ a pen on the desk.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is"
+          },
+          {
+            "id": "b",
+            "text": "are"
+          },
+          {
+            "id": "c",
+            "text": "have"
+          },
+          {
+            "id": "d",
+            "text": "has"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Pen tekildir; there is kullanılır.",
+        "optionExplanations": {
+          "b": "Are çoğul isimlerle kullanılır.",
+          "c": "Have, there ile kullanılmaz.",
+          "d": "Has, there ile kullanılmaz."
+        },
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-02",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "There ___ an egg in the fridge.",
+        "answers": [
+          "is"
+        ],
+        "explanation": "Egg tekildir; there is kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "Are çoğul isimlerle kullanılır."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-03",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Odada bir masa var.",
+        "answer": [
+          "There",
+          "is",
+          "a",
+          "table",
+          "in",
+          "the",
+          "room"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "are",
+          "has"
+        ],
+        "explanation": "Tekil isimle there is kullanılır.",
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-04",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "There have a dog in the park.",
+        "errorSpan": "have",
+        "answers": [
+          "There is a dog in the park.",
+          "In the park there is a dog."
+        ],
+        "explanation": "Bir yerde bir şey var demek için there is kullanılır; have kullanılmaz.",
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-05",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Evin yanında bir park var.",
+        "hint": "yanında: next to, park: park",
+        "answers": [
+          "There is a park next to the house."
+        ],
+        "targetStructure": "There is + tekil isim",
+        "explanation": "Bir yerde bir şey olduğunu there is ile söylersin.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have a park next to the house.",
+            "explanation": "Bu sahiplik anlamı taşır; “bir yerde var” için there is gerekir."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-06",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "There ___ four chairs in the room.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is"
+          },
+          {
+            "id": "b",
+            "text": "are"
+          },
+          {
+            "id": "c",
+            "text": "have"
+          },
+          {
+            "id": "d",
+            "text": "has"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Chairs çoğuldur; there are kullanılır.",
+        "optionExplanations": {
+          "a": "Is tekil isimlerle kullanılır.",
+          "c": "Have, there ile kullanılmaz.",
+          "d": "Has, there ile kullanılmaz."
+        },
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-07",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "There ___ seven days in a week.",
+        "answers": [
+          "are"
+        ],
+        "explanation": "Days çoğuldur; there are kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Is tekil isimlerle kullanılır."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-08",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çantada iki kalem var mı?",
+        "answer": [
+          "Are",
+          "there",
+          "two",
+          "pens",
+          "in",
+          "the",
+          "bag"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Is",
+          "Have"
+        ],
+        "explanation": "Çoğul isimle soruda are there’den önce gelir.",
+        "tags": [
+          "there-is-are",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-09",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "There are a bag on the chair.",
+        "errorSpan": "are",
+        "answers": [
+          "There is a bag on the chair."
+        ],
+        "explanation": "A bag tekildir; there is kullanılır.",
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-10",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Sınıfta yirmi öğrenci var.",
+        "hint": "öğrenci: student (çoğul kullan), sınıf: classroom",
+        "answers": [
+          "There are twenty students in the classroom.",
+          "There are twenty students in the class."
+        ],
+        "targetStructure": "There are + sayı + çoğul isim",
+        "explanation": "Yirmi öğrenci çoğuldur; there are kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "There is twenty students in the classroom.",
+            "explanation": "Çoğul isimle there are kullanılır."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement",
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-11",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "There is three cats."
+          },
+          {
+            "id": "b",
+            "text": "There are three cats."
+          },
+          {
+            "id": "c",
+            "text": "There have three cats."
+          },
+          {
+            "id": "d",
+            "text": "It are three cats."
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Çoğul isimle there are kullanılır.",
+        "optionExplanations": {
+          "a": "Three cats çoğuldur; is değil are gerekir.",
+          "c": "There ile have kullanılmaz.",
+          "d": "It ile are birlikte kullanılmaz."
+        },
+        "tags": [
+          "there-is-are",
+          "affirmative"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-12",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "There ___ a lift in the building.",
+        "hint": "Cümleyi olumsuz yap: Binada asansör yok.",
+        "answers": [
+          "isn't",
+          "is not"
+        ],
+        "explanation": "Tekil isimle olumsuz: there isn’t.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "aren't",
+            "explanation": "Lift tekildir; isn’t gerekir."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-13",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is there any milk? Yes, it is.",
+        "errorSpan": "it is",
+        "answers": [
+          "Is there any milk? Yes, there is.",
+          "Is there any milk? Yes there is.",
+          "Yes, there is.",
+          "Yes there is."
+        ],
+        "explanation": "Kısa cevapta there tekrarlanır.",
+        "tags": [
+          "there-is-are",
+          "short-answer"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-14",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "“Are there any apples?” sorusuna olumlu kısa cevap hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes, there are."
+          },
+          {
+            "id": "b",
+            "text": "Yes, there is."
+          },
+          {
+            "id": "c",
+            "text": "Yes, they are."
+          },
+          {
+            "id": "d",
+            "text": "Yes, there have."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Soru are there ile kurulduğu için kısa cevap there are olur.",
+        "optionExplanations": {
+          "b": "Apples çoğuldur; is kullanılmaz.",
+          "c": "Kısa cevapta there tekrarlanır; they kullanılmaz.",
+          "d": "There ile have kullanılmaz."
+        },
+        "tags": [
+          "there-is-are",
+          "short-answer"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-15",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Are there two beds? No, there ___.",
+        "answers": [
+          "aren't",
+          "are not"
+        ],
+        "explanation": "Soru are there ile kurulduğu için olumsuz kısa cevap there aren’t olur.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "isn't",
+            "explanation": "Beds çoğuldur; aren’t gerekir."
+          }
+        ],
+        "tags": [
+          "there-is-are",
+          "short-answer"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-there-is-exam-16",
+        "lessonId": "a1-there-is-are",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bahçede ağaç yok.",
+        "answer": [
+          "There",
+          "aren't",
+          "any",
+          "trees",
+          "in",
+          "the",
+          "garden"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "isn't",
+          "some"
+        ],
+        "explanation": "Çoğul isimle olumsuz: there aren’t any.",
+        "tags": [
+          "there-is-are",
+          "negative"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2649 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-countable-some-any",
+  "levelId": "a1",
+  "title": "Countable & Uncountable Nouns, Some & Any",
+  "objectives": [
+    "Sayılabilen ve sayılamayan isimleri ayırt etmek",
+    "Sayılamayan isimlerin çoğulu olmadığını ve a / an almadığını bilmek",
+    "Some ve any’yi olumlu, olumsuz, soru, teklif ve rica cümlelerinde doğru kullanmak",
+    "Sayılamayanı ölçü sözcükleriyle saymak (a glass of water, a piece of advice)",
+    "Information, advice, furniture, homework, news gibi sözcüklerin sayılamaz olduğunu hatırlamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Sayılabilen ve sayılamayan isimler",
+      "paragraphs": [
+        "İngilizcede isimler iki gruba ayrılır. Sayılabilen isimleri tek tek sayabilirsin: an apple, two apples, three books. Sayılamayan isimleri ise tek tek sayamazsın; bunlar bir bütün ya da madde olarak düşünülür: water, milk, bread, money, information.",
+        "Bu ayrım önemlidir, çünkü hangi sözcüğü (a / an, some, any) ve hangi fiili (is / are) kullanacağını belirler. Sayılamayan isimlerin çoğulu yoktur, önlerine a / an gelmez ve is ile kullanılırlar.",
+        "Türkçeden gelen en sık hatalar burada yapılır: “bilgi”, “tavsiye”, “mobilya”, “haber”, “ödev” Türkçede sayılabilir gibi davranır (iki ödev, bir haber), ama İngilizcede bunların hepsi sayılamaz: information, advice, furniture, news, homework."
+      ]
+    },
+    {
+      "id": "countable",
+      "type": "rule",
+      "title": "Sayılabilen isimler",
+      "paragraphs": [
+        "Sayılabilen isimlerin tekil ve çoğul biçimi vardır. Tekil biçimle a / an, çoğul biçimle sayı ya da some / any kullanılır:"
+      ],
+      "formulas": [
+        {
+          "label": "Tekil",
+          "pattern": "a / an + tekil isim   →   an apple,  a book",
+          "exampleIds": [
+            "ex-some-any-01"
+          ]
+        },
+        {
+          "label": "Çoğul",
+          "pattern": "sayı + çoğul isim   →   two apples,  three books",
+          "exampleIds": [
+            "ex-some-any-02",
+            "ex-some-any-03"
+          ]
+        },
+        {
+          "label": "Belirsiz sayıda",
+          "pattern": "some + çoğul isim   →   some apples",
+          "exampleIds": [
+            "ex-some-any-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uncountable",
+      "type": "rule",
+      "title": "Sayılamayan isimler",
+      "paragraphs": [
+        "Sayılamayan isimlerin çoğulu yoktur, a / an almazlar ve is ile kullanılırlar. Belirsiz miktar için some kullanılır. En sık karşılaşacakların:"
+      ],
+      "formulas": [
+        {
+          "label": "Yiyecek ve içecek",
+          "pattern": "water,  milk,  tea,  coffee,  bread,  rice,  sugar,  cheese,  butter",
+          "exampleIds": [
+            "ex-some-any-05",
+            "ex-some-any-06",
+            "ex-some-any-07",
+            "ex-some-any-09",
+            "ex-some-any-30"
+          ]
+        },
+        {
+          "label": "Madde ve para",
+          "pattern": "money,  time,  paper,  air",
+          "exampleIds": [
+            "ex-some-any-08"
+          ]
+        },
+        {
+          "label": "Soyut ve toplu isimler",
+          "pattern": "information,  advice,  furniture,  homework,  news,  music,  luggage",
+          "exampleIds": [
+            "ex-some-any-25",
+            "ex-some-any-26",
+            "ex-some-any-27",
+            "ex-some-any-28",
+            "ex-some-any-29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "containers",
+      "type": "rule",
+      "title": "Sayılamayanı ölçüyle saymak",
+      "paragraphs": [
+        "Sayılamayan bir şeyi saymak istediğinde, onu bir ölçü ya da kap sözcüğüyle birlikte kullanırsın: a glass of water. Ölçü sözcüğü sayılabilirdir, bu yüzden a / an ve çoğul alabilir: two glasses of water."
+      ],
+      "formulas": [
+        {
+          "label": "Kap ve ölçüler",
+          "pattern": "a glass of water,  a cup of tea,  a bottle of milk,  a kilo of rice",
+          "exampleIds": [
+            "ex-some-any-10",
+            "ex-some-any-11",
+            "ex-some-any-13"
+          ]
+        },
+        {
+          "label": "Parça",
+          "pattern": "a piece of bread,  a piece of advice,  a piece of information",
+          "exampleIds": [
+            "ex-some-any-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "some-any",
+      "type": "forms",
+      "title": "Some ve any",
+      "paragraphs": [
+        "Some ve any, “biraz, bazı, hiç” anlamında kullanılır ve hem çoğul sayılabilen hem sayılamayan isimlerle gelir. Hangisini seçeceğin cümlenin türüne bağlıdır."
+      ],
+      "forms": [
+        {
+          "label": "Olumlu: some",
+          "formula": "some + çoğul sayılabilen / sayılamayan isim",
+          "exampleIds": [
+            "ex-some-any-04",
+            "ex-some-any-06",
+            "ex-some-any-08",
+            "ex-some-any-09"
+          ],
+          "note": "I have some apples. We need some milk."
+        },
+        {
+          "label": "Olumsuz: not … any",
+          "formula": "not … any + isim",
+          "exampleIds": [
+            "ex-some-any-14",
+            "ex-some-any-15",
+            "ex-some-any-16",
+            "ex-some-any-17",
+            "ex-some-any-18"
+          ],
+          "note": "Olumsuzda some değil any kullanılır: I don’t have any money."
+        },
+        {
+          "label": "Soru: any",
+          "formula": "Do / Is / Are … any + isim …?",
+          "exampleIds": [
+            "ex-some-any-19",
+            "ex-some-any-20",
+            "ex-some-any-21",
+            "ex-some-any-22"
+          ],
+          "note": "Soruda genellikle any kullanılır: Do you have any apples?"
+        },
+        {
+          "label": "Teklif ve rica: some",
+          "formula": "Would you like some …?   Can I have some …?",
+          "exampleIds": [
+            "ex-some-any-23",
+            "ex-some-any-24"
+          ],
+          "note": "Teklif ve ricada soru olsa bile some kullanılır; çünkü olumlu bir cevap beklenir."
+        }
+      ]
+    },
+    {
+      "id": "examples-countable",
+      "type": "examples",
+      "title": "Örnekler: sayılabilen ve sayılamayan isimler",
+      "exampleIds": [
+        "ex-some-any-01",
+        "ex-some-any-02",
+        "ex-some-any-03",
+        "ex-some-any-05",
+        "ex-some-any-25",
+        "ex-some-any-26",
+        "ex-some-any-27",
+        "ex-some-any-28",
+        "ex-some-any-29",
+        "ex-some-any-30"
+      ]
+    },
+    {
+      "id": "examples-some",
+      "type": "examples",
+      "title": "Örnekler: some, any ve ölçüler",
+      "exampleIds": [
+        "ex-some-any-04",
+        "ex-some-any-06",
+        "ex-some-any-07",
+        "ex-some-any-08",
+        "ex-some-any-09",
+        "ex-some-any-10",
+        "ex-some-any-11",
+        "ex-some-any-12",
+        "ex-some-any-13",
+        "ex-some-any-14",
+        "ex-some-any-15",
+        "ex-some-any-16",
+        "ex-some-any-17",
+        "ex-some-any-18"
+      ]
+    },
+    {
+      "id": "examples-q",
+      "type": "examples",
+      "title": "Örnekler: sorular, teklif ve rica",
+      "exampleIds": [
+        "ex-some-any-19",
+        "ex-some-any-20",
+        "ex-some-any-21",
+        "ex-some-any-22",
+        "ex-some-any-23",
+        "ex-some-any-24"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I need an information.",
+          "right": "I need some information.  /  I need a piece of information.",
+          "explanation": "Information sayılamaz; a / an almaz."
+        },
+        {
+          "wrong": "I need some informations.",
+          "right": "I need some information.",
+          "explanation": "Sayılamayan isimlerin çoğulu yoktur."
+        },
+        {
+          "wrong": "She gave me an advice.",
+          "right": "She gave me some advice.  /  She gave me a piece of advice.",
+          "explanation": "Advice sayılamaz; a / an ve çoğul almaz."
+        },
+        {
+          "wrong": "The furniture are new.",
+          "right": "The furniture is new.",
+          "explanation": "Furniture sayılamaz; is alır."
+        },
+        {
+          "wrong": "The news are good.",
+          "right": "The news is good.",
+          "explanation": "News -s ile bitse de sayılamaz; is alır."
+        },
+        {
+          "wrong": "I have a lot of homeworks.",
+          "right": "I have a lot of homework.",
+          "explanation": "Homework sayılamaz; çoğul yapılmaz."
+        },
+        {
+          "wrong": "I need a water.",
+          "right": "I need some water.  /  I need a glass of water.",
+          "explanation": "Water sayılamaz; a almaz."
+        },
+        {
+          "wrong": "I don’t have some money.",
+          "right": "I don’t have any money.",
+          "explanation": "Olumsuz cümlede some değil any kullanılır."
+        },
+        {
+          "wrong": "There aren’t some chairs.",
+          "right": "There aren’t any chairs.",
+          "explanation": "Olumsuz cümlede any kullanılır."
+        },
+        {
+          "wrong": "She drinks a milk every morning.",
+          "right": "She drinks milk every morning.  /  She drinks a glass of milk every morning.",
+          "explanation": "Milk sayılamaz; a almaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Some / any ve artikeller",
+          "body": "A / an yalnızca tekil sayılabilen isimlerle kullanılır. Sayılamayan ve çoğul isimlerle some / any kullanılır.",
+          "lessonId": "a1-articles"
+        },
+        {
+          "topic": "Sayılamayan isimler ve çoğullar",
+          "body": "Çoğul yapma kuralları yalnızca sayılabilen isimler içindir.",
+          "lessonId": "a1-plurals"
+        },
+        {
+          "topic": "Some / any ve there is / are",
+          "body": "There is some water. There aren’t any chairs. Is there any milk?",
+          "lessonId": "a1-there-is-are"
+        },
+        {
+          "topic": "Miktar sözcükleri",
+          "body": "Much, many, a lot of, a few, a little gibi miktar sözcükleri A2’de ayrıca işlenecek.",
+          "lessonId": "a2-quantifiers"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Sayılamayan isimlerin çoğulu yoktur ve a / an almazlar: a water ✗, informations ✗, an advice ✗.",
+        "Sayılamayan isimler is alır: The milk is cold. The news is good.",
+        "Olumlu cümlede some, olumsuz ve soruda any kullanılır; teklif ve ricada some kullanılır.",
+        "Information, advice, furniture, homework, news, money gibi sözcükler Türkçede sayılabilir gibi görünür; İngilizcede sayılamaz.",
+        "Sayılamayanı saymak için kap ya da ölçü sözcüğü kullan: a glass of water, a piece of advice."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-some-any-01",
+        "q-some-any-02",
+        "q-some-any-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-some-any-01",
+      "en": "I have an apple.",
+      "tr": "Bir elmam var.",
+      "highlight": "an apple",
+      "note": "Sayılabilir, tekil: a / an"
+    },
+    {
+      "id": "ex-some-any-02",
+      "en": "I have two apples.",
+      "tr": "İki elmam var.",
+      "highlight": "two apples",
+      "note": "Sayılabilir, çoğul: sayı + çoğul isim"
+    },
+    {
+      "id": "ex-some-any-03",
+      "en": "She has three books.",
+      "tr": "Üç kitabı var.",
+      "highlight": "three books"
+    },
+    {
+      "id": "ex-some-any-04",
+      "en": "There are some apples in the bag.",
+      "tr": "Çantada biraz elma var.",
+      "highlight": "some apples",
+      "note": "some + çoğul sayılabilir isim"
+    },
+    {
+      "id": "ex-some-any-05",
+      "en": "I drink water every day.",
+      "tr": "Her gün su içerim.",
+      "highlight": "water",
+      "note": "Water sayılamaz: a water ✗"
+    },
+    {
+      "id": "ex-some-any-06",
+      "en": "We need some milk.",
+      "tr": "Biraz süte ihtiyacımız var.",
+      "highlight": "some milk",
+      "note": "some + sayılamayan isim"
+    },
+    {
+      "id": "ex-some-any-07",
+      "en": "I want some tea.",
+      "tr": "Biraz çay istiyorum.",
+      "highlight": "some tea"
+    },
+    {
+      "id": "ex-some-any-08",
+      "en": "She has some money.",
+      "tr": "Biraz parası var.",
+      "highlight": "some money"
+    },
+    {
+      "id": "ex-some-any-09",
+      "en": "There is some bread on the table.",
+      "tr": "Masanın üstünde biraz ekmek var.",
+      "highlight": "some bread"
+    },
+    {
+      "id": "ex-some-any-10",
+      "en": "Can I have a glass of water?",
+      "tr": "Bir bardak su alabilir miyim?",
+      "highlight": "a glass of water",
+      "note": "Sayılamazı ölçüyle sayarız."
+    },
+    {
+      "id": "ex-some-any-11",
+      "en": "I want a cup of tea.",
+      "tr": "Bir fincan çay istiyorum.",
+      "highlight": "a cup of tea"
+    },
+    {
+      "id": "ex-some-any-12",
+      "en": "He eats a piece of bread.",
+      "tr": "Bir parça ekmek yer.",
+      "highlight": "a piece of bread"
+    },
+    {
+      "id": "ex-some-any-13",
+      "en": "I need a bottle of milk.",
+      "tr": "Bir şişe süte ihtiyacım var.",
+      "highlight": "a bottle of milk"
+    },
+    {
+      "id": "ex-some-any-14",
+      "en": "We don't have any apples.",
+      "tr": "Hiç elmamız yok.",
+      "highlight": "any apples",
+      "note": "Olumsuzda some yerine any"
+    },
+    {
+      "id": "ex-some-any-15",
+      "en": "I don't have any money.",
+      "tr": "Hiç param yok.",
+      "highlight": "any money"
+    },
+    {
+      "id": "ex-some-any-16",
+      "en": "She doesn't drink any milk.",
+      "tr": "Hiç süt içmez.",
+      "highlight": "any milk"
+    },
+    {
+      "id": "ex-some-any-17",
+      "en": "There isn't any bread.",
+      "tr": "Hiç ekmek yok.",
+      "highlight": "any bread"
+    },
+    {
+      "id": "ex-some-any-18",
+      "en": "I don't have any sugar.",
+      "tr": "Hiç şekerim yok.",
+      "highlight": "any sugar"
+    },
+    {
+      "id": "ex-some-any-19",
+      "en": "Do you have any apples?",
+      "tr": "Hiç elman var mı?",
+      "highlight": "any apples",
+      "note": "Soruda some yerine any"
+    },
+    {
+      "id": "ex-some-any-20",
+      "en": "Do you have any money?",
+      "tr": "Hiç paran var mı?",
+      "highlight": "any money"
+    },
+    {
+      "id": "ex-some-any-21",
+      "en": "Is there any milk?",
+      "tr": "Hiç süt var mı?",
+      "highlight": "any milk"
+    },
+    {
+      "id": "ex-some-any-22",
+      "en": "Are there any books?",
+      "tr": "Hiç kitap var mı?",
+      "highlight": "any books"
+    },
+    {
+      "id": "ex-some-any-23",
+      "en": "Would you like some tea?",
+      "tr": "Biraz çay ister misin?",
+      "highlight": "some tea",
+      "note": "Teklif ve ricada soruda bile some kullanılır."
+    },
+    {
+      "id": "ex-some-any-24",
+      "en": "Can I have some water?",
+      "tr": "Biraz su alabilir miyim?",
+      "highlight": "some water",
+      "note": "Rica: some"
+    },
+    {
+      "id": "ex-some-any-25",
+      "en": "Information is important.",
+      "tr": "Bilgi önemlidir.",
+      "highlight": "Information",
+      "note": "Information sayılamaz: informations ✗"
+    },
+    {
+      "id": "ex-some-any-26",
+      "en": "I need some advice.",
+      "tr": "Biraz tavsiyeye ihtiyacım var.",
+      "highlight": "some advice",
+      "note": "Advice sayılamaz: advices ✗, an advice ✗"
+    },
+    {
+      "id": "ex-some-any-27",
+      "en": "The furniture is new.",
+      "tr": "Mobilyalar yeni.",
+      "highlight": "furniture is",
+      "note": "Furniture sayılamaz; is alır."
+    },
+    {
+      "id": "ex-some-any-28",
+      "en": "I have some homework.",
+      "tr": "Biraz ödevim var.",
+      "highlight": "some homework",
+      "note": "Homework sayılamaz."
+    },
+    {
+      "id": "ex-some-any-29",
+      "en": "The news is good.",
+      "tr": "Haberler iyi.",
+      "highlight": "news is",
+      "note": "News sayılamaz; is alır."
+    },
+    {
+      "id": "ex-some-any-30",
+      "en": "Rice is cheap here.",
+      "tr": "Pirinç burada ucuz.",
+      "highlight": "Rice"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-some-any-01",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi sayılamayan bir isimdir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "apple"
+        },
+        {
+          "id": "b",
+          "text": "book"
+        },
+        {
+          "id": "c",
+          "text": "water"
+        },
+        {
+          "id": "d",
+          "text": "car"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Water sayılamaz; tek tek sayamazsın (a water ✗).",
+      "optionExplanations": {
+        "a": "Apple sayılabilir: an apple, two apples.",
+        "b": "Book sayılabilir: a book, two books.",
+        "d": "Car sayılabilir: a car, two cars."
+      },
+      "tags": [
+        "some-any",
+        "countable"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-02",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ apples.",
+      "answers": [
+        "some"
+      ],
+      "explanation": "Olumlu cümlede çoğul sayılabilen isimle some kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "any",
+          "explanation": "Any olumsuz cümle ve sorularda kullanılır; bu olumlu cümle."
+        },
+        {
+          "answer": "a",
+          "explanation": "A yalnızca tekil isimle kullanılır; apples çoğuldur."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-03",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İki elmam var.",
+      "answer": [
+        "I",
+        "have",
+        "two",
+        "apples"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "some",
+        "an"
+      ],
+      "explanation": "Sayıdan sonra isim çoğul olur: two apples.",
+      "tags": [
+        "some-any",
+        "countable"
+      ],
+      "errorTags": [
+        "plural_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-some-any-04",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have some apple.",
+      "errorSpan": "some apple",
+      "answers": [
+        "I have an apple.",
+        "I have some apples."
+      ],
+      "explanation": "Some, çoğul ya da sayılamayan isimle kullanılır. Tek bir elma için an apple, birden fazla için some apples denir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have a apple.",
+          "explanation": "Apple ünlü sesiyle başlar; an gerekir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some",
+        "countable"
+      ],
+      "errorTags": [
+        "article_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-05",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İki elmam var.",
+      "hint": "elma: apple",
+      "answers": [
+        "I have two apples.",
+        "I've got two apples."
+      ],
+      "targetStructure": "Sayı + çoğul sayılabilen isim",
+      "explanation": "Sayıdan sonra isim çoğul olur: two apples.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I have two apple.",
+          "explanation": "Sayıdan sonra isim çoğul olur."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "countable"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-06",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi sayılabilen bir isimdir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "milk"
+        },
+        {
+          "id": "b",
+          "text": "bread"
+        },
+        {
+          "id": "c",
+          "text": "money"
+        },
+        {
+          "id": "d",
+          "text": "egg"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Egg sayılabilir: an egg, two eggs.",
+      "optionExplanations": {
+        "a": "Milk sayılamaz.",
+        "b": "Bread sayılamaz.",
+        "c": "Money sayılamaz."
+      },
+      "tags": [
+        "some-any",
+        "countable"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-07",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "There is ___ milk in the fridge.",
+      "answers": [
+        "some"
+      ],
+      "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "any",
+          "explanation": "Any olumsuz cümle ve sorularda kullanılır."
+        },
+        {
+          "answer": "a",
+          "explanation": "Milk sayılamaz; a almaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-08",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Biraz süt istiyorum.",
+      "answer": [
+        "I",
+        "want",
+        "some",
+        "milk"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "any",
+        "a"
+      ],
+      "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+      "tags": [
+        "some-any",
+        "some"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-some-any-09",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I need a water.",
+      "errorSpan": "a water",
+      "answers": [
+        "I need some water.",
+        "I need a glass of water."
+      ],
+      "explanation": "Water sayılamaz; a almaz. Some water ya da a glass of water denir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I need waters.",
+          "explanation": "Water sayılamaz; çoğul yapılmaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-10",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Biraz süt istiyorum.",
+      "hint": "süt: milk, istemek: want",
+      "answers": [
+        "I want some milk."
+      ],
+      "targetStructure": "some + sayılamayan isim",
+      "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I want a milk.",
+          "explanation": "Milk sayılamaz; a almaz."
+        },
+        {
+          "answer": "I want any milk.",
+          "explanation": "Olumlu cümlede any değil some kullanılır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-11",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ apples.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumlu cümlede çoğul sayılabilen isimle some kullanılır.",
+      "optionExplanations": {
+        "b": "Any olumsuz cümle ve sorularda kullanılır.",
+        "c": "A yalnızca tekil isimle kullanılır.",
+        "d": "An yalnızca tekil isimle kullanılır."
+      },
+      "tags": [
+        "some-any",
+        "some"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-12",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We don't have ___ apples.",
+      "answers": [
+        "any"
+      ],
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "some",
+          "explanation": "Olumsuz cümlede some değil any kullanılır."
+        },
+        {
+          "answer": "a",
+          "explanation": "A yalnızca tekil isimle kullanılır; apples çoğuldur."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-13",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I don't have ___ money.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "optionExplanations": {
+        "a": "Olumsuz cümlede some kullanılmaz.",
+        "c": "A, money ile kullanılmaz.",
+        "d": "An, money ile kullanılmaz."
+      },
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-14",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Do you have ___ apples?",
+      "answers": [
+        "any"
+      ],
+      "explanation": "Soruda genellikle any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "some",
+          "explanation": "Soruda genellikle any kullanılır (teklif ve rica hariç)."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any",
+        "question"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-15",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Do you have ___ milk?",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Soruda genellikle any kullanılır.",
+      "optionExplanations": {
+        "a": "Soruda genellikle any kullanılır (teklif ve rica hariç).",
+        "c": "A, sayılamayan isimle kullanılmaz.",
+        "d": "An, sayılamayan isimle kullanılmaz."
+      },
+      "tags": [
+        "some-any",
+        "any",
+        "question"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-16",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "There is ___ bread on the table.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+      "optionExplanations": {
+        "b": "Any olumlu cümlede kullanılmaz.",
+        "c": "A, sayılamayan isimle kullanılmaz.",
+        "d": "An, sayılamayan isimle kullanılmaz."
+      },
+      "tags": [
+        "some-any",
+        "some",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-17",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Is there ___ bread?",
+      "answers": [
+        "any"
+      ],
+      "explanation": "Soruda genellikle any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "some",
+          "explanation": "Soruda genellikle any kullanılır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any",
+        "question"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-18",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There aren't ___ books on the table.",
+      "answers": [
+        "any"
+      ],
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "some",
+          "explanation": "Olumsuz cümlede some değil any kullanılır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-19",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She wants ___ tea.",
+      "answers": [
+        "some"
+      ],
+      "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "any",
+          "explanation": "Any olumlu cümlede kullanılmaz."
+        },
+        {
+          "answer": "a",
+          "explanation": "Tea sayılamaz; a almaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-20",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Can I have a ___ of water?",
+      "hint": "bardak",
+      "answers": [
+        "glass"
+      ],
+      "explanation": "Bardak anlamında glass kullanılır: a glass of water.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "cup",
+          "explanation": "Cup “fincan” demektir; su için glass kullanılır."
+        },
+        {
+          "answer": "piece",
+          "explanation": "Piece “parça” demektir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-21",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I want a ___ of tea.",
+      "hint": "fincan",
+      "answers": [
+        "cup"
+      ],
+      "explanation": "Fincan anlamında cup kullanılır: a cup of tea.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "glass",
+          "explanation": "Glass “bardak” demektir; çay için çoğunlukla cup kullanılır."
+        },
+        {
+          "answer": "piece",
+          "explanation": "Piece “parça” demektir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-22",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I need an information."
+        },
+        {
+          "id": "b",
+          "text": "I need some information."
+        },
+        {
+          "id": "c",
+          "text": "I need informations."
+        },
+        {
+          "id": "d",
+          "text": "I need a informations."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Information sayılamaz; some ile kullanılır.",
+      "optionExplanations": {
+        "a": "Information sayılamaz; a / an almaz.",
+        "c": "Information’ın çoğulu yoktur.",
+        "d": "Information sayılamaz; a ve çoğul almaz."
+      },
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-23",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The furniture are new."
+        },
+        {
+          "id": "b",
+          "text": "The furniture is new."
+        },
+        {
+          "id": "c",
+          "text": "The furnitures are new."
+        },
+        {
+          "id": "d",
+          "text": "The furniture be new."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Furniture sayılamaz; is alır.",
+      "optionExplanations": {
+        "a": "Furniture sayılamaz; are almaz.",
+        "c": "Furniture’ın çoğulu yoktur.",
+        "d": "Be çekimli bir fiil değildir."
+      },
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-24",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "There aren't ___ chairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "optionExplanations": {
+        "a": "Olumsuz cümlede some kullanılmaz.",
+        "c": "A yalnızca tekil isimle kullanılır.",
+        "d": "An yalnızca tekil isimle kullanılır."
+      },
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-25",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't have some money.",
+      "errorSpan": "some",
+      "answers": [
+        "I don't have any money."
+      ],
+      "explanation": "Olumsuz cümlede some değil any kullanılır.",
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-26",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I need an information.",
+      "errorSpan": "an information",
+      "answers": [
+        "I need some information.",
+        "I need a piece of information."
+      ],
+      "explanation": "Information sayılamaz; some information ya da a piece of information denir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I need an informations.",
+          "explanation": "Information sayılamaz; ne an ne de çoğul alır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-27",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The furniture are new.",
+      "errorSpan": "are",
+      "answers": [
+        "The furniture is new."
+      ],
+      "explanation": "Furniture sayılamaz; is alır.",
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-some-any-28",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I need some advices.",
+      "errorSpan": "advices",
+      "answers": [
+        "I need some advice."
+      ],
+      "explanation": "Advice sayılamaz; çoğulu yoktur.",
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-29",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç param yok.",
+      "answer": [
+        "I",
+        "don't",
+        "have",
+        "any",
+        "money"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "some",
+        "doesn't"
+      ],
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "negation",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-30",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç elman var mı?",
+      "answer": [
+        "Do",
+        "you",
+        "have",
+        "any",
+        "apples"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "some",
+        "Does"
+      ],
+      "explanation": "Soruda genellikle any kullanılır.",
+      "tags": [
+        "some-any",
+        "any",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-31",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç param yok.",
+      "hint": "para: money",
+      "answers": [
+        "I don't have any money.",
+        "I haven't got any money."
+      ],
+      "targetStructure": "not … any + sayılamayan isim",
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't have some money.",
+          "explanation": "Olumsuzda some değil any kullanılır."
+        },
+        {
+          "answer": "I don't have a money.",
+          "explanation": "Money sayılamaz; a almaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage",
+        "negation"
+      ]
+    },
+    {
+      "id": "q-some-any-32",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç elman var mı?",
+      "hint": "elma: apple (çoğul)",
+      "answers": [
+        "Do you have any apples?",
+        "Have you got any apples?"
+      ],
+      "targetStructure": "Soru: any + çoğul isim",
+      "explanation": "Soruda genellikle any kullanılır ve isim çoğul olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you have some apples?",
+          "explanation": "Soruda genellikle any kullanılır."
+        },
+        {
+          "answer": "Do you have any apple?",
+          "explanation": "Any ile çoğul isim kullanılır: apples."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any",
+        "question"
+      ],
+      "errorTags": [
+        "article_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-33",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Masanın üstünde biraz ekmek var.",
+      "hint": "ekmek: bread",
+      "answers": [
+        "There is some bread on the table."
+      ],
+      "targetStructure": "there is + some + sayılamayan isim",
+      "explanation": "Bread sayılamaz; there is some bread denir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There are some bread on the table.",
+          "explanation": "Bread sayılamaz; there is gerekir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-some-any-34",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Would you like ___ tea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Teklif ederken soruda bile some kullanılır; olumlu bir cevap beklenir.",
+      "optionExplanations": {
+        "b": "Teklifte any kullanılmaz.",
+        "c": "Tea sayılamaz; a almaz.",
+        "d": "Tea sayılamaz; an almaz."
+      },
+      "tags": [
+        "some-any",
+        "offer"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-35",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Can I have ___ water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Rica ederken some kullanılır.",
+      "optionExplanations": {
+        "b": "Rica cümlesinde any kullanılmaz.",
+        "c": "Water sayılamaz; a almaz.",
+        "d": "Water sayılamaz; an almaz."
+      },
+      "tags": [
+        "some-any",
+        "offer"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-36",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Bir bardak su” İngilizcede nasıl söylenir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a water"
+        },
+        {
+          "id": "b",
+          "text": "a glass of water"
+        },
+        {
+          "id": "c",
+          "text": "a glass water"
+        },
+        {
+          "id": "d",
+          "text": "an glass of water"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sayılamayanı saymak için ölçü sözcüğü kullanılır: a glass of water.",
+      "optionExplanations": {
+        "a": "Water sayılamaz; a almaz.",
+        "c": "“Of” eksik: a glass of water.",
+        "d": "Glass ünsüzle başlar; an değil a gelir."
+      },
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-37",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She doesn't have some money."
+        },
+        {
+          "id": "b",
+          "text": "She doesn't have any money."
+        },
+        {
+          "id": "c",
+          "text": "She not have any money."
+        },
+        {
+          "id": "d",
+          "text": "She doesn't has any money."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumsuz cümlede any kullanılır ve doesn’t’tan sonra fiil yalın kalır.",
+      "optionExplanations": {
+        "a": "Olumsuz cümlede some kullanılmaz.",
+        "c": "Not tek başına yardımcı fiil değildir.",
+        "d": "Doesn’t’tan sonra fiil yalın kalır."
+      },
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-some-any-38",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I need ___ advice.",
+      "answers": [
+        "some"
+      ],
+      "explanation": "Advice sayılamaz; some ile kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "an",
+          "explanation": "Advice sayılamaz; an almaz."
+        },
+        {
+          "answer": "any",
+          "explanation": "Any olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "some",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-39",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He doesn't drink ___ milk.",
+      "answers": [
+        "any"
+      ],
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "some",
+          "explanation": "Olumsuz cümlede some değil any kullanılır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-40",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Would you like ___ coffee?",
+      "answers": [
+        "some"
+      ],
+      "explanation": "Teklifte some kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "any",
+          "explanation": "Teklifte any kullanılmaz."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "offer"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-41",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He eats a ___ of bread.",
+      "hint": "parça",
+      "answers": [
+        "piece"
+      ],
+      "explanation": "Parça anlamında piece kullanılır: a piece of bread.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "glass",
+          "explanation": "Glass “bardak” demektir."
+        },
+        {
+          "answer": "cup",
+          "explanation": "Cup “fincan” demektir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-42",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Biraz çay ister misin?",
+      "answer": [
+        "Would",
+        "you",
+        "like",
+        "some",
+        "tea"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "any",
+        "a"
+      ],
+      "explanation": "Teklifte soru olsa bile some kullanılır.",
+      "tags": [
+        "some-any",
+        "offer"
+      ],
+      "errorTags": [
+        "question_form",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-43",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir bardak su alabilir miyim?",
+      "answer": [
+        "Can",
+        "I",
+        "have",
+        "a",
+        "glass",
+        "of",
+        "water"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "an",
+        "some"
+      ],
+      "explanation": "Sayılamayanı ölçü sözcüğüyle sayarsın: a glass of water.",
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-some-any-44",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç ekmek yok.",
+      "answer": [
+        "There",
+        "isn't",
+        "any",
+        "bread"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "aren't",
+        "some"
+      ],
+      "explanation": "Sayılamayan isimle olumsuz: there isn’t any.",
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "negation",
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-45",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There aren't some chairs.",
+      "errorSpan": "some",
+      "answers": [
+        "There aren't any chairs."
+      ],
+      "explanation": "Olumsuz cümlede any kullanılır.",
+      "tags": [
+        "some-any",
+        "any"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-46",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She drinks a milk every morning.",
+      "errorSpan": "a milk",
+      "answers": [
+        "She drinks milk every morning.",
+        "She drinks a glass of milk every morning."
+      ],
+      "explanation": "Milk sayılamaz; a almaz. Genel olarak artikelsiz ya da bir ölçüyle kullanılır.",
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-47",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The news are good.",
+      "errorSpan": "are",
+      "answers": [
+        "The news is good."
+      ],
+      "explanation": "News -s ile bitse de sayılamaz; is alır.",
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-some-any-48",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have some homeworks.",
+      "errorSpan": "homeworks",
+      "answers": [
+        "I have some homework."
+      ],
+      "explanation": "Homework sayılamaz; çoğul yapılmaz.",
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-49",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir bardak su alabilir miyim?",
+      "hint": "bardak: glass, su: water",
+      "answers": [
+        "Can I have a glass of water?"
+      ],
+      "targetStructure": "Ölçü sözcüğü: a glass of water",
+      "explanation": "Sayılamayanı ölçü sözcüğüyle sayarsın.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Can I have a water?",
+          "explanation": "Water sayılamaz; a glass of water denir."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "containers"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-some-any-50",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Biraz tavsiyeye ihtiyacım var.",
+      "hint": "tavsiye: advice (sayılamaz), ihtiyacı olmak: need",
+      "answers": [
+        "I need some advice."
+      ],
+      "targetStructure": "some + sayılamayan isim",
+      "explanation": "Advice sayılamaz; some ile kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I need an advice.",
+          "explanation": "Advice sayılamaz; an almaz."
+        },
+        {
+          "answer": "I need some advices.",
+          "explanation": "Advice’ın çoğulu yoktur."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "article_usage",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-51",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Mobilyalar yeni.",
+      "hint": "mobilya: furniture (sayılamaz)",
+      "answers": [
+        "The furniture is new."
+      ],
+      "targetStructure": "Sayılamayan isim + is",
+      "explanation": "Furniture sayılamaz; is alır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The furniture are new.",
+          "explanation": "Furniture sayılamaz; is gerekir."
+        },
+        {
+          "answer": "The furnitures are new.",
+          "explanation": "Furniture’ın çoğulu yoktur."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-some-any-52",
+      "lessonId": "a1-countable-some-any",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç ekmek yok.",
+      "hint": "ekmek: bread. “any” kullan.",
+      "answers": [
+        "There isn't any bread.",
+        "There is not any bread."
+      ],
+      "targetStructure": "there isn’t any + sayılamayan isim",
+      "explanation": "Sayılamayan isimle olumsuz: there isn’t any.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There aren't any bread.",
+          "explanation": "Bread sayılamaz; isn’t gerekir."
+        },
+        {
+          "answer": "There isn't some bread.",
+          "explanation": "Olumsuzda some değil any kullanılır."
+        }
+      ],
+      "tags": [
+        "some-any",
+        "any",
+        "uncountable"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-some-any",
+    "title": "Some & Any: Konu sonu sınavı",
+    "description": "Sayılabilen ve sayılamayan isimler, some / any ve ölçü sözcükleri konularını kapsar.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-some-any-exam-01",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi sayılamayan bir isimdir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "rice"
+          },
+          {
+            "id": "b",
+            "text": "apple"
+          },
+          {
+            "id": "c",
+            "text": "egg"
+          },
+          {
+            "id": "d",
+            "text": "pen"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Rice sayılamaz; tek tek sayamazsın.",
+        "optionExplanations": {
+          "b": "Apple sayılabilir.",
+          "c": "Egg sayılabilir.",
+          "d": "Pen sayılabilir."
+        },
+        "tags": [
+          "some-any",
+          "countable"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-02",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "She has ___ books.",
+        "answers": [
+          "some"
+        ],
+        "explanation": "Olumlu cümlede çoğul isimle some kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "any",
+            "explanation": "Olumlu cümlede any kullanılmaz."
+          },
+          {
+            "answer": "a",
+            "explanation": "A yalnızca tekil isimle kullanılır."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "some"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-03",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Üç kitabım var.",
+        "answer": [
+          "I",
+          "have",
+          "three",
+          "books"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "some",
+          "any"
+        ],
+        "explanation": "Sayıdan sonra isim çoğul olur.",
+        "tags": [
+          "some-any",
+          "countable"
+        ],
+        "errorTags": [
+          "plural_form",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-04",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I have a rice.",
+        "errorSpan": "a rice",
+        "answers": [
+          "I have some rice.",
+          "I have a bowl of rice."
+        ],
+        "explanation": "Rice sayılamaz; a almaz. Some rice ya da a bowl of rice denir.",
+        "tags": [
+          "some-any",
+          "uncountable"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-05",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Biraz çay istiyorum.",
+        "hint": "çay: tea",
+        "answers": [
+          "I want some tea."
+        ],
+        "targetStructure": "some + sayılamayan isim",
+        "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I want a tea.",
+            "explanation": "Tea sayılamaz; a almaz."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "some"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-06",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "We need ___ milk.",
+        "options": [
+          {
+            "id": "a",
+            "text": "some"
+          },
+          {
+            "id": "b",
+            "text": "any"
+          },
+          {
+            "id": "c",
+            "text": "a"
+          },
+          {
+            "id": "d",
+            "text": "an"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumlu cümlede sayılamayan isimle some kullanılır.",
+        "optionExplanations": {
+          "b": "Any olumlu cümlede kullanılmaz.",
+          "c": "Milk sayılamaz; a almaz.",
+          "d": "Milk sayılamaz; an almaz."
+        },
+        "tags": [
+          "some-any",
+          "some"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-07",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I don't have ___ sugar.",
+        "answers": [
+          "any"
+        ],
+        "explanation": "Olumsuz cümlede any kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "some",
+            "explanation": "Olumsuz cümlede some değil any kullanılır."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "any"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-08",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hiç sütümüz yok.",
+        "answer": [
+          "We",
+          "don't",
+          "have",
+          "any",
+          "milk"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "some",
+          "doesn't"
+        ],
+        "explanation": "Olumsuz cümlede any kullanılır.",
+        "tags": [
+          "some-any",
+          "any"
+        ],
+        "errorTags": [
+          "negation",
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-09",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She gave me an advice.",
+        "errorSpan": "an advice",
+        "answers": [
+          "She gave me some advice.",
+          "She gave me a piece of advice."
+        ],
+        "explanation": "Advice sayılamaz; a / an almaz.",
+        "tags": [
+          "some-any",
+          "uncountable"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-10",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hiç süt var mı?",
+        "hint": "süt: milk",
+        "answers": [
+          "Is there any milk?"
+        ],
+        "targetStructure": "Soru: Is there any …?",
+        "explanation": "Sayılamayan isimle soruda is there any kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Are there any milk?",
+            "explanation": "Milk sayılamaz; is gerekir."
+          },
+          {
+            "answer": "Is there some milk?",
+            "explanation": "Soruda genellikle any kullanılır."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "any",
+          "question"
+        ],
+        "errorTags": [
+          "question_form",
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-11",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangi cümle doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I don't have any apples."
+          },
+          {
+            "id": "b",
+            "text": "I don't have some apples."
+          },
+          {
+            "id": "c",
+            "text": "I not have any apples."
+          },
+          {
+            "id": "d",
+            "text": "I don't has any apples."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumsuz cümlede any kullanılır.",
+        "optionExplanations": {
+          "b": "Olumsuz cümlede some kullanılmaz.",
+          "c": "Not tek başına yardımcı fiil değildir.",
+          "d": "Don’t’tan sonra fiil yalın kalır."
+        },
+        "tags": [
+          "some-any",
+          "any"
+        ],
+        "errorTags": [
+          "article_usage",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-12",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Is there ___ rice?",
+        "answers": [
+          "any"
+        ],
+        "explanation": "Soruda genellikle any kullanılır.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "some",
+            "explanation": "Soruda genellikle any kullanılır."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "any",
+          "question"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-13",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The money are on the table.",
+        "errorSpan": "are",
+        "answers": [
+          "The money is on the table."
+        ],
+        "explanation": "Money sayılamaz; is alır.",
+        "tags": [
+          "some-any",
+          "uncountable"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-14",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Would you like ___ juice?",
+        "options": [
+          {
+            "id": "a",
+            "text": "some"
+          },
+          {
+            "id": "b",
+            "text": "any"
+          },
+          {
+            "id": "c",
+            "text": "a"
+          },
+          {
+            "id": "d",
+            "text": "an"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Teklif ederken some kullanılır.",
+        "optionExplanations": {
+          "b": "Teklifte any kullanılmaz.",
+          "c": "Juice sayılamaz; a almaz.",
+          "d": "Juice sayılamaz; an almaz."
+        },
+        "tags": [
+          "some-any",
+          "offer"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-15",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I want a ___ of milk.",
+        "hint": "şişe",
+        "answers": [
+          "bottle"
+        ],
+        "explanation": "Şişe anlamında bottle kullanılır: a bottle of milk.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "glass",
+            "explanation": "Glass “bardak” demektir; burada şişe isteniyor."
+          },
+          {
+            "answer": "piece",
+            "explanation": "Piece “parça” demektir."
+          }
+        ],
+        "tags": [
+          "some-any",
+          "containers"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-some-any-exam-16",
+        "lessonId": "a1-countable-some-any",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Biraz su alabilir miyim?",
+        "answer": [
+          "Can",
+          "I",
+          "have",
+          "some",
+          "water"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "any",
+          "a"
+        ],
+        "explanation": "Rica ederken some kullanılır.",
+        "tags": [
+          "some-any",
+          "offer"
+        ],
+        "errorTags": [
+          "article_usage",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
