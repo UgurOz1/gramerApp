@@ -1,0 +1,2378 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-wh-questions",
+  "levelId": "a1",
+  "title": "Wh- Questions",
+  "objectives": [
+    "what, where, when, who, why, how, which, whose sorularını kurmak",
+    "Be fiilli ve do / does'lu soruları ayırt etmek",
+    "Who / what özne olduğunda do / does kullanmamak",
+    "How old, how much, how many, how often kalıplarını kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Wh- soruları nedir?",
+      "paragraphs": [
+        "Wh- soruları “evet / hayır” ile cevaplanamayan, bilgi isteyen sorulardır: ne, nerede, ne zaman, kim, neden, nasıl. Çoğu wh sözcüğünün başında wh vardır (how hariç); bu yüzden wh- soruları denir.",
+        "Türkçede soru sözcüğü çoğunlukla cümlenin ortasında, olduğu yerde durur. İngilizcede soru sözcüğü hep cümlenin başına gelir ve ardından yardımcı fiil gelir."
+      ]
+    },
+    {
+      "id": "words",
+      "type": "forms",
+      "title": "Soru sözcükleri",
+      "forms": [
+        {
+          "label": "What",
+          "formula": "ne",
+          "exampleIds": [
+            "ex-wh-questions-01",
+            "ex-wh-questions-02",
+            "ex-wh-questions-19"
+          ]
+        },
+        {
+          "label": "Where",
+          "formula": "nerede / nereye",
+          "exampleIds": [
+            "ex-wh-questions-03",
+            "ex-wh-questions-04"
+          ]
+        },
+        {
+          "label": "When",
+          "formula": "ne zaman",
+          "exampleIds": [
+            "ex-wh-questions-05",
+            "ex-wh-questions-06"
+          ]
+        },
+        {
+          "label": "Who",
+          "formula": "kim",
+          "exampleIds": [
+            "ex-wh-questions-07",
+            "ex-wh-questions-08"
+          ]
+        },
+        {
+          "label": "Why",
+          "formula": "neden",
+          "exampleIds": [
+            "ex-wh-questions-09",
+            "ex-wh-questions-10"
+          ]
+        },
+        {
+          "label": "How",
+          "formula": "nasıl",
+          "exampleIds": [
+            "ex-wh-questions-11",
+            "ex-wh-questions-12"
+          ]
+        },
+        {
+          "label": "Which",
+          "formula": "hangi",
+          "exampleIds": [
+            "ex-wh-questions-13",
+            "ex-wh-questions-28"
+          ]
+        },
+        {
+          "label": "Whose",
+          "formula": "kimin",
+          "exampleIds": [
+            "ex-wh-questions-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "structure",
+      "type": "rule",
+      "title": "Soru yapısı",
+      "paragraphs": [
+        "Wh sözcüğü başa gelir. Be fiilli sorularda be fiili özneden önce gelir. Diğer fiillerde do / does yardımcı fiili kullanılır ve ana fiil yalın kalır."
+      ],
+      "formulas": [
+        {
+          "label": "Be fiili",
+          "pattern": "Wh + am / is / are + özne …?   →   Where is the station?",
+          "exampleIds": [
+            "ex-wh-questions-01",
+            "ex-wh-questions-03",
+            "ex-wh-questions-05",
+            "ex-wh-questions-09"
+          ]
+        },
+        {
+          "label": "Diğer fiiller",
+          "pattern": "Wh + do / does + özne + yalın fiil …?   →   Where do you live?",
+          "exampleIds": [
+            "ex-wh-questions-04",
+            "ex-wh-questions-06",
+            "ex-wh-questions-10",
+            "ex-wh-questions-20",
+            "ex-wh-questions-21"
+          ]
+        },
+        {
+          "label": "Continuous",
+          "pattern": "Wh + am / is / are + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-wh-questions-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "subject",
+      "type": "rule",
+      "title": "Who / What özne olduğunda",
+      "paragraphs": [
+        "Who ya da What cümlenin öznesiyse, do / does kullanılmaz. Sıradan olumlu cümle gibi kurulur; fiil üçüncü tekil kişi gibi -s alır."
+      ],
+      "formulas": [
+        {
+          "label": "Özne sorusu",
+          "pattern": "Who + fiil-s …?   →   Who lives here?",
+          "exampleIds": [
+            "ex-wh-questions-22",
+            "ex-wh-questions-23",
+            "ex-wh-questions-24"
+          ]
+        },
+        {
+          "label": "Nesne sorusu",
+          "pattern": "Who + do / does + özne + fiil …?   →   Who do you live with?",
+          "exampleIds": [
+            "ex-wh-questions-08",
+            "ex-wh-questions-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "how",
+      "type": "rule",
+      "title": "How ile kalıplar",
+      "paragraphs": [
+        "How, başka sözcüklerle birleşerek yaş, miktar, sıklık gibi bilgileri sorar."
+      ],
+      "formulas": [
+        {
+          "label": "How old",
+          "pattern": "How old + be …?",
+          "exampleIds": [
+            "ex-wh-questions-15"
+          ]
+        },
+        {
+          "label": "How much / many",
+          "pattern": "How much + sayılamayan isim / fiyat,  How many + çoğul isim",
+          "exampleIds": [
+            "ex-wh-questions-16",
+            "ex-wh-questions-17"
+          ]
+        },
+        {
+          "label": "How often",
+          "pattern": "How often + do / does + özne + fiil …?",
+          "exampleIds": [
+            "ex-wh-questions-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: be fiiliyle",
+      "exampleIds": [
+        "ex-wh-questions-01",
+        "ex-wh-questions-03",
+        "ex-wh-questions-05",
+        "ex-wh-questions-07",
+        "ex-wh-questions-09",
+        "ex-wh-questions-11",
+        "ex-wh-questions-14",
+        "ex-wh-questions-15",
+        "ex-wh-questions-16",
+        "ex-wh-questions-19",
+        "ex-wh-questions-25",
+        "ex-wh-questions-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: do / does ile",
+      "exampleIds": [
+        "ex-wh-questions-02",
+        "ex-wh-questions-04",
+        "ex-wh-questions-06",
+        "ex-wh-questions-08",
+        "ex-wh-questions-10",
+        "ex-wh-questions-12",
+        "ex-wh-questions-13",
+        "ex-wh-questions-17",
+        "ex-wh-questions-18",
+        "ex-wh-questions-20",
+        "ex-wh-questions-21",
+        "ex-wh-questions-27"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: özne soruları ve diğerleri",
+      "exampleIds": [
+        "ex-wh-questions-22",
+        "ex-wh-questions-23",
+        "ex-wh-questions-24",
+        "ex-wh-questions-26"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "Where you live?",
+          "right": "Where do you live?",
+          "explanation": "Do yardımcı fiili eksik."
+        },
+        {
+          "wrong": "What you want?",
+          "right": "What do you want?",
+          "explanation": "Wh sözcüğünden sonra do / does gelir."
+        },
+        {
+          "wrong": "Where does he lives?",
+          "right": "Where does he live?",
+          "explanation": "Does’tan sonra fiil yalın kalır."
+        },
+        {
+          "wrong": "Who does live here?",
+          "right": "Who lives here?",
+          "explanation": "Who özne olunca does kullanılmaz."
+        },
+        {
+          "wrong": "Why you are sad?",
+          "right": "Why are you sad?",
+          "explanation": "Be fiili özneden önce gelir."
+        },
+        {
+          "wrong": "How many money do you have?",
+          "right": "How much money do you have?",
+          "explanation": "Money sayılamaz; how much."
+        },
+        {
+          "wrong": "How much brothers do you have?",
+          "right": "How many brothers do you have?",
+          "explanation": "Çoğul sayılabilen isimle how many."
+        },
+        {
+          "wrong": "What is your name called?",
+          "right": "What is your name?",
+          "explanation": "Fazladan sözcük eklenmez."
+        },
+        {
+          "wrong": "Where you are from?",
+          "right": "Where are you from?",
+          "explanation": "Be fiili özneden önce gelir."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Be fiili soruları",
+          "body": "Be fiilinde do / does kullanılmaz: Where is he? ✓ Where does he is? ✗",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "Present Simple soruları",
+          "body": "Do / does yapısı Present Simple ile aynıdır.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Who ve Whose",
+          "body": "Who kimdir; whose kimindir. Whose + isim: Whose bag is this?",
+          "lessonId": "a1-possessives"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Wh sözcüğü her zaman cümlenin başına gelir.",
+        "Be fiilinde be özneden önce gelir; diğer fiillerde do / does kullanılır.",
+        "Do / does’tan sonra fiil yalın kalır: Where does he live?",
+        "Who / What özne olduğunda do / does yoktur: Who lives here?",
+        "Sayılamayan isimle how much, çoğul sayılabilen isimle how many."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-wh-questions-01",
+        "q-wh-questions-02",
+        "q-wh-questions-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-wh-questions-01",
+      "en": "What is your name?",
+      "tr": "Adın ne?",
+      "highlight": "What is",
+      "note": "What: ne"
+    },
+    {
+      "id": "ex-wh-questions-02",
+      "en": "What do you do?",
+      "tr": "Ne iş yaparsın?",
+      "highlight": "What do you do"
+    },
+    {
+      "id": "ex-wh-questions-03",
+      "en": "Where is the station?",
+      "tr": "Gar nerede?",
+      "highlight": "Where is",
+      "note": "Where: nerede"
+    },
+    {
+      "id": "ex-wh-questions-04",
+      "en": "Where do you live?",
+      "tr": "Nerede yaşıyorsun?",
+      "highlight": "Where do you live"
+    },
+    {
+      "id": "ex-wh-questions-05",
+      "en": "When is your birthday?",
+      "tr": "Doğum günün ne zaman?",
+      "highlight": "When is",
+      "note": "When: ne zaman"
+    },
+    {
+      "id": "ex-wh-questions-06",
+      "en": "When does the film start?",
+      "tr": "Film ne zaman başlıyor?",
+      "highlight": "When does"
+    },
+    {
+      "id": "ex-wh-questions-07",
+      "en": "Who is that man?",
+      "tr": "O adam kim?",
+      "highlight": "Who is",
+      "note": "Who: kim"
+    },
+    {
+      "id": "ex-wh-questions-08",
+      "en": "Who do you live with?",
+      "tr": "Kiminle yaşıyorsun?",
+      "highlight": "Who do you live with"
+    },
+    {
+      "id": "ex-wh-questions-09",
+      "en": "Why are you sad?",
+      "tr": "Neden üzgünsün?",
+      "highlight": "Why are",
+      "note": "Why: neden"
+    },
+    {
+      "id": "ex-wh-questions-10",
+      "en": "Why does he study English?",
+      "tr": "Neden İngilizce çalışıyor?",
+      "highlight": "Why does"
+    },
+    {
+      "id": "ex-wh-questions-11",
+      "en": "How are you?",
+      "tr": "Nasılsın?",
+      "highlight": "How are",
+      "note": "How: nasıl"
+    },
+    {
+      "id": "ex-wh-questions-12",
+      "en": "How do you go to work?",
+      "tr": "İşe nasıl gidersin?",
+      "highlight": "How do you go"
+    },
+    {
+      "id": "ex-wh-questions-13",
+      "en": "Which colour do you like?",
+      "tr": "Hangi rengi seversin?",
+      "highlight": "Which colour",
+      "note": "Which: hangi (sınırlı seçenek)"
+    },
+    {
+      "id": "ex-wh-questions-14",
+      "en": "Whose bag is this?",
+      "tr": "Bu kimin çantası?",
+      "highlight": "Whose bag",
+      "note": "Whose: kimin"
+    },
+    {
+      "id": "ex-wh-questions-15",
+      "en": "How old are you?",
+      "tr": "Kaç yaşındasın?",
+      "highlight": "How old"
+    },
+    {
+      "id": "ex-wh-questions-16",
+      "en": "How much is this shirt?",
+      "tr": "Bu gömlek ne kadar?",
+      "highlight": "How much",
+      "note": "How much: fiyat / sayılamayan miktar"
+    },
+    {
+      "id": "ex-wh-questions-17",
+      "en": "How many brothers do you have?",
+      "tr": "Kaç erkek kardeşin var?",
+      "highlight": "How many brothers",
+      "note": "How many + çoğul sayılabilen isim"
+    },
+    {
+      "id": "ex-wh-questions-18",
+      "en": "How often do you play tennis?",
+      "tr": "Ne sıklıkla tenis oynarsın?",
+      "highlight": "How often"
+    },
+    {
+      "id": "ex-wh-questions-19",
+      "en": "What time is it?",
+      "tr": "Saat kaç?",
+      "highlight": "What time"
+    },
+    {
+      "id": "ex-wh-questions-20",
+      "en": "What does she want?",
+      "tr": "O ne istiyor?",
+      "highlight": "What does she want"
+    },
+    {
+      "id": "ex-wh-questions-21",
+      "en": "Where does your sister work?",
+      "tr": "Kız kardeşin nerede çalışıyor?",
+      "highlight": "Where does"
+    },
+    {
+      "id": "ex-wh-questions-22",
+      "en": "Who lives here?",
+      "tr": "Burada kim yaşıyor?",
+      "highlight": "Who lives",
+      "note": "Who özne olunca does kullanılmaz; fiil -s alır."
+    },
+    {
+      "id": "ex-wh-questions-23",
+      "en": "Who knows the answer?",
+      "tr": "Cevabı kim biliyor?",
+      "highlight": "Who knows"
+    },
+    {
+      "id": "ex-wh-questions-24",
+      "en": "What happens here?",
+      "tr": "Burada ne oluyor?",
+      "highlight": "What happens"
+    },
+    {
+      "id": "ex-wh-questions-25",
+      "en": "Where are they from?",
+      "tr": "Nerelidirler?",
+      "highlight": "Where are they from"
+    },
+    {
+      "id": "ex-wh-questions-26",
+      "en": "What are you doing?",
+      "tr": "Ne yapıyorsun?",
+      "highlight": "What are you doing"
+    },
+    {
+      "id": "ex-wh-questions-27",
+      "en": "Why do you like cats?",
+      "tr": "Neden kedileri seviyorsun?",
+      "highlight": "Why do you"
+    },
+    {
+      "id": "ex-wh-questions-28",
+      "en": "Which book is yours?",
+      "tr": "Hangi kitap seninki?",
+      "highlight": "Which book"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-wh-questions-01",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Where you live?"
+        },
+        {
+          "id": "b",
+          "text": "Where do you live?"
+        },
+        {
+          "id": "c",
+          "text": "Where does you live?"
+        },
+        {
+          "id": "d",
+          "text": "Where you do live?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Wh sözcüğünden sonra do gelir.",
+      "optionExplanations": {
+        "a": "Do eksik.",
+        "c": "You ile do kullanılır.",
+        "d": "Sözcük sırası bozuk."
+      },
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-02",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Where ___ you from?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Be fiilli soruda be özneden önce gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Be fiiliyle do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-03",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Adın ne?",
+      "answer": [
+        "What",
+        "is",
+        "your",
+        "name"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "do"
+      ],
+      "explanation": "Wh + be + özne",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-04",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Where you live?",
+      "errorSpan": "Where you",
+      "answers": [
+        "Where do you live?"
+      ],
+      "explanation": "Do yardımcı fiili eksik.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-05",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Nerede yaşıyorsun?",
+      "hint": "yaşamak: live",
+      "answers": [
+        "Where do you live?"
+      ],
+      "targetStructure": "Where + do + özne + fiil",
+      "explanation": "Wh sözcüğünden sonra do gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where you live?",
+          "explanation": "Do eksik."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-06",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Ne zaman” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "What"
+        },
+        {
+          "id": "b",
+          "text": "When"
+        },
+        {
+          "id": "c",
+          "text": "Where"
+        },
+        {
+          "id": "d",
+          "text": "Why"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "When “ne zaman” demektir.",
+      "optionExplanations": {
+        "a": "What “ne”.",
+        "c": "Where “nerede”.",
+        "d": "Why “neden”."
+      },
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-07",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Neden” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who"
+        },
+        {
+          "id": "b",
+          "text": "How"
+        },
+        {
+          "id": "c",
+          "text": "Why"
+        },
+        {
+          "id": "d",
+          "text": "Which"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Why “neden” demektir.",
+      "optionExplanations": {
+        "a": "Who “kim”.",
+        "b": "How “nasıl”.",
+        "d": "Which “hangi”."
+      },
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-08",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Kim” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who"
+        },
+        {
+          "id": "b",
+          "text": "Whose"
+        },
+        {
+          "id": "c",
+          "text": "Where"
+        },
+        {
+          "id": "d",
+          "text": "When"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Who “kim” demektir.",
+      "optionExplanations": {
+        "b": "Whose “kimin”.",
+        "c": "Where “nerede”.",
+        "d": "When “ne zaman”."
+      },
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-09",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ is your birthday? (ne zaman)",
+      "answers": [
+        "When"
+      ],
+      "explanation": "When ne zaman demektir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where",
+          "explanation": "Where nerede demektir."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-10",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ is that man? (kim)",
+      "answers": [
+        "Who"
+      ],
+      "explanation": "Who kim demektir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What",
+          "explanation": "What “ne” demektir; kişi sorulduğunda who."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-11",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ bag is this? (kimin)",
+      "answers": [
+        "Whose"
+      ],
+      "explanation": "Whose kimin demektir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Who",
+          "explanation": "Who “kim”; sahiplik için whose."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-12",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ old are you?",
+      "answers": [
+        "How"
+      ],
+      "explanation": "Yaş sorusu: How old.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What",
+          "explanation": "Yaş için how old kullanılır."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-13",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ do you work?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Where"
+        },
+        {
+          "id": "b",
+          "text": "Who"
+        },
+        {
+          "id": "c",
+          "text": "Whose"
+        },
+        {
+          "id": "d",
+          "text": "Which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çalışılan yer sorulur: Where.",
+      "optionExplanations": {
+        "b": "Who kişi sorar.",
+        "c": "Whose sahiplik sorar.",
+        "d": "Which seçenek sorar."
+      },
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-14",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Why ___ sad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "you are"
+        },
+        {
+          "id": "b",
+          "text": "are you"
+        },
+        {
+          "id": "c",
+          "text": "do you"
+        },
+        {
+          "id": "d",
+          "text": "you do"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be fiili özneden önce gelir.",
+      "optionExplanations": {
+        "a": "Sözcük sırası bozuk.",
+        "c": "Be fiilinde do kullanılmaz.",
+        "d": "Sözcük sırası bozuk."
+      },
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-15",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Where does he lives?"
+        },
+        {
+          "id": "b",
+          "text": "Where does he live?"
+        },
+        {
+          "id": "c",
+          "text": "Where do he live?"
+        },
+        {
+          "id": "d",
+          "text": "Where he lives?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Does’tan sonra fiil yalın kalır.",
+      "optionExplanations": {
+        "a": "Does’tan sonra -s yok.",
+        "c": "He ile does kullanılır.",
+        "d": "Does eksik."
+      },
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-16",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who does live here?"
+        },
+        {
+          "id": "b",
+          "text": "Who lives here?"
+        },
+        {
+          "id": "c",
+          "text": "Who live here?"
+        },
+        {
+          "id": "d",
+          "text": "Who do lives here?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Who özne olunca does kullanılmaz; fiil -s alır.",
+      "optionExplanations": {
+        "a": "Özne sorusunda does kullanılmaz.",
+        "c": "Fiil -s almalı.",
+        "d": "Do ve -s birlikte kullanılmaz."
+      },
+      "tags": [
+        "wh-questions",
+        "subject"
+      ],
+      "errorTags": [
+        "auxiliary_verb",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-wh-questions-17",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How ___ brothers do you have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "old"
+        },
+        {
+          "id": "d",
+          "text": "often"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Çoğul sayılabilen isimle how many.",
+      "optionExplanations": {
+        "b": "Much sayılamayanla kullanılır.",
+        "c": "Old yaş sorar.",
+        "d": "Often sıklık sorar."
+      },
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-18",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "How ___ money do you have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "old"
+        },
+        {
+          "id": "d",
+          "text": "often"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Money sayılamaz; how much.",
+      "optionExplanations": {
+        "b": "Many çoğul sayılabilenle kullanılır.",
+        "c": "Old yaş sorar.",
+        "d": "Often sıklık sorar."
+      },
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-19",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ she work?",
+      "answers": [
+        "does"
+      ],
+      "explanation": "Üçüncü tekil kişi: does.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "She ile does kullanılır."
+        },
+        {
+          "answer": "is",
+          "explanation": "Be fiili burada kullanılmaz."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-20",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ the film start?",
+      "answers": [
+        "does"
+      ],
+      "explanation": "Film üçüncü tekil kişidir: does.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Film tekil; does gerekir."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-21",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Why ___ they happy?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "They ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Be fiilinde do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-22",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you want?",
+      "answers": [
+        "do"
+      ],
+      "explanation": "You ile do.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "does",
+          "explanation": "You ile do kullanılır."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-23",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ many books do you have?",
+      "answers": [
+        "How"
+      ],
+      "explanation": "How many kalıbı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What",
+          "explanation": "Miktar için how many."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-24",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ is it? (saat)",
+      "answers": [
+        "time"
+      ],
+      "explanation": "What time: saat kaç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hour",
+          "explanation": "Saat sormak için what time."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-wh-questions-25",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Who ___ here? (yaşıyor)",
+      "answers": [
+        "lives"
+      ],
+      "explanation": "Who özne: fiil -s alır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "live",
+          "explanation": "Who ile fiil -s almalı."
+        },
+        {
+          "answer": "does live",
+          "explanation": "Özne sorusunda does yok."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-wh-questions-26",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What you want?",
+      "errorSpan": "What you",
+      "answers": [
+        "What do you want?"
+      ],
+      "explanation": "Do eksik.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-27",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Where does he lives?",
+      "errorSpan": "lives",
+      "answers": [
+        "Where does he live?"
+      ],
+      "explanation": "Does’tan sonra fiil yalın kalır.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-28",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Why you are sad?",
+      "errorSpan": "you are",
+      "answers": [
+        "Why are you sad?"
+      ],
+      "explanation": "Be fiili özneden önce gelir.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-29",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Who does live here?",
+      "errorSpan": "does live",
+      "answers": [
+        "Who lives here?"
+      ],
+      "explanation": "Özne sorusunda does kullanılmaz.",
+      "tags": [
+        "wh-questions",
+        "subject"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-30",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "How much brothers do you have?",
+      "errorSpan": "How much",
+      "answers": [
+        "How many brothers do you have?"
+      ],
+      "explanation": "Çoğul sayılabilen isimle how many.",
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-31",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kız kardeşin nerede çalışıyor?",
+      "answer": [
+        "Where",
+        "does",
+        "your",
+        "sister",
+        "work"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "works"
+      ],
+      "explanation": "Wh + does + özne + yalın fiil",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-32",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Neden üzgünsün?",
+      "answer": [
+        "Why",
+        "are",
+        "you",
+        "sad"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "is"
+      ],
+      "explanation": "Wh + be + özne",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-33",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kaç yaşındasın?",
+      "answer": [
+        "How",
+        "old",
+        "are",
+        "you"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "many"
+      ],
+      "explanation": "How old + be + özne",
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-34",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Doğum günün ne zaman?",
+      "hint": "doğum günü: birthday",
+      "answers": [
+        "When is your birthday?"
+      ],
+      "targetStructure": "When + be",
+      "explanation": "Be fiilli soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When your birthday is?",
+          "explanation": "Be fiili özneden önce gelir."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-35",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu gömlek ne kadar?",
+      "hint": "gömlek: shirt, fiyat sorusu",
+      "answers": [
+        "How much is this shirt?"
+      ],
+      "targetStructure": "How much + is",
+      "explanation": "Fiyat sorulur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How many is this shirt?",
+          "explanation": "Fiyat için how much."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-36",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Burada kim yaşıyor?",
+      "hint": "yaşamak: live",
+      "answers": [
+        "Who lives here?"
+      ],
+      "targetStructure": "Who + fiil-s",
+      "explanation": "Özne sorusunda do / does yok.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Who does live here?",
+          "explanation": "Özne sorusunda does yok."
+        },
+        {
+          "answer": "Who live here?",
+          "explanation": "Fiil -s almalı."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "subject"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-37",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "How many money do you have?"
+        },
+        {
+          "id": "b",
+          "text": "How much money do you have?"
+        },
+        {
+          "id": "c",
+          "text": "How many moneys do you have?"
+        },
+        {
+          "id": "d",
+          "text": "How much moneys do you have?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Money sayılamaz; how much.",
+      "optionExplanations": {
+        "a": "Many ile çoğul isim kullanılır.",
+        "c": "Money çoğul yapılmaz.",
+        "d": "Money çoğul yapılmaz."
+      },
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-38",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Kiminle yaşıyorsun?” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who do you live with?"
+        },
+        {
+          "id": "b",
+          "text": "Who you live with?"
+        },
+        {
+          "id": "c",
+          "text": "Who does you live with?"
+        },
+        {
+          "id": "d",
+          "text": "Whose do you live with?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nesne sorusu: Who + do + özne + fiil + with.",
+      "optionExplanations": {
+        "b": "Do eksik.",
+        "c": "You ile do.",
+        "d": "Whose kimin demektir."
+      },
+      "tags": [
+        "wh-questions",
+        "subject"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-39",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Hangi rengi seversin?” hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "What colour you like?"
+        },
+        {
+          "id": "b",
+          "text": "Which colour do you like?"
+        },
+        {
+          "id": "c",
+          "text": "Which colour does you like?"
+        },
+        {
+          "id": "d",
+          "text": "Which colour like you?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Which + isim + do + özne + fiil.",
+      "optionExplanations": {
+        "a": "Do eksik.",
+        "c": "You ile do.",
+        "d": "Sözcük sırası bozuk."
+      },
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-40",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Where ___ they from?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Be fiilli soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Be fiilinde do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-41",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How ___ do you play tennis? (sıklık)",
+      "answers": [
+        "often"
+      ],
+      "explanation": "How often: sıklık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "How many sayı sorar."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-42",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "What ___ she want?",
+      "answers": [
+        "does"
+      ],
+      "explanation": "She ile does.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "She ile does."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-wh-questions-43",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Where you are from?",
+      "errorSpan": "you are",
+      "answers": [
+        "Where are you from?"
+      ],
+      "explanation": "Be fiili özneden önce gelir.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-wh-questions-44",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What does she wants?",
+      "errorSpan": "wants",
+      "answers": [
+        "What does she want?"
+      ],
+      "explanation": "Does’tan sonra fiil yalın kalır.",
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-45",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne yapıyorsun?",
+      "hint": "şu anda yapılan iş",
+      "answers": [
+        "What are you doing?"
+      ],
+      "targetStructure": "What + be + özne + fiil-ing",
+      "explanation": "Present Continuous sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What do you doing?",
+          "explanation": "Do ve -ing birlikte kullanılmaz."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "structure"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-46",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kaç erkek kardeşin var?",
+      "hint": "erkek kardeş: brother",
+      "answers": [
+        "How many brothers do you have?",
+        "How many brothers have you got?"
+      ],
+      "targetStructure": "How many + çoğul isim",
+      "explanation": "Sayılabilen isimle how many.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How much brothers do you have?",
+          "explanation": "Çoğul sayılabilen isimle how many."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "how"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-wh-questions-47",
+      "lessonId": "a1-wh-questions",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hangi kitap seninki?",
+      "hint": "hangi: which",
+      "answers": [
+        "Which book is yours?"
+      ],
+      "targetStructure": "Which + isim + be",
+      "explanation": "Which seçenek sorar.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What book is yours?",
+          "explanation": "Bu cümle de kullanılır, ama bu alıştırma which ister."
+        }
+      ],
+      "tags": [
+        "wh-questions",
+        "words"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-wh-questions",
+    "title": "Wh- Questions: Konu sonu sınavı",
+    "description": "Soru sözcükleri, soru yapısı ve how kalıpları.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-wh-questions-exam-01",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Where do you work?"
+          },
+          {
+            "id": "b",
+            "text": "Where you work?"
+          },
+          {
+            "id": "c",
+            "text": "Where does you work?"
+          },
+          {
+            "id": "d",
+            "text": "Where you do work?"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Wh + do + özne + fiil.",
+        "optionExplanations": {
+          "b": "Do eksik.",
+          "c": "You ile do.",
+          "d": "Sözcük sırası bozuk."
+        },
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-02",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "___ is the station? (nerede)",
+        "answers": [
+          "Where"
+        ],
+        "explanation": "Where nerede demektir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "When",
+            "explanation": "When ne zaman demektir."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "words"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-03",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nerelisin?",
+        "answer": [
+          "Where",
+          "are",
+          "you",
+          "from"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "is"
+        ],
+        "explanation": "Wh + be + özne",
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-04",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Why you are late?",
+        "errorSpan": "you are",
+        "answers": [
+          "Why are you late?"
+        ],
+        "explanation": "Be özneden önce gelir.",
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-05",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Nasılsın?",
+        "hint": "nasıl: how",
+        "answers": [
+          "How are you?"
+        ],
+        "targetStructure": "How + be + özne",
+        "explanation": "Be fiilli soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "How you are?",
+            "explanation": "Be özneden önce gelir."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-06",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "“Neden” İngilizcede hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Why"
+          },
+          {
+            "id": "b",
+            "text": "When"
+          },
+          {
+            "id": "c",
+            "text": "Where"
+          },
+          {
+            "id": "d",
+            "text": "Who"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Why neden demektir.",
+        "optionExplanations": {
+          "b": "When ne zaman.",
+          "c": "Where nerede.",
+          "d": "Who kim."
+        },
+        "tags": [
+          "wh-questions",
+          "words"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-07",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "When ___ the bus leave?",
+        "answers": [
+          "does"
+        ],
+        "explanation": "Otobüs tekil: does.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "do",
+            "explanation": "Otobüs tekil."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-08",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Burada kim yaşıyor?",
+        "answer": [
+          "Who",
+          "lives",
+          "here"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "does",
+          "live"
+        ],
+        "explanation": "Özne sorusunda do / does yok.",
+        "tags": [
+          "wh-questions",
+          "subject"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-09",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Where does he works?",
+        "errorSpan": "works",
+        "answers": [
+          "Where does he work?"
+        ],
+        "explanation": "Does’tan sonra fiil yalın.",
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-10",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu kimin çantası?",
+        "hint": "kimin: whose",
+        "answers": [
+          "Whose bag is this?"
+        ],
+        "targetStructure": "Whose + isim + be",
+        "explanation": "Sahiplik sorulur.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Who bag is this?",
+            "explanation": "Sahiplik için whose."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "words"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-11",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "How ___ apples do you want?",
+        "options": [
+          {
+            "id": "a",
+            "text": "many"
+          },
+          {
+            "id": "b",
+            "text": "much"
+          },
+          {
+            "id": "c",
+            "text": "old"
+          },
+          {
+            "id": "d",
+            "text": "often"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Çoğul sayılabilen isimle how many.",
+        "optionExplanations": {
+          "b": "Much sayılamayanla.",
+          "c": "Old yaş sorar.",
+          "d": "Often sıklık sorar."
+        },
+        "tags": [
+          "wh-questions",
+          "how"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-12",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "How ___ is this shirt? (fiyat)",
+        "answers": [
+          "much"
+        ],
+        "explanation": "Fiyat sorusu: how much.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "Fiyat için how much."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "how"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-13",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Who does know the answer?",
+        "errorSpan": "does know",
+        "answers": [
+          "Who knows the answer?"
+        ],
+        "explanation": "Özne sorusunda does yok.",
+        "tags": [
+          "wh-questions",
+          "subject"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-14",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "What time it is?"
+          },
+          {
+            "id": "b",
+            "text": "What time is it?"
+          },
+          {
+            "id": "c",
+            "text": "What time does it?"
+          },
+          {
+            "id": "d",
+            "text": "What is time it?"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "What time + be + özne.",
+        "optionExplanations": {
+          "a": "Be özneden önce.",
+          "c": "Be fiili gerekir.",
+          "d": "Sözcük sırası bozuk."
+        },
+        "tags": [
+          "wh-questions",
+          "words"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-15",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Why ___ he study English?",
+        "answers": [
+          "does"
+        ],
+        "explanation": "He ile does.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "do",
+            "explanation": "He ile does."
+          }
+        ],
+        "tags": [
+          "wh-questions",
+          "structure"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-wh-questions-exam-16",
+        "lessonId": "a1-wh-questions",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Saat kaç?",
+        "answer": [
+          "What",
+          "time",
+          "is",
+          "it"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "does",
+          "do"
+        ],
+        "explanation": "What time + be + özne",
+        "tags": [
+          "wh-questions",
+          "words"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
