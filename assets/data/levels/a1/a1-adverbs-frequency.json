@@ -1,0 +1,2306 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-adverbs-frequency",
+  "levelId": "a1",
+  "title": "Adverbs of Frequency",
+  "objectives": [
+    "always, usually, often, sometimes, rarely, never sözcüklerini kullanmak",
+    "Zarfı doğru yere koymak: ana fiilden önce, be fiilinden sonra",
+    "Never ile don’t / doesn’t kullanmamak",
+    "once / twice / three times a week ve How often kalıplarını kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Sıklık zarfları nedir?",
+      "paragraphs": [
+        "Sıklık zarfları bir şeyin ne sıklıkla yapıldığını anlatır: her zaman, genellikle, sık sık, bazen, nadiren, asla. Present Simple ile çok sık kullanılırlar.",
+        "En önemli nokta cümledeki yerleridir. Türkçede zarf çoğunlukla öznenin ardından gelir; İngilizcede ise yer kuralları vardır: ana fiilin önüne, be fiilinin arkasına konur."
+      ]
+    },
+    {
+      "id": "scale",
+      "type": "forms",
+      "title": "Sıklık ölçeği",
+      "paragraphs": [
+        "Yaklaşık yüzdelerle anlamları:"
+      ],
+      "forms": [
+        {
+          "label": "always",
+          "formula": "%100",
+          "exampleIds": [
+            "ex-adverbs-frequency-01",
+            "ex-adverbs-frequency-07"
+          ],
+          "note": "her zaman"
+        },
+        {
+          "label": "usually",
+          "formula": "%80",
+          "exampleIds": [
+            "ex-adverbs-frequency-02",
+            "ex-adverbs-frequency-09"
+          ],
+          "note": "genellikle"
+        },
+        {
+          "label": "often",
+          "formula": "%60-70",
+          "exampleIds": [
+            "ex-adverbs-frequency-03",
+            "ex-adverbs-frequency-12"
+          ],
+          "note": "sık sık"
+        },
+        {
+          "label": "sometimes",
+          "formula": "%40-50",
+          "exampleIds": [
+            "ex-adverbs-frequency-04",
+            "ex-adverbs-frequency-14"
+          ],
+          "note": "bazen"
+        },
+        {
+          "label": "rarely / hardly ever",
+          "formula": "%10",
+          "exampleIds": [
+            "ex-adverbs-frequency-05",
+            "ex-adverbs-frequency-29"
+          ],
+          "note": "nadiren / neredeyse hiç"
+        },
+        {
+          "label": "never",
+          "formula": "%0",
+          "exampleIds": [
+            "ex-adverbs-frequency-06",
+            "ex-adverbs-frequency-08"
+          ],
+          "note": "asla"
+        }
+      ]
+    },
+    {
+      "id": "position",
+      "type": "rule",
+      "title": "Zarfın yeri",
+      "paragraphs": [
+        "Ana fiillerle zarf fiilin önüne gelir. Be fiiliyle (am / is / are) zarf be fiilinin arkasına gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Ana fiil",
+          "pattern": "özne + zarf + fiil   →   I always eat breakfast.",
+          "exampleIds": [
+            "ex-adverbs-frequency-01",
+            "ex-adverbs-frequency-07",
+            "ex-adverbs-frequency-09"
+          ]
+        },
+        {
+          "label": "Be fiili",
+          "pattern": "özne + am / is / are + zarf   →   She is never late.",
+          "exampleIds": [
+            "ex-adverbs-frequency-10",
+            "ex-adverbs-frequency-11",
+            "ex-adverbs-frequency-13"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + don’t / doesn’t + zarf + fiil",
+          "exampleIds": [
+            "ex-adverbs-frequency-16",
+            "ex-adverbs-frequency-17"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Do / Does + özne + zarf + fiil?",
+          "exampleIds": [
+            "ex-adverbs-frequency-18",
+            "ex-adverbs-frequency-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "never",
+      "type": "rule",
+      "title": "Never zaten olumsuzdur",
+      "paragraphs": [
+        "Never kendi başına olumsuzluk taşır. Bu yüzden don’t / doesn’t ile birlikte kullanılmaz: I don’t never eat ✗. Doğrusu: I never eat meat.",
+        "Always ve never cümlenin başına gelmez, ama sometimes, usually ve often cümle başında da kullanılabilir: Sometimes I go to the park."
+      ],
+      "formulas": [
+        {
+          "label": "Cümle başı",
+          "pattern": "Sometimes / Usually / Often + özne + fiil",
+          "exampleIds": [
+            "ex-adverbs-frequency-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "type": "rule",
+      "title": "Zaman ifadeleri ve How often",
+      "paragraphs": [
+        "every day, once a week, twice a month gibi ifadeler genellikle cümlenin sonuna gelir. Üç ve üstü için times kullanılır: three times a week.",
+        "Sıklığı sormak için How often kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman ifadeleri",
+          "pattern": "every day / week / summer,  once a week,  twice a month,  three times a year",
+          "exampleIds": [
+            "ex-adverbs-frequency-21",
+            "ex-adverbs-frequency-22",
+            "ex-adverbs-frequency-23",
+            "ex-adverbs-frequency-24",
+            "ex-adverbs-frequency-25"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "How often + do / does + özne + fiil?",
+          "exampleIds": [
+            "ex-adverbs-frequency-26",
+            "ex-adverbs-frequency-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: ana fiille",
+      "exampleIds": [
+        "ex-adverbs-frequency-01",
+        "ex-adverbs-frequency-02",
+        "ex-adverbs-frequency-03",
+        "ex-adverbs-frequency-04",
+        "ex-adverbs-frequency-05",
+        "ex-adverbs-frequency-06",
+        "ex-adverbs-frequency-07",
+        "ex-adverbs-frequency-08",
+        "ex-adverbs-frequency-09",
+        "ex-adverbs-frequency-30"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: be fiiliyle",
+      "exampleIds": [
+        "ex-adverbs-frequency-10",
+        "ex-adverbs-frequency-11",
+        "ex-adverbs-frequency-12",
+        "ex-adverbs-frequency-13",
+        "ex-adverbs-frequency-14",
+        "ex-adverbs-frequency-15"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: olumsuz, soru ve zaman ifadeleri",
+      "exampleIds": [
+        "ex-adverbs-frequency-16",
+        "ex-adverbs-frequency-17",
+        "ex-adverbs-frequency-18",
+        "ex-adverbs-frequency-19",
+        "ex-adverbs-frequency-20",
+        "ex-adverbs-frequency-21",
+        "ex-adverbs-frequency-22",
+        "ex-adverbs-frequency-23",
+        "ex-adverbs-frequency-24",
+        "ex-adverbs-frequency-25",
+        "ex-adverbs-frequency-26",
+        "ex-adverbs-frequency-27",
+        "ex-adverbs-frequency-28",
+        "ex-adverbs-frequency-29"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I eat always breakfast.",
+          "right": "I always eat breakfast.",
+          "explanation": "Zarf ana fiilin önüne gelir."
+        },
+        {
+          "wrong": "She always is late.",
+          "right": "She is always late.",
+          "explanation": "Be fiilinde zarf be’den sonra gelir."
+        },
+        {
+          "wrong": "I don’t never drink coffee.",
+          "right": "I never drink coffee.",
+          "explanation": "Never zaten olumsuzdur."
+        },
+        {
+          "wrong": "He goes often to the gym.",
+          "right": "He often goes to the gym.",
+          "explanation": "Zarf fiilin önüne gelir."
+        },
+        {
+          "wrong": "She never doesn’t eat meat.",
+          "right": "She never eats meat.",
+          "explanation": "Çift olumsuzluk olmaz."
+        },
+        {
+          "wrong": "Always I drink tea.",
+          "right": "I always drink tea.",
+          "explanation": "Always cümle başına gelmez."
+        },
+        {
+          "wrong": "She usually is happy.",
+          "right": "She is usually happy.",
+          "explanation": "Be fiilinden sonra gelir."
+        },
+        {
+          "wrong": "I go to school two times a day every.",
+          "right": "I go to school every day.",
+          "explanation": "Every, zaman sözcüğünün önüne gelir: every day."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Simple",
+          "body": "Sıklık zarfları Present Simple ile birlikte kullanılır; fiil kuralları aynıdır.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Be fiili",
+          "body": "Be fiilinden sonra zarf gelir: She is never late.",
+          "lessonId": "a1-to-be"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Ana fiilden önce, be fiilinden sonra: I always eat. She is always late.",
+        "Never ile don’t / doesn’t kullanma.",
+        "Always ve never cümle başına gelmez.",
+        "Üç ve üstü için times: three times a week; bir ve iki için once / twice."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-adverbs-frequency-01",
+        "q-adverbs-frequency-02",
+        "q-adverbs-frequency-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-adverbs-frequency-01",
+      "en": "I always eat breakfast.",
+      "tr": "Her zaman kahvaltı yaparım.",
+      "highlight": "always eat",
+      "note": "always %100"
+    },
+    {
+      "id": "ex-adverbs-frequency-02",
+      "en": "She usually walks to work.",
+      "tr": "Genellikle işe yürüyerek gider.",
+      "highlight": "usually walks",
+      "note": "usually yaklaşık %80"
+    },
+    {
+      "id": "ex-adverbs-frequency-03",
+      "en": "We often visit our grandparents.",
+      "tr": "Büyükanne ve büyükbabamızı sık sık ziyaret ederiz.",
+      "highlight": "often visit"
+    },
+    {
+      "id": "ex-adverbs-frequency-04",
+      "en": "He sometimes plays football.",
+      "tr": "Bazen futbol oynar.",
+      "highlight": "sometimes plays"
+    },
+    {
+      "id": "ex-adverbs-frequency-05",
+      "en": "They rarely eat fast food.",
+      "tr": "Nadiren fast food yerler.",
+      "highlight": "rarely eat",
+      "note": "rarely: nadiren"
+    },
+    {
+      "id": "ex-adverbs-frequency-06",
+      "en": "I never drink coffee.",
+      "tr": "Asla kahve içmem.",
+      "highlight": "never drink",
+      "note": "never zaten olumsuzdur: don't never ✗"
+    },
+    {
+      "id": "ex-adverbs-frequency-07",
+      "en": "She always gets up early.",
+      "tr": "Her zaman erken kalkar.",
+      "highlight": "always gets"
+    },
+    {
+      "id": "ex-adverbs-frequency-08",
+      "en": "He never watches TV.",
+      "tr": "Asla televizyon izlemez.",
+      "highlight": "never watches"
+    },
+    {
+      "id": "ex-adverbs-frequency-09",
+      "en": "My brother usually cooks dinner.",
+      "tr": "Kardeşim genellikle akşam yemeği yapar.",
+      "highlight": "usually cooks"
+    },
+    {
+      "id": "ex-adverbs-frequency-10",
+      "en": "I am always tired on Monday.",
+      "tr": "Pazartesi günleri her zaman yorgunum.",
+      "highlight": "am always",
+      "note": "Be fiilinden sonra gelir."
+    },
+    {
+      "id": "ex-adverbs-frequency-11",
+      "en": "She is never late.",
+      "tr": "Asla geç kalmaz.",
+      "highlight": "is never"
+    },
+    {
+      "id": "ex-adverbs-frequency-12",
+      "en": "They are often at home.",
+      "tr": "Sık sık evdedirler.",
+      "highlight": "are often"
+    },
+    {
+      "id": "ex-adverbs-frequency-13",
+      "en": "He is usually happy.",
+      "tr": "Genellikle mutludur.",
+      "highlight": "is usually"
+    },
+    {
+      "id": "ex-adverbs-frequency-14",
+      "en": "We are sometimes busy.",
+      "tr": "Bazen meşgulüz.",
+      "highlight": "are sometimes"
+    },
+    {
+      "id": "ex-adverbs-frequency-15",
+      "en": "The shop is always open.",
+      "tr": "Dükkan her zaman açık.",
+      "highlight": "is always"
+    },
+    {
+      "id": "ex-adverbs-frequency-16",
+      "en": "I don't often go to the cinema.",
+      "tr": "Sinemaya sık gitmem.",
+      "highlight": "don't often go",
+      "note": "Olumsuzda often don't ile fiil arasında."
+    },
+    {
+      "id": "ex-adverbs-frequency-17",
+      "en": "She doesn't usually eat meat.",
+      "tr": "Genellikle et yemez.",
+      "highlight": "doesn't usually eat"
+    },
+    {
+      "id": "ex-adverbs-frequency-18",
+      "en": "Do you often play tennis?",
+      "tr": "Sık sık tenis oynar mısın?",
+      "highlight": "often play",
+      "note": "Soruda öznenin arkasında."
+    },
+    {
+      "id": "ex-adverbs-frequency-19",
+      "en": "Does he always wake up early?",
+      "tr": "O her zaman erken uyanır mı?",
+      "highlight": "always wake"
+    },
+    {
+      "id": "ex-adverbs-frequency-20",
+      "en": "Sometimes I go to the park.",
+      "tr": "Bazen parka giderim.",
+      "highlight": "Sometimes I",
+      "note": "Sometimes cümle başında da olabilir."
+    },
+    {
+      "id": "ex-adverbs-frequency-21",
+      "en": "I go to school every day.",
+      "tr": "Her gün okula giderim.",
+      "highlight": "every day"
+    },
+    {
+      "id": "ex-adverbs-frequency-22",
+      "en": "She visits her aunt once a week.",
+      "tr": "Haftada bir teyzesini ziyaret eder.",
+      "highlight": "once a week"
+    },
+    {
+      "id": "ex-adverbs-frequency-23",
+      "en": "We have English twice a week.",
+      "tr": "Haftada iki kez İngilizce dersimiz var.",
+      "highlight": "twice a week"
+    },
+    {
+      "id": "ex-adverbs-frequency-24",
+      "en": "He goes to the gym three times a month.",
+      "tr": "Ayda üç kez spor salonuna gider.",
+      "highlight": "three times a month"
+    },
+    {
+      "id": "ex-adverbs-frequency-25",
+      "en": "They travel every summer.",
+      "tr": "Her yaz seyahat ederler.",
+      "highlight": "every summer"
+    },
+    {
+      "id": "ex-adverbs-frequency-26",
+      "en": "How often do you read?",
+      "tr": "Ne sıklıkla okursun?",
+      "highlight": "How often",
+      "note": "Sıklık sorusu"
+    },
+    {
+      "id": "ex-adverbs-frequency-27",
+      "en": "How often does she call you?",
+      "tr": "Seni ne sıklıkla arar?",
+      "highlight": "How often does"
+    },
+    {
+      "id": "ex-adverbs-frequency-28",
+      "en": "I go swimming twice a week.",
+      "tr": "Haftada iki kez yüzmeye giderim.",
+      "highlight": "twice a week"
+    },
+    {
+      "id": "ex-adverbs-frequency-29",
+      "en": "She is hardly ever at home.",
+      "tr": "Neredeyse hiç evde değildir.",
+      "highlight": "hardly ever"
+    },
+    {
+      "id": "ex-adverbs-frequency-30",
+      "en": "I never eat meat.",
+      "tr": "Asla et yemem.",
+      "highlight": "never eat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-adverbs-frequency-01",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I always eat breakfast."
+        },
+        {
+          "id": "b",
+          "text": "I eat always breakfast."
+        },
+        {
+          "id": "c",
+          "text": "Always I eat breakfast."
+        },
+        {
+          "id": "d",
+          "text": "I eat breakfast always."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zarf ana fiilin önüne gelir.",
+      "optionExplanations": {
+        "b": "Zarf fiilin önüne gelir.",
+        "c": "Always cümle başına gelmez.",
+        "d": "Zarf fiilin önüne gelir."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-02",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She is ___ late. (asla)",
+      "answers": [
+        "never"
+      ],
+      "explanation": "Never, be fiilinden sonra gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "always",
+          "explanation": "Always “her zaman” demektir; anlam “asla” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "never"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-03",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Her zaman erken kalkarım.",
+      "answer": [
+        "I",
+        "always",
+        "get",
+        "up",
+        "early"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "gets",
+        "never"
+      ],
+      "explanation": "Zarf fiilin önüne gelir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-04",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I eat always breakfast.",
+      "errorSpan": "eat always",
+      "answers": [
+        "I always eat breakfast."
+      ],
+      "explanation": "Zarf ana fiilin önüne gelir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-05",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Her zaman kahvaltı yaparım.",
+      "hint": "kahvaltı yapmak: eat breakfast",
+      "answers": [
+        "I always eat breakfast.",
+        "I always have breakfast."
+      ],
+      "targetStructure": "özne + always + fiil",
+      "explanation": "Zarf fiilin önüne gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I eat always breakfast.",
+          "explanation": "Zarf fiilin önüne gelir."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-06",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Asla” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "always"
+        },
+        {
+          "id": "b",
+          "text": "never"
+        },
+        {
+          "id": "c",
+          "text": "often"
+        },
+        {
+          "id": "d",
+          "text": "usually"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Never “asla” demektir.",
+      "optionExplanations": {
+        "a": "Always “her zaman”.",
+        "c": "Often “sık sık”.",
+        "d": "Usually “genellikle”."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "scale"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-07",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Bazen” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "never"
+        },
+        {
+          "id": "b",
+          "text": "sometimes"
+        },
+        {
+          "id": "c",
+          "text": "always"
+        },
+        {
+          "id": "d",
+          "text": "rarely"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sometimes “bazen” demektir.",
+      "optionExplanations": {
+        "a": "Never “asla”.",
+        "c": "Always “her zaman”.",
+        "d": "Rarely “nadiren”."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "scale"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-08",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“Genellikle” İngilizcede hangisidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "usually"
+        },
+        {
+          "id": "b",
+          "text": "never"
+        },
+        {
+          "id": "c",
+          "text": "rarely"
+        },
+        {
+          "id": "d",
+          "text": "twice"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Usually “genellikle” demektir.",
+      "optionExplanations": {
+        "b": "Never “asla”.",
+        "c": "Rarely “nadiren”.",
+        "d": "Twice “iki kez”."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "scale"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-09",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is ___ happy. (genellikle)",
+      "answers": [
+        "usually"
+      ],
+      "explanation": "Be fiilinden sonra gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "never",
+          "explanation": "Anlam “genellikle” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-10",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ eat fast food. (nadiren)",
+      "answers": [
+        "rarely"
+      ],
+      "explanation": "Rarely “nadiren” demektir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "never",
+          "explanation": "Never “asla” demektir."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "scale"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-11",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ late.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is never"
+        },
+        {
+          "id": "b",
+          "text": "never is"
+        },
+        {
+          "id": "c",
+          "text": "does never"
+        },
+        {
+          "id": "d",
+          "text": "never"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be fiilinden sonra zarf gelir.",
+      "optionExplanations": {
+        "b": "Zarf be’den sonra gelir.",
+        "c": "Be fiilinde does kullanılmaz.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-12",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My brother ___ cooks dinner. (genellikle)",
+      "answers": [
+        "usually"
+      ],
+      "explanation": "Zarf ana fiilin önüne gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "always",
+          "explanation": "Anlam “genellikle” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-13",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She always is tired."
+        },
+        {
+          "id": "b",
+          "text": "She is always tired."
+        },
+        {
+          "id": "c",
+          "text": "She is tired always."
+        },
+        {
+          "id": "d",
+          "text": "Always she is tired."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Be fiilinden sonra zarf gelir.",
+      "optionExplanations": {
+        "a": "Zarf be’den sonra gelir.",
+        "c": "Zarf be’den sonra gelir.",
+        "d": "Always cümle başına gelmez."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-14",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't never drink coffee."
+        },
+        {
+          "id": "b",
+          "text": "I never drink coffee."
+        },
+        {
+          "id": "c",
+          "text": "I drink never coffee."
+        },
+        {
+          "id": "d",
+          "text": "I never don't drink coffee."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Never zaten olumsuzdur.",
+      "optionExplanations": {
+        "a": "Çift olumsuzluk.",
+        "c": "Zarf fiilin önüne gelir.",
+        "d": "Çift olumsuzluk."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "never"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-15",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He goes often to the gym."
+        },
+        {
+          "id": "b",
+          "text": "He often goes to the gym."
+        },
+        {
+          "id": "c",
+          "text": "He goes to often the gym."
+        },
+        {
+          "id": "d",
+          "text": "Often he goes the gym."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Zarf fiilin önüne gelir.",
+      "optionExplanations": {
+        "a": "Zarf fiilin önüne gelir.",
+        "c": "Zarf araya girmez.",
+        "d": "To eksik."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-16",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I go swimming ___ a week. (iki kez)",
+      "answers": [
+        "twice"
+      ],
+      "explanation": "İki kez: twice.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "two",
+          "explanation": "“Two times” denir; “two a week” olmaz."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-17",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She visits her aunt ___ a week. (bir kez)",
+      "answers": [
+        "once"
+      ],
+      "explanation": "Bir kez: once.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "one",
+          "explanation": "“One time” denir; “one a week” olmaz."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-18",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He goes to the gym three ___ a week.",
+      "answers": [
+        "times"
+      ],
+      "explanation": "Üç ve üstü için times kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "time",
+          "explanation": "Üç kez: three times (çoğul)."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-19",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She hardly ___ eats meat. (neredeyse hiç)",
+      "answers": [
+        "ever"
+      ],
+      "explanation": "hardly ever = neredeyse hiç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "never",
+          "explanation": "Burada hardly ever kalıbı isteniyor."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "scale"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-20",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I don't ___ go to the cinema. (sık)",
+      "answers": [
+        "often"
+      ],
+      "explanation": "Olumsuzda don’t ile fiil arasında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "always",
+          "explanation": "Anlam “sık” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "negation"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-21",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ often do you read?",
+      "answers": [
+        "How"
+      ],
+      "explanation": "Sıklık sorusu: How often.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "What",
+          "explanation": "Sıklık için How often kullanılır."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-22",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She doesn't ___ eat meat. (genellikle)",
+      "answers": [
+        "usually"
+      ],
+      "explanation": "Don’t / doesn’t ile fiil arasında.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "always",
+          "explanation": "Anlam “genellikle” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "negation"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-23",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She doesn't never eat meat."
+        },
+        {
+          "id": "b",
+          "text": "She never eats meat."
+        },
+        {
+          "id": "c",
+          "text": "She never eat meat."
+        },
+        {
+          "id": "d",
+          "text": "She eats never meat."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Never ile doesn’t kullanılmaz; üçüncü tekil kişide -s alır.",
+      "optionExplanations": {
+        "a": "Çift olumsuzluk.",
+        "c": "Üçüncü tekil kişide -s gerekir.",
+        "d": "Zarf fiilin önüne gelir."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "never"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-24",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do you often play tennis?"
+        },
+        {
+          "id": "b",
+          "text": "Do you play often tennis?"
+        },
+        {
+          "id": "c",
+          "text": "Often do you play tennis?"
+        },
+        {
+          "id": "d",
+          "text": "Do often you play tennis?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda zarf öznenin arkasına gelir.",
+      "optionExplanations": {
+        "b": "Zarf fiilin önüne gelir.",
+        "c": "Soru yapısı bozuk.",
+        "d": "Zarf öznenin arkasına gelir."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-25",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She always is late.",
+      "errorSpan": "always is",
+      "answers": [
+        "She is always late."
+      ],
+      "explanation": "Be fiilinde zarf be’den sonra gelir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-26",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't never drink coffee.",
+      "errorSpan": "don't never",
+      "answers": [
+        "I never drink coffee.",
+        "I don't ever drink coffee."
+      ],
+      "explanation": "Çift olumsuzluk olmaz.",
+      "tags": [
+        "adverbs-frequency",
+        "never"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-27",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He goes often to the gym.",
+      "errorSpan": "goes often",
+      "answers": [
+        "He often goes to the gym."
+      ],
+      "explanation": "Zarf fiilin önüne gelir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-28",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Always I drink tea.",
+      "errorSpan": "Always I",
+      "answers": [
+        "I always drink tea."
+      ],
+      "explanation": "Always cümle başına gelmez.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-29",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Asla geç kalmaz.",
+      "answer": [
+        "She",
+        "is",
+        "never",
+        "late"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "always",
+        "does"
+      ],
+      "explanation": "Be fiilinden sonra zarf.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-30",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sık sık evdedirler.",
+      "answer": [
+        "They",
+        "are",
+        "often",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "never"
+      ],
+      "explanation": "Be fiilinden sonra zarf.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-31",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Sık sık tenis oynar mısın?",
+      "answer": [
+        "Do",
+        "you",
+        "often",
+        "play",
+        "tennis"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Does",
+        "plays"
+      ],
+      "explanation": "Soruda zarf öznenin arkasında.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "question_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-32",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Genellikle et yemez.",
+      "answer": [
+        "She",
+        "doesn't",
+        "usually",
+        "eat",
+        "meat"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "eats"
+      ],
+      "explanation": "doesn’t + zarf + fiil",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "negation",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-33",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Asla geç kalmaz.",
+      "hint": "geç: late",
+      "answers": [
+        "She is never late.",
+        "He is never late."
+      ],
+      "targetStructure": "be + never",
+      "explanation": "Be fiilinden sonra zarf gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She never is late.",
+          "explanation": "Zarf be’den sonra gelir."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-34",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Asla kahve içmem.",
+      "hint": "kahve: coffee",
+      "answers": [
+        "I never drink coffee."
+      ],
+      "targetStructure": "never + fiil",
+      "explanation": "Never zaten olumsuzdur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't never drink coffee.",
+          "explanation": "Çift olumsuzluk olmaz."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "never"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-35",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Haftada iki kez İngilizce dersimiz var.",
+      "hint": "ders: English class (have English)",
+      "answers": [
+        "We have English twice a week."
+      ],
+      "targetStructure": "twice a week",
+      "explanation": "İki kez: twice.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have English two times a week.",
+          "explanation": "Bu cümle de doğru ama bu alıştırma twice kalıbını ister."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-36",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "How often do you read? Doğru cevap hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I read every day."
+        },
+        {
+          "id": "b",
+          "text": "I read in the library."
+        },
+        {
+          "id": "c",
+          "text": "I read English books."
+        },
+        {
+          "id": "d",
+          "text": "I read at night."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "How often sıklık sorar; every day sıklık verir.",
+      "optionExplanations": {
+        "b": "Yer bildirir.",
+        "c": "Ne okuduğunu bildirir.",
+        "d": "Zaman verir ama sıklık değil."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-37",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He sometimes plays football."
+        },
+        {
+          "id": "b",
+          "text": "He plays sometimes football."
+        },
+        {
+          "id": "c",
+          "text": "He play sometimes football."
+        },
+        {
+          "id": "d",
+          "text": "Sometimes plays he football."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zarf fiilin önünde.",
+      "optionExplanations": {
+        "b": "Zarf fiilin önüne gelir.",
+        "c": "Üçüncü tekil kişide -s gerekir.",
+        "d": "Sözcük sırası bozuk."
+      },
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-38",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How ___ does she call you?",
+      "answers": [
+        "often"
+      ],
+      "explanation": "Sıklık sorusu: How often.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "many",
+          "explanation": "How many sayı sorar."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-39",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I am ___ tired on Monday. (her zaman)",
+      "answers": [
+        "always"
+      ],
+      "explanation": "Be fiilinden sonra gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "never",
+          "explanation": "Anlam “her zaman” olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-40",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "They travel ___ summer.",
+      "answers": [
+        "every"
+      ],
+      "explanation": "Every + zaman sözcüğü.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "all",
+          "explanation": "Every summer denir."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-41",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She usually is happy.",
+      "errorSpan": "usually is",
+      "answers": [
+        "She is usually happy."
+      ],
+      "explanation": "Be fiilinden sonra gelir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-42",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He goes to the gym three time a month.",
+      "errorSpan": "three time",
+      "answers": [
+        "He goes to the gym three times a month."
+      ],
+      "explanation": "Üç ve üstü için times kullanılır.",
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "plural_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-43",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bazen parka giderim.",
+      "hint": "park: park",
+      "answers": [
+        "I sometimes go to the park.",
+        "Sometimes I go to the park."
+      ],
+      "targetStructure": "sometimes",
+      "explanation": "Sometimes cümle başında ya da fiilden önce olabilir.",
+      "tags": [
+        "adverbs-frequency",
+        "position"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-44",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ne sıklıkla okursun?",
+      "hint": "okumak: read",
+      "answers": [
+        "How often do you read?"
+      ],
+      "targetStructure": "How often do you …?",
+      "explanation": "Sıklık sorusu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How many do you read?",
+          "explanation": "Sıklık için How often."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "phrases"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-adverbs-frequency-45",
+      "lessonId": "a1-adverbs-frequency",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sinemaya sık gitmem.",
+      "hint": "sinema: cinema",
+      "answers": [
+        "I don't often go to the cinema."
+      ],
+      "targetStructure": "don’t + often + fiil",
+      "explanation": "Olumsuzda zarf don’t ile fiil arasındadır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I often don't go to the cinema.",
+          "explanation": "Zarf don’t ile fiil arasında olmalı."
+        }
+      ],
+      "tags": [
+        "adverbs-frequency",
+        "negation"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-adverbs-frequency",
+    "title": "Adverbs of Frequency: Konu sonu sınavı",
+    "description": "Sıklık zarfları, yerleri ve zaman ifadeleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-adverbs-frequency-exam-01",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She always walks to work."
+          },
+          {
+            "id": "b",
+            "text": "She walks always to work."
+          },
+          {
+            "id": "c",
+            "text": "Always she walks to work."
+          },
+          {
+            "id": "d",
+            "text": "She walks to work always."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Zarf fiilin önüne gelir.",
+        "optionExplanations": {
+          "b": "Zarf fiilin önüne gelir.",
+          "c": "Always cümle başına gelmez.",
+          "d": "Zarf fiilin önüne gelir."
+        },
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-02",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "We are ___ busy. (bazen)",
+        "answers": [
+          "sometimes"
+        ],
+        "explanation": "Be fiilinden sonra.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "never",
+            "explanation": "Anlam “bazen”."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-03",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bazen futbol oynar.",
+        "answer": [
+          "He",
+          "sometimes",
+          "plays",
+          "football"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "play",
+          "always"
+        ],
+        "explanation": "Zarf fiilin önünde.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-04",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I eat never meat.",
+        "errorSpan": "eat never",
+        "answers": [
+          "I never eat meat."
+        ],
+        "explanation": "Zarf fiilin önüne gelir.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-05",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Genellikle işe yürüyerek gider.",
+        "hint": "yürüyerek gitmek: walk to",
+        "answers": [
+          "She usually walks to work."
+        ],
+        "targetStructure": "usually + fiil",
+        "explanation": "Zarf fiilin önünde, -s eklenir.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She walks usually to work.",
+            "explanation": "Zarf fiilin önüne gelir."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-06",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "“Nadiren” İngilizcede hangisidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "rarely"
+          },
+          {
+            "id": "b",
+            "text": "often"
+          },
+          {
+            "id": "c",
+            "text": "always"
+          },
+          {
+            "id": "d",
+            "text": "usually"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Rarely “nadiren” demektir.",
+        "optionExplanations": {
+          "b": "Often “sık sık”.",
+          "c": "Always “her zaman”.",
+          "d": "Usually “genellikle”."
+        },
+        "tags": [
+          "adverbs-frequency",
+          "scale"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-07",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I don't ___ drink tea. (hiç)",
+        "answers": [
+          "ever"
+        ],
+        "explanation": "don’t ever = hiç.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "never",
+            "explanation": "Don’t ile never kullanılmaz."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "never"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-08",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Pazartesi günleri her zaman yorgunum.",
+        "answer": [
+          "I",
+          "am",
+          "always",
+          "tired",
+          "on",
+          "Monday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "never"
+        ],
+        "explanation": "Be fiilinden sonra zarf.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-09",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They never are at home.",
+        "errorSpan": "never are",
+        "answers": [
+          "They are never at home."
+        ],
+        "explanation": "Be’den sonra gelir.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-10",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ne sıklıkla seni arar?",
+        "hint": "aramak: call",
+        "answers": [
+          "How often does she call you?"
+        ],
+        "targetStructure": "How often does …?",
+        "explanation": "Sıklık sorusu.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "How often do she call you?",
+            "explanation": "Üçüncü tekil kişide does gerekir."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "phrases"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-11",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I never drink coffee."
+          },
+          {
+            "id": "b",
+            "text": "I don't never drink coffee."
+          },
+          {
+            "id": "c",
+            "text": "I drink never coffee."
+          },
+          {
+            "id": "d",
+            "text": "Never I drink coffee."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Never zaten olumsuzdur.",
+        "optionExplanations": {
+          "b": "Çift olumsuzluk.",
+          "c": "Zarf fiilin önüne gelir.",
+          "d": "Never cümle başına gelmez."
+        },
+        "tags": [
+          "adverbs-frequency",
+          "never"
+        ],
+        "errorTags": [
+          "negation",
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-12",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He goes to the gym three ___ a month.",
+        "answers": [
+          "times"
+        ],
+        "explanation": "Üç ve üstü: times.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "time",
+            "explanation": "Çoğul gerekir."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "phrases"
+        ],
+        "errorTags": [
+          "plural_form"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-13",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She plays usually tennis.",
+        "errorSpan": "plays usually",
+        "answers": [
+          "She usually plays tennis."
+        ],
+        "explanation": "Zarf fiilin önüne gelir.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-14",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "We have English ___ a week. (iki kez)",
+        "options": [
+          {
+            "id": "a",
+            "text": "twice"
+          },
+          {
+            "id": "b",
+            "text": "two"
+          },
+          {
+            "id": "c",
+            "text": "second"
+          },
+          {
+            "id": "d",
+            "text": "double"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "İki kez: twice.",
+        "optionExplanations": {
+          "b": "Two times denir.",
+          "c": "Second sıra sayısıdır.",
+          "d": "Double bu anlamda kullanılmaz."
+        },
+        "tags": [
+          "adverbs-frequency",
+          "phrases"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-15",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "How ___ do you play tennis?",
+        "answers": [
+          "often"
+        ],
+        "explanation": "Sıklık sorusu.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "many",
+            "explanation": "How many sayı sorar."
+          }
+        ],
+        "tags": [
+          "adverbs-frequency",
+          "phrases"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-adverbs-frequency-exam-16",
+        "lessonId": "a1-adverbs-frequency",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "O her zaman erken uyanır mı?",
+        "answer": [
+          "Does",
+          "he",
+          "always",
+          "wake",
+          "up",
+          "early"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Do",
+          "wakes"
+        ],
+        "explanation": "Soruda zarf öznenin arkasında.",
+        "tags": [
+          "adverbs-frequency",
+          "position"
+        ],
+        "errorTags": [
+          "question_form",
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
