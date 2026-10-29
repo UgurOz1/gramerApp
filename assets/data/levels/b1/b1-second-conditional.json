@@ -1,0 +1,2325 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-second-conditional",
+  "levelId": "b1",
+  "title": "Second Conditional",
+  "objectives": [
+    "Hayalî ve düşük olasılıklı durumları If + Past Simple, would + fiil ile anlatmak",
+    "If I were you kalıbıyla tavsiye vermek",
+    "Would yerine could ve might kullanabilmek",
+    "First ve Second Conditional farkını ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Second Conditional nedir?",
+      "paragraphs": [
+        "Second Conditional, hayalî ya da şu an gerçek olmayan durumları, düşük olasılıklı koşulları ve onların hayalî sonuçlarını anlatır: “Bir milyon dolarım olsaydı ev alırdım.” Gerçekte parası yoktur; durum hayaldir.",
+        "Yapı: If + Past Simple, would + yalın fiil. If cümlesinde Past Simple kullanılsa da anlam geçmiş değil, şimdiki ya da gelecektir. Türkçedeki “-seydi / -saydı … -erdi / -ardı” yapısına karşılık gelir."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "If cümlesi Past Simple, ana cümle would + yalın fiil ile kurulur. Be fiilinde tüm özneler için were kullanılır (If I were …, If he were …). If cümlesi başta ise virgül konur, sonda ise konmaz."
+      ],
+      "formulas": [
+        {
+          "label": "If başta",
+          "pattern": "If + Past Simple, + would + yalın fiil",
+          "exampleIds": [
+            "ex-second-cond-01",
+            "ex-second-cond-02",
+            "ex-second-cond-03",
+            "ex-second-cond-07",
+            "ex-second-cond-08"
+          ]
+        },
+        {
+          "label": "Be fiili: were",
+          "pattern": "If I / he / she / it + were …",
+          "exampleIds": [
+            "ex-second-cond-04",
+            "ex-second-cond-05",
+            "ex-second-cond-06"
+          ]
+        },
+        {
+          "label": "If sonda",
+          "pattern": "would + fiil + if + Past Simple",
+          "exampleIds": [
+            "ex-second-cond-11",
+            "ex-second-cond-12",
+            "ex-second-cond-28"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "If + didn’t + fiil, … / … wouldn’t + fiil",
+          "exampleIds": [
+            "ex-second-cond-09",
+            "ex-second-cond-10"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "What would you do if …?   Would you … if …?",
+          "exampleIds": [
+            "ex-second-cond-13",
+            "ex-second-cond-14",
+            "ex-second-cond-15"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I would.   No, I wouldn’t.",
+          "exampleIds": [
+            "ex-second-cond-16",
+            "ex-second-cond-17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "were",
+      "type": "rule",
+      "title": "If I were you",
+      "paragraphs": [
+        "If cümlesinde be fiili için tüm öznelerle were kullanılır. Günlük konuşmada was de duyulur ama were doğru ve daha yaygın kabul edilir. If I were you, tavsiye vermek için çok yaygın bir kalıptır."
+      ],
+      "formulas": [
+        {
+          "label": "Tavsiye",
+          "pattern": "If I were you, I would + fiil",
+          "exampleIds": [
+            "ex-second-cond-05",
+            "ex-second-cond-11"
+          ]
+        },
+        {
+          "label": "Hayalî durum",
+          "pattern": "If + özne + were + sıfat / isim",
+          "exampleIds": [
+            "ex-second-cond-04",
+            "ex-second-cond-06",
+            "ex-second-cond-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modals",
+      "type": "rule",
+      "title": "Would yerine could ve might",
+      "paragraphs": [
+        "Ana cümlede would yerine could (yapabilirdim) ve might (belki yapardım) de kullanılır. If cümlesinde could da gelebilir: If I could fly, …"
+      ],
+      "formulas": [
+        {
+          "label": "Could / might",
+          "pattern": "If + Past Simple, + could / might + fiil",
+          "exampleIds": [
+            "ex-second-cond-21",
+            "ex-second-cond-22"
+          ]
+        },
+        {
+          "label": "If … could",
+          "pattern": "If + özne + could + fiil, would …",
+          "exampleIds": [
+            "ex-second-cond-18",
+            "ex-second-cond-19",
+            "ex-second-cond-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "type": "forms",
+      "title": "First ve Second Conditional",
+      "forms": [
+        {
+          "label": "First: gerçekçi gelecek",
+          "formula": "If it rains, I will stay home.",
+          "exampleIds": [
+            "ex-second-cond-25"
+          ],
+          "note": "Olabilir; gerçekçi."
+        },
+        {
+          "label": "Second: hayalî ya da düşük olasılık",
+          "formula": "If it rained, I would stay home.",
+          "exampleIds": [
+            "ex-second-cond-26"
+          ],
+          "note": "Olması beklenmiyor ya da hayal."
+        },
+        {
+          "label": "Gerçek ve hayalî",
+          "formula": "I'm not rich, so I can't buy it. / If I were rich, I would buy it.",
+          "exampleIds": [
+            "ex-second-cond-23",
+            "ex-second-cond-24"
+          ],
+          "note": "Gerçek durum ile hayalî durum."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yapı",
+      "exampleIds": [
+        "ex-second-cond-01",
+        "ex-second-cond-02",
+        "ex-second-cond-03",
+        "ex-second-cond-04",
+        "ex-second-cond-05",
+        "ex-second-cond-06",
+        "ex-second-cond-07",
+        "ex-second-cond-08",
+        "ex-second-cond-09",
+        "ex-second-cond-10",
+        "ex-second-cond-11",
+        "ex-second-cond-12",
+        "ex-second-cond-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, modal ve karşılaştırma",
+      "exampleIds": [
+        "ex-second-cond-13",
+        "ex-second-cond-14",
+        "ex-second-cond-15",
+        "ex-second-cond-16",
+        "ex-second-cond-17",
+        "ex-second-cond-18",
+        "ex-second-cond-19",
+        "ex-second-cond-20",
+        "ex-second-cond-21",
+        "ex-second-cond-22",
+        "ex-second-cond-23",
+        "ex-second-cond-24",
+        "ex-second-cond-25",
+        "ex-second-cond-26",
+        "ex-second-cond-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "If I would have a million dollars, I would buy a house.",
+          "right": "If I had a million dollars, I would buy a house.",
+          "explanation": "If cümlesinde would olmaz."
+        },
+        {
+          "wrong": "If I have a million dollars, I would buy a house.",
+          "right": "If I had a million dollars, I would buy a house.",
+          "explanation": "Hayalî durum: Past Simple."
+        },
+        {
+          "wrong": "If I had a million dollars, I will buy a house.",
+          "right": "If I had a million dollars, I would buy a house.",
+          "explanation": "Ana cümle would."
+        },
+        {
+          "wrong": "If I was you, I would go.",
+          "right": "If I were you, I would go.",
+          "explanation": "Standart: were."
+        },
+        {
+          "wrong": "If she would know, she would tell you.",
+          "right": "If she knew, she would tell you.",
+          "explanation": "If'ten sonra would olmaz."
+        },
+        {
+          "wrong": "What would you do if you will win?",
+          "right": "What would you do if you won?",
+          "explanation": "If cümlesi Past Simple."
+        },
+        {
+          "wrong": "If I had more time, I would helped you.",
+          "right": "If I had more time, I would help you.",
+          "explanation": "Would'dan sonra yalın fiil."
+        },
+        {
+          "wrong": "If it rained I would stay.",
+          "right": "If it rained, I would stay.",
+          "explanation": "If başta ise virgül."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "First Conditional",
+          "body": "Gerçekçi gelecek koşulları için If + Present, will.",
+          "lessonId": "a2-first-conditional"
+        },
+        {
+          "topic": "First ve Second karşılaştırma",
+          "body": "Gerçek olasılık mı, hayal mi? Karşılaştırma dersinde ayrıntılı.",
+          "lessonId": "b1-first-vs-second-conditional"
+        },
+        {
+          "topic": "Third Conditional",
+          "body": "Geçmişte olmamış durumlar sonraki derste.",
+          "lessonId": "b1-third-conditional-intro"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "If + Past Simple, would + yalın fiil.",
+        "If cümlesinde would kullanma.",
+        "Be fiilinde were: If I were you.",
+        "Would yerine could ve might de olabilir.",
+        "Anlam geçmiş değil; hayalî şimdi ya da gelecek."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-second-cond-01",
+        "q-second-cond-02",
+        "q-second-cond-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-second-cond-01",
+      "en": "If I had a million dollars, I would buy a house.",
+      "tr": "Bir milyon dolarım olsaydı ev alırdım.",
+      "highlight": "If I had a million dollars, I would buy",
+      "note": "If + Past Simple, would + fiil"
+    },
+    {
+      "id": "ex-second-cond-02",
+      "en": "If she lived in Paris, she would speak French.",
+      "tr": "Paris'te yaşasaydı Fransızca konuşurdu.",
+      "highlight": "If she lived in Paris, she would speak"
+    },
+    {
+      "id": "ex-second-cond-03",
+      "en": "If we won the lottery, we would travel the world.",
+      "tr": "Piyangoyu kazansaydık dünyayı gezerdik.",
+      "highlight": "If we won the lottery, we would travel"
+    },
+    {
+      "id": "ex-second-cond-04",
+      "en": "If he were taller, he would play basketball.",
+      "tr": "Daha uzun olsaydı basketbol oynardı.",
+      "highlight": "If he were taller",
+      "note": "were: tüm özneler"
+    },
+    {
+      "id": "ex-second-cond-05",
+      "en": "If I were you, I would accept the job.",
+      "tr": "Senin yerinde olsam işi kabul ederdim.",
+      "highlight": "If I were you",
+      "note": "tavsiye kalıbı"
+    },
+    {
+      "id": "ex-second-cond-06",
+      "en": "If it were warmer, we would go swimming.",
+      "tr": "Hava daha sıcak olsaydı yüzmeye giderdik.",
+      "highlight": "If it were warmer"
+    },
+    {
+      "id": "ex-second-cond-07",
+      "en": "If I knew the answer, I would tell you.",
+      "tr": "Cevabı bilseydim sana söylerdim.",
+      "highlight": "If I knew the answer, I would tell"
+    },
+    {
+      "id": "ex-second-cond-08",
+      "en": "If they had more time, they would help us.",
+      "tr": "Daha çok zamanları olsaydı bize yardım ederlerdi.",
+      "highlight": "If they had more time, they would help"
+    },
+    {
+      "id": "ex-second-cond-09",
+      "en": "If I didn't have to work, I would stay at home.",
+      "tr": "Çalışmak zorunda olmasaydım evde kalırdım.",
+      "highlight": "If I didn't have to work, I would stay",
+      "note": "olumsuz if"
+    },
+    {
+      "id": "ex-second-cond-10",
+      "en": "If she didn't love him, she wouldn't marry him.",
+      "tr": "Onu sevmeseydi onunla evlenmezdi.",
+      "highlight": "If she didn't love him, she wouldn't marry",
+      "note": "wouldn't"
+    },
+    {
+      "id": "ex-second-cond-11",
+      "en": "I wouldn't go if I were you.",
+      "tr": "Senin yerinde olsam gitmezdim.",
+      "highlight": "I wouldn't go if I were you",
+      "note": "if sonda: virgül yok"
+    },
+    {
+      "id": "ex-second-cond-12",
+      "en": "She would buy a car if she had enough money.",
+      "tr": "Yeterli parası olsaydı araba alırdı.",
+      "highlight": "She would buy a car if she had enough money"
+    },
+    {
+      "id": "ex-second-cond-13",
+      "en": "What would you do if you won the lottery?",
+      "tr": "Piyangoyu kazansaydın ne yapardın?",
+      "highlight": "What would you do if you won the lottery?",
+      "note": "soru"
+    },
+    {
+      "id": "ex-second-cond-14",
+      "en": "Where would you live if you could choose?",
+      "tr": "Seçebilseydin nerede yaşardın?",
+      "highlight": "Where would you live if you could choose?"
+    },
+    {
+      "id": "ex-second-cond-15",
+      "en": "Would you help me if I asked you?",
+      "tr": "Sana sorsam bana yardım eder misin?",
+      "highlight": "Would you help me if I asked you?"
+    },
+    {
+      "id": "ex-second-cond-16",
+      "en": "Yes, I would.",
+      "tr": "Evet, ederdim.",
+      "highlight": "Yes, I would",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-second-cond-17",
+      "en": "No, I wouldn't.",
+      "tr": "Hayır, etmezdim.",
+      "highlight": "No, I wouldn't"
+    },
+    {
+      "id": "ex-second-cond-18",
+      "en": "If I could fly, I would visit every country.",
+      "tr": "Uçabilseydim her ülkeyi gezerdim.",
+      "highlight": "If I could fly, I would visit",
+      "note": "could: yeteneğin hayali"
+    },
+    {
+      "id": "ex-second-cond-19",
+      "en": "If you could change one thing, what would it be?",
+      "tr": "Bir şeyi değiştirebilseydin ne olurdu?",
+      "highlight": "If you could change one thing, what would it be?"
+    },
+    {
+      "id": "ex-second-cond-20",
+      "en": "If I might, I would ask a question.",
+      "tr": "İzin verilseydi bir soru sorardım.",
+      "highlight": "If I might",
+      "note": "resmî kullanım"
+    },
+    {
+      "id": "ex-second-cond-21",
+      "en": "If I were rich, I might buy an island.",
+      "tr": "Zengin olsaydım belki bir ada alırdım.",
+      "highlight": "I might buy",
+      "note": "might / could: olasılık"
+    },
+    {
+      "id": "ex-second-cond-22",
+      "en": "If I had a car, I could drive to work.",
+      "tr": "Arabam olsaydı işe araba ile gidebilirdim.",
+      "highlight": "I could drive",
+      "note": "could: yapabilirdim"
+    },
+    {
+      "id": "ex-second-cond-23",
+      "en": "I'm not rich, so I can't buy it.",
+      "tr": "Zengin değilim, bu yüzden alamam.",
+      "highlight": "I'm not rich",
+      "note": "gerçek durum"
+    },
+    {
+      "id": "ex-second-cond-24",
+      "en": "If I were rich, I would buy it.",
+      "tr": "Zengin olsaydım alırdım.",
+      "highlight": "If I were rich, I would buy it",
+      "note": "hayalî durum"
+    },
+    {
+      "id": "ex-second-cond-25",
+      "en": "If it rains, I will stay home.",
+      "tr": "Yağmur yağarsa evde kalacağım.",
+      "highlight": "If it rains, I will stay",
+      "note": "First Conditional: gerçekçi"
+    },
+    {
+      "id": "ex-second-cond-26",
+      "en": "If it rained, I would stay home.",
+      "tr": "Yağmur yağsaydı evde kalırdım.",
+      "highlight": "If it rained, I would stay",
+      "note": "Second: düşük olasılık"
+    },
+    {
+      "id": "ex-second-cond-27",
+      "en": "Suppose you won a prize. What would you do?",
+      "tr": "Diyelim bir ödül kazandın. Ne yapardın?",
+      "highlight": "Suppose you won a prize",
+      "note": "suppose / imagine"
+    },
+    {
+      "id": "ex-second-cond-28",
+      "en": "I would be happy if she came.",
+      "tr": "Gelse mutlu olurdum.",
+      "highlight": "I would be happy if she came"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-second-cond-01",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If I ___ a million dollars, I would buy a house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "would have"
+        },
+        {
+          "id": "d",
+          "text": "will have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Past Simple.",
+      "optionExplanations": {
+        "b": "Hayalî durum: Past Simple.",
+        "c": "If'ten sonra would olmaz.",
+        "d": "If'ten sonra will olmaz."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-02",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I had a million dollars, I ___ buy a house.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "would + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Hayalî durumda would."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-03",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir milyon dolarım olsaydı ev alırdım.",
+      "answer": [
+        "If",
+        "I",
+        "had",
+        "a",
+        "million",
+        "dollars",
+        "I",
+        "would",
+        "buy",
+        "a",
+        "house"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "have"
+      ],
+      "explanation": "If + Past, would",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-second-cond-04",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I have a million dollars, I would buy a house.",
+      "errorSpan": "have",
+      "answers": [
+        "If I had a million dollars, I would buy a house."
+      ],
+      "explanation": "Hayalî: Past Simple.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-05",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir milyon dolarım olsaydı ev alırdım.",
+      "hint": "ev: house, milyon: million",
+      "answers": [
+        "If I had a million dollars, I would buy a house.",
+        "I would buy a house if I had a million dollars."
+      ],
+      "targetStructure": "If + Past, would",
+      "explanation": "Second Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I have a million dollars, I would buy a house.",
+          "explanation": "Hayalî: Past Simple."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-06",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If she lived in Paris, she ___ speak French.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "would + fiil.",
+      "optionExplanations": {
+        "b": "Hayalî durumda would.",
+        "c": "Can farklı.",
+        "d": "Does kullanılmaz."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-07",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If we ___ the lottery, we would travel the world.",
+      "options": [
+        {
+          "id": "a",
+          "text": "won"
+        },
+        {
+          "id": "b",
+          "text": "win"
+        },
+        {
+          "id": "c",
+          "text": "would win"
+        },
+        {
+          "id": "d",
+          "text": "will win"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Past Simple.",
+      "optionExplanations": {
+        "b": "Hayalî: Past Simple.",
+        "c": "If'ten sonra would olmaz.",
+        "d": "If'ten sonra will olmaz."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-08",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If I ___ you, I would accept the job.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "am"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "would be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If I were you.",
+      "optionExplanations": {
+        "b": "Hayalî durum: were.",
+        "c": "Standart: were.",
+        "d": "If'ten sonra would olmaz."
+      },
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-09",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I ___ you, I would accept the job. (be)",
+      "answers": [
+        "were"
+      ],
+      "explanation": "If I were you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "Standart: were."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-10",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If he ___ taller, he would play basketball. (be)",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Were: tüm özneler.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "Standart: were."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-11",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If I knew the answer, I ___ tell you.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "would + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Hayalî durumda would."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-12",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I had more time, I would help you."
+        },
+        {
+          "id": "b",
+          "text": "If I would have more time, I would help you."
+        },
+        {
+          "id": "c",
+          "text": "If I have more time, I would help you."
+        },
+        {
+          "id": "d",
+          "text": "If I had more time, I will help you."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Past, would.",
+      "optionExplanations": {
+        "b": "If'ten sonra would olmaz.",
+        "c": "Present Simple hayalî değil.",
+        "d": "Ana cümle would."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-13",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I wouldn't go if I were you."
+        },
+        {
+          "id": "b",
+          "text": "I won't go if I were you."
+        },
+        {
+          "id": "c",
+          "text": "I wouldn't went if I were you."
+        },
+        {
+          "id": "d",
+          "text": "I wouldn't go if I am you."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "wouldn't + yalın fiil.",
+      "optionExplanations": {
+        "b": "Hayalî durum: wouldn't.",
+        "c": "Yalın fiil gerekir.",
+        "d": "If I were you."
+      },
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-second-cond-14",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ you do if you won the lottery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "do"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "What would you do?",
+      "optionExplanations": {
+        "b": "Hayalî durumda would.",
+        "c": "Do hayalî anlamı vermez.",
+        "d": "Did geçmiş sorusu."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-15",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you help me if I asked you?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Would"
+        },
+        {
+          "id": "b",
+          "text": "Will"
+        },
+        {
+          "id": "c",
+          "text": "Do"
+        },
+        {
+          "id": "d",
+          "text": "Did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Would + özne.",
+      "optionExplanations": {
+        "b": "Hayalî durum: would.",
+        "c": "Do kullanılmaz.",
+        "d": "Did geçmiş sorusu."
+      },
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-16",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If I ___ fly, I would visit every country.",
+      "options": [
+        {
+          "id": "a",
+          "text": "could"
+        },
+        {
+          "id": "b",
+          "text": "can"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + could.",
+      "optionExplanations": {
+        "b": "Hayalî: could.",
+        "c": "If'ten sonra would olmaz.",
+        "d": "If'ten sonra will olmaz."
+      },
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-17",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If I were rich, I ___ buy an island. (belki)",
+      "options": [
+        {
+          "id": "a",
+          "text": "might"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olasılık: might.",
+      "optionExplanations": {
+        "b": "Hayalî durumda will olmaz.",
+        "c": "Hayalî: could olurdu.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-18",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If she didn't love him, she ___ marry him. (wouldn't)",
+      "answers": [
+        "wouldn't"
+      ],
+      "explanation": "wouldn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't",
+          "explanation": "Hayalî durumda wouldn't."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-second-cond-19",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I didn't ___ to work, I would stay at home. (have)",
+      "answers": [
+        "have"
+      ],
+      "explanation": "didn't + yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "had",
+          "explanation": "Didn't'ten sonra yalın fiil."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-second-cond-20",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ would you do if you won the lottery?",
+      "answers": [
+        "What"
+      ],
+      "explanation": "What would you do.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where",
+          "explanation": "Anlam bozulur."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-21",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ you live if you could choose?",
+      "answers": [
+        "would"
+      ],
+      "explanation": "Wh + would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Hayalî: would."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-22",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I had a car, I ___ drive to work. (yapabilirdim)",
+      "answers": [
+        "could"
+      ],
+      "explanation": "could + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Hayalî durumda could."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-23",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I would be happy ___ she came.",
+      "answers": [
+        "if"
+      ],
+      "explanation": "if.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "when",
+          "explanation": "Hayalî koşul: if."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-24",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She would buy a car if she ___ enough money. (have)",
+      "answers": [
+        "had"
+      ],
+      "explanation": "if + Past Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Hayalî: Past Simple."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-25",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If it ___ warmer, we would go swimming. (be)",
+      "answers": [
+        "were"
+      ],
+      "explanation": "were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Hayalî durum: were."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-26",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I would have a million dollars, I would buy a house.",
+      "errorSpan": "would have",
+      "answers": [
+        "If I had a million dollars, I would buy a house."
+      ],
+      "explanation": "If'ten sonra would olmaz.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-27",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had a million dollars, I will buy a house.",
+      "errorSpan": "will buy",
+      "answers": [
+        "If I had a million dollars, I would buy a house."
+      ],
+      "explanation": "Ana cümle would.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-28",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I was you, I would go.",
+      "errorSpan": "was",
+      "answers": [
+        "If I were you, I would go."
+      ],
+      "explanation": "Standart: were.",
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-29",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If she would know, she would tell you.",
+      "errorSpan": "would know",
+      "answers": [
+        "If she knew, she would tell you."
+      ],
+      "explanation": "If'ten sonra would olmaz.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-30",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "What would you do if you will win?",
+      "errorSpan": "will win",
+      "answers": [
+        "What would you do if you won?"
+      ],
+      "explanation": "If cümlesi Past Simple.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-31",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Senin yerinde olsam işi kabul ederdim.",
+      "answer": [
+        "If",
+        "I",
+        "were",
+        "you",
+        "I",
+        "would",
+        "accept",
+        "the",
+        "job"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "was",
+        "will"
+      ],
+      "explanation": "If I were you",
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-32",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyangoyu kazansaydın ne yapardın?",
+      "answer": [
+        "What",
+        "would",
+        "you",
+        "do",
+        "if",
+        "you",
+        "won",
+        "the",
+        "lottery"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "will",
+        "win"
+      ],
+      "explanation": "What would you do if …",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-33",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Cevabı bilseydim sana söylerdim.",
+      "answer": [
+        "If",
+        "I",
+        "knew",
+        "the",
+        "answer",
+        "I",
+        "would",
+        "tell",
+        "you"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "know",
+        "will"
+      ],
+      "explanation": "If + Past, would",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-34",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Senin yerinde olsam işi kabul ederdim.",
+      "hint": "kabul etmek: accept",
+      "answers": [
+        "If I were you, I would accept the job.",
+        "I would accept the job if I were you."
+      ],
+      "targetStructure": "If I were you",
+      "explanation": "Tavsiye.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I was you, I would accept the job.",
+          "explanation": "Standart: were."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "were"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-35",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Piyangoyu kazansaydık dünyayı gezerdik.",
+      "hint": "gezmek: travel",
+      "answers": [
+        "If we won the lottery, we would travel the world.",
+        "We would travel the world if we won the lottery."
+      ],
+      "targetStructure": "If + Past, would",
+      "explanation": "Hayalî.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If we win the lottery, we would travel the world.",
+          "explanation": "Hayalî: Past Simple."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-36",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Onu sevmeseydi onunla evlenmezdi.",
+      "hint": "evlenmek: marry",
+      "answers": [
+        "If she didn't love him, she wouldn't marry him."
+      ],
+      "targetStructure": "didn't … wouldn't",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If she doesn't love him, she wouldn't marry him.",
+          "explanation": "Hayalî: didn't."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-second-cond-37",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi hayalî durumu anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I were rich, I would buy it."
+        },
+        {
+          "id": "b",
+          "text": "If it rains, I will stay."
+        },
+        {
+          "id": "c",
+          "text": "If you heat ice, it melts."
+        },
+        {
+          "id": "d",
+          "text": "If you finish, you can go."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Second Conditional.",
+      "optionExplanations": {
+        "b": "First Conditional.",
+        "c": "Zero Conditional.",
+        "d": "First Conditional."
+      },
+      "tags": [
+        "second-cond",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-38",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi gerçekçi gelecek koşuludur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it rains, I will stay home."
+        },
+        {
+          "id": "b",
+          "text": "If it rained, I would stay home."
+        },
+        {
+          "id": "c",
+          "text": "If I were you, I would stay home."
+        },
+        {
+          "id": "d",
+          "text": "If I had time, I would stay home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "First Conditional.",
+      "optionExplanations": {
+        "b": "Second Conditional.",
+        "c": "Second Conditional.",
+        "d": "Second Conditional."
+      },
+      "tags": [
+        "second-cond",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-39",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'I'm not rich, so I can't buy it.' ile aynı fikir hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If I were rich, I would buy it."
+        },
+        {
+          "id": "b",
+          "text": "If I am rich, I will buy it."
+        },
+        {
+          "id": "c",
+          "text": "If I was rich, I will buy it."
+        },
+        {
+          "id": "d",
+          "text": "If I were rich, I bought it."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gerçek durumun hayalî hâli.",
+      "optionExplanations": {
+        "b": "First Conditional: gerçekçi.",
+        "c": "Karışık yapı.",
+        "d": "Karışık yapı."
+      },
+      "tags": [
+        "second-cond",
+        "first"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-40",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If I ___ fly, I would visit every country. (can)",
+      "answers": [
+        "could"
+      ],
+      "explanation": "If + could.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Hayalî: could."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-41",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If you ___ change one thing, what would it be? (can)",
+      "answers": [
+        "could"
+      ],
+      "explanation": "If + could.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Hayalî: could."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-42",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Uçabilseydim her ülkeyi gezerdim.",
+      "hint": "uçmak: fly",
+      "answers": [
+        "If I could fly, I would visit every country.",
+        "I would visit every country if I could fly."
+      ],
+      "targetStructure": "If + could, would",
+      "explanation": "Hayalî.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I can fly, I would visit every country.",
+          "explanation": "Hayalî: could."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-43",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Arabam olsaydı işe araba ile gidebilirdim.",
+      "hint": "araba ile gitmek: drive",
+      "answers": [
+        "If I had a car, I could drive to work."
+      ],
+      "targetStructure": "If + Past, could",
+      "explanation": "Could.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I have a car, I could drive to work.",
+          "explanation": "Hayalî: Past Simple."
+        }
+      ],
+      "tags": [
+        "second-cond",
+        "modals"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-second-cond-44",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I had more time, I would helped you.",
+      "errorSpan": "would helped",
+      "answers": [
+        "If I had more time, I would help you."
+      ],
+      "explanation": "Would'dan sonra yalın fiil.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-second-cond-45",
+      "lessonId": "b1-second-conditional",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it rained I would stay.",
+      "errorSpan": "rained I",
+      "answers": [
+        "If it rained, I would stay."
+      ],
+      "explanation": "If başta ise virgül.",
+      "tags": [
+        "second-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-second-cond",
+    "title": "Second Conditional: Konu sonu sınavı",
+    "description": "If + Past Simple, would + fiil.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-second-cond-exam-01",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If he ___ taller, he would play basketball.",
+        "options": [
+          {
+            "id": "a",
+            "text": "were"
+          },
+          {
+            "id": "b",
+            "text": "is"
+          },
+          {
+            "id": "c",
+            "text": "will be"
+          },
+          {
+            "id": "d",
+            "text": "would be"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "were.",
+        "optionExplanations": {
+          "b": "Hayalî: were.",
+          "c": "If'ten sonra will olmaz.",
+          "d": "If'ten sonra would olmaz."
+        },
+        "tags": [
+          "second-cond",
+          "were"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-02",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "If they had more time, they ___ help us.",
+        "answers": [
+          "would"
+        ],
+        "explanation": "would + fiil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will",
+            "explanation": "Hayalî: would."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-03",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Daha uzun olsaydı basketbol oynardı.",
+        "answer": [
+          "If",
+          "he",
+          "were",
+          "taller",
+          "he",
+          "would",
+          "play",
+          "basketball"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "was",
+          "will"
+        ],
+        "explanation": "If + were, would",
+        "tags": [
+          "second-cond",
+          "were"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-04",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If I have a car, I would drive to work.",
+        "errorSpan": "have",
+        "answers": [
+          "If I had a car, I would drive to work."
+        ],
+        "explanation": "Hayalî: Past Simple.",
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-05",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Daha çok zamanları olsaydı bize yardım ederlerdi.",
+        "hint": "yardım etmek: help",
+        "answers": [
+          "If they had more time, they would help us.",
+          "They would help us if they had more time."
+        ],
+        "targetStructure": "If + Past, would",
+        "explanation": "Hayalî.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If they have more time, they would help us.",
+            "explanation": "Hayalî: Past Simple."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-06",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I ___ go if I were you.",
+        "options": [
+          {
+            "id": "a",
+            "text": "wouldn't"
+          },
+          {
+            "id": "b",
+            "text": "won't"
+          },
+          {
+            "id": "c",
+            "text": "don't"
+          },
+          {
+            "id": "d",
+            "text": "didn't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "wouldn't.",
+        "optionExplanations": {
+          "b": "Hayalî: wouldn't.",
+          "c": "Don't hayalî anlamı vermez.",
+          "d": "Didn't hayalî anlamı vermez."
+        },
+        "tags": [
+          "second-cond",
+          "were"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-07",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you help me if I asked you?",
+        "answers": [
+          "Would"
+        ],
+        "explanation": "Would + özne.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Will",
+            "explanation": "Hayalî: would."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-08",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Seçebilseydin nerede yaşardın?",
+        "answer": [
+          "Where",
+          "would",
+          "you",
+          "live",
+          "if",
+          "you",
+          "could",
+          "choose"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "will",
+          "can"
+        ],
+        "explanation": "Wh + would",
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-09",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If she would win, she would be happy.",
+        "errorSpan": "would win",
+        "answers": [
+          "If she won, she would be happy."
+        ],
+        "explanation": "If'ten sonra would olmaz.",
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-10",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Zengin olsaydım belki bir ada alırdım.",
+        "hint": "ada: island",
+        "answers": [
+          "If I were rich, I might buy an island.",
+          "I might buy an island if I were rich."
+        ],
+        "targetStructure": "If were, might",
+        "explanation": "Olasılık.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If I am rich, I might buy an island.",
+            "explanation": "Hayalî: were."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "modals"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-11",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "If I ___ fly, I would see the world.",
+        "options": [
+          {
+            "id": "a",
+            "text": "could"
+          },
+          {
+            "id": "b",
+            "text": "can"
+          },
+          {
+            "id": "c",
+            "text": "will"
+          },
+          {
+            "id": "d",
+            "text": "do"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "If + could.",
+        "optionExplanations": {
+          "b": "Hayalî: could.",
+          "c": "If'ten sonra will olmaz.",
+          "d": "Do kullanılmaz."
+        },
+        "tags": [
+          "second-cond",
+          "modals"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-12",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If it rained, I ___ stay home.",
+        "answers": [
+          "would"
+        ],
+        "explanation": "would + fiil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will",
+            "explanation": "Hayalî: would."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "first"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-13",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If I was you, I wouldn't go.",
+        "errorSpan": "was",
+        "answers": [
+          "If I were you, I wouldn't go."
+        ],
+        "explanation": "Standart: were.",
+        "tags": [
+          "second-cond",
+          "were"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-14",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi Second Conditional'dır?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If I won the lottery, I would travel."
+          },
+          {
+            "id": "b",
+            "text": "If I win the lottery, I will travel."
+          },
+          {
+            "id": "c",
+            "text": "If I heat ice, it melts."
+          },
+          {
+            "id": "d",
+            "text": "If I had won, I would have travelled."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Second Conditional.",
+        "optionExplanations": {
+          "b": "First Conditional.",
+          "c": "Zero Conditional.",
+          "d": "Third Conditional."
+        },
+        "tags": [
+          "second-cond",
+          "first"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-15",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "If I ___ a car, I could drive to work. (have)",
+        "answers": [
+          "had"
+        ],
+        "explanation": "If + Past Simple.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "have",
+            "explanation": "Hayalî: Past Simple."
+          }
+        ],
+        "tags": [
+          "second-cond",
+          "modals"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-second-cond-exam-16",
+        "lessonId": "b1-second-conditional",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Gelse mutlu olurdum.",
+        "answer": [
+          "I",
+          "would",
+          "be",
+          "happy",
+          "if",
+          "she",
+          "came"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "will",
+          "comes"
+        ],
+        "explanation": "would + if + Past",
+        "tags": [
+          "second-cond",
+          "form"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      }
+    ]
+  }
+}
