@@ -1,0 +1,2158 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-question-tags",
+  "levelId": "b1",
+  "title": "Question Tags",
+  "objectives": [
+    "Olumlu cümleye olumsuz, olumsuz cümleye olumlu tag eklemek",
+    "Tüm zamanlarda ve modallerle doğru yardımcı fiili seçmek",
+    "Özel durumları (I am, let's, emir) doğru kurmak",
+    "Ses tonuna göre tag anlamını ayırt etmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Cümle sonuna eklenen kısa sorular",
+      "paragraphs": [
+        "Question tag, cümle sonuna eklenen kısa bir sorudur: “Hava güzel, değil mi?” Konuşmada doğrulama istemek ya da konuşmayı sürdürmek için kullanılır.",
+        "Temel kural: Olumlu cümleye olumsuz tag, olumsuz cümleye olumlu tag eklenir. Tag’de ana cümledeki yardımcı fiil ve özne zamiri tekrarlanır."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Temel kural",
+      "paragraphs": [
+        "Olumlu cümle → olumsuz tag; olumsuz cümle → olumlu tag. Tag, yardımcı fiil + özne zamirinden oluşur."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu → olumsuz",
+          "pattern": "She is tired, isn’t she?",
+          "exampleIds": [
+            "ex-b1-question-tags-01",
+            "ex-b1-question-tags-02"
+          ]
+        },
+        {
+          "label": "Olumsuz → olumlu",
+          "pattern": "She isn’t tired, is she?",
+          "exampleIds": [
+            "ex-b1-question-tags-03",
+            "ex-b1-question-tags-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "Zamana göre yardımcı fiil",
+      "paragraphs": [
+        "Ana cümlede hangi yardımcı fiil varsa tag’de de o kullanılır. Yardımcı fiil yoksa Present Simple için do / does, Past Simple için did eklenir."
+      ],
+      "formulas": [
+        {
+          "label": "Present Simple",
+          "pattern": "You like tea, don’t you?",
+          "exampleIds": [
+            "ex-b1-question-tags-05",
+            "ex-b1-question-tags-06"
+          ]
+        },
+        {
+          "label": "Past Simple",
+          "pattern": "He went home, didn’t he?",
+          "exampleIds": [
+            "ex-b1-question-tags-07",
+            "ex-b1-question-tags-08"
+          ]
+        },
+        {
+          "label": "Present Perfect",
+          "pattern": "They have left, haven’t they?",
+          "exampleIds": [
+            "ex-b1-question-tags-09"
+          ]
+        },
+        {
+          "label": "Will",
+          "pattern": "She will come, won’t she?",
+          "exampleIds": [
+            "ex-b1-question-tags-10",
+            "ex-b1-question-tags-11"
+          ]
+        },
+        {
+          "label": "Modal",
+          "pattern": "You can swim, can’t you?",
+          "exampleIds": [
+            "ex-b1-question-tags-12",
+            "ex-b1-question-tags-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "Özel durumlar",
+      "paragraphs": [
+        "I am → aren’t I? (isn’t I yanlıştır). Let’s → shall we? Emir cümlelerinde will you? kullanılır. There ile tag’de there kalır. Nothing, nobody, no one gibi olumsuz zamirlerle olumlu tag gelir."
+      ],
+      "formulas": [
+        {
+          "label": "I am",
+          "pattern": "I’m late, aren’t I?",
+          "exampleIds": [
+            "ex-b1-question-tags-14"
+          ]
+        },
+        {
+          "label": "Let’s",
+          "pattern": "Let’s go, shall we?",
+          "exampleIds": [
+            "ex-b1-question-tags-15"
+          ]
+        },
+        {
+          "label": "Emir",
+          "pattern": "Open the door, will you?",
+          "exampleIds": [
+            "ex-b1-question-tags-16",
+            "ex-b1-question-tags-17"
+          ]
+        },
+        {
+          "label": "There",
+          "pattern": "There is a problem, isn’t there?",
+          "exampleIds": [
+            "ex-b1-question-tags-18"
+          ]
+        },
+        {
+          "label": "Olumsuz zamir",
+          "pattern": "Nobody called, did they?",
+          "exampleIds": [
+            "ex-b1-question-tags-19",
+            "ex-b1-question-tags-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Ses tonu",
+      "paragraphs": [
+        "Ses yükselirse gerçek bir soru sorarsın. Ses düşerse karşı tarafın katılmasını beklersin; yani doğrulama istersin."
+      ],
+      "formulas": [
+        {
+          "label": "Yükselen",
+          "pattern": "Gerçek soru: bilgi isteği.",
+          "exampleIds": [
+            "ex-b1-question-tags-21"
+          ]
+        },
+        {
+          "label": "Düşen",
+          "pattern": "Doğrulama: kabul bekler.",
+          "exampleIds": [
+            "ex-b1-question-tags-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Yanıt verme",
+      "paragraphs": [
+        "Yanıt, gerçekteki durumu yansıtır. Tag olumsuz da olsa yanıt olumlu olabilir."
+      ],
+      "formulas": [
+        {
+          "label": "Yanıt",
+          "pattern": "You like tea, don’t you? – Yes, I do. / No, I don’t.",
+          "exampleIds": [
+            "ex-b1-question-tags-23",
+            "ex-b1-question-tags-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Olumsuz görünen sözcükler",
+      "paragraphs": [
+        "Never, hardly, rarely, seldom, nothing, nobody gibi sözcükler cümleyi olumsuz yapar. Bu yüzden tag olumlu olur."
+      ],
+      "formulas": [
+        {
+          "label": "Kalıp",
+          "pattern": "He never smokes, does he?",
+          "exampleIds": [
+            "ex-b1-question-tags-25",
+            "ex-b1-question-tags-26",
+            "ex-b1-question-tags-27",
+            "ex-b1-question-tags-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-b1-question-tags-01",
+        "ex-b1-question-tags-02",
+        "ex-b1-question-tags-03",
+        "ex-b1-question-tags-04",
+        "ex-b1-question-tags-05",
+        "ex-b1-question-tags-06",
+        "ex-b1-question-tags-07",
+        "ex-b1-question-tags-08",
+        "ex-b1-question-tags-09",
+        "ex-b1-question-tags-10",
+        "ex-b1-question-tags-11",
+        "ex-b1-question-tags-12",
+        "ex-b1-question-tags-13",
+        "ex-b1-question-tags-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-b1-question-tags-15",
+        "ex-b1-question-tags-16",
+        "ex-b1-question-tags-17",
+        "ex-b1-question-tags-18",
+        "ex-b1-question-tags-19",
+        "ex-b1-question-tags-20",
+        "ex-b1-question-tags-21",
+        "ex-b1-question-tags-22",
+        "ex-b1-question-tags-23",
+        "ex-b1-question-tags-24",
+        "ex-b1-question-tags-25",
+        "ex-b1-question-tags-26",
+        "ex-b1-question-tags-27",
+        "ex-b1-question-tags-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She is tired, is she?",
+          "right": "She is tired, isn't she?",
+          "explanation": "Olumlu cümleye olumsuz tag."
+        },
+        {
+          "wrong": "You like tea, aren't you?",
+          "right": "You like tea, don't you?",
+          "explanation": "Aynı yardımcı fiil kullanılır."
+        },
+        {
+          "wrong": "I'm late, isn't I?",
+          "right": "I'm late, aren't I?",
+          "explanation": "I am → aren't I."
+        },
+        {
+          "wrong": "Let's go, will we?",
+          "right": "Let's go, shall we?",
+          "explanation": "Let's → shall we."
+        },
+        {
+          "wrong": "Nobody came, didn't they?",
+          "right": "Nobody came, did they?",
+          "explanation": "Nobody olumsuz anlamlıdır."
+        },
+        {
+          "wrong": "There is a bus, isn't it?",
+          "right": "There is a bus, isn't there?",
+          "explanation": "There tag'de de kalır."
+        },
+        {
+          "wrong": "He didn't come, didn't he?",
+          "right": "He didn't come, did he?",
+          "explanation": "Olumsuz → olumlu tag."
+        },
+        {
+          "wrong": "They left, wasn't they?",
+          "right": "They left, didn't they?",
+          "explanation": "Past Simple → didn't."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "A2 Question tags",
+          "body": "Temel tag yapısını hatırla.",
+          "lessonId": "a2-question-tags-intro"
+        },
+        {
+          "topic": "Soru yapısı",
+          "body": "Yardımcı fiil sorusu tag'in temelidir.",
+          "lessonId": "a1-wh-questions"
+        },
+        {
+          "topic": "Reported questions",
+          "body": "Soruların dolaylı aktarımı farklı kurulur.",
+          "lessonId": "b1-reported-questions"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Olumlu cümle → olumsuz tag; olumsuz cümle → olumlu tag.",
+        "Tag'de ana cümledeki yardımcı fiil tekrarlanır.",
+        "I am → aren't I; Let's → shall we; emir → will you.",
+        "Never, nobody, nothing, hardly olumsuz sayılır: tag olumlu olur.",
+        "Ses tonu tag'in anlamını belirler: yükselen = soru, düşen = doğrulama."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-b1-question-tags-01",
+        "q-b1-question-tags-13",
+        "q-b1-question-tags-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-b1-question-tags-01",
+      "en": "She is tired, isn't she?",
+      "tr": "Yorgun, değil mi?",
+      "highlight": "isn't she"
+    },
+    {
+      "id": "ex-b1-question-tags-02",
+      "en": "It's a nice day, isn't it?",
+      "tr": "Güzel bir gün, değil mi?",
+      "highlight": "isn't it"
+    },
+    {
+      "id": "ex-b1-question-tags-03",
+      "en": "She isn't tired, is she?",
+      "tr": "Yorgun değil, değil mi?",
+      "highlight": "is she"
+    },
+    {
+      "id": "ex-b1-question-tags-04",
+      "en": "You aren't angry, are you?",
+      "tr": "Kızgın değilsin, değil mi?",
+      "highlight": "are you"
+    },
+    {
+      "id": "ex-b1-question-tags-05",
+      "en": "You like tea, don't you?",
+      "tr": "Çay seversin, değil mi?",
+      "highlight": "don't you"
+    },
+    {
+      "id": "ex-b1-question-tags-06",
+      "en": "He works here, doesn't he?",
+      "tr": "Burada çalışıyor, değil mi?",
+      "highlight": "doesn't he"
+    },
+    {
+      "id": "ex-b1-question-tags-07",
+      "en": "He went home, didn't he?",
+      "tr": "Eve gitti, değil mi?",
+      "highlight": "didn't he"
+    },
+    {
+      "id": "ex-b1-question-tags-08",
+      "en": "They watched the film, didn't they?",
+      "tr": "Filmi izlediler, değil mi?",
+      "highlight": "didn't they"
+    },
+    {
+      "id": "ex-b1-question-tags-09",
+      "en": "They have left, haven't they?",
+      "tr": "Ayrıldılar, değil mi?",
+      "highlight": "haven't they"
+    },
+    {
+      "id": "ex-b1-question-tags-10",
+      "en": "She will come, won't she?",
+      "tr": "Gelecek, değil mi?",
+      "highlight": "won't she"
+    },
+    {
+      "id": "ex-b1-question-tags-11",
+      "en": "It won't rain, will it?",
+      "tr": "Yağmur yağmayacak, değil mi?",
+      "highlight": "will it"
+    },
+    {
+      "id": "ex-b1-question-tags-12",
+      "en": "You can swim, can't you?",
+      "tr": "Yüzebilirsin, değil mi?",
+      "highlight": "can't you"
+    },
+    {
+      "id": "ex-b1-question-tags-13",
+      "en": "He can't drive, can he?",
+      "tr": "Araba süremez, değil mi?",
+      "highlight": "can he"
+    },
+    {
+      "id": "ex-b1-question-tags-14",
+      "en": "I'm late, aren't I?",
+      "tr": "Geç kaldım, değil mi?",
+      "highlight": "aren't I"
+    },
+    {
+      "id": "ex-b1-question-tags-15",
+      "en": "Let's go, shall we?",
+      "tr": "Gidelim, olur mu?",
+      "highlight": "shall we"
+    },
+    {
+      "id": "ex-b1-question-tags-16",
+      "en": "Open the window, will you?",
+      "tr": "Pencereyi aç, olur mu?",
+      "highlight": "will you"
+    },
+    {
+      "id": "ex-b1-question-tags-17",
+      "en": "Don't be late, will you?",
+      "tr": "Geç kalma, olur mu?",
+      "highlight": "will you"
+    },
+    {
+      "id": "ex-b1-question-tags-18",
+      "en": "There is a problem, isn't there?",
+      "tr": "Bir sorun var, değil mi?",
+      "highlight": "isn't there"
+    },
+    {
+      "id": "ex-b1-question-tags-19",
+      "en": "Nobody called, did they?",
+      "tr": "Kimse aramadı, değil mi?",
+      "highlight": "did they"
+    },
+    {
+      "id": "ex-b1-question-tags-20",
+      "en": "Nothing happened, did it?",
+      "tr": "Hiçbir şey olmadı, değil mi?",
+      "highlight": "did it"
+    },
+    {
+      "id": "ex-b1-question-tags-21",
+      "en": "You're coming tomorrow, aren't you?",
+      "tr": "Yarın geliyorsun, değil mi?",
+      "highlight": "aren't you"
+    },
+    {
+      "id": "ex-b1-question-tags-22",
+      "en": "It's cold today, isn't it?",
+      "tr": "Bugün hava soğuk, değil mi?",
+      "highlight": "isn't it"
+    },
+    {
+      "id": "ex-b1-question-tags-23",
+      "en": "You like tea, don't you? – Yes, I do.",
+      "tr": "Çay seversin, değil mi? – Evet, severim.",
+      "highlight": "Yes, I do"
+    },
+    {
+      "id": "ex-b1-question-tags-24",
+      "en": "You don't like tea, do you? – No, I don't.",
+      "tr": "Çay sevmezsin, değil mi? – Hayır, sevmem.",
+      "highlight": "No, I don't"
+    },
+    {
+      "id": "ex-b1-question-tags-25",
+      "en": "He never smokes, does he?",
+      "tr": "Hiç sigara içmez, değil mi?",
+      "highlight": "does he"
+    },
+    {
+      "id": "ex-b1-question-tags-26",
+      "en": "She hardly speaks, does she?",
+      "tr": "Neredeyse hiç konuşmaz, değil mi?",
+      "highlight": "does she"
+    },
+    {
+      "id": "ex-b1-question-tags-27",
+      "en": "They rarely visit us, do they?",
+      "tr": "Bizi nadiren ziyaret ederler, değil mi?",
+      "highlight": "do they"
+    },
+    {
+      "id": "ex-b1-question-tags-28",
+      "en": "Everyone knows him, don't they?",
+      "tr": "Herkes onu tanır, değil mi?",
+      "highlight": "don't they"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-b1-question-tags-01",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is a teacher, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't she"
+        },
+        {
+          "id": "b",
+          "text": "isn't she"
+        },
+        {
+          "id": "c",
+          "text": "is she"
+        },
+        {
+          "id": "d",
+          "text": "wasn't she"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumlu → olumsuz tag.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-02",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You don't like fish, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't you"
+        },
+        {
+          "id": "b",
+          "text": "did you"
+        },
+        {
+          "id": "c",
+          "text": "do you"
+        },
+        {
+          "id": "d",
+          "text": "are you"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Olumsuz → olumlu tag.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-03",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He went to the party, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't he"
+        },
+        {
+          "id": "b",
+          "text": "did he"
+        },
+        {
+          "id": "c",
+          "text": "wasn't he"
+        },
+        {
+          "id": "d",
+          "text": "didn't he"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Past Simple: didn't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-04",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They have finished, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "haven't they"
+        },
+        {
+          "id": "b",
+          "text": "don't they"
+        },
+        {
+          "id": "c",
+          "text": "didn't they"
+        },
+        {
+          "id": "d",
+          "text": "aren't they"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Perfect: haven't.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-05",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You can cook, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't you"
+        },
+        {
+          "id": "b",
+          "text": "can't you"
+        },
+        {
+          "id": "c",
+          "text": "couldn't you"
+        },
+        {
+          "id": "d",
+          "text": "aren't you"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Modal: can't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-06",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She will help us, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't she"
+        },
+        {
+          "id": "b",
+          "text": "wouldn't she"
+        },
+        {
+          "id": "c",
+          "text": "won't she"
+        },
+        {
+          "id": "d",
+          "text": "isn't she"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Will: won't.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-07",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I'm right, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "amn't I"
+        },
+        {
+          "id": "b",
+          "text": "isn't I"
+        },
+        {
+          "id": "c",
+          "text": "don't I"
+        },
+        {
+          "id": "d",
+          "text": "aren't I"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "I am → aren't I.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-08",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Let's start, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "shall we"
+        },
+        {
+          "id": "b",
+          "text": "will we"
+        },
+        {
+          "id": "c",
+          "text": "don't we"
+        },
+        {
+          "id": "d",
+          "text": "can we"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Let's → shall we.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-09",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Close the door, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "do you"
+        },
+        {
+          "id": "b",
+          "text": "will you"
+        },
+        {
+          "id": "c",
+          "text": "are you"
+        },
+        {
+          "id": "d",
+          "text": "shall you"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Emir → will you.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-10",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Nobody came, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "didn't they"
+        },
+        {
+          "id": "b",
+          "text": "did he"
+        },
+        {
+          "id": "c",
+          "text": "did they"
+        },
+        {
+          "id": "d",
+          "text": "do they"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Nobody → olumlu tag + they.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-11",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There is a problem, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't it"
+        },
+        {
+          "id": "b",
+          "text": "doesn't there"
+        },
+        {
+          "id": "c",
+          "text": "is there"
+        },
+        {
+          "id": "d",
+          "text": "isn't there"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "There → there.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-12",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He never lies, ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "does he"
+        },
+        {
+          "id": "b",
+          "text": "doesn't he"
+        },
+        {
+          "id": "c",
+          "text": "did he"
+        },
+        {
+          "id": "d",
+          "text": "is he"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Never → olumlu tag.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-13",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It's raining, ___ it? (isn't)",
+      "answers": [
+        "isn't"
+      ],
+      "explanation": "Olumlu → olumsuz tag.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Olumlu cümlede olumsuz tag."
+        }
+      ],
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-14",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "You don't smoke, ___ you? (do)",
+      "answers": [
+        "do"
+      ],
+      "explanation": "Olumsuz → olumlu tag.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Olumsuz cümlede olumlu tag."
+        }
+      ],
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-15",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She plays tennis, ___ she? (doesn't)",
+      "answers": [
+        "doesn't"
+      ],
+      "explanation": "Present Simple: doesn't.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-16",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They visited us, ___ they? (didn't)",
+      "answers": [
+        "didn't"
+      ],
+      "explanation": "Past Simple: didn't.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-17",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He can swim, ___ he? (can't)",
+      "answers": [
+        "can't"
+      ],
+      "explanation": "Modal: can't.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-18",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You haven't eaten, ___ you? (have)",
+      "answers": [
+        "have"
+      ],
+      "explanation": "Olumsuz → olumlu tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-19",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She will come, ___ she? (won't)",
+      "answers": [
+        "won't"
+      ],
+      "explanation": "Will: won't.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-20",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm late, ___ I? (aren't)",
+      "answers": [
+        "aren't"
+      ],
+      "explanation": "I am → aren't I.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "amn't",
+          "explanation": "Standart İngilizcede aren't I."
+        }
+      ],
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-21",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Let's go, ___ we? (shall)",
+      "answers": [
+        "shall"
+      ],
+      "explanation": "Let's → shall we.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-22",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Don't forget, ___ you? (will)",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Emir → will you.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-23",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun, değil mi?",
+      "answer": [
+        "She",
+        "is",
+        "tired,",
+        "isn't",
+        "she"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "was",
+        "does"
+      ],
+      "explanation": "olumlu + olumsuz tag",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-24",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çay sevmezsin, değil mi?",
+      "answer": [
+        "You",
+        "don't",
+        "like",
+        "tea,",
+        "do",
+        "you"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "did"
+      ],
+      "explanation": "olumsuz + olumlu tag",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-25",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gidelim, olur mu?",
+      "answer": [
+        "Let's",
+        "go,",
+        "shall",
+        "we"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "will",
+        "do"
+      ],
+      "explanation": "Let's → shall we",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-26",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kimse aramadı, değil mi?",
+      "answer": [
+        "Nobody",
+        "called,",
+        "did",
+        "they"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "didn't",
+        "he"
+      ],
+      "explanation": "olumsuz zamir → olumlu tag",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-27",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is tired, is she?",
+      "errorSpan": "is she",
+      "answers": [
+        "She is tired, isn't she?"
+      ],
+      "explanation": "Olumlu → olumsuz tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-28",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You like tea, aren't you?",
+      "errorSpan": "aren't you",
+      "answers": [
+        "You like tea, don't you?"
+      ],
+      "explanation": "Yardımcı fiil do.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-29",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He didn't come, didn't he?",
+      "errorSpan": "didn't he",
+      "answers": [
+        "He didn't come, did he?"
+      ],
+      "explanation": "Olumsuz → olumlu tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-30",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm late, isn't I?",
+      "errorSpan": "isn't I",
+      "answers": [
+        "I'm late, aren't I?"
+      ],
+      "explanation": "I am → aren't I.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-31",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Let's go, will we?",
+      "errorSpan": "will we",
+      "answers": [
+        "Let's go, shall we?"
+      ],
+      "explanation": "Let's → shall we.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-32",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Nobody came, didn't they?",
+      "errorSpan": "didn't they",
+      "answers": [
+        "Nobody came, did they?"
+      ],
+      "explanation": "Nobody olumsuz anlam taşır.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-33",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They have left, don't they?",
+      "errorSpan": "don't they",
+      "answers": [
+        "They have left, haven't they?"
+      ],
+      "explanation": "Present Perfect: haven't.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-34",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hava güzel, değil mi?",
+      "hint": "güzel: nice",
+      "answers": [
+        "It's a nice day, isn't it?",
+        "The weather is nice, isn't it?",
+        "It's nice, isn't it?"
+      ],
+      "targetStructure": "olumlu + isn't it",
+      "explanation": "Tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-35",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çay sevmezsin, değil mi?",
+      "hint": "çay: tea",
+      "answers": [
+        "You don't like tea, do you?"
+      ],
+      "targetStructure": "olumsuz + do you",
+      "explanation": "Tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-36",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eve gitti, değil mi?",
+      "hint": "gitmek: go",
+      "answers": [
+        "He went home, didn't he?",
+        "She went home, didn't she?"
+      ],
+      "targetStructure": "didn't he",
+      "explanation": "Tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-37",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yüzebilirsin, değil mi?",
+      "hint": "yüzmek: swim",
+      "answers": [
+        "You can swim, can't you?"
+      ],
+      "targetStructure": "can't you",
+      "explanation": "Tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-38",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Geç kaldım, değil mi?",
+      "hint": "geç kalmak: be late",
+      "answers": [
+        "I'm late, aren't I?",
+        "I am late, aren't I?"
+      ],
+      "targetStructure": "aren't I",
+      "explanation": "Özel durum.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-39",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pencereyi aç, olur mu?",
+      "hint": "açmak: open",
+      "answers": [
+        "Open the window, will you?"
+      ],
+      "targetStructure": "will you",
+      "explanation": "Emir.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-40",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın gelecek, değil mi?",
+      "hint": "gelmek: come",
+      "answers": [
+        "She will come tomorrow, won't she?",
+        "He will come tomorrow, won't he?"
+      ],
+      "targetStructure": "won't she",
+      "explanation": "Tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-b1-question-tags-41",
+      "lessonId": "b1-question-tags",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç sigara içmez, değil mi?",
+      "hint": "içmek: smoke",
+      "answers": [
+        "He never smokes, does he?",
+        "She never smokes, does she?"
+      ],
+      "targetStructure": "does he",
+      "explanation": "Never → olumlu tag.",
+      "tags": [
+        "b1-question-tags",
+        "rule"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-b1-question-tags",
+    "title": "Question Tags: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-b1-question-tags-exam-01",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He lives in Paris, ___?",
+        "options": [
+          {
+            "id": "a",
+            "text": "isn't he"
+          },
+          {
+            "id": "b",
+            "text": "does he"
+          },
+          {
+            "id": "c",
+            "text": "doesn't he"
+          },
+          {
+            "id": "d",
+            "text": "didn't he"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Present Simple: doesn't.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-02",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "You aren't ready, ___?",
+        "options": [
+          {
+            "id": "a",
+            "text": "aren't you"
+          },
+          {
+            "id": "b",
+            "text": "do you"
+          },
+          {
+            "id": "c",
+            "text": "were you"
+          },
+          {
+            "id": "d",
+            "text": "are you"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Olumsuz → olumlu tag.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-03",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She has gone, ___?",
+        "options": [
+          {
+            "id": "a",
+            "text": "hasn't she"
+          },
+          {
+            "id": "b",
+            "text": "doesn't she"
+          },
+          {
+            "id": "c",
+            "text": "didn't she"
+          },
+          {
+            "id": "d",
+            "text": "isn't she"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Present Perfect: hasn't.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-04",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Don't be late, ___?",
+        "options": [
+          {
+            "id": "a",
+            "text": "do you"
+          },
+          {
+            "id": "b",
+            "text": "will you"
+          },
+          {
+            "id": "c",
+            "text": "shall we"
+          },
+          {
+            "id": "d",
+            "text": "are you"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Emir → will you.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-05",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Everybody knows him, ___?",
+        "options": [
+          {
+            "id": "a",
+            "text": "doesn't he"
+          },
+          {
+            "id": "b",
+            "text": "isn't it"
+          },
+          {
+            "id": "c",
+            "text": "don't they"
+          },
+          {
+            "id": "d",
+            "text": "don't it"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Everybody → they.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-06",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "It was cold, ___ it? (wasn't)",
+        "answers": [
+          "wasn't"
+        ],
+        "explanation": "Past be: wasn't.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-07",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They didn't come, ___ they? (did)",
+        "answers": [
+          "did"
+        ],
+        "explanation": "Olumsuz → olumlu tag.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-08",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I'm not wrong, ___ I? (am)",
+        "answers": [
+          "am"
+        ],
+        "explanation": "I'm not → am I.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "aren't",
+            "explanation": "Olumsuz cümlede olumlu tag: am I."
+          }
+        ],
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-09",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "You will call, ___ you? (won't)",
+        "answers": [
+          "won't"
+        ],
+        "explanation": "Will: won't.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-10",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Burada çalışıyor, değil mi?",
+        "answer": [
+          "He",
+          "works",
+          "here,",
+          "doesn't",
+          "he"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "isn't",
+          "does"
+        ],
+        "explanation": "doesn't he",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-11",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yağmur yağmayacak, değil mi?",
+        "answer": [
+          "It",
+          "won't",
+          "rain,",
+          "will",
+          "it"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "wasn't",
+          "does"
+        ],
+        "explanation": "will it",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-12",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is a nurse, doesn't she?",
+        "errorSpan": "doesn't she",
+        "answers": [
+          "She is a nurse, isn't she?"
+        ],
+        "explanation": "Be fiili tekrar edilir.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-13",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He never smokes, doesn't he?",
+        "errorSpan": "doesn't he",
+        "answers": [
+          "He never smokes, does he?"
+        ],
+        "explanation": "Never → olumlu tag.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-14",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "There is a bus, isn't it?",
+        "errorSpan": "isn't it",
+        "answers": [
+          "There is a bus, isn't there?"
+        ],
+        "explanation": "There tekrar edilir.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-15",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "İyi bir fikir, değil mi?",
+        "hint": "fikir: idea",
+        "answers": [
+          "It's a good idea, isn't it?",
+          "That's a good idea, isn't it?"
+        ],
+        "targetStructure": "isn't it",
+        "explanation": "Tag.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-b1-question-tags-exam-16",
+        "lessonId": "b1-question-tags",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Onu tanımıyorsun, değil mi?",
+        "hint": "tanımak: know",
+        "answers": [
+          "You don't know him, do you?"
+        ],
+        "targetStructure": "do you",
+        "explanation": "Tag.",
+        "tags": [
+          "b1-question-tags",
+          "rule"
+        ],
+        "errorTags": [
+          "question_form",
+          "auxiliary_verb"
+        ]
+      }
+    ]
+  }
+}
