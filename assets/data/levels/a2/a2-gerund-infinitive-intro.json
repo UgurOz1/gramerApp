@@ -1,0 +1,2288 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-gerund-infinitive-intro",
+  "levelId": "a2",
+  "title": "Gerund & Infinitive: Intro",
+  "objectives": [
+    "Enjoy, finish, mind gibi fiillerden sonra fiil-ing kullanmak",
+    "Want, need, hope, decide gibi fiillerden sonra to + fiil kullanmak",
+    "Like, love, hate gibi fiillerden sonra iki biçimi de kullanabilmek",
+    "Edattan sonra fiil-ing, amaç için to + fiil kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Fiilden sonra gelen fiil",
+      "paragraphs": [
+        "İngilizcede bir fiilden sonra başka bir fiil geldiğinde, ikinci fiil iki biçimden birinde olur: fiil-ing (gerund) ya da to + yalın fiil (infinitive). Hangisinin geleceğini ilk fiil belirler.",
+        "Bu derste en sık kullanılan fiilleri gruplar halinde öğreneceksin. Kural yoktur; listeleri öğrenmek gerekir."
+      ]
+    },
+    {
+      "id": "ing",
+      "type": "rule",
+      "title": "Fiil + fiil-ing",
+      "paragraphs": [
+        "Bazı fiillerden sonra fiil-ing gelir: enjoy, finish, mind, stop, keep, avoid, suggest. Bunlar genellikle bir eylemin kendisiyle ilgilidir."
+      ],
+      "formulas": [
+        {
+          "label": "Fiil-ing alan fiiller",
+          "pattern": "enjoy,  finish,  mind,  stop,  keep,  avoid,  suggest  + fiil-ing",
+          "exampleIds": [
+            "ex-ger-inf-01",
+            "ex-ger-inf-05",
+            "ex-ger-inf-06",
+            "ex-ger-inf-07",
+            "ex-ger-inf-08"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "don’t enjoy / mind + fiil-ing",
+          "exampleIds": [
+            "ex-ger-inf-21",
+            "ex-ger-inf-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "to",
+      "type": "rule",
+      "title": "Fiil + to + yalın fiil",
+      "paragraphs": [
+        "Bazı fiillerden sonra to + yalın fiil gelir: want, need, hope, decide, plan, learn, promise, would like. Bunlar genellikle gelecek, niyet ya da amaçla ilgilidir."
+      ],
+      "formulas": [
+        {
+          "label": "To alan fiiller",
+          "pattern": "want,  need,  hope,  decide,  plan,  learn,  promise  + to + fiil",
+          "exampleIds": [
+            "ex-ger-inf-09",
+            "ex-ger-inf-10",
+            "ex-ger-inf-11",
+            "ex-ger-inf-12",
+            "ex-ger-inf-13",
+            "ex-ger-inf-14",
+            "ex-ger-inf-15"
+          ]
+        },
+        {
+          "label": "Would like",
+          "pattern": "would like + to + fiil",
+          "exampleIds": [
+            "ex-ger-inf-16",
+            "ex-ger-inf-17"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "don’t want to + fiil",
+          "exampleIds": [
+            "ex-ger-inf-20"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "both",
+      "type": "rule",
+      "title": "İkisini de alan fiiller",
+      "paragraphs": [
+        "Like, love, hate, prefer gibi fiillerden sonra iki biçim de gelir ve anlam çok değişmez: I like swimming. = I like to swim."
+      ],
+      "formulas": [
+        {
+          "label": "Like / love / hate",
+          "pattern": "like / love / hate + fiil-ing  =  + to + fiil",
+          "exampleIds": [
+            "ex-ger-inf-02",
+            "ex-ger-inf-03",
+            "ex-ger-inf-04",
+            "ex-ger-inf-18",
+            "ex-ger-inf-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "type": "rule",
+      "title": "Amaç: to + fiil",
+      "paragraphs": [
+        "“-mek için” anlamında to + yalın fiil kullanılır: I went to the shop to buy milk. Bu, fiil + fiil yapısından farklıdır; burada amaç anlatılır."
+      ],
+      "formulas": [
+        {
+          "label": "Amaç",
+          "pattern": "… to + yalın fiil (… için)",
+          "exampleIds": [
+            "ex-ger-inf-22",
+            "ex-ger-inf-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prep",
+      "type": "rule",
+      "title": "Edat sonrası ve özne",
+      "paragraphs": [
+        "Edatlardan sonra (in, at, of, for, about) her zaman fiil-ing gelir: interested in learning, good at singing, thank you for helping. Fiil-ing cümlenin öznesi de olabilir: Swimming is good for you."
+      ],
+      "formulas": [
+        {
+          "label": "Edat + fiil-ing",
+          "pattern": "interested in / good at / afraid of / for + fiil-ing",
+          "exampleIds": [
+            "ex-ger-inf-25",
+            "ex-ger-inf-26",
+            "ex-ger-inf-27",
+            "ex-ger-inf-28"
+          ]
+        },
+        {
+          "label": "Özne olarak",
+          "pattern": "Fiil-ing + is + sıfat",
+          "exampleIds": [
+            "ex-ger-inf-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: fiil-ing",
+      "exampleIds": [
+        "ex-ger-inf-01",
+        "ex-ger-inf-02",
+        "ex-ger-inf-03",
+        "ex-ger-inf-04",
+        "ex-ger-inf-05",
+        "ex-ger-inf-06",
+        "ex-ger-inf-07",
+        "ex-ger-inf-08",
+        "ex-ger-inf-21",
+        "ex-ger-inf-24",
+        "ex-ger-inf-25",
+        "ex-ger-inf-26",
+        "ex-ger-inf-27",
+        "ex-ger-inf-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: to + fiil",
+      "exampleIds": [
+        "ex-ger-inf-09",
+        "ex-ger-inf-10",
+        "ex-ger-inf-11",
+        "ex-ger-inf-12",
+        "ex-ger-inf-13",
+        "ex-ger-inf-14",
+        "ex-ger-inf-15",
+        "ex-ger-inf-16",
+        "ex-ger-inf-17",
+        "ex-ger-inf-18",
+        "ex-ger-inf-19",
+        "ex-ger-inf-20",
+        "ex-ger-inf-22",
+        "ex-ger-inf-23"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I enjoy to swim.",
+          "right": "I enjoy swimming.",
+          "explanation": "Enjoy + fiil-ing."
+        },
+        {
+          "wrong": "I want going home.",
+          "right": "I want to go home.",
+          "explanation": "Want + to + fiil."
+        },
+        {
+          "wrong": "She decided leaving.",
+          "right": "She decided to leave.",
+          "explanation": "Decide + to + fiil."
+        },
+        {
+          "wrong": "He finished to eat.",
+          "right": "He finished eating.",
+          "explanation": "Finish + fiil-ing."
+        },
+        {
+          "wrong": "I'm interested in to learn French.",
+          "right": "I'm interested in learning French.",
+          "explanation": "Edattan sonra fiil-ing."
+        },
+        {
+          "wrong": "She is good at to sing.",
+          "right": "She is good at singing.",
+          "explanation": "Edattan sonra fiil-ing."
+        },
+        {
+          "wrong": "I went to the shop for buy milk.",
+          "right": "I went to the shop to buy milk.",
+          "explanation": "Amaç: to + fiil."
+        },
+        {
+          "wrong": "He keeps to ask questions.",
+          "right": "He keeps asking questions.",
+          "explanation": "Keep + fiil-ing."
+        },
+        {
+          "wrong": "I'd like going to the cinema.",
+          "right": "I'd like to go to the cinema.",
+          "explanation": "Would like + to + fiil."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Like to ve would like to",
+          "body": "I like swimming (genel zevk); I'd like to swim (şu an istek).",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "Can ve modal fiiller",
+          "body": "Modallardan sonra to'suz yalın fiil gelir.",
+          "lessonId": "a1-can"
+        },
+        {
+          "topic": "Amaç cümleleri",
+          "body": "B1'de so that ve in order to işlenir.",
+          "lessonId": "a2-so-because"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Enjoy, finish, mind, stop, keep + fiil-ing.",
+        "Want, need, hope, decide, plan, learn, promise, would like + to + fiil.",
+        "Like, love, hate ikisini de alır.",
+        "Edattan sonra her zaman fiil-ing.",
+        "Amaç için to + yalın fiil: I went there to buy milk."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-ger-inf-01",
+        "q-ger-inf-02",
+        "q-ger-inf-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-ger-inf-01",
+      "en": "I enjoy swimming.",
+      "tr": "Yüzmekten hoşlanırım.",
+      "highlight": "enjoy swimming",
+      "note": "enjoy + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-02",
+      "en": "She likes reading books.",
+      "tr": "Kitap okumayı sever.",
+      "highlight": "likes reading"
+    },
+    {
+      "id": "ex-ger-inf-03",
+      "en": "He loves playing football.",
+      "tr": "Futbol oynamayı çok sever.",
+      "highlight": "loves playing"
+    },
+    {
+      "id": "ex-ger-inf-04",
+      "en": "We hate waiting in queues.",
+      "tr": "Kuyrukta beklemekten nefret ederiz.",
+      "highlight": "hate waiting"
+    },
+    {
+      "id": "ex-ger-inf-05",
+      "en": "They finished eating at nine.",
+      "tr": "Dokuzda yemeği bitirdiler.",
+      "highlight": "finished eating",
+      "note": "finish + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-06",
+      "en": "I don't mind waiting.",
+      "tr": "Beklemeyi umursamam.",
+      "highlight": "mind waiting",
+      "note": "mind + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-07",
+      "en": "She stopped smoking last year.",
+      "tr": "Geçen yıl sigarayı bıraktı.",
+      "highlight": "stopped smoking",
+      "note": "stop + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-08",
+      "en": "He keeps asking questions.",
+      "tr": "Sürekli soru soruyor.",
+      "highlight": "keeps asking",
+      "note": "keep + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-09",
+      "en": "I want to learn English.",
+      "tr": "İngilizce öğrenmek istiyorum.",
+      "highlight": "want to learn",
+      "note": "want + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-10",
+      "en": "She needs to study more.",
+      "tr": "Daha çok çalışması gerekiyor.",
+      "highlight": "needs to study",
+      "note": "need + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-11",
+      "en": "We hope to see you soon.",
+      "tr": "Seni yakında görmeyi umuyoruz.",
+      "highlight": "hope to see",
+      "note": "hope + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-12",
+      "en": "He decided to leave.",
+      "tr": "Ayrılmaya karar verdi.",
+      "highlight": "decided to leave",
+      "note": "decide + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-13",
+      "en": "They plan to travel in summer.",
+      "tr": "Yazın seyahat etmeyi planlıyorlar.",
+      "highlight": "plan to travel"
+    },
+    {
+      "id": "ex-ger-inf-14",
+      "en": "I'm learning to drive.",
+      "tr": "Araba kullanmayı öğreniyorum.",
+      "highlight": "learning to drive",
+      "note": "learn + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-15",
+      "en": "She promised to call me.",
+      "tr": "Beni aramaya söz verdi.",
+      "highlight": "promised to call"
+    },
+    {
+      "id": "ex-ger-inf-16",
+      "en": "I'd like to have a coffee.",
+      "tr": "Bir kahve içmek isterim.",
+      "highlight": "I'd like to have",
+      "note": "would like + to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-17",
+      "en": "Would you like to come?",
+      "tr": "Gelmek ister misin?",
+      "highlight": "Would you like to come",
+      "note": "teklif"
+    },
+    {
+      "id": "ex-ger-inf-18",
+      "en": "I like to swim. / I like swimming.",
+      "tr": "Yüzmeyi severim.",
+      "highlight": "like to swim",
+      "note": "like / love / hate: ikisi de"
+    },
+    {
+      "id": "ex-ger-inf-19",
+      "en": "She loves to dance. / She loves dancing.",
+      "tr": "Dans etmeyi sever.",
+      "highlight": "loves to dance"
+    },
+    {
+      "id": "ex-ger-inf-20",
+      "en": "I don't want to go.",
+      "tr": "Gitmek istemiyorum.",
+      "highlight": "don't want to go",
+      "note": "olumsuz"
+    },
+    {
+      "id": "ex-ger-inf-21",
+      "en": "She doesn't enjoy cooking.",
+      "tr": "Yemek yapmaktan hoşlanmaz.",
+      "highlight": "doesn't enjoy cooking"
+    },
+    {
+      "id": "ex-ger-inf-22",
+      "en": "I went to the shop to buy milk.",
+      "tr": "Süt almak için dükkâna gittim.",
+      "highlight": "to buy milk",
+      "note": "amaç: to + fiil"
+    },
+    {
+      "id": "ex-ger-inf-23",
+      "en": "She is learning English to get a better job.",
+      "tr": "Daha iyi bir iş bulmak için İngilizce öğreniyor.",
+      "highlight": "to get a better job"
+    },
+    {
+      "id": "ex-ger-inf-24",
+      "en": "Swimming is good for you.",
+      "tr": "Yüzmek sağlığa iyi gelir.",
+      "highlight": "Swimming",
+      "note": "fiil-ing özne olabilir"
+    },
+    {
+      "id": "ex-ger-inf-25",
+      "en": "I'm interested in learning French.",
+      "tr": "Fransızca öğrenmekle ilgileniyorum.",
+      "highlight": "in learning",
+      "note": "edat + fiil-ing"
+    },
+    {
+      "id": "ex-ger-inf-26",
+      "en": "She is good at singing.",
+      "tr": "Şarkı söylemekte iyi.",
+      "highlight": "at singing"
+    },
+    {
+      "id": "ex-ger-inf-27",
+      "en": "Thank you for helping me.",
+      "tr": "Bana yardım ettiğin için teşekkürler.",
+      "highlight": "for helping"
+    },
+    {
+      "id": "ex-ger-inf-28",
+      "en": "He is afraid of flying.",
+      "tr": "Uçmaktan korkuyor.",
+      "highlight": "of flying"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-ger-inf-01",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I enjoy ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "swimming"
+        },
+        {
+          "id": "b",
+          "text": "to swim"
+        },
+        {
+          "id": "c",
+          "text": "swim"
+        },
+        {
+          "id": "d",
+          "text": "swam"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Enjoy + fiil-ing.",
+      "optionExplanations": {
+        "b": "Enjoy to almaz.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-02",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She likes ___ books. (read)",
+      "answers": [
+        "reading"
+      ],
+      "explanation": "Like + fiil-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "read",
+          "explanation": "Fiil-ing gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "both"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-03",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yüzmekten hoşlanırım.",
+      "answer": [
+        "I",
+        "enjoy",
+        "swimming"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "to",
+        "swim"
+      ],
+      "explanation": "enjoy + -ing",
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ger-inf-04",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I enjoy to swim.",
+      "errorSpan": "to swim",
+      "answers": [
+        "I enjoy swimming."
+      ],
+      "explanation": "Enjoy + fiil-ing.",
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-05",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yüzmekten hoşlanırım.",
+      "hint": "yüzmek: swim",
+      "answers": [
+        "I enjoy swimming."
+      ],
+      "targetStructure": "enjoy + -ing",
+      "explanation": "Gerund.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I enjoy to swim.",
+          "explanation": "Enjoy + fiil-ing."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-06",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I want ___ English.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to learn"
+        },
+        {
+          "id": "b",
+          "text": "learning"
+        },
+        {
+          "id": "c",
+          "text": "learn"
+        },
+        {
+          "id": "d",
+          "text": "learned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Want + to + fiil.",
+      "optionExplanations": {
+        "b": "Want fiil-ing almaz.",
+        "c": "To gerekir.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-07",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He decided ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to leave"
+        },
+        {
+          "id": "b",
+          "text": "leaving"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "left"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Decide + to.",
+      "optionExplanations": {
+        "b": "Decide fiil-ing almaz.",
+        "c": "To gerekir.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-08",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They finished ___ at nine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "eating"
+        },
+        {
+          "id": "b",
+          "text": "to eat"
+        },
+        {
+          "id": "c",
+          "text": "eat"
+        },
+        {
+          "id": "d",
+          "text": "ate"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Finish + -ing.",
+      "optionExplanations": {
+        "b": "Finish to almaz.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-09",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I want ___ learn English.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Want + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "-ing",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-10",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She stopped ___ last year. (smoke)",
+      "answers": [
+        "smoking"
+      ],
+      "explanation": "Stop + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to smoke",
+          "explanation": "Bu anlam için -ing."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-11",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She needs ___ study more.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Need + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-12",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I'd like ___ a coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to have"
+        },
+        {
+          "id": "b",
+          "text": "having"
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "had"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Would like + to.",
+      "optionExplanations": {
+        "b": "Would like fiil-ing almaz.",
+        "c": "To gerekir.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-13",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I'm interested in ___ French.",
+      "options": [
+        {
+          "id": "a",
+          "text": "learning"
+        },
+        {
+          "id": "b",
+          "text": "to learn"
+        },
+        {
+          "id": "c",
+          "text": "learn"
+        },
+        {
+          "id": "d",
+          "text": "learned"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edat + -ing.",
+      "optionExplanations": {
+        "b": "Edattan sonra to + fiil gelmez.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-14",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She is good at ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "singing"
+        },
+        {
+          "id": "b",
+          "text": "to sing"
+        },
+        {
+          "id": "c",
+          "text": "sing"
+        },
+        {
+          "id": "d",
+          "text": "sang"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edat + -ing.",
+      "optionExplanations": {
+        "b": "Edattan sonra to + fiil gelmez.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-15",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I went to the shop ___ milk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to buy"
+        },
+        {
+          "id": "b",
+          "text": "for buy"
+        },
+        {
+          "id": "c",
+          "text": "buying"
+        },
+        {
+          "id": "d",
+          "text": "bought"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Amaç: to + fiil.",
+      "optionExplanations": {
+        "b": "For + fiil olmaz.",
+        "c": "-ing gelmez.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "purpose"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-16",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Thank you for ___ me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "helping"
+        },
+        {
+          "id": "b",
+          "text": "to help"
+        },
+        {
+          "id": "c",
+          "text": "help"
+        },
+        {
+          "id": "d",
+          "text": "helped"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edat + -ing.",
+      "optionExplanations": {
+        "b": "Edattan sonra to + fiil gelmez.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-17",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He keeps ___ questions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "asking"
+        },
+        {
+          "id": "b",
+          "text": "to ask"
+        },
+        {
+          "id": "c",
+          "text": "ask"
+        },
+        {
+          "id": "d",
+          "text": "asked"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Keep + -ing.",
+      "optionExplanations": {
+        "b": "Keep to almaz.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-18",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We hope ___ see you soon.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Hope + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "-ing",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-19",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They plan ___ travel in summer.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Plan + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-20",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'm learning ___ drive.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Learn + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-21",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She promised ___ call me.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Promise + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-22",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He is afraid of ___. (fly)",
+      "answers": [
+        "flying"
+      ],
+      "explanation": "Edat + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to fly",
+          "explanation": "Edattan sonra to + fiil gelmez."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-23",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I don't mind ___. (wait)",
+      "answers": [
+        "waiting"
+      ],
+      "explanation": "Mind + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to wait",
+          "explanation": "Mind to almaz."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-24",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ is good for you. (swim)",
+      "answers": [
+        "Swimming"
+      ],
+      "explanation": "Özne olarak fiil-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Swim",
+          "explanation": "Özne olarak fiil-ing."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-25",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She doesn't enjoy ___. (cook)",
+      "answers": [
+        "cooking"
+      ],
+      "explanation": "Enjoy + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "to cook",
+          "explanation": "Enjoy to almaz."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-26",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I want going home.",
+      "errorSpan": "going",
+      "answers": [
+        "I want to go home."
+      ],
+      "explanation": "Want + to + fiil.",
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-27",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She decided leaving.",
+      "errorSpan": "leaving",
+      "answers": [
+        "She decided to leave."
+      ],
+      "explanation": "Decide + to.",
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-28",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He finished to eat.",
+      "errorSpan": "to eat",
+      "answers": [
+        "He finished eating."
+      ],
+      "explanation": "Finish + -ing.",
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-29",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm interested in to learn French.",
+      "errorSpan": "to learn",
+      "answers": [
+        "I'm interested in learning French."
+      ],
+      "explanation": "Edat + -ing.",
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-30",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I went to the shop for buy milk.",
+      "errorSpan": "for buy",
+      "answers": [
+        "I went to the shop to buy milk."
+      ],
+      "explanation": "Amaç: to + fiil.",
+      "tags": [
+        "ger-inf",
+        "purpose"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-31",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ayrılmaya karar verdi.",
+      "answer": [
+        "He",
+        "decided",
+        "to",
+        "leave"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "leaving",
+        "for"
+      ],
+      "explanation": "decide + to",
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-32",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Şarkı söylemekte iyi.",
+      "answer": [
+        "She",
+        "is",
+        "good",
+        "at",
+        "singing"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "sing",
+        "to"
+      ],
+      "explanation": "at + -ing",
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-33",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Süt almak için dükkâna gittim.",
+      "answer": [
+        "I",
+        "went",
+        "to",
+        "the",
+        "shop",
+        "to",
+        "buy",
+        "milk"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "for",
+        "buying"
+      ],
+      "explanation": "amaç: to + fiil",
+      "tags": [
+        "ger-inf",
+        "purpose"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-34",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce öğrenmek istiyorum.",
+      "hint": "istemek: want",
+      "answers": [
+        "I want to learn English."
+      ],
+      "targetStructure": "want + to",
+      "explanation": "Infinitive.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I want learning English.",
+          "explanation": "Want + to + fiil."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-35",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kitap okumayı sever.",
+      "hint": "okumak: read",
+      "answers": [
+        "She likes reading books.",
+        "She likes to read books.",
+        "He likes reading books.",
+        "He likes to read books."
+      ],
+      "targetStructure": "like + -ing / to",
+      "explanation": "İkisi de olur.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She likes read books.",
+          "explanation": "Fiil-ing ya da to + fiil gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "both"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-36",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bir kahve içmek isterim.",
+      "hint": "içmek: have",
+      "answers": [
+        "I'd like to have a coffee.",
+        "I would like to have a coffee."
+      ],
+      "targetStructure": "would like to",
+      "explanation": "Teklif / istek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'd like having a coffee.",
+          "explanation": "Would like + to + fiil."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-37",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinde ikisi de doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I like swimming. / I like to swim."
+        },
+        {
+          "id": "b",
+          "text": "I enjoy swimming. / I enjoy to swim."
+        },
+        {
+          "id": "c",
+          "text": "I finished swimming. / I finished to swim."
+        },
+        {
+          "id": "d",
+          "text": "I want swimming. / I want to swim."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Like ikisini de alır.",
+      "optionExplanations": {
+        "b": "Enjoy sadece -ing alır.",
+        "c": "Finish sadece -ing alır.",
+        "d": "Want sadece to alır."
+      },
+      "tags": [
+        "ger-inf",
+        "both"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-38",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm afraid of flying."
+        },
+        {
+          "id": "b",
+          "text": "I'm afraid of to fly."
+        },
+        {
+          "id": "c",
+          "text": "I'm afraid of fly."
+        },
+        {
+          "id": "d",
+          "text": "I'm afraid of flew."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Edat + -ing.",
+      "optionExplanations": {
+        "b": "Edattan sonra to + fiil gelmez.",
+        "c": "Yalın fiil olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-39",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi amaç bildirir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is learning English to get a better job."
+        },
+        {
+          "id": "b",
+          "text": "She enjoys learning English."
+        },
+        {
+          "id": "c",
+          "text": "She finished learning English."
+        },
+        {
+          "id": "d",
+          "text": "She keeps learning English."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Amaç: to + fiil.",
+      "optionExplanations": {
+        "b": "Enjoy + -ing.",
+        "c": "Finish + -ing.",
+        "d": "Keep + -ing."
+      },
+      "tags": [
+        "ger-inf",
+        "purpose"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-40",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She is learning English ___ get a better job. (amaç)",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Amaç: to + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "For + fiil olmaz."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "purpose"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-41",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'd like ___ go to the cinema.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Would like + to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "-ing",
+          "explanation": "To gerekir."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "to"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-42",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana yardım ettiğin için teşekkürler.",
+      "hint": "yardım etmek: help",
+      "answers": [
+        "Thank you for helping me.",
+        "Thanks for helping me."
+      ],
+      "targetStructure": "for + -ing",
+      "explanation": "Edat + -ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Thank you for help me.",
+          "explanation": "Edattan sonra -ing."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-43",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sürekli soru soruyor.",
+      "hint": "sormak: ask",
+      "answers": [
+        "He keeps asking questions.",
+        "She keeps asking questions."
+      ],
+      "targetStructure": "keep + -ing",
+      "explanation": "Gerund.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He keeps to ask questions.",
+          "explanation": "Keep + -ing."
+        }
+      ],
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-44",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is good at to sing.",
+      "errorSpan": "to sing",
+      "answers": [
+        "She is good at singing."
+      ],
+      "explanation": "Edat + -ing.",
+      "tags": [
+        "ger-inf",
+        "prep"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ger-inf-45",
+      "lessonId": "a2-gerund-infinitive-intro",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He keeps to ask questions.",
+      "errorSpan": "to ask",
+      "answers": [
+        "He keeps asking questions."
+      ],
+      "explanation": "Keep + -ing.",
+      "tags": [
+        "ger-inf",
+        "ing"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-ger-inf",
+    "title": "Gerund & Infinitive: Konu sonu sınavı",
+    "description": "Fiil-ing ve to + fiil.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-ger-inf-exam-01",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She enjoys ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "dancing"
+          },
+          {
+            "id": "b",
+            "text": "to dance"
+          },
+          {
+            "id": "c",
+            "text": "dance"
+          },
+          {
+            "id": "d",
+            "text": "danced"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Enjoy + -ing.",
+        "optionExplanations": {
+          "b": "Enjoy to almaz.",
+          "c": "Yalın fiil olmaz.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "ger-inf",
+          "ing"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-02",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I hope ___ see you soon.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "Hope + to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "-ing",
+            "explanation": "To gerekir."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-03",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kuyrukta beklemekten nefret ederiz.",
+        "answer": [
+          "We",
+          "hate",
+          "waiting",
+          "in",
+          "queues"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "wait",
+          "for"
+        ],
+        "explanation": "hate + -ing",
+        "tags": [
+          "ger-inf",
+          "both"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-04",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She enjoys to dance.",
+        "errorSpan": "to dance",
+        "answers": [
+          "She enjoys dancing."
+        ],
+        "explanation": "Enjoy + -ing.",
+        "tags": [
+          "ger-inf",
+          "ing"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-05",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yazın seyahat etmeyi planlıyorlar.",
+        "hint": "seyahat etmek: travel",
+        "answers": [
+          "They plan to travel in summer.",
+          "They plan to travel in the summer."
+        ],
+        "targetStructure": "plan + to",
+        "explanation": "Infinitive.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "They plan travelling in summer.",
+            "explanation": "Plan + to + fiil."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-06",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He wants ___ home.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to go"
+          },
+          {
+            "id": "b",
+            "text": "going"
+          },
+          {
+            "id": "c",
+            "text": "go"
+          },
+          {
+            "id": "d",
+            "text": "went"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Want + to.",
+        "optionExplanations": {
+          "b": "Want -ing almaz.",
+          "c": "To gerekir.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-07",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They finished ___ at six. (work)",
+        "answers": [
+          "working"
+        ],
+        "explanation": "Finish + -ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "work",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "ing"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-08",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Fransızca öğrenmekle ilgileniyorum.",
+        "answer": [
+          "I'm",
+          "interested",
+          "in",
+          "learning",
+          "French"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "learn",
+          "to"
+        ],
+        "explanation": "in + -ing",
+        "tags": [
+          "ger-inf",
+          "prep"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-09",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I want going to the beach.",
+        "errorSpan": "going",
+        "answers": [
+          "I want to go to the beach."
+        ],
+        "explanation": "Want + to.",
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-10",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Beklemeyi umursamam.",
+        "hint": "beklemek: wait",
+        "answers": [
+          "I don't mind waiting."
+        ],
+        "targetStructure": "mind + -ing",
+        "explanation": "Gerund.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I don't mind to wait.",
+            "explanation": "Mind + -ing."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "ing"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-11",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "I went to the bank ___ money.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to get"
+          },
+          {
+            "id": "b",
+            "text": "for get"
+          },
+          {
+            "id": "c",
+            "text": "getting"
+          },
+          {
+            "id": "d",
+            "text": "got"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Amaç: to + fiil.",
+        "optionExplanations": {
+          "b": "For + fiil olmaz.",
+          "c": "-ing gelmez.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "ger-inf",
+          "purpose"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-12",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He is good at ___. (draw)",
+        "answers": [
+          "drawing"
+        ],
+        "explanation": "Edat + -ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "draw",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "prep"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-13",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I'm afraid of to fly.",
+        "errorSpan": "to fly",
+        "answers": [
+          "I'm afraid of flying."
+        ],
+        "explanation": "Edat + -ing.",
+        "tags": [
+          "ger-inf",
+          "prep"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-14",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I'd like to sit here."
+          },
+          {
+            "id": "b",
+            "text": "I'd like sitting here."
+          },
+          {
+            "id": "c",
+            "text": "I'd like sit here."
+          },
+          {
+            "id": "d",
+            "text": "I'd like sat here."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Would like + to.",
+        "optionExplanations": {
+          "b": "Would like -ing almaz.",
+          "c": "To gerekir.",
+          "d": "Geçmiş zaman."
+        },
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-15",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Thanks for ___ me. (invite)",
+        "answers": [
+          "inviting"
+        ],
+        "explanation": "Edat + -ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "invite",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "ger-inf",
+          "prep"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-ger-inf-exam-16",
+        "lessonId": "a2-gerund-infinitive-intro",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Gelmek ister misin?",
+        "answer": [
+          "Would",
+          "you",
+          "like",
+          "to",
+          "come"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "coming",
+          "Do"
+        ],
+        "explanation": "Would you like to",
+        "tags": [
+          "ger-inf",
+          "to"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
