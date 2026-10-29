@@ -29,6 +29,7 @@ import aAdjAdv from "@/assets/data/levels/a2/a2-adjectives-adverbs.json";
 import aMust from "@/assets/data/levels/a2/a2-must-have-to.json";
 import aShould from "@/assets/data/levels/a2/a2-should.json";
 import aZero from "@/assets/data/levels/a2/a2-zero-conditional.json";
+import aFirstC from "@/assets/data/levels/a2/a2-first-conditional.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -75,6 +76,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-must-have-to": aMust,
   "a2-should": aShould,
   "a2-zero-conditional": aZero,
+  "a2-first-conditional": aFirstC,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

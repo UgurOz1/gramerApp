@@ -1,0 +1,2313 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-first-conditional",
+  "levelId": "a2",
+  "title": "First Conditional",
+  "objectives": [
+    "Gerçekleşmesi mümkün gelecek koşulları If + Present Simple, will + fiil ile anlatmak",
+    "If ve zaman bağlaçlarından sonra will kullanmamak",
+    "Unless, when, as soon as, before, until kullanmak",
+    "Virgül kuralını uygulamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "First Conditional nedir?",
+      "paragraphs": [
+        "First Conditional, gelecekte gerçekleşmesi mümkün olan bir koşulu ve onun olası sonucunu anlatır: “Yarın yağmur yağarsa evde kalacağım.” Koşul gerçekçidir; olabilir ya da olmayabilir.",
+        "Yapı: If + Present Simple, will + yalın fiil. If cümlesinde gelecek anlamı olsa da fiil Present Simple’dır; will yalnızca sonuç cümlesinde kullanılır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "If cümlesi (koşul) Present Simple, ana cümle (sonuç) will + yalın fiil ile kurulur. If cümlesi başta ise virgül konur, sonda ise konmaz."
+      ],
+      "formulas": [
+        {
+          "label": "If başta",
+          "pattern": "If + Present Simple, + will + yalın fiil",
+          "exampleIds": [
+            "ex-first-cond-01",
+            "ex-first-cond-02",
+            "ex-first-cond-03",
+            "ex-first-cond-04",
+            "ex-first-cond-05",
+            "ex-first-cond-06"
+          ]
+        },
+        {
+          "label": "If sonda",
+          "pattern": "will + yalın fiil + if + Present Simple",
+          "exampleIds": [
+            "ex-first-cond-13",
+            "ex-first-cond-14",
+            "ex-first-cond-12"
+          ]
+        },
+        {
+          "label": "Olumsuz koşul",
+          "pattern": "If + özne + don’t / doesn’t + fiil, will …",
+          "exampleIds": [
+            "ex-first-cond-07",
+            "ex-first-cond-08",
+            "ex-first-cond-09"
+          ]
+        },
+        {
+          "label": "Olumsuz sonuç",
+          "pattern": "… won’t + yalın fiil",
+          "exampleIds": [
+            "ex-first-cond-10",
+            "ex-first-cond-11",
+            "ex-first-cond-12"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "What will you do if …?   Will you … if …?",
+          "exampleIds": [
+            "ex-first-cond-15",
+            "ex-first-cond-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "type": "rule",
+      "title": "Ana cümlede başka yapılar",
+      "paragraphs": [
+        "Sonuç cümlesinde will yerine emir, can, may, might, should da gelebilir."
+      ],
+      "formulas": [
+        {
+          "label": "Emir",
+          "pattern": "If + Present Simple, + emir",
+          "exampleIds": [
+            "ex-first-cond-18",
+            "ex-first-cond-19"
+          ]
+        },
+        {
+          "label": "Can / should / might",
+          "pattern": "If + Present Simple, + can / should / might + fiil",
+          "exampleIds": [
+            "ex-first-cond-20",
+            "ex-first-cond-21",
+            "ex-first-cond-22"
+          ]
+        },
+        {
+          "label": "Teklif",
+          "pattern": "If + Present Simple, I’ll + fiil",
+          "exampleIds": [
+            "ex-first-cond-17",
+            "ex-first-cond-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "type": "rule",
+      "title": "When, as soon as, before, until, unless",
+      "paragraphs": [
+        "Gelecekle ilgili zaman cümlelerinde de will kullanılmaz: when, as soon as, before, after, until’dan sonra Present Simple gelir. Unless, “if … not” demektir."
+      ],
+      "formulas": [
+        {
+          "label": "Zaman bağlaçları",
+          "pattern": "when / as soon as / before / after / until + Present Simple",
+          "exampleIds": [
+            "ex-first-cond-23",
+            "ex-first-cond-24",
+            "ex-first-cond-25",
+            "ex-first-cond-26"
+          ]
+        },
+        {
+          "label": "Unless",
+          "pattern": "Unless + olumlu Present Simple = If … not",
+          "exampleIds": [
+            "ex-first-cond-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "type": "forms",
+      "title": "Zero ve First Conditional",
+      "forms": [
+        {
+          "label": "Zero Conditional",
+          "formula": "If + Present, Present",
+          "exampleIds": [
+            "ex-first-cond-01"
+          ],
+          "note": "Genel doğru: If you heat ice, it melts."
+        },
+        {
+          "label": "First Conditional",
+          "formula": "If + Present, will + fiil",
+          "exampleIds": [
+            "ex-first-cond-01"
+          ],
+          "note": "Belirli gelecek: If it rains tomorrow, I will stay."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: temel yapı",
+      "exampleIds": [
+        "ex-first-cond-01",
+        "ex-first-cond-02",
+        "ex-first-cond-03",
+        "ex-first-cond-04",
+        "ex-first-cond-05",
+        "ex-first-cond-06",
+        "ex-first-cond-07",
+        "ex-first-cond-08",
+        "ex-first-cond-09",
+        "ex-first-cond-10",
+        "ex-first-cond-11",
+        "ex-first-cond-12",
+        "ex-first-cond-13",
+        "ex-first-cond-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, ana cümle ve zaman bağlaçları",
+      "exampleIds": [
+        "ex-first-cond-15",
+        "ex-first-cond-16",
+        "ex-first-cond-17",
+        "ex-first-cond-18",
+        "ex-first-cond-19",
+        "ex-first-cond-20",
+        "ex-first-cond-21",
+        "ex-first-cond-22",
+        "ex-first-cond-23",
+        "ex-first-cond-24",
+        "ex-first-cond-25",
+        "ex-first-cond-26",
+        "ex-first-cond-27",
+        "ex-first-cond-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "If it will rain, I will stay at home.",
+          "right": "If it rains, I will stay at home.",
+          "explanation": "If cümlesinde will olmaz."
+        },
+        {
+          "wrong": "If it rains, I stay at home. (belirli gelecek)",
+          "right": "If it rains, I will stay at home.",
+          "explanation": "Belirli gelecek için will gerekir."
+        },
+        {
+          "wrong": "If it rains I will stay.",
+          "right": "If it rains, I will stay.",
+          "explanation": "If başta ise virgül."
+        },
+        {
+          "wrong": "I will stay at home, if it rains.",
+          "right": "I will stay at home if it rains.",
+          "explanation": "If sondaysa virgül yok."
+        },
+        {
+          "wrong": "When I will arrive, I will call you.",
+          "right": "When I arrive, I will call you.",
+          "explanation": "When'den sonra Present Simple."
+        },
+        {
+          "wrong": "If she will come, I will tell her.",
+          "right": "If she comes, I will tell her.",
+          "explanation": "If cümlesinde will olmaz."
+        },
+        {
+          "wrong": "If he doesn't study, he fails.",
+          "right": "If he doesn't study, he will fail.",
+          "explanation": "Belirli gelecek: will."
+        },
+        {
+          "wrong": "Unless you don't hurry, you will miss the train.",
+          "right": "Unless you hurry, you will miss the train.",
+          "explanation": "Unless zaten olumsuzdur."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Zero Conditional",
+          "body": "Genel doğrularda if + Present, Present kullanılır.",
+          "lessonId": "a2-zero-conditional"
+        },
+        {
+          "topic": "Will",
+          "body": "Sonuç cümlesindeki will, tahmin ve söz için kullanılır.",
+          "lessonId": "a2-will"
+        },
+        {
+          "topic": "Second Conditional",
+          "body": "Gerçek dışı durumlar B1'de işlenir.",
+          "lessonId": "b1-first-vs-second-conditional"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "If cümlesinde will yok; Present Simple kullan.",
+        "Sonuç cümlesinde will (ya da emir, can, might, should).",
+        "If başta ise virgül; sonda ise virgülsüz.",
+        "When, as soon as, before, until'dan sonra da will yok.",
+        "Unless = if … not; Unless'ten sonra olumlu fiil."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-first-cond-01",
+        "q-first-cond-02",
+        "q-first-cond-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-first-cond-01",
+      "en": "If it rains tomorrow, I will stay at home.",
+      "tr": "Yarın yağmur yağarsa evde kalacağım.",
+      "highlight": "If it rains tomorrow, I will stay",
+      "note": "If + Present Simple, will + fiil"
+    },
+    {
+      "id": "ex-first-cond-02",
+      "en": "If you study hard, you will pass the exam.",
+      "tr": "Sıkı çalışırsan sınavı geçeceksin.",
+      "highlight": "If you study hard, you will pass"
+    },
+    {
+      "id": "ex-first-cond-03",
+      "en": "If she calls, I will tell her.",
+      "tr": "Ararsa ona söylerim.",
+      "highlight": "If she calls, I will tell"
+    },
+    {
+      "id": "ex-first-cond-04",
+      "en": "If we leave now, we will catch the bus.",
+      "tr": "Şimdi çıkarsak otobüse yetişiriz.",
+      "highlight": "If we leave now, we will catch"
+    },
+    {
+      "id": "ex-first-cond-05",
+      "en": "If he comes, we will start the meeting.",
+      "tr": "Gelirse toplantıyı başlatırız.",
+      "highlight": "If he comes, we will start"
+    },
+    {
+      "id": "ex-first-cond-06",
+      "en": "If it is sunny, we will go to the beach.",
+      "tr": "Hava güneşliyse sahile gideceğiz.",
+      "highlight": "If it is sunny, we will go"
+    },
+    {
+      "id": "ex-first-cond-07",
+      "en": "If you don't hurry, you will miss the train.",
+      "tr": "Acele etmezsen treni kaçıracaksın.",
+      "highlight": "If you don't hurry, you will miss",
+      "note": "olumsuz if"
+    },
+    {
+      "id": "ex-first-cond-08",
+      "en": "If she doesn't study, she will fail.",
+      "tr": "Çalışmazsa kalacak.",
+      "highlight": "If she doesn't study, she will fail"
+    },
+    {
+      "id": "ex-first-cond-09",
+      "en": "If it doesn't rain, we will play outside.",
+      "tr": "Yağmur yağmazsa dışarıda oynarız.",
+      "highlight": "If it doesn't rain, we will play"
+    },
+    {
+      "id": "ex-first-cond-10",
+      "en": "I won't go if it rains.",
+      "tr": "Yağmur yağarsa gitmeyeceğim.",
+      "highlight": "I won't go if it rains",
+      "note": "won't: olumsuz sonuç"
+    },
+    {
+      "id": "ex-first-cond-11",
+      "en": "If he is late, we won't wait.",
+      "tr": "Geç kalırsa beklemeyeceğiz.",
+      "highlight": "If he is late, we won't wait"
+    },
+    {
+      "id": "ex-first-cond-12",
+      "en": "She won't pass if she doesn't study.",
+      "tr": "Çalışmazsa geçmeyecek.",
+      "highlight": "She won't pass if she doesn't study"
+    },
+    {
+      "id": "ex-first-cond-13",
+      "en": "We will stay at home if it rains.",
+      "tr": "Yağmur yağarsa evde kalacağız.",
+      "highlight": "We will stay at home if it rains",
+      "note": "if sonda: virgül yok"
+    },
+    {
+      "id": "ex-first-cond-14",
+      "en": "You will miss the train if you don't hurry.",
+      "tr": "Acele etmezsen treni kaçıracaksın.",
+      "highlight": "You will miss the train if you don't hurry"
+    },
+    {
+      "id": "ex-first-cond-15",
+      "en": "What will you do if it rains?",
+      "tr": "Yağmur yağarsa ne yapacaksın?",
+      "highlight": "What will you do if it rains?",
+      "note": "soru"
+    },
+    {
+      "id": "ex-first-cond-16",
+      "en": "Will you come if I invite you?",
+      "tr": "Davet edersem gelir misin?",
+      "highlight": "Will you come if I invite you?"
+    },
+    {
+      "id": "ex-first-cond-17",
+      "en": "If you need help, I'll help you.",
+      "tr": "Yardıma ihtiyacın olursa sana yardım ederim.",
+      "highlight": "If you need help, I'll help you",
+      "note": "teklif"
+    },
+    {
+      "id": "ex-first-cond-18",
+      "en": "If you see Tom, tell him to call me.",
+      "tr": "Tom'u görürsen beni aramasını söyle.",
+      "highlight": "If you see Tom, tell him",
+      "note": "emir cümlesi ana cümle"
+    },
+    {
+      "id": "ex-first-cond-19",
+      "en": "If you see Tom, please tell him.",
+      "tr": "Tom'u görürsen lütfen ona söyle.",
+      "highlight": "If you see Tom, please tell him"
+    },
+    {
+      "id": "ex-first-cond-20",
+      "en": "If you finish early, you can go home.",
+      "tr": "Erken bitirirsen eve gidebilirsin.",
+      "highlight": "If you finish early, you can go home",
+      "note": "can / may / should da gelebilir"
+    },
+    {
+      "id": "ex-first-cond-21",
+      "en": "If you are tired, you should rest.",
+      "tr": "Yorgunsan dinlenmelisin.",
+      "highlight": "If you are tired, you should rest"
+    },
+    {
+      "id": "ex-first-cond-22",
+      "en": "If it snows, the school might close.",
+      "tr": "Kar yağarsa okul kapanabilir.",
+      "highlight": "If it snows, the school might close"
+    },
+    {
+      "id": "ex-first-cond-23",
+      "en": "I'll call you when I arrive.",
+      "tr": "Varınca seni arayacağım.",
+      "highlight": "when I arrive",
+      "note": "when / as soon as / before / after + Present Simple"
+    },
+    {
+      "id": "ex-first-cond-24",
+      "en": "I'll call you as soon as I get home.",
+      "tr": "Eve gelir gelmez seni arayacağım.",
+      "highlight": "as soon as I get home"
+    },
+    {
+      "id": "ex-first-cond-25",
+      "en": "We will leave before it gets dark.",
+      "tr": "Hava kararmadan çıkacağız.",
+      "highlight": "before it gets dark"
+    },
+    {
+      "id": "ex-first-cond-26",
+      "en": "I will wait until you come.",
+      "tr": "Sen gelene kadar bekleyeceğim.",
+      "highlight": "until you come"
+    },
+    {
+      "id": "ex-first-cond-27",
+      "en": "Unless you hurry, you will miss the train.",
+      "tr": "Acele etmezsen treni kaçıracaksın.",
+      "highlight": "Unless you hurry",
+      "note": "unless = if … not"
+    },
+    {
+      "id": "ex-first-cond-28",
+      "en": "If he doesn't call, I'll send him a message.",
+      "tr": "Aramazsa ona mesaj atarım.",
+      "highlight": "If he doesn't call, I'll send"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-first-cond-01",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If it rains tomorrow, I ___ stay at home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "stayed"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: will.",
+      "optionExplanations": {
+        "b": "Would farklı koşuldur.",
+        "c": "Be fiili.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-02",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If you study hard, you ___ pass the exam.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Sonuç: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "would",
+          "explanation": "Would farklı koşuldur."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-03",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın yağmur yağarsa evde kalacağım.",
+      "answer": [
+        "If",
+        "it",
+        "rains",
+        "tomorrow",
+        "I",
+        "will",
+        "stay",
+        "at",
+        "home"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "would",
+        "rain"
+      ],
+      "explanation": "If + Present, will + fiil",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-cond-04",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it will rain, I will stay at home.",
+      "errorSpan": "will rain",
+      "answers": [
+        "If it rains, I will stay at home."
+      ],
+      "explanation": "If cümlesinde will olmaz.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-05",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ararsa ona söylerim.",
+      "hint": "aramak: call",
+      "answers": [
+        "If she calls, I will tell her.",
+        "If she calls, I'll tell her.",
+        "I will tell her if she calls."
+      ],
+      "targetStructure": "If + Present, will",
+      "explanation": "First Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If she will call, I will tell her.",
+          "explanation": "If cümlesinde will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-06",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If we leave now, we ___ catch the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "caught"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: will.",
+      "optionExplanations": {
+        "b": "Would farklı.",
+        "c": "Be fiili.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-07",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If she ___, I will tell her.",
+      "options": [
+        {
+          "id": "a",
+          "text": "calls"
+        },
+        {
+          "id": "b",
+          "text": "will call"
+        },
+        {
+          "id": "c",
+          "text": "called"
+        },
+        {
+          "id": "d",
+          "text": "would call"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Present Simple.",
+      "optionExplanations": {
+        "b": "If'ten sonra will olmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "Would olmaz."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-08",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If he comes, we ___ start the meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will"
+        },
+        {
+          "id": "b",
+          "text": "would"
+        },
+        {
+          "id": "c",
+          "text": "started"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sonuç: will.",
+      "optionExplanations": {
+        "b": "Would farklı.",
+        "c": "Geçmiş zaman.",
+        "d": "Be fiili."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-09",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If it ___ sunny, we will go to the beach. (be)",
+      "answers": [
+        "is"
+      ],
+      "explanation": "If + Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will be",
+          "explanation": "If'ten sonra will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-10",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If you don't hurry, you ___ miss the train.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Sonuç: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "would",
+          "explanation": "Would farklı."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-11",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If she doesn't study, she ___ fail.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Sonuç: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "would",
+          "explanation": "Would farklı."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-12",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it rains, I will stay at home."
+        },
+        {
+          "id": "b",
+          "text": "If it will rain, I will stay at home."
+        },
+        {
+          "id": "c",
+          "text": "If it rains, I stay at home will."
+        },
+        {
+          "id": "d",
+          "text": "If it rain, I will stay at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Present, will.",
+      "optionExplanations": {
+        "b": "If'ten sonra will olmaz.",
+        "c": "Sıra bozuk.",
+        "d": "It ile rains."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-13",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I will stay at home if it rains."
+        },
+        {
+          "id": "b",
+          "text": "I will stay at home, if it rains."
+        },
+        {
+          "id": "c",
+          "text": "I will stay at home if it will rain."
+        },
+        {
+          "id": "d",
+          "text": "I stay at home if it will rain."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If sonda: virgül yok.",
+      "optionExplanations": {
+        "b": "Virgül konmaz.",
+        "c": "If'ten sonra will olmaz.",
+        "d": "Will yanlış yerde."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-cond-14",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I won't go if it rains."
+        },
+        {
+          "id": "b",
+          "text": "I don't go if it will rain."
+        },
+        {
+          "id": "c",
+          "text": "I won't go if it will rain."
+        },
+        {
+          "id": "d",
+          "text": "I won't to go if it rains."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Won't + yalın fiil.",
+      "optionExplanations": {
+        "b": "If'ten sonra will olmaz.",
+        "c": "If'ten sonra will olmaz.",
+        "d": "To yok."
+      },
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-15",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "When I ___, I will call you.",
+      "options": [
+        {
+          "id": "a",
+          "text": "arrive"
+        },
+        {
+          "id": "b",
+          "text": "will arrive"
+        },
+        {
+          "id": "c",
+          "text": "arrived"
+        },
+        {
+          "id": "d",
+          "text": "would arrive"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When + Present Simple.",
+      "optionExplanations": {
+        "b": "When'den sonra will olmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "Would olmaz."
+      },
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-16",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I'll call you as soon as I ___ home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "get"
+        },
+        {
+          "id": "b",
+          "text": "will get"
+        },
+        {
+          "id": "c",
+          "text": "got"
+        },
+        {
+          "id": "d",
+          "text": "would get"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "As soon as + Present.",
+      "optionExplanations": {
+        "b": "As soon as'ten sonra will olmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "Would olmaz."
+      },
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-17",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you hurry, you will miss the train. (acele etmezsen)",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unless"
+        },
+        {
+          "id": "b",
+          "text": "If"
+        },
+        {
+          "id": "c",
+          "text": "When"
+        },
+        {
+          "id": "d",
+          "text": "Because"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Unless = if … not.",
+      "optionExplanations": {
+        "b": "If olumsuz fiil gerektirir.",
+        "c": "When zaman bağlacıdır.",
+        "d": "Because neden bildirir."
+      },
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-18",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If he ___ late, we won't wait. (be)",
+      "answers": [
+        "is"
+      ],
+      "explanation": "If + Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will be",
+          "explanation": "If'ten sonra will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-19",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ stay at home if it rains.",
+      "answers": [
+        "will"
+      ],
+      "explanation": "Sonuç: will.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "would",
+          "explanation": "Would farklı."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-20",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you do if it rains?",
+      "answers": [
+        "will"
+      ],
+      "explanation": "What will you do?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Will gerekir."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-cond-21",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you come if I invite you?",
+      "answers": [
+        "Will"
+      ],
+      "explanation": "Will + özne.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Will gerekir."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-cond-22",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If you finish early, you ___ go home. (can)",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Can de gelebilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will can",
+          "explanation": "Will can olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "other"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-first-cond-23",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I will wait ___ you come.",
+      "answers": [
+        "until"
+      ],
+      "explanation": "Until.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "when",
+          "explanation": "Bu anlam için until."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-first-cond-24",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We will leave ___ it gets dark. (karanlık olmadan)",
+      "answers": [
+        "before"
+      ],
+      "explanation": "Before.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "after",
+          "explanation": "Anlam tersine döner."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-first-cond-25",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I'll call you ___ I arrive. (varınca)",
+      "answers": [
+        "when"
+      ],
+      "explanation": "When.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "until",
+          "explanation": "Until başka anlam."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-first-cond-26",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it will rain, I will stay.",
+      "errorSpan": "will rain",
+      "answers": [
+        "If it rains, I will stay."
+      ],
+      "explanation": "If cümlesinde will olmaz.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-27",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it rains I will stay.",
+      "errorSpan": "rains I",
+      "answers": [
+        "If it rains, I will stay."
+      ],
+      "explanation": "If başta ise virgül.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-cond-28",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I will stay at home, if it rains.",
+      "errorSpan": ", if",
+      "answers": [
+        "I will stay at home if it rains."
+      ],
+      "explanation": "If sondaysa virgül konmaz.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-first-cond-29",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "When I will arrive, I will call you.",
+      "errorSpan": "will arrive",
+      "answers": [
+        "When I arrive, I will call you."
+      ],
+      "explanation": "When'den sonra Present Simple.",
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-30",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If she will come, I will tell her.",
+      "errorSpan": "will come",
+      "answers": [
+        "If she comes, I will tell her."
+      ],
+      "explanation": "If cümlesinde will olmaz.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-31",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Acele etmezsen treni kaçıracaksın.",
+      "answer": [
+        "If",
+        "you",
+        "don't",
+        "hurry",
+        "you",
+        "will",
+        "miss",
+        "the",
+        "train"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "won't",
+        "would"
+      ],
+      "explanation": "olumsuz If",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-32",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yağmur yağarsa ne yapacaksın?",
+      "answer": [
+        "What",
+        "will",
+        "you",
+        "do",
+        "if",
+        "it",
+        "rains"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "would"
+      ],
+      "explanation": "What will you do if …",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-first-cond-33",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Varınca seni arayacağım.",
+      "answer": [
+        "I'll",
+        "call",
+        "you",
+        "when",
+        "I",
+        "arrive"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "arrived"
+      ],
+      "explanation": "when + Present",
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-first-cond-34",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şimdi çıkarsak otobüse yetişiriz.",
+      "hint": "yetişmek: catch",
+      "answers": [
+        "If we leave now, we will catch the bus.",
+        "If we leave now we'll catch the bus.",
+        "We will catch the bus if we leave now."
+      ],
+      "targetStructure": "If + Present, will",
+      "explanation": "First Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If we will leave now, we will catch the bus.",
+          "explanation": "If cümlesinde will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-35",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çalışmazsa kalacak.",
+      "hint": "kalmak (sınıfta): fail",
+      "answers": [
+        "If she doesn't study, she will fail.",
+        "She will fail if she doesn't study."
+      ],
+      "targetStructure": "olumsuz If",
+      "explanation": "First Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If she won't study, she will fail.",
+          "explanation": "If cümlesinde will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-36",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Eve gelir gelmez seni arayacağım.",
+      "hint": "eve gelmek: get home",
+      "answers": [
+        "I'll call you as soon as I get home.",
+        "I will call you as soon as I get home."
+      ],
+      "targetStructure": "as soon as + Present",
+      "explanation": "Zaman bağlacı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'll call you as soon as I will get home.",
+          "explanation": "As soon as'ten sonra will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-37",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi First Conditional'dır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it rains tomorrow, I will stay at home."
+        },
+        {
+          "id": "b",
+          "text": "If you heat ice, it melts."
+        },
+        {
+          "id": "c",
+          "text": "If I were rich, I would travel."
+        },
+        {
+          "id": "d",
+          "text": "If I had known, I would have come."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Belirli gelecek.",
+      "optionExplanations": {
+        "b": "Zero Conditional.",
+        "c": "Second Conditional.",
+        "d": "Third Conditional."
+      },
+      "tags": [
+        "first-cond",
+        "zero"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-first-cond-38",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unless you hurry, you will miss the train."
+        },
+        {
+          "id": "b",
+          "text": "Unless you don't hurry, you will miss the train."
+        },
+        {
+          "id": "c",
+          "text": "Unless you will hurry, you miss the train."
+        },
+        {
+          "id": "d",
+          "text": "Unless you hurry, you miss will the train."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Unless zaten olumsuz.",
+      "optionExplanations": {
+        "b": "Unless + olumlu fiil.",
+        "c": "If'ten sonra will olmaz.",
+        "d": "Sıra bozuk."
+      },
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-39",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "If you see Tom, ___ him to call me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "tell"
+        },
+        {
+          "id": "b",
+          "text": "will tell"
+        },
+        {
+          "id": "c",
+          "text": "told"
+        },
+        {
+          "id": "d",
+          "text": "telling"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ana cümle emir olabilir.",
+      "optionExplanations": {
+        "b": "Burada emir gerekir.",
+        "c": "Geçmiş zaman.",
+        "d": "-ing olmaz."
+      },
+      "tags": [
+        "first-cond",
+        "other"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-first-cond-40",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If it snows, the school ___ close. (might)",
+      "answers": [
+        "might"
+      ],
+      "explanation": "Might olasılık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will might",
+          "explanation": "İki modal olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "other"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-first-cond-41",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If you are tired, you ___ rest. (should)",
+      "answers": [
+        "should"
+      ],
+      "explanation": "Tavsiye: should.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will should",
+          "explanation": "İki modal olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "other"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-first-cond-42",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sen gelene kadar bekleyeceğim.",
+      "hint": "beklemek: wait",
+      "answers": [
+        "I will wait until you come.",
+        "I'll wait until you come."
+      ],
+      "targetStructure": "until + Present",
+      "explanation": "Zaman bağlacı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I will wait until you will come.",
+          "explanation": "Until'den sonra will olmaz."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-first-cond-43",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Acele etmezsen treni kaçıracaksın.",
+      "hint": "acele etmek: hurry",
+      "answers": [
+        "Unless you hurry, you will miss the train.",
+        "If you don't hurry, you will miss the train."
+      ],
+      "targetStructure": "Unless",
+      "explanation": "Unless = if … not.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Unless you don't hurry, you will miss the train.",
+          "explanation": "Unless zaten olumsuzdur."
+        }
+      ],
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-44",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Unless you don't hurry, you will miss the train.",
+      "errorSpan": "Unless you don't",
+      "answers": [
+        "Unless you hurry, you will miss the train.",
+        "If you don't hurry, you will miss the train."
+      ],
+      "explanation": "Unless zaten olumsuzdur.",
+      "tags": [
+        "first-cond",
+        "time"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-first-cond-45",
+      "lessonId": "a2-first-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If he doesn't study, he fails the exam tomorrow.",
+      "errorSpan": "he fails",
+      "answers": [
+        "If he doesn't study, he will fail the exam tomorrow."
+      ],
+      "explanation": "Belirli gelecek: will.",
+      "tags": [
+        "first-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-first-cond",
+    "title": "First Conditional: Konu sonu sınavı",
+    "description": "If + Present Simple, will + fiil.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-first-cond-exam-01",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If you leave early, you ___ get a seat.",
+        "options": [
+          {
+            "id": "a",
+            "text": "will"
+          },
+          {
+            "id": "b",
+            "text": "would"
+          },
+          {
+            "id": "c",
+            "text": "got"
+          },
+          {
+            "id": "d",
+            "text": "are"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sonuç: will.",
+        "optionExplanations": {
+          "b": "Would farklı.",
+          "c": "Geçmiş zaman.",
+          "d": "Be fiili."
+        },
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-02",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "If my friend ___ me, I will answer. (text)",
+        "answers": [
+          "texts"
+        ],
+        "explanation": "If + Present Simple, üçüncü tekil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "will text",
+            "explanation": "If'ten sonra will olmaz."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-03",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hava güneşliyse sahile gideceğiz.",
+        "answer": [
+          "If",
+          "it",
+          "is",
+          "sunny",
+          "we",
+          "will",
+          "go",
+          "to",
+          "the",
+          "beach"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "would",
+          "goes"
+        ],
+        "explanation": "If + Present, will",
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-04",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If they will invite us, we will go.",
+        "errorSpan": "will invite",
+        "answers": [
+          "If they invite us, we will go."
+        ],
+        "explanation": "If cümlesinde will olmaz.",
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-05",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Gelirse toplantıyı başlatırız.",
+        "hint": "başlatmak: start",
+        "answers": [
+          "If he comes, we will start the meeting.",
+          "If he comes, we'll start the meeting.",
+          "We will start the meeting if he comes."
+        ],
+        "targetStructure": "If + Present, will",
+        "explanation": "First Conditional.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If he will come, we will start the meeting.",
+            "explanation": "If cümlesinde will olmaz."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-06",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If he ___ the train, he will be late.",
+        "options": [
+          {
+            "id": "a",
+            "text": "misses"
+          },
+          {
+            "id": "b",
+            "text": "will miss"
+          },
+          {
+            "id": "c",
+            "text": "missed"
+          },
+          {
+            "id": "d",
+            "text": "would miss"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "If + Present Simple.",
+        "optionExplanations": {
+          "b": "If'ten sonra will olmaz.",
+          "c": "Geçmiş.",
+          "d": "Would olmaz."
+        },
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-07",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I'll call you ___ I get home. (eve gelir gelmez)",
+        "answers": [
+          "as soon as"
+        ],
+        "explanation": "As soon as.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "until",
+            "explanation": "Anlam farklı."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-08",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Davet edersem gelir misin?",
+        "answer": [
+          "Will",
+          "you",
+          "come",
+          "if",
+          "I",
+          "invite",
+          "you"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Do",
+          "would"
+        ],
+        "explanation": "Will … if …",
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-09",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If it snows the school will close.",
+        "errorSpan": "snows the",
+        "answers": [
+          "If it snows, the school will close."
+        ],
+        "explanation": "Virgül gerekir.",
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-10",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Yağmur yağmazsa dışarıda oynarız.",
+        "hint": "oynamak: play",
+        "answers": [
+          "If it doesn't rain, we will play outside.",
+          "If it doesn't rain, we'll play outside.",
+          "We will play outside if it doesn't rain."
+        ],
+        "targetStructure": "olumsuz If",
+        "explanation": "First Conditional.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If it won't rain, we will play outside.",
+            "explanation": "If cümlesinde will olmaz."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-11",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We will stay home if it snows."
+          },
+          {
+            "id": "b",
+            "text": "We will stay home, if it snows."
+          },
+          {
+            "id": "c",
+            "text": "We will stay home if it will snow."
+          },
+          {
+            "id": "d",
+            "text": "We stay home if it will snow."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "If sonda: virgül yok.",
+        "optionExplanations": {
+          "b": "Virgül konmaz.",
+          "c": "If'ten sonra will olmaz.",
+          "d": "Will yanlış yerde."
+        },
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-12",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you finish early, you can go home. (if / when)",
+        "answers": [
+          "If",
+          "When"
+        ],
+        "explanation": "If / when.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Unless",
+            "explanation": "Anlam bozulur."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-13",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "When I will see him, I will tell him.",
+        "errorSpan": "will see",
+        "answers": [
+          "When I see him, I will tell him."
+        ],
+        "explanation": "When'den sonra Present Simple.",
+        "tags": [
+          "first-cond",
+          "time"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-14",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi First Conditional'dır?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If it snows, the school will close."
+          },
+          {
+            "id": "b",
+            "text": "If you cool water, it freezes."
+          },
+          {
+            "id": "c",
+            "text": "If I were you, I would go."
+          },
+          {
+            "id": "d",
+            "text": "If I had seen it, I would have called."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Belirli gelecek.",
+        "optionExplanations": {
+          "b": "Zero Conditional.",
+          "c": "Second Conditional.",
+          "d": "Third Conditional."
+        },
+        "tags": [
+          "first-cond",
+          "zero"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-15",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "I will wait ___ you finish. (sen bitirene kadar)",
+        "answers": [
+          "until"
+        ],
+        "explanation": "Until.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "when",
+            "explanation": "Until anlamı gerekir."
+          }
+        ],
+        "tags": [
+          "first-cond",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-first-cond-exam-16",
+        "lessonId": "a2-first-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Gelmezse ona mesaj atarım.",
+        "answer": [
+          "If",
+          "he",
+          "doesn't",
+          "come",
+          "I'll",
+          "send",
+          "him",
+          "a",
+          "message"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "won't",
+          "comes"
+        ],
+        "explanation": "olumsuz If",
+        "tags": [
+          "first-cond",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      }
+    ]
+  }
+}

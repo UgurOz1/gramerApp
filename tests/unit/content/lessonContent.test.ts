@@ -115,6 +115,7 @@ describeLesson("a2-adjectives-adverbs", { examples: 28, exercises: 40, exam: 16 
 describeLesson("a2-must-have-to", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-should", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a2-zero-conditional", { examples: 28, exercises: 40, exam: 16 });
+describeLesson("a2-first-conditional", { examples: 28, exercises: 40, exam: 16 });
 describeLesson("a1-to-be", { examples: 24, exercises: 36, exam: 20 });
 describeLesson("a1-present-simple", { examples: 30, exercises: 40, exam: 20 });
 describeLesson("a1-present-continuous", { examples: 30, exercises: 40, exam: 20 });
