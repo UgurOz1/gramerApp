@@ -1,0 +1,2092 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-articles-advanced",
+  "levelId": "b1",
+  "title": "Articles: Advanced",
+  "objectives": [
+    "Genellemelerde artikel kullanımını (artikelsiz çoğul ve sayılamayan) bilmek",
+    "The ile belirli ve tek olan şeyleri anlatmak",
+    "Kurum, yer ve coğrafi adlarda the kullanımını ayırt etmek",
+    "Sık yapılan artikel hatalarını düzeltmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "A, an, the ve artikelsiz kullanım",
+      "paragraphs": [
+        "Türkçede artikel yoktur, bu yüzden a / an / the seçimi zor gelir. Temel mantık: Dinleyicinin hangisini kastettiğini bildiği şey için the; ilk kez söz edilen tek bir şey için a / an; genel anlamda çoğul ve sayılamayan isimlerde artikelsiz.",
+        "Bu derste genellemeleri, kurum adlarını, coğrafi adları ve sık yapılan hataları öğreniyoruz."
+      ]
+    },
+    {
+      "id": "rule-1",
+      "type": "rule",
+      "title": "Genellemelerde artikel yok",
+      "paragraphs": [
+        "Çoğul ve sayılamayan isimlerle genel konuşurken artikel kullanılmaz."
+      ],
+      "formulas": [
+        {
+          "label": "Çoğul",
+          "pattern": "Dogs are friendly.",
+          "exampleIds": [
+            "ex-articles-advanced-01",
+            "ex-articles-advanced-02"
+          ]
+        },
+        {
+          "label": "Sayılamayan",
+          "pattern": "Water is important.",
+          "exampleIds": [
+            "ex-articles-advanced-03",
+            "ex-articles-advanced-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-2",
+      "type": "rule",
+      "title": "A / an: ilk söz ve tek",
+      "paragraphs": [
+        "Bir şeyden ilk kez söz ederken ya da meslek ve kimlik belirtirken a / an kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "İlk söz",
+          "pattern": "I saw a dog.",
+          "exampleIds": [
+            "ex-articles-advanced-05",
+            "ex-articles-advanced-06"
+          ]
+        },
+        {
+          "label": "Meslek",
+          "pattern": "She is a nurse.",
+          "exampleIds": [
+            "ex-articles-advanced-07",
+            "ex-articles-advanced-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-3",
+      "type": "rule",
+      "title": "The: belli ve tek",
+      "paragraphs": [
+        "Önceden bahsedilen, bağlamdan belli olan ya da dünyada tek olan şeyler için the kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "İkinci söz",
+          "pattern": "I saw a dog. The dog was big.",
+          "exampleIds": [
+            "ex-articles-advanced-09",
+            "ex-articles-advanced-10"
+          ]
+        },
+        {
+          "label": "Tek",
+          "pattern": "the sun, the moon, the sky",
+          "exampleIds": [
+            "ex-articles-advanced-11",
+            "ex-articles-advanced-12"
+          ]
+        },
+        {
+          "label": "Üstünlük",
+          "pattern": "the best, the first, the only",
+          "exampleIds": [
+            "ex-articles-advanced-13",
+            "ex-articles-advanced-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-4",
+      "type": "rule",
+      "title": "Kurumlar: amaç mı, bina mı?",
+      "paragraphs": [
+        "School, hospital, church, prison, university gibi kurumlarda asıl amaçla gidildiğinde artikel kullanılmaz; sadece binadan söz edildiğinde the kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Amaç",
+          "pattern": "go to school / hospital / bed / work",
+          "exampleIds": [
+            "ex-articles-advanced-15",
+            "ex-articles-advanced-16",
+            "ex-articles-advanced-17"
+          ]
+        },
+        {
+          "label": "Bina",
+          "pattern": "go to the school (veli toplantısına)",
+          "exampleIds": [
+            "ex-articles-advanced-18",
+            "ex-articles-advanced-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-5",
+      "type": "rule",
+      "title": "Coğrafi adlar",
+      "paragraphs": [
+        "Ülke ve şehirlerde genellikle artikel yoktur. The ile kullanılanlar: okyanuslar, denizler, nehirler, dağ silsileleri, çoğul adlar ve birleşik ülke adları."
+      ],
+      "formulas": [
+        {
+          "label": "Artikelsiz",
+          "pattern": "France, London, Mount Everest, Lake Van",
+          "exampleIds": [
+            "ex-articles-advanced-20",
+            "ex-articles-advanced-21"
+          ]
+        },
+        {
+          "label": "The ile",
+          "pattern": "the Nile, the Alps, the Pacific, the UK, the USA",
+          "exampleIds": [
+            "ex-articles-advanced-22",
+            "ex-articles-advanced-23",
+            "ex-articles-advanced-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rule-6",
+      "type": "rule",
+      "title": "Diğer sık kullanımlar",
+      "paragraphs": [
+        "Öğün adları, spor ve dil adları artikel almaz. Müzik aletlerinde the kullanılır. Günlerde ve aylarda artikel yoktur."
+      ],
+      "formulas": [
+        {
+          "label": "Öğün / spor / dil",
+          "pattern": "have breakfast, play football, speak English",
+          "exampleIds": [
+            "ex-articles-advanced-25",
+            "ex-articles-advanced-26"
+          ]
+        },
+        {
+          "label": "Alet",
+          "pattern": "play the piano / the guitar",
+          "exampleIds": [
+            "ex-articles-advanced-27",
+            "ex-articles-advanced-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler (1)",
+      "exampleIds": [
+        "ex-articles-advanced-01",
+        "ex-articles-advanced-02",
+        "ex-articles-advanced-03",
+        "ex-articles-advanced-04",
+        "ex-articles-advanced-05",
+        "ex-articles-advanced-06",
+        "ex-articles-advanced-07",
+        "ex-articles-advanced-08",
+        "ex-articles-advanced-09",
+        "ex-articles-advanced-10",
+        "ex-articles-advanced-11",
+        "ex-articles-advanced-12",
+        "ex-articles-advanced-13",
+        "ex-articles-advanced-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler (2)",
+      "exampleIds": [
+        "ex-articles-advanced-15",
+        "ex-articles-advanced-16",
+        "ex-articles-advanced-17",
+        "ex-articles-advanced-18",
+        "ex-articles-advanced-19",
+        "ex-articles-advanced-20",
+        "ex-articles-advanced-21",
+        "ex-articles-advanced-22",
+        "ex-articles-advanced-23",
+        "ex-articles-advanced-24",
+        "ex-articles-advanced-25",
+        "ex-articles-advanced-26",
+        "ex-articles-advanced-27",
+        "ex-articles-advanced-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She is nurse.",
+          "right": "She is a nurse.",
+          "explanation": "Mesleklerden önce a / an gerekir."
+        },
+        {
+          "wrong": "I like the music.",
+          "right": "I like music.",
+          "explanation": "Genellemelerde artikel kullanılmaz."
+        },
+        {
+          "wrong": "He plays the football.",
+          "right": "He plays football.",
+          "explanation": "Spor adı artikelsiz."
+        },
+        {
+          "wrong": "She plays guitar.",
+          "right": "She plays the guitar.",
+          "explanation": "Müzik aletinde the kullanılır."
+        },
+        {
+          "wrong": "Nile is long.",
+          "right": "The Nile is long.",
+          "explanation": "Nehir adı the alır."
+        },
+        {
+          "wrong": "I go to the school every day. (öğrenci)",
+          "right": "I go to school every day.",
+          "explanation": "Amaç için artikelsiz."
+        },
+        {
+          "wrong": "I saw the accident. (ilk söz)",
+          "right": "I saw an accident.",
+          "explanation": "İlk sözde a / an."
+        },
+        {
+          "wrong": "I speak the English.",
+          "right": "I speak English.",
+          "explanation": "Dil adı artikelsiz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "A1 Articles",
+          "body": "Temel a / an / the farkını hatırla.",
+          "lessonId": "a1-articles"
+        },
+        {
+          "topic": "Quantifiers",
+          "body": "Miktar sözcükleri artikelin yerini alabilir.",
+          "lessonId": "b1-quantifiers"
+        },
+        {
+          "topic": "Some / any",
+          "body": "Sayılamayan ve çoğul isimlerde some / any kullanılır.",
+          "lessonId": "a1-countable-some-any"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Genel çoğul ve sayılamayan isimlerde artikel yok.",
+        "A / an ilk sözde, the ikinci sözde.",
+        "Müzik aletinde the, spor adında artikelsiz.",
+        "Kurumlarda amaç varsa artikelsiz, bina varsa the.",
+        "Nehir, deniz, okyanus ve çoğul coğrafi adlar the alır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-articles-advanced-01",
+        "q-articles-advanced-13",
+        "q-articles-advanced-27"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-articles-advanced-01",
+      "en": "Dogs are friendly animals.",
+      "tr": "Köpekler cana yakın hayvanlardır.",
+      "highlight": "Dogs are"
+    },
+    {
+      "id": "ex-articles-advanced-02",
+      "en": "Children need love.",
+      "tr": "Çocukların sevgiye ihtiyacı var.",
+      "highlight": "Children need"
+    },
+    {
+      "id": "ex-articles-advanced-03",
+      "en": "Water is important for life.",
+      "tr": "Su yaşam için önemlidir.",
+      "highlight": "Water is"
+    },
+    {
+      "id": "ex-articles-advanced-04",
+      "en": "Music helps me relax.",
+      "tr": "Müzik rahatlamama yardımcı olur.",
+      "highlight": "Music helps"
+    },
+    {
+      "id": "ex-articles-advanced-05",
+      "en": "I saw a dog in the park.",
+      "tr": "Parkta bir köpek gördüm.",
+      "highlight": "a dog"
+    },
+    {
+      "id": "ex-articles-advanced-06",
+      "en": "She has an umbrella.",
+      "tr": "Bir şemsiyesi var.",
+      "highlight": "an umbrella"
+    },
+    {
+      "id": "ex-articles-advanced-07",
+      "en": "She is a nurse.",
+      "tr": "O bir hemşire.",
+      "highlight": "a nurse"
+    },
+    {
+      "id": "ex-articles-advanced-08",
+      "en": "He wants to be an engineer.",
+      "tr": "Mühendis olmak istiyor.",
+      "highlight": "an engineer"
+    },
+    {
+      "id": "ex-articles-advanced-09",
+      "en": "I saw a dog. The dog was very big.",
+      "tr": "Bir köpek gördüm. Köpek çok büyüktü.",
+      "highlight": "The dog"
+    },
+    {
+      "id": "ex-articles-advanced-10",
+      "en": "Can you open the window, please?",
+      "tr": "Pencereyi açar mısın lütfen?",
+      "highlight": "the window"
+    },
+    {
+      "id": "ex-articles-advanced-11",
+      "en": "The sun rises in the east.",
+      "tr": "Güneş doğudan doğar.",
+      "highlight": "The sun"
+    },
+    {
+      "id": "ex-articles-advanced-12",
+      "en": "The moon is bright tonight.",
+      "tr": "Ay bu gece parlak.",
+      "highlight": "The moon"
+    },
+    {
+      "id": "ex-articles-advanced-13",
+      "en": "He is the best player in the team.",
+      "tr": "Takımın en iyi oyuncusu o.",
+      "highlight": "the best player"
+    },
+    {
+      "id": "ex-articles-advanced-14",
+      "en": "She is the only child in the family.",
+      "tr": "Ailenin tek çocuğu o.",
+      "highlight": "the only child"
+    },
+    {
+      "id": "ex-articles-advanced-15",
+      "en": "The children go to school by bus.",
+      "tr": "Çocuklar okula otobüsle gider.",
+      "highlight": "go to school"
+    },
+    {
+      "id": "ex-articles-advanced-16",
+      "en": "My uncle is in hospital.",
+      "tr": "Amcam hastanede yatıyor.",
+      "highlight": "in hospital"
+    },
+    {
+      "id": "ex-articles-advanced-17",
+      "en": "I go to bed at eleven.",
+      "tr": "Saat on birde yatarım.",
+      "highlight": "go to bed"
+    },
+    {
+      "id": "ex-articles-advanced-18",
+      "en": "I went to the school to meet the teacher.",
+      "tr": "Öğretmenle görüşmek için okula gittim.",
+      "highlight": "to the school"
+    },
+    {
+      "id": "ex-articles-advanced-19",
+      "en": "We visited the hospital to see a friend.",
+      "tr": "Bir arkadaşı görmek için hastaneyi ziyaret ettik.",
+      "highlight": "the hospital"
+    },
+    {
+      "id": "ex-articles-advanced-20",
+      "en": "France is a beautiful country.",
+      "tr": "Fransa güzel bir ülke.",
+      "highlight": "France"
+    },
+    {
+      "id": "ex-articles-advanced-21",
+      "en": "Mount Everest is the highest mountain.",
+      "tr": "Everest Dağı en yüksek dağdır.",
+      "highlight": "Mount Everest"
+    },
+    {
+      "id": "ex-articles-advanced-22",
+      "en": "The Nile is the longest river.",
+      "tr": "Nil en uzun nehirdir.",
+      "highlight": "The Nile"
+    },
+    {
+      "id": "ex-articles-advanced-23",
+      "en": "The Alps are in Europe.",
+      "tr": "Alpler Avrupa'dadır.",
+      "highlight": "The Alps"
+    },
+    {
+      "id": "ex-articles-advanced-24",
+      "en": "The USA is a big country.",
+      "tr": "ABD büyük bir ülke.",
+      "highlight": "The USA"
+    },
+    {
+      "id": "ex-articles-advanced-25",
+      "en": "We have breakfast at eight.",
+      "tr": "Saat sekizde kahvaltı ederiz.",
+      "highlight": "have breakfast"
+    },
+    {
+      "id": "ex-articles-advanced-26",
+      "en": "He plays football every Sunday.",
+      "tr": "Her pazar futbol oynar.",
+      "highlight": "plays football"
+    },
+    {
+      "id": "ex-articles-advanced-27",
+      "en": "She plays the piano very well.",
+      "tr": "Piyanoyu çok iyi çalar.",
+      "highlight": "plays the piano"
+    },
+    {
+      "id": "ex-articles-advanced-28",
+      "en": "I speak English and Turkish.",
+      "tr": "İngilizce ve Türkçe konuşurum.",
+      "highlight": "speak English"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-articles-advanced-01",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ children need love.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "no article"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "An"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Genel çoğul: artikelsiz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-02",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I saw ___ accident yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "the"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "no article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ünlüyle başlayan, ilk söz: an.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-03",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is ___ doctor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "an"
+        },
+        {
+          "id": "b",
+          "text": "the"
+        },
+        {
+          "id": "c",
+          "text": "no article"
+        },
+        {
+          "id": "d",
+          "text": "a"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Meslek: a.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-04",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ sun is a star.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "An"
+        },
+        {
+          "id": "d",
+          "text": "no article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Dünyada tek: the.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-05",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She plays ___ guitar.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "the"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "no article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Müzik aleti: the.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-06",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We go to ___ school by bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "no article"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Amaç: artikelsiz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-07",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I met a woman. ___ woman was a teacher.",
+      "options": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "An"
+        },
+        {
+          "id": "c",
+          "text": "no article"
+        },
+        {
+          "id": "d",
+          "text": "The"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "İkinci söz: the.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-08",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ Nile is a long river.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "A"
+        },
+        {
+          "id": "c",
+          "text": "no article"
+        },
+        {
+          "id": "d",
+          "text": "An"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nehir: the.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-09",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ water is important.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The"
+        },
+        {
+          "id": "b",
+          "text": "no article"
+        },
+        {
+          "id": "c",
+          "text": "A"
+        },
+        {
+          "id": "d",
+          "text": "An"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Genel sayılamayan: artikelsiz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-10",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She is ___ best student in the class.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "no article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Üstünlük: the.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-11",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He is in ___ hospital. (hastalandı)",
+      "options": [
+        {
+          "id": "a",
+          "text": "the"
+        },
+        {
+          "id": "b",
+          "text": "a"
+        },
+        {
+          "id": "c",
+          "text": "an"
+        },
+        {
+          "id": "d",
+          "text": "no article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Hasta olarak: artikelsiz.",
+      "optionExplanations": {
+        "a": "Bu seçenek kurala uymuyor.",
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-12",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I visited ___ hospital to see my friend.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the"
+        },
+        {
+          "id": "b",
+          "text": "no article"
+        },
+        {
+          "id": "c",
+          "text": "a"
+        },
+        {
+          "id": "d",
+          "text": "an"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ziyaretçi olarak bina: the.",
+      "optionExplanations": {
+        "b": "Bu seçenek kurala uymuyor.",
+        "c": "Bu seçenek kurala uymuyor.",
+        "d": "Bu seçenek kurala uymuyor."
+      },
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-13",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ umbrella. (a/an)",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Ünlüyle başlar: an.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "a",
+          "explanation": "Ünlüyle başlayan sözcük: an."
+        }
+      ],
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-14",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She plays ___ piano. (the)",
+      "answers": [
+        "the"
+      ],
+      "explanation": "Müzik aleti: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-15",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He wants to be ___ engineer. (a/an)",
+      "answers": [
+        "an"
+      ],
+      "explanation": "Ünlü: an.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-16",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I saw a cat. ___ cat was black. (the)",
+      "answers": [
+        "The"
+      ],
+      "explanation": "İkinci söz: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-17",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "My brother goes to ___ university. (the/-)",
+      "answers": [
+        "-",
+        "no article",
+        "—"
+      ],
+      "explanation": "Amaç: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-18",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ moon is bright tonight. (the)",
+      "answers": [
+        "The"
+      ],
+      "explanation": "Tek: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-19",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We have ___ lunch at one. (-)",
+      "answers": [
+        "-",
+        "no article",
+        "—"
+      ],
+      "explanation": "Öğün: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-20",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She is ___ nurse. (a/an)",
+      "answers": [
+        "a"
+      ],
+      "explanation": "Meslek: a.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-21",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ Alps are beautiful. (the)",
+      "answers": [
+        "The"
+      ],
+      "explanation": "Dağ silsilesi: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-22",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He speaks ___ English very well. (-)",
+      "answers": [
+        "-",
+        "no article",
+        "—"
+      ],
+      "explanation": "Dil adı: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-23",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Köpekler cana yakın hayvanlardır.",
+      "answer": [
+        "Dogs",
+        "are",
+        "friendly",
+        "animals"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "The",
+        "A"
+      ],
+      "explanation": "genel çoğul",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-24",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Güneş doğudan doğar.",
+      "answer": [
+        "The",
+        "sun",
+        "rises",
+        "in",
+        "the",
+        "east"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "A",
+        "An"
+      ],
+      "explanation": "the sun",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-25",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyanoyu çok iyi çalar.",
+      "answer": [
+        "She",
+        "plays",
+        "the",
+        "piano",
+        "very",
+        "well"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "a",
+        "an"
+      ],
+      "explanation": "the + müzik aleti",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-26",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bir köpek gördüm.",
+      "answer": [
+        "I",
+        "saw",
+        "a",
+        "dog",
+        "in",
+        "the",
+        "street"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "an",
+        "some"
+      ],
+      "explanation": "ilk söz: a",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-27",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I saw the accident yesterday. (ilk söz)",
+      "errorSpan": "the accident",
+      "answers": [
+        "I saw an accident yesterday."
+      ],
+      "explanation": "İlk söz: an.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-28",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is nurse.",
+      "errorSpan": "is nurse",
+      "answers": [
+        "She is a nurse."
+      ],
+      "explanation": "Meslekten önce a.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-29",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The dogs are friendly animals. (genel)",
+      "errorSpan": "The dogs",
+      "answers": [
+        "Dogs are friendly animals."
+      ],
+      "explanation": "Genel çoğul: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-30",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I play a football every Sunday.",
+      "errorSpan": "a football",
+      "answers": [
+        "I play football every Sunday."
+      ],
+      "explanation": "Spor: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-31",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He plays guitar well.",
+      "errorSpan": "plays guitar",
+      "answers": [
+        "He plays the guitar well."
+      ],
+      "explanation": "Müzik aleti: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-32",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Nile is a long river.",
+      "errorSpan": "Nile is",
+      "answers": [
+        "The Nile is a long river."
+      ],
+      "explanation": "Nehir: the.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-33",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "We go to the school by bus. (okulun öğrencisiyiz)",
+      "errorSpan": "to the school",
+      "answers": [
+        "We go to school by bus."
+      ],
+      "explanation": "Amaç: artikelsiz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-34",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ben bir öğretmenim.",
+      "hint": "öğretmen: teacher",
+      "answers": [
+        "I am a teacher.",
+        "I'm a teacher."
+      ],
+      "targetStructure": "a + meslek",
+      "explanation": "Meslek.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-35",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Köpek çok büyüktü.",
+      "hint": "büyük: big",
+      "answers": [
+        "The dog was very big."
+      ],
+      "targetStructure": "the + belli",
+      "explanation": "İkinci söz.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-36",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Nil dünyanın en uzun nehridir.",
+      "hint": "uzun: long",
+      "answers": [
+        "The Nile is the longest river in the world."
+      ],
+      "targetStructure": "the Nile",
+      "explanation": "Nehir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Nile is the longest river in the world.",
+          "explanation": "Nehir: the."
+        }
+      ],
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-37",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Her gün kahvaltı ederim.",
+      "hint": "kahvaltı: breakfast",
+      "answers": [
+        "I have breakfast every day."
+      ],
+      "targetStructure": "artikelsiz",
+      "explanation": "Öğün.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-38",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Piyano çalmayı severim.",
+      "hint": "piyano: piano",
+      "answers": [
+        "I like playing the piano."
+      ],
+      "targetStructure": "the piano",
+      "explanation": "Müzik aleti.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-39",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Su yaşam için önemlidir.",
+      "hint": "su: water",
+      "answers": [
+        "Water is important for life."
+      ],
+      "targetStructure": "artikelsiz",
+      "explanation": "Genel sayılamayan.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-40",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Okula yürüyerek giderim.",
+      "hint": "yürümek: walk",
+      "answers": [
+        "I walk to school."
+      ],
+      "targetStructure": "to school",
+      "explanation": "Amaç.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I walk to the school.",
+          "explanation": "Amaç için artikelsiz."
+        }
+      ],
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    },
+    {
+      "id": "q-articles-advanced-41",
+      "lessonId": "b1-articles-advanced",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Amcam hastanede yatıyor.",
+      "hint": "yatmak: be in",
+      "answers": [
+        "My uncle is in hospital.",
+        "My uncle is in the hospital."
+      ],
+      "targetStructure": "in hospital",
+      "explanation": "Hasta olarak.",
+      "tags": [
+        "articles-advanced",
+        "rule"
+      ],
+      "errorTags": [
+        "article_usage"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-articles-advanced",
+    "title": "Articles: Advanced: Konu sonu sınavı",
+    "description": "Konu sonu değerlendirmesi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-articles-advanced-exam-01",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "I need ___ umbrella.",
+        "options": [
+          {
+            "id": "a",
+            "text": "a"
+          },
+          {
+            "id": "b",
+            "text": "the"
+          },
+          {
+            "id": "c",
+            "text": "an"
+          },
+          {
+            "id": "d",
+            "text": "no article"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Ünlüyle başlayan ilk söz: an.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-02",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ milk is good for you.",
+        "options": [
+          {
+            "id": "a",
+            "text": "The"
+          },
+          {
+            "id": "b",
+            "text": "A"
+          },
+          {
+            "id": "c",
+            "text": "An"
+          },
+          {
+            "id": "d",
+            "text": "no article"
+          }
+        ],
+        "correctOptionId": "d",
+        "explanation": "Genel sayılamayan.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-03",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She is ___ actress.",
+        "options": [
+          {
+            "id": "a",
+            "text": "an"
+          },
+          {
+            "id": "b",
+            "text": "a"
+          },
+          {
+            "id": "c",
+            "text": "the"
+          },
+          {
+            "id": "d",
+            "text": "no article"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Meslek: an.",
+        "optionExplanations": {
+          "b": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-04",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He plays ___ football on Sundays.",
+        "options": [
+          {
+            "id": "a",
+            "text": "the"
+          },
+          {
+            "id": "b",
+            "text": "no article"
+          },
+          {
+            "id": "c",
+            "text": "a"
+          },
+          {
+            "id": "d",
+            "text": "an"
+          }
+        ],
+        "correctOptionId": "b",
+        "explanation": "Spor: artikelsiz.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "c": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-05",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ Pacific is the biggest ocean.",
+        "options": [
+          {
+            "id": "a",
+            "text": "A"
+          },
+          {
+            "id": "b",
+            "text": "no article"
+          },
+          {
+            "id": "c",
+            "text": "The"
+          },
+          {
+            "id": "d",
+            "text": "An"
+          }
+        ],
+        "correctOptionId": "c",
+        "explanation": "Okyanus: the.",
+        "optionExplanations": {
+          "a": "Bu seçenek kurala uymuyor.",
+          "b": "Bu seçenek kurala uymuyor.",
+          "d": "Bu seçenek kurala uymuyor."
+        },
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-06",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "She lives in ___ UK. (the)",
+        "answers": [
+          "the"
+        ],
+        "explanation": "Birleşik ülke: the.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-07",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I speak ___ French. (-)",
+        "answers": [
+          "-",
+          "no article",
+          "—"
+        ],
+        "explanation": "Dil: artikelsiz.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-08",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "He bought a car. ___ car is red. (the)",
+        "answers": [
+          "The"
+        ],
+        "explanation": "İkinci söz: the.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-09",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They went to ___ bed early. (-)",
+        "answers": [
+          "-",
+          "no article",
+          "—"
+        ],
+        "explanation": "Amaç: artikelsiz.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-10",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nil nehri çok uzundur.",
+        "answer": [
+          "The",
+          "Nile",
+          "is",
+          "very",
+          "long"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "A",
+          "An"
+        ],
+        "explanation": "the + nehir",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-11",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bir hemşireyle konuştum.",
+        "answer": [
+          "I",
+          "spoke",
+          "to",
+          "a",
+          "nurse"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "an",
+          "the"
+        ],
+        "explanation": "a + meslek",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-12",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She is engineer.",
+        "errorSpan": "is engineer",
+        "answers": [
+          "She is an engineer."
+        ],
+        "explanation": "Meslek: an.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-13",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I like the music. (genel)",
+        "errorSpan": "the music",
+        "answers": [
+          "I like music."
+        ],
+        "explanation": "Genel sayılamayan.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-14",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He plays the football.",
+        "errorSpan": "the football",
+        "answers": [
+          "He plays football."
+        ],
+        "explanation": "Spor: artikelsiz.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-15",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ay çok parlak.",
+        "hint": "ay: moon",
+        "answers": [
+          "The moon is very bright."
+        ],
+        "targetStructure": "the moon",
+        "explanation": "Tek.",
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      },
+      {
+        "id": "q-articles-advanced-exam-16",
+        "lessonId": "b1-articles-advanced",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 3,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Okula bisikletle giderim.",
+        "hint": "bisiklet: bike",
+        "answers": [
+          "I go to school by bike."
+        ],
+        "targetStructure": "to school",
+        "explanation": "Amaç.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I go to the school by bike.",
+            "explanation": "Amaç için artikelsiz."
+          }
+        ],
+        "tags": [
+          "articles-advanced",
+          "rule"
+        ],
+        "errorTags": [
+          "article_usage"
+        ]
+      }
+    ]
+  }
+}

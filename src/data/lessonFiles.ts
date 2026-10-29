@@ -55,6 +55,7 @@ import bDefRel from "@/assets/data/levels/b1/b1-defining-relative.json";
 import bNonDef from "@/assets/data/levels/b1/b1-non-defining-relative.json";
 import bDeduct from "@/assets/data/levels/b1/b1-modals-deduction.json";
 import bShouldH from "@/assets/data/levels/b1/b1-should-have.json";
+import bArtAdv from "@/assets/data/levels/b1/b1-articles-advanced.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -127,6 +128,7 @@ export const lessonFiles: Record<string, unknown> = {
   "b1-non-defining-relative": bNonDef,
   "b1-modals-deduction": bDeduct,
   "b1-should-have": bShouldH,
+  "b1-articles-advanced": bArtAdv,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,
