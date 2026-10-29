@@ -1,0 +1,2287 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-going-to",
+  "levelId": "a2",
+  "title": "Be Going To",
+  "objectives": [
+    "Be going to ile önceden verilmiş plan ve niyetleri anlatmak",
+    "Şu anki kanıta dayalı tahmin yapmak",
+    "Olumlu, olumsuz ve soru biçimlerini kurmak",
+    "Going to + yer ile going to + fiil ayrımını yapmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Be going to nedir?",
+      "paragraphs": [
+        "Be going to, gelecekle ilgili iki durumda kullanılır: önceden verilmiş plan ya da niyet, ve şu anda elimizdeki kanıta dayanan tahmin.",
+        "Yapı: am / is / are + going to + yalın fiil. Konuşmada going to sık sık gonna gibi söylenir ama yazıda going to yazılır."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Olumlu, olumsuz, soru",
+      "paragraphs": [
+        "Be fiili özneye göre değişir; going to ve ardından yalın fiil sabit kalır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + am / is / are + going to + yalın fiil",
+          "exampleIds": [
+            "ex-going-to-01",
+            "ex-going-to-02",
+            "ex-going-to-03",
+            "ex-going-to-04",
+            "ex-going-to-05",
+            "ex-going-to-06"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + am / is / are + not + going to + yalın fiil",
+          "exampleIds": [
+            "ex-going-to-11",
+            "ex-going-to-12",
+            "ex-going-to-13",
+            "ex-going-to-14"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + going to + yalın fiil …?",
+          "exampleIds": [
+            "ex-going-to-15",
+            "ex-going-to-16",
+            "ex-going-to-17"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I am.   No, she isn’t.",
+          "exampleIds": [
+            "ex-going-to-18",
+            "ex-going-to-19"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + am / is / are + özne + going to + fiil …?",
+          "exampleIds": [
+            "ex-going-to-20",
+            "ex-going-to-21",
+            "ex-going-to-22",
+            "ex-going-to-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Plan ve niyet",
+          "formula": "I’m going to visit my aunt tomorrow.",
+          "exampleIds": [
+            "ex-going-to-01",
+            "ex-going-to-02",
+            "ex-going-to-03",
+            "ex-going-to-24",
+            "ex-going-to-25"
+          ],
+          "note": "Konuşmadan önce karar verilmiş."
+        },
+        {
+          "label": "Kanıta dayalı tahmin",
+          "formula": "Look at those clouds! It’s going to rain.",
+          "exampleIds": [
+            "ex-going-to-07",
+            "ex-going-to-08",
+            "ex-going-to-09",
+            "ex-going-to-10"
+          ],
+          "note": "Şu an görülen bir işaret var."
+        },
+        {
+          "label": "Gelecekte olacak durumlar",
+          "formula": "He’s going to be a doctor.",
+          "exampleIds": [
+            "ex-going-to-26",
+            "ex-going-to-27"
+          ],
+          "note": "Plan ya da kesin görünüm."
+        }
+      ]
+    },
+    {
+      "id": "go",
+      "type": "rule",
+      "title": "Going to + yer ayrımı",
+      "paragraphs": [
+        "I’m going to the cinema cümlesinde going gerçek hareket fiilidir ve to bir yer edatıdır (Present Continuous). I’m going to cook ise be going to yapısıdır: to’dan sonra yalın fiil gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Hareket",
+          "pattern": "going to + yer   →   I’m going to the cinema.",
+          "exampleIds": [
+            "ex-going-to-28"
+          ]
+        },
+        {
+          "label": "Plan",
+          "pattern": "going to + fiil   →   I’m going to cook.",
+          "exampleIds": [
+            "ex-going-to-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: plan ve niyet",
+      "exampleIds": [
+        "ex-going-to-01",
+        "ex-going-to-02",
+        "ex-going-to-03",
+        "ex-going-to-04",
+        "ex-going-to-05",
+        "ex-going-to-06",
+        "ex-going-to-24",
+        "ex-going-to-25",
+        "ex-going-to-26",
+        "ex-going-to-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: kanıta dayalı tahmin",
+      "exampleIds": [
+        "ex-going-to-07",
+        "ex-going-to-08",
+        "ex-going-to-09",
+        "ex-going-to-10",
+        "ex-going-to-27"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: olumsuz ve soru",
+      "exampleIds": [
+        "ex-going-to-11",
+        "ex-going-to-12",
+        "ex-going-to-13",
+        "ex-going-to-14",
+        "ex-going-to-15",
+        "ex-going-to-16",
+        "ex-going-to-17",
+        "ex-going-to-18",
+        "ex-going-to-19",
+        "ex-going-to-20",
+        "ex-going-to-21",
+        "ex-going-to-22",
+        "ex-going-to-23"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I going to visit her.",
+          "right": "I am going to visit her.",
+          "explanation": "Be fiili eksik."
+        },
+        {
+          "wrong": "She is going to visits her aunt.",
+          "right": "She is going to visit her aunt.",
+          "explanation": "Going to'dan sonra yalın fiil."
+        },
+        {
+          "wrong": "They are going to buying a car.",
+          "right": "They are going to buy a car.",
+          "explanation": "-ing kullanılmaz."
+        },
+        {
+          "wrong": "Do you going to study?",
+          "right": "Are you going to study?",
+          "explanation": "Be fiili kullanılır, do değil."
+        },
+        {
+          "wrong": "He doesn't going to come.",
+          "right": "He isn't going to come.",
+          "explanation": "Olumsuzda be + not."
+        },
+        {
+          "wrong": "He is going to coming.",
+          "right": "He is going to come.",
+          "explanation": "Yalın fiil gerekir."
+        },
+        {
+          "wrong": "We are go to travel.",
+          "right": "We are going to travel.",
+          "explanation": "Going gerekir."
+        },
+        {
+          "wrong": "It is going rain.",
+          "right": "It is going to rain.",
+          "explanation": "To eksik."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Will",
+          "body": "Anlık karar, söz ve teklifte will; plan ve kanıta dayalı tahminde going to.",
+          "lessonId": "a2-will"
+        },
+        {
+          "topic": "Will ve going to farkı",
+          "body": "Karşılaştırma dersinde karar anı ve kanıt ayrıntılı işlenir.",
+          "lessonId": "a2-will-vs-going-to"
+        },
+        {
+          "topic": "Present Continuous",
+          "body": "Kesinleşmiş randevular Present Continuous ile de söylenir: I'm meeting Tom at 6.",
+          "lessonId": "a2-present-continuous-future"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Yapı: am / is / are + going to + yalın fiil.",
+        "Going to'dan sonra -s, -ing ya da to almamış yalın fiil gelir.",
+        "Soru ve olumsuzda be fiili değişir; do / does kullanılmaz.",
+        "Önceden plan ve şimdiki kanıta dayalı tahmin için going to kullan.",
+        "I'm going to the cinema (hareket) ile I'm going to cook (plan) farklıdır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-going-to-01",
+        "q-going-to-02",
+        "q-going-to-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-going-to-01",
+      "en": "I am going to visit my aunt tomorrow.",
+      "tr": "Yarın teyzemi ziyaret edeceğim.",
+      "highlight": "am going to visit",
+      "note": "Plan: be going to"
+    },
+    {
+      "id": "ex-going-to-02",
+      "en": "She is going to study medicine.",
+      "tr": "Tıp okuyacak.",
+      "highlight": "is going to study"
+    },
+    {
+      "id": "ex-going-to-03",
+      "en": "We are going to buy a new car.",
+      "tr": "Yeni bir araba alacağız.",
+      "highlight": "are going to buy"
+    },
+    {
+      "id": "ex-going-to-04",
+      "en": "They are going to get married in June.",
+      "tr": "Haziranda evlenecekler.",
+      "highlight": "are going to get"
+    },
+    {
+      "id": "ex-going-to-05",
+      "en": "He is going to learn French.",
+      "tr": "Fransızca öğrenecek.",
+      "highlight": "is going to learn"
+    },
+    {
+      "id": "ex-going-to-06",
+      "en": "I'm going to cook dinner tonight.",
+      "tr": "Bu akşam yemek yapacağım.",
+      "highlight": "I'm going to cook",
+      "note": "I'm going to: kısaltma"
+    },
+    {
+      "id": "ex-going-to-07",
+      "en": "Look at those clouds! It is going to rain.",
+      "tr": "Şu bulutlara bak! Yağmur yağacak.",
+      "highlight": "is going to rain",
+      "note": "Kanıta dayalı tahmin"
+    },
+    {
+      "id": "ex-going-to-08",
+      "en": "Be careful! You are going to fall.",
+      "tr": "Dikkat et! Düşeceksin.",
+      "highlight": "are going to fall"
+    },
+    {
+      "id": "ex-going-to-09",
+      "en": "She is going to have a baby.",
+      "tr": "Bebek bekliyor (bebeği olacak).",
+      "highlight": "is going to have",
+      "note": "Şimdiki kanıt"
+    },
+    {
+      "id": "ex-going-to-10",
+      "en": "The sky is dark. It's going to snow.",
+      "tr": "Gökyüzü karanlık. Kar yağacak.",
+      "highlight": "going to snow"
+    },
+    {
+      "id": "ex-going-to-11",
+      "en": "I'm not going to tell him.",
+      "tr": "Ona söylemeyeceğim.",
+      "highlight": "not going to tell",
+      "note": "Olumsuz: am / is / are + not"
+    },
+    {
+      "id": "ex-going-to-12",
+      "en": "She isn't going to come.",
+      "tr": "Gelmeyecek.",
+      "highlight": "isn't going to come"
+    },
+    {
+      "id": "ex-going-to-13",
+      "en": "We aren't going to stay.",
+      "tr": "Kalmayacağız.",
+      "highlight": "aren't going to stay"
+    },
+    {
+      "id": "ex-going-to-14",
+      "en": "They aren't going to win.",
+      "tr": "Kazanmayacaklar.",
+      "highlight": "aren't going to win"
+    },
+    {
+      "id": "ex-going-to-15",
+      "en": "Are you going to study tonight?",
+      "tr": "Bu gece ders çalışacak mısın?",
+      "highlight": "Are you going to study",
+      "note": "Soru: Am / Is / Are + özne + going to"
+    },
+    {
+      "id": "ex-going-to-16",
+      "en": "Is he going to come?",
+      "tr": "Gelecek mi?",
+      "highlight": "Is he going to come"
+    },
+    {
+      "id": "ex-going-to-17",
+      "en": "Are they going to move?",
+      "tr": "Taşınacaklar mı?",
+      "highlight": "Are they going to move"
+    },
+    {
+      "id": "ex-going-to-18",
+      "en": "Yes, I am.",
+      "tr": "Evet, yapacağım.",
+      "highlight": "Yes, I am",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-going-to-19",
+      "en": "No, she isn't.",
+      "tr": "Hayır, yapmayacak.",
+      "highlight": "No, she isn't"
+    },
+    {
+      "id": "ex-going-to-20",
+      "en": "What are you going to do?",
+      "tr": "Ne yapacaksın?",
+      "highlight": "What are you going to do"
+    },
+    {
+      "id": "ex-going-to-21",
+      "en": "Where is he going to stay?",
+      "tr": "Nerede kalacak?",
+      "highlight": "Where is he going to stay"
+    },
+    {
+      "id": "ex-going-to-22",
+      "en": "When are they going to arrive?",
+      "tr": "Ne zaman varacaklar?",
+      "highlight": "When are they going to arrive"
+    },
+    {
+      "id": "ex-going-to-23",
+      "en": "Who is going to cook?",
+      "tr": "Kim yemek yapacak?",
+      "highlight": "Who is going to cook"
+    },
+    {
+      "id": "ex-going-to-24",
+      "en": "I'm going to buy a new phone next week.",
+      "tr": "Gelecek hafta yeni bir telefon alacağım.",
+      "highlight": "going to buy"
+    },
+    {
+      "id": "ex-going-to-25",
+      "en": "We're going to have a party on Saturday.",
+      "tr": "Cumartesi parti vereceğiz.",
+      "highlight": "going to have"
+    },
+    {
+      "id": "ex-going-to-26",
+      "en": "He's going to be a doctor.",
+      "tr": "Doktor olacak.",
+      "highlight": "going to be a doctor"
+    },
+    {
+      "id": "ex-going-to-27",
+      "en": "It's going to be a great day.",
+      "tr": "Harika bir gün olacak.",
+      "highlight": "going to be"
+    },
+    {
+      "id": "ex-going-to-28",
+      "en": "I'm going to the cinema.",
+      "tr": "Sinemaya gidiyorum.",
+      "highlight": "going to the cinema",
+      "note": "going to + yer: hareket"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-going-to-01",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ going to visit my aunt tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile am.",
+      "optionExplanations": {
+        "b": "I ile is kullanılmaz.",
+        "c": "I ile are kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-02",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ going to study medicine.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "She ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "She ile is."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-03",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yeni bir araba alacağız.",
+      "answer": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "buy",
+        "a",
+        "new",
+        "car"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "buying"
+      ],
+      "explanation": "be going to + fiil",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-going-to-04",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I going to visit her.",
+      "errorSpan": "I going",
+      "answers": [
+        "I am going to visit her.",
+        "I'm going to visit her."
+      ],
+      "explanation": "Be fiili eksik.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-05",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın teyzemi ziyaret edeceğim.",
+      "hint": "ziyaret etmek: visit, teyze: aunt",
+      "answers": [
+        "I am going to visit my aunt tomorrow.",
+        "I'm going to visit my aunt tomorrow."
+      ],
+      "targetStructure": "be going to",
+      "explanation": "Plan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I going to visit my aunt tomorrow.",
+          "explanation": "Be fiili eksik."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-06",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ going to get married.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They ile are.",
+      "optionExplanations": {
+        "b": "They ile is kullanılmaz.",
+        "c": "They ile am kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-07",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ going to learn French.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "does"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He ile is.",
+      "optionExplanations": {
+        "b": "He ile are kullanılmaz.",
+        "c": "He ile am kullanılmaz.",
+        "d": "Does kullanılmaz."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-08",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is going to buy a car."
+        },
+        {
+          "id": "b",
+          "text": "She is going to buys a car."
+        },
+        {
+          "id": "c",
+          "text": "She is going buy a car."
+        },
+        {
+          "id": "d",
+          "text": "She going to buy a car."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be + going to + yalın fiil.",
+      "optionExplanations": {
+        "b": "-s yok.",
+        "c": "To eksik.",
+        "d": "Be eksik."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-09",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ going to buy a new car.",
+      "answers": [
+        "are"
+      ],
+      "explanation": "We ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "We ile are."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-10",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I'm going ___ cook dinner.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "Going to kalıbı."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-11",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He is going to ___ French. (öğrenecek)",
+      "answers": [
+        "learn"
+      ],
+      "explanation": "Yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "learns",
+          "explanation": "-s yok."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-12",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Look at those clouds! It ___ rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is going to"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "is raining"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şu anki kanıt: going to.",
+      "optionExplanations": {
+        "b": "Kanıt var; going to daha uygun.",
+        "c": "Present Simple tahmin bildirmez.",
+        "d": "Present Continuous şimdiki zamandır."
+      },
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-going-to-13",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Be careful! You ___ fall.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are going to"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "fall"
+        },
+        {
+          "id": "d",
+          "text": "are falling"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Şu anki kanıt: going to.",
+      "optionExplanations": {
+        "b": "Kanıt var; going to uygun.",
+        "c": "Gelecek anlamı yok.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-going-to-14",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ going to tell him. (söylemeyeceğim)",
+      "options": [
+        {
+          "id": "a",
+          "text": "'m not"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "isn't"
+        },
+        {
+          "id": "d",
+          "text": "won't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: am not.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "I ile isn't kullanılmaz.",
+        "d": "Won't ile going to birlikte gelmez."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-15",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ going to come. (gelmeyecek)",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "aren't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile isn't.",
+      "optionExplanations": {
+        "b": "She ile aren't kullanılmaz.",
+        "c": "Doesn't kullanılmaz.",
+        "d": "Don't kullanılmaz."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-16",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Are you going to study tonight?"
+        },
+        {
+          "id": "b",
+          "text": "Do you going to study tonight?"
+        },
+        {
+          "id": "c",
+          "text": "Are you going study tonight?"
+        },
+        {
+          "id": "d",
+          "text": "You are going to study tonight?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be + özne + going to + fiil.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "To eksik.",
+        "d": "Soru yapısı eksik."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-17",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ you going to do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh + be + özne + going to.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Will ile going to birlikte gelmez.",
+        "d": "You ile are."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-18",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ going to stay. (kalmayacağız)",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "We ile aren't."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-19",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ going to win. (kazanmayacaklar)",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "They ile aren't."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-20",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he going to come?",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "He ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Are",
+          "explanation": "He ile is."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-21",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ they going to move?",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "They ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is",
+          "explanation": "They ile are."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-22",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ he going to stay?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "He ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "He ile is."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-23",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ they going to arrive?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "They ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "They ile are."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-24",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Who ___ going to cook?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Who + is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Who tekil gibi kullanılır."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-25",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "It's going ___ be a great day.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Going to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "Going to kalıbı."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-26",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She is going to visits her aunt.",
+      "errorSpan": "visits",
+      "answers": [
+        "She is going to visit her aunt."
+      ],
+      "explanation": "Yalın fiil.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-27",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They are going to buying a car.",
+      "errorSpan": "buying",
+      "answers": [
+        "They are going to buy a car."
+      ],
+      "explanation": "-ing yok.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-28",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you going to study?",
+      "errorSpan": "Do you going",
+      "answers": [
+        "Are you going to study?"
+      ],
+      "explanation": "Do değil be.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-29",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He doesn't going to come.",
+      "errorSpan": "doesn't going",
+      "answers": [
+        "He isn't going to come.",
+        "He is not going to come."
+      ],
+      "explanation": "Be + not.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-30",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "It is going rain.",
+      "errorSpan": "going rain",
+      "answers": [
+        "It is going to rain."
+      ],
+      "explanation": "To eksik.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-31",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu akşam yemek yapacağım.",
+      "answer": [
+        "I'm",
+        "going",
+        "to",
+        "cook",
+        "dinner",
+        "tonight"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "cooking",
+        "am"
+      ],
+      "explanation": "I'm going to + fiil",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-going-to-32",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ne yapacaksın?",
+      "answer": [
+        "What",
+        "are",
+        "you",
+        "going",
+        "to",
+        "do"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "does",
+        "is"
+      ],
+      "explanation": "Wh + be + özne + going to",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-33",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Gelmeyecek.",
+      "answer": [
+        "She",
+        "isn't",
+        "going",
+        "to",
+        "come"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "aren't"
+      ],
+      "explanation": "isn't going to",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-34",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu gece ders çalışacak mısın?",
+      "hint": "ders çalışmak: study",
+      "answers": [
+        "Are you going to study tonight?"
+      ],
+      "targetStructure": "Are you going to",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you going to study tonight?",
+          "explanation": "Be fiili gerekir."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-35",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Kalmayacağız.",
+      "hint": "kalmak: stay",
+      "answers": [
+        "We aren't going to stay.",
+        "We are not going to stay.",
+        "We're not going to stay."
+      ],
+      "targetStructure": "aren't going to",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We don't going to stay.",
+          "explanation": "Be + not gerekir."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-going-to-36",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Nerede kalacak?",
+      "hint": "kalmak: stay",
+      "answers": [
+        "Where is he going to stay?",
+        "Where is she going to stay?"
+      ],
+      "targetStructure": "Wh + is + going to",
+      "explanation": "Wh soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Where does he going to stay?",
+          "explanation": "Be fiili gerekir."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-going-to-37",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle önceden planlanmış bir niyeti anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm going to visit my aunt tomorrow."
+        },
+        {
+          "id": "b",
+          "text": "I'll visit you. (ben gelirim)"
+        },
+        {
+          "id": "c",
+          "text": "It is raining."
+        },
+        {
+          "id": "d",
+          "text": "I visit my aunt every day."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Plan: be going to.",
+      "optionExplanations": {
+        "b": "Anlık teklif.",
+        "c": "Şimdiki zaman.",
+        "d": "Alışkanlık."
+      },
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-going-to-38",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümlede going hareket fiilidir (gerçek gitmek)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm going to the cinema."
+        },
+        {
+          "id": "b",
+          "text": "I'm going to cook."
+        },
+        {
+          "id": "c",
+          "text": "I'm going to learn."
+        },
+        {
+          "id": "d",
+          "text": "It's going to rain."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "To + yer.",
+      "optionExplanations": {
+        "b": "Going to + fiil: plan.",
+        "c": "Going to + fiil: plan.",
+        "d": "Going to + fiil: tahmin."
+      },
+      "tags": [
+        "going-to",
+        "go"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-39",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It's going to be a great day."
+        },
+        {
+          "id": "b",
+          "text": "It's going be a great day."
+        },
+        {
+          "id": "c",
+          "text": "It's go to be a great day."
+        },
+        {
+          "id": "d",
+          "text": "It going to be a great day."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be going to + be.",
+      "optionExplanations": {
+        "b": "To eksik.",
+        "c": "Going gerekir.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-40",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "The sky is dark. It's going to ___. (snow)",
+      "answers": [
+        "snow"
+      ],
+      "explanation": "Yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "snows",
+          "explanation": "-s yok."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-41",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "She's pregnant. She ___ going to have a baby.",
+      "answers": [
+        "is",
+        "'s"
+      ],
+      "explanation": "She ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "She ile is."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-going-to-42",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şu bulutlara bak! Yağmur yağacak.",
+      "hint": "bulut: cloud",
+      "answers": [
+        "Look at those clouds! It's going to rain.",
+        "Look at those clouds! It is going to rain."
+      ],
+      "targetStructure": "going to: kanıt",
+      "explanation": "Kanıta dayalı tahmin.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Look at those clouds! It rains.",
+          "explanation": "Gelecek anlamı için going to."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-going-to-43",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gelecek hafta yeni bir telefon alacağım.",
+      "hint": "almak: buy",
+      "answers": [
+        "I'm going to buy a new phone next week.",
+        "I am going to buy a new phone next week."
+      ],
+      "targetStructure": "going to buy",
+      "explanation": "Plan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'm going to buying a new phone next week.",
+          "explanation": "-ing yok."
+        }
+      ],
+      "tags": [
+        "going-to",
+        "uses"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-44",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He is going to coming.",
+      "errorSpan": "coming",
+      "answers": [
+        "He is going to come."
+      ],
+      "explanation": "Yalın fiil.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-going-to-45",
+      "lessonId": "a2-going-to",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "We are go to travel.",
+      "errorSpan": "go to",
+      "answers": [
+        "We are going to travel."
+      ],
+      "explanation": "Going gerekir.",
+      "tags": [
+        "going-to",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-going-to",
+    "title": "Be Going To: Konu sonu sınavı",
+    "description": "Be going to ile plan ve kanıta dayalı tahmin.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-going-to-exam-01",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ going to study medicine.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is"
+          },
+          {
+            "id": "b",
+            "text": "are"
+          },
+          {
+            "id": "c",
+            "text": "am"
+          },
+          {
+            "id": "d",
+            "text": "do"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "She ile is.",
+        "optionExplanations": {
+          "b": "She ile are.",
+          "c": "She ile am.",
+          "d": "Do kullanılmaz."
+        },
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-02",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "I ___ going to cook tonight.",
+        "answers": [
+          "am",
+          "'m"
+        ],
+        "explanation": "I ile am.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "I ile am."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-03",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Haziranda evlenecekler.",
+        "answer": [
+          "They",
+          "are",
+          "going",
+          "to",
+          "get",
+          "married",
+          "in",
+          "June"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "is",
+          "gets"
+        ],
+        "explanation": "be going to",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-04",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They are going to getting married.",
+        "errorSpan": "getting",
+        "answers": [
+          "They are going to get married."
+        ],
+        "explanation": "Yalın fiil.",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-05",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Fransızca öğrenecek.",
+        "hint": "öğrenmek: learn",
+        "answers": [
+          "He is going to learn French.",
+          "She is going to learn French.",
+          "He's going to learn French."
+        ],
+        "targetStructure": "is going to",
+        "explanation": "Plan.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He going to learn French.",
+            "explanation": "Be fiili eksik."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-06",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ going to leave. (ayrılmayacak)",
+        "options": [
+          {
+            "id": "a",
+            "text": "isn't"
+          },
+          {
+            "id": "b",
+            "text": "aren't"
+          },
+          {
+            "id": "c",
+            "text": "doesn't"
+          },
+          {
+            "id": "d",
+            "text": "don't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "She ile isn't.",
+        "optionExplanations": {
+          "b": "She ile aren't.",
+          "c": "Doesn't kullanılmaz.",
+          "d": "Don't kullanılmaz."
+        },
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-07",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ you going to study tonight?",
+        "answers": [
+          "Are"
+        ],
+        "explanation": "You ile are.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Do",
+            "explanation": "Be fiili kullanılır."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-08",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Nerede kalacaksın?",
+        "answer": [
+          "Where",
+          "are",
+          "you",
+          "going",
+          "to",
+          "stay"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "is"
+        ],
+        "explanation": "Wh + be + going to",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-09",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She doesn't going to come.",
+        "errorSpan": "doesn't going",
+        "answers": [
+          "She isn't going to come.",
+          "She is not going to come."
+        ],
+        "explanation": "Be + not.",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-10",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ne zaman varacaklar?",
+        "hint": "varmak: arrive",
+        "answers": [
+          "When are they going to arrive?"
+        ],
+        "targetStructure": "Wh + are + going to",
+        "explanation": "Wh soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "When do they going to arrive?",
+            "explanation": "Be fiili gerekir."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-11",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Look out! You ___ fall.",
+        "options": [
+          {
+            "id": "a",
+            "text": "are going to"
+          },
+          {
+            "id": "b",
+            "text": "will"
+          },
+          {
+            "id": "c",
+            "text": "fall"
+          },
+          {
+            "id": "d",
+            "text": "falls"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Şimdiki kanıt.",
+        "optionExplanations": {
+          "b": "Kanıt var; going to.",
+          "c": "Gelecek anlamı yok.",
+          "d": "-s yok."
+        },
+        "tags": [
+          "going-to",
+          "uses"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-12",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "They are going ___ move next year.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "Going to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "for",
+            "explanation": "Going to."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-13",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "It is going rain tonight.",
+        "errorSpan": "going rain",
+        "answers": [
+          "It is going to rain tonight."
+        ],
+        "explanation": "To eksik.",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-14",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangi cümlede going hareket fiilidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We're going to the beach."
+          },
+          {
+            "id": "b",
+            "text": "We're going to swim."
+          },
+          {
+            "id": "c",
+            "text": "We're going to relax."
+          },
+          {
+            "id": "d",
+            "text": "We're going to eat."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "To + yer.",
+        "optionExplanations": {
+          "b": "Plan.",
+          "c": "Plan.",
+          "d": "Plan."
+        },
+        "tags": [
+          "going-to",
+          "go"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-15",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "Who ___ going to cook dinner tonight?",
+        "answers": [
+          "is"
+        ],
+        "explanation": "Who + is.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "Who tekil gibi kullanılır."
+          }
+        ],
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-going-to-exam-16",
+        "lessonId": "a2-going-to",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ona söylemeyeceğim.",
+        "answer": [
+          "I'm",
+          "not",
+          "going",
+          "to",
+          "tell",
+          "him"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "don't",
+          "tells"
+        ],
+        "explanation": "am not going to",
+        "tags": [
+          "going-to",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      }
+    ]
+  }
+}
