@@ -19,6 +19,7 @@ import aWill from "@/assets/data/levels/a2/a2-will.json";
 import aGoing from "@/assets/data/levels/a2/a2-going-to.json";
 import aPcFut from "@/assets/data/levels/a2/a2-present-continuous-future.json";
 import aPP from "@/assets/data/levels/a2/a2-present-perfect.json";
+import aEnjay from "@/assets/data/levels/a2/a2-ever-never-just-already-yet.json";
 import aHaveGot from "@/assets/data/levels/a1/a1-have-got.json";
 import aPronouns from "@/assets/data/levels/a1/a1-pronouns-sentence.json";
 import aToBe from "@/assets/data/levels/a1/a1-to-be.json";
@@ -55,6 +56,7 @@ export const lessonFiles: Record<string, unknown> = {
   "a2-going-to": aGoing,
   "a2-present-continuous-future": aPcFut,
   "a2-present-perfect": aPP,
+  "a2-ever-never-just-already-yet": aEnjay,
   "a1-to-be": aToBe,
   "a1-present-simple": aPresentSimple,
   "a1-present-continuous": aPresentContinuous,

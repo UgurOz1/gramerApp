@@ -1,0 +1,2282 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-ever-never-just-already-yet",
+  "levelId": "a2",
+  "title": "Ever, Never, Just, Already, Yet",
+  "objectives": [
+    "Ever ve never ile hayat deneyimini anlatmak",
+    "Just ile yakın geçmişi, already ile beklenenden önce olanı anlatmak",
+    "Yet ile soru ve olumsuz cümle kurmak",
+    "Zarfları cümlede doğru yere koymak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Perfect'in zarfları",
+      "paragraphs": [
+        "Present Perfect ile en sık kullanılan beş sözcük: ever, never, just, already ve yet. Her birinin anlamı ve cümledeki yeri farklıdır.",
+        "Bu zarflar Present Perfect’in şimdiyle bağlantısını güçlendirir: hayat deneyimi (ever / never), az önce olan (just), beklenenden önce olan (already) ve beklenen ama henüz olmayan (yet)."
+      ]
+    },
+    {
+      "id": "ever",
+      "type": "rule",
+      "title": "Ever: hiç (soruda)",
+      "paragraphs": [
+        "Ever, “hayatın herhangi bir noktasında” demektir. Sorularda ve üstünlük cümlelerinde kullanılır; have / has ile V3 arasına gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + ever + V3 …?",
+          "exampleIds": [
+            "ex-ever-yet-01",
+            "ex-ever-yet-02",
+            "ex-ever-yet-03",
+            "ex-ever-yet-22"
+          ]
+        },
+        {
+          "label": "Üstünlük",
+          "pattern": "the best … I have ever + V3",
+          "exampleIds": [
+            "ex-ever-yet-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "never",
+      "type": "rule",
+      "title": "Never: hiç (olumsuz anlam)",
+      "paragraphs": [
+        "Never zaten olumsuzdur; bu yüzden haven’t ile birlikte kullanılmaz: I haven’t never ✗. Doğrusu: I have never been."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + have / has + never + V3",
+          "exampleIds": [
+            "ex-ever-yet-04",
+            "ex-ever-yet-05",
+            "ex-ever-yet-06",
+            "ex-ever-yet-07",
+            "ex-ever-yet-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "just",
+      "type": "rule",
+      "title": "Just: az önce",
+      "paragraphs": [
+        "Just, çok yakın geçmişte olmuş bir eylemi anlatır. Have / has ile V3 arasında yer alır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + have / has + just + V3",
+          "exampleIds": [
+            "ex-ever-yet-09",
+            "ex-ever-yet-10",
+            "ex-ever-yet-11",
+            "ex-ever-yet-12",
+            "ex-ever-yet-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "already",
+      "type": "rule",
+      "title": "Already: zaten, çoktan",
+      "paragraphs": [
+        "Already, bir şeyin beklenenden önce olduğunu ya da zaten yapıldığını anlatır. Olumlu cümlelerde kullanılır; soruda şaşırmayı ifade eder."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + have / has + already + V3",
+          "exampleIds": [
+            "ex-ever-yet-13",
+            "ex-ever-yet-14",
+            "ex-ever-yet-15",
+            "ex-ever-yet-16",
+            "ex-ever-yet-25"
+          ]
+        },
+        {
+          "label": "Soru (şaşırma)",
+          "pattern": "Have you already + V3 …?",
+          "exampleIds": [
+            "ex-ever-yet-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yet",
+      "type": "rule",
+      "title": "Yet: henüz",
+      "paragraphs": [
+        "Yet, beklenen ama henüz olmayan şeylerle kullanılır. Soru ve olumsuz cümlelerde, cümlenin sonunda yer alır."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Have / Has + özne + V3 + yet?",
+          "exampleIds": [
+            "ex-ever-yet-17",
+            "ex-ever-yet-18",
+            "ex-ever-yet-26"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + haven’t / hasn’t + V3 + yet",
+          "exampleIds": [
+            "ex-ever-yet-19",
+            "ex-ever-yet-20",
+            "ex-ever-yet-21",
+            "ex-ever-yet-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "forms",
+      "title": "Karşılaştırma tablosu",
+      "forms": [
+        {
+          "label": "ever",
+          "formula": "Soru + üstünlük: Have you ever …?",
+          "exampleIds": [
+            "ex-ever-yet-01",
+            "ex-ever-yet-08"
+          ],
+          "note": "Orta, V3'ten önce."
+        },
+        {
+          "label": "never",
+          "formula": "Olumsuz anlam: I have never …",
+          "exampleIds": [
+            "ex-ever-yet-04"
+          ],
+          "note": "Orta, V3'ten önce."
+        },
+        {
+          "label": "just",
+          "formula": "Olumlu: I have just …",
+          "exampleIds": [
+            "ex-ever-yet-09"
+          ],
+          "note": "Orta, V3'ten önce."
+        },
+        {
+          "label": "already",
+          "formula": "Olumlu: I have already …",
+          "exampleIds": [
+            "ex-ever-yet-13"
+          ],
+          "note": "Orta, V3'ten önce."
+        },
+        {
+          "label": "yet",
+          "formula": "Soru ve olumsuz: … yet?",
+          "exampleIds": [
+            "ex-ever-yet-17",
+            "ex-ever-yet-19"
+          ],
+          "note": "Cümle sonunda."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: ever ve never",
+      "exampleIds": [
+        "ex-ever-yet-01",
+        "ex-ever-yet-02",
+        "ex-ever-yet-03",
+        "ex-ever-yet-04",
+        "ex-ever-yet-05",
+        "ex-ever-yet-06",
+        "ex-ever-yet-07",
+        "ex-ever-yet-08",
+        "ex-ever-yet-22",
+        "ex-ever-yet-23"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: just ve already",
+      "exampleIds": [
+        "ex-ever-yet-09",
+        "ex-ever-yet-10",
+        "ex-ever-yet-11",
+        "ex-ever-yet-12",
+        "ex-ever-yet-27",
+        "ex-ever-yet-13",
+        "ex-ever-yet-14",
+        "ex-ever-yet-15",
+        "ex-ever-yet-16",
+        "ex-ever-yet-24",
+        "ex-ever-yet-25"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: yet",
+      "exampleIds": [
+        "ex-ever-yet-17",
+        "ex-ever-yet-18",
+        "ex-ever-yet-19",
+        "ex-ever-yet-20",
+        "ex-ever-yet-21",
+        "ex-ever-yet-26",
+        "ex-ever-yet-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I haven't never been to Italy.",
+          "right": "I have never been to Italy.",
+          "explanation": "Never zaten olumsuzdur."
+        },
+        {
+          "wrong": "Have you been ever to Italy?",
+          "right": "Have you ever been to Italy?",
+          "explanation": "Ever have ile V3 arasında."
+        },
+        {
+          "wrong": "I have finished yet.",
+          "right": "I have already finished.",
+          "explanation": "Olumlu cümlede yet kullanılmaz; already."
+        },
+        {
+          "wrong": "I haven't finished already.",
+          "right": "I haven't finished yet.",
+          "explanation": "Olumsuzda yet."
+        },
+        {
+          "wrong": "She has arrived just.",
+          "right": "She has just arrived.",
+          "explanation": "Just have / has ile V3 arasında."
+        },
+        {
+          "wrong": "Did you finish yet?",
+          "right": "Have you finished yet?",
+          "explanation": "Yet ile Present Perfect."
+        },
+        {
+          "wrong": "She has just arrive.",
+          "right": "She has just arrived.",
+          "explanation": "V3 gerekir."
+        },
+        {
+          "wrong": "Have you ever went to Paris?",
+          "right": "Have you ever been to Paris?",
+          "explanation": "V3: been / gone."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Present Perfect",
+          "body": "Yapı have / has + V3.",
+          "lessonId": "a2-present-perfect"
+        },
+        {
+          "topic": "For ve since",
+          "body": "Süre ve başlangıç noktası ayrı bir derste.",
+          "lessonId": "a2-for-since"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Belirli zaman ifadeleriyle Past Simple kullanılır.",
+          "lessonId": "a2-past-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Ever, never, just, already have / has ile V3 arasında; yet cümle sonunda.",
+        "Never ile haven’t kullanılmaz.",
+        "Yet yalnızca soru ve olumsuzda; olumlu cümlede already.",
+        "Ever hayat deneyimi sorularında; never olumsuz cevapta.",
+        "Just yakın geçmiş içindir; yesterday gibi zamanlarla kullanılmaz."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-ever-yet-01",
+        "q-ever-yet-02",
+        "q-ever-yet-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-ever-yet-01",
+      "en": "Have you ever been to Italy?",
+      "tr": "Hiç İtalya'ya gittin mi?",
+      "highlight": "ever",
+      "note": "ever: hiç (soruda)"
+    },
+    {
+      "id": "ex-ever-yet-02",
+      "en": "Have you ever eaten sushi?",
+      "tr": "Hiç suşi yedin mi?",
+      "highlight": "ever"
+    },
+    {
+      "id": "ex-ever-yet-03",
+      "en": "Has she ever met a famous person?",
+      "tr": "Hiç ünlü biriyle tanıştı mı?",
+      "highlight": "ever"
+    },
+    {
+      "id": "ex-ever-yet-04",
+      "en": "I have never been to Italy.",
+      "tr": "Hiç İtalya'ya gitmedim.",
+      "highlight": "never",
+      "note": "never: hiç (olumsuz anlam)"
+    },
+    {
+      "id": "ex-ever-yet-05",
+      "en": "She has never eaten sushi.",
+      "tr": "Hiç suşi yemedi.",
+      "highlight": "never"
+    },
+    {
+      "id": "ex-ever-yet-06",
+      "en": "They have never seen snow.",
+      "tr": "Hiç kar görmediler.",
+      "highlight": "never"
+    },
+    {
+      "id": "ex-ever-yet-07",
+      "en": "He has never been late.",
+      "tr": "Hiç geç kalmadı.",
+      "highlight": "never"
+    },
+    {
+      "id": "ex-ever-yet-08",
+      "en": "It's the best film I have ever seen.",
+      "tr": "Şimdiye kadar izlediğim en iyi film.",
+      "highlight": "ever",
+      "note": "Üstünlükle ever"
+    },
+    {
+      "id": "ex-ever-yet-09",
+      "en": "She has just arrived.",
+      "tr": "Az önce geldi.",
+      "highlight": "just",
+      "note": "just: az önce"
+    },
+    {
+      "id": "ex-ever-yet-10",
+      "en": "I have just finished my homework.",
+      "tr": "Ödevimi az önce bitirdim.",
+      "highlight": "just"
+    },
+    {
+      "id": "ex-ever-yet-11",
+      "en": "They have just left.",
+      "tr": "Az önce ayrıldılar.",
+      "highlight": "just"
+    },
+    {
+      "id": "ex-ever-yet-12",
+      "en": "We have just seen him.",
+      "tr": "Onu az önce gördük.",
+      "highlight": "just"
+    },
+    {
+      "id": "ex-ever-yet-13",
+      "en": "I have already eaten.",
+      "tr": "Zaten yedim.",
+      "highlight": "already",
+      "note": "already: zaten, çoktan"
+    },
+    {
+      "id": "ex-ever-yet-14",
+      "en": "She has already finished.",
+      "tr": "Çoktan bitirdi.",
+      "highlight": "already"
+    },
+    {
+      "id": "ex-ever-yet-15",
+      "en": "They have already left.",
+      "tr": "Çoktan gittiler.",
+      "highlight": "already"
+    },
+    {
+      "id": "ex-ever-yet-16",
+      "en": "We have already seen that film.",
+      "tr": "O filmi zaten izledik.",
+      "highlight": "already"
+    },
+    {
+      "id": "ex-ever-yet-17",
+      "en": "Have you finished yet?",
+      "tr": "Bitirdin mi (henüz)?",
+      "highlight": "yet",
+      "note": "yet: soruda 'henüz / bitti mi'"
+    },
+    {
+      "id": "ex-ever-yet-18",
+      "en": "Has he called yet?",
+      "tr": "Henüz aradı mı?",
+      "highlight": "yet"
+    },
+    {
+      "id": "ex-ever-yet-19",
+      "en": "I haven't finished yet.",
+      "tr": "Henüz bitirmedim.",
+      "highlight": "yet",
+      "note": "yet: olumsuzda 'henüz'"
+    },
+    {
+      "id": "ex-ever-yet-20",
+      "en": "She hasn't arrived yet.",
+      "tr": "Henüz gelmedi.",
+      "highlight": "yet"
+    },
+    {
+      "id": "ex-ever-yet-21",
+      "en": "They haven't called yet.",
+      "tr": "Henüz aramadılar.",
+      "highlight": "yet"
+    },
+    {
+      "id": "ex-ever-yet-22",
+      "en": "Have you ever lost your phone?",
+      "tr": "Hiç telefonunu kaybettin mi?",
+      "highlight": "ever"
+    },
+    {
+      "id": "ex-ever-yet-23",
+      "en": "I've never played golf.",
+      "tr": "Hiç golf oynamadım.",
+      "highlight": "never"
+    },
+    {
+      "id": "ex-ever-yet-24",
+      "en": "Have you already eaten?",
+      "tr": "Zaten yedin mi? (Şaşırma ile)",
+      "highlight": "already",
+      "note": "Soruda already: şaşırma"
+    },
+    {
+      "id": "ex-ever-yet-25",
+      "en": "He has already done it!",
+      "tr": "Bunu çoktan yapmış!",
+      "highlight": "already"
+    },
+    {
+      "id": "ex-ever-yet-26",
+      "en": "Has the film started yet?",
+      "tr": "Film başladı mı?",
+      "highlight": "yet"
+    },
+    {
+      "id": "ex-ever-yet-27",
+      "en": "I have just heard the news.",
+      "tr": "Haberi az önce duydum.",
+      "highlight": "just"
+    },
+    {
+      "id": "ex-ever-yet-28",
+      "en": "We haven't decided yet.",
+      "tr": "Henüz karar vermedik.",
+      "highlight": "yet"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-ever-yet-01",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Have you ___ been to Italy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ever"
+        },
+        {
+          "id": "b",
+          "text": "never"
+        },
+        {
+          "id": "c",
+          "text": "just"
+        },
+        {
+          "id": "d",
+          "text": "yet"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda ever.",
+      "optionExplanations": {
+        "b": "Never olumsuz anlam taşır.",
+        "c": "Just az önce demektir.",
+        "d": "Yet cümle sonuna gelir."
+      },
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-02",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ been to Italy. (hiç gitmedim)",
+      "answers": [
+        "never"
+      ],
+      "explanation": "Never: olumsuz anlam.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ever",
+          "explanation": "Ever soruda kullanılır."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "never"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-03",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Az önce geldi.",
+      "answer": [
+        "She",
+        "has",
+        "just",
+        "arrived"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "have",
+        "yet"
+      ],
+      "explanation": "has + just + V3",
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-04",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I haven't never been to Italy.",
+      "errorSpan": "haven't never",
+      "answers": [
+        "I have never been to Italy."
+      ],
+      "explanation": "Never zaten olumsuzdur.",
+      "tags": [
+        "ever-yet",
+        "never"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ever-yet-05",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Az önce geldi.",
+      "hint": "gelmek: arrive",
+      "answers": [
+        "She has just arrived.",
+        "He has just arrived.",
+        "She's just arrived.",
+        "He's just arrived."
+      ],
+      "targetStructure": "has just + V3",
+      "explanation": "Yakın geçmiş.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She has arrived just.",
+          "explanation": "Just V3'ten önce gelir."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-06",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I have ___ eaten. (zaten)",
+      "options": [
+        {
+          "id": "a",
+          "text": "already"
+        },
+        {
+          "id": "b",
+          "text": "yet"
+        },
+        {
+          "id": "c",
+          "text": "ever"
+        },
+        {
+          "id": "d",
+          "text": "never"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Already: zaten.",
+      "optionExplanations": {
+        "b": "Yet soru ve olumsuzda.",
+        "c": "Ever soruda.",
+        "d": "Never olumsuz anlamlıdır."
+      },
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-07",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She hasn't arrived ___. (henüz)",
+      "options": [
+        {
+          "id": "a",
+          "text": "yet"
+        },
+        {
+          "id": "b",
+          "text": "already"
+        },
+        {
+          "id": "c",
+          "text": "just"
+        },
+        {
+          "id": "d",
+          "text": "ever"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuzda yet.",
+      "optionExplanations": {
+        "b": "Already olumsuz cümlede kullanılmaz.",
+        "c": "Just az önce demektir.",
+        "d": "Ever soruda."
+      },
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-08",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Have you finished ___?",
+      "options": [
+        {
+          "id": "a",
+          "text": "yet"
+        },
+        {
+          "id": "b",
+          "text": "already"
+        },
+        {
+          "id": "c",
+          "text": "never"
+        },
+        {
+          "id": "d",
+          "text": "just"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda yet.",
+      "optionExplanations": {
+        "b": "Already şaşırma ifade eder.",
+        "c": "Never olumsuzdur.",
+        "d": "Just az önce."
+      },
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-09",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They have ___ left. (az önce)",
+      "answers": [
+        "just"
+      ],
+      "explanation": "Just.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-10",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She has ___ finished. (çoktan)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-11",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I haven't finished ___. (henüz)",
+      "answers": [
+        "yet"
+      ],
+      "explanation": "Yet.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "already",
+          "explanation": "Olumsuzda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-12",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have you ever eaten sushi?"
+        },
+        {
+          "id": "b",
+          "text": "Have you eaten ever sushi?"
+        },
+        {
+          "id": "c",
+          "text": "Did you ever eaten sushi?"
+        },
+        {
+          "id": "d",
+          "text": "Have you ever ate sushi?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Ever have ile V3 arasında.",
+      "optionExplanations": {
+        "b": "Ever V3'ten önce gelir.",
+        "c": "Did ile V3 gelmez.",
+        "d": "V3: eaten."
+      },
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "word_order",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ever-yet-13",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have never seen snow."
+        },
+        {
+          "id": "b",
+          "text": "I haven't never seen snow."
+        },
+        {
+          "id": "c",
+          "text": "I never have seen snow yet."
+        },
+        {
+          "id": "d",
+          "text": "I have not never seen snow."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Never zaten olumsuzdur.",
+      "optionExplanations": {
+        "b": "Çift olumsuz.",
+        "c": "Yet olumlu cümlede kullanılmaz.",
+        "d": "Çift olumsuz."
+      },
+      "tags": [
+        "ever-yet",
+        "never"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ever-yet-14",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has just arrived."
+        },
+        {
+          "id": "b",
+          "text": "She has arrived just."
+        },
+        {
+          "id": "c",
+          "text": "She just has arrived."
+        },
+        {
+          "id": "d",
+          "text": "She has arrive just."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Have/has + just + V3.",
+      "optionExplanations": {
+        "b": "Just V3'ten önce.",
+        "c": "Just has'tan sonra.",
+        "d": "V3 gerekir."
+      },
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-15",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I haven't finished yet."
+        },
+        {
+          "id": "b",
+          "text": "I haven't finished already."
+        },
+        {
+          "id": "c",
+          "text": "I have finished yet."
+        },
+        {
+          "id": "d",
+          "text": "I didn't finished yet."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuzda yet.",
+      "optionExplanations": {
+        "b": "Olumsuzda already değil yet.",
+        "c": "Olumlu cümlede yet kullanılmaz.",
+        "d": "Didn't ile V3 gelmez."
+      },
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-16",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "It's the best film I have ___ seen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ever"
+        },
+        {
+          "id": "b",
+          "text": "never"
+        },
+        {
+          "id": "c",
+          "text": "yet"
+        },
+        {
+          "id": "d",
+          "text": "just"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Üstünlükle ever.",
+      "optionExplanations": {
+        "b": "Never olumsuz.",
+        "c": "Yet cümle sonunda.",
+        "d": "Just az önce."
+      },
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-17",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Have you ___ lost your phone?",
+      "answers": [
+        "ever"
+      ],
+      "explanation": "Ever.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "never",
+          "explanation": "Soruda ever."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-18",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He has ___ been late. (hiç geç kalmadı)",
+      "answers": [
+        "never"
+      ],
+      "explanation": "Never.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ever",
+          "explanation": "Olumsuz anlam için never."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "never"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-19",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Has the film started ___?",
+      "answers": [
+        "yet"
+      ],
+      "explanation": "Soruda yet.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "already",
+          "explanation": "Soruda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-20",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We have ___ seen him. (az önce)",
+      "answers": [
+        "just"
+      ],
+      "explanation": "Just.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-21",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They have ___ left. (çoktan)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-22",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She hasn't called ___. (henüz)",
+      "answers": [
+        "yet"
+      ],
+      "explanation": "Olumsuzda yet.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "already",
+          "explanation": "Olumsuzda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-23",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We haven't decided ___.",
+      "answers": [
+        "yet"
+      ],
+      "explanation": "Yet.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "already",
+          "explanation": "Olumsuzda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-24",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I've ___ played golf. (hiç oynamadım)",
+      "answers": [
+        "never"
+      ],
+      "explanation": "Never.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ever",
+          "explanation": "Olumsuz anlam için never."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "never"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-25",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have you been ever to Italy?",
+      "errorSpan": "been ever",
+      "answers": [
+        "Have you ever been to Italy?"
+      ],
+      "explanation": "Ever have ile V3 arasında.",
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-26",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have finished yet.",
+      "errorSpan": "finished yet",
+      "answers": [
+        "I have already finished.",
+        "I have finished."
+      ],
+      "explanation": "Olumlu cümlede yet kullanılmaz.",
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-27",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has arrived just.",
+      "errorSpan": "arrived just",
+      "answers": [
+        "She has just arrived."
+      ],
+      "explanation": "Just V3'ten önce.",
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-28",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you finish yet?",
+      "errorSpan": "Did you finish",
+      "answers": [
+        "Have you finished yet?"
+      ],
+      "explanation": "Yet ile Present Perfect.",
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-ever-yet-29",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I haven't finished already.",
+      "errorSpan": "already",
+      "answers": [
+        "I haven't finished yet."
+      ],
+      "explanation": "Olumsuzda yet.",
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-30",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiç İtalya'ya gittin mi?",
+      "answer": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "Italy"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Did",
+        "never"
+      ],
+      "explanation": "Have + özne + ever + V3",
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ever-yet-31",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Henüz bitirmedim.",
+      "answer": [
+        "I",
+        "haven't",
+        "finished",
+        "yet"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "hasn't",
+        "already"
+      ],
+      "explanation": "haven't + V3 + yet",
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-ever-yet-32",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Çoktan yedik.",
+      "answer": [
+        "We",
+        "have",
+        "already",
+        "eaten"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "has",
+        "yet"
+      ],
+      "explanation": "have + already + V3",
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-33",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç suşi yedin mi?",
+      "hint": "yemek: eat",
+      "answers": [
+        "Have you ever eaten sushi?"
+      ],
+      "targetStructure": "ever",
+      "explanation": "Deneyim.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did you ever eat sushi?",
+          "explanation": "Deneyim için Present Perfect."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-ever-yet-34",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Henüz bitirmedim.",
+      "hint": "bitirmek: finish",
+      "answers": [
+        "I haven't finished yet."
+      ],
+      "targetStructure": "yet",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I haven't finished already.",
+          "explanation": "Olumsuzda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-35",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Çoktan yedik.",
+      "hint": "yemek: eat",
+      "answers": [
+        "We have already eaten.",
+        "We've already eaten."
+      ],
+      "targetStructure": "already",
+      "explanation": "Zaten.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We have eaten already yet.",
+          "explanation": "Yet burada kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-36",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle beklenen ama henüz olmayan bir şeyi anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I haven't called him yet."
+        },
+        {
+          "id": "b",
+          "text": "I've just called him."
+        },
+        {
+          "id": "c",
+          "text": "I've already called him."
+        },
+        {
+          "id": "d",
+          "text": "I've never called him."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yet: beklenen ama olmamış.",
+      "optionExplanations": {
+        "b": "Just: az önce yapıldı.",
+        "c": "Already: zaten yapıldı.",
+        "d": "Never: hiç yapılmadı."
+      },
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-37",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisinde yet doğru kullanılmıştır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Has he called yet?"
+        },
+        {
+          "id": "b",
+          "text": "He has called yet."
+        },
+        {
+          "id": "c",
+          "text": "He has yet called."
+        },
+        {
+          "id": "d",
+          "text": "He has already yet called."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda yet.",
+      "optionExplanations": {
+        "b": "Olumlu cümlede yet kullanılmaz.",
+        "c": "Yet cümle sonuna gelir.",
+        "d": "Çift zarf."
+      },
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-ever-yet-38",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Have you ___ eaten? (Şaşırdı: bu kadar çabuk mu?)",
+      "options": [
+        {
+          "id": "a",
+          "text": "already"
+        },
+        {
+          "id": "b",
+          "text": "yet"
+        },
+        {
+          "id": "c",
+          "text": "ever"
+        },
+        {
+          "id": "d",
+          "text": "never"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soruda already şaşırma ifade eder.",
+      "optionExplanations": {
+        "b": "Yet normal sorudur.",
+        "c": "Ever deneyim sorar.",
+        "d": "Never olumsuzdur."
+      },
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-39",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I have ___ heard the news. (az önce)",
+      "answers": [
+        "just"
+      ],
+      "explanation": "Just.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-40",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "He has ___ done it! (çoktan yapmış)",
+      "answers": [
+        "already"
+      ],
+      "explanation": "Already.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "yet",
+          "explanation": "Yet olumlu cümlede kullanılmaz."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "already"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-41",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Şimdiye kadar izlediğim en iyi film.",
+      "hint": "izlemek: see",
+      "answers": [
+        "It's the best film I have ever seen.",
+        "It is the best film I have ever seen.",
+        "It's the best film I've ever seen."
+      ],
+      "targetStructure": "the best … ever",
+      "explanation": "Üstünlük.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "It's the best film I have never seen.",
+          "explanation": "Üstünlükle ever."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-42",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Henüz aramadılar.",
+      "hint": "aramak: call",
+      "answers": [
+        "They haven't called yet."
+      ],
+      "targetStructure": "yet",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They haven't called already.",
+          "explanation": "Olumsuzda yet."
+        }
+      ],
+      "tags": [
+        "ever-yet",
+        "yet"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-ever-yet-43",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Have you ever went to Paris?",
+      "errorSpan": "went",
+      "answers": [
+        "Have you ever been to Paris.",
+        "Have you ever gone to Paris?"
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "ever-yet",
+        "ever"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-ever-yet-44",
+      "lessonId": "a2-ever-never-just-already-yet",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She has just arrive.",
+      "errorSpan": "arrive",
+      "answers": [
+        "She has just arrived."
+      ],
+      "explanation": "V3 gerekir.",
+      "tags": [
+        "ever-yet",
+        "just"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-ever-yet",
+    "title": "Ever, Never, Just, Already, Yet: Konu sonu sınavı",
+    "description": "Present Perfect zarfları.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-ever-yet-exam-01",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Have you ___ been to Spain?",
+        "options": [
+          {
+            "id": "a",
+            "text": "ever"
+          },
+          {
+            "id": "b",
+            "text": "never"
+          },
+          {
+            "id": "c",
+            "text": "just"
+          },
+          {
+            "id": "d",
+            "text": "yet"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Soruda ever.",
+        "optionExplanations": {
+          "b": "Never olumsuzdur.",
+          "c": "Just az önce.",
+          "d": "Yet sonda."
+        },
+        "tags": [
+          "ever-yet",
+          "ever"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-02",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They have ___ seen snow. (hiç görmediler)",
+        "answers": [
+          "never"
+        ],
+        "explanation": "Never.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "ever",
+            "explanation": "Olumsuz anlam için never."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "never"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-03",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Az önce ayrıldılar.",
+        "answer": [
+          "They",
+          "have",
+          "just",
+          "left"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "has",
+          "yet"
+        ],
+        "explanation": "have + just + V3",
+        "tags": [
+          "ever-yet",
+          "just"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-04",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She hasn't never been late.",
+        "errorSpan": "hasn't never",
+        "answers": [
+          "She has never been late."
+        ],
+        "explanation": "Never zaten olumsuzdur.",
+        "tags": [
+          "ever-yet",
+          "never"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-05",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Zaten yedim.",
+        "hint": "yemek: eat",
+        "answers": [
+          "I have already eaten.",
+          "I've already eaten."
+        ],
+        "targetStructure": "already",
+        "explanation": "Zaten.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I have eaten yet.",
+            "explanation": "Olumlu cümlede yet kullanılmaz."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "already"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-06",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She hasn't called ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "yet"
+          },
+          {
+            "id": "b",
+            "text": "already"
+          },
+          {
+            "id": "c",
+            "text": "just"
+          },
+          {
+            "id": "d",
+            "text": "ever"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Yet.",
+        "optionExplanations": {
+          "b": "Olumsuzda already kullanılmaz.",
+          "c": "Just az önce.",
+          "d": "Ever soruda."
+        },
+        "tags": [
+          "ever-yet",
+          "yet"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-07",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Has he finished ___?",
+        "answers": [
+          "yet"
+        ],
+        "explanation": "Soruda yet.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "already",
+            "explanation": "Soruda yet."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "yet"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-08",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hiç suşi yedin mi?",
+        "answer": [
+          "Have",
+          "you",
+          "ever",
+          "eaten",
+          "sushi"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Did",
+          "ate"
+        ],
+        "explanation": "Have + özne + ever + V3",
+        "tags": [
+          "ever-yet",
+          "ever"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-09",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He has left just.",
+        "errorSpan": "left just",
+        "answers": [
+          "He has just left."
+        ],
+        "explanation": "Just V3'ten önce.",
+        "tags": [
+          "ever-yet",
+          "just"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-10",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Henüz karar vermedik.",
+        "hint": "karar vermek: decide",
+        "answers": [
+          "We haven't decided yet."
+        ],
+        "targetStructure": "yet",
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "We haven't decided already.",
+            "explanation": "Olumsuzda yet."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "yet"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-11",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He has never driven a car."
+          },
+          {
+            "id": "b",
+            "text": "He hasn't never driven a car."
+          },
+          {
+            "id": "c",
+            "text": "He never has driven a car yet."
+          },
+          {
+            "id": "d",
+            "text": "He has not never driven a car."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Never olumsuzdur.",
+        "optionExplanations": {
+          "b": "Çift olumsuz.",
+          "c": "Yet olumlu cümlede kullanılmaz.",
+          "d": "Çift olumsuz."
+        },
+        "tags": [
+          "ever-yet",
+          "never"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-12",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We have ___ booked the hotel. (çoktan)",
+        "answers": [
+          "already"
+        ],
+        "explanation": "Already.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "yet",
+            "explanation": "Olumlu cümlede yet yok."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "already"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-13",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Did she arrive yet?",
+        "errorSpan": "Did she arrive",
+        "answers": [
+          "Has she arrived yet?"
+        ],
+        "explanation": "Yet ile Present Perfect.",
+        "tags": [
+          "ever-yet",
+          "yet"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-14",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "It's the most beautiful city I have ___ visited.",
+        "options": [
+          {
+            "id": "a",
+            "text": "ever"
+          },
+          {
+            "id": "b",
+            "text": "never"
+          },
+          {
+            "id": "c",
+            "text": "yet"
+          },
+          {
+            "id": "d",
+            "text": "just"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Üstünlükle ever.",
+        "optionExplanations": {
+          "b": "Never olumsuz.",
+          "c": "Yet sonda.",
+          "d": "Just az önce."
+        },
+        "tags": [
+          "ever-yet",
+          "ever"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-15",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "He has ___ bought a new phone. (az önce)",
+        "answers": [
+          "just"
+        ],
+        "explanation": "Just.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "yet",
+            "explanation": "Olumlu cümlede yet yok."
+          }
+        ],
+        "tags": [
+          "ever-yet",
+          "just"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-ever-yet-exam-16",
+        "lessonId": "a2-ever-never-just-already-yet",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Film başladı mı?",
+        "answer": [
+          "Has",
+          "the",
+          "film",
+          "started",
+          "yet"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Have",
+          "already"
+        ],
+        "explanation": "Has + özne + V3 + yet",
+        "tags": [
+          "ever-yet",
+          "yet"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
