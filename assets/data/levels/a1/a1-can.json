@@ -1,0 +1,2302 @@
+{
+  "schemaVersion": 1,
+  "id": "a1-can",
+  "levelId": "a1",
+  "title": "Can",
+  "objectives": [
+    "Can ile yetenek anlatmak",
+    "Olumlu, olumsuz ve soru biçimlerini kurmak",
+    "Can ile izin istemek ve rica etmek",
+    "Can’den sonra yalın fiil kullanmak; do / does ve -s eklememek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Can nedir?",
+      "paragraphs": [
+        "Can bir modal fiildir. Üç ana anlamda kullanılır: yetenek (yüzebilirim), izin (buraya oturabilirsin) ve rica (yardım edebilir misin?).",
+        "Türkçedeki -ebilmek / -abilmek ekine karşılık gelir. Can tek başına yardımcı fiil gibi çalışır; kendi başına anlam taşımaz, ardından yalın fiil gelir."
+      ]
+    },
+    {
+      "id": "affirmative",
+      "type": "rule",
+      "title": "Olumlu cümle",
+      "paragraphs": [
+        "Can tüm özneler için aynıdır; üçüncü tekil kişide -s almaz. Can’den sonra fiil yalın halde gelir ( to yok)."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + can + yalın fiil   →   She can play the piano.",
+          "exampleIds": [
+            "ex-can-01",
+            "ex-can-02",
+            "ex-can-03",
+            "ex-can-04",
+            "ex-can-05",
+            "ex-can-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz cümle",
+      "paragraphs": [
+        "Olumsuz için can't (cannot) kullanılır. Do / does gerekmez."
+      ],
+      "formulas": [
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + can't / cannot + yalın fiil   →   She can't drive.",
+          "exampleIds": [
+            "ex-can-07",
+            "ex-can-08",
+            "ex-can-09",
+            "ex-can-10",
+            "ex-can-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "type": "rule",
+      "title": "Soru ve kısa cevap",
+      "paragraphs": [
+        "Soru için can özneden önce gelir. Do / does kullanılmaz. Kısa cevap Yes, … can. / No, … can’t. biçimindedir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Can + özne + yalın fiil …?",
+          "exampleIds": [
+            "ex-can-12",
+            "ex-can-13",
+            "ex-can-14",
+            "ex-can-15"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, özne + can.   /   No, özne + can’t.",
+          "exampleIds": [
+            "ex-can-16",
+            "ex-can-17"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + can + özne + fiil …?",
+          "exampleIds": [
+            "ex-can-18",
+            "ex-can-19"
+          ]
+        },
+        {
+          "label": "Özne sorusu",
+          "pattern": "Who can + fiil …?",
+          "exampleIds": [
+            "ex-can-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uses",
+      "type": "forms",
+      "title": "Kullanım alanları",
+      "forms": [
+        {
+          "label": "Yetenek",
+          "formula": "I can swim.",
+          "exampleIds": [
+            "ex-can-01",
+            "ex-can-02",
+            "ex-can-06"
+          ],
+          "note": "Bir şeyi yapabilme gücü ya da becerisi"
+        },
+        {
+          "label": "İzin isteme / verme",
+          "formula": "Can I open the window?   You can sit here.",
+          "exampleIds": [
+            "ex-can-20",
+            "ex-can-23",
+            "ex-can-24"
+          ],
+          "note": "Yapmanın uygun olup olmadığı"
+        },
+        {
+          "label": "Rica",
+          "formula": "Can you help me, please?",
+          "exampleIds": [
+            "ex-can-21",
+            "ex-can-22"
+          ],
+          "note": "Nazik istek"
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: yetenek, olumlu ve olumsuz",
+      "exampleIds": [
+        "ex-can-01",
+        "ex-can-02",
+        "ex-can-03",
+        "ex-can-04",
+        "ex-can-05",
+        "ex-can-06",
+        "ex-can-07",
+        "ex-can-08",
+        "ex-can-09",
+        "ex-can-10",
+        "ex-can-11",
+        "ex-can-26",
+        "ex-can-27"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: sorular ve cevaplar",
+      "exampleIds": [
+        "ex-can-12",
+        "ex-can-13",
+        "ex-can-14",
+        "ex-can-15",
+        "ex-can-16",
+        "ex-can-17",
+        "ex-can-18",
+        "ex-can-19",
+        "ex-can-25",
+        "ex-can-28"
+      ]
+    },
+    {
+      "id": "examples-3",
+      "type": "examples",
+      "title": "Örnekler: izin ve rica",
+      "exampleIds": [
+        "ex-can-20",
+        "ex-can-21",
+        "ex-can-22",
+        "ex-can-23",
+        "ex-can-24"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "She cans swim.",
+          "right": "She can swim.",
+          "explanation": "Can -s almaz."
+        },
+        {
+          "wrong": "I can to swim.",
+          "right": "I can swim.",
+          "explanation": "Can’den sonra to kullanılmaz."
+        },
+        {
+          "wrong": "He can swims.",
+          "right": "He can swim.",
+          "explanation": "Can’den sonra fiil yalın kalır."
+        },
+        {
+          "wrong": "Do you can swim?",
+          "right": "Can you swim?",
+          "explanation": "Can’le do kullanılmaz."
+        },
+        {
+          "wrong": "I don’t can swim.",
+          "right": "I can’t swim.",
+          "explanation": "Olumsuzda don’t değil can’t."
+        },
+        {
+          "wrong": "Does she can drive?",
+          "right": "Can she drive?",
+          "explanation": "Can’le does kullanılmaz."
+        },
+        {
+          "wrong": "She can’t drives.",
+          "right": "She can’t drive.",
+          "explanation": "Can’t’ten sonra yalın fiil."
+        },
+        {
+          "wrong": "Can she plays the piano?",
+          "right": "Can she play the piano?",
+          "explanation": "Can’den sonra yalın fiil."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Must ve have to",
+          "body": "Zorunluluk için can değil must / have to kullanılır; bu A2’de işlenecek.",
+          "lessonId": "a2-must-have-to"
+        },
+        {
+          "topic": "Present Simple",
+          "body": "Can ile do / does kullanılmaz; üçüncü tekil kişi -s yok.",
+          "lessonId": "a1-present-simple"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Can her özneyle aynıdır: I / you / he / she / it / we / they can.",
+        "Can’den sonra yalın fiil gelir; to yok, -s yok.",
+        "Olumsuz can’t ya da cannot; “can not” ayrı yazılmaz.",
+        "Soruda can özneden önce gelir; do / does yok.",
+        "Okunuşta can zayıf (/kən/), can’t güçlüdür (/kɑːnt/)."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-can-01",
+        "q-can-02",
+        "q-can-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-can-01",
+      "en": "I can swim.",
+      "tr": "Yüzebilirim.",
+      "highlight": "can swim",
+      "note": "Yetenek"
+    },
+    {
+      "id": "ex-can-02",
+      "en": "She can play the piano.",
+      "tr": "Piyano çalabilir.",
+      "highlight": "can play",
+      "note": "She can: -s yok"
+    },
+    {
+      "id": "ex-can-03",
+      "en": "He can speak three languages.",
+      "tr": "Üç dil konuşabilir.",
+      "highlight": "can speak"
+    },
+    {
+      "id": "ex-can-04",
+      "en": "We can run fast.",
+      "tr": "Hızlı koşabiliriz.",
+      "highlight": "can run"
+    },
+    {
+      "id": "ex-can-05",
+      "en": "They can cook very well.",
+      "tr": "Çok iyi yemek yapabilirler.",
+      "highlight": "can cook"
+    },
+    {
+      "id": "ex-can-06",
+      "en": "A bird can fly.",
+      "tr": "Bir kuş uçabilir.",
+      "highlight": "can fly"
+    },
+    {
+      "id": "ex-can-07",
+      "en": "I can't swim.",
+      "tr": "Yüzemem.",
+      "highlight": "can't swim",
+      "note": "can't = cannot"
+    },
+    {
+      "id": "ex-can-08",
+      "en": "She can't drive.",
+      "tr": "Araba kullanamaz.",
+      "highlight": "can't drive"
+    },
+    {
+      "id": "ex-can-09",
+      "en": "He cannot speak French.",
+      "tr": "Fransızca konuşamaz.",
+      "highlight": "cannot speak",
+      "note": "Bitişik yazılır: cannot"
+    },
+    {
+      "id": "ex-can-10",
+      "en": "We can't see the board.",
+      "tr": "Tahtayı göremiyoruz.",
+      "highlight": "can't see"
+    },
+    {
+      "id": "ex-can-11",
+      "en": "They can't come today.",
+      "tr": "Bugün gelemezler.",
+      "highlight": "can't come"
+    },
+    {
+      "id": "ex-can-12",
+      "en": "Can you swim?",
+      "tr": "Yüzebilir misin?",
+      "highlight": "Can you swim",
+      "note": "Soru: Can + özne + fiil"
+    },
+    {
+      "id": "ex-can-13",
+      "en": "Can she play the piano?",
+      "tr": "Piyano çalabilir mi?",
+      "highlight": "Can she play"
+    },
+    {
+      "id": "ex-can-14",
+      "en": "Can he drive a car?",
+      "tr": "Araba kullanabilir mi?",
+      "highlight": "Can he drive"
+    },
+    {
+      "id": "ex-can-15",
+      "en": "Can they speak English?",
+      "tr": "İngilizce konuşabilirler mi?",
+      "highlight": "Can they speak"
+    },
+    {
+      "id": "ex-can-16",
+      "en": "Yes, I can.",
+      "tr": "Evet, yapabilirim.",
+      "highlight": "Yes, I can",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-can-17",
+      "en": "No, she can't.",
+      "tr": "Hayır, yapamaz.",
+      "highlight": "No, she can't"
+    },
+    {
+      "id": "ex-can-18",
+      "en": "What can you do?",
+      "tr": "Ne yapabilirsin?",
+      "highlight": "What can you do"
+    },
+    {
+      "id": "ex-can-19",
+      "en": "Where can I buy a ticket?",
+      "tr": "Nereden bilet alabilirim?",
+      "highlight": "Where can I"
+    },
+    {
+      "id": "ex-can-20",
+      "en": "Can I open the window?",
+      "tr": "Pencereyi açabilir miyim?",
+      "highlight": "Can I open",
+      "note": "İzin isteme"
+    },
+    {
+      "id": "ex-can-21",
+      "en": "Can I have some water, please?",
+      "tr": "Biraz su alabilir miyim lütfen?",
+      "highlight": "Can I have",
+      "note": "Rica"
+    },
+    {
+      "id": "ex-can-22",
+      "en": "Can you help me, please?",
+      "tr": "Bana yardım edebilir misin lütfen?",
+      "highlight": "Can you help me",
+      "note": "Rica"
+    },
+    {
+      "id": "ex-can-23",
+      "en": "You can sit here.",
+      "tr": "Buraya oturabilirsin.",
+      "highlight": "can sit",
+      "note": "İzin verme"
+    },
+    {
+      "id": "ex-can-24",
+      "en": "You can't park here.",
+      "tr": "Buraya park edemezsin.",
+      "highlight": "can't park",
+      "note": "Yasak"
+    },
+    {
+      "id": "ex-can-25",
+      "en": "Can we go now?",
+      "tr": "Şimdi gidebilir miyiz?",
+      "highlight": "Can we go"
+    },
+    {
+      "id": "ex-can-26",
+      "en": "My sister can dance very well.",
+      "tr": "Kız kardeşim çok iyi dans edebilir.",
+      "highlight": "can dance"
+    },
+    {
+      "id": "ex-can-27",
+      "en": "I can read, but I can't write.",
+      "tr": "Okuyabilirim ama yazamam.",
+      "highlight": "can read",
+      "note": "Zıtlık: but"
+    },
+    {
+      "id": "ex-can-28",
+      "en": "Who can help me?",
+      "tr": "Bana kim yardım edebilir?",
+      "highlight": "Who can help"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-can-01",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She cans swim."
+        },
+        {
+          "id": "b",
+          "text": "She can swim."
+        },
+        {
+          "id": "c",
+          "text": "She can swims."
+        },
+        {
+          "id": "d",
+          "text": "She can to swim."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Can -s almaz ve yalın fiil gelir.",
+      "optionExplanations": {
+        "a": "Can -s almaz.",
+        "c": "Can’den sonra yalın fiil.",
+        "d": "Can’den sonra to yok."
+      },
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-02",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I ___ swim. (yüzebilirim)",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Yetenek: can.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "Be fiili burada kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-03",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyano çalabilirim.",
+      "answer": [
+        "I",
+        "can",
+        "play",
+        "the",
+        "piano"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "cans",
+        "plays"
+      ],
+      "explanation": "özne + can + yalın fiil",
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-can-04",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He can swims.",
+      "errorSpan": "swims",
+      "answers": [
+        "He can swim."
+      ],
+      "explanation": "Can’den sonra fiil yalın kalır.",
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-05",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yüzebilirim.",
+      "hint": "yüzmek: swim",
+      "answers": [
+        "I can swim."
+      ],
+      "targetStructure": "özne + can + fiil",
+      "explanation": "Yetenek: can.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I can to swim.",
+          "explanation": "Can’den sonra to yok."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-06",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi olumsuzdur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I can swim."
+        },
+        {
+          "id": "b",
+          "text": "I can't swim."
+        },
+        {
+          "id": "c",
+          "text": "Can I swim?"
+        },
+        {
+          "id": "d",
+          "text": "I swim."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumsuz: can't.",
+      "optionExplanations": {
+        "a": "Olumludur.",
+        "c": "Sorudur.",
+        "d": "Olumludur."
+      },
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-07",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do you can swim?"
+        },
+        {
+          "id": "b",
+          "text": "Can you swim?"
+        },
+        {
+          "id": "c",
+          "text": "You can swim?"
+        },
+        {
+          "id": "d",
+          "text": "Can you to swim?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Soruda can özneden önce gelir.",
+      "optionExplanations": {
+        "a": "Can’le do kullanılmaz.",
+        "c": "Soru yapısı eksik.",
+        "d": "To kullanılmaz."
+      },
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-08",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ drive.",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "doesn't"
+        },
+        {
+          "id": "c",
+          "text": "isn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz modal: can't.",
+      "optionExplanations": {
+        "b": "Doesn't ile “can” anlamı olmaz.",
+        "c": "Isn't burada kullanılmaz.",
+        "d": "Don't ile fiil yalın kalırdı; yetenek değil."
+      },
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-09",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ speak French. (konuşamaz)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Olumsuz: can't / cannot.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Can anlamı kaybolur."
+        }
+      ],
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-10",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ you swim? (yüzebilir misin)",
+      "answers": [
+        "Can"
+      ],
+      "explanation": "Soruda can başa gelir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Can’le do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-11",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We ___ see the board. (göremiyoruz)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Olumsuz: can't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Olumsuz anlam gerekir."
+        }
+      ],
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-12",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "A bird ___ fly.",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Bir kuş uçabilir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Be fiili burada kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-13",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She can speak three languages."
+        },
+        {
+          "id": "b",
+          "text": "She cans speak three languages."
+        },
+        {
+          "id": "c",
+          "text": "She can speaks three languages."
+        },
+        {
+          "id": "d",
+          "text": "She can to speak three languages."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Can -s almaz; yalın fiil.",
+      "optionExplanations": {
+        "b": "Can -s almaz.",
+        "c": "Yalın fiil gerekir.",
+        "d": "To kullanılmaz."
+      },
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-14",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't can swim."
+        },
+        {
+          "id": "b",
+          "text": "I can't swim."
+        },
+        {
+          "id": "c",
+          "text": "I not can swim."
+        },
+        {
+          "id": "d",
+          "text": "I can't to swim."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Olumsuz: can't + yalın fiil.",
+      "optionExplanations": {
+        "a": "Don't ile can kullanılmaz.",
+        "c": "Not can biçimi yok.",
+        "d": "To kullanılmaz."
+      },
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-15",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Does she can play the piano? sorusunun doğrusu hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Can she play the piano?"
+        },
+        {
+          "id": "b",
+          "text": "Can she plays the piano?"
+        },
+        {
+          "id": "c",
+          "text": "Does she can plays the piano?"
+        },
+        {
+          "id": "d",
+          "text": "She can play the piano?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Can + özne + yalın fiil.",
+      "optionExplanations": {
+        "b": "Yalın fiil gerekir.",
+        "c": "Does kullanılmaz.",
+        "d": "Soru yapısı eksik."
+      },
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-16",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“Yes, he ___.”",
+      "options": [
+        {
+          "id": "a",
+          "text": "can"
+        },
+        {
+          "id": "b",
+          "text": "does"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta can tekrarlanır.",
+      "optionExplanations": {
+        "b": "Does can ile kullanılmaz.",
+        "c": "Be fiili değil.",
+        "d": "Has burada olmaz."
+      },
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-17",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“No, they ___.”",
+      "options": [
+        {
+          "id": "a",
+          "text": "can't"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "aren't"
+        },
+        {
+          "id": "d",
+          "text": "haven't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kısa cevapta can't.",
+      "optionExplanations": {
+        "b": "Don't can ile kullanılmaz.",
+        "c": "Be fiili değil.",
+        "d": "Have burada olmaz."
+      },
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-18",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "She ___ play the piano very well. (çalabilir)",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Yetenek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "cans",
+          "explanation": "Can -s almaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-19",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ come today. (gelemezler)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Can anlamı kaybolur."
+        }
+      ],
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-20",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ she drive a car?",
+      "answers": [
+        "Can"
+      ],
+      "explanation": "Can + özne + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Does",
+          "explanation": "Can’le does kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-21",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you do?",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Wh + can + özne + fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "do",
+          "explanation": "Do değil, can kullanılır."
+        }
+      ],
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-22",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ can help me? (kim)",
+      "answers": [
+        "Who"
+      ],
+      "explanation": "Özne sorusu: Who can …?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Whom",
+          "explanation": "Özne sorusunda who."
+        }
+      ],
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-23",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He ___ speak three languages.",
+      "answers": [
+        "can"
+      ],
+      "explanation": "Yetenek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Burada be fiili olmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-24",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "You ___ park here. (edemezsin)",
+      "answers": [
+        "can't",
+        "cannot"
+      ],
+      "explanation": "Yasak: can't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Olumsuz anlam gerekir."
+        }
+      ],
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-25",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Can ___ open the window? (pencereyi açabilir miyim)",
+      "options": [
+        {
+          "id": "a",
+          "text": "I"
+        },
+        {
+          "id": "b",
+          "text": "me"
+        },
+        {
+          "id": "c",
+          "text": "my"
+        },
+        {
+          "id": "d",
+          "text": "mine"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Özne olarak I.",
+      "optionExplanations": {
+        "b": "Me nesne zamiridir.",
+        "c": "My sahiplik sıfatıdır.",
+        "d": "Mine sahiplik zamiridir."
+      },
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-can-26",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She cans swim.",
+      "errorSpan": "cans",
+      "answers": [
+        "She can swim."
+      ],
+      "explanation": "Can -s almaz.",
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-27",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I can to swim.",
+      "errorSpan": "to swim",
+      "answers": [
+        "I can swim."
+      ],
+      "explanation": "Can’den sonra to kullanılmaz.",
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-28",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you can swim?",
+      "errorSpan": "Do you can",
+      "answers": [
+        "Can you swim?"
+      ],
+      "explanation": "Can’le do kullanılmaz.",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-29",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't can swim.",
+      "errorSpan": "don't can",
+      "answers": [
+        "I can't swim.",
+        "I cannot swim."
+      ],
+      "explanation": "Olumsuzda don’t değil can’t.",
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-30",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She can’t drives.",
+      "errorSpan": "drives",
+      "answers": [
+        "She can’t drive."
+      ],
+      "explanation": "Can’t’ten sonra yalın fiil.",
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-31",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Araba kullanamaz.",
+      "answer": [
+        "She",
+        "can't",
+        "drive"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "doesn't",
+        "drives"
+      ],
+      "explanation": "can’t + yalın fiil",
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-32",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yüzebilir misin?",
+      "answer": [
+        "Can",
+        "you",
+        "swim"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Do",
+        "swims"
+      ],
+      "explanation": "Can + özne + fiil",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-33",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Piyano çalabilir mi?",
+      "answer": [
+        "Can",
+        "she",
+        "play",
+        "the",
+        "piano"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Does",
+        "plays"
+      ],
+      "explanation": "Can + özne + fiil",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-34",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "sentence_building",
+      "difficulty": 3,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Nereden bilet alabilirim?",
+      "answer": [
+        "Where",
+        "can",
+        "I",
+        "buy",
+        "a",
+        "ticket"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "buys"
+      ],
+      "explanation": "Wh + can + özne + fiil",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-35",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Araba kullanamaz.",
+      "hint": "araba kullanmak: drive",
+      "answers": [
+        "She can't drive.",
+        "He can't drive.",
+        "She cannot drive.",
+        "He cannot drive."
+      ],
+      "targetStructure": "can't + fiil",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She doesn't can drive.",
+          "explanation": "Can ile doesn't kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-36",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hızlı koşabiliriz.",
+      "hint": "koşmak: run, hızlı: fast",
+      "answers": [
+        "We can run fast."
+      ],
+      "targetStructure": "özne + can + fiil",
+      "explanation": "Yetenek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "We can to run fast.",
+          "explanation": "To kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "affirmative"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-37",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "İngilizce konuşabilirler mi?",
+      "hint": "konuşmak: speak",
+      "answers": [
+        "Can they speak English?"
+      ],
+      "targetStructure": "Can + özne + fiil",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do they can speak English?",
+          "explanation": "Can’le do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-can-38",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi rica cümlesidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I can swim."
+        },
+        {
+          "id": "b",
+          "text": "Can you help me, please?"
+        },
+        {
+          "id": "c",
+          "text": "She can't drive."
+        },
+        {
+          "id": "d",
+          "text": "They can cook."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Rica: Can you …?",
+      "optionExplanations": {
+        "a": "Yetenek.",
+        "c": "Yetersizlik.",
+        "d": "Yetenek."
+      },
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-39",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi izin isteme cümlesidir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Can I open the window?"
+        },
+        {
+          "id": "b",
+          "text": "She can run."
+        },
+        {
+          "id": "c",
+          "text": "They can't swim."
+        },
+        {
+          "id": "d",
+          "text": "We can cook."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İzin: Can I …?",
+      "optionExplanations": {
+        "b": "Yetenek.",
+        "c": "Yetersizlik.",
+        "d": "Yetenek."
+      },
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-40",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Who can help me? sorusuna uygun cevap hangisi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tom can."
+        },
+        {
+          "id": "b",
+          "text": "Tom does."
+        },
+        {
+          "id": "c",
+          "text": "Tom is."
+        },
+        {
+          "id": "d",
+          "text": "Tom has."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Cevapta can tekrarlanır.",
+      "optionExplanations": {
+        "b": "Does can ile kullanılmaz.",
+        "c": "Be fiili değil.",
+        "d": "Have burada olmaz."
+      },
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-41",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I can read, ___ I can't write.",
+      "answers": [
+        "but"
+      ],
+      "explanation": "Zıtlık: but.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "and",
+          "explanation": "Zıtlık için but."
+        }
+      ],
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-42",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "___ I have some water, please?",
+      "answers": [
+        "Can"
+      ],
+      "explanation": "Rica: Can I have …?",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Can ile kurulur."
+        }
+      ],
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-43",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bana yardım edebilir misin lütfen?",
+      "hint": "yardım etmek: help",
+      "answers": [
+        "Can you help me, please?",
+        "Can you help me please?"
+      ],
+      "targetStructure": "Can + you + fiil",
+      "explanation": "Rica.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you can help me?",
+          "explanation": "Can’le do kullanılmaz."
+        }
+      ],
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-can-44",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Okuyabilirim ama yazamam.",
+      "hint": "okumak: read, yazmak: write",
+      "answers": [
+        "I can read, but I can't write.",
+        "I can read but I can't write."
+      ],
+      "targetStructure": "can … but can’t …",
+      "explanation": "Zıtlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I can read, but I don't write.",
+          "explanation": "Yetersizlik için can’t."
+        }
+      ],
+      "tags": [
+        "can",
+        "uses"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-can-45",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Can she plays the piano?",
+      "errorSpan": "plays",
+      "answers": [
+        "Can she play the piano?"
+      ],
+      "explanation": "Can’den sonra yalın fiil.",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-can-46",
+      "lessonId": "a1-can",
+      "levelId": "a1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Does she can drive?",
+      "errorSpan": "Does she can",
+      "answers": [
+        "Can she drive?"
+      ],
+      "explanation": "Can’le does kullanılmaz.",
+      "tags": [
+        "can",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-can",
+    "title": "Can: Konu sonu sınavı",
+    "description": "Can’in yetenek, izin ve rica kullanımları.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-can-exam-01",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He can swim."
+          },
+          {
+            "id": "b",
+            "text": "He cans swim."
+          },
+          {
+            "id": "c",
+            "text": "He can swims."
+          },
+          {
+            "id": "d",
+            "text": "He can to swim."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Can -s almaz; yalın fiil.",
+        "optionExplanations": {
+          "b": "Can -s almaz.",
+          "c": "Yalın fiil gerekir.",
+          "d": "To yok."
+        },
+        "tags": [
+          "can",
+          "affirmative"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-can-exam-02",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "They ___ cook very well.",
+        "answers": [
+          "can"
+        ],
+        "explanation": "Yetenek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "are",
+            "explanation": "Be fiili burada olmaz."
+          }
+        ],
+        "tags": [
+          "can",
+          "affirmative"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-can-exam-03",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Üç dil konuşabilir.",
+        "answer": [
+          "He",
+          "can",
+          "speak",
+          "three",
+          "languages"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "cans",
+          "speaks"
+        ],
+        "explanation": "özne + can + fiil",
+        "tags": [
+          "can",
+          "affirmative"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-can-exam-04",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She cans play the piano.",
+        "errorSpan": "cans",
+        "answers": [
+          "She can play the piano."
+        ],
+        "explanation": "Can -s almaz.",
+        "tags": [
+          "can",
+          "affirmative"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-can-exam-05",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hızlı koşabilir.",
+        "hint": "koşmak: run",
+        "answers": [
+          "She can run fast.",
+          "He can run fast."
+        ],
+        "targetStructure": "can + fiil",
+        "explanation": "Yetenek.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "She can runs fast.",
+            "explanation": "Yalın fiil."
+          }
+        ],
+        "tags": [
+          "can",
+          "affirmative"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-can-exam-06",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Can she swim?"
+          },
+          {
+            "id": "b",
+            "text": "Does she can swim?"
+          },
+          {
+            "id": "c",
+            "text": "Can she swims?"
+          },
+          {
+            "id": "d",
+            "text": "She can swim?"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Can + özne + fiil.",
+        "optionExplanations": {
+          "b": "Does kullanılmaz.",
+          "c": "Yalın fiil gerekir.",
+          "d": "Soru yapısı eksik."
+        },
+        "tags": [
+          "can",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-can-exam-07",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I ___ drive. (kullanamam)",
+        "answers": [
+          "can't",
+          "cannot"
+        ],
+        "explanation": "Olumsuz.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't",
+            "explanation": "Can anlamı kaybolur."
+          }
+        ],
+        "tags": [
+          "can",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-can-exam-08",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bugün gelemezler.",
+        "answer": [
+          "They",
+          "can't",
+          "come",
+          "today"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "don't",
+          "comes"
+        ],
+        "explanation": "can’t + fiil",
+        "tags": [
+          "can",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-can-exam-09",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Do you can speak English?",
+        "errorSpan": "Do you can",
+        "answers": [
+          "Can you speak English?"
+        ],
+        "explanation": "Can’le do kullanılmaz.",
+        "tags": [
+          "can",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-can-exam-10",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Evet, yapabilirim.",
+        "hint": "kısa cevap",
+        "answers": [
+          "Yes, I can."
+        ],
+        "targetStructure": "Yes, I can.",
+        "explanation": "Kısa cevap.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Yes, I do.",
+            "explanation": "Can sorusuna can ile cevap verilir."
+          }
+        ],
+        "tags": [
+          "can",
+          "question"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-can-exam-11",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I can't swim."
+          },
+          {
+            "id": "b",
+            "text": "I don't can swim."
+          },
+          {
+            "id": "c",
+            "text": "I can't to swim."
+          },
+          {
+            "id": "d",
+            "text": "I not can swim."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumsuz: can't.",
+        "optionExplanations": {
+          "b": "Don't ile can kullanılmaz.",
+          "c": "To yok.",
+          "d": "Not can biçimi yok."
+        },
+        "tags": [
+          "can",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-can-exam-12",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Where ___ I buy a ticket?",
+        "answers": [
+          "can"
+        ],
+        "explanation": "Wh + can + özne + fiil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "do",
+            "explanation": "Do değil can."
+          }
+        ],
+        "tags": [
+          "can",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-can-exam-13",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "We don't can dance.",
+        "errorSpan": "don't can",
+        "answers": [
+          "We can't dance.",
+          "We cannot dance."
+        ],
+        "explanation": "Olumsuzda can’t.",
+        "tags": [
+          "can",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-can-exam-14",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi izin verme cümlesidir?",
+        "options": [
+          {
+            "id": "a",
+            "text": "You can sit here."
+          },
+          {
+            "id": "b",
+            "text": "I can swim."
+          },
+          {
+            "id": "c",
+            "text": "She can't run."
+          },
+          {
+            "id": "d",
+            "text": "He can cook."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "İzin: You can …",
+        "optionExplanations": {
+          "b": "Yetenek.",
+          "c": "Yetersizlik.",
+          "d": "Yetenek."
+        },
+        "tags": [
+          "can",
+          "uses"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-can-exam-15",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "___ can play the piano? (kim)",
+        "answers": [
+          "Who"
+        ],
+        "explanation": "Özne sorusu.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "What",
+            "explanation": "Kişi sorulur: who."
+          }
+        ],
+        "tags": [
+          "can",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-can-exam-16",
+        "lessonId": "a1-can",
+        "levelId": "a1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Pencereyi açabilir miyim?",
+        "answer": [
+          "Can",
+          "I",
+          "open",
+          "the",
+          "window"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "Do",
+          "opens"
+        ],
+        "explanation": "Can + özne + fiil",
+        "tags": [
+          "can",
+          "uses"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
