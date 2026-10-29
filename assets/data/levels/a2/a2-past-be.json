@@ -1,0 +1,2311 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-past-be",
+  "levelId": "a2",
+  "title": "Past Simple: Was / Were",
+  "objectives": [
+    "Geçmiş zamanda to be fiilini was / were ile kullanmak",
+    "Olumsuz (wasn't / weren't) ve soru biçimlerini kurmak",
+    "There was / there were ile geçmişteki varlığı anlatmak",
+    "Geçmiş zaman ifadelerini (yesterday, ago, in 2010) kullanmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "To be fiilinin geçmişi",
+      "paragraphs": [
+        "Geçmişte bir durumu, yeri ya da özelliği anlatmak için am / is / are yerine was ve were kullanılır: “Dün evdeydim”, “Çok mutluyduk”, “Hava soğuktu”.",
+        "Was ve were Past Simple’ın be fiilidir. Diğer fiillerden farklı olarak did yardımcı fiili gerektirmez; olumsuz ve soru biçimleri doğrudan be fiiliyle kurulur."
+      ]
+    },
+    {
+      "id": "forms",
+      "type": "forms",
+      "title": "Hangi özneyle hangisi?",
+      "forms": [
+        {
+          "label": "I / he / she / it → was",
+          "formula": "I was,  he was,  she was,  it was",
+          "exampleIds": [
+            "ex-past-be-01",
+            "ex-past-be-02",
+            "ex-past-be-03",
+            "ex-past-be-04"
+          ],
+          "note": "Tekil özneler was alır."
+        },
+        {
+          "label": "you / we / they → were",
+          "formula": "you were,  we were,  they were",
+          "exampleIds": [
+            "ex-past-be-05",
+            "ex-past-be-06",
+            "ex-past-be-07",
+            "ex-past-be-08"
+          ],
+          "note": "Çoğul özneler ve you were alır."
+        }
+      ]
+    },
+    {
+      "id": "negative",
+      "type": "rule",
+      "title": "Olumsuz: wasn't / weren't",
+      "paragraphs": [
+        "Olumsuz için was not (wasn’t) ve were not (weren’t) kullanılır. Do / did gerekmez."
+      ],
+      "formulas": [
+        {
+          "label": "Wasn’t",
+          "pattern": "I / he / she / it + wasn’t",
+          "exampleIds": [
+            "ex-past-be-09",
+            "ex-past-be-10",
+            "ex-past-be-11"
+          ]
+        },
+        {
+          "label": "Weren’t",
+          "pattern": "you / we / they + weren’t",
+          "exampleIds": [
+            "ex-past-be-12",
+            "ex-past-be-13",
+            "ex-past-be-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question",
+      "type": "rule",
+      "title": "Soru ve kısa cevap",
+      "paragraphs": [
+        "Soruda was / were özneden önce gelir. Kısa cevap Yes, … was / were. ya da No, … wasn’t / weren’t. biçimindedir."
+      ],
+      "formulas": [
+        {
+          "label": "Soru",
+          "pattern": "Was / Were + özne + …?",
+          "exampleIds": [
+            "ex-past-be-15",
+            "ex-past-be-16",
+            "ex-past-be-17",
+            "ex-past-be-18"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I was.   No, she wasn’t.",
+          "exampleIds": [
+            "ex-past-be-19",
+            "ex-past-be-20"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + was / were + özne …?",
+          "exampleIds": [
+            "ex-past-be-21",
+            "ex-past-be-22",
+            "ex-past-be-23",
+            "ex-past-be-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "there",
+      "type": "rule",
+      "title": "There was / There were",
+      "paragraphs": [
+        "“Vardı” anlamı için there was (tekil ve sayılamayan) ve there were (çoğul) kullanılır. Kural there is / are ile aynıdır, yalnızca zaman geçmiştir."
+      ],
+      "formulas": [
+        {
+          "label": "Tekil",
+          "pattern": "There was + tekil / sayılamayan isim",
+          "exampleIds": [
+            "ex-past-be-25"
+          ]
+        },
+        {
+          "label": "Çoğul",
+          "pattern": "There were + çoğul isim",
+          "exampleIds": [
+            "ex-past-be-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "type": "rule",
+      "title": "Geçmiş zaman ifadeleri",
+      "paragraphs": [
+        "Past Simple ile bitmiş zamanı gösteren ifadeler kullanılır: yesterday, last night / week / year, in 2010, two days ago. “I was born” (doğdum) kalıbı da was ile kurulur."
+      ],
+      "formulas": [
+        {
+          "label": "İfadeler",
+          "pattern": "yesterday,  last night,  in 2010,  two days ago,  this morning",
+          "exampleIds": [
+            "ex-past-be-01",
+            "ex-past-be-02",
+            "ex-past-be-28"
+          ]
+        },
+        {
+          "label": "Doğmak",
+          "pattern": "I was born in + yıl / şehir",
+          "exampleIds": [
+            "ex-past-be-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu ve olumsuz",
+      "exampleIds": [
+        "ex-past-be-01",
+        "ex-past-be-02",
+        "ex-past-be-03",
+        "ex-past-be-04",
+        "ex-past-be-05",
+        "ex-past-be-06",
+        "ex-past-be-07",
+        "ex-past-be-08",
+        "ex-past-be-09",
+        "ex-past-be-10",
+        "ex-past-be-11",
+        "ex-past-be-12",
+        "ex-past-be-13",
+        "ex-past-be-14"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: soru, there was ve zaman",
+      "exampleIds": [
+        "ex-past-be-15",
+        "ex-past-be-16",
+        "ex-past-be-17",
+        "ex-past-be-18",
+        "ex-past-be-19",
+        "ex-past-be-20",
+        "ex-past-be-21",
+        "ex-past-be-22",
+        "ex-past-be-23",
+        "ex-past-be-24",
+        "ex-past-be-25",
+        "ex-past-be-26",
+        "ex-past-be-27",
+        "ex-past-be-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I were at home.",
+          "right": "I was at home.",
+          "explanation": "I ile was kullanılır."
+        },
+        {
+          "wrong": "They was late.",
+          "right": "They were late.",
+          "explanation": "They ile were."
+        },
+        {
+          "wrong": "You was tired.",
+          "right": "You were tired.",
+          "explanation": "You her zaman were alır."
+        },
+        {
+          "wrong": "He were a teacher.",
+          "right": "He was a teacher.",
+          "explanation": "He ile was."
+        },
+        {
+          "wrong": "Did you were at home?",
+          "right": "Were you at home?",
+          "explanation": "Be fiilinde did kullanılmaz."
+        },
+        {
+          "wrong": "I didn’t was at school.",
+          "right": "I wasn’t at school.",
+          "explanation": "Olumsuzda wasn’t / weren’t."
+        },
+        {
+          "wrong": "There was two cars.",
+          "right": "There were two cars.",
+          "explanation": "Çoğul isimle there were."
+        },
+        {
+          "wrong": "I am at home yesterday.",
+          "right": "I was at home yesterday.",
+          "explanation": "Yesterday ile geçmiş zaman."
+        },
+        {
+          "wrong": "She was born on 1995.",
+          "right": "She was born in 1995.",
+          "explanation": "Yılda in kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Şimdiki be fiili",
+          "body": "Am / is / are şimdiki zaman; was / were geçmiş zamandır.",
+          "lessonId": "a1-to-be"
+        },
+        {
+          "topic": "Past Simple",
+          "body": "Diğer fiiller did ile olumsuz ve soru kurar; be fiili kurmaz.",
+          "lessonId": "a2-past-simple"
+        },
+        {
+          "topic": "There is / are",
+          "body": "Geçmiş: there was / there were.",
+          "lessonId": "a1-there-is-are"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "I / he / she / it → was; you / we / they → were.",
+        "Be fiilinde did / didn’t kullanılmaz.",
+        "Soruda was / were özneden önce gelir.",
+        "There was tekil, there were çoğul isimle kullanılır.",
+        "“Doğmak” was born ile söylenir: I was born in 1995."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-past-be-01",
+        "q-past-be-02",
+        "q-past-be-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-past-be-01",
+      "en": "I was at home yesterday.",
+      "tr": "Dün evdeydim.",
+      "highlight": "was",
+      "note": "I + was"
+    },
+    {
+      "id": "ex-past-be-02",
+      "en": "She was tired last night.",
+      "tr": "Dün gece yorgundu.",
+      "highlight": "was"
+    },
+    {
+      "id": "ex-past-be-03",
+      "en": "He was a teacher in 2010.",
+      "tr": "2010'da öğretmendi.",
+      "highlight": "was"
+    },
+    {
+      "id": "ex-past-be-04",
+      "en": "It was cold this morning.",
+      "tr": "Bu sabah hava soğuktu.",
+      "highlight": "was"
+    },
+    {
+      "id": "ex-past-be-05",
+      "en": "You were late for class.",
+      "tr": "Derse geç kaldın.",
+      "highlight": "were",
+      "note": "you + were"
+    },
+    {
+      "id": "ex-past-be-06",
+      "en": "We were very happy.",
+      "tr": "Çok mutluyduk.",
+      "highlight": "were"
+    },
+    {
+      "id": "ex-past-be-07",
+      "en": "They were at the cinema.",
+      "tr": "Sinemadaydılar.",
+      "highlight": "were"
+    },
+    {
+      "id": "ex-past-be-08",
+      "en": "The children were in the garden.",
+      "tr": "Çocuklar bahçedeydi.",
+      "highlight": "were"
+    },
+    {
+      "id": "ex-past-be-09",
+      "en": "I wasn't at school yesterday.",
+      "tr": "Dün okulda değildim.",
+      "highlight": "wasn't",
+      "note": "wasn't = was not"
+    },
+    {
+      "id": "ex-past-be-10",
+      "en": "He wasn't hungry.",
+      "tr": "Aç değildi.",
+      "highlight": "wasn't"
+    },
+    {
+      "id": "ex-past-be-11",
+      "en": "The film wasn't good.",
+      "tr": "Film iyi değildi.",
+      "highlight": "wasn't"
+    },
+    {
+      "id": "ex-past-be-12",
+      "en": "We weren't ready.",
+      "tr": "Hazır değildik.",
+      "highlight": "weren't",
+      "note": "weren't = were not"
+    },
+    {
+      "id": "ex-past-be-13",
+      "en": "They weren't at home.",
+      "tr": "Evde değillerdi.",
+      "highlight": "weren't"
+    },
+    {
+      "id": "ex-past-be-14",
+      "en": "You weren't wrong.",
+      "tr": "Yanılmıyordun.",
+      "highlight": "weren't"
+    },
+    {
+      "id": "ex-past-be-15",
+      "en": "Was he at work yesterday?",
+      "tr": "Dün işte miydi?",
+      "highlight": "Was he",
+      "note": "Soru: Was / Were + özne"
+    },
+    {
+      "id": "ex-past-be-16",
+      "en": "Were you at the party?",
+      "tr": "Partide miydin?",
+      "highlight": "Were you"
+    },
+    {
+      "id": "ex-past-be-17",
+      "en": "Was it difficult?",
+      "tr": "Zor muydu?",
+      "highlight": "Was it"
+    },
+    {
+      "id": "ex-past-be-18",
+      "en": "Were they happy?",
+      "tr": "Mutlu muydular?",
+      "highlight": "Were they"
+    },
+    {
+      "id": "ex-past-be-19",
+      "en": "Yes, I was.",
+      "tr": "Evet, öyleydim.",
+      "highlight": "Yes, I was",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-past-be-20",
+      "en": "No, she wasn't.",
+      "tr": "Hayır, değildi.",
+      "highlight": "No, she wasn't"
+    },
+    {
+      "id": "ex-past-be-21",
+      "en": "Where were you last night?",
+      "tr": "Dün gece neredeydin?",
+      "highlight": "Where were you"
+    },
+    {
+      "id": "ex-past-be-22",
+      "en": "Why was he late?",
+      "tr": "Neden geç kaldı?",
+      "highlight": "Why was he"
+    },
+    {
+      "id": "ex-past-be-23",
+      "en": "How was your holiday?",
+      "tr": "Tatilin nasıldı?",
+      "highlight": "How was"
+    },
+    {
+      "id": "ex-past-be-24",
+      "en": "Who was that man?",
+      "tr": "O adam kimdi?",
+      "highlight": "Who was"
+    },
+    {
+      "id": "ex-past-be-25",
+      "en": "There was a book on the table.",
+      "tr": "Masanın üstünde bir kitap vardı.",
+      "highlight": "There was",
+      "note": "there was + tekil"
+    },
+    {
+      "id": "ex-past-be-26",
+      "en": "There were two cars outside.",
+      "tr": "Dışarıda iki araba vardı.",
+      "highlight": "There were",
+      "note": "there were + çoğul"
+    },
+    {
+      "id": "ex-past-be-27",
+      "en": "I was born in 1995.",
+      "tr": "1995'te doğdum.",
+      "highlight": "was born"
+    },
+    {
+      "id": "ex-past-be-28",
+      "en": "She was ill two days ago.",
+      "tr": "İki gün önce hastaydı.",
+      "highlight": "two days ago",
+      "note": "ago: önce"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-past-be-01",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ at home yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile was kullanılır.",
+      "optionExplanations": {
+        "b": "I ile were kullanılmaz.",
+        "c": "Am şimdiki zamandır.",
+        "d": "Did be fiiliyle kullanılmaz."
+      },
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-be-02",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "They ___ at the cinema last night.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "They ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "They çoğuldur; were gerekir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-03",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün evdeydim.",
+      "answer": [
+        "I",
+        "was",
+        "at",
+        "home",
+        "yesterday"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "were",
+        "am"
+      ],
+      "explanation": "I + was",
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-past-be-04",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They was late.",
+      "errorSpan": "was",
+      "answers": [
+        "They were late."
+      ],
+      "explanation": "They ile were kullanılır.",
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-05",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün evdeydim.",
+      "hint": "ev: home",
+      "answers": [
+        "I was at home yesterday."
+      ],
+      "targetStructure": "I + was",
+      "explanation": "I ile was kullanılır.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I were at home yesterday.",
+          "explanation": "I ile was."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-06",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "She ___ tired last night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile was.",
+      "optionExplanations": {
+        "b": "She ile were kullanılmaz.",
+        "c": "Is şimdiki zamandır.",
+        "d": "Did be fiiliyle kullanılmaz."
+      },
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-07",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ very happy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We ile were.",
+      "optionExplanations": {
+        "b": "We ile was kullanılmaz.",
+        "c": "Are şimdiki zamandır.",
+        "d": "Did be fiiliyle kullanılmaz."
+      },
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-08",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "You ___ late for class.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "You her zaman were alır.",
+      "optionExplanations": {
+        "b": "You ile was kullanılmaz.",
+        "c": "Are şimdiki zamandır.",
+        "d": "Did be fiiliyle kullanılmaz."
+      },
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-09",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "He ___ a teacher in 2010.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "He ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "He tekildir; was gerekir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-10",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "It ___ cold this morning.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "It ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "It tekildir; was gerekir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-11",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "The children ___ in the garden.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Çoğul özne: were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "Children çoğuldur."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-12",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi olumsuzdur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I wasn't at school."
+        },
+        {
+          "id": "b",
+          "text": "I was at school."
+        },
+        {
+          "id": "c",
+          "text": "Was I at school?"
+        },
+        {
+          "id": "d",
+          "text": "I am at school."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: wasn't.",
+      "optionExplanations": {
+        "b": "Olumludur.",
+        "c": "Sorudur.",
+        "d": "Şimdiki zamandır."
+      },
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-13",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "We ___ ready.",
+      "options": [
+        {
+          "id": "a",
+          "text": "weren't"
+        },
+        {
+          "id": "b",
+          "text": "wasn't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "aren't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "We ile weren't.",
+      "optionExplanations": {
+        "b": "We ile wasn't kullanılmaz.",
+        "c": "Didn't be fiiliyle kullanılmaz.",
+        "d": "Aren't şimdiki zamandır."
+      },
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-14",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "He ___ hungry.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wasn't"
+        },
+        {
+          "id": "b",
+          "text": "weren't"
+        },
+        {
+          "id": "c",
+          "text": "didn't"
+        },
+        {
+          "id": "d",
+          "text": "isn't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He ile wasn't.",
+      "optionExplanations": {
+        "b": "He ile weren't kullanılmaz.",
+        "c": "Didn't be fiiliyle kullanılmaz.",
+        "d": "Isn't şimdiki zamandır."
+      },
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation",
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-15",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Were you at the party?"
+        },
+        {
+          "id": "b",
+          "text": "Did you were at the party?"
+        },
+        {
+          "id": "c",
+          "text": "Was you at the party?"
+        },
+        {
+          "id": "d",
+          "text": "You were at the party?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be fiilinde were özneden önce gelir.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "You ile was kullanılmaz.",
+        "d": "Soru yapısı eksik."
+      },
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form",
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-be-16",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Was it difficult?"
+        },
+        {
+          "id": "b",
+          "text": "Did it was difficult?"
+        },
+        {
+          "id": "c",
+          "text": "Were it difficult?"
+        },
+        {
+          "id": "d",
+          "text": "It was difficult?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It ile was.",
+      "optionExplanations": {
+        "b": "Did kullanılmaz.",
+        "c": "It ile were kullanılmaz.",
+        "d": "Soru yapısı eksik."
+      },
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-17",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I ___ at school yesterday. (değildim)",
+      "answers": [
+        "wasn't",
+        "was not"
+      ],
+      "explanation": "Olumsuz: wasn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "weren't",
+          "explanation": "I ile wasn't."
+        },
+        {
+          "answer": "didn't",
+          "explanation": "Be fiilinde didn't yok."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-18",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ at home. (değillerdi)",
+      "answers": [
+        "weren't",
+        "were not"
+      ],
+      "explanation": "They ile weren't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "wasn't",
+          "explanation": "They ile weren't."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-19",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film ___ good. (iyi değildi)",
+      "answers": [
+        "wasn't",
+        "was not"
+      ],
+      "explanation": "Film tekil: wasn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "weren't",
+          "explanation": "Film tekildir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-20",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you at the party? (miydin)",
+      "answers": [
+        "Were"
+      ],
+      "explanation": "You ile were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Was",
+          "explanation": "You ile was kullanılmaz."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-21",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he at work yesterday?",
+      "answers": [
+        "Was"
+      ],
+      "explanation": "He ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Were",
+          "explanation": "He ile were kullanılmaz."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-22",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ you last night?",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Wh + were + you.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "You ile were."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-23",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Why ___ he late?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "He ile was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "He ile was."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-24",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There ___ a book on the table.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Tekil: there was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "Tekil isim: there was."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "there"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-25",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "There ___ two cars outside.",
+      "answers": [
+        "were"
+      ],
+      "explanation": "Çoğul: there were.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "was",
+          "explanation": "Çoğul isim: there were."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "there"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-26",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I were at home.",
+      "errorSpan": "were",
+      "answers": [
+        "I was at home."
+      ],
+      "explanation": "I ile was.",
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-27",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "You was tired.",
+      "errorSpan": "was",
+      "answers": [
+        "You were tired."
+      ],
+      "explanation": "You ile were.",
+      "tags": [
+        "past-be",
+        "forms"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-28",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Did you were at home?",
+      "errorSpan": "Did you were",
+      "answers": [
+        "Were you at home?"
+      ],
+      "explanation": "Be fiilinde did kullanılmaz.",
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-past-be-29",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I didn't was at school.",
+      "errorSpan": "didn't was",
+      "answers": [
+        "I wasn't at school.",
+        "I was not at school."
+      ],
+      "explanation": "Olumsuz: wasn't.",
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-30",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "There was two cars.",
+      "errorSpan": "was",
+      "answers": [
+        "There were two cars."
+      ],
+      "explanation": "Çoğul: there were.",
+      "tags": [
+        "past-be",
+        "there"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-31",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Dün gece neredeydin?",
+      "answer": [
+        "Where",
+        "were",
+        "you",
+        "last",
+        "night"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "was",
+        "did"
+      ],
+      "explanation": "Wh + were + you",
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-32",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hazır değildik.",
+      "answer": [
+        "We",
+        "weren't",
+        "ready"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "wasn't",
+        "didn't"
+      ],
+      "explanation": "We + weren't",
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-33",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Partide miydin?",
+      "answer": [
+        "Were",
+        "you",
+        "at",
+        "the",
+        "party"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Was",
+        "Did"
+      ],
+      "explanation": "Were + you",
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-34",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dün işte miydi?",
+      "hint": "iş: work",
+      "answers": [
+        "Was he at work yesterday?",
+        "Was she at work yesterday?"
+      ],
+      "targetStructure": "Was + özne",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Did he was at work yesterday?",
+          "explanation": "Be fiilinde did yok."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-35",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Aç değildi.",
+      "hint": "aç: hungry",
+      "answers": [
+        "He wasn't hungry.",
+        "She wasn't hungry."
+      ],
+      "targetStructure": "wasn't",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He didn't was hungry.",
+          "explanation": "Wasn't kullanılır."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "negative"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-past-be-36",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Masanın üstünde bir kitap vardı.",
+      "hint": "kitap: book",
+      "answers": [
+        "There was a book on the table."
+      ],
+      "targetStructure": "there was",
+      "explanation": "Tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There were a book on the table.",
+          "explanation": "Tekil: there was."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "there"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-37",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "I ___ born in 1995.",
+      "options": [
+        {
+          "id": "a",
+          "text": "was"
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I was born.",
+      "optionExplanations": {
+        "b": "I ile was.",
+        "c": "Geçmiş zaman gerekir.",
+        "d": "Did kullanılmaz."
+      },
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-past-be-38",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "She was born ___ 1995.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yılda in.",
+      "optionExplanations": {
+        "b": "On gün için.",
+        "c": "At saat için.",
+        "d": "To yön."
+      },
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-be-39",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "She was ill two days ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ago"
+        },
+        {
+          "id": "b",
+          "text": "before"
+        },
+        {
+          "id": "c",
+          "text": "last"
+        },
+        {
+          "id": "d",
+          "text": "yesterday"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "İki gün önce: two days ago.",
+      "optionExplanations": {
+        "b": "Before başka kalıptır.",
+        "c": "Last ile gelmez.",
+        "d": "Yesterday ile gelmez."
+      },
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-past-be-40",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "How ___ your holiday?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Holiday tekil: was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "Holiday tekildir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-41",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Who ___ that man?",
+      "answers": [
+        "was"
+      ],
+      "explanation": "Man tekil: was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "were",
+          "explanation": "Man tekildir."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-42",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Tatilin nasıldı?",
+      "hint": "tatil: holiday",
+      "answers": [
+        "How was your holiday?"
+      ],
+      "targetStructure": "How was",
+      "explanation": "Wh soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "How did your holiday was?",
+          "explanation": "Be fiilinde did yok."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "question"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-past-be-43",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "1995'te doğdum.",
+      "hint": "doğmak: be born",
+      "answers": [
+        "I was born in 1995."
+      ],
+      "targetStructure": "was born in",
+      "explanation": "Doğmak: was born.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I born in 1995.",
+          "explanation": "Was eksik."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "passive_form"
+      ]
+    },
+    {
+      "id": "q-past-be-44",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Dışarıda iki araba vardı.",
+      "hint": "dışarıda: outside",
+      "answers": [
+        "There were two cars outside."
+      ],
+      "targetStructure": "there were",
+      "explanation": "Çoğul.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "There was two cars outside.",
+          "explanation": "Çoğul: there were."
+        }
+      ],
+      "tags": [
+        "past-be",
+        "there"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-past-be-45",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She was born on 1995.",
+      "errorSpan": "on",
+      "answers": [
+        "She was born in 1995."
+      ],
+      "explanation": "Yılda in.",
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "preposition_usage"
+      ]
+    },
+    {
+      "id": "q-past-be-46",
+      "lessonId": "a2-past-be",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I am at home yesterday.",
+      "errorSpan": "am",
+      "answers": [
+        "I was at home yesterday."
+      ],
+      "explanation": "Yesterday ile geçmiş zaman.",
+      "tags": [
+        "past-be",
+        "time"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-past-be",
+    "title": "Was / Were: Konu sonu sınavı",
+    "description": "Was / were, olumsuz, soru ve there was / were.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-past-be-exam-01",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "He ___ a teacher.",
+        "options": [
+          {
+            "id": "a",
+            "text": "was"
+          },
+          {
+            "id": "b",
+            "text": "were"
+          },
+          {
+            "id": "c",
+            "text": "am"
+          },
+          {
+            "id": "d",
+            "text": "did"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "He ile was.",
+        "optionExplanations": {
+          "b": "He ile were kullanılmaz.",
+          "c": "Am şimdiki zamandır.",
+          "d": "Did kullanılmaz."
+        },
+        "tags": [
+          "past-be",
+          "forms"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-02",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "We ___ very happy.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "We ile were.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "was",
+            "explanation": "We ile were."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "forms"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-03",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Çok mutluydular.",
+        "answer": [
+          "They",
+          "were",
+          "very",
+          "happy"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "was",
+          "are"
+        ],
+        "explanation": "They + were",
+        "tags": [
+          "past-be",
+          "forms"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-04",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He were a teacher.",
+        "errorSpan": "were",
+        "answers": [
+          "He was a teacher."
+        ],
+        "explanation": "He ile was.",
+        "tags": [
+          "past-be",
+          "forms"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-05",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Hava soğuktu.",
+        "hint": "hava: it, soğuk: cold",
+        "answers": [
+          "It was cold."
+        ],
+        "targetStructure": "It was",
+        "explanation": "Tekil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "It were cold.",
+            "explanation": "It ile was."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "forms"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-06",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "They ___ at home. (değillerdi)",
+        "options": [
+          {
+            "id": "a",
+            "text": "weren't"
+          },
+          {
+            "id": "b",
+            "text": "wasn't"
+          },
+          {
+            "id": "c",
+            "text": "didn't"
+          },
+          {
+            "id": "d",
+            "text": "aren't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "They ile weren't.",
+        "optionExplanations": {
+          "b": "They ile wasn't kullanılmaz.",
+          "c": "Didn't kullanılmaz.",
+          "d": "Aren't şimdiki zamandır."
+        },
+        "tags": [
+          "past-be",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-07",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "I ___ at school. (değildim)",
+        "answers": [
+          "wasn't",
+          "was not"
+        ],
+        "explanation": "I ile wasn't.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "weren't",
+            "explanation": "I ile wasn't."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-08",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Dün gece neredeydi?",
+        "answer": [
+          "Where",
+          "was",
+          "he",
+          "last",
+          "night"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "were",
+          "did"
+        ],
+        "explanation": "Wh + was + he",
+        "tags": [
+          "past-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-09",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Did he was hungry?",
+        "errorSpan": "Did he was",
+        "answers": [
+          "Was he hungry?"
+        ],
+        "explanation": "Be fiilinde did yok.",
+        "tags": [
+          "past-be",
+          "question"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-10",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Zor muydu?",
+        "hint": "zor: difficult",
+        "answers": [
+          "Was it difficult?"
+        ],
+        "targetStructure": "Was it",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Did it was difficult?",
+            "explanation": "Be fiilinde did yok."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-11",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "___ you at the cinema?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Were"
+          },
+          {
+            "id": "b",
+            "text": "Was"
+          },
+          {
+            "id": "c",
+            "text": "Did"
+          },
+          {
+            "id": "d",
+            "text": "Are"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "You ile were.",
+        "optionExplanations": {
+          "b": "You ile was kullanılmaz.",
+          "c": "Did kullanılmaz.",
+          "d": "Are şimdiki zamandır."
+        },
+        "tags": [
+          "past-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-12",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "There ___ three books on the shelf.",
+        "answers": [
+          "were"
+        ],
+        "explanation": "Çoğul.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "was",
+            "explanation": "Çoğul: there were."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "there"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-13",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "I didn't was ill.",
+        "errorSpan": "didn't was",
+        "answers": [
+          "I wasn't ill.",
+          "I was not ill."
+        ],
+        "explanation": "Wasn't.",
+        "tags": [
+          "past-be",
+          "negative"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-14",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She was born in 1990."
+          },
+          {
+            "id": "b",
+            "text": "She born in 1990."
+          },
+          {
+            "id": "c",
+            "text": "She was born on 1990."
+          },
+          {
+            "id": "d",
+            "text": "She is born in 1990."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Was born in + yıl.",
+        "optionExplanations": {
+          "b": "Was eksik.",
+          "c": "Yılda in.",
+          "d": "Geçmiş zaman gerekir."
+        },
+        "tags": [
+          "past-be",
+          "time"
+        ],
+        "errorTags": [
+          "passive_form",
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-15",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "She was ill two days ___.",
+        "answers": [
+          "ago"
+        ],
+        "explanation": "Two days ago.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "before",
+            "explanation": "Ago kullanılır."
+          }
+        ],
+        "tags": [
+          "past-be",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-past-be-exam-16",
+        "lessonId": "a2-past-be",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Tatilin nasıldı?",
+        "answer": [
+          "How",
+          "was",
+          "your",
+          "holiday"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "were",
+          "did"
+        ],
+        "explanation": "How was",
+        "tags": [
+          "past-be",
+          "question"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
