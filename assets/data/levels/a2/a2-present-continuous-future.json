@@ -1,0 +1,2276 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-present-continuous-future",
+  "levelId": "a2",
+  "title": "Present Continuous for Future",
+  "objectives": [
+    "Kesinleşmiş planları ve randevuları Present Continuous ile anlatmak",
+    "Gelecek anlamı için zaman ifadesi eklemek",
+    "Kişisel plan (Present Continuous) ile tarifeyi (Present Simple) ayırt etmek",
+    "Olumsuz ve soru biçimlerini kurmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Present Continuous ile gelecek",
+      "paragraphs": [
+        "Present Continuous yalnızca şu anda olan eylemler için değil, yakın gelecekteki kesinleşmiş planlar için de kullanılır. Türkçede “Yarın Londra’ya uçuyorum” demek gibi.",
+        "Burada önemli olan planın kesinleşmiş olmasıdır: randevu, bilet, rezervasyon, anlaşma. Cümlede genellikle bir gelecek zaman ifadesi de bulunur: tomorrow, tonight, on Friday, next week."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "Yapı, şimdiki zamandaki Present Continuous ile aynıdır: am / is / are + fiil-ing. Gelecek anlamını zaman ifadesi verir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "özne + am / is / are + fiil-ing + gelecek zaman",
+          "exampleIds": [
+            "ex-pc-future-01",
+            "ex-pc-future-02",
+            "ex-pc-future-03",
+            "ex-pc-future-04",
+            "ex-pc-future-05"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "özne + am / is / are + not + fiil-ing",
+          "exampleIds": [
+            "ex-pc-future-09",
+            "ex-pc-future-10",
+            "ex-pc-future-11",
+            "ex-pc-future-12"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Am / Is / Are + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-pc-future-13",
+            "ex-pc-future-17"
+          ]
+        },
+        {
+          "label": "Kısa cevap",
+          "pattern": "Yes, I am.   No, we aren’t.",
+          "exampleIds": [
+            "ex-pc-future-18",
+            "ex-pc-future-19"
+          ]
+        },
+        {
+          "label": "Wh- soru",
+          "pattern": "Wh + am / is / are + özne + fiil-ing …?",
+          "exampleIds": [
+            "ex-pc-future-14",
+            "ex-pc-future-15",
+            "ex-pc-future-16",
+            "ex-pc-future-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Kesinleşmiş randevu ve plan",
+          "formula": "I’m meeting Tom at six tonight.",
+          "exampleIds": [
+            "ex-pc-future-01",
+            "ex-pc-future-06",
+            "ex-pc-future-20",
+            "ex-pc-future-21",
+            "ex-pc-future-24"
+          ],
+          "note": "Zaman ve kişi belli; bir ayarlama yapılmış."
+        },
+        {
+          "label": "Seyahat ve etkinlik",
+          "formula": "She is flying to London tomorrow.",
+          "exampleIds": [
+            "ex-pc-future-02",
+            "ex-pc-future-03",
+            "ex-pc-future-07",
+            "ex-pc-future-08"
+          ],
+          "note": "Bilet, rezervasyon, davet."
+        },
+        {
+          "label": "Hazırlığı yapılmış plan",
+          "formula": "I’m cooking tonight. I’ve bought the food.",
+          "exampleIds": [
+            "ex-pc-future-25",
+            "ex-pc-future-26",
+            "ex-pc-future-27"
+          ],
+          "note": "Plan için bir adım atılmış."
+        }
+      ]
+    },
+    {
+      "id": "vs",
+      "type": "rule",
+      "title": "Present Simple ile fark: tarifeler",
+      "paragraphs": [
+        "Tarifeler, programlar ve takvimler (uçak, tren, dükkan saatleri) gelecekte olsa da Present Simple ile anlatılır: The plane leaves at 9 a.m. tomorrow. Kişisel plan ise Present Continuous ile söylenir."
+      ],
+      "formulas": [
+        {
+          "label": "Tarife",
+          "pattern": "The plane / train / film + Present Simple + saat",
+          "exampleIds": [
+            "ex-pc-future-22",
+            "ex-pc-future-23"
+          ]
+        },
+        {
+          "label": "Kişisel plan",
+          "pattern": "I’m flying / meeting … + zaman",
+          "exampleIds": [
+            "ex-pc-future-02",
+            "ex-pc-future-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: olumlu",
+      "exampleIds": [
+        "ex-pc-future-01",
+        "ex-pc-future-02",
+        "ex-pc-future-03",
+        "ex-pc-future-04",
+        "ex-pc-future-05",
+        "ex-pc-future-06",
+        "ex-pc-future-07",
+        "ex-pc-future-08",
+        "ex-pc-future-20",
+        "ex-pc-future-21",
+        "ex-pc-future-24",
+        "ex-pc-future-25",
+        "ex-pc-future-26",
+        "ex-pc-future-27"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: olumsuz, soru, tarife",
+      "exampleIds": [
+        "ex-pc-future-09",
+        "ex-pc-future-10",
+        "ex-pc-future-11",
+        "ex-pc-future-12",
+        "ex-pc-future-13",
+        "ex-pc-future-14",
+        "ex-pc-future-15",
+        "ex-pc-future-16",
+        "ex-pc-future-17",
+        "ex-pc-future-18",
+        "ex-pc-future-19",
+        "ex-pc-future-22",
+        "ex-pc-future-23",
+        "ex-pc-future-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I meet Tom tonight.",
+          "right": "I'm meeting Tom tonight.",
+          "explanation": "Kişisel plan Present Continuous ile söylenir."
+        },
+        {
+          "wrong": "I'm meeting Tom.",
+          "right": "I'm meeting Tom tonight.",
+          "explanation": "Gelecek anlamı için zaman ifadesi gerekir."
+        },
+        {
+          "wrong": "The plane is leaving at 9 a.m. every Monday.",
+          "right": "The plane leaves at 9 a.m. every Monday.",
+          "explanation": "Tarife Present Simple ister."
+        },
+        {
+          "wrong": "She flying tomorrow.",
+          "right": "She is flying tomorrow.",
+          "explanation": "Be fiili eksik."
+        },
+        {
+          "wrong": "Do you doing anything tonight?",
+          "right": "Are you doing anything tonight?",
+          "explanation": "Be fiili kullanılır, do değil."
+        },
+        {
+          "wrong": "I'm not knowing the answer tomorrow.",
+          "right": "I won't know the answer tomorrow.",
+          "explanation": "Durum fiilleri (know, like) -ing almaz."
+        },
+        {
+          "wrong": "He isn't comes tomorrow.",
+          "right": "He isn't coming tomorrow.",
+          "explanation": "-ing gerekir."
+        },
+        {
+          "wrong": "We are having a party tomorrow? (belirsiz plan)",
+          "right": "We might have a party tomorrow.",
+          "explanation": "Kesinleşmemiş plan için might ya da will."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Be going to",
+          "body": "Plan ve niyet için going to; kesinleşmiş ayarlama için Present Continuous. Çoğu durumda ikisi de kullanılabilir.",
+          "lessonId": "a2-going-to"
+        },
+        {
+          "topic": "Şimdiki zaman",
+          "body": "Yapı aynı; fark zaman ifadesindedir.",
+          "lessonId": "a1-present-continuous"
+        },
+        {
+          "topic": "Will",
+          "body": "Anlık karar ve tahmin için will kullanılır.",
+          "lessonId": "a2-will"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Kesinleşmiş planlar için kullan: randevu, bilet, rezervasyon.",
+        "Gelecek anlamı için tomorrow, tonight, next week gibi bir ifade ekle.",
+        "Tarifeler ve programlar Present Simple ile söylenir.",
+        "Know, like, want, need gibi durum fiilleri -ing almaz.",
+        "Yapı: am / is / are + fiil-ing; do / does yok."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-pc-future-01",
+        "q-pc-future-02",
+        "q-pc-future-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-pc-future-01",
+      "en": "I'm meeting Tom at six tonight.",
+      "tr": "Bu akşam altıda Tom'la buluşuyorum.",
+      "highlight": "I'm meeting",
+      "note": "Kesinleşmiş randevu"
+    },
+    {
+      "id": "ex-pc-future-02",
+      "en": "She is flying to London tomorrow.",
+      "tr": "Yarın Londra'ya uçuyor.",
+      "highlight": "is flying"
+    },
+    {
+      "id": "ex-pc-future-03",
+      "en": "We are having dinner with my parents on Saturday.",
+      "tr": "Cumartesi ailemle akşam yemeği yiyoruz.",
+      "highlight": "are having"
+    },
+    {
+      "id": "ex-pc-future-04",
+      "en": "They are getting married next month.",
+      "tr": "Gelecek ay evleniyorlar.",
+      "highlight": "are getting"
+    },
+    {
+      "id": "ex-pc-future-05",
+      "en": "He is starting his new job on Monday.",
+      "tr": "Pazartesi yeni işine başlıyor.",
+      "highlight": "is starting"
+    },
+    {
+      "id": "ex-pc-future-06",
+      "en": "I'm seeing the dentist on Friday.",
+      "tr": "Cuma günü diş hekimine gidiyorum.",
+      "highlight": "I'm seeing"
+    },
+    {
+      "id": "ex-pc-future-07",
+      "en": "We're leaving at eight tomorrow morning.",
+      "tr": "Yarın sabah sekizde çıkıyoruz.",
+      "highlight": "We're leaving"
+    },
+    {
+      "id": "ex-pc-future-08",
+      "en": "My sister is coming to visit this weekend.",
+      "tr": "Kız kardeşim bu hafta sonu ziyarete geliyor.",
+      "highlight": "is coming"
+    },
+    {
+      "id": "ex-pc-future-09",
+      "en": "I'm not working tomorrow.",
+      "tr": "Yarın çalışmıyorum.",
+      "highlight": "I'm not working",
+      "note": "Olumsuz: am / is / are + not"
+    },
+    {
+      "id": "ex-pc-future-10",
+      "en": "She isn't coming to the party.",
+      "tr": "Partiye gelmiyor.",
+      "highlight": "isn't coming"
+    },
+    {
+      "id": "ex-pc-future-11",
+      "en": "We aren't going on holiday this year.",
+      "tr": "Bu yıl tatile gitmiyoruz.",
+      "highlight": "aren't going"
+    },
+    {
+      "id": "ex-pc-future-12",
+      "en": "They aren't staying at a hotel.",
+      "tr": "Otelde kalmıyorlar.",
+      "highlight": "aren't staying"
+    },
+    {
+      "id": "ex-pc-future-13",
+      "en": "Are you doing anything tonight?",
+      "tr": "Bu gece bir şey yapıyor musun?",
+      "highlight": "Are you doing",
+      "note": "Soru"
+    },
+    {
+      "id": "ex-pc-future-14",
+      "en": "What are you doing this weekend?",
+      "tr": "Bu hafta sonu ne yapıyorsun?",
+      "highlight": "What are you doing"
+    },
+    {
+      "id": "ex-pc-future-15",
+      "en": "When is she arriving?",
+      "tr": "Ne zaman varıyor?",
+      "highlight": "When is she arriving"
+    },
+    {
+      "id": "ex-pc-future-16",
+      "en": "Where are they meeting?",
+      "tr": "Nerede buluşuyorlar?",
+      "highlight": "Where are they meeting"
+    },
+    {
+      "id": "ex-pc-future-17",
+      "en": "Is he coming tomorrow?",
+      "tr": "Yarın geliyor mu?",
+      "highlight": "Is he coming"
+    },
+    {
+      "id": "ex-pc-future-18",
+      "en": "Yes, I am.",
+      "tr": "Evet, geliyorum.",
+      "highlight": "Yes, I am",
+      "note": "Kısa cevap"
+    },
+    {
+      "id": "ex-pc-future-19",
+      "en": "No, we aren't.",
+      "tr": "Hayır, gelmiyoruz.",
+      "highlight": "No, we aren't"
+    },
+    {
+      "id": "ex-pc-future-20",
+      "en": "I'm playing tennis with Anna tomorrow.",
+      "tr": "Yarın Anna'yla tenis oynuyorum.",
+      "highlight": "I'm playing"
+    },
+    {
+      "id": "ex-pc-future-21",
+      "en": "He's picking me up at seven.",
+      "tr": "Beni yedide alıyor.",
+      "highlight": "He's picking"
+    },
+    {
+      "id": "ex-pc-future-22",
+      "en": "The plane leaves at 9 a.m. tomorrow.",
+      "tr": "Uçak yarın sabah dokuzda kalkıyor.",
+      "highlight": "leaves",
+      "note": "Tarife: Present Simple"
+    },
+    {
+      "id": "ex-pc-future-23",
+      "en": "The shop opens at nine every day.",
+      "tr": "Dükkan her gün dokuzda açılır.",
+      "highlight": "opens"
+    },
+    {
+      "id": "ex-pc-future-24",
+      "en": "We're having a party next Saturday.",
+      "tr": "Gelecek cumartesi parti veriyoruz.",
+      "highlight": "We're having"
+    },
+    {
+      "id": "ex-pc-future-25",
+      "en": "I'm cooking tonight. I've bought the food.",
+      "tr": "Bu akşam yemek yapıyorum. Yiyecekleri aldım.",
+      "highlight": "I'm cooking"
+    },
+    {
+      "id": "ex-pc-future-26",
+      "en": "She's visiting her grandmother this afternoon.",
+      "tr": "Bu öğleden sonra büyükannesini ziyaret ediyor.",
+      "highlight": "She's visiting"
+    },
+    {
+      "id": "ex-pc-future-27",
+      "en": "I'm going to the cinema tonight.",
+      "tr": "Bu akşam sinemaya gidiyorum.",
+      "highlight": "I'm going"
+    },
+    {
+      "id": "ex-pc-future-28",
+      "en": "What time are we meeting?",
+      "tr": "Saat kaçta buluşuyoruz?",
+      "highlight": "What time are we meeting"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-pc-future-01",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I ___ Tom at six tonight.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am meeting"
+        },
+        {
+          "id": "b",
+          "text": "meet"
+        },
+        {
+          "id": "c",
+          "text": "met"
+        },
+        {
+          "id": "d",
+          "text": "will meeting"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Kesinleşmiş randevu: am + -ing.",
+      "optionExplanations": {
+        "b": "Kişisel plan Present Continuous ile söylenir.",
+        "c": "Geçmiş zaman.",
+        "d": "Biçim yok."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-02",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She ___ flying to London tomorrow.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "She ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "She ile is."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-03",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın Londra'ya uçuyor.",
+      "answer": [
+        "She",
+        "is",
+        "flying",
+        "to",
+        "London",
+        "tomorrow"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "fly",
+        "are"
+      ],
+      "explanation": "is + fiil-ing",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-pc-future-04",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She flying tomorrow.",
+      "errorSpan": "She flying",
+      "answers": [
+        "She is flying tomorrow."
+      ],
+      "explanation": "Be fiili eksik.",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-05",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yarın Londra'ya uçuyor.",
+      "hint": "uçmak: fly",
+      "answers": [
+        "She is flying to London tomorrow.",
+        "He is flying to London tomorrow."
+      ],
+      "targetStructure": "is + fiil-ing",
+      "explanation": "Kesinleşmiş plan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She flying to London tomorrow.",
+          "explanation": "Be fiili eksik."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-06",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "We ___ dinner with my parents on Saturday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are having"
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "had"
+        },
+        {
+          "id": "d",
+          "text": "is having"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Plan: are + -ing.",
+      "optionExplanations": {
+        "b": "Present Simple plan bildirmez.",
+        "c": "Geçmiş zaman.",
+        "d": "We ile are."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pc-future-07",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "They ___ getting married next month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "am"
+        },
+        {
+          "id": "d",
+          "text": "do"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "They ile are.",
+      "optionExplanations": {
+        "b": "They ile is kullanılmaz.",
+        "c": "They ile am kullanılmaz.",
+        "d": "Do kullanılmaz."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-08",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "He ___ his new job on Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is starting"
+        },
+        {
+          "id": "b",
+          "text": "are starting"
+        },
+        {
+          "id": "c",
+          "text": "start"
+        },
+        {
+          "id": "d",
+          "text": "starting"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "He ile is + -ing.",
+      "optionExplanations": {
+        "b": "He ile are kullanılmaz.",
+        "c": "Present Simple plan bildirmez.",
+        "d": "Be fiili eksik."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-pc-future-09",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I'm ___ Tom tonight. (buluşuyorum)",
+      "answers": [
+        "meeting"
+      ],
+      "explanation": "-ing biçimi.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "meet",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-10",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "We're ___ at eight tomorrow morning. (leave)",
+      "answers": [
+        "leaving"
+      ],
+      "explanation": "-e düşer.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "leaveing",
+          "explanation": "-e düşer."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-11",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She's ___ her grandmother this afternoon. (visit)",
+      "answers": [
+        "visiting"
+      ],
+      "explanation": "-ing.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "visit",
+          "explanation": "-ing gerekir."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-12",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I ___ working tomorrow. (çalışmıyorum)",
+      "options": [
+        {
+          "id": "a",
+          "text": "'m not"
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "isn't"
+        },
+        {
+          "id": "d",
+          "text": "won't be"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "I ile am not.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "I ile isn't kullanılmaz.",
+        "d": "Bu kalıp farklı anlam verir."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-13",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She ___ coming to the party.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't"
+        },
+        {
+          "id": "b",
+          "text": "aren't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "don't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "She ile isn't.",
+      "optionExplanations": {
+        "b": "She ile aren't.",
+        "c": "Doesn't kullanılmaz.",
+        "d": "Don't kullanılmaz."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-14",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Are you doing anything tonight?"
+        },
+        {
+          "id": "b",
+          "text": "Do you doing anything tonight?"
+        },
+        {
+          "id": "c",
+          "text": "You are doing anything tonight?"
+        },
+        {
+          "id": "d",
+          "text": "Are you do anything tonight?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Be + özne + fiil-ing.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Soru yapısı eksik.",
+        "d": "-ing gerekir."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-15",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ you doing this weekend?",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "do"
+        },
+        {
+          "id": "c",
+          "text": "will"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh + be + özne + -ing.",
+      "optionExplanations": {
+        "b": "Do kullanılmaz.",
+        "c": "Will ile -ing gelmez.",
+        "d": "You ile are."
+      },
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-16",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "The plane ___ at 9 a.m. tomorrow. (tarife)",
+      "options": [
+        {
+          "id": "a",
+          "text": "leaves"
+        },
+        {
+          "id": "b",
+          "text": "is leaving"
+        },
+        {
+          "id": "c",
+          "text": "leave"
+        },
+        {
+          "id": "d",
+          "text": "left"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tarife: Present Simple.",
+      "optionExplanations": {
+        "b": "Tarife için Present Simple kullanılır.",
+        "c": "-s gerekir.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-17",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi tarife bildirir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The shop opens at nine every day."
+        },
+        {
+          "id": "b",
+          "text": "I'm opening the shop at nine."
+        },
+        {
+          "id": "c",
+          "text": "I'm going to open the shop."
+        },
+        {
+          "id": "d",
+          "text": "The shop is opening."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Düzenli program: Present Simple.",
+      "optionExplanations": {
+        "b": "Kişisel plan.",
+        "c": "Niyet.",
+        "d": "Şimdiki zaman."
+      },
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-18",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We ___ going on holiday this year. (gitmiyoruz)",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "We ile aren't."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-19",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "They ___ staying at a hotel. (kalmıyorlar)",
+      "answers": [
+        "aren't",
+        "are not"
+      ],
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "isn't",
+          "explanation": "They ile aren't."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-20",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ you doing anything tonight?",
+      "answers": [
+        "Are"
+      ],
+      "explanation": "You ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do",
+          "explanation": "Be fiili kullanılır."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-21",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ he coming tomorrow?",
+      "answers": [
+        "Is"
+      ],
+      "explanation": "He ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Are",
+          "explanation": "He ile is."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-22",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "When ___ she arriving?",
+      "answers": [
+        "is"
+      ],
+      "explanation": "She ile is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "She ile is."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-23",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Where ___ they meeting?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "They ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "They ile are."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-24",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What time ___ we meeting?",
+      "answers": [
+        "are"
+      ],
+      "explanation": "We ile are.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "We ile are."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-25",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "The film ___ at 8 p.m. tonight. (start)",
+      "answers": [
+        "starts"
+      ],
+      "explanation": "Tarife: Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is starting",
+          "explanation": "Tarife için Present Simple."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-26",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I meet Tom tonight.",
+      "errorSpan": "meet",
+      "answers": [
+        "I'm meeting Tom tonight.",
+        "I am meeting Tom tonight."
+      ],
+      "explanation": "Kişisel plan Present Continuous ile.",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-27",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Do you doing anything tonight?",
+      "errorSpan": "Do you doing",
+      "answers": [
+        "Are you doing anything tonight?"
+      ],
+      "explanation": "Be fiili.",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-28",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He isn't comes tomorrow.",
+      "errorSpan": "comes",
+      "answers": [
+        "He isn't coming tomorrow.",
+        "He is not coming tomorrow."
+      ],
+      "explanation": "-ing gerekir.",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-29",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "The plane is leaving at 9 a.m. every Monday.",
+      "errorSpan": "is leaving",
+      "answers": [
+        "The plane leaves at 9 a.m. every Monday."
+      ],
+      "explanation": "Tarife Present Simple.",
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-30",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "They getting married next month.",
+      "errorSpan": "They getting",
+      "answers": [
+        "They are getting married next month."
+      ],
+      "explanation": "Be fiili eksik.",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-31",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın çalışmıyorum.",
+      "answer": [
+        "I'm",
+        "not",
+        "working",
+        "tomorrow"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "don't",
+        "work"
+      ],
+      "explanation": "am not + -ing",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-32",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bu hafta sonu ne yapıyorsun?",
+      "answer": [
+        "What",
+        "are",
+        "you",
+        "doing",
+        "this",
+        "weekend"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "do",
+        "is"
+      ],
+      "explanation": "Wh + are + özne + -ing",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-33",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yarın geliyor mu?",
+      "answer": [
+        "Is",
+        "he",
+        "coming",
+        "tomorrow"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "Does",
+        "Are"
+      ],
+      "explanation": "Is + özne + -ing",
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-34",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu gece bir şey yapıyor musun?",
+      "hint": "yapmak: do",
+      "answers": [
+        "Are you doing anything tonight?"
+      ],
+      "targetStructure": "Are you + -ing",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Do you doing anything tonight?",
+          "explanation": "Be fiili."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-35",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Partiye gelmiyor.",
+      "hint": "gelmek: come",
+      "answers": [
+        "She isn't coming to the party.",
+        "He isn't coming to the party.",
+        "She is not coming to the party.",
+        "He is not coming to the party."
+      ],
+      "targetStructure": "isn't + -ing",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She doesn't coming to the party.",
+          "explanation": "Be + not."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-pc-future-36",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Uçak yarın sabah dokuzda kalkıyor.",
+      "hint": "kalkmak: leave",
+      "answers": [
+        "The plane leaves at 9 a.m. tomorrow.",
+        "The plane leaves at nine tomorrow morning."
+      ],
+      "targetStructure": "Present Simple tarife",
+      "explanation": "Tarife.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "The plane is leaving at 9 a.m. tomorrow.",
+          "explanation": "Bu da mümkündür ama tarife için Present Simple."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-37",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle kesinleşmiş bir planı anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm seeing the dentist on Friday."
+        },
+        {
+          "id": "b",
+          "text": "I see the dentist."
+        },
+        {
+          "id": "c",
+          "text": "I saw the dentist."
+        },
+        {
+          "id": "d",
+          "text": "I would see the dentist."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Randevu: am + -ing.",
+      "optionExplanations": {
+        "b": "Zaman ifadesi ve plan eksik.",
+        "c": "Geçmiş zaman.",
+        "d": "Kip farklı."
+      },
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-38",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'm not knowing the answer tomorrow."
+        },
+        {
+          "id": "b",
+          "text": "I won't know the answer tomorrow."
+        },
+        {
+          "id": "c",
+          "text": "I'm not know the answer tomorrow."
+        },
+        {
+          "id": "d",
+          "text": "I don't knowing the answer tomorrow."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Durum fiili -ing almaz.",
+      "optionExplanations": {
+        "a": "Know -ing almaz.",
+        "c": "-ing gerekir ama know zaten -ing almaz.",
+        "d": "Don't ve -ing birlikte kullanılmaz."
+      },
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-pc-future-39",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle tarife bildirir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The train leaves at 7:30."
+        },
+        {
+          "id": "b",
+          "text": "The train is leaving soon."
+        },
+        {
+          "id": "c",
+          "text": "The train will leave."
+        },
+        {
+          "id": "d",
+          "text": "The train left."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Tarife: Present Simple.",
+      "optionExplanations": {
+        "b": "Yakın gelecek.",
+        "c": "Tahmin.",
+        "d": "Geçmiş."
+      },
+      "tags": [
+        "pc-future",
+        "vs"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-40",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'm cooking tonight. I ___ bought the food.",
+      "answers": [
+        "have",
+        "'ve"
+      ],
+      "explanation": "Present Perfect: have + V3.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "am",
+          "explanation": "Have bought gerekir."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-41",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "My sister ___ coming to visit this weekend.",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Sister tekil: is.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "are",
+          "explanation": "Sister tekildir."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "form"
+      ],
+      "errorTags": [
+        "auxiliary_verb"
+      ]
+    },
+    {
+      "id": "q-pc-future-42",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bu akşam altıda Tom'la buluşuyorum.",
+      "hint": "buluşmak: meet",
+      "answers": [
+        "I'm meeting Tom at six tonight.",
+        "I am meeting Tom at six tonight."
+      ],
+      "targetStructure": "am + -ing",
+      "explanation": "Randevu.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I meet Tom at six tonight.",
+          "explanation": "Kişisel plan Present Continuous ile."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-43",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gelecek ay evleniyorlar.",
+      "hint": "evlenmek: get married",
+      "answers": [
+        "They are getting married next month.",
+        "They're getting married next month."
+      ],
+      "targetStructure": "are + -ing",
+      "explanation": "Plan.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "They get married next month.",
+          "explanation": "Kişisel plan Present Continuous ile."
+        }
+      ],
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-44",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "We are having a party tomorrow? (belirsiz plan)",
+      "errorSpan": "are having",
+      "answers": [
+        "We might have a party tomorrow.",
+        "We may have a party tomorrow."
+      ],
+      "explanation": "Kesinleşmemiş plan için might.",
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-pc-future-45",
+      "lessonId": "a2-present-continuous-future",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I'm meeting Tom.",
+      "errorSpan": "meeting Tom",
+      "answers": [
+        "I'm meeting Tom tonight.",
+        "I'm meeting Tom tomorrow."
+      ],
+      "explanation": "Gelecek anlamı için zaman ifadesi gerekir.",
+      "tags": [
+        "pc-future",
+        "use"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-pc-future",
+    "title": "Present Continuous for Future: Konu sonu sınavı",
+    "description": "Kesinleşmiş planlar ve tarifeler.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-pc-future-exam-01",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ to London tomorrow.",
+        "options": [
+          {
+            "id": "a",
+            "text": "is flying"
+          },
+          {
+            "id": "b",
+            "text": "are flying"
+          },
+          {
+            "id": "c",
+            "text": "flies"
+          },
+          {
+            "id": "d",
+            "text": "flying"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Plan: is + -ing.",
+        "optionExplanations": {
+          "b": "She ile is.",
+          "c": "Present Simple plan bildirmez.",
+          "d": "Be fiili eksik."
+        },
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-02",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "We are ___ at eight tomorrow. (leave)",
+        "answers": [
+          "leaving"
+        ],
+        "explanation": "-e düşer.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "leaveing",
+            "explanation": "-e düşer."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-03",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Pazartesi yeni işine başlıyor.",
+        "answer": [
+          "He",
+          "is",
+          "starting",
+          "his",
+          "new",
+          "job",
+          "on",
+          "Monday"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "start",
+          "are"
+        ],
+        "explanation": "is + -ing",
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-04",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "They getting married.",
+        "errorSpan": "They getting",
+        "answers": [
+          "They are getting married."
+        ],
+        "explanation": "Be fiili.",
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "auxiliary_verb"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-05",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Cuma günü diş hekimine gidiyorum.",
+        "hint": "diş hekimi: dentist",
+        "answers": [
+          "I'm seeing the dentist on Friday.",
+          "I am seeing the dentist on Friday."
+        ],
+        "targetStructure": "am + -ing",
+        "explanation": "Randevu.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "I see the dentist on Friday.",
+            "explanation": "Randevu için Present Continuous."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-06",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "She ___ coming. (gelmiyor)",
+        "options": [
+          {
+            "id": "a",
+            "text": "isn't"
+          },
+          {
+            "id": "b",
+            "text": "aren't"
+          },
+          {
+            "id": "c",
+            "text": "doesn't"
+          },
+          {
+            "id": "d",
+            "text": "don't"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "She ile isn't.",
+        "optionExplanations": {
+          "b": "She ile aren't.",
+          "c": "Doesn't kullanılmaz.",
+          "d": "Don't kullanılmaz."
+        },
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-07",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "___ she coming to the party?",
+        "answers": [
+          "Is"
+        ],
+        "explanation": "She ile is.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Are",
+            "explanation": "She ile is."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-08",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Saat kaçta buluşuyoruz?",
+        "answer": [
+          "What",
+          "time",
+          "are",
+          "we",
+          "meeting"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "do",
+          "is"
+        ],
+        "explanation": "Wh + are + we + -ing",
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-09",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He isn't come tomorrow.",
+        "errorSpan": "come",
+        "answers": [
+          "He isn't coming tomorrow.",
+          "He is not coming tomorrow."
+        ],
+        "explanation": "-ing.",
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-10",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Ne zaman varıyor?",
+        "hint": "varmak: arrive",
+        "answers": [
+          "When is she arriving?",
+          "When is he arriving?"
+        ],
+        "targetStructure": "Wh + is + -ing",
+        "explanation": "Wh soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "When does she arriving?",
+            "explanation": "Be fiili."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-11",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "The film ___ at 8 p.m. tonight.",
+        "options": [
+          {
+            "id": "a",
+            "text": "starts"
+          },
+          {
+            "id": "b",
+            "text": "is starting"
+          },
+          {
+            "id": "c",
+            "text": "start"
+          },
+          {
+            "id": "d",
+            "text": "started"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Tarife: Present Simple.",
+        "optionExplanations": {
+          "b": "Tarife için Present Simple.",
+          "c": "-s gerekir.",
+          "d": "Geçmiş."
+        },
+        "tags": [
+          "pc-future",
+          "vs"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-12",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "What ___ you doing tonight?",
+        "answers": [
+          "are"
+        ],
+        "explanation": "You ile are.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "do",
+            "explanation": "Be fiili."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-13",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "The train is leaving at 7:30 every day.",
+        "errorSpan": "is leaving",
+        "answers": [
+          "The train leaves at 7:30 every day."
+        ],
+        "explanation": "Tarife.",
+        "tags": [
+          "pc-future",
+          "vs"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-14",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I'm meeting Anna at six tonight."
+          },
+          {
+            "id": "b",
+            "text": "I meet Anna at six tonight."
+          },
+          {
+            "id": "c",
+            "text": "I'm meet Anna at six tonight."
+          },
+          {
+            "id": "d",
+            "text": "I meeting Anna at six tonight."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Randevu.",
+        "optionExplanations": {
+          "b": "Present Continuous gerekir.",
+          "c": "-ing gerekir.",
+          "d": "Be fiili eksik."
+        },
+        "tags": [
+          "pc-future",
+          "use"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-15",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "They aren't ___ on holiday this year. (go)",
+        "answers": [
+          "going"
+        ],
+        "explanation": "-ing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "go",
+            "explanation": "-ing gerekir."
+          }
+        ],
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-pc-future-exam-16",
+        "lessonId": "a2-present-continuous-future",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Beni yedide alıyor.",
+        "answer": [
+          "He's",
+          "picking",
+          "me",
+          "up",
+          "at",
+          "seven"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "picks",
+          "is"
+        ],
+        "explanation": "is + -ing",
+        "tags": [
+          "pc-future",
+          "form"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      }
+    ]
+  }
+}
