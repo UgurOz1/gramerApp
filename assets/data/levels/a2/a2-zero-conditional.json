@@ -1,0 +1,2284 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-zero-conditional",
+  "levelId": "a2",
+  "title": "Zero Conditional",
+  "objectives": [
+    "Genel doğru ve bilimsel gerçekleri If + Present Simple, Present Simple ile anlatmak",
+    "If cümlesinde will kullanmamak",
+    "If ve when'in kesin sonuçlarda eşdeğer olduğunu bilmek",
+    "Virgül kuralını uygulamak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Zero Conditional nedir?",
+      "paragraphs": [
+        "Zero Conditional, genel doğruları, bilimsel gerçekleri ve her zaman aynı sonucu veren durumları anlatır: “Buzu ısıtırsan erir.” Burada If ile When neredeyse aynı anlama gelir: bir şey olduğunda sonuç her zaman aynıdır.",
+        "Yapı: If + Present Simple, Present Simple. Her iki cümlede de Present Simple kullanılır; will kullanılmaz. Türkçede “-ırsa / -erse … -ir / -er” yapısına karşılık gelir."
+      ]
+    },
+    {
+      "id": "form",
+      "type": "rule",
+      "title": "Yapı",
+      "paragraphs": [
+        "If cümlesi (koşul) ve ana cümle (sonuç) ikisi de Present Simple’dır. If cümlesi başta ise ortasında virgül konur; sonda ise virgül konmaz."
+      ],
+      "formulas": [
+        {
+          "label": "If başta",
+          "pattern": "If + Present Simple, + Present Simple",
+          "exampleIds": [
+            "ex-zero-cond-01",
+            "ex-zero-cond-02",
+            "ex-zero-cond-03",
+            "ex-zero-cond-04"
+          ]
+        },
+        {
+          "label": "If sonda",
+          "pattern": "Present Simple + if + Present Simple",
+          "exampleIds": [
+            "ex-zero-cond-10",
+            "ex-zero-cond-11",
+            "ex-zero-cond-12"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "If + özne + don’t / doesn’t + fiil, …",
+          "exampleIds": [
+            "ex-zero-cond-05",
+            "ex-zero-cond-09",
+            "ex-zero-cond-18"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "What happens if …?   What do you do if …?",
+          "exampleIds": [
+            "ex-zero-cond-19",
+            "ex-zero-cond-20",
+            "ex-zero-cond-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when",
+      "type": "rule",
+      "title": "If ve when",
+      "paragraphs": [
+        "Zero Conditional’da if yerine when de kullanılabilir. Bu cümlelerde sonuç her seferinde kesindir."
+      ],
+      "formulas": [
+        {
+          "label": "When",
+          "pattern": "When + Present Simple, + Present Simple",
+          "exampleIds": [
+            "ex-zero-cond-13",
+            "ex-zero-cond-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "type": "forms",
+      "title": "Ne zaman kullanılır?",
+      "forms": [
+        {
+          "label": "Bilimsel gerçekler",
+          "formula": "If you heat ice, it melts.",
+          "exampleIds": [
+            "ex-zero-cond-01",
+            "ex-zero-cond-03",
+            "ex-zero-cond-22",
+            "ex-zero-cond-24"
+          ],
+          "note": "Doğa kanunları."
+        },
+        {
+          "label": "Genel doğrular",
+          "formula": "If you touch fire, you get burned.",
+          "exampleIds": [
+            "ex-zero-cond-16",
+            "ex-zero-cond-17",
+            "ex-zero-cond-18"
+          ],
+          "note": "Herkes için geçerli."
+        },
+        {
+          "label": "Alışkanlıklar",
+          "formula": "If I'm tired, I go to bed early.",
+          "exampleIds": [
+            "ex-zero-cond-06",
+            "ex-zero-cond-07",
+            "ex-zero-cond-08",
+            "ex-zero-cond-28"
+          ],
+          "note": "Kişisel rutinler."
+        },
+        {
+          "label": "Talimat ve kurallar",
+          "formula": "If you press this button, the door opens.",
+          "exampleIds": [
+            "ex-zero-cond-15",
+            "ex-zero-cond-23",
+            "ex-zero-cond-25",
+            "ex-zero-cond-26",
+            "ex-zero-cond-27"
+          ],
+          "note": "Makine, kural, program."
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: bilim ve genel doğrular",
+      "exampleIds": [
+        "ex-zero-cond-01",
+        "ex-zero-cond-02",
+        "ex-zero-cond-03",
+        "ex-zero-cond-04",
+        "ex-zero-cond-05",
+        "ex-zero-cond-16",
+        "ex-zero-cond-17",
+        "ex-zero-cond-18",
+        "ex-zero-cond-22",
+        "ex-zero-cond-24"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: alışkanlık, kural ve soru",
+      "exampleIds": [
+        "ex-zero-cond-06",
+        "ex-zero-cond-07",
+        "ex-zero-cond-08",
+        "ex-zero-cond-09",
+        "ex-zero-cond-10",
+        "ex-zero-cond-11",
+        "ex-zero-cond-12",
+        "ex-zero-cond-13",
+        "ex-zero-cond-14",
+        "ex-zero-cond-15",
+        "ex-zero-cond-19",
+        "ex-zero-cond-20",
+        "ex-zero-cond-21",
+        "ex-zero-cond-23",
+        "ex-zero-cond-25",
+        "ex-zero-cond-26",
+        "ex-zero-cond-27",
+        "ex-zero-cond-28"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "If you heat ice, it will melt.",
+          "right": "If you heat ice, it melts.",
+          "explanation": "Genel doğruda will kullanılmaz."
+        },
+        {
+          "wrong": "If you will heat ice, it melts.",
+          "right": "If you heat ice, it melts.",
+          "explanation": "If cümlesinde will olmaz."
+        },
+        {
+          "wrong": "If it rains the grass gets wet.",
+          "right": "If it rains, the grass gets wet.",
+          "explanation": "If başta ise virgül gerekir."
+        },
+        {
+          "wrong": "Ice melts, if you heat it.",
+          "right": "Ice melts if you heat it.",
+          "explanation": "If sondaysa virgül konmaz."
+        },
+        {
+          "wrong": "If you heats ice, it melts.",
+          "right": "If you heat ice, it melts.",
+          "explanation": "You ile -s yok."
+        },
+        {
+          "wrong": "If water reach 100 degrees, it boils.",
+          "right": "If water reaches 100 degrees, it boils.",
+          "explanation": "Water üçüncü tekil: -es."
+        },
+        {
+          "wrong": "If you didn't water plants, they die.",
+          "right": "If you don't water plants, they die.",
+          "explanation": "Present Simple gerekir."
+        },
+        {
+          "wrong": "If I will be tired, I go to bed.",
+          "right": "If I'm tired, I go to bed.",
+          "explanation": "If cümlesinde will olmaz."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "First Conditional",
+          "body": "Belirli gelecek durumlar için If + Present Simple, will + fiil kullanılır.",
+          "lessonId": "a2-first-conditional"
+        },
+        {
+          "topic": "Present Simple",
+          "body": "Zero Conditional iki cümlede de Present Simple kullanır.",
+          "lessonId": "a1-present-simple"
+        },
+        {
+          "topic": "When ve if",
+          "body": "Zero Conditional'da when ve if aynı anlamdadır.",
+          "lessonId": "a2-first-conditional"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Her iki cümle de Present Simple; will kullanma.",
+        "If cümlesi başta ise virgül, sonda ise virgülsüz.",
+        "Genel doğru ve kesin sonuç için kullan; belirli gelecek için First Conditional.",
+        "If yerine when de kullanabilirsin.",
+        "Üçüncü tekil kişide -s unutulmasın."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-zero-cond-01",
+        "q-zero-cond-02",
+        "q-zero-cond-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-zero-cond-01",
+      "en": "If you heat ice, it melts.",
+      "tr": "Buzu ısıtırsan erir.",
+      "highlight": "If you heat ice, it melts",
+      "note": "If + Present Simple, Present Simple"
+    },
+    {
+      "id": "ex-zero-cond-02",
+      "en": "If you mix red and blue, you get purple.",
+      "tr": "Kırmızı ile maviyi karıştırırsan mor elde edersin.",
+      "highlight": "If you mix red and blue, you get purple"
+    },
+    {
+      "id": "ex-zero-cond-03",
+      "en": "If water reaches 100 degrees, it boils.",
+      "tr": "Su 100 dereceye ulaşırsa kaynar.",
+      "highlight": "If water reaches 100 degrees, it boils"
+    },
+    {
+      "id": "ex-zero-cond-04",
+      "en": "If it rains, the grass gets wet.",
+      "tr": "Yağmur yağarsa çimen ıslanır.",
+      "highlight": "If it rains, the grass gets wet"
+    },
+    {
+      "id": "ex-zero-cond-05",
+      "en": "If you don't water plants, they die.",
+      "tr": "Bitkileri sulamazsan ölürler.",
+      "highlight": "If you don't water plants, they die",
+      "note": "olumsuz if cümlesi"
+    },
+    {
+      "id": "ex-zero-cond-06",
+      "en": "If I drink coffee at night, I can't sleep.",
+      "tr": "Geceleri kahve içersem uyuyamam.",
+      "highlight": "If I drink coffee at night, I can't sleep",
+      "note": "kişisel alışkanlık"
+    },
+    {
+      "id": "ex-zero-cond-07",
+      "en": "If I'm tired, I go to bed early.",
+      "tr": "Yorgunsam erken yatarım.",
+      "highlight": "If I'm tired, I go to bed early"
+    },
+    {
+      "id": "ex-zero-cond-08",
+      "en": "If she has a headache, she takes a pill.",
+      "tr": "Başı ağrırsa hap alır.",
+      "highlight": "If she has a headache, she takes a pill"
+    },
+    {
+      "id": "ex-zero-cond-09",
+      "en": "If he doesn't eat breakfast, he feels hungry.",
+      "tr": "Kahvaltı yapmazsa acıkır.",
+      "highlight": "If he doesn't eat breakfast, he feels hungry"
+    },
+    {
+      "id": "ex-zero-cond-10",
+      "en": "Ice melts if you heat it.",
+      "tr": "Isıtırsan buz erir.",
+      "highlight": "Ice melts if you heat it",
+      "note": "if cümlesi sonda: virgül yok"
+    },
+    {
+      "id": "ex-zero-cond-11",
+      "en": "Plants die if you don't water them.",
+      "tr": "Sulamazsan bitkiler ölür.",
+      "highlight": "Plants die if you don't water them"
+    },
+    {
+      "id": "ex-zero-cond-12",
+      "en": "I get angry if people are late.",
+      "tr": "İnsanlar geç kalırsa kızarım.",
+      "highlight": "I get angry if people are late"
+    },
+    {
+      "id": "ex-zero-cond-13",
+      "en": "When you heat ice, it melts.",
+      "tr": "Buzu ısıttığında erir.",
+      "highlight": "When you heat ice, it melts",
+      "note": "when = if (kesin sonuç)"
+    },
+    {
+      "id": "ex-zero-cond-14",
+      "en": "When it rains, I stay at home.",
+      "tr": "Yağmur yağınca evde kalırım.",
+      "highlight": "When it rains, I stay at home"
+    },
+    {
+      "id": "ex-zero-cond-15",
+      "en": "If you press this button, the door opens.",
+      "tr": "Bu düğmeye basarsan kapı açılır.",
+      "highlight": "If you press this button, the door opens"
+    },
+    {
+      "id": "ex-zero-cond-16",
+      "en": "If you touch fire, you get burned.",
+      "tr": "Ateşe dokunursan yanarsın.",
+      "highlight": "If you touch fire, you get burned"
+    },
+    {
+      "id": "ex-zero-cond-17",
+      "en": "If people eat too much, they get fat.",
+      "tr": "İnsanlar çok yerse kilo alırlar.",
+      "highlight": "If people eat too much, they get fat"
+    },
+    {
+      "id": "ex-zero-cond-18",
+      "en": "If you don't sleep enough, you feel tired.",
+      "tr": "Yeterince uyumazsan yorgun hissedersin.",
+      "highlight": "If you don't sleep enough, you feel tired"
+    },
+    {
+      "id": "ex-zero-cond-19",
+      "en": "What happens if you heat ice?",
+      "tr": "Buzu ısıtırsan ne olur?",
+      "highlight": "What happens if you heat ice?",
+      "note": "soru"
+    },
+    {
+      "id": "ex-zero-cond-20",
+      "en": "What do you do if you feel sick?",
+      "tr": "Hasta hissedersen ne yaparsın?",
+      "highlight": "What do you do if you feel sick?"
+    },
+    {
+      "id": "ex-zero-cond-21",
+      "en": "If you cut your finger, does it hurt?",
+      "tr": "Parmağını kesersen acır mı?",
+      "highlight": "If you cut your finger, does it hurt?"
+    },
+    {
+      "id": "ex-zero-cond-22",
+      "en": "If you freeze water, it becomes ice.",
+      "tr": "Suyu dondurursan buz olur.",
+      "highlight": "If you freeze water, it becomes ice"
+    },
+    {
+      "id": "ex-zero-cond-23",
+      "en": "If the light is red, cars stop.",
+      "tr": "Işık kırmızıysa arabalar durur.",
+      "highlight": "If the light is red, cars stop"
+    },
+    {
+      "id": "ex-zero-cond-24",
+      "en": "If you add salt, the water boils faster.",
+      "tr": "Tuz eklersen su daha hızlı kaynar.",
+      "highlight": "If you add salt, the water boils faster"
+    },
+    {
+      "id": "ex-zero-cond-25",
+      "en": "If a student is absent, the teacher writes his name.",
+      "tr": "Bir öğrenci yoksa öğretmen adını yazar.",
+      "highlight": "If a student is absent, the teacher writes his name"
+    },
+    {
+      "id": "ex-zero-cond-26",
+      "en": "If you press 1, you hear the menu.",
+      "tr": "1'e basarsan menüyü duyarsın.",
+      "highlight": "If you press 1, you hear the menu"
+    },
+    {
+      "id": "ex-zero-cond-27",
+      "en": "If it's sunny, we go to the beach.",
+      "tr": "Hava güneşliyse sahile gideriz.",
+      "highlight": "If it's sunny, we go to the beach"
+    },
+    {
+      "id": "ex-zero-cond-28",
+      "en": "If I have time, I read.",
+      "tr": "Zamanım olursa okurum.",
+      "highlight": "If I have time, I read"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-zero-cond-01",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If you heat ice, it ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "melts"
+        },
+        {
+          "id": "b",
+          "text": "will melt"
+        },
+        {
+          "id": "c",
+          "text": "melted"
+        },
+        {
+          "id": "d",
+          "text": "would melt"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Genel doğru: Present Simple.",
+      "optionExplanations": {
+        "b": "Genel doğruda will kullanılmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "Would farklı koşuldur."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-02",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If water ___ 100 degrees, it boils. (reach)",
+      "answers": [
+        "reaches"
+      ],
+      "explanation": "Water üçüncü tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "reach",
+          "explanation": "Üçüncü tekilde -es."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-03",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Buzu ısıtırsan erir.",
+      "answer": [
+        "If",
+        "you",
+        "heat",
+        "ice",
+        "it",
+        "melts"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "melt"
+      ],
+      "explanation": "If + Present, Present",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-04",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If you heat ice, it will melt.",
+      "errorSpan": "will melt",
+      "answers": [
+        "If you heat ice, it melts."
+      ],
+      "explanation": "Genel doğruda will yok.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-05",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Buzu ısıtırsan erir.",
+      "hint": "ısıtmak: heat, erimek: melt",
+      "answers": [
+        "If you heat ice, it melts.",
+        "If you heat ice it melts.",
+        "Ice melts if you heat it."
+      ],
+      "targetStructure": "If + Present, Present",
+      "explanation": "Zero Conditional.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If you heat ice, it will melt.",
+          "explanation": "Genel doğruda will yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-06",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If it rains, the grass ___ wet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "gets"
+        },
+        {
+          "id": "b",
+          "text": "will get"
+        },
+        {
+          "id": "c",
+          "text": "got"
+        },
+        {
+          "id": "d",
+          "text": "get"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Grass üçüncü tekil.",
+      "optionExplanations": {
+        "b": "Will kullanılmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "-s gerekir."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-07",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If you ___ red and blue, you get purple.",
+      "options": [
+        {
+          "id": "a",
+          "text": "mix"
+        },
+        {
+          "id": "b",
+          "text": "mixes"
+        },
+        {
+          "id": "c",
+          "text": "will mix"
+        },
+        {
+          "id": "d",
+          "text": "mixed"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "You ile yalın fiil.",
+      "optionExplanations": {
+        "b": "You ile -es yok.",
+        "c": "Will olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-08",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "If I'm tired, I ___ to bed early.",
+      "options": [
+        {
+          "id": "a",
+          "text": "go"
+        },
+        {
+          "id": "b",
+          "text": "will go"
+        },
+        {
+          "id": "c",
+          "text": "went"
+        },
+        {
+          "id": "d",
+          "text": "going"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Simple.",
+      "optionExplanations": {
+        "b": "Will olmaz.",
+        "c": "Geçmiş zaman.",
+        "d": "-ing olmaz."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-09",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If you ___ plants, they die. (not water)",
+      "answers": [
+        "don't water"
+      ],
+      "explanation": "Olumsuz Present Simple.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "won't water",
+          "explanation": "Will olmaz."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-zero-cond-10",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If she has a headache, she ___ a pill. (take)",
+      "answers": [
+        "takes"
+      ],
+      "explanation": "She üçüncü tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "take",
+          "explanation": "Üçüncü tekilde -s."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-11",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "If you touch fire, you ___ burned. (get)",
+      "answers": [
+        "get"
+      ],
+      "explanation": "You ile yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "gets",
+          "explanation": "You ile -s yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-12",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If it rains, the grass gets wet."
+        },
+        {
+          "id": "b",
+          "text": "If it will rain, the grass gets wet."
+        },
+        {
+          "id": "c",
+          "text": "If it rains the grass gets wet."
+        },
+        {
+          "id": "d",
+          "text": "If it rain, the grass gets wet."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If + Present Simple, + virgül.",
+      "optionExplanations": {
+        "b": "If cümlesinde will olmaz.",
+        "c": "Virgül gerekir.",
+        "d": "It ile rains."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-13",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ice melts if you heat it."
+        },
+        {
+          "id": "b",
+          "text": "Ice melts, if you heat it."
+        },
+        {
+          "id": "c",
+          "text": "Ice will melt if you heat it."
+        },
+        {
+          "id": "d",
+          "text": "Ice melts if you will heat it."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "If sonda: virgül yok.",
+      "optionExplanations": {
+        "b": "If sondaysa virgül konmaz.",
+        "c": "Genel doğruda will olmaz.",
+        "d": "If cümlesinde will olmaz."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-14",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If you don't water plants, they die."
+        },
+        {
+          "id": "b",
+          "text": "If you didn't water plants, they die."
+        },
+        {
+          "id": "c",
+          "text": "If you won't water plants, they die."
+        },
+        {
+          "id": "d",
+          "text": "If you don't water plants, they will die."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Simple olumsuz.",
+      "optionExplanations": {
+        "b": "Geçmiş zaman.",
+        "c": "Will olmaz.",
+        "d": "Genel doğruda will olmaz."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-zero-cond-15",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "What ___ if you heat ice?",
+      "options": [
+        {
+          "id": "a",
+          "text": "happens"
+        },
+        {
+          "id": "b",
+          "text": "happen"
+        },
+        {
+          "id": "c",
+          "text": "will happen"
+        },
+        {
+          "id": "d",
+          "text": "is happening"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "What + üçüncü tekil.",
+      "optionExplanations": {
+        "b": "Üçüncü tekilde -s.",
+        "c": "Will olmaz.",
+        "d": "Present Continuous."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-16",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "___ you heat ice, it melts. (kesin sonuç, if yerine)",
+      "options": [
+        {
+          "id": "a",
+          "text": "When"
+        },
+        {
+          "id": "b",
+          "text": "While"
+        },
+        {
+          "id": "c",
+          "text": "Because"
+        },
+        {
+          "id": "d",
+          "text": "So"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When = if (kesin).",
+      "optionExplanations": {
+        "b": "While süren eylem içindir.",
+        "c": "Because neden bildirir.",
+        "d": "So sonuç bildirir."
+      },
+      "tags": [
+        "zero-cond",
+        "when"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-zero-cond-17",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "If he ___ breakfast, he feels hungry. (not eat)",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't eat"
+        },
+        {
+          "id": "b",
+          "text": "don't eat"
+        },
+        {
+          "id": "c",
+          "text": "won't eat"
+        },
+        {
+          "id": "d",
+          "text": "didn't eat"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Simple olumsuz.",
+      "optionExplanations": {
+        "b": "He ile doesn't.",
+        "c": "Will olmaz.",
+        "d": "Geçmiş zaman."
+      },
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-zero-cond-18",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If it ___, the grass gets wet. (rain)",
+      "answers": [
+        "rains"
+      ],
+      "explanation": "It üçüncü tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "rain",
+          "explanation": "Üçüncü tekilde -s."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-19",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If he ___ eat breakfast, he feels hungry.",
+      "answers": [
+        "doesn't"
+      ],
+      "explanation": "He ile doesn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "He ile doesn't."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-zero-cond-20",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If you freeze water, it ___ ice. (become)",
+      "answers": [
+        "becomes"
+      ],
+      "explanation": "It üçüncü tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "become",
+          "explanation": "Üçüncü tekilde -s."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-21",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If the light is red, cars ___. (stop)",
+      "answers": [
+        "stop"
+      ],
+      "explanation": "Cars çoğul.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "stops",
+          "explanation": "Çoğulda -s yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-22",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "What ___ you do if you feel sick?",
+      "answers": [
+        "do"
+      ],
+      "explanation": "What do you do.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Will olmaz."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-23",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If you add salt, the water ___ faster. (boil)",
+      "answers": [
+        "boils"
+      ],
+      "explanation": "Water üçüncü tekil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "boil",
+          "explanation": "Üçüncü tekilde -s."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-24",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "If I ___ coffee at night, I can't sleep. (drink)",
+      "answers": [
+        "drink"
+      ],
+      "explanation": "I ile yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "drinks",
+          "explanation": "I ile -s yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-25",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I get angry ___ people are late.",
+      "answers": [
+        "if"
+      ],
+      "explanation": "If sonda.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "If gerekir."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-26",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If you will heat ice, it melts.",
+      "errorSpan": "will heat",
+      "answers": [
+        "If you heat ice, it melts."
+      ],
+      "explanation": "If cümlesinde will olmaz.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-27",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If it rains the grass gets wet.",
+      "errorSpan": "rains the",
+      "answers": [
+        "If it rains, the grass gets wet."
+      ],
+      "explanation": "If başta ise virgül gerekir.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-28",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Ice melts, if you heat it.",
+      "errorSpan": ", if",
+      "answers": [
+        "Ice melts if you heat it."
+      ],
+      "explanation": "If sondaysa virgül konmaz.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-29",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If you heats ice, it melts.",
+      "errorSpan": "heats",
+      "answers": [
+        "If you heat ice, it melts."
+      ],
+      "explanation": "You ile -s yok.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-30",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If water reach 100 degrees, it boils.",
+      "errorSpan": "reach",
+      "answers": [
+        "If water reaches 100 degrees, it boils."
+      ],
+      "explanation": "Water üçüncü tekil.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-31",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Suyu dondurursan buz olur.",
+      "answer": [
+        "If",
+        "you",
+        "freeze",
+        "water",
+        "it",
+        "becomes",
+        "ice"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "become"
+      ],
+      "explanation": "If + Present, Present",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-32",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgunsam erken yatarım.",
+      "answer": [
+        "If",
+        "I'm",
+        "tired",
+        "I",
+        "go",
+        "to",
+        "bed",
+        "early"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "went"
+      ],
+      "explanation": "If + Present, Present",
+      "tags": [
+        "zero-cond",
+        "use"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-zero-cond-33",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Buzu ısıtırsan ne olur?",
+      "answer": [
+        "What",
+        "happens",
+        "if",
+        "you",
+        "heat",
+        "ice"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "happen",
+        "will"
+      ],
+      "explanation": "What happens if …",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-34",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yağmur yağarsa çimen ıslanır.",
+      "hint": "çimen: grass, ıslanmak: get wet",
+      "answers": [
+        "If it rains, the grass gets wet.",
+        "If it rains the grass gets wet.",
+        "The grass gets wet if it rains."
+      ],
+      "targetStructure": "If + Present, Present",
+      "explanation": "Genel doğru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If it will rain, the grass gets wet.",
+          "explanation": "If cümlesinde will olmaz."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-35",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Yorgunsam erken yatarım.",
+      "hint": "yatmak: go to bed",
+      "answers": [
+        "If I'm tired, I go to bed early.",
+        "If I am tired, I go to bed early.",
+        "I go to bed early if I'm tired.",
+        "I go to bed early if I am tired."
+      ],
+      "targetStructure": "If + Present, Present",
+      "explanation": "Alışkanlık.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If I'm tired, I will go to bed early.",
+          "explanation": "Genel alışkanlıkta will yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "use"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-36",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bitkileri sulamazsan ölürler.",
+      "hint": "sulamak: water, ölmek: die",
+      "answers": [
+        "If you don't water plants, they die.",
+        "If you don't water the plants, they die.",
+        "Plants die if you don't water them."
+      ],
+      "targetStructure": "olumsuz If",
+      "explanation": "Genel doğru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If you don't water plants, they will die.",
+          "explanation": "Genel doğruda will yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-zero-cond-37",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle genel bir doğruyu anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If you heat ice, it melts."
+        },
+        {
+          "id": "b",
+          "text": "If it rains tomorrow, I will stay home."
+        },
+        {
+          "id": "c",
+          "text": "If I were you, I would go."
+        },
+        {
+          "id": "d",
+          "text": "If I had money, I would buy it."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zero Conditional.",
+      "optionExplanations": {
+        "b": "First Conditional: belirli gelecek.",
+        "c": "Second Conditional.",
+        "d": "Second Conditional."
+      },
+      "tags": [
+        "zero-cond",
+        "use"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-38",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "When it rains, I stay at home."
+        },
+        {
+          "id": "b",
+          "text": "When it will rain, I stay at home."
+        },
+        {
+          "id": "c",
+          "text": "When it rains I will stays at home."
+        },
+        {
+          "id": "d",
+          "text": "When rains, I stay at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When + Present, Present.",
+      "optionExplanations": {
+        "b": "When cümlesinde will olmaz.",
+        "c": "Will'den sonra yalın fiil.",
+        "d": "Özne eksik."
+      },
+      "tags": [
+        "zero-cond",
+        "when"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-39",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümle makine ya da kural anlatır?",
+      "options": [
+        {
+          "id": "a",
+          "text": "If you press this button, the door opens."
+        },
+        {
+          "id": "b",
+          "text": "If you press the button, I'll call you."
+        },
+        {
+          "id": "c",
+          "text": "I would press it if I could."
+        },
+        {
+          "id": "d",
+          "text": "Press the button, please."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Zero Conditional: kural.",
+      "optionExplanations": {
+        "b": "First Conditional.",
+        "c": "Second Conditional.",
+        "d": "Emir."
+      },
+      "tags": [
+        "zero-cond",
+        "use"
+      ],
+      "errorTags": [
+        "conditional_form"
+      ]
+    },
+    {
+      "id": "q-zero-cond-40",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "___ it rains, I stay at home. (when / if aynı)",
+      "answers": [
+        "When",
+        "If"
+      ],
+      "explanation": "When veya if.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Because",
+          "explanation": "Neden bildirir."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "when"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-zero-cond-41",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "If you press 1, you ___ the menu. (hear)",
+      "answers": [
+        "hear"
+      ],
+      "explanation": "You ile yalın fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "hears",
+          "explanation": "You ile -s yok."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "use"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-42",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Su 100 dereceye ulaşırsa kaynar.",
+      "hint": "kaynamak: boil, ulaşmak: reach",
+      "answers": [
+        "If water reaches 100 degrees, it boils.",
+        "If water reaches 100 degrees it boils.",
+        "Water boils if it reaches 100 degrees."
+      ],
+      "targetStructure": "If + Present, Present",
+      "explanation": "Bilimsel gerçek.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "If water reach 100 degrees, it boils.",
+          "explanation": "Water üçüncü tekil."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-zero-cond-43",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Buzu ısıttığında erir.",
+      "hint": "ısıtmak: heat",
+      "answers": [
+        "When you heat ice, it melts.",
+        "When you heat ice it melts.",
+        "If you heat ice, it melts."
+      ],
+      "targetStructure": "When + Present, Present",
+      "explanation": "When = if.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "When you will heat ice, it melts.",
+          "explanation": "When cümlesinde will olmaz."
+        }
+      ],
+      "tags": [
+        "zero-cond",
+        "when"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-zero-cond-44",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If I will be tired, I go to bed.",
+      "errorSpan": "will be",
+      "answers": [
+        "If I'm tired, I go to bed.",
+        "If I am tired, I go to bed."
+      ],
+      "explanation": "If cümlesinde will olmaz.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-zero-cond-45",
+      "lessonId": "a2-zero-conditional",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "If you didn't water plants, they die.",
+      "errorSpan": "didn't water",
+      "answers": [
+        "If you don't water plants, they die."
+      ],
+      "explanation": "Present Simple gerekir.",
+      "tags": [
+        "zero-cond",
+        "form"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-zero-cond",
+    "title": "Zero Conditional: Konu sonu sınavı",
+    "description": "If + Present Simple, Present Simple.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-zero-cond-exam-01",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If you cool water to 0 degrees, it ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "freezes"
+          },
+          {
+            "id": "b",
+            "text": "will freeze"
+          },
+          {
+            "id": "c",
+            "text": "froze"
+          },
+          {
+            "id": "d",
+            "text": "would freeze"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Genel doğru: Present Simple.",
+        "optionExplanations": {
+          "b": "Genel doğruda will olmaz.",
+          "c": "Geçmiş zaman.",
+          "d": "Would farklı koşuldur."
+        },
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-02",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "If the baby is hungry, she ___. (cry)",
+        "answers": [
+          "cries"
+        ],
+        "explanation": "She üçüncü tekil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "cry",
+            "explanation": "Üçüncü tekilde -s."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-03",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bu düğmeye basarsan kapı açılır.",
+        "answer": [
+          "If",
+          "you",
+          "press",
+          "this",
+          "button",
+          "the",
+          "door",
+          "opens"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "will",
+          "open"
+        ],
+        "explanation": "If + Present, Present",
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-04",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If you will cool milk, it stays fresh.",
+        "errorSpan": "will cool",
+        "answers": [
+          "If you cool milk, it stays fresh."
+        ],
+        "explanation": "If cümlesinde will olmaz.",
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-05",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Çok yersen kilo alırsın.",
+        "hint": "kilo almak: get fat",
+        "answers": [
+          "If you eat too much, you get fat.",
+          "If you eat too much you get fat.",
+          "You get fat if you eat too much."
+        ],
+        "targetStructure": "If + Present, Present",
+        "explanation": "Genel doğru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If you eat too much, you will get fat.",
+            "explanation": "Genel doğruda will yok."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-06",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "If he ___ the bus, he is late.",
+        "options": [
+          {
+            "id": "a",
+            "text": "misses"
+          },
+          {
+            "id": "b",
+            "text": "will miss"
+          },
+          {
+            "id": "c",
+            "text": "missed"
+          },
+          {
+            "id": "d",
+            "text": "missing"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Present Simple.",
+        "optionExplanations": {
+          "b": "Will olmaz.",
+          "c": "Geçmiş zaman.",
+          "d": "-ing olmaz."
+        },
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-07",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If my sister is ill, she ___ at home. (stay)",
+        "answers": [
+          "stays"
+        ],
+        "explanation": "She üçüncü tekil.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "stay",
+            "explanation": "-s gerekir."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-08",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Otobüsü kaçırırsan ne yaparsın?",
+        "answer": [
+          "What",
+          "do",
+          "you",
+          "do",
+          "if",
+          "you",
+          "miss",
+          "the",
+          "bus"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "does",
+          "will"
+        ],
+        "explanation": "What do you do if …",
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-09",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If it snows the roads close.",
+        "errorSpan": "snows the",
+        "answers": [
+          "If it snows, the roads close."
+        ],
+        "explanation": "Virgül gerekir.",
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-10",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Geceleri kahve içersem uyuyamam.",
+        "hint": "uyumak: sleep",
+        "answers": [
+          "If I drink coffee at night, I can't sleep.",
+          "If I drink coffee at night I can't sleep.",
+          "I can't sleep if I drink coffee at night."
+        ],
+        "targetStructure": "If + Present, Present",
+        "explanation": "Kişisel durum.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "If I will drink coffee at night, I can't sleep.",
+            "explanation": "If cümlesinde will olmaz."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "use"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-11",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Milk goes bad if you don't keep it cold."
+          },
+          {
+            "id": "b",
+            "text": "Milk goes bad, if you don't keep it cold."
+          },
+          {
+            "id": "c",
+            "text": "Milk will go bad if you don't keep it cold."
+          },
+          {
+            "id": "d",
+            "text": "Milk goes bad if you won't keep it cold."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "If sonda virgül yok.",
+        "optionExplanations": {
+          "b": "Virgül konmaz.",
+          "c": "Genel doğruda will yok.",
+          "d": "If cümlesinde will olmaz."
+        },
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-12",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "If my brother ___ eat vegetables, he feels weak.",
+        "answers": [
+          "doesn't"
+        ],
+        "explanation": "He ile doesn't.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "don't",
+            "explanation": "He ile doesn't."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-13",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "If the baby cry, her mother wakes up.",
+        "errorSpan": "cry",
+        "answers": [
+          "If the baby cries, her mother wakes up."
+        ],
+        "explanation": "Üçüncü tekil: -s.",
+        "tags": [
+          "zero-cond",
+          "form"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-14",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi Zero Conditional'dır?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If you mix oil and water, they separate."
+          },
+          {
+            "id": "b",
+            "text": "If it rains tomorrow, I will stay home."
+          },
+          {
+            "id": "c",
+            "text": "If I were rich, I would travel."
+          },
+          {
+            "id": "d",
+            "text": "If I had known, I would have come."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Genel doğru.",
+        "optionExplanations": {
+          "b": "First Conditional.",
+          "c": "Second Conditional.",
+          "d": "Third Conditional."
+        },
+        "tags": [
+          "zero-cond",
+          "use"
+        ],
+        "errorTags": [
+          "conditional_form"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-15",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "___ you cool water enough, it freezes. (when / if aynı)",
+        "answers": [
+          "When",
+          "If"
+        ],
+        "explanation": "When veya if.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Because",
+            "explanation": "Neden bildirir."
+          }
+        ],
+        "tags": [
+          "zero-cond",
+          "when"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-zero-cond-exam-16",
+        "lessonId": "a2-zero-conditional",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Hava güneşliyse sahile gideriz.",
+        "answer": [
+          "If",
+          "it's",
+          "sunny",
+          "we",
+          "go",
+          "to",
+          "the",
+          "beach"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "will",
+          "went"
+        ],
+        "explanation": "If + Present, Present",
+        "tags": [
+          "zero-cond",
+          "use"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      }
+    ]
+  }
+}
