@@ -1,0 +1,2547 @@
+{
+  "schemaVersion": 1,
+  "id": "b1-reported-speech",
+  "levelId": "b1",
+  "title": "Reported Speech",
+  "objectives": [
+    "Zaman kayması kurallarını tüm temel zamanlara uygulamak",
+    "Zaman, yer ve zamir değişikliklerini yapmak",
+    "Say ve tell’i doğru kullanmak",
+    "Emir ve rica cümlelerini aktarmak"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Reported speech: zaman kayması",
+      "paragraphs": [
+        "A2’de reported speech’in temelini gördün. B1’de tüm zamanları, zaman ifadelerinin değişimini ve emir cümlelerinin aktarımını öğreniyoruz.",
+        "Genel kural: Aktaran fiil geçmişteyse (said, told) cümlenin zamanı bir adım geriye kayar. Zamirler ve zaman/yer ifadeleri anlama göre değişir."
+      ]
+    },
+    {
+      "id": "backshift",
+      "type": "forms",
+      "title": "Zaman kayması tablosu",
+      "forms": [
+        {
+          "label": "Present Simple → Past Simple",
+          "formula": "work → worked",
+          "exampleIds": [
+            "ex-reported-speech-01",
+            "ex-reported-speech-28"
+          ],
+          "note": "“I work” → he worked"
+        },
+        {
+          "label": "Present Continuous → Past Continuous",
+          "formula": "am watching → was watching",
+          "exampleIds": [
+            "ex-reported-speech-03"
+          ],
+          "note": "Aktarımda: am watching → was watching"
+        },
+        {
+          "label": "Past Simple → Past Perfect",
+          "formula": "visited → had visited",
+          "exampleIds": [
+            "ex-reported-speech-04",
+            "ex-reported-speech-15"
+          ],
+          "note": "Aktarımda: visited → had visited"
+        },
+        {
+          "label": "Present Perfect → Past Perfect",
+          "formula": "have finished → had finished",
+          "exampleIds": [
+            "ex-reported-speech-05"
+          ],
+          "note": "Aktarımda: have finished → had finished"
+        },
+        {
+          "label": "will → would",
+          "formula": "will call → would call",
+          "exampleIds": [
+            "ex-reported-speech-06",
+            "ex-reported-speech-14"
+          ],
+          "note": "Aktarımda: will call → would call"
+        },
+        {
+          "label": "can → could",
+          "formula": "can swim → could swim",
+          "exampleIds": [
+            "ex-reported-speech-07"
+          ],
+          "note": "Aktarımda: can swim → could swim"
+        },
+        {
+          "label": "must → had to",
+          "formula": "must go → had to go",
+          "exampleIds": [
+            "ex-reported-speech-08"
+          ],
+          "note": "Aktarımda: must go → had to go"
+        },
+        {
+          "label": "may → might",
+          "formula": "may come → might come",
+          "exampleIds": [
+            "ex-reported-speech-09"
+          ],
+          "note": "Aktarımda: may come → might come"
+        }
+      ]
+    },
+    {
+      "id": "nochange",
+      "type": "rule",
+      "title": "Değişmeyenler",
+      "paragraphs": [
+        "Past Perfect, would, could, might, should ve ought to değişmez. Past Simple da Past Perfect’e çevrilmeyebilir; ama B1’de sınav kuralı olarak çevir."
+      ],
+      "formulas": [
+        {
+          "label": "Değişmez",
+          "pattern": "had V3 / would / should / might → aynı kalır",
+          "exampleIds": [
+            "ex-reported-speech-10",
+            "ex-reported-speech-11",
+            "ex-reported-speech-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "type": "forms",
+      "title": "Zaman ve yer ifadeleri",
+      "forms": [
+        {
+          "label": "now → then",
+          "formula": "now → then / at that time",
+          "exampleIds": [
+            "ex-reported-speech-13"
+          ],
+          "note": "Aktarımda: now → then / at that time"
+        },
+        {
+          "label": "today → that day",
+          "formula": "today → that day",
+          "exampleIds": [
+            "ex-reported-speech-16"
+          ],
+          "note": "Aktarımda: today → that day"
+        },
+        {
+          "label": "tomorrow → the next day",
+          "formula": "tomorrow → the next day / the following day",
+          "exampleIds": [
+            "ex-reported-speech-14"
+          ],
+          "note": "Aktarımda: tomorrow → the next day / the following day"
+        },
+        {
+          "label": "yesterday → the day before",
+          "formula": "yesterday → the day before / the previous day",
+          "exampleIds": [
+            "ex-reported-speech-15"
+          ],
+          "note": "Aktarımda: yesterday → the day before / the previous day"
+        },
+        {
+          "label": "last week → the week before",
+          "formula": "last week → the week before",
+          "exampleIds": [
+            "ex-reported-speech-17"
+          ],
+          "note": "Aktarımda: last week → the week before"
+        },
+        {
+          "label": "next month → the following month",
+          "formula": "next month → the following month",
+          "exampleIds": [
+            "ex-reported-speech-18"
+          ],
+          "note": "Aktarımda: next month → the following month"
+        },
+        {
+          "label": "ago → before",
+          "formula": "two years ago → two years before",
+          "exampleIds": [
+            "ex-reported-speech-19"
+          ],
+          "note": "Aktarımda: two years ago → two years before"
+        },
+        {
+          "label": "this / here",
+          "formula": "this → that, here → there",
+          "exampleIds": [
+            "ex-reported-speech-20",
+            "ex-reported-speech-21"
+          ],
+          "note": "Aktarımda: this → that, here → there"
+        }
+      ]
+    },
+    {
+      "id": "pron",
+      "type": "rule",
+      "title": "Zamirler",
+      "paragraphs": [
+        "Zamirler aktaran kişinin bakış açısına göre değişir: my → his / her, I → he / she, you → I / he / she / they."
+      ],
+      "formulas": [
+        {
+          "label": "Sahiplik",
+          "pattern": "my car → her car",
+          "exampleIds": [
+            "ex-reported-speech-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saytell",
+      "type": "rule",
+      "title": "Say ve tell",
+      "paragraphs": [
+        "Tell’den sonra kişi gelir (told me). Say’den sonra kişi yoksa doğrudan söz gelir; kişi eklenecekse say to me kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "tell",
+          "pattern": "tell + kişi + (that) + cümle",
+          "exampleIds": [
+            "ex-reported-speech-23"
+          ]
+        },
+        {
+          "label": "say",
+          "pattern": "say + (that) + cümle",
+          "exampleIds": [
+            "ex-reported-speech-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imp",
+      "type": "rule",
+      "title": "Emir ve rica",
+      "paragraphs": [
+        "Emir cümleleri tell + kişi + to + V1 ile aktarılır. Olumsuzda not to kullanılır."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "told + kişi + to + V1",
+          "exampleIds": [
+            "ex-reported-speech-25"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "told + kişi + not to + V1",
+          "exampleIds": [
+            "ex-reported-speech-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "type": "rule",
+      "title": "Zaman kaymayabilir",
+      "paragraphs": [
+        "Söylenen şey genel bir doğruysa ya da hâlâ geçerliyse zaman kaydırmak zorunlu değildir: She said the Earth goes round the Sun."
+      ],
+      "formulas": [
+        {
+          "label": "Genel doğru",
+          "pattern": "said + (değişmeyen) Present Simple",
+          "exampleIds": [
+            "ex-reported-speech-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: zaman kayması",
+      "exampleIds": [
+        "ex-reported-speech-01",
+        "ex-reported-speech-02",
+        "ex-reported-speech-03",
+        "ex-reported-speech-04",
+        "ex-reported-speech-05",
+        "ex-reported-speech-06",
+        "ex-reported-speech-07",
+        "ex-reported-speech-08",
+        "ex-reported-speech-09",
+        "ex-reported-speech-10",
+        "ex-reported-speech-11",
+        "ex-reported-speech-12",
+        "ex-reported-speech-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: ifadeler ve yapılar",
+      "exampleIds": [
+        "ex-reported-speech-13",
+        "ex-reported-speech-14",
+        "ex-reported-speech-15",
+        "ex-reported-speech-16",
+        "ex-reported-speech-17",
+        "ex-reported-speech-18",
+        "ex-reported-speech-19",
+        "ex-reported-speech-20",
+        "ex-reported-speech-21",
+        "ex-reported-speech-22",
+        "ex-reported-speech-23",
+        "ex-reported-speech-24",
+        "ex-reported-speech-25",
+        "ex-reported-speech-26",
+        "ex-reported-speech-27"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "He said he works in a bank. (geçmişte aktarıyorsun)",
+          "right": "He said he worked in a bank.",
+          "explanation": "Said sonrası zaman geri kayar."
+        },
+        {
+          "wrong": "She said she will come.",
+          "right": "She said she would come.",
+          "explanation": "will → would."
+        },
+        {
+          "wrong": "He told that he was tired.",
+          "right": "He told me that he was tired.",
+          "explanation": "Tell'den sonra kişi gerekir."
+        },
+        {
+          "wrong": "He said me that he was tired.",
+          "right": "He told me that he was tired.",
+          "explanation": "Say'den sonra doğrudan kişi gelmez."
+        },
+        {
+          "wrong": "She said she would come tomorrow. (dünün aktarımı)",
+          "right": "She said she would come the next day.",
+          "explanation": "tomorrow → the next day."
+        },
+        {
+          "wrong": "He told me open the window.",
+          "right": "He told me to open the window.",
+          "explanation": "Tell + kişi + to + V1."
+        },
+        {
+          "wrong": "He told me to not touch it.",
+          "right": "He told me not to touch it.",
+          "explanation": "Standart biçim: not to."
+        },
+        {
+          "wrong": "He said he must go.",
+          "right": "He said he had to go.",
+          "explanation": "must → had to."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Reported questions",
+          "body": "Soruların aktarımı ayrı kurallar içerir.",
+          "lessonId": "b1-reported-questions"
+        },
+        {
+          "topic": "Say / tell",
+          "body": "Say ve tell arasındaki fark ayrı bir derste incelenir.",
+          "lessonId": "b1-say-tell"
+        },
+        {
+          "topic": "Past Perfect",
+          "body": "Past Simple geriye kayınca Past Perfect olur.",
+          "lessonId": "b1-past-perfect"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Said / told geçmişteyse zaman bir adım geri kayar.",
+        "Zamirleri ve zaman ifadelerini unutma.",
+        "Tell + kişi, say + kişi yok.",
+        "Emir: told + kişi + to + V1.",
+        "Would, could, might, should, had V3 değişmez."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-reported-speech-01",
+        "q-reported-speech-02",
+        "q-reported-speech-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-reported-speech-01",
+      "en": "“I work in a bank,” he said. → He said he worked in a bank.",
+      "tr": "“Bankada çalışıyorum” dedi. → Bankada çalıştığını söyledi.",
+      "highlight": "he worked",
+      "note": "Present Simple → Past Simple"
+    },
+    {
+      "id": "ex-reported-speech-02",
+      "en": "“I am tired,” she said. → She said she was tired.",
+      "tr": "“Yorgunum” dedi. → Yorgun olduğunu söyledi.",
+      "highlight": "she was tired",
+      "note": "am / is → was"
+    },
+    {
+      "id": "ex-reported-speech-03",
+      "en": "“I'm watching TV,” he said. → He said he was watching TV.",
+      "tr": "“TV izliyorum” dedi. → TV izlediğini söyledi.",
+      "highlight": "he was watching",
+      "note": "Present Continuous → Past Continuous"
+    },
+    {
+      "id": "ex-reported-speech-04",
+      "en": "“I visited Rome,” she said. → She said she had visited Rome.",
+      "tr": "“Roma'yı ziyaret ettim” dedi. → Roma'yı ziyaret ettiğini söyledi.",
+      "highlight": "she had visited",
+      "note": "Past Simple → Past Perfect"
+    },
+    {
+      "id": "ex-reported-speech-05",
+      "en": "“I have finished,” he said. → He said he had finished.",
+      "tr": "“Bitirdim” dedi. → Bitirdiğini söyledi.",
+      "highlight": "he had finished",
+      "note": "Present Perfect → Past Perfect"
+    },
+    {
+      "id": "ex-reported-speech-06",
+      "en": "“I will call you,” she said. → She said she would call me.",
+      "tr": "“Seni arayacağım” dedi. → Beni arayacağını söyledi.",
+      "highlight": "she would call me",
+      "note": "will → would"
+    },
+    {
+      "id": "ex-reported-speech-07",
+      "en": "“I can swim,” he said. → He said he could swim.",
+      "tr": "“Yüzebilirim” dedi. → Yüzebildiğini söyledi.",
+      "highlight": "he could swim",
+      "note": "can → could"
+    },
+    {
+      "id": "ex-reported-speech-08",
+      "en": "“I must go,” she said. → She said she had to go.",
+      "tr": "“Gitmeliyim” dedi. → Gitmesi gerektiğini söyledi.",
+      "highlight": "she had to go",
+      "note": "must → had to"
+    },
+    {
+      "id": "ex-reported-speech-09",
+      "en": "“I may come,” he said. → He said he might come.",
+      "tr": "“Gelebilirim” dedi. → Gelebileceğini söyledi.",
+      "highlight": "he might come",
+      "note": "may → might"
+    },
+    {
+      "id": "ex-reported-speech-10",
+      "en": "“You should rest,” she said. → She said I should rest.",
+      "tr": "“Dinlenmelisin” dedi. → Dinlenmem gerektiğini söyledi.",
+      "highlight": "I should rest",
+      "note": "should değişmez"
+    },
+    {
+      "id": "ex-reported-speech-11",
+      "en": "“I had left,” he said. → He said he had left.",
+      "tr": "“Ayrılmıştım” dedi. → Ayrılmış olduğunu söyledi.",
+      "highlight": "he had left",
+      "note": "Past Perfect değişmez"
+    },
+    {
+      "id": "ex-reported-speech-12",
+      "en": "“I would help,” she said. → She said she would help.",
+      "tr": "“Yardım ederdim” dedi. → Yardım edeceğini söyledi.",
+      "highlight": "she would help",
+      "note": "would değişmez"
+    },
+    {
+      "id": "ex-reported-speech-13",
+      "en": "“I'm busy now,” he said. → He said he was busy then.",
+      "tr": "“Şimdi meşgulüm” dedi. → O sırada meşgul olduğunu söyledi.",
+      "highlight": "then",
+      "note": "now → then"
+    },
+    {
+      "id": "ex-reported-speech-14",
+      "en": "“I'll come tomorrow,” she said. → She said she would come the next day.",
+      "tr": "“Yarın geleceğim” dedi. → Ertesi gün geleceğini söyledi.",
+      "highlight": "the next day",
+      "note": "tomorrow → the next day"
+    },
+    {
+      "id": "ex-reported-speech-15",
+      "en": "“I saw him yesterday,” he said. → He said he had seen him the day before.",
+      "tr": "“Onu dün gördüm” dedi. → Onu bir gün önce gördüğünü söyledi.",
+      "highlight": "the day before",
+      "note": "yesterday → the day before"
+    },
+    {
+      "id": "ex-reported-speech-16",
+      "en": "“I'm leaving today,” she said. → She said she was leaving that day.",
+      "tr": "“Bugün ayrılıyorum” dedi. → O gün ayrılacağını söyledi.",
+      "highlight": "that day",
+      "note": "today → that day"
+    },
+    {
+      "id": "ex-reported-speech-17",
+      "en": "“I met her last week,” he said. → He said he had met her the week before.",
+      "tr": "“Onunla geçen hafta tanıştım” dedi. → Bir hafta önce tanıştığını söyledi.",
+      "highlight": "the week before",
+      "note": "last week → the week before"
+    },
+    {
+      "id": "ex-reported-speech-18",
+      "en": "“I'll see you next month,” she said. → She said she would see me the following month.",
+      "tr": "“Seni gelecek ay göreceğim” dedi. → Ertesi ay beni göreceğini söyledi.",
+      "highlight": "the following month",
+      "note": "next month → the following month"
+    },
+    {
+      "id": "ex-reported-speech-19",
+      "en": "“I started two years ago,” he said. → He said he had started two years before.",
+      "tr": "“İki yıl önce başladım” dedi. → İki yıl önce başladığını söyledi.",
+      "highlight": "two years before",
+      "note": "ago → before"
+    },
+    {
+      "id": "ex-reported-speech-20",
+      "en": "“I like this house,” she said. → She said she liked that house.",
+      "tr": "“Bu evi seviyorum” dedi. → O evi sevdiğini söyledi.",
+      "highlight": "that house",
+      "note": "this → that"
+    },
+    {
+      "id": "ex-reported-speech-21",
+      "en": "“I live here,” he said. → He said he lived there.",
+      "tr": "“Burada yaşıyorum” dedi. → Orada yaşadığını söyledi.",
+      "highlight": "there",
+      "note": "here → there"
+    },
+    {
+      "id": "ex-reported-speech-22",
+      "en": "“My car is new,” she said. → She said her car was new.",
+      "tr": "“Arabam yeni” dedi. → Arabasının yeni olduğunu söyledi.",
+      "highlight": "her car",
+      "note": "my → her"
+    },
+    {
+      "id": "ex-reported-speech-23",
+      "en": "He told me that he was tired.",
+      "tr": "Bana yorgun olduğunu söyledi.",
+      "highlight": "told me",
+      "note": "tell + kişi"
+    },
+    {
+      "id": "ex-reported-speech-24",
+      "en": "She said that she was ill.",
+      "tr": "Hasta olduğunu söyledi.",
+      "highlight": "said that",
+      "note": "say + that"
+    },
+    {
+      "id": "ex-reported-speech-25",
+      "en": "“Open the window,” she said. → She told me to open the window.",
+      "tr": "“Pencereyi aç” dedi. → Pencereyi açmamı söyledi.",
+      "highlight": "told me to open",
+      "note": "tell + kişi + to + V1"
+    },
+    {
+      "id": "ex-reported-speech-26",
+      "en": "“Don't touch it,” he said. → He told me not to touch it.",
+      "tr": "“Ona dokunma” dedi. → Ona dokunmamamı söyledi.",
+      "highlight": "not to touch",
+      "note": "tell + kişi + not to + V1"
+    },
+    {
+      "id": "ex-reported-speech-27",
+      "en": "She said the Earth goes round the Sun.",
+      "tr": "Dünya'nın Güneş'in etrafında döndüğünü söyledi.",
+      "highlight": "goes",
+      "note": "Genel doğru: zaman kaymayabilir"
+    },
+    {
+      "id": "ex-reported-speech-28",
+      "en": "He said he didn't know the answer.",
+      "tr": "Cevabı bilmediğini söyledi.",
+      "highlight": "didn't know",
+      "note": "don't → didn't"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-reported-speech-01",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I live in Ankara,” he said. → He said he ___ in Ankara.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "lives"
+        },
+        {
+          "id": "c",
+          "text": "has lived"
+        },
+        {
+          "id": "d",
+          "text": "will live"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present Simple → Past Simple.",
+      "optionExplanations": {
+        "b": "Zaman kaymadı.",
+        "c": "Present Perfect.",
+        "d": "Gelecek zaman."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-02",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I am hungry,” she said. → She said she ___ hungry.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "am → was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Zaman geri kayar."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-03",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Yorgun olduğunu söyledi.",
+      "answer": [
+        "He",
+        "said",
+        "he",
+        "was",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "is",
+        "tells"
+      ],
+      "explanation": "said + he was",
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion",
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-reported-speech-04",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She said she will come.",
+      "errorSpan": "will come",
+      "answers": [
+        "She said she would come."
+      ],
+      "explanation": "will → would.",
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-05",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Bankada çalıştığını söyledi.",
+      "hint": "çalışmak: work",
+      "answers": [
+        "He said he worked in a bank.",
+        "She said she worked in a bank.",
+        "He said that he worked in a bank.",
+        "She said that she worked in a bank."
+      ],
+      "targetStructure": "worked",
+      "explanation": "Present → Past.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He said he works in a bank.",
+          "explanation": "Zaman kayar."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-06",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I can swim,” he said. → He said he ___ swim.",
+      "options": [
+        {
+          "id": "a",
+          "text": "could"
+        },
+        {
+          "id": "b",
+          "text": "can"
+        },
+        {
+          "id": "c",
+          "text": "would"
+        },
+        {
+          "id": "d",
+          "text": "can't"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "can → could.",
+      "optionExplanations": {
+        "b": "Zaman kaymadı.",
+        "c": "Anlamı değişir.",
+        "d": "Olumsuz yapar."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-07",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I will call you,” she said. → She said she ___ call me.",
+      "options": [
+        {
+          "id": "a",
+          "text": "would"
+        },
+        {
+          "id": "b",
+          "text": "will"
+        },
+        {
+          "id": "c",
+          "text": "can"
+        },
+        {
+          "id": "d",
+          "text": "did"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "will → would.",
+      "optionExplanations": {
+        "b": "Zaman kaymadı.",
+        "c": "Anlamı değişir.",
+        "d": "Did + V1."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-08",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I must go,” he said. → He said he ___ go.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had to"
+        },
+        {
+          "id": "b",
+          "text": "must"
+        },
+        {
+          "id": "c",
+          "text": "has to"
+        },
+        {
+          "id": "d",
+          "text": "will"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "must → had to.",
+      "optionExplanations": {
+        "b": "Zaman kaymadı.",
+        "c": "Şimdiki zaman.",
+        "d": "Anlam değişir."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-09",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I have finished,” she said. → She said she ___ finished.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "was"
+        },
+        {
+          "id": "d",
+          "text": "would"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "have → had.",
+      "optionExplanations": {
+        "b": "Şimdiki zaman.",
+        "c": "Be fiili.",
+        "d": "Would finished olmaz."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-10",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "“I saw him,” he said. → He said he ___ him.",
+      "options": [
+        {
+          "id": "a",
+          "text": "had seen"
+        },
+        {
+          "id": "b",
+          "text": "saw"
+        },
+        {
+          "id": "c",
+          "text": "sees"
+        },
+        {
+          "id": "d",
+          "text": "has seen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past Simple → Past Perfect.",
+      "optionExplanations": {
+        "b": "Zaman kaymadı.",
+        "c": "Şimdiki zaman.",
+        "d": "Present Perfect."
+      },
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-11",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I'm working,” he said. → He said he ___ working.",
+      "answers": [
+        "was"
+      ],
+      "explanation": "am → was.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "is",
+          "explanation": "Geri kayar."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-12",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I will help,” she said. → She said she ___ help.",
+      "answers": [
+        "would"
+      ],
+      "explanation": "will → would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "will",
+          "explanation": "Geri kayar."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-13",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I can drive,” he said. → He said he ___ drive.",
+      "answers": [
+        "could"
+      ],
+      "explanation": "can → could.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "can",
+          "explanation": "Geri kayar."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-14",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I have eaten,” she said. → She said she ___ eaten.",
+      "answers": [
+        "had"
+      ],
+      "explanation": "have → had.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Past Perfect gerekir."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-15",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "“I must leave,” he said. → He said he ___ to leave.",
+      "answers": [
+        "had"
+      ],
+      "explanation": "must → had to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "has",
+          "explanation": "Geçmiş: had to."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-16",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“I'm busy now,” he said. → He said he was busy ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "then"
+        },
+        {
+          "id": "b",
+          "text": "now"
+        },
+        {
+          "id": "c",
+          "text": "here"
+        },
+        {
+          "id": "d",
+          "text": "today"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "now → then.",
+      "optionExplanations": {
+        "b": "Değişmeli.",
+        "c": "Yer ifadesi.",
+        "d": "that day olmalı."
+      },
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-17",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“I'll come tomorrow,” she said. → She said she would come ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the next day"
+        },
+        {
+          "id": "b",
+          "text": "tomorrow"
+        },
+        {
+          "id": "c",
+          "text": "yesterday"
+        },
+        {
+          "id": "d",
+          "text": "the day before"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "tomorrow → the next day.",
+      "optionExplanations": {
+        "b": "Değişmeli.",
+        "c": "Zıt anlam.",
+        "d": "Zıt anlam."
+      },
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-18",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“I met her yesterday,” he said. → He said he had met her ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "the day before"
+        },
+        {
+          "id": "b",
+          "text": "tomorrow"
+        },
+        {
+          "id": "c",
+          "text": "the next day"
+        },
+        {
+          "id": "d",
+          "text": "today"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "yesterday → the day before.",
+      "optionExplanations": {
+        "b": "Zıt anlam.",
+        "c": "Zıt anlam.",
+        "d": "Değişmeli."
+      },
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-19",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“I live here,” she said. → She said she lived ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "there"
+        },
+        {
+          "id": "b",
+          "text": "here"
+        },
+        {
+          "id": "c",
+          "text": "now"
+        },
+        {
+          "id": "d",
+          "text": "then"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "here → there.",
+      "optionExplanations": {
+        "b": "Değişmeli.",
+        "c": "Zaman ifadesi.",
+        "d": "Zaman ifadesi."
+      },
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-20",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“I like this book,” he said. → He said he liked ___ book.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "this"
+        },
+        {
+          "id": "c",
+          "text": "these"
+        },
+        {
+          "id": "d",
+          "text": "those"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "this → that.",
+      "optionExplanations": {
+        "b": "Değişmeli.",
+        "c": "Çoğul.",
+        "d": "Çoğul."
+      },
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-21",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "“My bag is red,” she said. → She said ___ bag was red.",
+      "options": [
+        {
+          "id": "a",
+          "text": "her"
+        },
+        {
+          "id": "b",
+          "text": "my"
+        },
+        {
+          "id": "c",
+          "text": "his"
+        },
+        {
+          "id": "d",
+          "text": "your"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "my → her.",
+      "optionExplanations": {
+        "b": "Değişmeli.",
+        "c": "Erkek.",
+        "d": "Yanlış kişi."
+      },
+      "tags": [
+        "reported-speech",
+        "pron"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-22",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“I'm leaving today,” she said. → She said she was leaving ___ day.",
+      "answers": [
+        "that"
+      ],
+      "explanation": "today → that day.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "this",
+          "explanation": "this → that."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-23",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“I saw her last week,” he said. → He said he had seen her the week ___.",
+      "answers": [
+        "before"
+      ],
+      "explanation": "last week → the week before.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "after",
+          "explanation": "Zıt anlam."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-24",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“I'll go next year,” she said. → She said she would go the ___ year.",
+      "answers": [
+        "following",
+        "next"
+      ],
+      "explanation": "next year → the following year.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "last",
+          "explanation": "Zıt anlam."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-25",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“I started two years ago,” he said. → He said he had started two years ___.",
+      "answers": [
+        "before"
+      ],
+      "explanation": "ago → before.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "ago",
+          "explanation": "Değişmeli."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-26",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“I love you,” he said to me. → He said he loved ___.",
+      "answers": [
+        "me"
+      ],
+      "explanation": "you → me.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "you",
+          "explanation": "Zamir değişir."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "pron"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-27",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "“We are ready,” they said. → They said ___ were ready.",
+      "answers": [
+        "they"
+      ],
+      "explanation": "we → they.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "we",
+          "explanation": "Zamir değişir."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "pron"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-28",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He said he works in a bank. (geçmişte aktarım)",
+      "errorSpan": "works",
+      "answers": [
+        "He said he worked in a bank."
+      ],
+      "explanation": "Zaman geri kayar.",
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-29",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She said she would come tomorrow. (ertesi gün)",
+      "errorSpan": "tomorrow",
+      "answers": [
+        "She said she would come the next day."
+      ],
+      "explanation": "tomorrow → the next day.",
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-30",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He said he must go.",
+      "errorSpan": "must go",
+      "answers": [
+        "He said he had to go."
+      ],
+      "explanation": "must → had to.",
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-31",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She said me that she was ill.",
+      "errorSpan": "said me",
+      "answers": [
+        "She told me that she was ill.",
+        "She said that she was ill."
+      ],
+      "explanation": "Say'den sonra kişi gelmez.",
+      "tags": [
+        "reported-speech",
+        "saytell"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-32",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He told that he was tired.",
+      "errorSpan": "told that",
+      "answers": [
+        "He told me that he was tired.",
+        "He said that he was tired."
+      ],
+      "explanation": "Tell + kişi.",
+      "tags": [
+        "reported-speech",
+        "saytell"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-33",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Ertesi gün geleceğini söyledi.",
+      "answer": [
+        "She",
+        "said",
+        "she",
+        "would",
+        "come",
+        "the",
+        "next",
+        "day"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "will",
+        "tomorrow"
+      ],
+      "explanation": "tomorrow → the next day",
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-34",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Onu bir gün önce gördüğünü söyledi.",
+      "answer": [
+        "He",
+        "said",
+        "he",
+        "had",
+        "seen",
+        "him",
+        "the",
+        "day",
+        "before"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "saw",
+        "yesterday"
+      ],
+      "explanation": "yesterday → the day before",
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-35",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Bana yorgun olduğunu söyledi.",
+      "answer": [
+        "He",
+        "told",
+        "me",
+        "that",
+        "he",
+        "was",
+        "tired"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "said",
+        "is"
+      ],
+      "explanation": "tell + kişi",
+      "tags": [
+        "reported-speech",
+        "saytell"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-36",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Beni arayacağını söyledi.",
+      "hint": "aramak: call",
+      "answers": [
+        "She said she would call me.",
+        "He said he would call me.",
+        "She said that she would call me.",
+        "He said that he would call me."
+      ],
+      "targetStructure": "would call me",
+      "explanation": "will → would.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She said she will call me.",
+          "explanation": "will → would."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-37",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Gitmesi gerektiğini söyledi.",
+      "hint": "gitmek: go",
+      "answers": [
+        "He said he had to go.",
+        "She said she had to go.",
+        "He said that he had to go.",
+        "She said that she had to go."
+      ],
+      "targetStructure": "had to",
+      "explanation": "must → had to.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He said he must go.",
+          "explanation": "must → had to."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "modal_usage"
+      ]
+    },
+    {
+      "id": "q-reported-speech-38",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "O gün ayrılacağını söyledi.",
+      "hint": "ayrılmak: leave",
+      "answers": [
+        "She said she was leaving that day.",
+        "He said he was leaving that day.",
+        "She said she would leave that day.",
+        "He said he would leave that day."
+      ],
+      "targetStructure": "that day",
+      "explanation": "today → that day.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She said she was leaving today.",
+          "explanation": "today → that day."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "time"
+      ],
+      "errorTags": [
+        "time_expression"
+      ]
+    },
+    {
+      "id": "q-reported-speech-39",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Open the window,” she said. → She told me ___ the window.",
+      "options": [
+        {
+          "id": "a",
+          "text": "to open"
+        },
+        {
+          "id": "b",
+          "text": "open"
+        },
+        {
+          "id": "c",
+          "text": "opening"
+        },
+        {
+          "id": "d",
+          "text": "that open"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "tell + kişi + to + V1.",
+      "optionExplanations": {
+        "b": "To eksik.",
+        "c": "Gerund.",
+        "d": "Yanlış yapı."
+      },
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-40",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "“Don't touch it,” he said. → He told me ___ it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "not to touch"
+        },
+        {
+          "id": "b",
+          "text": "don't touch"
+        },
+        {
+          "id": "c",
+          "text": "to not touching"
+        },
+        {
+          "id": "d",
+          "text": "no touch"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "not to + V1.",
+      "optionExplanations": {
+        "b": "Emir korunmaz.",
+        "c": "Yapı bozuk.",
+        "d": "Yapı bozuk."
+      },
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-reported-speech-41",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangi cümlede zaman kaydırmak zorunlu değildir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She said the Sun rises in the east."
+        },
+        {
+          "id": "b",
+          "text": "She said she was tired."
+        },
+        {
+          "id": "c",
+          "text": "She said she had left."
+        },
+        {
+          "id": "d",
+          "text": "She said she would come."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Genel doğrular.",
+      "optionExplanations": {
+        "b": "Kişisel durum.",
+        "c": "Geçmiş olay.",
+        "d": "Gelecek plan."
+      },
+      "tags": [
+        "reported-speech",
+        "still"
+      ],
+      "errorTags": [
+        "tense_confusion"
+      ]
+    },
+    {
+      "id": "q-reported-speech-42",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "“Close the door,” he said. → He told me ___ close the door.",
+      "answers": [
+        "to"
+      ],
+      "explanation": "tell + kişi + to + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "that",
+          "explanation": "Emir: to + V1."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-43",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "“Don't be late,” she said. → She told me ___ to be late.",
+      "answers": [
+        "not"
+      ],
+      "explanation": "not to + V1.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "don't",
+          "explanation": "Emir korunmaz."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-reported-speech-44",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "“I don't know,” he said. → He said he ___ know.",
+      "answers": [
+        "didn't",
+        "did not"
+      ],
+      "explanation": "don't → didn't.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "doesn't",
+          "explanation": "Geçmiş: didn't."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "backshift"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-reported-speech-45",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Pencereyi açmamı söyledi.",
+      "hint": "açmak: open",
+      "answers": [
+        "She told me to open the window.",
+        "He told me to open the window."
+      ],
+      "targetStructure": "told me to open",
+      "explanation": "Emir aktarımı.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She said me to open the window.",
+          "explanation": "Tell + kişi + to."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-46",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Ona dokunmamamı söyledi.",
+      "hint": "dokunmak: touch",
+      "answers": [
+        "He told me not to touch it.",
+        "She told me not to touch it."
+      ],
+      "targetStructure": "not to touch",
+      "explanation": "Olumsuz emir.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "He told me don't touch it.",
+          "explanation": "not to + V1."
+        }
+      ],
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-reported-speech-47",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He told me open the window.",
+      "errorSpan": "told me open",
+      "answers": [
+        "He told me to open the window."
+      ],
+      "explanation": "To eksik.",
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-reported-speech-48",
+      "lessonId": "b1-reported-speech",
+      "levelId": "b1",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "He told me to not touch it.",
+      "errorSpan": "to not",
+      "answers": [
+        "He told me not to touch it."
+      ],
+      "explanation": "Standart: not to.",
+      "tags": [
+        "reported-speech",
+        "imp"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-reported-speech",
+    "title": "Reported Speech: Konu sonu sınavı",
+    "description": "Zaman kayması ve ifade değişimi.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-reported-speech-exam-01",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "“I play tennis,” she said. → She said she ___ tennis.",
+        "options": [
+          {
+            "id": "a",
+            "text": "played"
+          },
+          {
+            "id": "b",
+            "text": "plays"
+          },
+          {
+            "id": "c",
+            "text": "will play"
+          },
+          {
+            "id": "d",
+            "text": "has played"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Present → Past.",
+        "optionExplanations": {
+          "b": "Kaymadı.",
+          "c": "Gelecek.",
+          "d": "Perfect."
+        },
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-02",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "“I'm studying,” he said. → He said he ___ studying.",
+        "answers": [
+          "was"
+        ],
+        "explanation": "am → was.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "is",
+            "explanation": "Geri kayar."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-03",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Yardım edeceğini söyledi.",
+        "answer": [
+          "She",
+          "said",
+          "she",
+          "would",
+          "help"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "will",
+          "helps"
+        ],
+        "explanation": "will → would",
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-04",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He said he can swim.",
+        "errorSpan": "can swim",
+        "answers": [
+          "He said he could swim."
+        ],
+        "explanation": "can → could.",
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-05",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bitirdiğini söyledi.",
+        "hint": "bitirmek: finish",
+        "answers": [
+          "He said he had finished.",
+          "She said she had finished.",
+          "He said that he had finished.",
+          "She said that she had finished."
+        ],
+        "targetStructure": "had finished",
+        "explanation": "Perfect → Past Perfect.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He said he has finished.",
+            "explanation": "Geri kayar."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "tense_confusion"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-06",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "“I'll see you tomorrow,” he said. → He said he would see me ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "the next day"
+          },
+          {
+            "id": "b",
+            "text": "tomorrow"
+          },
+          {
+            "id": "c",
+            "text": "yesterday"
+          },
+          {
+            "id": "d",
+            "text": "the day before"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "tomorrow → the next day.",
+        "optionExplanations": {
+          "b": "Değişmeli.",
+          "c": "Zıt.",
+          "d": "Zıt."
+        },
+        "tags": [
+          "reported-speech",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-07",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "“I live here,” she said. → She said she lived ___.",
+        "answers": [
+          "there"
+        ],
+        "explanation": "here → there.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "here",
+            "explanation": "Değişir."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "time"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-08",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Onunla geçen hafta tanıştığını söyledi.",
+        "answer": [
+          "He",
+          "said",
+          "he",
+          "had",
+          "met",
+          "her",
+          "the",
+          "week",
+          "before"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "last",
+          "meets"
+        ],
+        "explanation": "last week → the week before",
+        "tags": [
+          "reported-speech",
+          "time"
+        ],
+        "errorTags": [
+          "time_expression"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-09",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She said me she was busy.",
+        "errorSpan": "said me",
+        "answers": [
+          "She told me she was busy.",
+          "She said she was busy."
+        ],
+        "explanation": "Say + kişi yok.",
+        "tags": [
+          "reported-speech",
+          "saytell"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-10",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Çalışması gerektiğini söyledi.",
+        "hint": "çalışmak: work",
+        "answers": [
+          "He said he had to work.",
+          "She said she had to work.",
+          "He said that he had to work.",
+          "She said that she had to work."
+        ],
+        "targetStructure": "had to",
+        "explanation": "must → had to.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "He said he must work.",
+            "explanation": "Geri kayar."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "modal_usage"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-11",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "“My car is old,” he said. → He said ___ car was old.",
+        "options": [
+          {
+            "id": "a",
+            "text": "his"
+          },
+          {
+            "id": "b",
+            "text": "my"
+          },
+          {
+            "id": "c",
+            "text": "your"
+          },
+          {
+            "id": "d",
+            "text": "her"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "my → his.",
+        "optionExplanations": {
+          "b": "Değişmeli.",
+          "c": "Yanlış kişi.",
+          "d": "Kadın."
+        },
+        "tags": [
+          "reported-speech",
+          "pron"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-12",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "“Wait here,” she said. → She told me ___ wait there.",
+        "answers": [
+          "to"
+        ],
+        "explanation": "tell + kişi + to + V1.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "that",
+            "explanation": "Emir: to + V1."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "imp"
+        ],
+        "errorTags": [
+          "verb_form"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-13",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "She told me don't wait.",
+        "errorSpan": "don't wait",
+        "answers": [
+          "She told me not to wait."
+        ],
+        "explanation": "not to + V1.",
+        "tags": [
+          "reported-speech",
+          "imp"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-14",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "“Don't run,” he said. → He told me ___.",
+        "options": [
+          {
+            "id": "a",
+            "text": "not to run"
+          },
+          {
+            "id": "b",
+            "text": "don't run"
+          },
+          {
+            "id": "c",
+            "text": "no to run"
+          },
+          {
+            "id": "d",
+            "text": "to not ran"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "not to + V1.",
+        "optionExplanations": {
+          "b": "Emir korunmaz.",
+          "c": "Yapı bozuk.",
+          "d": "Yapı bozuk."
+        },
+        "tags": [
+          "reported-speech",
+          "imp"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-15",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "“I don't like it,” she said. → She said she ___ like it.",
+        "answers": [
+          "didn't",
+          "did not"
+        ],
+        "explanation": "don't → didn't.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "doesn't",
+            "explanation": "Geçmiş: didn't."
+          }
+        ],
+        "tags": [
+          "reported-speech",
+          "backshift"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-reported-speech-exam-16",
+        "lessonId": "b1-reported-speech",
+        "levelId": "b1",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Ona dokunmamamı söyledi.",
+        "answer": [
+          "She",
+          "told",
+          "me",
+          "not",
+          "to",
+          "touch",
+          "it"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "said",
+          "don't"
+        ],
+        "explanation": "told me not to",
+        "tags": [
+          "reported-speech",
+          "imp"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      }
+    ]
+  }
+}
