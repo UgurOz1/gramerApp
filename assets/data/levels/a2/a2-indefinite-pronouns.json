@@ -1,0 +1,2325 @@
+{
+  "schemaVersion": 1,
+  "id": "a2-indefinite-pronouns",
+  "levelId": "a2",
+  "title": "Indefinite Pronouns",
+  "objectives": [
+    "Some-, any-, no- ve every- zamirlerini doğru kullanmak",
+    "Some- (olumlu, teklif) ve any- (soru, olumsuz) ayrımını yapmak",
+    "No- zamirleriyle çift olumsuzluktan kaçınmak",
+    "Zamirden sonra sıfat ya da to + fiil getirmek"
+  ],
+  "sections": [
+    {
+      "id": "intro",
+      "type": "intro",
+      "title": "Belirsiz zamirler",
+      "paragraphs": [
+        "Belirsiz zamirler, kim ya da ne olduğunu belirtmeden kişi, şey ve yerlerden söz eder: biri, bir şey, hiçbir yer, herkes. Some-, any-, no- ve every- ön eklerinin one / body / thing / where ile birleşmesiyle yapılır.",
+        "Some- ve any- ayrımı some / any ile aynıdır: some- olumlu cümle ve teklifte, any- soru ve olumsuzda kullanılır. No- ve every- ise kendi anlamlarını taşır."
+      ]
+    },
+    {
+      "id": "table",
+      "type": "forms",
+      "title": "Tablo",
+      "forms": [
+        {
+          "label": "some-",
+          "formula": "someone / somebody,  something,  somewhere",
+          "exampleIds": [
+            "ex-indefinite-01",
+            "ex-indefinite-02",
+            "ex-indefinite-03",
+            "ex-indefinite-04"
+          ],
+          "note": "Olumlu cümle: biri, bir şey, bir yer."
+        },
+        {
+          "label": "any-",
+          "formula": "anyone / anybody,  anything,  anywhere",
+          "exampleIds": [
+            "ex-indefinite-07",
+            "ex-indefinite-09",
+            "ex-indefinite-10"
+          ],
+          "note": "Soru ve olumsuz: kimse, bir şey, bir yer."
+        },
+        {
+          "label": "no-",
+          "formula": "no one / nobody,  nothing,  nowhere",
+          "exampleIds": [
+            "ex-indefinite-15",
+            "ex-indefinite-16",
+            "ex-indefinite-17"
+          ],
+          "note": "Olumsuz anlam: hiç kimse, hiçbir şey."
+        },
+        {
+          "label": "every-",
+          "formula": "everyone / everybody,  everything,  everywhere",
+          "exampleIds": [
+            "ex-indefinite-20",
+            "ex-indefinite-22",
+            "ex-indefinite-23"
+          ],
+          "note": "Herkes, her şey, her yer."
+        }
+      ]
+    },
+    {
+      "id": "someany",
+      "type": "rule",
+      "title": "Some- ve any-",
+      "paragraphs": [
+        "Olumlu cümlede some-, soru ve olumsuzda any- kullanılır. Teklif ve rica gibi olumlu cevap beklenen sorularda yine some- gelir."
+      ],
+      "formulas": [
+        {
+          "label": "Olumlu",
+          "pattern": "Someone / something / somewhere …",
+          "exampleIds": [
+            "ex-indefinite-01",
+            "ex-indefinite-03",
+            "ex-indefinite-04"
+          ]
+        },
+        {
+          "label": "Soru",
+          "pattern": "Is there anyone / anything / anywhere …?",
+          "exampleIds": [
+            "ex-indefinite-07",
+            "ex-indefinite-09",
+            "ex-indefinite-10",
+            "ex-indefinite-27"
+          ]
+        },
+        {
+          "label": "Olumsuz",
+          "pattern": "not … anyone / anything / anywhere",
+          "exampleIds": [
+            "ex-indefinite-11",
+            "ex-indefinite-12",
+            "ex-indefinite-13",
+            "ex-indefinite-14"
+          ]
+        },
+        {
+          "label": "Teklif / rica",
+          "pattern": "Would you like something …?   Can I have something …?",
+          "exampleIds": [
+            "ex-indefinite-05",
+            "ex-indefinite-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "no",
+      "type": "rule",
+      "title": "No- zamirleri",
+      "paragraphs": [
+        "No- zamirleri zaten olumsuzdur; bu yüzden olumlu fiille kullanılır ve don’t / doesn’t ile birlikte gelmez. I don’t know nobody ✗. Doğrusu: I know nobody. ya da I don’t know anybody."
+      ],
+      "formulas": [
+        {
+          "label": "No- + olumlu fiil",
+          "pattern": "Nobody / nothing / nowhere + olumlu fiil",
+          "exampleIds": [
+            "ex-indefinite-15",
+            "ex-indefinite-16",
+            "ex-indefinite-17",
+            "ex-indefinite-18",
+            "ex-indefinite-26"
+          ]
+        },
+        {
+          "label": "Eşdeğer",
+          "pattern": "I know nobody. = I don’t know anybody.",
+          "exampleIds": [
+            "ex-indefinite-19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "every",
+      "type": "rule",
+      "title": "Every- zamirleri",
+      "paragraphs": [
+        "Everyone ve everybody “herkes”, everything “her şey”, everywhere “her yer” demektir. Çoğul anlam taşısalar da tekil fiil alır: Everyone is here."
+      ],
+      "formulas": [
+        {
+          "label": "Tekil fiil",
+          "pattern": "Everyone / everything / someone / nobody + tekil fiil",
+          "exampleIds": [
+            "ex-indefinite-20",
+            "ex-indefinite-21",
+            "ex-indefinite-22",
+            "ex-indefinite-24",
+            "ex-indefinite-25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adj",
+      "type": "rule",
+      "title": "Sıfat ve to + fiil",
+      "paragraphs": [
+        "Sıfat bu zamirlerden sonra gelir: something good, somewhere warm. İşlevi belirtmek için to + fiil de eklenebilir: something to eat."
+      ],
+      "formulas": [
+        {
+          "label": "Zamir + sıfat",
+          "pattern": "something + sıfat   →   something good",
+          "exampleIds": [
+            "ex-indefinite-28"
+          ]
+        },
+        {
+          "label": "Zamir + to + fiil",
+          "pattern": "something + to + fiil   →   something to drink",
+          "exampleIds": [
+            "ex-indefinite-05",
+            "ex-indefinite-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "examples-1",
+      "type": "examples",
+      "title": "Örnekler: some- ve any-",
+      "exampleIds": [
+        "ex-indefinite-01",
+        "ex-indefinite-02",
+        "ex-indefinite-03",
+        "ex-indefinite-04",
+        "ex-indefinite-05",
+        "ex-indefinite-06",
+        "ex-indefinite-07",
+        "ex-indefinite-08",
+        "ex-indefinite-09",
+        "ex-indefinite-10",
+        "ex-indefinite-11",
+        "ex-indefinite-12",
+        "ex-indefinite-13",
+        "ex-indefinite-14",
+        "ex-indefinite-27",
+        "ex-indefinite-28"
+      ]
+    },
+    {
+      "id": "examples-2",
+      "type": "examples",
+      "title": "Örnekler: no- ve every-",
+      "exampleIds": [
+        "ex-indefinite-15",
+        "ex-indefinite-16",
+        "ex-indefinite-17",
+        "ex-indefinite-18",
+        "ex-indefinite-19",
+        "ex-indefinite-20",
+        "ex-indefinite-21",
+        "ex-indefinite-22",
+        "ex-indefinite-23",
+        "ex-indefinite-24",
+        "ex-indefinite-25",
+        "ex-indefinite-26"
+      ]
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "title": "Sık yapılan hatalar",
+      "items": [
+        {
+          "wrong": "I don't know nobody.",
+          "right": "I don't know anybody. / I know nobody.",
+          "explanation": "Çift olumsuz olmaz."
+        },
+        {
+          "wrong": "She didn't say nothing.",
+          "right": "She didn't say anything. / She said nothing.",
+          "explanation": "Çift olumsuz olmaz."
+        },
+        {
+          "wrong": "Is there someone at home?",
+          "right": "Is there anyone at home?",
+          "explanation": "Soruda any- (teklif hariç)."
+        },
+        {
+          "wrong": "I didn't see someone.",
+          "right": "I didn't see anyone.",
+          "explanation": "Olumsuzda any-."
+        },
+        {
+          "wrong": "Everyone are here.",
+          "right": "Everyone is here.",
+          "explanation": "Everyone tekil fiil alır."
+        },
+        {
+          "wrong": "Nobody know the answer.",
+          "right": "Nobody knows the answer.",
+          "explanation": "Nobody tekil fiil alır."
+        },
+        {
+          "wrong": "I have something to eating.",
+          "right": "I have something to eat.",
+          "explanation": "To + yalın fiil."
+        },
+        {
+          "wrong": "I want to go warm somewhere.",
+          "right": "I want to go somewhere warm.",
+          "explanation": "Sıfat zamirden sonra."
+        }
+      ]
+    },
+    {
+      "id": "confusions",
+      "type": "confusions",
+      "title": "Karıştırılan konular",
+      "items": [
+        {
+          "topic": "Some ve any",
+          "body": "Some / any ile some- / any- aynı kuralı izler.",
+          "lessonId": "a1-countable-some-any"
+        },
+        {
+          "topic": "Çift olumsuzluk",
+          "body": "İngilizcede bir cümlede tek olumsuz olur.",
+          "lessonId": "a1-adverbs-frequency"
+        },
+        {
+          "topic": "Miktar sözcükleri",
+          "body": "Everything, a lot of gibi miktar kavramlarıyla ilişkilidir.",
+          "lessonId": "a2-quantifiers"
+        }
+      ]
+    },
+    {
+      "id": "notes-warning",
+      "type": "notes",
+      "tone": "warning",
+      "title": "Dikkat edilecekler",
+      "items": [
+        "Olumlu: some-; soru ve olumsuz: any-; teklif ve rica: some-.",
+        "No- zamirleri olumlu fiille: Nobody knows. (Nobody doesn't know ✗)",
+        "Everyone, nobody, someone, everything tekil fiil alır.",
+        "Sıfat zamirden sonra gelir: something good.",
+        "-one ve -body aynı anlamdadır."
+      ]
+    },
+    {
+      "id": "check",
+      "type": "check",
+      "title": "Kısa anlama kontrolü",
+      "questionIds": [
+        "q-indefinite-01",
+        "q-indefinite-02",
+        "q-indefinite-04"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "id": "ex-indefinite-01",
+      "en": "Someone is at the door.",
+      "tr": "Kapıda biri var.",
+      "highlight": "Someone",
+      "note": "some + one / body / thing / where"
+    },
+    {
+      "id": "ex-indefinite-02",
+      "en": "I saw somebody in the garden.",
+      "tr": "Bahçede birini gördüm.",
+      "highlight": "somebody"
+    },
+    {
+      "id": "ex-indefinite-03",
+      "en": "I have something for you.",
+      "tr": "Senin için bir şeyim var.",
+      "highlight": "something"
+    },
+    {
+      "id": "ex-indefinite-04",
+      "en": "She lives somewhere in London.",
+      "tr": "Londra'da bir yerde yaşıyor.",
+      "highlight": "somewhere"
+    },
+    {
+      "id": "ex-indefinite-05",
+      "en": "Would you like something to drink?",
+      "tr": "İçecek bir şey ister misin?",
+      "highlight": "something",
+      "note": "teklifte some-"
+    },
+    {
+      "id": "ex-indefinite-06",
+      "en": "Can I have something to eat?",
+      "tr": "Yiyecek bir şey alabilir miyim?",
+      "highlight": "something",
+      "note": "rica: some-"
+    },
+    {
+      "id": "ex-indefinite-07",
+      "en": "Is anyone at home?",
+      "tr": "Evde kimse var mı?",
+      "highlight": "anyone",
+      "note": "soru: any-"
+    },
+    {
+      "id": "ex-indefinite-08",
+      "en": "Did you see anybody?",
+      "tr": "Kimseyi gördün mü?",
+      "highlight": "anybody"
+    },
+    {
+      "id": "ex-indefinite-09",
+      "en": "Do you need anything?",
+      "tr": "Bir şeye ihtiyacın var mı?",
+      "highlight": "anything"
+    },
+    {
+      "id": "ex-indefinite-10",
+      "en": "Are you going anywhere this weekend?",
+      "tr": "Bu hafta sonu bir yere gidiyor musun?",
+      "highlight": "anywhere"
+    },
+    {
+      "id": "ex-indefinite-11",
+      "en": "I don't know anyone here.",
+      "tr": "Burada kimseyi tanımıyorum.",
+      "highlight": "anyone",
+      "note": "olumsuz: not … any-"
+    },
+    {
+      "id": "ex-indefinite-12",
+      "en": "She didn't say anything.",
+      "tr": "Hiçbir şey söylemedi.",
+      "highlight": "anything"
+    },
+    {
+      "id": "ex-indefinite-13",
+      "en": "We didn't go anywhere.",
+      "tr": "Hiçbir yere gitmedik.",
+      "highlight": "anywhere"
+    },
+    {
+      "id": "ex-indefinite-14",
+      "en": "I haven't seen anybody.",
+      "tr": "Hiç kimseyi görmedim.",
+      "highlight": "anybody"
+    },
+    {
+      "id": "ex-indefinite-15",
+      "en": "Nobody is at home.",
+      "tr": "Evde kimse yok.",
+      "highlight": "Nobody",
+      "note": "no- = olumsuz anlam"
+    },
+    {
+      "id": "ex-indefinite-16",
+      "en": "There is nothing in the fridge.",
+      "tr": "Buzdolabında hiçbir şey yok.",
+      "highlight": "nothing"
+    },
+    {
+      "id": "ex-indefinite-17",
+      "en": "He went nowhere.",
+      "tr": "Hiçbir yere gitmedi.",
+      "highlight": "nowhere"
+    },
+    {
+      "id": "ex-indefinite-18",
+      "en": "No one knows the answer.",
+      "tr": "Kimse cevabı bilmiyor.",
+      "highlight": "No one"
+    },
+    {
+      "id": "ex-indefinite-19",
+      "en": "I know nobody here. = I don't know anybody here.",
+      "tr": "Burada kimseyi tanımıyorum.",
+      "highlight": "nobody",
+      "note": "no- = not any-"
+    },
+    {
+      "id": "ex-indefinite-20",
+      "en": "Everyone likes her.",
+      "tr": "Herkes onu sever.",
+      "highlight": "Everyone",
+      "note": "every-: herkes / her şey / her yer"
+    },
+    {
+      "id": "ex-indefinite-21",
+      "en": "Everybody is happy.",
+      "tr": "Herkes mutlu.",
+      "highlight": "Everybody"
+    },
+    {
+      "id": "ex-indefinite-22",
+      "en": "Everything is ready.",
+      "tr": "Her şey hazır.",
+      "highlight": "Everything"
+    },
+    {
+      "id": "ex-indefinite-23",
+      "en": "I looked everywhere.",
+      "tr": "Her yere baktım.",
+      "highlight": "everywhere"
+    },
+    {
+      "id": "ex-indefinite-24",
+      "en": "Someone has taken my pen.",
+      "tr": "Biri kalemimi almış.",
+      "highlight": "Someone",
+      "note": "someone + tekil fiil"
+    },
+    {
+      "id": "ex-indefinite-25",
+      "en": "Everyone is here.",
+      "tr": "Herkes burada.",
+      "highlight": "Everyone",
+      "note": "everyone + tekil fiil"
+    },
+    {
+      "id": "ex-indefinite-26",
+      "en": "Nothing is impossible.",
+      "tr": "Hiçbir şey imkânsız değil.",
+      "highlight": "Nothing"
+    },
+    {
+      "id": "ex-indefinite-27",
+      "en": "Is there anything wrong?",
+      "tr": "Bir sorun mu var?",
+      "highlight": "anything"
+    },
+    {
+      "id": "ex-indefinite-28",
+      "en": "I'd like to go somewhere warm.",
+      "tr": "Sıcak bir yere gitmek isterim.",
+      "highlight": "somewhere warm",
+      "note": "zamirden sonra sıfat"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "q-indefinite-01",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "___ is at the door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Someone"
+        },
+        {
+          "id": "b",
+          "text": "Anyone"
+        },
+        {
+          "id": "c",
+          "text": "Nobody are"
+        },
+        {
+          "id": "d",
+          "text": "Everyone are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumlu: someone.",
+      "optionExplanations": {
+        "b": "Any- soru ve olumsuzda.",
+        "c": "Nobody tekil fiil ister.",
+        "d": "Everyone tekil fiil ister."
+      },
+      "tags": [
+        "indefinite",
+        "table"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-02",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "I have ___ for you. (bir şey)",
+      "answers": [
+        "something"
+      ],
+      "explanation": "Olumlu: something.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "anything",
+          "explanation": "Any- soru ve olumsuzda."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-03",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 1,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Kapıda biri var.",
+      "answer": [
+        "Someone",
+        "is",
+        "at",
+        "the",
+        "door"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "Anyone",
+        "are"
+      ],
+      "explanation": "someone + tekil fiil",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-04",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 1,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I don't know nobody.",
+      "errorSpan": "nobody",
+      "answers": [
+        "I don't know anybody.",
+        "I know nobody."
+      ],
+      "explanation": "Çift olumsuz.",
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-05",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 1,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Burada kimseyi tanımıyorum.",
+      "hint": "tanımak: know",
+      "answers": [
+        "I don't know anyone here.",
+        "I don't know anybody here.",
+        "I know nobody here.",
+        "I know no one here."
+      ],
+      "targetStructure": "not … anyone",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I don't know nobody here.",
+          "explanation": "Çift olumsuz."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-06",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "Is there ___ at home?",
+      "options": [
+        {
+          "id": "a",
+          "text": "anyone"
+        },
+        {
+          "id": "b",
+          "text": "someone"
+        },
+        {
+          "id": "c",
+          "text": "nobody"
+        },
+        {
+          "id": "d",
+          "text": "everyone"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Soru: any-.",
+      "optionExplanations": {
+        "b": "Some- olumlu cümlede.",
+        "c": "Nobody olumsuz anlamlıdır.",
+        "d": "Everyone herkes demektir."
+      },
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-07",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "I didn't see ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "anyone"
+        },
+        {
+          "id": "b",
+          "text": "someone"
+        },
+        {
+          "id": "c",
+          "text": "nobody"
+        },
+        {
+          "id": "d",
+          "text": "everyone"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: any-.",
+      "optionExplanations": {
+        "b": "Some- olumlu cümlede.",
+        "c": "Nobody olumsuz anlamlıdır.",
+        "d": "Everyone anlamı bozar."
+      },
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-08",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 1,
+      "prompt": "There is ___ in the fridge. (hiçbir şey)",
+      "options": [
+        {
+          "id": "a",
+          "text": "nothing"
+        },
+        {
+          "id": "b",
+          "text": "anything"
+        },
+        {
+          "id": "c",
+          "text": "something"
+        },
+        {
+          "id": "d",
+          "text": "everything"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nothing.",
+      "optionExplanations": {
+        "b": "Anything soru ve olumsuzda.",
+        "c": "Something bir şey demektir.",
+        "d": "Everything her şey demektir."
+      },
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-09",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "Do you need ___? (bir şey)",
+      "answers": [
+        "anything"
+      ],
+      "explanation": "Soru: any-.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "something",
+          "explanation": "Some- olumlu cümlede."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-10",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "She lives ___ in London. (bir yerde)",
+      "answers": [
+        "somewhere"
+      ],
+      "explanation": "Olumlu: somewhere.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "anywhere",
+          "explanation": "Any- soru ve olumsuzda."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-11",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 1,
+      "prompt": "___ is happy. (herkes)",
+      "answers": [
+        "Everybody",
+        "Everyone"
+      ],
+      "explanation": "Herkes.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Nobody",
+          "explanation": "Anlam bozulur."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-12",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Would you like ___ to drink?",
+      "options": [
+        {
+          "id": "a",
+          "text": "something"
+        },
+        {
+          "id": "b",
+          "text": "anything"
+        },
+        {
+          "id": "c",
+          "text": "nothing"
+        },
+        {
+          "id": "d",
+          "text": "everything"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Teklif: some-.",
+      "optionExplanations": {
+        "b": "Teklifte any- kullanılmaz.",
+        "c": "Nothing olumsuz anlamlıdır.",
+        "d": "Everything anlamı bozar."
+      },
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-13",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't know anyone here."
+        },
+        {
+          "id": "b",
+          "text": "I don't know no one here."
+        },
+        {
+          "id": "c",
+          "text": "I don't know someone here."
+        },
+        {
+          "id": "d",
+          "text": "I don't know everyone nobody here."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: not any-.",
+      "optionExplanations": {
+        "b": "Çift olumsuz.",
+        "c": "Olumsuzda any-.",
+        "d": "Anlamsız."
+      },
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-14",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Everyone is here."
+        },
+        {
+          "id": "b",
+          "text": "Everyone are here."
+        },
+        {
+          "id": "c",
+          "text": "Everyone be here."
+        },
+        {
+          "id": "d",
+          "text": "Everyone were here."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Everyone tekil fiil alır.",
+      "optionExplanations": {
+        "b": "Tekil fiil.",
+        "c": "Biçim yanlış.",
+        "d": "Tekil fiil."
+      },
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-15",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nobody knows the answer."
+        },
+        {
+          "id": "b",
+          "text": "Nobody know the answer."
+        },
+        {
+          "id": "c",
+          "text": "Nobody doesn't know the answer."
+        },
+        {
+          "id": "d",
+          "text": "Nobody not know the answer."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Nobody + tekil olumlu fiil.",
+      "optionExplanations": {
+        "b": "Tekil fiil.",
+        "c": "Çift olumsuz.",
+        "d": "Çift olumsuz."
+      },
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-16",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "I'd like to go ___ warm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "somewhere"
+        },
+        {
+          "id": "b",
+          "text": "anywhere"
+        },
+        {
+          "id": "c",
+          "text": "nowhere"
+        },
+        {
+          "id": "d",
+          "text": "everywhere"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumlu istek: somewhere.",
+      "optionExplanations": {
+        "b": "Any- olumlu istekte kullanılmaz.",
+        "c": "Nowhere olumsuz anlamlıdır.",
+        "d": "Everywhere anlamı bozar."
+      },
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-17",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 2,
+      "prompt": "She didn't say ___.",
+      "options": [
+        {
+          "id": "a",
+          "text": "anything"
+        },
+        {
+          "id": "b",
+          "text": "something"
+        },
+        {
+          "id": "c",
+          "text": "nothing"
+        },
+        {
+          "id": "d",
+          "text": "everything"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Olumsuz: any-.",
+      "optionExplanations": {
+        "b": "Some- olumlu cümlede.",
+        "c": "Çift olumsuz.",
+        "d": "Anlamı bozar."
+      },
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-18",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Is there ___ wrong? (bir şey)",
+      "answers": [
+        "anything"
+      ],
+      "explanation": "Soru: any-.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "something",
+          "explanation": "Some- olumlu cümlede."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-19",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "We didn't go ___. (hiçbir yere)",
+      "answers": [
+        "anywhere"
+      ],
+      "explanation": "Olumsuz: any-.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "somewhere",
+          "explanation": "Some- olumlu cümlede."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-20",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "Are you going ___ this weekend?",
+      "answers": [
+        "anywhere"
+      ],
+      "explanation": "Soru: any-.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "somewhere",
+          "explanation": "Some- olumlu cümlede."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-21",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ is ready. (her şey)",
+      "answers": [
+        "Everything"
+      ],
+      "explanation": "Her şey.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Anything",
+          "explanation": "Anlam bozulur."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-22",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I looked ___. (her yere)",
+      "answers": [
+        "everywhere"
+      ],
+      "explanation": "Her yer.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "nowhere",
+          "explanation": "Anlam bozulur."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-23",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "___ is at home. (kimse)",
+      "answers": [
+        "Nobody",
+        "No one"
+      ],
+      "explanation": "Nobody.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Anybody",
+          "explanation": "Anybody olumsuz cümle gerektirir."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-24",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "He went ___. (hiçbir yere)",
+      "answers": [
+        "nowhere"
+      ],
+      "explanation": "Nowhere.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "anywhere",
+          "explanation": "Any- olumsuz fiil ister."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-25",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 2,
+      "prompt": "I have something ___ eat. (yiyecek)",
+      "answers": [
+        "to"
+      ],
+      "explanation": "Something to eat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "for",
+          "explanation": "To + fiil."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-26",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "She didn't say nothing.",
+      "errorSpan": "nothing",
+      "answers": [
+        "She didn't say anything.",
+        "She said nothing."
+      ],
+      "explanation": "Çift olumsuz.",
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-27",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Is there someone at home?",
+      "errorSpan": "someone",
+      "answers": [
+        "Is there anyone at home?",
+        "Is there anybody at home?"
+      ],
+      "explanation": "Soruda any-.",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-28",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I didn't see someone.",
+      "errorSpan": "someone",
+      "answers": [
+        "I didn't see anyone.",
+        "I didn't see anybody."
+      ],
+      "explanation": "Olumsuzda any-.",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-29",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Everyone are here.",
+      "errorSpan": "are",
+      "answers": [
+        "Everyone is here."
+      ],
+      "explanation": "Tekil fiil.",
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-30",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 2,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "Nobody know the answer.",
+      "errorSpan": "know",
+      "answers": [
+        "Nobody knows the answer."
+      ],
+      "explanation": "Tekil fiil.",
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-31",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Evde kimse var mı?",
+      "answer": [
+        "Is",
+        "there",
+        "anyone",
+        "at",
+        "home"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "someone",
+        "Are"
+      ],
+      "explanation": "Soru: any-",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-32",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "Hiçbir şey söylemedi.",
+      "answer": [
+        "She",
+        "didn't",
+        "say",
+        "anything"
+      ],
+      "endPunctuation": ".",
+      "distractors": [
+        "nothing",
+        "says"
+      ],
+      "explanation": "olumsuz: any-",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-33",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "sentence_building",
+      "difficulty": 2,
+      "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+      "hint": "İçecek bir şey ister misin?",
+      "answer": [
+        "Would",
+        "you",
+        "like",
+        "something",
+        "to",
+        "drink"
+      ],
+      "endPunctuation": "?",
+      "distractors": [
+        "anything",
+        "drinks"
+      ],
+      "explanation": "teklif: some-",
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-34",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Evde kimse var mı?",
+      "hint": "ev: home",
+      "answers": [
+        "Is anyone at home?",
+        "Is anybody at home?",
+        "Is there anyone at home?",
+        "Is there anybody at home?"
+      ],
+      "targetStructure": "soru: any-",
+      "explanation": "Soru.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Is someone at home?",
+          "explanation": "Soruda any-."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "question_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-35",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiçbir şey söylemedi.",
+      "hint": "söylemek: say",
+      "answers": [
+        "She didn't say anything.",
+        "He didn't say anything.",
+        "She said nothing.",
+        "He said nothing."
+      ],
+      "targetStructure": "olumsuz",
+      "explanation": "Çift olumsuz yok.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "She didn't say nothing.",
+          "explanation": "Çift olumsuz."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-36",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 2,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Herkes burada.",
+      "hint": "herkes: everyone",
+      "answers": [
+        "Everyone is here.",
+        "Everybody is here."
+      ],
+      "targetStructure": "everyone + tekil",
+      "explanation": "Tekil fiil.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "Everyone are here.",
+          "explanation": "Tekil fiil."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "every"
+      ],
+      "errorTags": [
+        "subject_verb_agreement"
+      ]
+    },
+    {
+      "id": "q-indefinite-37",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "'I know nobody here.' hangisine eşittir?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't know anybody here."
+        },
+        {
+          "id": "b",
+          "text": "I don't know nobody here."
+        },
+        {
+          "id": "c",
+          "text": "I know anybody here."
+        },
+        {
+          "id": "d",
+          "text": "I don't know somebody here."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No- = not any-.",
+      "optionExplanations": {
+        "b": "Çift olumsuz.",
+        "c": "Olumlu cümlede anlam değişir.",
+        "d": "Olumsuzda any-."
+      },
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-38",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I'd like to go somewhere warm."
+        },
+        {
+          "id": "b",
+          "text": "I'd like to go warm somewhere."
+        },
+        {
+          "id": "c",
+          "text": "I'd like to go somewhere to warm."
+        },
+        {
+          "id": "d",
+          "text": "I'd like to go to somewhere warm."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sıfat zamirden sonra.",
+      "optionExplanations": {
+        "b": "Sıra bozuk.",
+        "c": "To warm yanlış.",
+        "d": "To fazlalık."
+      },
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-indefinite-39",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "prompt": "Hangisi doğrudur?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have something to eat."
+        },
+        {
+          "id": "b",
+          "text": "I have something eating."
+        },
+        {
+          "id": "c",
+          "text": "I have something to eating."
+        },
+        {
+          "id": "d",
+          "text": "I have something for eat."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Something to + fiil.",
+      "optionExplanations": {
+        "b": "To + fiil gerekir.",
+        "c": "To + yalın fiil gerekir.",
+        "d": "For + fiil olmaz."
+      },
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-40",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "Can I have ___ to eat, please? (bir şey)",
+      "answers": [
+        "something"
+      ],
+      "explanation": "Rica: some-.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "anything",
+          "explanation": "Rica cümlesinde some-."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "someany"
+      ],
+      "errorTags": [
+        "pronoun_usage"
+      ]
+    },
+    {
+      "id": "q-indefinite-41",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "fill_blank",
+      "difficulty": 3,
+      "prompt": "I'd like ___ good. (bir şey)",
+      "answers": [
+        "something"
+      ],
+      "explanation": "Something + sıfat.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "good something",
+          "explanation": "Sıfat zamirden sonra."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-indefinite-42",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Sıcak bir yere gitmek isterim.",
+      "hint": "sıcak: warm",
+      "answers": [
+        "I'd like to go somewhere warm.",
+        "I would like to go somewhere warm."
+      ],
+      "targetStructure": "somewhere + sıfat",
+      "explanation": "Sıfat zamirden sonra.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I'd like to go warm somewhere.",
+          "explanation": "Sıfat zamirden sonra."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    },
+    {
+      "id": "q-indefinite-43",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "translation",
+      "difficulty": 3,
+      "prompt": "Türkçe cümleyi İngilizceye çevir.",
+      "source": "Hiç kimseyi görmedim.",
+      "hint": "görmek: see",
+      "answers": [
+        "I haven't seen anybody.",
+        "I haven't seen anyone."
+      ],
+      "targetStructure": "olumsuz: any-",
+      "explanation": "Olumsuz.",
+      "wrongAnswerFeedback": [
+        {
+          "answer": "I haven't seen nobody.",
+          "explanation": "Çift olumsuz."
+        }
+      ],
+      "tags": [
+        "indefinite",
+        "no"
+      ],
+      "errorTags": [
+        "negation"
+      ]
+    },
+    {
+      "id": "q-indefinite-44",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I have something to eating.",
+      "errorSpan": "eating",
+      "answers": [
+        "I have something to eat."
+      ],
+      "explanation": "To + yalın fiil.",
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "verb_form"
+      ]
+    },
+    {
+      "id": "q-indefinite-45",
+      "lessonId": "a2-indefinite-pronouns",
+      "levelId": "a2",
+      "type": "error_correction",
+      "difficulty": 3,
+      "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+      "incorrectSentence": "I want to go warm somewhere.",
+      "errorSpan": "warm somewhere",
+      "answers": [
+        "I want to go somewhere warm."
+      ],
+      "explanation": "Sıfat zamirden sonra.",
+      "tags": [
+        "indefinite",
+        "adj"
+      ],
+      "errorTags": [
+        "word_order"
+      ]
+    }
+  ],
+  "exam": {
+    "id": "exam-indefinite",
+    "title": "Indefinite Pronouns: Konu sonu sınavı",
+    "description": "Someone, anything, nobody, everywhere ve benzerleri.",
+    "passPercent": 70,
+    "questions": [
+      {
+        "id": "q-indefinite-exam-01",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "___ has taken my pen.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Someone"
+          },
+          {
+            "id": "b",
+            "text": "Anyone"
+          },
+          {
+            "id": "c",
+            "text": "Nobody have"
+          },
+          {
+            "id": "d",
+            "text": "Everyone have"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Olumlu: someone.",
+        "optionExplanations": {
+          "b": "Any- olumsuz ve soruda.",
+          "c": "Nobody tekil fiil.",
+          "d": "Everyone tekil fiil."
+        },
+        "tags": [
+          "indefinite",
+          "table"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-02",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 1,
+        "prompt": "Do you want ___? (bir şey)",
+        "answers": [
+          "anything"
+        ],
+        "explanation": "Soru: any-.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "something",
+            "explanation": "Some- olumlu cümlede."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-03",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 1,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Her şey hazır.",
+        "answer": [
+          "Everything",
+          "is",
+          "ready"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "Anything",
+          "are"
+        ],
+        "explanation": "everything + tekil",
+        "tags": [
+          "indefinite",
+          "every"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-04",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 1,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "He didn't see nobody.",
+        "errorSpan": "nobody",
+        "answers": [
+          "He didn't see anybody.",
+          "He didn't see anyone.",
+          "He saw nobody."
+        ],
+        "explanation": "Çift olumsuz.",
+        "tags": [
+          "indefinite",
+          "no"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-05",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 1,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Buzdolabında hiçbir şey yok.",
+        "hint": "buzdolabı: fridge",
+        "answers": [
+          "There is nothing in the fridge.",
+          "There isn't anything in the fridge."
+        ],
+        "targetStructure": "nothing",
+        "explanation": "No- zamiri.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "There isn't nothing in the fridge.",
+            "explanation": "Çift olumsuz."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "no"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-06",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 1,
+        "prompt": "Are you going ___ this weekend?",
+        "options": [
+          {
+            "id": "a",
+            "text": "anywhere"
+          },
+          {
+            "id": "b",
+            "text": "somewhere"
+          },
+          {
+            "id": "c",
+            "text": "nowhere"
+          },
+          {
+            "id": "d",
+            "text": "everywhere"
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Soru: any-.",
+        "optionExplanations": {
+          "b": "Some- olumlu cümlede.",
+          "c": "Nowhere olumsuz anlamlıdır.",
+          "d": "Everywhere anlamı bozar."
+        },
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-07",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "We didn't meet ___ there. (kimse)",
+        "answers": [
+          "anyone",
+          "anybody"
+        ],
+        "explanation": "Olumsuz: any-.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "someone",
+            "explanation": "Some- olumlu cümlede."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-08",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 2,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Kimse cevabı bilmiyor.",
+        "answer": [
+          "Nobody",
+          "knows",
+          "the",
+          "answer"
+        ],
+        "endPunctuation": ".",
+        "distractors": [
+          "know",
+          "Anybody"
+        ],
+        "explanation": "nobody + tekil fiil",
+        "tags": [
+          "indefinite",
+          "no"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-09",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 2,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Is there something in the box?",
+        "errorSpan": "something",
+        "answers": [
+          "Is there anything in the box?"
+        ],
+        "explanation": "Soruda any-.",
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-10",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "translation",
+        "difficulty": 2,
+        "prompt": "Türkçe cümleyi İngilizceye çevir.",
+        "source": "Bu hafta sonu bir yere gidiyor musun?",
+        "hint": "gitmek: go",
+        "answers": [
+          "Are you going anywhere this weekend?"
+        ],
+        "targetStructure": "any-",
+        "explanation": "Soru.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "Are you going somewhere this weekend?",
+            "explanation": "Soruda any-."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-11",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 2,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Everybody is happy."
+          },
+          {
+            "id": "b",
+            "text": "Everybody are happy."
+          },
+          {
+            "id": "c",
+            "text": "Everybody be happy."
+          },
+          {
+            "id": "d",
+            "text": "Everybody were happy."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Everybody tekil.",
+        "optionExplanations": {
+          "b": "Tekil fiil.",
+          "c": "Biçim yanlış.",
+          "d": "Tekil fiil."
+        },
+        "tags": [
+          "indefinite",
+          "every"
+        ],
+        "errorTags": [
+          "subject_verb_agreement"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-12",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 2,
+        "prompt": "Would you like ___ to drink? (bir şey)",
+        "answers": [
+          "something"
+        ],
+        "explanation": "Teklif: some-.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "anything",
+            "explanation": "Teklifte some-."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-13",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "error_correction",
+        "difficulty": 3,
+        "prompt": "Cümledeki hatayı bul ve doğru hâlini yaz.",
+        "incorrectSentence": "Anybody don't know the answer.",
+        "errorSpan": "Anybody don't",
+        "answers": [
+          "Nobody knows the answer."
+        ],
+        "explanation": "Anybody olumsuz cümle ister; nobody kullan.",
+        "tags": [
+          "indefinite",
+          "no"
+        ],
+        "errorTags": [
+          "negation"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-14",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "multiple_choice",
+        "difficulty": 3,
+        "prompt": "Hangisi doğrudur?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I'd like something sweet."
+          },
+          {
+            "id": "b",
+            "text": "I'd like sweet something."
+          },
+          {
+            "id": "c",
+            "text": "I'd like something to sweet."
+          },
+          {
+            "id": "d",
+            "text": "I'd like to something sweet."
+          }
+        ],
+        "correctOptionId": "a",
+        "explanation": "Sıfat zamirden sonra.",
+        "optionExplanations": {
+          "b": "Sıra bozuk.",
+          "c": "To sweet yanlış.",
+          "d": "To fazlalık."
+        },
+        "tags": [
+          "indefinite",
+          "adj"
+        ],
+        "errorTags": [
+          "word_order"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-15",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "fill_blank",
+        "difficulty": 3,
+        "prompt": "There is ___ in the box. (hiçbir şey)",
+        "answers": [
+          "nothing"
+        ],
+        "explanation": "Nothing.",
+        "wrongAnswerFeedback": [
+          {
+            "answer": "anything",
+            "explanation": "Any- olumsuz fiil ister."
+          }
+        ],
+        "tags": [
+          "indefinite",
+          "no"
+        ],
+        "errorTags": [
+          "pronoun_usage"
+        ]
+      },
+      {
+        "id": "q-indefinite-exam-16",
+        "lessonId": "a2-indefinite-pronouns",
+        "levelId": "a2",
+        "type": "sentence_building",
+        "difficulty": 3,
+        "prompt": "Cümleyi kelime parçalarına dokunarak kur.",
+        "hint": "Bir şey yemek ister misin?",
+        "answer": [
+          "Would",
+          "you",
+          "like",
+          "something",
+          "to",
+          "eat"
+        ],
+        "endPunctuation": "?",
+        "distractors": [
+          "anything",
+          "eating"
+        ],
+        "explanation": "teklif: some-",
+        "tags": [
+          "indefinite",
+          "someany"
+        ],
+        "errorTags": [
+          "question_form"
+        ]
+      }
+    ]
+  }
+}
